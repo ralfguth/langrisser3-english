@@ -1,0 +1,101 @@
+Langrisser III dumper [0x2dc61e to 0x2dcfb7]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Elthlead Soldier<$FFFF>
+Village on the Velzeria - Elthlead Border<$FFFF>
+Monsters have been attacking more often lately, haven't they?<$FFFE>
+Sure looks like it.<$FFFC>
+The Lushiris Gate can't hold them back anymore.<$FFFE>
+That's not it.<$FFFE>
+Lady Lushiris's power can be felt even here.<$FFFE>
+Then why isn't it stopping them?<$FFFE>
+Because they've grown stronger!<$FFFE>
+The problem's with the Gate.<$FFFE>
+Impossible!<$FFFC>
+It's the Alhazard!<$FFFE>
+No sword could have that much power!<$FFFE>
+I agree with Tiaris.<$FFFC>
+The problem is the Gate itself......<$FFFE>
+Say, [diehardt's name]!<$FFFC>
+Who do you think is right?<$FFFE>
+Eh!?<$FFFB>
+<$FFFC>
+Ah..er.....<$FFFE>
+How do you respond?<$FFFE>
+Tiaris<$FFFE>
+Liffany<$FFFE>
+Sophia<$FFFE>
+Ask Luna<$FFFE>
+Hmm.<$FFFC>
+I think Tiaris is right.<$FFFC>
+The monsters have grown that much stronger.<$FFFE>
+See?<$FFFC>
+Told you so!<$FFFE>
+Hmm.<$FFFC>
+I think Liffany is right.<$FFFD>
+The Gate isn't at full capacity.<$FFFC>
+That's how the monsters have invaded.<$FFFE>
+That's exactly what I said.<$FFFE>
+Hmm.<$FFFC>
+I think Sophia is right.<$FFFC>
+It's the Alhazard.<$FFFD>
+Its power is beyond imagination.<$FFFE>
+But how do we counter it.....<$FFFE>
+Good question.<$FFFC>
+We must find a way soon.<$FFFE>
+Indeed.<$FFFE>
+Hmm.<$FFFC>
+That's a tough one.....<$FFFD>
+Luna, what do you think?<$FFFE>
+...........<$FFFB>
+<$FFFC>
+The demons found a new way to strike back.<$FFFE>
+....Guess so.<$FFFE>
+...........<$FFFE>
+...........<$FFFE>
+...........<$FFFE>
+Bad news!<$FFFC>
+The Imperial army's attacked the capitol!<$FFFE>
+Phew.<$FFFC>
+No time to waste.<$FFFE>
+The Imperial army's at the capitol!?<$FFFC>
+Gah, at a time like this....!<$FFFE>
+Very well.<$FFFC>
+Let's hurry back.<$FFFE>
+Central Lushiris Gate<$FFFF>
+There've been many monster infestations lately.<$FFFC>
+Do you know why?<$FFFE>
+The Gate is functioning perfectly.<$FFFE>
+I fear it's the Alhazard, Velzeria's demon sword.<$FFFE>
+The demon sword, Alhazard......<$FFFE>
+The Alhazard is the Demon Lord's symbol.<$FFFC>
+It amplifies the power of an evil wielder.<$FFFE>
+Then how can we deal with the Alhazard?<$FFFD>
+Could we halt the monster incursions?<$FFFE>
+We must defeat the Prince of Darkness, Bosel, and seal the Alhazard.<$FFFE>
+Trouble, Sir Kirikaze!<$FFFD>
+The Imperial army has attacked the capitol in force.<$FFFC>
+Please return at once!<$FFFD>
+We've sent a messenger to the mobile division.<$FFFE>
+Those Imperial flunkies!?<$FFFE>
+Lady Jessica, I must hurry off.<$FFFC>
+Farewell!<$FFFE>

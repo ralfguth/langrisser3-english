@@ -1,0 +1,242 @@
+Move<$FFFF>
+Magic<$FFFF>
+Treatment<$FFFF>
+Item<$FFFF>
+Skill<$FFFF>
+Summon<$FFFF>
+Mode<$FFFF>
+Formation<$FFFF>
+Normal<$FFFF>
+High Mobility<$FFFF>
+Defensive<$FFFF>
+Cancel<$FFFF>
+Show Movement Range<$FFFF>
+Equip<$FFFF>
+Use<$FFFF>
+General Planning<$FFFF>
+Commander Support<$FFFF>
+Offensive<$FFFF>
+Defensive<$FFFF>
+Load<$FFFF>
+Save<$FFFF>
+Unit Orientation<$FFFF>
+Config<$FFFF>
+Game Options<$FFFF>
+Execute Turn<$FFFF>
+Message<$FFFF>
+Time per Turn<$FFFF>
+Display Terrain Effect<$FFFF>
+PCM<$FFFF>
+Battle Scenes<$FFFF>
+BGM<$FFFF>
+Slow<$FFFF>
+Normal<$FFFF>
+Fast<$FFFF>
+On<$FFFF>
+Off<$FFFF>
+Stereo<$FFFF>
+Mono<$FFFF>
+Select an item<$FFFF>
+Check targetting range?<$FFFF>
+Price<$FFFF>
+Key Assignment<$FFFF>
+Speed Up Cursor<$FFFF>
+You're sure?<$FFFF>
+Yes<$FFFF>
+No<$FFFF>
+Yes<$FFFF>
+No<$FFFF>
+Decide<$FFFF>
+Scenario<$FFFF>
+Turn<$FFFF>
+Pick target area<$FFFF>
+Cycle Units<$FFFF>
+Doesn't know any magic!<$FFFF>
+Select magic to use<$FFFF>
+Insufficient MP!<$FFFF>
+Performing treatment<$FFFF>
+Pick item<$FFFF>
+Awaiting time to perform this action<$FFFF>
+Choose a summoning incantation<$FFFF>
+Select a new movement mode<$FFFF>
+Choose a formation<$FFFF>
+Main Menu<$FFFF>
+Unit<$FFFF>
+Begin executing actions?<$FFFF>
+Inventory is full<$FFFF>
+Move<$FFFF>
+Summon Monster<$FFFF>
+Strategic Preparations<$FFFF>
+Choose an item to discard<$FFFF>
+Begin battle<$FFFF>
+Troop Officer<$FFFF>
+Inventory<$FFFF>
+Status<$FFFF>
+Equipping<$FFFF>
+Confused and unable to give orders.<$FFFF>
+Sound asleep and unable to give orders.<$FFFF>
+Enemy <$FFFF>
+Shop<$FFFF>
+Silenced<$FFFF>
+Command summoned creature<$FFFF>
+will be purchased.<$FFFF>
+Party Gold<$FFFF>
+Commander Placement<$FFFF>
+Save<$FFFF>
+Load<$FFFF>
+Hire Troops<$FFFF>
+Buy<$FFFF>
+Sell<$FFFF>
+Class Change<$FFFF>
+War Chronicle<$FFFF>
+Internal Backup RAM<$FFFF>
+Cartridge RAM<$FFFF>
+Cancel Treatment<$FFFF>
+No Active Skills acquired!<$FFFF>
+No usable items!<$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
+-<$FFFF>
+<$FFFF>
+/<$FFFF>
+Discarded.<$FFFF>
+This map has forced placement.<$FFFF>
+Commander Placement<$FFFF>
+You don't have enough experience to use that.<$FFFF>
+You have insufficient space.<$FFFF>
+No target<$FFFF>
+Cannot be discarded.<$FFFF>
+will be sold.<$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
+Begin battle?<$FFFF>
+[eots]<$FFFF>
+[eots]<$FFFF>
+Change Troop type<$FFFF>
+Adjust quantity<$FFFF>
+This equipment cannot be used.<$FFFF>
+Return<$FFFF>
+Class Change<$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
+Increase<$FFFF>
+Decrease<$FFFF>
+Enemy Unit<$FFFF>
+NPC Unit<$FFFF>
+NPC <$FFFF>
+Already equipped.<$FFFF>
+Continue without saving?<$FFFF>
+Perspective<$FFFF>
+-<$FFFF>
+Conditions for Victory<$FFFF>
+Conditions for Defeat<$FFFF>
+(AT+20%, DF-40%)<$FFFF>
+Suicidal explosion!<$FFFF>
+ <$FFFF>
+ <$FFFF>
+ <$FFFF>
+ <$FFFF>
+will be the new class.<$FFFF>
+Reselect items and troops<$FFFF>
+Attribute Growth<$FFFF>
+Loading...<$FFFF>
+Thinking...<$FFFF>
+Commander<$FFFF>
+Troop<$FFFF>
+Movement and actions cancelled<$FFFF>
+Move and cancel Defense Mode?<$FFFF>
+may be selected<$FFFF>
+map arrangement<$FFFF>
+Dieharte   <$FFFF>
+Your name is?<$FFFF>
+Finished?<$FFFF>
+Enemies<$FFFF>
+Item Sale<$FFFF>
+Start<$FFFF>
+Options<$FFFF>
+Allies<$FFFF>
+Not all commanders have been placed!<$FFFF>
+Fire<$FFFF>
+Cold<$FFFF>
+Earth<$FFFF>
+Wind<$FFFF>
+Thunder<$FFFF>
+Holy<$FFFF>
+Spirit<$FFFF>
+Magic Resistance<$FFFF>
+Troop Magic Resistance<$FFFF>
+Sell Value<$FFFF>
+Inventory<$FFFF>
+For Sale<$FFFF>
+Equipped By<$FFFF>
+None<$FFFF>
+Weapon<$FFFF>
+Armor<$FFFF>
+Shield<$FFFF>
+Helm<$FFFF>
+Other<$FFFF>
+--<$FFFF>
+Troops Hired<$FFFF>
+Menu<$FFFF>
+Rating<$FFFF>
+Spd<$FFFF>
+AT<$FFFF>
+DF<$FFFF>
+STR<$FFFF>
+INT<$FFFF>
+LV<$FFFF>
+Real<$FFFF>
+ <$FFFF>
+A+<$FFFF>
+D+<$FFFF>
+Troop Recovery Bonus<$FFFF>
+Critical Hit Bonus<$FFFF>
+Extra Attack Bonus<$FFFF>
+Speed Bonus<$FFFF>
+Plains<$FFFF>
+Wasteland<$FFFF>
+Road<$FFFF>
+Forest<$FFFF>
+Slope<$FFFF>
+Mountains<$FFFF>
+Water<$FFFF>
+Ramparts<$FFFF>
+Floor<$FFFF>
+Wall<$FFFF>
+Shrine<$FFFF>
+Throne<$FFFF>
+Bridge<$FFFF>
+Suspension Bridge<$FFFF>
+Sky<$FFFF>
+Cave<$FFFF>
+Lava<$FFFF>
+Graveyard<$FFFF>
+Ship<$FFFF>
+Dry Riverbed<$FFFF>
+Indoors<$FFFF>
+Ship Hull<$FFFF>
+Sandy Beach<$FFFF>
+Street<$FFFF>
+Strange World<$FFFF>
+Destruction<$FFFF>
+High Wall<$FFFF>
+Forbidden Land<$FFFF>
+Pick target to attack<$FFFF>
+No attack<$FFFF>
+Select Active Skill to use<$FFFF>
+Cancel the spell?<$FFFF>
+Troop Deployment<$FFFF>
+ was destroyed!<$FFFF>
+Item may be used!<$FFFF>
+Cancel use of item?<$FFFF>
+Final Level<$FFFF>
+Kills<$FFFF>
+Defeats<$FFFF>
+That name is unusable<$FFFF>
+Gone berserk!<$FFFF>
+Unable to cast spells.<$FFFF>
+Now the monsters at the bottom are withdrawing.<$FFFF>

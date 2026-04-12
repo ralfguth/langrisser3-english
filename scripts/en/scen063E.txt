@@ -1,0 +1,58 @@
+Langrisser III dumper [0x24919a to 0x24975f]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Ferakia<$FFFF>
+Bosel<$FFFF>
+General Bortz<$FFFF>
+Rigüler Commander<$FFFF>
+Velzeria Castle<$FFFF>
+Master Bosel....<$FFFE>
+....What is it, Ferakia?<$FFFE>
+My apologies!<$FFFC>
+An unforeseen intrusion; I couldn't kill the sorceress.<$FFFE>
+Even without the Gate, Lushiris's vile power lingers.<$FFFE>
+Can't be helped, since I didn't grant you full power.<$FFFE>
+But for you to lose, they must've been quite strong.<$FFFE>
+...Shame I couldn't enjoy it fully.<$FFFE>
+No need to brood, plenty of battles await.<$FFFC>
+Hmm, what should our next move be...<$FFFE>
+Plains Near the Northern Gate<$FFFF>
+We're in deep trouble, totally surrounded.<$FFFE>
+General Bortz, what do we do?<$FFFC>
+It's only a matter of time before we're wiped out.<$FFFE>
+There's only one escape route.<$FFFC>
+I'll be the decoy on one end; you break through the other.<$FFFE>
+!!<$FFFE>
+As General, it makes sense I'd stay and fight.<$FFFE>
+If they see me alone, they'll think the main force left and swarm me.<$FFFE>
+With their army on me, you break through the weak side.<$FFFC>
+Use that opening and get out.<$FFFE>
+But, General!<$FFFC>
+If we do that.....!<$FFFE>
+A horseman brought word that Varna's sending reinforcements.<$FFFE>
+Join Varna's army and Raymond won't be able to keep chasing you.<$FFFE>
+General Bortz!<$FFFC>
+Don't risk yourself like that!<$FFFE>
+As things stand, staying with me means you'll all die.<$FFFE>
+You must live and meet Varna!<$FFFC>
+That's an order!<$FFFE>
+....I'll leave the rest to you.<$FFFE>

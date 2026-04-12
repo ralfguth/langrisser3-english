@@ -1,0 +1,57 @@
+Fire<$FFFF>
+Fireball<$FFFF>
+Freeze<$FFFF>
+Blizzard<$FFFF>
+Thunder<$FFFF>
+Thunderstorm<$FFFF>
+Windcutter<$FFFF>
+Tornado<$FFFF>
+Earthquake<$FFFF>
+Meteor<$FFFF>
+Holy Blaze<$FFFF>
+Turn Undead<$FFFF>
+HP Drain<$FFFF>
+MP Drain<$FFFF>
+Blast<$FFFF>
+Sleep<$FFFF>
+Confuse<$FFFF>
+Zone<$FFFF>
+Mute<$FFFF>
+Decline<$FFFF>
+Protection 1<$FFFF>
+Protection 2<$FFFF>
+Attack 1<$FFFF>
+Attack 2<$FFFF>
+Quick<$FFFF>
+Resist<$FFFF>
+Heal 1<$FFFF>
+Heal 2<$FFFF>
+Heal 3<$FFFF>
+Forceheal 1<$FFFF>
+Forceheal 2<$FFFF>
+Forceheal 3<$FFFF>
+Teleport<$FFFF>
+Random<$FFFF>
+High Elf<$FFFF>
+Djinn<$FFFF>
+Efreet<$FFFF>
+Valkyrie<$FFFF>
+Freya<$FFFF>
+Thor<$FFFF>
+Haunt<$FFFF>
+Lilith<$FFFF>
+Baphomet<$FFFF>
+Neptune<$FFFF>
+Dragon Zombie<$FFFF>
+Belzebub<$FFFF>
+Jormungandr<$FFFF>
+Fenrir<$FFFF>
+Vampire Lord<$FFFF>
+Phoenix<$FFFF>
+Goddess of Light<$FFFF>
+Lord of Chaos<$FFFF>
+Hell Master<$FFFF>
+Dragon Lord<$FFFF>
+Builder<$FFFF>
+Magical Cannon<$FFFF>
+Magical Cannon<$FFFF>

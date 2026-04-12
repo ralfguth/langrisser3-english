@@ -1,0 +1,234 @@
+Langrisser III dumper [0x5a620 to 0x5bb3f]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Kah Shind<$FFFF>
+General Emerick<$FFFF>
+Shika Tribe<$FFFF>
+Rigüler Commander<$FFFF>
+-Defeat all enemies<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+Forest of the Shika Tribe<$FFFF>
+From here on, move with great care.<$FFFC>
+We're entering Shika Tribe territory.<$FFFE>
+Hmm?<$FFFC>
+I saw something moving over there!<$FFFE>
+Shikaaa!<$FFFE>
+Iaaaaa!<$FFFE>
+I'm worried about Sophia.<$FFFC>
+We should finish this battle quickly.<$FFFE>
+Fighting without magic is quite a pain...<$FFFE>
+Hmph, seems you're having a hard time.<$FFFE>
+You're Emerick?<$FFFE>
+So that fog suppresses magic.<$FFFC>
+That's unfavorable for us both.<$FFFE>
+First I'll strike down that shaman.<$FFFE>
+This is our hunting ground.<$FFFC>
+Entering we don't permit!<$FFFE>
+Shikashika!<$FFFC>
+Kill them!<$FFFE>
+Lord [diehardt's name].<$FFFC>
+We must force our way through again.<$FFFE>
+It seems so.<$FFFE>
+With fog, Kah Shind invincible!<$FFFC>
+I not defeated by anyone!<$FFFE>
+Then you won't mind me trying!<$FFFE>
+Everyone, keep your guard up.<$FFFC>
+We're dealing with a crafty Shika magic user.<$FFFE>
+A Shaman borrows spirit power to cast magic.<$FFFC>
+It's a different form of magic than mine.<$FFFE>
+So they can cast magic even in this mist?<$FFFE>
+Certainly, since the mist itself is a spirit product.<$FFFE>
+Shoot!<$FFFC>
+So unfair!<$FFFE>
+Go! Go!<$FFFC>
+Push down enemy!<$FFFE>
+Shikaaa!<$FFFE>
+God of Shika.<$FFFC>
+Grant us battle power, Arekashi!<$FFFE>
+Me Kah Shind greatest Shaman!<$FFFC>
+I defeat all enemies alone!<$FFFE>
+You find a stone circle dedicated to the Shika deity.<$FFFD>
+The land in the center bears a strange mark.<$FFFE>
+Excavate at this spot?<$FFFE>
+You found a black and a white box.<$FFFE>
+What do you do?<$FFFE>
+Open the white box<$FFFE>
+Open the black box<$FFFE>
+Open both at once<$FFFE>
+Amulet was obtained<$FFFE>
+When the white box opened, the black one shut tight...<$FFFE>
+Vestments of Darkness were obtained!<$FFFE>
+When the white box opened, the black one shut tight...<$FFFE>
+No matter how hard you try, neither box opens..<$FFFE>
+After a while the boxes vanish without a trace..<$FFFE>
+Foolish!?<$FFFC>
+Such an attitude earns only pain...<$FFFE>
+Now, make the fog vanish!<$FFFE>
+Super shock!<$FFFE>
+Dammit!<$FFFE>
+My swordplay must have gone rusty...<$FFFE>
+UUwaaa!<$FFFC>
+It hurts....!<$FFFE>
+Oh my?<$FFFC>
+My vision is fading...<$FFFE>
+Forgive me...<$FFFE>
+Shi, Shikaaa!<$FFFE>
+The fog has cleared.<$FFFC>
+Now we can battle unhindered!<$FFFC>
+Let the affaire d'honneur commence, [diehardt's name]!<$FFFE>
+It would be my pleasure!<$FFFE>
+The fog has cleared.<$FFFD>
+Once those pests are gone,<$FFFC>
+we conclude our affaire d'honneur, [diehardt's name]!<$FFFE>
+Sure thing!<$FFFE>
+Feel god's anger!<$FFFE>
+Shika!<$FFFE>
+Shi..Kaaa..<$FFFE>
+Shishikaa!<$FFFE>
+Shi....<$FFFE>
+Shika...<$FFFE>
+Shikashika!<$FFFE>
+Shi..ka...<$FFFE>
+Shikashika!<$FFFE>
+Shikaaa!<$FFFC>
+You enemy!<$FFFC>
+Kah Shind is greatest tactician!<$FFFC>
+Not be defeated no matter what!<$FFFE>
+Sealing magic wasn't a bad plan, but doing it with fog was absurd.<$FFFD>
+A true tactician considers the consequences.<$FFFC>
+Thanks to your fog, I could encircle you like this!<$FFFE>
+Shshishikaaa!<$FFFE>
+You think you're worthy of my blade?<$FFFE>
+We won't know unless we try!<$FFFE>
+Then come at me with everything!<$FFFE>
+You came far as a woman; I respect that.<$FFFC>
+But I can make no exception here.<$FFFC>
+Forgive me!<$FFFE>
+If you're that soft, just surrender!<$FFFE>
+You came far as a woman; I respect that.<$FFFC>
+But I can make no exception here.<$FFFC>
+Forgive me!<$FFFE>
+On the battlefield, man or woman is the same!<$FFFE>
+You came far as a woman; I respect that.<$FFFC>
+But I can make no exception here.<$FFFC>
+Forgive me!<$FFFE>
+Have it your way!<$FFFC>
+Don't go easy on me!<$FFFE>
+Let's see the strength of the Remnants of Larcuss.<$FFFC>
+Show me what you've got!<$FFFE>
+You did well!<$FFFC>
+But this injury won't make me flee an unfinished battle!<$FFFE>
+We'll carry on from here.<$FFFC>
+Please step back, General!<$FFFE>
+But...<$FFFE>
+Fighting on is unreasonable; you could lose your life.<$FFFC>
+Please withdraw for now!<$FFFE>
+Thank you, everyone...<$FFFE>
+You did quite well...<$FFFC>
+I can't believe I was defeated like this.<$FFFD>
+Next time we meet I'll use all my power to strike you down.<$FFFC>
+Farewell!<$FFFE>
+We've come so far...<$FFFE>
+Take this!<$FFFE>
+Uuu...!<$FFFE>
+Wh..Whaaat!?<$FFFE>
+No, my spear...<$FFFE>
+I have been bested...<$FFFE>
+Guugugu...<$FFFC>
+And so...I go down...<$FFFE>
+Have at you!<$FFFE>
+I welcome death...<$FFFE>
+Gaargh!<$FFFE>
+Blood, return to my body...<$FFFE>
+How dare you...<$FFFE>
+Now that those nuisances are gone,<$FFFC>
+we can do battle unhindered!<$FFFC>
+Let the affaire d'honneur decide the greater man, [diehardt's name]!<$FFFE>
+It would be my pleasure!<$FFFE>
+So this is where you are, [diehardt's name].<$FFFC>
+I've been searching!<$FFFE>
+Emerick!<$FFFE>
+Let the affaire d'honneur commence, [diehardt's name]!<$FFFE>
+It's over at last!<$FFFE>
+Commendable work, Sir [diehardt's name].<$FFFE>
+Sir [diehardt's name]...<$FFFC>
+You disappoint me...<$FFFD>
+This sluggishness will hurt us in the next battle...<$FFFE>
+We lost some time.<$FFFC>
+General Emerick is but one of the four imperial generals.<$FFFC>
+And yet even he is not to be taken lightly...<$FFFE>
+To think there are three more like him.<$FFFC>
+I wonder if we can win when we face them.<$FFFE>
+What do you reply?<$FFFE>
+I guess we could?<$FFFE>
+If we hold together<$FFFE>
+We'd defeat them with ease<$FFFE>
+I'm not sure.<$FFFC>
+I guess we could win?<$FFFE>
+So you're worried too.<$FFFE>
+I wonder.<$FFFC>
+Still, nothing can defeat us if we hold together!<$FFFE>
+Isn't that right.<$FFFE>
+We'll be fine, it'll be an easy victory!<$FFFE>
+Rejoice, the mighty [diehardt's name] is with us!<$FFFE>
+We have to hurry.<$FFFC>
+Sophia's life is still in danger.<$FFFE>
+Alright, on to the Shika Tribe headquarters!<$FFFE>
+ShikaShika...<$FFFC>
+Great mother of souls, hear your son pray.<$FFFD>
+Come forth fog, seal the power of evil ones.<$FFFC>
+Shikashika Areyashina Shi Desutsu!<$FFFE>
+!?<$FFFC>
+What's with that sudden fog!?<$FFFE>
+Oh my?<$FFFC>
+Something is off, Sir [diehardt's name].<$FFFE>
+What's the matter, Liffany?<$FFFE>
+I can no longer use my magic.<$FFFE>
+It's peculiar.<$FFFC>
+Before we came it worked just fine.<$FFFE>
+Same here.<$FFFC>
+My magical energy drained when this fog came up.<$FFFE>
+AAaa!<$FFFE>
+What's the matter, Tiaris?<$FFFE>
+It's awful, [diehardt's name]!<$FFFC>
+I can no longer use my magic!<$FFFE>
+This is holy fog.<$FFFC>
+Evil power is sealed!<$FFFC>
+Shikaa!<$FFFE>
+The fog has cleared.<$FFFD>
+Now, strike down all remaining enemies!<$FFFC>
+Everyone, press onward!<$FFFE>
+What!?<$FFFC>
+How did this happen out of the blue?<$FFFE>
+Maybe this fog...?<$FFFC>
+Luna, any ideas?<$FFFE>
+This fog isn't natural; it was summoned to seal magic...<$FFFE>
+So this fog affects magic?<$FFFE>
+...Troublesome, our strategy relies heavily on magic.<$FFFE>
+Shikaaa!<$FFFE>
+What?<$FFFC>
+An ambush!?<$FFFE>
+You fools!<$FFFC>
+Me Kah Shind Greatest Shaman!<$FFFD>
+Go!<$FFFC>
+Everyone, you kill!<$FFFE>
+Shikaaaa!<$FFFE>

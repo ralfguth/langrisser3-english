@@ -1,0 +1,75 @@
+Langrisser III dumper [0x237864 to 0x237f6f]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Rigüler commander<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Lushiris Southern Gate<$FFFF>
+Oh Gate...,<$FFFC>
+may Lushiris's light fall upon you.<$FFFC>
+To hold back the demons, let your seal be renewed.<$FFFE>
+It has been done.<$FFFE>
+Let's head for the eastern gate next.<$FFFE>
+The eastern gate's warden is sage Fauvel. Will the Empire strike there?<$FFFE>
+Father can keep the gate safe.<$FFFE>
+We can't let the Empire capture him. Please help us.<$FFFE>
+....<$FFFE>
+What do you say?<$FFFE>
+Let's go everyone!<$FFFE>
+We must help.<$FFFE>
+You can count us in Sophia.<$FFFE>
+We have to release the gate.<$FFFE>
+Say nothing.<$FFFE>
+Alright!<$FFFC>
+Let's go everyone!<$FFFE>
+I understand your worry, Sophia.<$FFFC>
+Don't let it get you down.<$FFFE>
+Thank you for your concern.<$FFFE>
+We'll likely face the Empire.<$FFFC>
+This won't be easy, so stay alert.<$FFFD>
+You too, Sophia.<$FFFE>
+Yes, I shall do my best.<$FFFE>
+We must act quickly,<$FFFC>
+or we'll be too late for the Gate...<$FFFE>
+So this is the stone from the Shika tribe chief.<$FFFD>
+Let's be careful with this...<$FFFC>
+<$fe><$1e><$fe><$1e><$fe><$1e>.<$FFFD>
+We don't know how to use this yet.<$FFFC>
+Yeah, seems hopeless.<$FFFC>
+Want to try focusing your mind as instructed?<$FFFD>
+<$fe><$14><$fe><$14><$fe><$14><$fe><$14><$fe><$14><$FFFE>
+Altemuller's Chamber<$FFFF>
+Your Excellency!<$FFFE>
+Your injury hasn't healed, Excellency.<$FFFD>
+Please rest a bit longer...<$FFFE>
+Don't worry yourself.<$FFFD>
+How could I stay in bed while everyone fights?<$FFFE>
+General Varna ordered me to look after your health.<$FFFE>
+Heh,<$FFFC>
+that's much like Varna.<$FFFE>
+Lord Raymond was just repelled. Isn't this the ideal time to strike Colcia?<$FFFE>
+Yes sir,<$FFFC>
+that is what they say.<$FFFE>
+We can't let this chance go to waste.<$FFFD>
+If we grow idle, our enemies will get the better of us.<$FFFD>
+Prepare for the attack!<$FFFE>
+Yessir!<$FFFD>
+It shall be done.<$FFFE>

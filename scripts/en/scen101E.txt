@@ -1,0 +1,62 @@
+Langrisser III dumper [0x32d514 to 0x32dc27]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Gilbert<$FFFF>
+Town of Neref<$FFFF>
+Gerold...<$FFFE>
+How could Gerold be the Dark Knight...<$FFFD>
+Just what is the meaning of this...?<$FFFE>
+Is he the one you had to leave behind in Laffel?<$FFFE>
+Yeah....<$FFFE>
+So how did he end up as the Dark Knight then?<$FFFE>
+I don't know. Gerold was the one who taught me how to wield a sword.<$FFFD>
+I have only fond memories of him being a kind man, my ideal of what a knight should be like.<$FFFD>
+...He was like an elder brother to me...<$FFFE>
+Seemingly both Gerold and King Wilder have undergone a complete change.<$FFFD>
+This cannot be mere coincidence.<$FFFE>
+....<$FFFE>
+What is the matter, Lady Jessica?<$FFFE>
+...Hmm.<$FFFD>
+It is faint, but the bewitchment of the Demon Family can be felt emitted from his body..<$FFFE>
+Seriously, even this is the work of Velzeria?<$FFFE>
+We have to meet King Wilder to be sure about it.<$FFFD>
+If King Wilder's insanity is due to the influence of Velzeria, we have to try to rid him of it with all means necessary.<$FFFE>
+But, Lady Jessica.<$FFFD>
+If we try to cleanse him with magic wouldn't his life be in danger too?<$FFFE>
+And to think that we already have taken down Bosel and his generals...<$FFFE>
+Even I don't know everything about Velzeria's true power.<$FFFD>
+When worse comes to worse, we may won't be able to save King Wilder or find the cause for his madness.<$FFFE>
+Nonetheless Barrel should be our next destination.<$FFFE>
+...Yes, we're going to Barral.<$FFFD>
+We have to uncover the truth about all of this!<$FFFE>
+Aerial Fortress<$FFFF>
+Hmph, how tiresome.<$FFFE>
+Lord Altemuller.<$FFFC>
+By the looks of it Geier has abandoned his subordinates and fled.<$FFFE>
+Deserting ones subordinates like this.<$FFFC>
+It fits Geier well.<$FFFD>
+But the only thing that matters is that the flying fortress is ours to command now.<$FFFC>
+It seems as if Elthlead was delayed somehow too, how convenient..<$FFFE>
+Emerick make preparations for the assault on the imperial capitol!<$FFFE>
+As you wish.<$FFFE>
+Hehehe...Hahahaha!<$FFFE>
+...<$FFFE>

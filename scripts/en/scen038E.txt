@@ -1,0 +1,306 @@
+Langrisser III dumper [0x19e780 to 0x1a02d7]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jugler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Shopkeeper<$FFFF>
+General Bortz<$FFFF>
+General Varna<$FFFF>
+Waitress<$FFFF>
+General Geier<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Monster<$FFFF>
+-Get tasty food for everyone!<$FFFE>
+-Death of any PC<$FFFC>
+-Fail to reach the restaurant in 20 turns<$FFFE>
+Gyudon's Restaurant<$FFFF>
+Welcome!<$FFFE>
+Phew...<$FFFC>
+I'm pretty worn-out.<$FFFE>
+It's your turn to treat, your Excellency.<$FFFE>
+Just as I planned.<$FFFD>
+Three extra large portions of the usual.<$FFFE>
+Roger, three extra large coming up!<$FFFE>
+When Geier and Emerick find out, they'll regret it.<$FFFE>
+Couldn't be helped.<$FFFD>
+Geier's chasing refugees, Emerick left to assault Baron Torrand.<$FFFE>
+It's been too long since we came here.<$FFFC>
+Let's enjoy this!<$FFFE>
+Say, [diehardt's name]!<$FFFC>
+We're lost because you insisted on leading, right!?<$FFFE>
+W..What!?<$FFFC>
+You're just imagining things.<$FFFE>
+Sir, [diehardt's name].<$FFFC>
+The mansion is actually this way...<$FFFE>
+Not you too, Luna.<$FFFC>
+Really, trust me on this.<$FFFE>
+...My?<$FFFC>
+Is that a nice scent in the air?<$FFFE>
+...*Sniff-sniff*<$fe><$28>.<$FFFC>
+You're right!<$FFFE>
+...what's this doing in a forest!?<$FFFE>
+Welcome, welcome.<$FFFD>
+The finest eastern cuisine awaits.<$FFFD>
+Come right in!<$FFFE>
+Sounds worthwhile.<$FFFC>
+What's your place called?<$FFFE>
+It's "Hidden Gyudon Restaurant".<$FFFE>
+Let's eat, EAT!<$FFFD>
+Hey, [diehardt's name].<$FFFC>
+You don't mind, right?<$FFFE>
+Fine.<$FFFC>
+We've got time to spare.<$FFFE>
+Yay!<$FFFE>
+This forest is haunted by evil spirits and monsters, so be careful.<$FFFE>
+No biggie, we're used to this.<$FFFE>
+Alright everyone, let's go!<$FFFE>
+<$FFFD>
+1CD<$FFFE>
+?<$FFFC>
+?<$FFFE>
+?<$FFFE>
+<$FFFE>
+....<$FFFE>
+<$FFFC>
+!<$FFFE>
+Sir [diehardt's name]!<$FFFD>
+The enemy had extra large portions!<$FFFE>
+What!?<$FFFC>
+Extra large portions, this is bad...<$FFFE>
+[diehardt's name]!<$FFFC>
+They make us look like losers!<$FFFE>
+Damn...<$FFFE>
+I need to think fast.<$FFFC>
+There's only one way to turn the tables...<$FFFD>
+Excuse me, I'd like to order an egg!<$FFFE>
+Egg!<$FFFE>
+Egg!<$FFFE>
+Egg!<$FFFE>
+Egg!<$FFFE>
+Egg!<$FFFE>
+Egg!<$FFFE>
+Seven eggs, here you go.<$FFFE>
+That's it for today, we're closing.<$FFFE>
+Damn!<$FFFC>S
+We failed to get Gyudon...<$FFFE>
+You're a COLOSSAL FAILURE! F.A.I.L.U.R.E!!<$FFFE>
+Gyudon, Gyudon!<$FFFC>
+Ready up tasty food for me, Lalalala!<$FFFE>
+Eastern cuisine; could they mean Yamato Kingdom cooking?<$FFFE>
+What's the Yamato Kingdom?<$FFFE>
+A kingdom far east. A swordsman serving father hails from there.<$FFFE>
+Gyudon comes from that far? Will our tummies be ok?<$FFFE>
+Since he runs a restaurant here, I'm sure so, but let's try it.<$FFFE>
+Guess so.<$FFFE>
+One more portion for General Geier, please.<$FFFE>
+Gladly.<$FFFE>
+You're too kind, your Excellency.<$FFFE>
+Hey.<$FFFE>
+Anything else I can help with?<$FFFE>
+Four more Asazuke and Miso Soup, please.<$FFFE>
+Four mixed pickles and Miso Soup, coming up!<$FFFE>
+Three more Asazuke and Miso Soup, please.<$FFFE>
+Three mixed pickles and Miso Soup, coming up!<$FFFE>
+*Gasp*!<$FFFC>
+The enemy ordered mixed pickles and Miso Soup!<$FFFE>
+What!?<$FFFE>
+Pickles AND Miso Soup!?<$FFFC>
+...They must be preparing the final stroke.<$FFFE>
+It's all on me now. What should I order next?<$FFFD>
+It must outshine everything before it!<$FFFE>
+[diehardt's name]!<$FFFE>
+Sir [diehardt's name]!<$FFFE>
+Make a decision!<$FFFE>
+What will you have?<$FFFE>
+Beefsteak<$FFFE>
+Beefsteak<$FFFE>
+Beefsteak<$FFFE>
+Thank you for choosing us.<$FFFC>
+The restaurant is this way.<$FFFE>
+Thanks.<$FFFD>
+By the way, what's Gyudon?<$FFFE>
+Steamed rice with various fixings.<$FFFE>
+What do you say?<$FFFE>
+How can you serve that<$FFFE>
+Sounds delicious<$FFFE>
+Outrageous, how can you serve that!?<$FFFE>
+T..That's...<$FFFE>
+Ill-mannered savage!<$FFFE>
+Hmm.<$FFFC>
+Sounds like something I'd like to try.<$FFFE>
+Oh, before I forget!<$FFFC>
+We close soon so you'll have to hurry.<$FFFE>
+Good to know!<$FFFC>
+Let's hurry, everyone!<$FFFE>
+Say, Tiaris.<$FFFC>
+Don't you think [diehardt's name] is acting weird today?<$FFFE>
+Nope.<$FFFC>
+That's just how he really is.<$FFFE>
+.<$fe><$32>.<$fe><$32>.<$fe><$32>.<$fe><$32>.<$fe><$32>.<$FFFC>
+I...I see.<$FFFE>
+Welcome!<$FFFC>
+Please take seats on the right.<$FFFE>
+We're saved.<$FFFC>
+I felt like keeling over from hunger.<$FFFE>
+Let's dig in!<$FFFE>
+Sir [diehardt's name], am I seeing things?<$FFFE>
+If you mean the Imperial Commanders, I see them too.<$FFFE>
+Dear Customers.<$FFFC>
+Please take your seats and order soon.<$FFFD>
+It's almost closing time...<$FFFE>
+Oh, of course.<$FFFC>
+Everyone, hurry inside!<$FFFE>
+Everyone's in.<$FFFC>
+Let's get to our seats and order!<$FFFE>
+What can I do for you?<$FFFE>
+How much is the Gyudon?<$FFFE>
+250P each.<$FFFE>
+Who's eating?<$FFFE>
+Only yourself<$FFFE>
+Just the girls<$FFFE>
+The whole crew<$FFFE>
+I'll take one dish.<$FFFE>
+One portion of Gyudon.<$FFFE>
+You're the biggest jerk ever!<$FFFE>
+The epitome of cruelty.<$FFFE>
+Dishes for all the girls in our group.<$FFFE>
+I appreciate the gesture but...<$FFFC>
+It wouldn't feel right while everyone else goes hungry.<$FFFE>
+My thoughts exactly.<$FFFE>
+Same...and don't think we missed you kissing up to the girls.<$FFFE>
+Busted...<$FFFC>
+My motives have been revealed...<$FFFE>
+Please serve dishes for everyone.<$FFFE>
+Thank you kindly.<$FFFC>
+That'll be 1750P.<$FFFE>
+Here you go, 7 dishes of Gyudon.<$FFFE>
+This is awesome!<$FFFE>
+Pierre's strength rises +1<$FFFE>
+Delicious, indeed.<$FFFE>
+Lewin's strength rises +1<$FFFE>
+Oho...<$FFFC>
+So this is famed eastern cuisine.<$FFFE>
+Gilbert's strength rises +1<$FFFE>
+Hmm...<$FFFC>
+This is yummy.<$FFFE>
+Such a peculiar flavor.<$FFFC>
+This alone was worth the detour.<$FFFE>
+Thank you for the treat.<$FFFE>
+Shouldn't we order by now?<$FFFE>
+How impolite!<$FFFC>
+But it certainly suits you.<$FFFE>
+At least I don't look silly stuffing my face!<$FFFC>
+Calm down, don't eat while upset.<$FFFE>
+If I'm such an eyesore, I'll leave!<$FFFE>
+Here it is.<$FFFC>
+The rumored restaurant...<$FFFE>
+Welcome!<$FFFE>
+Hm?<$FFFC>
+If it isn't General Geier!<$FFFD>
+Any results on the war-front?<$FFFE>
+This is no place for such matters.<$FFFD>
+Come in and have a seat.<$FFFE>
+Yessir...<$FFFE>
+Good Gyudon after a hard battle lifts the spirits.<$FFFE>
+Hmph.<$FFFE>
+You notice a small hole in the stone pillar.<$FFFE>
+What do you do?<$FFFE>
+Shoot at it<$FFFE>
+Put your hand in it<$FFFE>
+Just watch it<$FFFE>
+The hole gets buried by falling rocks.<$FFFE>
+You reach in and something bites you.<$FFFD>
+You pull back, but the hole is buried by rocks.<$FFFE>
+After staring, a voice comes from within:<$FFFD>
+"You shall be rewarded for respecting my residence!"<$FFFE>
+<$f6>Guidance<$fc>The strength of your troops attack improved!<$FFFE>
+I'm such an idiot...<$FFFE>
+Gyudon....<$FFFE>
+Impossible!<$FFFE>
+Dang!<$FFFC>
+You're too careless...<$FFFE>
+Aah...<$FFFE>
+I wanted to eat with everyone...<$FFFE>
+How did it come to this...<$FFFE>
+I...finally...<$FFFC>
+found work...that suited me...<$FFFE>
+Bunny Suit was obtained!<$FFFB>
+<$FFFC>
+Want to put it on now?<$FFFE>
+I always dreamed <$FFFD>
+I can't resist...<$FFFC>
+I have to slip into this now....<$FFFD>
+Not bad, a tight fit...<$FFFE>
+Groooss!<$FFFC>
+Have you lost your mind!<$FFFE>
+Far from it, I just changed equipment...<$FFFE>
+Despicable...<$FFFE>
+I refuse to have a sicko near my father's mansion!<$FFFE>
+Uurggh!<$FFFB>
+<$FFFC>
+Such rejection...can't bear the pain...<$FFFE>
+[diehardt's name]'s body mineralized into a grotesque stone statue...<$FFFE>
+Kyaaahh!<$FFFC>
+Do you understand what you've done?<$FFFE>
+I lost control...someone took over...<$FFFE>
+Such cruelty...<$FFFC>
+How could you do something so heartless...<$FFFE>
+I refuse to have a murderer near my father's mansion!<$FFFE>
+What...have I...<$FFFE>
+Beyond words!<$FFFC>
+Killing a fellow human on a whim!<$FFFE>
+So this is what Larcuss has come to.<$FFFD>
+I overestimated them...<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+Exterminating those monsters took a while.<$FFFE>
+I'll lead us to father's mansion now.<$FFFE>
+Now way...<$FFFC>
+Tsk!<$FFFC>
+What a letdown.<$FFFE>
+Sir, [diehardt's name].<$FFFC>
+I'll take the lead from here.<$FFFC>
+No objections, I presume?<$FFFE>
+What do you reply?<$FFFE>
+Not a chance<$FFFE>
+Understood<$FFFE>
+Not a chance!<$FFFE>
+This farce ends here.<$FFFC>
+This isn't the time for pride. Act like a child and we'll leave you behind.<$FFFE>
+I get it alright.<$FFFC>
+Please lead us to Lord Torrand's mansion.<$FFFE>
+Understood.<$FFFC>
+I'll leave it to you.<$FFFE>
+I'm glad you see reason.<$FFFC>
+Everyone, please follow me!<$FFFE>
+Seven Beefsteaks please!<$FFFE>
+Sorry, that's not on the menu...<$FFFE>
+Hmph, overeager youth claims another victim.<$FFFE>
+It's no use.<$FFFC>
+Not enough money!<$FFFE>
+[diehardt's name], you idiot!<$FFFE>
+Thanks, this looks tasty!<$FFFE>
+[diehardt's name]'s strength rises +1<$FFFE>

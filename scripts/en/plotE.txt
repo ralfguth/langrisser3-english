@@ -1,0 +1,252 @@
+<$FFF80001>  Scenario - 01<$FFFD>
+It was the day of our protagonist [diehardt's name]'s ascension to becoming a knight, when suddenly the Riguler Empire under command of Field Marshal Altemuller attacked the Floating Castle that hovers over Larcussia.<$FFFD>
+Bravely defending the Floating Castle, Tiaris father, Duke William, loses his life and the fortress falls to the ground.<$FFFD>
+[diehardt's name] narrowly makes his escape to the City of Laffel, accompanied by Tiaris, Layla and the gravely wounded Gerold.<$FFFE>
+<$FFF80002>  Scenario - 02<$FFFD>
+[diehardt's name] manages to escape to Laffel.<$FFFC>
+However, there was little time to take a breath.<$FFFC>
+Hesitantly it is decided to leave the injured Gerold behind.<$FFFD>
+To everyone's surprise the aggressor is the Barral Kingdom which is supposed to be an ally of Larcuss.<$FFFC>
+Upon meeting with King Wilder, [diehardt's name] is shocked about how he has changed.<$FFFD>
+The once kind king has seemingly transfigured into a bloodthirsty tyrant.<$FFFD>
+Thanks to the unexpected help of the outlaw Silver wolf the citizens could be evacuated successfully.<$FFFD>
+[diehardt's name] makes his way to his uncle Raymond, who is recruiting troops in preparations to rebuild Larcuss.<$FFFD>
+But chances are slim, since Barral, the Empire and the Colcia Kingdom are all craving to incorporate the remnants of Larcuss.<$FFFE>
+<$FFF80003>  Scenario - 03<$FFFD>
+To take Raymond's plans to the next step, [diehardt's name] forms a mobile division to enlist the help of Barron Torrand.<$FFFD>
+On the way Lewin suggests to recruit a famed swordsman that lives in a nearby village, his name being Gilbert.<$FFFD>
+The village is being attacked by the Undead and their puppeteer Grove, but [diehardt's name] and company manages to drive him back whereupon Gilbert joins their fight in memory of his deceased daughter.<$FFFD>
+Lord Raymond himself leads troops to halt the advance of the Colcian army.<$FFFD>
+At the same time General Geier sets out to chase fugitives that have escaped the occupation capitol Larcussia.<$FFFE>
+<$FFF80004>  Scenario - 04<$FFFD>
+After the Blademaster Gilbert joins [diehardt's name]'s company and they make their way to Baron Torrand's dormitory, they encounter General Geier who is pursuing fugitives from Larcussia.<$FFFD>
+The battle ends with Geier's withdrawal and Pierre a knights apprentice and Liffany a girl of noble heritage decide to support [diehardt's name] on his ongoing quest.<$FFFC>
+Furthermore the Barron's own daughter Luna meets up with the party to guide them to her father's mansion.<$FFFD>
+Field Marshal Altemuller who is surprised by Geier's defeat, sends Emerick in his stead to invade Baron Torrand's lands.<$FFFD>
+While Lord Raymond fends off the Colcia troops, General Bortz lays in wait for a chance to strike.<$FFFE>
+<$FFF80005>  Scenario - 05<$FFFD>
+General Emerick who had already lay siege upon the Baron was repelled<$FFFD>
+At last the mobile division arrives at Baron Torrand's mansion and requests his help.<$FFFC>
+But the Baron has to refuse out of illness and sends his daughter Luna along in his stead.<$FFFD>
+His advise is for the war-effort is to make the Empire and Barral fight each other and to try to make contact with the great sorceress lady Jessica.<$FFFD>
+Along the conversation a mysterious Black Knight that serves Barral is mentioned.<$FFFC>
+Upon hearing this, [diehardt's name] can't help but to think about his childhood friend Freya the princess of Barral.<$FFFD>
+Lord Raymond who succeeded in driving back Colcia, gets [diehardt's name]'s message and sets out to meet with Jessica himself.<$FFFE>
+<$FFF80006>  Scenario - 06<$FFFD>
+In accordance with the plan Baron Torrand came up with, the mobile division tries to incinerate hostilities between Barral and the Empire.<$FFFD>
+At last the mobile division arrives at Baron Torrand's mansion and requests his help.<$FFFC>
+The maneuver is a success and a large scale battle commences.<$FFFD>
+It reaches its climax when Field Marshal Altemuller and the Dark Knight engage a duel which results in both of them getting heavily wounded.<$FFFD>
+Lord Raymond who used the confusion to meet lady Jessica, is informed about a third enemy the demonic Kingdom of Velzeria.<$FFFD>
+Up until now the Lushiris gate has kept the demons at by, but now had ceased function due to the war.<$FFFD>
+To reinstate the gate's protective powers, four smaller gates surrounding the central gate had to be conquered and rekindled.<$FFFC>
+Haste was due, for the demons already laid in wait for their chance to invade.<$FFFE>
+<$FFF80007>  Scenario - 07<$FFFD>
+Layla who had taken the position of messenger, conveys the orders to release the southern Lushiris gate.<$FFFD>
+On their way the division encounters Barral troops guarding the mountain pass in the Raylim region.<$FFFD>
+Being an important strategical point the division decides to take the city by force.<$FFFC>
+During the battle [diehardt's name] recognizes the enemy commander to be his childhood friend Princess Freya.<$FFFD>
+Although being painful, [diehardt's name] takes up arms knowing Freya wouldn't hold back either.<$FFFC>
+In the end the company is victorious but Freya who refuses to surrender is rescued by the Dark Knight.<$FFFD>
+Freya who is just following the orders of her father is also unable to give an explanation for her father's madness.<$FFFD>
+Altemuller who is still recovering, is baffled to hear that the Dark Knight had occupied LAffel and orders General Geier to take the city with the fleet of airships.<$FFFD>
+Meanwhile Lord Raymond does battle against the Rigüler General Bortz.<$FFFE>
+<$FFF80008>  Scenario - 08<$FFFD>
+Upon arriving at the southern gate it becomes clear that the gate has been occupied by members of the Shika Tribe.<$FFFD>
+In the end Do Kahni is defeated, but Sophia the gate's guardian has already been abducted to be sacrificed.<$FFFD>
+Worrying about Sophia's well-being, [diehardt's name] and company hurry on to stop the sacrificial ceremony. <$FFFD>
+At the same time Lord Raymond pushes back General Bortz little by little.<$FFFD>
+A fiery battle commenced in Laffel, where Barral struggled to fend off General Geier.<$FFFE>
+<$FFF80009>  Scenario - 09<$FFFD>
+Having their magic abilities sealed by a fog that Kha Shind summons, the division has a hard time making progress.<$FFFC>
+When Emerick appears on the battlefield the situation becomes even more complicated.<$FFFD>
+But in the end victory is claimed over both opponents.<$FFFD>
+During that time Altemuller sends General Varna to reinforce the struggling Bortz.<$FFFE>
+<$FFF8000A>  Scenraio - 10<$FFFD>
+Arriving at a volcanic grotto the Shika Tribe's headquarters, the division is just in time to witness the beginning of the sacrificial ceremony.<$FFFD>
+In the midst of battle Rag a Velzerian General appears and attacks everyone in sight, but in the end the division manages to save Sophia.<$FFFD>
+Because of Sophia's kindness even towards her kidnappers, the Shika tribe promises to cease all hostilities.<$FFFD>
+Applying Sophia's clerical skills the southern gate is successfully reinstated.<$FFFC>
+But if the other gates wouldn't be freed too, more and more demons would appear.<$FFFD>
+Sophia who joins the division, suggests to move on the eastern gate next.<$FFFD>
+The Barral troops stationed in Laffel being at the brink of defeat, are reinforced by the Dark Knight who takes over command determinately.<$FFFD>
+Altemuller who has recovered from his injury moves out to the Colcian border to repel their troops almost singe handedly.<$FFFE>
+<$FFF8000B>  Scenraio - 11<$FFFD>
+Moving on the eastern gate, the division is ambushed by Ferakia another Demon General, who was planning the assassination of lady JEssica.<$FFFD>
+The time before the demons would start their invasion, according to the Demon's overlord Bosel, grew short.<$FFFD>
+At the same time General Bortz plans to use himself as a decoy to enable his troops to retreat safely.<$FFFE>
+<$FFF8000C>  Scenraio - 12<$FFFD>
+To everyone's surprise the eastern Lushiris gate is already under attack.<$FFFC>
+Having no time to waste the division drove back the Imperial troops passionately.<$FFFD>
+During the battle General Emerick shows up with his mobile troops to pincer attack the division.<$FFFC>
+Fortunately the gate and it's warden Fauvel remained safe.<$FFFD>
+Upon claiming victory the eastern gate was reinstated as well.<$FFFC>
+Now it was up to the division to reinstate the western gate since Lord Raymond needed more time to free the northern gate.<$FFFD>
+Bortz puts his plan into action and draws the enemies attention.<$FFFC>
+Upon doing so his troops are able to withdraw and meet up with Varna's reinforcements.<$FFFD>
+Furthermore General Geier has a hard time fighting against the Dark Knight.<$FFFC>
+Having troops to spare Barral attempts to invade the western Lushiris gate.<$FFFE>
+<$FFF8000D>  Scenraio - 13<$FFFD>
+With their new companion Fauvel, the division makes its way to western gate to protect its warden, the saintly animal Jügler.<$FFFD>
+At last all gates are reinstated and Lushiris gate regains its warding powers.<$FFFC>
+Since powerful demons could still break through, lady Jessica recommends to get a hold of the Haja no Ken, a sword with holy powers to fight demon kind.<$FFFD>
+The battle between Geier and the Black Knights comes to an end resulting in Geier's defeat.<$FFFD>
+Meanwhile Bosel plots the assassination of Altemuller to fuel the flames of war even more.<$FFFE>
+<$FFF8000E>  Scenraio - 14<$FFFD>
+On their way to the Estool ruins they come across General Dios from Barral, who is being chased by his own countrymen.<$FFFD>
+Following Luna's advise it is decided to help Dios, which results in another clash with princess Flare.<$FFFC>
+It turns out that Dios could no longer follow the orders of the mad King Wilder.<$FFFD>
+Around that time, Altemuller returns to the imperial Capitol to ask for further military forces at the Kaiser's sick bed.<$FFFD>
+The condition of the Kaiser reminds Altemuller of his own fathers death.<$FFFC>
+Could it be that someone is poisoning the Kaiser?<$FFFC>
+Even though it is just suspicion it seems plausible enough.<$FFFE>
+<$FFF8000F>  Scenraio - 15<$FFFD>
+With the help of their newest member Dios, the company manages to get a hold of the Haja no Ken.<$FFFD>
+With the mighty sword in hands hopes for defeating the Empire and Barral stir up.<$FFFC>
+But Laffel is still in the tight grasp of the loathsome Dark Knight.<$FFFD>
+The plan everyone agrees on is to attack a stronghold in Barral territory to lure the Dark Knight away and to recapture Laffel in his absence.<$FFFD>
+Meanwhile first prince Paul plots to take over the imperial Throne and makes plans to dispose of Altemuller.<$FFFE>
+<$FFF80010>  Scenraio - 16<$FFFD>
+When [diehardt's name] infiltrate Laffel to enlist the help of Silver Wolf the righteous robber he has a fated meeting with Princess Freya.<$FFFD>
+It seems that Princess Freya doesn't consent with her father's methods but sees no other way than to do his bidding.<$FFFC>
+<$FF><$F7>AAnd so their plan is set into motion as the company moves towards the Barral stronghold to lure out the Dark Knight.<$FF><$F6>Their plan succeeds and the Dark Knight falls for their feint.<$FF><$F5>Meanwhile Lord Raymond commences his offensive to reclaim Larcussia and is confronted by General Bortz once more.<$FFFE>
+<$FFF80011>  Scenraio - 17<$FFFD>
+Right after liberating Laffel, the wounded Kirikaze arrives delivering grim news.<$FFFD>
+According to Kirikaze the Imperials used a weapon of mass destruction against them and Lord Raymond has gone missing ever after the attack.<$FFFD>
+Employing Silver Wolf's gang for information gathering, they get to know that Raymond has been captured and is being hold prisoner in Larcussia.<$FFFD>
+Having taken heavy casualties Barral withdraws from Laffel and temporarily stops its invasion to regroup.<$FFFD>
+Meanwhile Bosel is fears that the balance of power will lead to the war's stagnation, he takes action to further his goal to assassinate Altemuller.<$FFFE>
+<$FFF80012>  Scenraio - 18<$FFFD>
+Galshook a weapon of mass destruction crafted by the ancient magic technology makes its appearance.<$FFFC>
+By cleverly using their small numbers as an advantage even this gruesome foe had to fall.<$FFFD>
+The baffled General Bortz has no choice but to order retreat.<$FFFD>
+Incoming reports state that Lord Raymond will be transported to the imperial Capitol in the near future.<$FFFD>
+However pushing back the Empire was more important and so [diehardt's name] and company take on the pursuit of General Bortz.<$FFFE>
+<$FFF80013>  Scenraio - 19<$FFFD>
+The division finally catches up to General Bortz at an imperial port for airships,.<$FFFC>
+Only after almost all of Bortz's troops had evacuated, does he makes a move to board the last airship himself.<$FFFD>
+General Bortz placing the lives of his subordinates over his own to his last breath lose his life honorable in battle.<$FFFC>
+Utilizing one of the imperial airship's the division flies off to rescue Lord Raymond.<$FFFD>
+Altemuller who is saddened by the death of Bortz, orders Geier to prepare the Aerial Fortress.<$FFFE>
+<$FFF80014>  Scenario - 20<$FFFD>
+With the captured airship the division manages to rescue Raymond just before he is carried off to the Empire.<$FFFD>
+But since Raymond's troops have taken heavy losses, [diehardt's name]'s division would have to do most of the fighting from now on.<$FFFC>
+Having achieved their goal, they rushed towards Larcussia to finally reclaim the former Capitol.<$FFFD>
+Geier who had returned to the capitol joins up with Paul to plot the demise of Altemuller.<$FFFE>
+<$FFF80015>  Scenario - 21<$FFFD>
+Emerick faces off against the division but can't stop them.<$FFFD>
+Being back-stabbed by Paul and Geier the supplies for the Imperials had run out and their defeat became inevitable.<$FFFD>
+To avoid meaningless bloodshed Altemuller offers a truce which Raymond generously accepts, resulting in the long awaited liberation of Larcussia.<$FFFD>
+Because none of the former royalty is still alive, Raymond is crowned the new King and changes his name into Sieghart and bestows the name Elthlead onto his newly risen kingdom.<$FFFD>
+Those news even reach the distant Kingdom of Velzeria.<$FFFC>
+Staying in the background long enough Velzeria now turns to action.<$FFFC>
+Nobody knew that the real battle had only just begun.<$FFFE>
+<$FFF80016>  Scenario - 22<$FFFD>
+One month later the Empire begins its offensive once more. While Altemuller leads the main force against Larcussia, [diehardt's name] and company try to disrupt the chain of supply and clash with Emerick once more.<$FFFD>
+In the middle of the battle suddenly demons appear out of nowhere causing major confusion for ally and enemy alike.<$FFFC>
+The same occurs during the ongoing battle between Raymond and Altemuller.<$FFFD>
+Starting this day large numbers of demons show up frequently at the border.<$FFFD>
+In addition to that Altemuller is informed about the recent death of the Kaiser and thereupon orders a full scale retreat.<$FFFE>
+<$FFF80017>  Scenario - 23<$FFFD>
+A village at the border has fallen under attack by necromancer Grove and his underlings.<$FFFC>
+[diehardt's name] and company who drive off the demons, hurry back to Larcussia which once again has been besieged by the Empire.<$FFFD>
+Everyone wondered about the demon activity, although Lushiris was intact.<$FFFC>
+Jessica conveys the explanation that the demons must have found Alhazard.<$FFFD>
+Alhazard the dark sword said to amplify the power of demon kind.<$FFFC>
+It turns out that the only way to stop the demon's invasion is to defeat the wielder of Alhazard, the prince of darkness Bosel.<$FFFD>
+Meanwhile in the Imperial capitol Altemuller and Varna question a doctor about the death of the Kaiser and find out that he was indeed poisoned.<$FFFE>
+<$FFF80018>  Scenario - 24<$FFFD>
+While Altemuller lays siege upon Larcussia he is ambushed by Rag.<$FFFD>
+Proving great mental flexibility, Altemuller suggests a temporal truce to defeat the demons who are enemies to all humans alike.<$FFFD>
+After fending off Rag the truce is set up between Elthlead and the Empire.<$FFFD>
+Following these events, Lady Jessica joins the party to help opposing the cursed sword of darkness Alhazard.<$FFFC>
+In order to employ the help of a man that could strengthen the Haja no Ken, the division moves out once again.<$FFFD>
+Bosel who is upset about the recent events gives the final order to assassinate Altemuller.<$FFFE>
+<$FFF80019>  Scenario - 25<$FFFD>
+After successfully protecting Olver from Rag's assault, everyone is making their way to Lushiris central gate.<$FFFC>
+In heaven they meet the goddess Lushiris.<$FFFD>
+By infusing the Haja no Ken with the soul of King Sieghart, the holy sword Langrisser is crafted.<$FFFD>
+[diehardt's name] is chosen to wield Langrisser but recommends Lewin to take the now empty throne of Elthlead.<$FFFC>
+A messenger arrives, stating that a survivor of the royal family is claiming his right to ascent the throne.<$FFFD>
+But hadn't all members of the royal family been executed by the Empire?<$FFFC>
+Ill-at-ease the division makes its way back to the Capitol.<$FFFD>
+At the same time a messenger from Velzeria visits Varna and demands of her to kill Altemuller, while threatening the life of Varna's kidnapped sister Anna.<$FFFE>
+<$FFF8001A>  Scenario - 26<$FFFD>
+Being bathed in the light of Langrisser the royal survivor turns out to be Ferakia the demon Shapeshiftress.<$FFFD>
+Kirikaze, whose homeland had been brought to ruin by Ferakia, joins the fight against the demons to avenge his Lord and his family.<$FFFD>
+Furthermore news of Altemuller's death come to the ears of our protagonists.<$FFFC>
+Paul rejoices at those news, for the Empire would be his alone at last.<$FFFE>
+<$FFF8001B>  Scenario - 27<$FFFD>
+Ferakia failed to ambushed the party which was making their way to Velzeria and was delivered to justice by Kirikaze.<$FFFC>
+With Rag and Ferakia out of the way only one of the demon generals remained.<$FFFD>
+Although Kirikaze had his revenge, he continues to follow [diehardt's name] to defeat the true mastermind, Bosel.<$FFFE>
+<$FFF8001C>  Scenario - 28<$FFFD>
+When [diehardt's name]and company pushed down Grove the last of the demon generals only Bosel remained as the last enemy standing.<$FFFD>
+At the same time Paul is crowned the new Kaiser and Geier takes the position of Field Marshal.<$FFFE>
+<$FFF8001D>  Scenario - 29<$FFFD>
+After having defeated all three of the demon generals, the division made their way into the depths of castle Velzeria to finally confront Bosel.<$FFFD>
+As the powers of Alhazard and Langrisser clashed it soon was clear who the winner would be.<$FFFD>
+When Bosel uses Varna's sister Anna as a human shield, Altemuller appears on the battlefield.<$FFFD>
+To be able to make his move unnoticed Altemuller had taken a potion which putted his body into a death-like status.<$FFFC>
+With combined efforts Bosel was pushed down at long last.<$FFFD>
+And so the sealing of ALhazard was about to commence.<$FFFC>
+But suddenly Geier who didn't believe Altemuller to be dead, intrudes.<$FFFD>
+Varna loses her life protecting Altemuller from a volley of arrows shot by Geier's troop. In furious anger Altemuller takes up Alhazard to execute his revenge on the murderer of his beloved.<$FFFD>
+The thought-dead Rag makes his appearance once more and pledges his loyalty to Altemuller.<$FFFD>
+An incoming report of an attack of the Barral kingdom baffles the party whereupon it is decided that protecting the citizens of Neref takes priority.<$FFFE>
+<$FFF8001E>  Scenario - 30<$FFFD>
+To thwart the despicable plan of Barral to submerge the City of Neref by breaking the watergate of a nearby river, [diehardt's name] and company fought with all their strength.<$FFFC>
+<$FF><$F7>The information conveyed by Ruud the former adjutant of Dios was helpful.<$FFFD>
+<$FFF6>Ruud the former adjutant leaks information about the manuever and is put to death for treason.<$FFFD>
+<$FF><$F5>It turns out that the Dark Knight is no other than Gerold, the knight [diehardt's name] had to leave behind in Laffel.<$FFFD>
+The dark magic of Velzeria could still be felt emitting from his body.<$FFFC>
+The suspicion arises that King Wilder's madness also is due to Velzeria'S influence.<$FFFD>
+If that spell could be lifted from him, eventually the ongoing war would come to an end as well.<$FFFC>
+With that in mind the party makes their way towards Barral.<$FFFD>
+Meanwhile Altemuller captures the aerial fortress and moves towards the imperial Capitol.<$FFFE>
+<$FFF8001F>  Scenario - 31<$FFFD>
+On their way to the Barral Royal Castle, the division's advance is halted by a defensive position guarded by Princess Freya.<$FFFC>
+[diehardt's name] who has no wish to fight Freya tries to persuade her to drop her arms.<$FFFC>
+<$FF><$F7>Freya who recognizes [diehardt's name]'s sincerity, joins him in his quest to cure King Wilder.<$FFFC>
+<$FF><$F6>Freya who believes to be responsible for her father's madness can no longer bear it and throws herself into a lake, to end her life.<$FFFC>
+<$FF><$F5>Altemuller still burning with hatred invades the imperial Capitol employing his demonic allies.<$FFFD>
+At the same time Altemuller slaughters Paul and Geier, experiencing utmost pleasure in doing so.<$FFFE>
+<$FFF80020>  Scenario - 32<$FFFD>
+The party makes their way to the Barral Royal castle where King Wilder is said to reside,<$FFFC>
+hoping to find a way to restore the once kind king.<$FFFD>
+<$FF><$F7>F But even his own daughter'S attempts have no effect on King Wilder.<$FFFC>
+Seeing no other option, Freya consents to put her father out of his misery.<$FFFD>
+<$FF><$F5>In the end King Wilder regains his true self for a short time and commits suicide.<$FFFC>
+Gerold alias the Dark Knight who was thought to be dead, makes his entrance too late to save his King.<$FFFD>
+Upon hearing about his beloved Layla, Gerold regains his true self and explains that is was Rag that implanted a worm into him that controls his mind.<$FFFD>
+Jessica knows of a method to expel the worm.<$FFFC>
+But with the worm gone, only some days to life would remain.<$FFFC>
+Just as Gerold is ready to take his own life a messenger arrives.<$FFFD>
+Seemingly Laffel is under attack by the demons. Gerold who fears for the safety of Layla agrees to get the worm expelled and heads off to Laffel along with [diehardt's name] and company.<$FFFD>
+Meanwhile Altemuller has become Bosel and puts Alhazard's powers to test.<$FFFC>
+Employing the darkest of magic he succeeds in resurrecting his beloved Varna from her grave.<$FFFE>
+<$FFF80021>  Scenario - 33<$FFFD>
+Unable to tolerate the massacre that the demons carry out anymore, Emerick turns against the Demons and Altemuller.<$FFFD>
+During the battle Rag pays the ultimate price for toying with human lives and is purged by the Langrisser.<$FFFD>
+Gerold informs Layla about his own death, while being disguised as the Dark Knight and thereafter parts ways with [diehardt's name].<$FFFD>
+<$FF><$F7>I On the evening of the decisive battle with Altemuller, [diehardt's name] confesses his love to Tiaris and makes her his own.<$FFFD>
+<$FF><$F5><$FF><$F7>J On the evening of the decisive battle with Altemuller, [diehardt's name] confesses his love to Liffany and makes her his own.<$FFFD>
+<$FF><$F5><$FF><$F7>K On the evening of the decisive battle with Altemuller, [diehardt's name] confesses his love to Luna and makes her his own.<$FFFD>
+<$FF><$F5><$FF><$F7>L On the evening of the decisive battle with Altemuller, [diehardt's name] confesses his love to Sophia and makes her his own.<$FFFD>
+<$FF><$F5><$FF><$F7>M On the evening of the decisive battle with Altemuller, [diehardt's name] confesses his love to Freya and is happy to learn that his love is being returned.<$FFFD>
+<$FF><$F5> And so the day of the final battle drew near.<$FFFE>
+<$FFF80022>  Scenario - 34<$FFFD>
+Due to the holy powers of the Langrisser, Altemuller was rescued from the dark influence of Alhazard.<$FFFD>
+Several days later a banquet was held to celebrate peace and the good relation between the Barral, the Empire and Elthlead.<$FFFD>
+<$FF><$F7>I The happy mood was spoiled when the resurrected Geier intruded to kidnap Tiaris.<$FFFC>
+<$FF><$F5><$FF><$F7>J The happy mood was spoiled when the resurrected Geier intruded to kidnap Liffany.<$FFFC>
+<$FF><$F5><$FF><$F7>K The happy mood was spoiled when the resurrected Geier intruded to kidnap Luna.<$FFFC>
+<$FF><$F5><$FF><$F7>L The happy mood was spoiled when the resurrected Geier intruded to kidnap Sophia.<$FFFC>
+<$FF><$F5><$FF><$F7>M The happy mood was spoiled when the resurrected Geier intruded to kidnap Freya.<$FFFC>
+<$FF><$F5>Paul who has been given a new life by Chaos, became the new Bosel.<$FFFD>
+To rescue the abducted, even Varna and Altemuller offer their assistance.<$FFFC>
+And once again the party moved out to castle Velzeria to smite evil once and for all.<$FFFE>
+<$FFF80023>  Scenario - 35<$FFFD>
+To be able to defeat Paul, who has become the new Bosel, Dieharte strikes down Geier and advances deeper into castle Velzeria.<$FFFD>
+Finally he reaches the Altar where Paul is conducting the sacrificial ceremony.<$FFFC>
+The decisive battle, to save his beloved and to thwart the revival of the demonic deity Chaos, unfolds.<$FFFE><$FFFF>

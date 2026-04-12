@@ -1,0 +1,257 @@
+Langrisser III dumper [0x7b726 to 0x7cecb]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+General Emerick<$FFFF>
+-Defeat all enemies within 14 turns<$FFFE>
+-Death of [diehardt's name]<$FFFC>
+-Death of Fauvel<$FFFC>
+-Time Up<$FFFE>
+Eastern Lushiris Gate<$FFFF>
+Come with us quietly!<$FFFC>
+Resist and you die!<$FFFE>
+Do you only know the sword?<$FFFC>
+I won't let you erase the holy light.<$FFFE>
+Your holy place means nothing to us!<$FFFE>
+Do you know what this gate signifies?<$FFFE>
+This temple breeds rebellion.<$FFFC>
+This cannot be ignored!<$FFFE>
+Now, step aside!<$FFFE>
+Then I'll stop you by force.<$FFFE>
+Such a stubborn old man!<$FFFE>
+The imperial soldiers are here already.<$FFFE>
+But the gate hasn't fallen.<$FFFC>
+They're still trying to capture it.<$FFFE>
+Father...<$FFFE>
+Hmm!?<$FFFC>
+Enemy reinforcements have arrived.<$FFFE>
+Hmph.<$FFFC>
+Annoying pests.<$FFFC>
+Commence the operation we discussed.<$FFFE>
+Understood!<$FFFE>
+Father.<$FFFC>
+Hold out a little longer.<$FFFC>
+We'll come to your aid!<$FFFE>
+Everyone, be careful!<$FFFC>
+They plan to blow the bridge.<$FFFD>
+Don't get caught in the blast!<$FFFE>
+Sir [diehardt's name].<$FFFC>
+That commander seems in charge.<$FFFD>
+Defeat him to save the bridge.<$FFFE>
+Sir [diehardt's name].<$FFFC>
+The enemy strategy is concerning.<$FFFE>
+They plan to destroy the bridge.<$FFFE>
+Yeah.<$FFFC>
+That commander's in charge.<$FFFD>
+Take him down to save the bridge.<$FFFE>
+They plan to blow the bridge.<$FFFD>
+That commander must be in charge.<$FFFE>
+The enemy is deploying!<$FFFE>
+Dragon knights ahead.<$FFFC>
+Be careful everyone!<$FFFE>
+Alright, blow it up!<$FFFE>
+Yes sir!<$FFFE>
+It's getting dangerous!<$FFFC>
+Everyone get off the bridge!<$FFFE>
+What!?<$FFFD>
+To resort to such cowardly methods...<$FFFE>
+The bridge is safe.<$FFFC>
+Chase the rest and protect Fauvel.<$FFFE>
+The bridge is safe.<$FFFC>
+Sweep up the remaining enemies!<$FFFE>
+These fools.<$FFFC>
+Their optimism is their downfall!<$FFFD>
+Finish this operation!<$FFFE>
+Yes sir!<$FFFE>
+Get that geezer out of the way!<$FFFE>
+Leave him to me!<$FFFE>
+Pin down the enemy!<$FFFC>
+Buy us time!<$FFFE>
+Yes sir!<$FFFC>
+Charge and halt their advance!<$FFFE>
+We'll stop them where they stand!<$FFFC>
+Charge!<$FFFE>
+Let's see them fight in mid air!<$FFFE>
+Soon!<$FFFE>
+So very soon!<$FFFE>
+Just a tiny little bit longer!<$FFFE>
+Demolition ready!<$FFFD>
+Awaiting orders!<$FFFE>
+Demolition ready!<$FFFD>
+Awaiting orders!<$FFFE>
+Muhahaha...!<$FFFC>
+You did well, for a change!<$FFFC>
+This will crush those pests!<$FFFE>
+Cavalry's late, but I'll deal with you!<$FFFD>
+Give me all you've got, [diehardt's name]!<$FFFC>
+Forward!<$FFFE>
+Yes sir!<$FFFE>
+The flying units suffered heavy damage...<$FFFC>
+True strength comes from the heart, [diehardt's name]!<$FFFE>
+Father!<$FFFC>
+Are you unharmed?<$FFFE>
+Oho, my Sophia?<$FFFC>
+Forgive me for worrying you...<$FFFE>
+Please, come this way.<$FFFE>
+You come at a good time.<$FFFE>
+Come this way!<$FFFE>
+Thank you...<$FFFE>
+They approach!<$FFFC>
+Move out, intercept!<$FFFE>
+Yessir!<$FFFC>
+Charge!<$FFFE>
+Understood.<$FFFC>
+We'll back you up!<$FFFE>
+A stone altar holds ragged clothes.<$FFFE>
+Do you want to take the clothes?<$FFFE>
+As you grasp them, the rags become splendid fabric!<$FFFE>
+Black Suit was obtained!<$FFFE>
+Curses!<$FFFE>
+It hurts...<$FFFE>
+Uwaaa...!<$FFFE>
+So this is where it ends...<$FFFE>
+I have to take my leave...<$FFFE>
+Ahh..I cannot move...<$FFFE>
+Sir [diehardt's name]...<$FFFE>
+Ahh...<$FFFE>
+Lushiris...my goddess...<$FFFC>
+Take in your humble servant who served to the last...<$FFFE>
+Father!<$FFFE>
+Oh Sophia...<$FFFC>
+Forgive me...<$FFFC>
+I was careless...<$FFFE>
+Curses!<$FFFC>
+Too late...<$FFFE>
+Damn...<$FFFC>
+Still some way to go!<$FFFE>
+Father...<$FFFE>
+Sophia...<$FFFE>
+What do you want to say?<$FFFE>
+We have to hurry!<$FFFE>
+He'll be alright.<$FFFE>
+It looks grim...<$FFFE>
+Hury up!<$FFFC>
+A priest can't hold long against regular troops.<$FFFE>
+That's true.<$FFFE>
+He'll be fine.<$FFFC>
+We'll save him, no doubt.<$FFFE>
+...Yes!<$FFFE>
+It looks grim...<$FFFC>
+Will we make it in time?<$FFFE>
+....<$FFFE>
+Da..Damn...<$FFFC>
+To die in place like this...<$FFFD>
+I'll wait in the netherworld!<$FFFE>
+What a relief.<$FFFC>
+The bridge's destruction has been prevented.<$FFFE>
+Father, hold on!<$FFFE>
+Just hold out!<$FFFC>
+We're on our way!<$FFFE>
+-Defeat all enemies<$FFFE>
+-Death of Diehärte [diehardt's name]<$FFFC>
+-Death of Fauvel<$FFFE>
+Tsk, they disrupt our plans!?<$FFFE>
+Hahaha...!<$FFFC>
+I'll kill anyone who tries!<$FFFE>
+Guaaaa!<$FFFE>
+Last chance, come quietly!<$FFFE>
+That I cannot do,<$FFFC>
+for I've dedicated my life to this holy site.<$FFFE>
+W..Why...<$FFFE>
+Khe!<$FFFC>
+What a pain!<$FFFE>
+Urgg!<$FFFE>
+Guuaaa!<$FFFE>
+Not..yet..<$FFFE>
+Defeat tastes bitter...<$FFFE>
+Guuurg!<$FFFE>
+Blood won't stop...<$FFFE>
+Hey!<$FFFC>
+Do something useful!<$FFFD>
+Blow the bridge already!<$FFFC>
+We can't hold much longer!<$FFFE>
+Yessir!<$FFFE>
+Heey!<$FFFC>
+You worthless maggots!<$FFFD>
+Useless! I'll take the Larcuss survivors myself!<$FFFE>
+Kyaaaa!<$FFFE>
+Is there no higher purpose?<$FFFE>
+Defeated again...<$FFFC>
+But that's fine.<$FFFC>
+This place has no strategic value.<$FFFD>
+The Empire will conquer all in time.<$FFFE>
+Hold it!<$FFFC>
+Emerick!<$FFFE>
+Farewell, [diehardt's name]!<$FFFC>
+Until next time!<$FFFE>
+Crossing swords with you was enjoyable!<$FFFD>
+But I must take my leave!<$FFFE>
+Nothing less from you!<$FFFE>
+Unfortunate, but you must die!<$FFFE>
+I struck with full force!<$FFFC>
+But still..still!<$FFFE>
+Forgive me, General Emerick...<$FFFE>
+How could you do...!<$FFFE>
+How could I be defeated!?<$FFFE>
+Such...might...<$FFFE>
+So that's my limit...<$FFFE>
+Oh!<$FFFC>
+By the goddess's grace, the attack stopped.<$FFFE>
+Rest now.<$FFFC>
+Leave the rest to us, father.<$FFFE>
+Rest now.<$FFFC>
+Leave the rest to us, Fauvel.<$FFFE>
+Thank you.<$FFFC>
+I'm indebted to you all.<$FFFE>
+...It's over.<$FFFE>
+Splendid command, Sir [diehardt's name].<$FFFE>
+Sir [diehardt's name]...<$FFFC>
+We took too long...<$FFFD>
+This will hurt us next mission...<$FFFE>
+Heyyy!<$FFFC>
+Be useful for once!<$FFFD>
+Hold them off a bit longer!<$FFFE>
+Must I do everything myself?<$FFFC>
+Sir [diehardt's name].<$FFFE>
+What is it?<$FFFC>
+If the bridge falls we can't help Fauvel.<$FFFC>
+Strike down that commander!<$FFFE>
+Curses!<$FFFC>
+How did they grow even stronger...<$FFFE>
+General Emerick, we'll protect you.<$FFFC>
+General, please withdraw!<$FFFD>
+General, don't throw your life away.<$FFFE>
+I'm sorry...<$FFFC>
+You are in command for now.<$FFFE>
+Leave everything to us!<$FFFE>
+Found you, [diehardt's name]!<$FFFE>
+Not you again, Emerick!<$FFFE>
+I'll demonstrate the Rigüler cavalry's power!<$FFFE>
+Sorry we're late, General Emerick.<$FFFE>
+Don't worry about it.<$FFFC>
+Attack the enemy from behind.<$FFFC>
+But don't overdo it; the climb must've tired you.<$FFFE>
+No sir, we're fresh as morning dew.<$FFFE>
+Ha, then I'm counting on you.<$FFFE>
+You bested General Emerick!?<$FFFC>
+Receive your punishment!<$FFFE>

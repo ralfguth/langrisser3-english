@@ -1,0 +1,54 @@
+Langrisser III dumper [0x326cae to 0x32718f]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Kaiser Paul<$FFFF>
+Field Marshal Geier<$FFFF>
+ <$FFFC>
+Scenario ~ 30<$FFFC>
+"Behind the Mask"<$FFFE>
+Although Bosel was defeated successfully, the sealing of Alhazard was not completed.<$FFFC>
+At Varna's death, Altemuller takes away Alhazard in a rage of fury<$FFFC>
+to exact his revenge on the Rigüler Empire.<$FFFC>
+As the chase after Altemuller is about to commence,<$FFFE>
+a report of an attack from the Barral Kingdom comes in.<$FFFE>
+Being startled by the unfolding events, [diehardt's name] decides that protecting the citizens of Neref is a more urgent matter at hand.<$FFFE>
+*Conditions of Victory<$FFFC>
+ -Defeat all enemies<$FFFC>
+*Conditions of Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Destruction of the Floodgate<$FFFE>
+Rigüler Castle ~ Audience Hall<$FFFF>
+How!<$FFFC>
+Can this really be true!?<$FFFE>
+It is.<$FFFC>
+Although it is rather strange, since I had not few men searching for him...<$FFFD>
+In his condition he shouldn't have come far.<$FFFE>
+It is quiet unusual for you to fail me so, Field Marshal Geier.<$FFFE>
+You may want to consider that Altemuller has allied with the Demons of Velzeria.<$FFFE>
+What!?<$FFFC>
+He conspires with demons?<$FFFC>
+This makes him an open enemy to the Empire!<$FFFD>
+Field Marshal Geier I hereby order you formally!<$FFFC>
+Obliterate the traitor Altemuller!<$FFFD>
+This shall be his punishment for befriending demons and betraying the empire!<$FFFE>
+As you wish.<$FFFD>
+By all means, I will present his head to you my majesty!<$FFFE>

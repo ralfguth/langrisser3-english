@@ -1,0 +1,36 @@
+Langrisser III dumper [0x227696 to 0x2278ef]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+<$FFFC>
+Scenario ~ 09<$FFFC>
+"Shaman Attack"<$FFFE>
+Sophia, Warden of the Southern Gate, has been taken away<$FFFC>
+by the Shika Tribe. Moreover, it is said that she will be used<$FFFC>
+as the sacrifice in a ceremony.<$FFFE>
+As it stands, not only can she not reinstate the Gate, but her<$FFFC>
+own life is in danger. The party has set foot in the mountain<$FFFC>
+region, but have seen no signs of life in the vicinity of the<$FFFC>
+Shika Tribe's headquarters.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Complete annihilation of enemies<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>

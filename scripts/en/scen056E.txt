@@ -1,0 +1,41 @@
+Langrisser III dumper [0x217d16 to 0x21804b]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+<$FFFC>
+Scenario ~ 08<$FFFC>
+"The Southern Lushiris Gate"<$FFFE>
+In times long past, Lushiris Gate was built in order to guard<$FFFC>
+against demonic invasion. Gates were built in all four<$FFFC>
+directions to complement the power of the Gate.<$FFFE>
+At the time when war broke out, it seems that its functionality<$FFFC>
+was interrupted; the seal binding the demons is growing<$FFFC>
+increasingly weaker.<$FFFE>
+The moment when the protection of Lushiris was needed,<$FFFC>
+to avert the coming demonic offensive, was quickly<$FFFC>
+approaching. Therefore, the party has traveled to the southern gate<$FFFC>
+in order to meet its warden, Sophia.<$FFFE>
+But enemies are also seeking her and have made preparations<$FFFC>
+against the arrival of [diehardt's name] and company.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Do Kahni<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>

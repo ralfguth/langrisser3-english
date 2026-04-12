@@ -1,0 +1,286 @@
+Langrisser III dumper [0x40548 to 0x42027]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Rigüler Commander<$FFFF>
+Barral Commander<$FFFF>
+Barral Commander<$FFFF>
+General Varna<$FFFF>
+Dark Knight<$FFFF>
+Rigüler Commander<$FFFF>
+Barral General<$FFFF>
+Gilbert<$FFFF>
+Barral Commander<$FFFF>
+-Total destruction of the enemy<$FFFC>
+-Retreat all allies across the bridge<$FFFC>
+ after provoking Imperial and Barral into fighting<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+Near the border between Barral and the Rigüler Empire<$FFFF>
+We'll attack both Barral and Rigüler troops at once.<$FFFE>
+Our goal is to lure both armies into fighting each other.<$FFFE>
+Don't linger; we'll be in trouble when their main forces arrive.<$FFFE>
+A quick, decisive strike.<$FFFE>
+So we provoke them and run?<$FFFE>
+That's child's play!<$FFFE>
+Don't celebrate before we've won!<$FFFE>
+We'll be fine!<$FFFE>
+Begin the operation!<$FFFE>
+We'll show you imperial might!<$FFFE>
+We'll show you imperial might!<$FFFE>
+You won't beat us!<$FFFE>
+Captain!<$FFFC>
+Our main force knows of the attack!<$FFFC>
+The Dark Knight is on his way!<$FFFE>
+Captain!<$FFFC>
+Our main force knows of the attack!<$FFFC>
+The Dark Knight is on his way!<$FFFE>
+Th..The Dark Knight!?<$FFFC>
+What have you done!?<$FFFD>
+If he gets here, I'm dead...<$FFFC>
+Destroy the imperials! My life depends on it!<$FFFE>
+General Varna!<$FFFE>
+What's going on!?<$FFFC>
+Explain!<$FFFE>
+Barral has invaded...<$FFFE>
+Then we teach them a lesson!<$FFFC>
+Force them back!<$FFFE>
+Still no reinforcements!?<$FFFE>
+The messenger was sent already.<$FFFC>
+They should arrive any moment.<$FFFC>
+Once our main force arrives, victory is ours!<$FFFE>
+What's the meaning of this unsightly battle?<$FFFE>
+Sir Dark Knight!<$FFFC>
+The imperial soldiers have crossed the border...<$FFFE>
+That man!?<$FFFC>
+Is this the rumored Dark Knight!?<$FFFE>
+You've taken your time. I'm doubting your usefulness.<$FFFE>
+Sir [diehardt's name]!<$FFFC>
+The Dark Knight has come.<$FFFC>
+It's too dangerous to stay any longer.<$FFFD>
+Please order the retreat now!<$FFFE>
+Understood.<$FFFC>
+Everyone, we have to get out of here!<$FFFE>
+That must be Barral's Dark Knight!?<$FFFD>
+Fighting him now would be madness.<$FFFC>
+We should hurry and escape.<$FFFE>
+Fend them off!<$FFFC>
+After that, move out to crush Barral's forces!<$FFFE>
+Intercept all advancing enemies!<$FFFC>
+Take out every BArral soldier that comes into sight!<$FFFE>
+Move out!<$FFFC>
+Defend this border at all costs!<$FFFE>
+I'll take command until his Excellency arrives.<$FFFC>
+Charge at full force!<$FFFE>f
+Move out, slaughter everyone in your way!<$FFFE>
+Ready up to retaliate!<$FFFC>
+Drive out the imperials and earn your medals!<$FFFE>
+Perfect, our plan is working!<$FFFC>
+Everyone, retreat!<$FFFE>
+That should be everyone, right?<$FFFE>
+You commanded us well, Sir [diehardt's name].<$FFFE>
+Sir [diehardt's name]...<$FFFC>
+That battle took too long...<$FFFD>
+This may hurt our next mission...<$FFFE>
+Everything is set.<$FFFC>
+But we only bought some time.<$FFFD>
+Let's hurry to Lushiris Gate!<$FFFE>
+Okay.<$FFFC>
+Let's wait here for everyone to return.<$FFFE>
+I've made it back.<$FFFC>
+Everyone come quickly as well.<$FFFE>
+*Huff*....<$FFFC>
+Let's fall back now.<$FFFE>
+Please make it back to safety everyone...<$FFFE>
+Alriight, that wasn't all that bad!<$FFFE>
+Made it back safely.<$FFFC>
+Join up quickly.<$FFFE>
+Once everyone returns safely, mission accomplished.<$FFFC>
+Hurry if you can.<$FFFE>
+Inside the tent you find an odd looking horn.<$FFFE>
+Will you take it?<$FFFE>
+The Gjaller Horn was obtained!<$FFFE>
+Uwaaa!!<$FFFE>
+Challenging the Empire? You fools forget who you're dealing with!<$FFFE>
+You've yet to face Barral's true might!<$FFFE>
+It seems we are doing well, Sir [diehardt's name].<$FFFE>
+But we shouldn't push our luck. Best to retreat now.<$FFFC>
+Watch for an opening and withdraw across the bridge.<$FFFE>
+<$F702>Right!<$FFFC>
+Screw you!<$FFFE>
+<$F702><$F702>Don't be so gloomy!<$FFFE>
+<$F702><$F703>Right!<$FFFC>
+Screw you!<$FFFE>
+<$F703><$F703>Don't be so gloomy!<$FFFE>
+Have at you!<$FFFE>
+What a thing to do!<$FFFE>
+Kyaa!<$FFFE>
+Wahh!<$FFFC>
+That's impossible...load...now..<$FFFE>
+Here I go!<$FFFC>
+It's no use...<$FFFE>
+Oh my, I didn't mean that to...<$FFFE>
+I didn't expect this...<$FFFC>
+Forgive me.<$FFFC>
+You have to run away while you can!<$FFFE>
+Guuaa!<$FFFE>
+<$F704><$F704><$F704><$F704><$F704><$F704><$F704><$F704><$F704><$F704>....<$FFFE>
+Barral is coming...<$FFFE>
+M..Mercy...<$FFFE>
+What folly!<$FFFE>
+Uuu!<$FFFE>
+Uuurg!<$FFFE>
+You've chosen the wrong people to fight!<$FFFE>
+Guwwaa!<$FFFE>
+The Empire is the continent's strongest military for a reason!<$FFFC>
+Comparing Barral's forces to ours is an insult!<$FFFE>
+Th..That's...<$FFFE>
+Iaaa!<$FFFE>
+Do, die!<$FFFE>
+That's the extent of my powers...<$FFFC>
+It can't be helped.<$FFFC>
+For now I just have to wait for his Excellency to arrive...<$FFFE>
+That's the extent of my powers...<$FFFC>
+It can't be helped.<$FFFC>
+Until his Excellency arrives, all troops retreat!<$FFFE>
+Hang in there!<$FFFC>
+Regroup and prepare for the counterattack!<$FFFE>
+You're that rumored Dark Knight!<$FFFC>
+Let me try those alleged powers of yours!<$FFFE>
+I have a thing for strong women.<$FFFC>
+But talk alone won't win a battle!<$FFFE>
+From now my actions will speak for themselves!<$FFFE>
+Khe...<$FFFC>
+Never would I have expected him to be that strong...<$FFFE>
+Is that all one of the four generals is capable of?<$FFFC>
+After all you are just great in numbers.<$FFFE>
+Bastard...<$FFFE>
+Gaaar!<$FFFE>
+Guuurrg!<$FFFE>
+Rats!<$FFFC>
+Why here...<$FFFE>
+I'll never drink before battle again...hic..<$FFFE>
+So many regrets...<$FFFE>
+I can't die...just yet...<$FFFE>
+<$F705><$F705><$F705><$F705><$F705><$F705><$F705><$F705>Damn those imperial dogs!<$FFFE>
+You bloody Imperials!<$FFFE>
+If we fail, the Dark Knight takes our lives.<$FFFD>
+I'm not ready to die just yet!<$FFFE>
+M..Mother...<$FFFE>
+Uaaarr!<$FFFE>
+Guurrg!<$FFFE>
+Die, die, die!<$FFFE>
+Please my lovely blood...stop flowing...<$FFFE>
+Save me...<$FFFE>
+Just my cursed luck!<$FFFE>
+Wh..What!?<$FFFE>
+I..can't die...like this...<$FFFE>
+No good...<$FFFE>
+I had such hopes for life...<$FFFE>
+Guurgg!<$FFFD>
+So that is the thing called pain...<$FFFD>
+It's inevitable.<$FFFC>
+Fall back and reorganize!<$FFFE>
+Guurgg!<<$FFFD>
+So that is the thing called pain...<$FFFD>
+It's inevitable.<$FFFC>
+Fall back and reorganize!<$FFFD>
+All troops, retreat!<$FFFE>
+Hey there, eyesore.<$FFFC>
+Die!<$FFFE>
+Kuuhhaa!<$FFFE>
+All strength is leaving my body....<$FFFE>
+After we came so far...<$FFFE>
+Just a little while longer...<$FFFE>
+Such might...<$FFFE>
+What in the world is happening here!?<$FFFC>
+All our troops have been annihilated!<$FFFE>
+Never mind them.<$FFFC>
+If they failed, they were destined to die. Crush the enemy!<$FFFE>
+Yessir!<$FFFC>
+We will fight until we drop dead!<$FFFE>
+Sir [diehardt's name].<$FFFC>
+The Dark Knight of Barral has come!<$FFFC>
+We have to retreat now!<$FFFE>
+...I understand your worry.<$FFFC>
+But I'm itching to cross swords with him.<$FFFD>
+I need to know how much I've improved!<$FFFE>
+Sir [diehardt's name]...<$FFFC>
+Please don't be reckless.<$FFFE>
+Understood.<$FFFC>
+I'll pull back if it gets too dangerous.<$FFFE>
+Is he the Dark Knight!?<$FFFD>
+Facing him now would be suicide.<$FFFC>
+Everyone retreat, now!<$FFFE>
+Th..This can't be happening!?<$FFFE>
+Our whole frontline troops have been eradicated...<$FFFC>
+Barral couldn't have done this alone!<$FFFE>
+True, but all our troops are crushed regardless.<$FFFD>
+We must stall until his Excellency arrives.<$FFFE>
+All our troops have been annihilated!<$FFFC>
+What kind of absurdity is this!?<$FFFC>
+How did Barral gain such power?<$FFFE>
+Hoo...<$FFFC>
+This could be enjoyable after all.<$FFFE>
+The enemy!<$FFFC>
+The enemy has launched an attack!<$FFFC>
+Prepare the counterattack!<$FFFE>
+Now where are those Barral cowards!?<$FFFE>
+We'll hit those bumpkins so hard they won't know what happened!<$FFFE>
+The enemy is approaching from the other side!<$FFFE>
+The enemy is approaching from the other side!<$FFFE>
+The Rigüler Empire has commenced an invasion!<$FFFE>
+This is getting serious, Sir [diehardt's name].<$FFFC>
+Imperial reinforcements have arrived.<$FFFD>
+We stand no chance with our current troops.<$FFFC>
+We must withdraw now!<$FFFE>
+Understood.<$FFFC>
+Everyone, retreat across the bridge!<$FFFE>
+Imperial reinforcements!?<$FFFC>
+That's not good.<$FFFD>
+Retreat across the bridge, fast!<$FFFE>
+Wow...<$FFFC>
+Somehow we've defeated every enemy.<$FFFE>
+Your command was exemplary, Sir [diehardt's name].<$FFFE>
+Sir [diehardt's name]...<$FFFC>
+We spent too long fighting.<$FFFD>
+This could hurt our next mission...<$FFFE>
+See as I predicted, it was an easy victory!<$FFFE>
+Well!<$FFFC>
+I guess fortune did smile upon us!<$FFFE>
+<$F706><$F706>Well then, let us be on our way without further delay.<$FFFE>
+That's right.<$FFFC>
+We've just earned a bit of time.<$FFFC>
+Onward to Lushiris Gate!<$FFFE>
+That's right.<$FFFC>
+We've just earned a bit of time.<$FFFC>
+Let's press on to Lushiris Gate quickly!<$FFFE>
+Our time has come!<$FFFC>
+Charge!<$FFFE>
+Move out!<$FFFC>
+To the attack!<$FFFE>
+We will tear you to pieces!<$FFFC>
+Time to put you arrogant Barral braggarts in your place!<$FFFE>
+You damn imperials!<$FFFC>
+Time for a ride!<$FFFE>
+Our strategy was a success of sorts.<$FFFC>
+We sparked a war between Rigüler and Barral.<$FFFD>
+And broke their front lines thoroughly — didn't think that was possible.<$FFFD>
+But now let's get the hell out of here!<$FFFE>

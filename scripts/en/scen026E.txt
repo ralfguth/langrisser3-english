@@ -1,0 +1,264 @@
+Langrisser III dumper [0x10137c to 0x102b63]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Olver<$FFFF>
+Wormmaster Rag<$FFFF>
+Monster<$FFFF>
+Rag<$FFFF>
+Velzerian Commander<$FFFF>
+-Defeat all enemies<$FFFE>
+-Death of [diehardt's name]<$FFFC>
+-Death of Olver<$FFFE>
+Olver's Residence<$FFFF>
+What is it that you want!?<$FFFE>
+Hihihihi!<$FFFC>
+By Lord Bosel's order, we've come to claim your life.<$FFFE>
+My life?<$FFFC>
+Why is it that you wish me dead?<$FFFE>
+You're the only one who can enhance the Haja no Ken.<$FFFE>
+We can't let that sword surpass Alhazard.<$FFFE>
+With you gone, Velzeria's triumph is certain.<$FFFE>
+...Wicked Demons!<$FFFE>
+Well then, my pets!<$FFFC>
+Break into his house and kill him for good.<$FFFE>
+Yes, master!<$FFFE>
+Master Rag, the door won't budge!<$FFFE>
+Use your head for once!<$FFFC>
+Use destructive magic to blast it open!<$FFFE>
+Understood.<$FFFE>
+Uwaaah!<$FFFC>
+Demons are attacking!<$FFFE>
+The demons know he can strengthen the Haja no Ken.<$FFFE>
+Pfft!<$FFFC>
+Elthlead forces have come.<$FFFC>
+We have to get over with this fast.<$FFFE>
+We must hurry if Olver is to survive.<$FFFE>
+You there, tear that door apart right now!<$FFFE>
+Yessir!<$FFFE>
+Everyone else, move out to destroy Elthlead's forces!<$FFFE>
+GAAAAAAHHHH!<$FFFE>
+You're too old and rusty to keep up, geezer!<$FFFE>
+Hihihihi!<$FFFC>
+Such a vigorous lass!<$FFFD>
+Soon you'll see how powerless you children are!<$FFFE>
+Commence the Attack!<$FFFC>
+Above all we must ensure Olver's safety!<$FFFE>
+What should I do from here?<$FFFE>
+What are your orders for Olver?<$FFFE>
+Wait inside the house<$FFFE>
+Move to the south<$FFFE>
+Please wait inside the house.<$FFFE>
+Certainly.<$FFFE>
+Please evacuate to the south.<$FFFC>
+We will guard you!<$FFFE>
+Thank you kindly.<$FFFE>
+Now then, get that door open pronto!<$FFFE>
+Yessir!<$FFFE>
+What's that!?<$FFFC>
+They found a way to break through my door...<$FFFE>
+Hahaha...<$FFFC>
+The gate was broken!<$FFFC>
+That's what you get for messing with me!<$FFFE>
+That's bad!<$FFFC>
+We need to hurry!<$FFFE>
+Only one door remains!<$FFFC>
+Break it before the humans interfere!<$FFFE>
+Yes, sir!<$FFFE>
+Hmph!<$FFFC>
+How dare you mock me!<$FFFE>
+What a stubborn door...<$FFFC>
+Try this next!<$FFFE>
+What, the door withstood my magic?<$FFFE>
+Aaah!<$FFFC>
+They'll break through soon!<$FFFE>
+Quickly!<$FFFE>
+Hahahahaha!<$FFFC>
+At long last!<$FFFC>
+Give in to your fate!<$FFFE>
+What is the meaning of this?<$FFFC>
+If I must I'll resist to my last breath!<$FFFE>
+Bad news!<$FFFC>
+If Olver dies, we can't enhance the Haja no Ken!<$FFFE>
+That door,<$FFFC>
+it won't hold for much longer...<$FFFE>
+Sir Diehärte, if we don't act this instant...<$FFFE>
+There is no time!<$FFFC>
+Everyone, on the double!<$FFFE>
+Hahaha...<$FFFC>
+The prey is cornered! I can taste the blood already!<$FFFE>
+Sir Diehärte, there's not much time left!<$FFFC>
+If that door falls too, we're in trouble.<$FFFE>
+I know...<$FFFE>
+Finally the gate has fallen!<$FFFE>
+Well...<$FFFC>
+Should I open the door and come out?<$FFFE>
+Well...<$FFFC>
+Should I open the second door now?<$FFFE>
+Well...<$FFFC>
+Should I open the door?<$FFFE>
+Well...<$FFFC>
+Should I open the second door now?<$FFFE>
+Well...<$FFFC>
+Should I open the door?<$FFFE>
+Well...<$FFFC>
+Should I open the door?<$FFFE>
+Huff, I'm too old for this...<$FFFE>
+Sir Diehärte.<$FFFC>
+Olver has been successfully evacuated.<$FFFE>
+Alright, let's sweep up the remaining enemies!<$FFFE>
+An axe with runic symbols juts from the bare ground.<$FFFC>
+As you reach for it, a voice speaks.<$FFFD>
+"What is it you rely most on in battle?"<$FFFE>
+What do you answer?<$FFFE>
+Courage<$FFFE>
+Faith<$FFFE>
+Physical strength<$FFFE>
+"In that case you have no need for our power."<$FFFD>
+The voice fell silent and the Axe sank into earth...<$FFFE>
+"In that case you have no need for our power."<$FFFD>
+The voice fell silent and the Axe sank into earth...<$FFFE>
+"If it is power you seek, receive this as our gift."<$FFFE>
+Rune Axe was obtained!<$FFFE>
+Maggots!<$FFFC>
+Use the teleport spell to get to him!<$FFFE>
+We'll take care of the enemy!<$FFFC>
+Please evacuate south, quickly!<$FFFE>
+Very well.<$FFFC>
+I'll try to hurry those old bones.<$FFFE>
+Don't let him get away!<$FFFC>
+Kill that geezer no matter what!<$FFFE>
+I'm sorry everyone....<$FFFE>
+Diehärte...<$FFFE>
+My power wasn't enough...<$FFFE>
+Tis is all I can do...<$FFFE>
+Just keep going...<$FFFE>
+Huh?<$FFFE>
+Forgive me...<$FFFE>
+Aah, what beautiful light...<$FFFE>
+This can't be happening...<$FFFE>
+Uuhg...<$FFFE>
+Why...<$FFFE>
+What a fail!<$FFFC>
+I'm sorry, Diehärte!<$FFFE>
+This is the end....<$FFFE>
+Master Olver!<$FFFE>
+Curses!<$FFFC>
+We couldn't save him!<$FFFE>
+Hahaha!<$FFFC>
+Hmm, that went rather well.<$FFFC>
+All troop, retreat!<$FFFE>
+That's just a scratch...<$FFFD>
+What matters is we did our duty.<$FFFC>
+I'm fine.<$FFFD>
+Don't worry about me.<$FFFC>
+Enjoy your remaining time.<$FFFD>
+Hehehehe...<$FFFE>
+What a stubborn old man!<$FFFE>
+Uuurgh...<$FFFC>
+You did unexpectedly well.<$FFFE>
+Are you alright master Olvar!?<$FFFE>
+I'm fine.<$FFFC>
+Still more demons are approaching!<$FFFE>
+This is bad.<$FFFC>
+We must protect him!<$FFFE>
+W..What...!?<$FFFC>
+I..can't die..like this...<$FFFE>
+Hmph....<$FFFC>
+My body..is shattered..but Master Bosel..will..Urghh!<$FFFE>
+But it's fine.<$FFFC>
+...My pets, run wild as much as you want...<$FFFC>
+Enjoy yourselves in my stead...Uarrgh!<$FFFE>
+Rag is done for....<$FFFC>
+But the demons haven't stopped their rampage!<$FFFE>
+Sir Diehärte, demons still threaten Olver.<$FFFE>
+We must purge them all before they threaten nearby villages.<$FFFE>
+Right, not one can escape.<$FFFC>
+Wipe out every single one of them!<$FFFE>
+How typically human, conceited to the end!<$FFFD>
+Come taste the power of demonkind!<$FFFE>
+Hahaha!<$FFFC>
+Time to harvest your lifeforce!<$FFFE>
+Guwaaah!<$FFFE>
+They've got wits after all.<$FFFC>
+Those brats from Elthlead!<$FFFE>
+What!?<$FFFC>
+The enemy is targeting us!<$FFFE>
+There's no escaping us!<$FFFC>
+Run as far as you want!<$FFFE>
+My beautiful face!!?<$FFFE>
+In such a place...<$FFFE>
+God of chaos!<$FFFC>
+Bring us salvation!<$FFFE>
+GYAAAA!<$FFFE>
+GYAAAA!<$FFFE>
+Magical...<$FFFE>
+Chaos-Sama!<$FFFE>
+Resistance is futile...<$FFFD>
+Urggh!<$FFFE>
+GYAAAA!<$FFFE>
+GYAAAA!<$FFFE>
+GOOON!<$FFFE>
+Defeated by inferior beings...<$FFFE>
+Why I am defeated!?<$FFFE>
+That's death...?<$FFFE>
+GYAAAA!<$FFFE>
+GOOON!<$FFFE>
+GOOON!<$FFFE>
+KISYAAAA!<$FFFE>
+KISYAAAA!<$FFFE>
+Now only Rag is left!<$FFFE>
+It's over.<$FFFE>
+Do you want Olver to open his door?<$FFFE>
+It is too dangerous right now to open it.<$FFFC>
+Please wait for a little while longer.<$FFFE>
+Alright.<$FFFE>
+Do you want Olver to open his door?<$FFFE>
+Please do.<$FFFE>
+Alright, just give me a minute!<$FFFE>
+Wait till we secure the area.<$FFFE>
+Certainly.<$FFFE>
+Please do.<$FFFE>
+Alright, just give me a minute!<$FFFE>
+Huh?<$FFFE>
+How did you break it so easily?<$FFFE>
+Now now, it wasn't that hard.<$FFFD>
+This door was built to ward off demons.<$FFFE>
+Do you want Olver to open his door?<$FFFE>
+Please do.<$FFFE>
+Alright, just give me a minute!<$FFFE>
+Huh?<$FFFE>
+How did you break it so easily?<$FFFE>
+Now now, it wasn't that hard.<$FFFD>
+This door was built to ward off demons.<$FFFE>
+Wait till we secure the area.<$FFFE>
+Certainly.<$FFFE>
+Sir Diehärte, it's an honor serving you.<$FFFE>
+Sir Diehärte...<$FFFC>
+I tire of lecturing you on your lack of skill...<$FFFD>
+Do you even try to take your job seriously?<$FFFE>
+Let's hurry back to Sieghart.<$FFFE>
+Are you the one called Olver?<$FFFE>
+Indeed, what business have you with me?<$FFFE>
+We are here on behalf of lady Jessica.<$FFFE>
+Lady Jessica, you say.<$FFFC>
+...I see.<$FFFC>
+Then it's my pleasure to meet you.<$FFFE>

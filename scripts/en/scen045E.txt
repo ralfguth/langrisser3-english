@@ -1,0 +1,134 @@
+Langrisser III dumper [0x1cd3ae to 0x1ce18b]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Jügler<$FFFF>
+Gerold<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+King Wilder<$FFFF>
+General Dios<$FFFF>
+Ruud<$FFFF>
+Viscount Raymond<$FFFF>
+Larcuss Commander<$FFFF>
+Layla<$FFFF>
+Laffel ~ Currently occupied by Barral<$FFFF>
+So the citizens got away, thanks to that guy, [diehardt's name]?<$FFFE>
+My humble apologies.<$FFFE>
+This lot made quite a fool of you.<$FFFC>
+Your pity was wasted and let them escape.<$FFFD>
+Don't think puppy eyes will make up for this.<$FFFC>
+Bah, I've had enough of this place.<$FFFD>
+I'm returning to the royal castle.<$FFFC>
+You'll be in command meanwhile, consider it a chance.<$FFFD>
+Oh before I forget, the tax rate will be doubled!<$FFFE>
+Doubled!?<$FFFC>
+But that will rob the people of their livelihood!<$FFFD>
+No this will lead to revolt....<$FFFE>
+Suits me just fine!<$FFFD>
+If it comes to it they'll feel our blades!<$FFFC>
+Those who defy me will get no mercy.<$FFFE>
+.....<$FFFE>
+I think we're done here.<$FFFE>
+General Dios .....<$FFFE>
+Lately, I wonder if following the King's orders is right.<$FFFE>
+You can't be thinking of desertion?<$FFFD>
+It's punished with death!<$FFFC>
+The King would send pursuers after you.<$FFFE>
+So what? You think common soldiers could find me?<$FFFC>
+You know I'm not that weak.<$FFFE>
+Even if you escape, do you want to leave your family and homeland behind? Please reconsider...<$FFFE>
+You're right.<$FFFD>
+If it were just me I'd go, but I can't drag my wife and children into it.<$FFFD>
+This is bad.<$FFFC>
+Something strange is going on but I can't tell what yet.<$FFFC>
+For now consider it a joke.<$FFFE>
+Okay.<$FFFC>
+As long as only I know how you feel.<$FFFD>
+I must return to my duty and relay messages for the King.<$FFFE>
+King Wilder is going mad....<$FFFC>
+I hate this! Just what is he up to? <$FFFE>
+Desertion means Death.....Damn it all!<$FFFE>
+Viscount Raymond' Mansion<$FFFF>
+The capital Larcussia has fallen to the imperial forces.<$FFFC>
+...This happened because we let our troops grow weak and idle.<$FFFD>
+We grew too used to peace and forgot to protect it.<$FFFE>
+Yes, Father.<$FFFE>
+Lord Raymond!<$FFFC>
+Some guests have just arrived.<$FFFE>
+Visitors?<$FFFC>
+Tell me who they might be.<$FFFE>
+Yes, sir!<$FFFC>
+It seems to be young Sir Klaus with some companions.<$FFFE>
+Oh, [diehardt's name].<$FFFC>
+Let them enter forthwith.<$FFFE>
+Yessir!<$FFFE>
+Lord Raymond. <$FFFC>
+It has been a long time.<$FFFE>
+Indeed far too long, [diehardt's name]!<$FFFE>
+At last I stand before you as a knight. <$FFFE>
+So from now on I shall call you Lord [diehardt's name].<$FFFC>
+Please just call me [diehardt's name] as before.<$FFFE>
+Well, so you are a knight now.<$FFFD>
+Hmm?<$FFFC>
+Tell me how you became one...<$FFFE>
+Yes, in the floating castle above Larcussia, where Duke William reigned, I finished my training.<$FFFE>
+I'm glad you escaped the castle's fall.<$FFFD>
+Do you have any report on the Rigüler Empire's invasion?<$FFFE>
+Yessir, we saw the invasion with our own eyes.<$FFFC>
+Imperial Field Marshal Altemuller led the assault himself.<$FFFD>
+Despite fighting bravely, Duke William fell in the attack.<$FFFE>
+So even with his masterly swordsmanship....<$FFFE>
+.....<$FFFE>
+Oh, this is the dukes only daughter Tiaris.<$FFFD>
+And this is Miss Layla.<$FFFE>
+An honor to meet you, Viscount Raymond.<$FFFE>
+She was Gerold's fianc....<$FFFE>
+I see.<$FFFC>
+Forgive me for raising such painful matters......<$FFFE>
+...It's alright, Viscount.<$FFFE>
+I won't give in to sorrow just yet. <$FFFD>
+We can't be certain Gerold is dead....<$FFFE>
+So tell me, was Gerold injured during that battle as well?<$FFFE>
+Yes.<$FFFC>
+It happened when he dueled Altemuller...<$FFFE>
+So that is how.<$FFFD>
+Imperial Field Marshal Altemuller.<$FFFB>
+<$FFFC>
+What a man....<$FFFE>
+Lord William.<$FFFC>
+We should recruit soldiers and prepare to reclaim Larcussia.<$FFFE>
+I agree.<$FFFE>
+But first we'll seek aid from our allies in Barral.<$FFFE>
+!!<$FFFC>
+That would be hopeless!<$FFFC>
+As for Barrel.....,<$FFFC>
+they....<$FFFE>
+......<$FFFE>
+What is the matter?<$FFFE>
+If I may explain. We fled Larcussia and headed to Laffel.<$FFFE>
+Shortly after, the town was attacked and seized by Barral's troops.<$FFFC>
+.....Ohh, Gerold.<$FFFE>
+What staggering blow...<$FFFE>
+King Wilder was such a kind man, why would he......<$FFFE>
+Ah yes, the Klaus and Barral royal families were once close.<$FFFE>
+Yes.<$FFFC>
+Princess Freya and I are childhood friends.....<$FFFE>
+...Well, it can't be helped.<$FFFC>
+I'll soon assemble my commanders and plan our next move.<$FFFE>
+But you seem to be worn out.<$FFFC>
+For now, please rest and recover from your ordeals.<$FFFE>

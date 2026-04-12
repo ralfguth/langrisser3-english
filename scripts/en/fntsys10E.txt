@@ -1,0 +1,177 @@
+None<$FFFF>
+Masayan Sword<$FFFF>
+Longsword<$FFFF>
+Greatsword<$FFFF>
+Mithril Sword<$FFFF>
+Ice Blade<$FFFF>
+Raijin Ken<$FFFF>
+Hrunting<$FFFF>
+Gram<$FFFF>
+The Lawnmower<$FFFF>
+Excalibur<$FFFF>
+Haja no Ken<$FFFF>
+Langrisser<$FFFF>
+Alhazard<$FFFF>
+Hand Axe<$FFFF>
+Battle Axe<$FFFF>
+Mithril Axe<$FFFF>
+Devil Axe<$FFFF>
+Rune Axe<$FFFF>
+Knife<$FFFF>
+Main Gauche<$FFFF>
+Gladius<$FFFF>
+Kryss<$FFFF>
+The Painless<$FFFF>
+Bamboo Spear<$FFFF>
+Iron Spear<$FFFF>
+Trident<$FFFF>
+Partisan<$FFFF>
+Feather Spear<$FFFF>
+Benkei Glaive<$FFFF>
+Gae Bolg<$FFFF>
+Gungnir<$FFFF>
+Club<$FFFF>
+Flail<$FFFF>
+Morningstar<$FFFF>
+Iron Dumbbell<$FFFF>
+Mithril Hammer<$FFFF>
+Dagda Club<$FFFF>
+Mjöllnir<$FFFF>
+Cypress Staff<$FFFF>
+Staff<$FFFF>
+Wand<$FFFF>
+Crystal Rod<$FFFF>
+Wizard Rod<$FFFF>
+Ice Staff<$FFFF>
+Staff of Life<$FFFF>
+Staff of the Dragon Lord<$FFFF>
+Holy Rod<$FFFF>
+Dark Rod<$FFFF>
+Wooden Bow<$FFFF>
+Shortbow<$FFFF>
+Longbow<$FFFF>
+Crossbow<$FFFF>
+Elven Bow<$FFFF>
+Sleep Bow<$FFFF>
+Harding<$FFFF>
+Artemis Bow<$FFFF>
+Sixteen Nights<$FFFF>
+Chrysanthemum Cut<$FFFF>
+Tiger Strike<$FFFF>
+Masamune<$FFFF>
+Muramasa<$FFFF>
+Lance<$FFFF>
+Mithril Lance<$FFFF>
+Bloody Lance<$FFFF>
+Lance of the Dragon Knight<$FFFF>
+Flame Lance<$FFFF>
+Zuftaf<$FFFF>
+Plate Armor<$FFFF>
+Silver Armor<$FFFF>
+Knight Plate<$FFFF>
+Aura Plate<$FFFF>
+Assault Suit<$FFFF>
+Chainmail<$FFFF>
+Earth Armor<$FFFF>
+Breastplate<$FFFF>
+Dragon Scale<$FFFF>
+Warrior Armor<$FFFF>
+Aeneas Armor<$FFFF>
+Leather Armor<$FFFF>
+Hard Leather<$FFFF>
+Black Suit<$FFFF>
+Cloth Clothes<$FFFF>
+Robe<$FFFF>
+Vaseline<$FFFF>
+Magical Bikini<$FFFF>
+Mirage Robe<$FFFF>
+Feathered Robe of the Goddess<$FFFF>
+Vestments of Darkness<$FFFF>
+Goddess Dress<$FFFF>
+Small Shield<$FFFF>
+Buckler<$FFFF>
+Protection Bracelet<$FFFF>
+Power Bracelet<$FFFF>
+Miracle Bracelet<$FFFF>
+Large Shield<$FFFF>
+Pata<$FFFF>
+Dragon Shield<$FFFF>
+Magic Shield<$FFFF>
+Achilles Shield<$FFFF>
+Hairband<$FFFF>
+Leather Cap<$FFFF>
+Tiara<$FFFF>
+Crown<$FFFF>
+Circlet<$FFFF>
+Veil of Light<$FFFF>
+Ninja Hood<$FFFF>
+Sallet<$FFFF>
+Armet<$FFFF>
+Mithril Helm<$FFFF>
+Egil Helm<$FFFF>
+Orb<$FFFF>
+Magic Circle<$FFFF>
+Talisman<$FFFF>
+Gjaller Horn<$FFFF>
+Crest of the Lord of Immortals<$FFFF>
+Gleipnir<$FFFF>
+Angel Feather<$FFFF>
+Blood Pact<$FFFF>
+Fire Orb<$FFFF>
+Talisman of the Holy King<$FFFF>
+Cross<$FFFF>
+Necklace<$FFFF>
+Amulet<$FFFF>
+Protect Ring<$FFFF>
+Power Ring<$FFFF>
+Star Coin<$FFFF>
+Angel Ring<$FFFF>
+Ring of the Stone Spirit<$FFFF>
+Megingjöro<$FFFF>
+Draupnir<$FFFF>
+Ring of Lauren<$FFFF>
+Necklace of the Hegemon<$FFFF>
+Crystal Ankh<$FFFF>
+Leg Garter<$FFFF>
+Grieves<$FFFF>
+Speed Boots<$FFFF>
+Magic Herb<$FFFF>
+Runestone<$FFFF>
+Nectar<$FFFF>
+Ambrosia<$FFFF>
+Valor Seed<$FFFF>
+Vitality Leaf<$FFFF>
+Wisdom Fruit<$FFFF>
+Power Fruit<$FFFF>
+Strength Fruit<$FFFF>
+Protection Fruit<$FFFF>
+Secret Stone of the Hero<$FFFF>
+Knight Crest<$FFFF>
+Ancient Egg<$FFFF>
+Book of Sukasaha<$FFFF>
+Heavenly Wings<$FFFF>
+Book of Mysteries<$FFFF>
+Heart of the Deceased<$FFFF>
+Water of the Demon World<$FFFF>
+Ghost Blood<$FFFF>
+Demon Dragon Stone<$FFFF>
+Book of White Magic<$FFFF>
+Holy Symbol<$FFFF>
+Tome of Black Magic<$FFFF>
+Magic Symbol<$FFFF>
+Apollo's Arrow<$FFFF>
+Destiny Arrow<$FFFF>
+Mermaid's Tear<$FFFF>
+Divine Blessing<$FFFF>
+Earth Rune<$FFFF>
+Wind Rune<$FFFF>
+Light Rune<$FFFF>
+Heaven Rune<$FFFF>
+Water Rune<$FFFF>
+Spirit Rune<$FFFF>
+Forest Rune<$FFFF>
+Fire Rune<$FFFF>
+Ghost Rune<$FFFF>
+Dragon Rune<$FFFF>
+Demon Rune<$FFFF>
+Demon Rune<$FFFF>

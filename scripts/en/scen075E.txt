@@ -1,0 +1,96 @@
+Langrisser III dumper [0x292e96 to 0x2937bf]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J...ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller...ler<$FFFF>
+Varna<$FFFF>
+Layla<$FFFF>
+Wolf<$FFFF>
+Barral Commander<$FFFF>
+Princess Freya<$FFFF>
+Dark Knight<$FFFF>
+Bosel<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Wormmaster Rag<$FFFF>
+Necromancer Grove<$FFFF>
+Vice Capitol Laffel<$FFFF>
+Gerold.....<$FFFE>
+Miss Layla..<$FFFE>
+Excuse me...<$FFFC>
+I'm going to look for Gerold!<$FFFE>
+The strategy worked.<$FFFD>
+Now, if Lord Raymond.....<$FFFE>
+Mr. Kirikaze!<$FFFE>
+..I have failed.....<$FFFD>
+The Empire's mechanical soldier decimated our main troops.<$FFFE>
+What about Father!?<$FFFE>
+My apologies.<$FFFC>
+We were separated. I don't know what happened.....<$FFFE>
+He may have been captured.<$FFFE>
+I'll look into it.<$FFFE>
+Thanks, Wolf.<$FFFD>
+Sophia, take Kirikaze to the church.<$FFFE>
+Certainly.<$FFFE>
+I'll come and help, too.<$FFFE>
+Things have changed; we must hurry to Larcussia!<$FFFE>
+Near Fort Rogier<$FFFF>
+Are you all right, Princess?<$FFFE>
+...Huh?<$FFFC>
+What happened?<$FFFE>
+Apologies.<$FFFC>
+We weren't strong enough.....<$FFFE>
+Don't say that.<$FFFC>
+You did well.<$FFFD>
+I take full responsibility.<$FFFE>
+Princess.....<$FFFE>
+Dark Knight.....<$FFFE>
+How could this be?<$FFFC>
+What happened?<$FFFE>
+They retook Laffel....<$FFFD>
+My weakness left us with only these.<$FFFD>
+It is entirely my fault.<$FFFE>
+Princess....<$FFFE>
+What do you say, Dark Knight?<$FFFC>
+Will you call me incompetent?<$FFFE>
+......Their power has grown.<$FFFD>
+Nothing could be done.<$FFFE>
+........<$FFFD>
+My fault for the enemy's goose chase.<$FFFD>
+Stopping them with what I had was impossible.<$FFFE>
+Dark Knight....<$FFFE>
+Regardless, this is all we can muster. We must return home.<$FFFD>
+Until our soldiers are ready, we can't invade.....<$FFFE>
+I see.<$FFFC>
+All units, withdraw to our homeland.<$FFFE>
+Velzeria Castle<$FFFF>
+So Barral fell that quickly.....<$FFFC>
+Quite unexpected.<$FFFE>
+Larcuss's main army was annihilated by the Empire.<$FFFE>
+Our only obstacle is the Empire.<$FFFC>
+But their power grew as a result.<$FFFE>
+.....No, I hear the Empire is exhausted too.<$FFFE>
+Only [diehardt's name]'s mobile division remains. Will they fight the Empire?<$FFFE>
+If they fight, both armies will be diminished.<$FFFC>
+A perfect chance for us.....<$FFFE>
+Grove.<$FFFC>
+How goes Altemuller's assassination?<$FFFE>
+We captured an Imperial General's sister.<$FFFC>
+We're using her as leverage.<$FFFE>
+I see.....<$FFFC>
+Wahahahahaha!<$FFFE>

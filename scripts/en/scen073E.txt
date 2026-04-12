@@ -1,0 +1,53 @@
+Langrisser III dumper [0x28703c to 0x2874bf]
+
+Cyber Warrior X
+
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J...ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller...ler<$FFFF>
+Varna<$FFFF>
+Viscount Raymond<$FFFF>
+Larcuss Commander<$FFFF>
+Rig...er Commander<$FFFF>
+General Bortz<$FFFF>
+Outskirts of Larcussia ~ Presently Imperial Territory<$FFFF>
+Charge!<$FFFC>
+We will reclaim our country!<$FFFE>
+Ohhhh!!<$FFFE>
+They show such passion.<$FFFC>
+With such a display, we should be fine.<$FFFE>
+Indeed.<$FFFE>
+If we retake the royal capitol at the same time the mobile division retakes Laffel, we'll have control of the two largest cities.<$FFFE>
+That would be a huge step towards reclaiming our kingdom.<$FFFE>
+....Sir Kirikaze.<$FFFC>
+Will you aid me now in our struggle to reclaim our kingdom?<$FFFE>
+It would be my pleasure.<$FFFE>
+After all, I cannot accept death until I have defeated the demonic sorceress who destroyed my homeland.<$FFFE>
+But, before I pursue my vendetta, I shall offer my service in driving out the Imperials.<$FFFC>
+If you will excuse me?<$FFFE>
+Make way!<$FFFE>
+Though I hail from a foreign land, for now I am pledged to the cause of Larcuss!<$FFFC>
+My name is Kirikaze!<$FFFE>
+Come forth if you dare accept my challenge!<$FFFE>
+General Bortz.<$FFFC>
+Their forces seem invigorated; I have this feeling we're about to be routed!<$FFFE>
+I'd expect nothing less from Lord Raymond.<$FFFC>
+He might even be able to corner me.<$FFFE>
+But, don't worry!<$FFFC>
+General Geier should be bringing relief forces shortly.<$FFFE>
+I see, now.<$FFFC>
+The General doesn't seem disturbed in the slightest in the face of this adversity.<$FFFE>
+Given that, we'll fight with our spirits high until those relief troops arrive!<$FFFE>

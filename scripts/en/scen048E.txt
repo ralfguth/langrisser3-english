@@ -1,0 +1,36 @@
+Langrisser III dumper [0x1e4e0e to 0x1e505b]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+<$FFFC>
+Scenario ~ 04<$FFFC>
+"The Despicable General Geier"<$FFFE>
+Having won the backing of the powerful ally called "Blademaster Gilbert,"<$FFFC>
+[diehardt's name] heads towards the land of Baron Torrand. Along the<$FFFC>
+way, on a mountain road he notices citizens of Larcuss being harried<$FFFC>
+by General Geier and the Imperial Army.<$FFFE>
+In order to rescue the citizens from the Imperial Army, [diehardt's name]<$FFFC>
+makes a stand against General Geier.<$FFFE>
+*Condition for Victory<$FFFC>
+ - Annihilation of all enemies but Geier<$FFFC>
+* Conditions for Defeat<$FFFC>
+ - Death of [diehardt's name]<$FFFC>
+ - Death of all NPCs<$FFFE>

@@ -1,0 +1,202 @@
+Langrisser III dumper [0xb2ece to 0xb4377]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General Bortz<$FFFF>
+Rigüler Commander<$FFFF>
+Galshook<$FFFF>
+-Defeat Bortz<$FFFC>
+ and Galshook<$FFFE>
+Death of Diehärte<$FFFE>
+Larcussia Defense Perimeter ~ Imperial Front-Line Base<$FFFF>
+The enemy has come into sight, Sir Diehärte.<$FFFE>
+Wow, it's huge!<$FFFE>
+I have to admit, it's impressive!<$FFFE>
+So this is what hurt father...<$FFFE>
+Stay right there.<$FFFC>
+Galshook will give you a quick, painless death!<$FFFE>
+We won't fall for that!<$FFFE>
+Then come try your luck.<$FFFC>
+I'll take you on personally.<$FFFE>
+Just wait!<$FFFC>
+Today you'll pay for Lord Raymond!<$FFFE>
+It emits the same energy as an ancient ruin I once visited.<$FFFE>
+I see.<$FFFC>
+I can't fathom the knowledge needed to build this.<$FFFE>
+Sir Diehärte.<$FFFC>
+Lord Kirikaze reports Galshook must reload its magical cannon after it is fired.<$FFFD>
+However, we don't know exactly how long that pause will be...<$FFFE>
+At least we can advance safely during that pause.<$FFFE>
+Now I see why our troops were defeated earlier.<$FFFD>
+Lord Raymond didn't know his foe, and his huge army was hard to maneuver.<$FFFD>
+We're a small elite force.<$FFFC>
+We must use our mobility to our advantage against this foe.<$FFFE>
+Understood.<$FFFE>
+So that's the giant's power...<$FFFD>
+Anything you learned that could help us?<$FFFE>
+The cannon can only fire in a straight line.<$FFFD>
+Stay out of its direct line of fire and we'll be fine.<$FFFE>
+Okay.<$FFFC>
+I'll keep that in mind.<$FFFE>
+Those before us are all Larcussia's army has left.<$FFFD>
+If they fall today, none will stand against the Empire.<$FFFD>
+Lend me your strength to build an unrivaled empire, so conflict becomes obsolete!<$FFFE>
+With pleasure, General!<$FFFE>
+Let's finish this, everyone!<$FFFD>
+Hope it goes as smoothly as Lord Raymond's battle.<$FFFE>
+Don't worry.<$FFFC>
+If needed, we'll gladly give our lives for our general's victory!<$FFFE>
+Hah..., you really embarrass me.<$FFFD>
+But don't you dare throw your lives away,<$FFFC>
+after all I did to save your hides.<$FFFC>
+Got that?<$FFFE>
+Galshook, start up!<$FFFC>
+All troops, prepare for battle!<$FFFC>
+Don't stand in its line of fire!<$FFFE>
+Of course, Sir.<$FFFC>
+None of us wish to die.<$FFFE>
+Hold out a bit longer!<$FFFC>
+If we win today, none will dare resist the Empire!<$FFFD>
+Then we'll taste the sweet fruits of peace,<$FFFC>
+and return home proud of what we achieved!<$FFFD>
+Let those thoughts carry you!<$FFFE>
+2nd division advance!<$FFFC>
+Lure the enemy into the cannon's range!<$FFFE>
+Doing well so far.<$FFFC>
+But the real fun is just starting!<$FFFE>
+You find two sharp rocks pointing at the sky.<$FFFC>
+Strange magic radiates from them.<$FFFE>
+What do you do?<$FFFE>
+Dig a hole near the rock<$FFFE>
+Destroy the rocks<$FFFE>
+Place yourself between the rocks<$FFFE>
+You dig till your arms tire, but find nothing...<$FFFE>
+A crack appears on the rock on impact,<$FFFD>
+but it can't be destroyed completely...<$FFFE>
+You step between the rocks and sacred light flashes.<$FFFD>
+Opening your eyes, you find sparkling arrows hovering before you.<$FFFE>
+Apollo's Arrow was obtained!<$FFFE>
+All..this...pain...<$FFFE>
+Hey death...I got things to do...come back later...<$FFFE>
+Father...<$FFFE>
+Blasted!<$FFFE>
+I should have listened to my horse...<$FFFE>
+You can't imagine my pain...<$FFFE>
+Sir Diehärte...<$FFFE>
+Lushiris...<$FFFE>
+Lushiris!<$FFFC>
+Judge those who sinned against me!<$FFFE>
+Gruuu...<$FFFE>
+So this is where you reside, Death?<$FFFE>
+I..I've waited for this day...<$FFFE>
+General Bortz is injured!<$FFFC>
+Leave the rest to us, General!<$FFFE>
+You think I'd just run like that!?<$FFFE>
+Defending our wounded general weakens us!<$FFFC>
+Please withdraw from the battlefield for now.<$FFFE>
+...So that's how it is.<$FFFC>
+If I'm an obstacle, I'll leave.<$FFFD>
+I'll fall back to Larcussia and regroup.<$FFFC>
+But promise me one thing.<$FFFC>
+...Don't die.<$FFFE>
+Yessir!<$FFFE>
+I hope Galshook can save the day.<$FFFC>
+Damn, I'm pathetic.<$FFFD>
+Once back in Larcussia I'll regroup and return the favor...<$FFFE>
+How could I be defeated like this...<$FFFC>
+Damn!<$FFFE>
+Today was your lucky day.<$FFFC>
+New orders! All troops retreat!<$FFFE>
+Yes, sir!<$FFFE>
+Fall back to Larcussia and regroup!<$FFFE>
+See how you handle my spear!<$FFFE>
+That's all!?<$FFFC>
+We won't fall that easy!<$FFFE>
+BZZ...Damage exceeds capacity...<$FFFC>
+All functions halted...<$FFFE>
+Even without that thing we're far from done.<$FFFC>
+You'll have to put up with me from here on!<$FFFC>
+Time to do something dark!<$FFFE>
+Target acquired!<$FFFC>
+Destroy them!<$FFFE>
+Systems took minor damage.<$fe><$14><$FFFC>
+.<$fe><$14>.<$fe><$14>.<$fe><$14>..<$FFFD>
+Function intact.<$FFFC>
+Continue firing.<$FFFE>
+Target locked!<$FFFC>
+Releasing magical charge!<$FFFD>
+Magical cannon fire!<$FFFE>
+Long live the Empire!<$FFFC>
+Curses on Larcuss!<$FFFE>
+Kyaaah!<$FFFE>
+The remnants will cover the earth in blood...the prophecy was true...<$FFFE>
+My utter carelessness did this...<$FFFE>
+After coming so far...<$FFFE>
+Hussa for the Rigüler Empire!<$FFFE>
+You win, now stop!<$FFFE>
+I've still got some fight left in me...<$FFFE>
+Aaah...<$FFFE>
+Such power...<$FFFE>
+W.Why!<$FFFC>
+Why fight them at all?<$FFFE>
+I can't die now...<$FFFC>
+Our army is in shambles...<$FFFE>
+My strength is gone...<$FFFE>
+It's hopeless...<$FFFE>
+I can't move my body!<$FFFE>
+My believes live ever on...<$FFFE>
+I can't move my body!<$FFFE>
+I couldn't even land a hit!<$FFFE>
+I can't move my body!<$FFFE>
+We have been defeated...<$FFFE>
+I can't move my body!<$FFFE>
+Guaarg...<$FFFE>
+I can't move my body!<$FFFE>
+Kluso!<$FFFE>
+I can't move my body!<$FFFE>
+Bastards!<$FFFE>
+You'll pay for this!<$FFFC>
+I know what you did!<$FFFE>
+Uwaaahh!<$FFFE>
+Uarrggh!<$FFFE>
+I'm defeated...<$FFFE>
+The Remnants of Larcuss are here...<$FFFE>
+You bastards, slaughtering my men like that!<$FFFE>
+Dammit!<$FFFC>
+But that's just fine!<$FFFD>
+With just me and y'all I can release all my anger!<$FFFC>
+Come at me with all you've got!<$FFFE>
+...Sir Diehärte.<$FFFC>
+Wasn't destroying that weapon enough?<$FFFD>
+Hunting humans like this is senseless cruelty.FFFE>
+...Sir Diehärte.<$FFFC>
+Wasn't destroying that weapon enough?<$FFFD>
+Hunting humans like this is senseless cruelty.<$FFFE>
+Keh, you really did it!<$FFFE>
+It's over...<$FFFE>
+You commanded well today, Sir Diehärte.<$FFFE>
+Sir Diehärte....<$FFFC>
+Are you even serious about our mission?<$FFFD>
+It sure doesn't seem so...<$FFFE>
+All troops advance!<$FFFD>
+Take them out in one strike!<$FFFE>
+Alright, commence the counter-attack!<$FFFD>
+All troops, to the offensive!<$FFFE>

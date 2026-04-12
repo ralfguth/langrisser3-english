@@ -1,0 +1,54 @@
+Langrisser III dumper [0x276bd4 to 0x277067]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Imperial First Prince, Paul<$FFFF>
+Close Associate<$FFFF>
+<$FFFC>
+Scenario ~ 15<$FFFC>
+"The Haja no Ken"<$FFFE>
+Dios, who has deserted from the Barral Army, has<$FFFC>
+joined the party as they hurry towards the ruins of<$FFFC>
+Estool, where that blade from a foreign country,<$FFFC>
+the Haja no Ken, now sleeps.<$FFFE>
+As so many causes coalesce into one,<$FFFC>
+history is certain to be made......<$FFFE>
+*Condition for Victory<$FFFC>
+ -Complete annihilation of enemies<$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Loss of the Haja no Ken<$FFFE>
+Rigüler Castle ~ Paul's Personal Quarters<$FFFF>
+Hohoho!<$FFFC>
+So that ever-victorious, undefeated Altemuller is hard-pressed in battle!<$FFFC>
+My heart pounds in ecstasy!<$FFFE>
+Paul, Your Eminence.<$FFFC>
+It is most gratifying indeed.<$FFFE>
+Just icing on the cake.<$FFFC>
+His present activities merely confirm that he is on the wane.<$FFFE>
+With his father's death, my father finally became first in line to inheritor the power and privilege of the Imperial Kaiser.<$FFFE>
+Furthermore, since I am Father's child, it will be difficult for Altemuller to claim the succession over me!<$FFFE>
+Since he so rarely blunders, though, he always gets on my nerves.<$FFFE>
+It's been said that General Geier also holds little love for that damned upstart.<$FFFE>
+....What do you think?<$FFFE>
+Hmm....that's an interesting bit of information.<$FFFC>
+I wonder if we can use him.<$FFFE>
+One way or another, winning this war for the Empire will be the last thing that fool Altemuller ever does!<$FFFE>

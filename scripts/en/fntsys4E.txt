@@ -1,0 +1,237 @@
+Fighter<$FFFF>
+Fighter<$FFFF>
+Fighter<$FFFF>
+Werewolf<$FFFF>
+Fighter<$FFFF>
+Gladiator<$FFFF>
+Gladiator<$FFFF>
+Gladiator<$FFFF>
+Troll<$FFFF>
+Gladiator<$FFFF>
+Swordsman<$FFFF>
+Swordsman<$FFFF>
+Swordsman<$FFFF>
+Minotauros<$FFFF>
+Swordsman<$FFFF>
+Hero<$FFFF>
+King<$FFFF>
+Samurai Master<$FFFF>
+Queen<$FFFF>
+Sword Master<$FFFF>
+Kaiser<$FFFF>
+Queen<$FFFF>
+Prince<$FFFF>
+Sword Master<$FFFF>
+Dark Knight<$FFFF>
+Mad King<$FFFF>
+Cyclops<$FFFF>
+Gal Shok<$FFFF>
+Cleric<$FFFF>
+Cleric<$FFFF>
+Cleric<$FFFF>
+Priest<$FFFF>
+Priest<$FFFF>
+Priest<$FFFF>
+High Priest<$FFFF>
+High Priest<$FFFF>
+High Priest<$FFFF>
+Agent<$FFFF>
+Goddess of Light<$FFFF>
+Agent<$FFFF>
+Agent<$FFFF>
+Bishop<$FFFF>
+Bishop<$FFFF>
+Bishop<$FFFF>
+Healer<$FFFF>
+Paladin<$FFFF>
+Paladin<$FFFF>
+Paladin<$FFFF>
+Dark Priest<$FFFF>
+Shika Paladin<$FFFF>
+Saint<$FFFF>
+Saint<$FFFF>
+Saint<$FFFF>
+Dark Saint<$FFFF>
+Princess<$FFFF>
+Princess<$FFFF>
+Princess<$FFFF>
+Sage<$FFFF>
+Sage<$FFFF>
+Dark Princess<$FFFF>
+Shaman<$FFFF>
+Shaman<$FFFF>
+Necromancer<$FFFF>
+Shaman<$FFFF>
+Summoner<$FFFF>
+Summoner<$FFFF>
+Summoner<$FFFF>
+Summoner<$FFFF>
+Shika Summoner<$FFFF>
+Zauberer<$FFFF>
+Zauberer<$FFFF>
+Zauberer<$FFFF>
+Zauberer<$FFFF>
+Wizard<$FFFF>
+Wizard<$FFFF>
+Dark Master<$FFFF>
+Dark Master<$FFFF>
+Sorceror<$FFFF>
+Sorceror<$FFFF>
+Sorceror<$FFFF>
+Mage<$FFFF>
+Mage<$FFFF>
+Mage<$FFFF>
+Alraune<$FFFF>
+Archmage<$FFFF>
+Archmage<$FFFF>
+Archmage<$FFFF>
+Lamia<$FFFF>
+Hermit<$FFFF>
+Hermit<$FFFF>
+Hermit<$FFFF>
+Hunter<$FFFF>
+Hunter<$FFFF>
+Hunter<$FFFF>
+Shika Hunter<$FFFF>
+Archer<$FFFF>
+Archer<$FFFF>
+Archer<$FFFF>
+Dark Archer<$FFFF>
+Shika Archer<$FFFF>
+Sniper<$FFFF>
+Sniper<$FFFF>
+Sniper<$FFFF>
+Dark Sniper<$FFFF>
+Shika Sniper<$FFFF>
+Ranger<$FFFF>
+Ranger<$FFFF>
+Ranger<$FFFF>
+Archer Knight<$FFFF>
+Archer Knight<$FFFF>
+Archer Knight<$FFFF>
+Bow Knight<$FFFF>
+Bow Knight<$FFFF>
+Bow Knight<$FFFF>
+Bow Lord<$FFFF>
+Bow Lord<$FFFF>
+Bow Lord<$FFFF>
+Bow Master<$FFFF>
+Bow Master<$FFFF>
+Bow Master<$FFFF>
+Croco Knight<$FFFF>
+Croco Knight<$FFFF>
+Croco Knight<$FFFF>
+Scylla<$FFFF>
+Swimmer<$FFFF>
+Serpent Knight<$FFFF>
+Serpent Knight<$FFFF>
+Serpent Knight<$FFFF>
+Sea Serpent<$FFFF>
+Pirate<$FFFF>
+Serpent Lord<$FFFF>
+Serpent Lord<$FFFF>
+Serpent Lord<$FFFF>
+Hydra<$FFFF>
+Captain<$FFFF>
+Serpent Master<$FFFF>
+Serpent Master<$FFFF>
+Serpent Master<$FFFF>
+Kraken<$FFFF>
+Knight<$FFFF>
+Knight<$FFFF>
+Knight<$FFFF>
+Silver Knight<$FFFF>
+Silver Knight<$FFFF>
+Silver Knight<$FFFF>
+Highlander<$FFFF>
+Highlander<$FFFF>
+Highlander<$FFFF>
+Knight Master<$FFFF>
+Royal Guard<$FFFF>
+Knight Master<$FFFF>
+Unicorn Knight<$FFFF>
+Unicorn Knight<$FFFF>
+Manticore<$FFFF>
+Wolf Knight<$FFFF>
+Grand Knight<$FFFF>
+Grand Knight<$FFFF>
+Cerberos<$FFFF>
+Shika Wolf<$FFFF>
+Grand Lord<$FFFF>
+Grand Lord<$FFFF>
+Master Dino<$FFFF>
+Shika-Shika Wolf<$FFFF>
+Grand Master<$FFFF>
+Grand Master<$FFFF>
+Behemoth<$FFFF>
+Lord<$FFFF>
+Lord<$FFFF>
+Lord<$FFFF>
+Wood Golem<$FFFF>
+Spearman<$FFFF>
+High Lord<$FFFF>
+High Lord<$FFFF>
+High Lord<$FFFF>
+Stone Golem<$FFFF>
+Shika Spearman<$FFFF>
+General<$FFFF>
+General<$FFFF>
+General<$FFFF>
+Iron Golem<$FFFF>
+Shika-Shika Spearman<$FFFF>
+Marshal<$FFFF>
+Marshal<$FFFF>
+Marshal<$FFFF>
+Shika Marshal<$FFFF>
+Taros<$FFFF>
+Hawk Knight<$FFFF>
+Pegasus Knight<$FFFF>
+Hawk Knight<$FFFF>
+Hawk Knight<$FFFF>
+Wyrm<$FFFF>
+Dragon Knight<$FFFF>
+Dragon Knight<$FFFF>
+Dragon Knight<$FFFF>
+Wyvern<$FFFF>
+Dragon Lord<$FFFF>
+Dragon Lord<$FFFF>
+Dragon Lord<$FFFF>
+Sphinx<$FFFF>
+Dragon Master<$FFFF>
+Dragon Master<$FFFF>
+Dragon Master<$FFFF>
+Roc<$FFFF>
+Bandido<$FFFF>
+Bandido<$FFFF>
+Bandido<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Assassin<$FFFF>
+Assassin<$FFFF>
+Assassin<$FFFF>
+Ninja<$FFFF>
+High Master<$FFFF>
+Dullahan<$FFFF>
+Dullahan Lord<$FFFF>
+Incubus<$FFFF>
+Succubus<$FFFF>
+Arch Demon<$FFFF>
+Demon Lord<$FFFF>
+Lord of Chaos<$FFFF>
+Ghost<$FFFF>
+Lich<$FFFF>
+Wraith<$FFFF>
+Death<$FFFF>
+Ghoul<$FFFF>
+Mummy<$FFFF>
+Living Armor<$FFFF>
+Vampire Lord<$FFFF>
+Great Dragon<$FFFF>
+Chaos Dragon<$FFFF>
+Bahamut<$FFFF>
+Fnir<$FFFF>
+Gel Gazer<$FFFF>
+Ordinary Person<$FFFF>
+Ordinary Person<$FFFF>
+Ordinary Person<$FFFF>

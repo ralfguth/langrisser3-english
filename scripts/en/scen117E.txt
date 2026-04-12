@@ -1,0 +1,35 @@
+Langrisser III dumper [0x37c0ea to 0x37c363]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+ <$FFFC>
+Scenario - ?2<$FFFC>
+"Successive Heroes"<$FFFE>
+To honor the wish of Sophia, the chieftain of the Shika Tribe<$FFFC>
+handed over the Time and Space Warping Stone to you.<$FFFE>
+Being curious about its uses [diehardt's name] wants to test its powers right away.<$FFFE>
+However, because [diehardt's name] didn't get to know the exact method to use the stone,<$FFFE>
+he simply takes it between his hands and mumbles a random incantation, hoping for the best.<$FFFC>
+Suddenly the stone radiates a blinding light and when [diehardt's name] opens his eyes again, he realizes that he has been taken to a peculiar place.<$FFFE>
+Conditions of Victory<$FFFC>
+-Defeat Ledin and Erwin<$FFFC>
+Conditions of Defeat<$FFFC>
+-Death of Diehärte<$FFFE>

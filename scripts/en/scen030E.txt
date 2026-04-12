@@ -1,0 +1,288 @@
+Langrisser III dumper [0x13682a to 0x13850b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Bosel<$FFFF>
+Anna<$FFFF>
+General Varna<$FFFF>
+Velzerian Commander<$FFFF>
+Monster<$FFFF>
+Sieghart<$FFFF>
+-Defeat Bosel<$FFFE>
+-Death of [diehardt's name]<$FFFC>
+-Death of Anna<$FFFE>
+Velzerian Castle ~ Underground<$FFFF>
+Hmm, Ferakia and Grove are finished too.<$FFFE>
+You're Bosel!<$FFFE>
+Indeed. Bosel is my name.<$FFFC>
+Like all Velzerian kings, bearer of Alhazard.<$FFFE>
+Though humans know me as<$FFFC>
+the Prince of Darkness.<$FFFE>
+You destroyed my homeland!<$FFFE>
+Hahaha, so it seems.<$FFFC>
+A great pleasure all those years back, what fun.<$FFFE>
+Fun!?<$FFFE>
+Precisely.<$FFFC>
+Nothing more entertaining than destroying petty humans.<$FFFD>
+And who'd care about that eastern village anyway.<$FFFE>
+Uuaarrgh, you'll pay, Bosel!<$FFFE>
+Everyone, let us smite the archfiend of humanity!<$FFFC>
+We cannot let him endanger the peace so many died for!<$FFFE>
+Well said!<$FFFC>
+Like it or not, you'll know the power of humans, Bosel!<$FFFE>
+Muhahaha, behold the might of Alhazard!<$FFFE>
+By Alhazard's bearer Bosel, I command you to take shape!<$FFFE>
+That can't be!<$FFFC>
+A moment ago there was no demonic presence!<$FFFE>
+They were hidden somehow.<$FFFE>
+He summoned an Arch demon and a Bahamut.<$FFFC>
+Summoning lesser minions alone is beyond difficult.<$FFFE>
+And he summoned them all with one incantation.<$FFFE>
+Such is the terrible might of Alhazard.<$FFFE>
+He who wields Alhazard becomes King of Demons.<$FFFE>
+All demons swear loyalty to their Lord and obey his every word.<$FFFC>
+Alhazard's power over demons is said to be infinite.<$FFFE>
+Hoho.<$FFFC>
+That woman knows much of the demon sword.<$FFFC>
+As one would expect from the Avatar of Lushiris.<$FFFE>
+But your meddling ends once you're dead.<$FFFE>
+You'll regret underestimating us, Bosel.<$FFFC>
+By Lushiris' name I vow to defeat you.<$FFFC>
+Such is my holy mission.<$FFFE>
+Hmph.<$FFFC>
+You're but a fragile bag of flesh, offshoot of Lushiris.<$FFFC>
+Nothing for me to fear.<$FFFE>
+Now, let the bloody festivities begin!<$FFFE>
+Threatening the hostage was your last hope.<$FFFD>
+Give up, Bosel.<$FFFE>
+Ridiculous! Lowly humans can't harm me!<$FFFC>
+Soon you'll feel my wrath for your insolence!<$FFFE>
+Oh...<$FFFC>
+Be my guest.<$FFFE>
+Sister!<$FFFE>
+Anna!<$FFFC>
+Hold out a little longer!<$FFFC>
+Help is coming!<$FFFE>
+Please stop!<$FFFC>
+Don't hurt my big sister!<$FFFE>
+Hehehehe...<$FFFC>
+If she turns on me, she chooses death.<$FFFD>
+Humans are brainless creatures...<$FFFE>
+Hmph!<$FFFC>
+You won't be smug for long!<$FFFE>
+Kill them all!<$FFFE>
+GYAAAA!<$FFFE>
+Surround them!<$FFFE>
+SYAAAA!<$FFFE>
+The price for mocking me<$FFFC>
+is paid in blood!<$FFFE>
+What wasteful struggle...<$FFFE>
+Show fools the power of darkness!<$FFFC>
+Move out!<$FFFE>
+GA!<$FFFE>
+In the hole, a floating feather appears.<$FFFC>
+But it's too far to reach by hand.<$FFFE>
+What do you do?<$FFFE>
+Reach with your weapon.<$FFFE>
+Jump into the hole.<$FFFE>
+Breath at the feather.<$FFFE>
+The weapon touches the feather and it turns to dust....<$FFFE>
+You jump in, grasp the feather, and its magic lifts you out.<$FFFE>
+Heavenly Wings were obtained!<$FFFE>
+Your breath blows the feather out of reach.<$FFFE>
+In the hole you notice a large floating egg.<$FFFE>
+Take the egg?<$FFFE>
+You got the egg.<$FFFE>
+What do you do with it?<$FFFE>
+Eat it.<$FFFE>
+Try to open it.<$FFFE>
+Put it away carefully.<$FFFE>
+<$f6>protection<$fc> Strength rises +1<$FFFE>
+W<$FFFE>
+The Ancient Egg was obtained!<$FFFE>
+The egg keeps sinking to the bottom of the hole.<$FFFE>
+Your last hour, Bosel!<$FFFC>
+You have no hope!<$FFFE>
+Nonsense!<$FFFC>
+Pathetic insects!<$FFFD>
+Humans shall perish, and the demon reign will rise!<$FFFE>
+That day will never come!<$FFFE>
+To die...in the final battle...<$FFFE>
+I still can...<$FFFE>
+Father...<$FFFE>
+Coty...<$FFFE>
+Sorry, everyone...<$FFFC>
+So tired...<$FFFE>
+Oh...<$FFFE>
+Sir, Diehärte...<$FFFE>
+Ahh, that light....<$FFFE>
+Sophia...<$FFFE>
+Guuugh...<$FFFE>
+I've failed!<$FFFE>
+This could have been avoided....<$FFFE>
+Oh, the blue sky....<$FFFE>
+I have no regrets...<$FFFE>
+For all humanity, I'll destroy you!<$FFFC>
+Prepare yourself, Bosel!<$FFFE>
+Hohoho!<$FFFC>
+Taste the suffering of the powerless!<$FFFC>
+I'll teach you unimaginable pain!<$FFFE>
+This is absurd!?<$FFFE>
+W-where comes such strength?<$FFFD>
+Human power should be inferior to ours...<$FFFC>
+Hohoho...<$FFFE>
+Damn you, Bosel!<$FFFC>
+I won't allow this!<$FFFE>
+Hmph.<$FFFC>
+I can't die just yet.<$FFFE>
+Return Anna as promised or face the consequences.<$FFFD>
+For Varna, even death can't stop me!<$FFFE>
+This castle is your grave!<$FFFC>
+Only your death frees this world!<$FFFE>
+Hahaha.<$FFFC>
+Want to taste Alhazard's power?<$FFFE>
+Anna...<$FFFE>
+Big Sis!<$FFFE>
+Trust me....help is coming.<$FFFD>
+I won't abandon you till my last breath...<$FFFE>
+You're such a nuisance!<$FFFE>
+Bosel!<$FFFC>
+Prepare yourself!<$FFFE>
+Such mockery...<$FFFC>
+I..I'm Alhazard's bearer...this can't...<$FFFE>
+Alhazard was obtained!<$FFFE>
+This victory makes me proud to serve you, [diehardt's name].<$FFFE>
+Sir Diehärte...<$FFFC>
+I'm just glad we made it...<$FFFD>
+But it could've gone better...<$FFFE>
+Your Excellency!<$FFFE>
+You did unexpectedly well, Diehärte.<$FFFC>
+My help wasn't needed.<$FFFE>
+Altemuller?<$FFFC>
+So you're alive?<$FFFE>
+Of course.<$FFFD>
+But is Varna's sister safe?<$FFFE>
+She is safe.<$FFFE>
+Your Excellency, and [diehardt's name], my deepest thanks...<$FFFE>
+Anna, are you hurt?<$FFFE>
+My eternal gratitude, lord Altemuller.<$FFFE>
+Thank you.<$FFFC>
+Only our combined efforts kept everyone alive.<$FFFE>
+This ends Velzeria's ambitions too.<$FFFD>
+For a while, demon invasions are no threat.<$FFFE>
+So this is the power of Alhazard?<$FFFE>
+This overwhelming power must come from Alhazard...<$FFFE>
+I cannot win against such might.<$FFFE>
+GUGAAAAAA!<$FFFE>
+Master Bosel.....<$FFFE>
+Urggh!<$FFFE>
+Lord Chaos...<$FFFC>
+Lift up the soul from my body...<$FFFE>
+Guaaaargh!<$FFFE>
+After coming so far...<$FFFE>
+Not a grain of power is left within me...<$FFFE>
+GAAAAH!<$FFFE>
+GAAAAAH!<$FFFE>
+GAAAARR!<$FFFE>
+GRRAAAAH!<$FFFE>
+I had so high expectations for myself....<$FFFE>
+You brutes...<$FFFE>
+This gotta be a lie...<$FFFC>
+This is the end of a fulfilled life...<$FFFE>
+Guargh!<$FFFE>
+FUUU!<$FFFE>
+Aaah...<$FFFC>
+It's hopeless...<$FFFE>
+Bastards...<$FFFE>
+FUUU!<$FFFE>
+GOOON!<$FFFE>
+GISYAAA!<$FFFE>
+GISYAAA!<$FFFE>
+GOOON!<$FFFE>
+You miserable humans, all your struggling is in vain.<$FFFC>
+Now you shall realize your complete helplessness!<$FFFE>
+Kyaah!<$FFFC>
+Big....Sis....<$FFFE>
+Anna!!<$FFFE>
+Kyaaaaaah!<$FFFE>
+Hohoho!<$FFFC>
+AHAHAHAAHA!<$FFFE>
+Curse you, Bosel!<$FFFE>
+Argh, we couldn't save her....<$FFFE>
+Found you at last, Bosel!<$FFFE>
+Varna?<$FFFE>
+Return my sister Anna!<$FFFE>
+Oho, if it isn't the one who disposed of that nuisance Altemuller.<$FFFE>
+What?<$FFFE>
+Silence!<$FFFC>
+You promised to release Anna!<$FFFE>
+If you want to see her so badly,<$FFFC>
+here she is!<$FFFE>
+S..Sister!<$FFFE>
+A..Anna!<$FFFD>
+....Bosel!<$FFFC>
+Release Anna!<$FFFE>
+Foolish woman.<$FFFC>
+A promise to a lowly human means nothing to me!<$FFFE>
+Damn you!<$FFFC>
+...Bosel!<$FFFE>
+So her sister was a hostage.<$FFFE>
+And for her sake, Altemuller was....<$FFFE>
+She was forced to kill Altemuller....<$FFFE>
+Alone with no kin is a cruel fate.<$FFFE>
+....We must help her.<$FFFC>
+Varna's sister must not become another victim like Altemuller.<$FFFE>
+Truer words never spoken!<$FFFE>
+Using blood kin for your ends...<$FFFC>
+You won't get away, Bosel!<$FFFE>
+Excellent, simply excellent!<$FFFC>
+Let those dark feelings flow into Alhazard!<$FFFE>
+So you've come this far.<$FFFC>
+As expected from slayers of my three commanders.<$FFFE>
+But don't forget my trump card here.<$FFFE>
+!?<$FFFE>
+Will you oppose me with this girl's life at stake?<$FFFE>
+S..Sister....<$FFFE>
+Anna!<$FFFE>
+Damn, he's using her as a shield.<$FFFE>
+Worry not.<$FFFE>
+Who said that!?<$FFFE>
+I made it in time.<$FFFE>
+Your Excellency!<$FFFE>
+H..how...Varna should've killed you...<$FFFE>
+Varna!<$FFFC>
+You crossed me!<$FFFE>
+No, you were too deluded to see.<$FFFC>
+Prepare yourself, Bosel!<$FFFE>
+Altemuller?<$FFFC>
+How are you alive?<$FFFE>
+Save the details for later.<$FFFC>
+Focus on finishing this battle!<$FFFE>
+Now Bosel, no more hiding behind your hostage!<$FFFE>
+....Huhuhuwahahahaa!<$FFFC>
+I hold the almighty Alhazard!<$FFFE>
+Obsessed with power to the end.<$FFFC>
+...such foolishness.<$FFFE>
+Father!?<$FFFE>
+With my holy power, I seal Alhazard's demonic might.<$FFFE>
+What...Alhazard's power fades...<$FFFE>
+Now!<$FFFC>
+Bring him down with one sweep!<$FFFE>

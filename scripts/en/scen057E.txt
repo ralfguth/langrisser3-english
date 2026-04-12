@@ -1,0 +1,68 @@
+Langrisser III dumper [0x221140 to 0x22177f]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Larcuss Commander<$FFFF>
+Viscount Raymond<$FFFF>
+General Bortz<$FFFF>
+Barral Commander<$FFFF>
+Adjutant Gates<$FFFF>
+General Geier<$FFFF>
+Do Kahni, Champion<$FFFC>
+I can't...lose....<$FFFE>
+What did you do to Sophia?<$FFFE>
+We took her.<$FFFC>
+She'll be sacrifice for ceremony...<$FFFE>
+Oh, no!<$FFFE>
+A sacrifice!?<$FFFC>
+Has it already happened!?<$FFFE>
+Sacrifice will be at next full moon.<$FFFE>
+The next full moon is in three nights.<$FFFC>
+Let's hurry.<$FFFE>
+Without the gate wardens, their power can't be used properly.<$FFFE>
+Excuse me!<$FFFC>
+Sir [diehardt's name]?<$FFFE>
+What is it?<$FFFE>
+Lord Raymond sent us to guard the south gate!<$FFFE>
+We must hurry to the Shika Tribe's base.<$FFFC>
+We'll leave this gate's defense to you!<$FFFE>
+Yes, sir!<$FFFE>
+No time to waste.<$FFFC>
+Everyone, let's move out!<$FFFE>
+Plains Near the Lushiris North Gate<$FFFF>
+Any news from the front?<$FFFE>
+The enemy's stronger than expected. We can't advance.<$FFFE>
+General Bortz is impressive indeed.<$FFFE>
+Worry not.<$FFFC>
+He's a minor headache we'll crush on return.<$FFFE>
+It'll just be a matter of time.<$FFFE>
+The Larcuss remnants seem weak, but Lord Raymond is formidable.<$FFFE>
+When he returns, we're in trouble.<$FFFC>
+What to do....<$FFFE>
+City of Laffel - Barral Territory<$FFFF>
+S..so this is the Empire's airship fleet, the Grim Reaper...<$FFFE>
+Those foolish Barral soldiers all scattered.<$FFFE>
+Hmmph!<$FFFC>
+Without the Dark Knight, they're no match for us.<$FFFE>
+I didn't expect the Dark Knight away.<$FFFE>
+With Lord Geier, even the Dark Knight's no match...<$FFFE>
+Seems I didn't need that plan.<$FFFC>
+Hohohoho!<$FFFE>

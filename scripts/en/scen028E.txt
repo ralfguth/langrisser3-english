@@ -1,0 +1,200 @@
+Langrisser III dumper [0x11a9d6 to 0x11bce3]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Monster<$FFFF>
+Velzerian Commander<$FFFF>
+-Defeat Ferakia<$FFFE>
+-Death of Diehärte<$FFFE>
+Plains of Luon ~ Marshlands<$FFFF>
+Perfect for an ambush. I smell carnage.<$FFFE>
+...But waiting is so unnerving.<$FFFC>
+If we get rid of them here, Master Bosel will be pleased.<$FFFE>
+Lady Ferakia.<$FFFC>
+The smell of humans is becoming strong.<$FFFE>
+They are approaching.<$FFFC>
+Now my darlings, don't mess this up.<$FFFE>
+We won't fail you.<$FFFE>
+Scouts report demon sightings around here.<$FFFE>
+Undoubtedly...<$FFFC>
+I can sense demons all around.<$FFFE>
+So here it will be then.<$FFFE>
+....This time I will bring a conclusion!<$FFFE>
+Everyone, stay alert!<$FFFE>
+You bet!<$FFFE>
+GIGIGI!<$FFFE>
+Blasted!<$FFFC>
+Enemies from behind!?<$FFFE>
+Hahahah!<$FFFC>
+Let the bloodbath begin!<$FFFC>
+Make sure our guests enjoy themselves!<$FFFE>
+The frozen ground is hard to tread.<$FFFE>
+Yes.<$FFFC>
+Our land units are handicapped by the narrow path.<$FFFD>
+Deploy flying and naval units against their ranged troops.<$FFFE>
+Pretty stupid to venture into our territory.<$FFFE>
+Spare the act, your death draws near!<$FFFE>
+Spare the act, your death draws near!<$FFFE>
+This crystal enhances my magic tenfold.<$FFFD>
+Today you'll see my less timid side.<$FFFC>
+Lucky you. Few get this much attention.<$FFFE>
+I can't wait to try out this body!<$FFFC>
+Here I come!<$FFFE>
+Tss!<$FFFC>
+Here already; quite the dashing one!<$FFFE>
+Time to settle this once and for all!<$FFFC>
+The Shinigami await your life's offering!<$FFFE>
+If you want to end your misery, come at me!<$FFFC>
+This time I won't let you off so easily!<$FFFE>
+Why did it have to end like this...<$FFFE>
+I'm sorry....<$FFFC>
+Sir Diehärte...<$FFFE>
+Father...<$FFFE>
+Coty....<$FFFE>
+Farewell everyone...<$FFFC>
+I'm so tired...<$FFFE>
+Aaah...<$FFFE>
+Sir Diehärte....<$FFFE>
+That light...is so...warm...<$FFFE>
+Sophia...<$FFFE>
+Grrr...<$FFFE>
+Dammit, I failed!<$FFFE>
+This could have been avoided...<$FFFE>
+Aaaahh, the blue sky...<$FFFE>
+No regrets...<$FFFC>
+Can't sense the enemy...anymore...<$FFFE>
+<$F702><$F702>Lord Kirikaze...<$FFFE>
+You...morons...<$FFFC>
+This...is not..the end...<$FFFE>
+Forgive me Lord Bosel...I failed...<$FFFC>
+..I'll watch...from Oblivion...my darlings..<$FFFE>
+My lord....your murder is avenged...<$FFFE>
+My lord....your murder is avenged...<$FFFE>
+...<$FFFE>
+Well done, Sir Diehärte. An important victory today.<$FFFE>
+Sir Diehärte....<$FFFC>
+That was difficult...<$FFFD>
+So this time I'll let it slide...<$FFFE>
+Hmm, a strange doll flew by...<$FFFC>
+What was that about...<$FFFE>
+Right now those demons need to be purged!<$FFFC>
+Be prepared!<$FFFE>
+Ouch...<$FFFC>
+You naughty little human!<$FFFE>
+Honorably defeated!<$FFFC>
+I recognize your strength!<$FFFE>
+How laughable...<$FFFE>
+GUUGAAAA!<$FFFE>
+GUUGAAAA!<$FFFE>
+Uarggh!<$FFFE>
+Such cruelty...<$FFFE>
+You won't trample our land unpunished!<$FFFE>
+It shouldn't be...<$FFFC>
+me...whose...dying...<$FFFE>
+You morons!<$FFFC>
+You came here just to die!<$FFFE>
+Uuugh....<$FFFC>
+A world of pure darkness...<$FFFE>
+I may die now....<$FFFE>
+It's time to...let go...<$FFFE>
+GOOOON!<$FFFE>
+GOOOON!<$FFFE>
+GOOOON!<$FFFE>
+GUGAAAAA!<$FFFE>
+Can't stand this world....<$FFFE>
+So far...so good...<$FFFE>
+Later...<$FFFD>
+Guaaargh!<$FFFE>
+GAAAAA!<$FFFE>
+Atone!...<$FFFE>
+Lord...Chaos<$FFFE>
+SYUUH!<$FFFE>
+You hurt my feelings...mostly...<$FFFE>
+Uwaaaaah!<$FFFE>
+SYUUHH!<$FFFE>
+GURRR....<$FFFE>
+GUURRR...<$FFFE>
+You are the only one left.<$FFFC>
+Resign yourself.<$FFFE>
+Give up Ferakia, your troops are wiped out!<$FFFE>
+Hmmph!<$FFFC>
+What good would that do if you'll kill me anyway!?<$FFFE>
+Not bad, for humans.<$FFFE>
+To reward your efforts I'll show you my true beauty!<$FFFE>
+What!?<$FFFE>
+Watch closely!<$FFFE>
+How did she do that?<$FFFC>
+What peculiar magic!<$FFFE>
+Hahaha!<$FFFE>
+In this form, all hope for you is gone!<$FFFE>
+No matter what form you take, I'll deliver you to justice!<$FFFE>
+Witness this body's power with your own flesh!<$FFFE>
+This time you can't escape!<$FFFC>
+At last I'll avenge my Lord!<$FFFE>
+Hmph!<$FFFC>
+Don't get your hopes up.<$FFFC>
+In hell, your torment lasts forever!<$FFFE>
+A blue glowing round object lies nearby.<$FFFE>
+What do you do?<$FFFE>
+Do your favorite pose<$FFFE>
+Smile at it<$FFFE>
+Watch it<$FFFE>
+The head of a terracotta doll was obtained!<$FFFD>
+A terracotta head shoots out and flies laughing through the sky...<$FFFE>
+....<$FFFC>
+You try to strike a weird pose...<$FFFD>
+But you couldn't pull it off!<$FFFE>
+A strangely glowing shard lies nearby.<$FFFE>
+What do you do?<$FFFE>
+Punch it<$FFFE>
+Do nothing<$FFFE>
+Dance around<$FFFE>
+You smashed it to pieces...<$FFFE>
+The object remained in the snow...<$FFFE>
+A blue shard jumped into your hand!<$FFFD>
+Fragment of the doll was obtained!<$FFFE>
+A strangely glowing shard lies nearby.<$FFFE>
+What do you do?<$FFFE>
+Try touching it<$FFFE>
+Pay your respects<$FFFE>
+Spit on it<$FFFE>
+As you bow, the shard rises from the snow on its own!<$FFFE>
+The blue shard jumped right into your hand!<$FFFD>
+Fragment of the doll was obtained!<$FFFE>
+Upon carrying out your plan,<$FFFD>
+the shard dissolved...<$FFFE>
+You have the doll's head!<$FFFD>
+But major parts of its body are still missing!<$FFFE>
+The doll fills you with unease...<$FFFC>
+Frustrated, you throw it away!<$FFFE>
+The doll's face turns to you!<$FFFD>
+It dances in mid-air, laughing eerily, and speaks:<$FFFE>
+Come Diehärte, there's a place you must see!<$FFFD>
+What's going on now?<$FFFE>
+Umm...<$FFFC>
+Was it not you who gathered my body?<$FFFE>
+Uh huh.<$FFFE>
+You must like dolls.<$FFFC>
+But you hate me too, or why throw me away?<$FFFE>
+HAHAHAHAHA!<$FFFC>
+Anyway, let's be on our way!<$FFFC>
+But wait, there are still enemies to deal with, no?<$FFFE>

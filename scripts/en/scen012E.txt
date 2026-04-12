@@ -1,0 +1,211 @@
+Langrisser III dumper [0x72406 to 0x736e3]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Girl<$FFFF>
+Monster<$FFFF>
+Ferakia<$FFFF>
+Velzerian Commander<$FFFF>
+-Rescue the girl<$FFFE>
+-Death of [diehardt's name]<$FFFC>
+-Death of the poor girl$FFFE>
+Mountains Near the Central Gate<$FFFF>
+Awww, aren't we there yet?<$FFFC>
+I'm getting tired!<$FFFE>
+This is the last mountain; we'll be there shortly.<$FFFE>
+We must reactivate Lushiris Gate before demons invade. We couldn't face them, the Empire, and Barral all at once.<$FFFE>
+Hang in there, everyone.<$FFFE>
+!?<$FFFC>
+Sir, something's ahead!<$FFFE>
+Not human; an evil aura.<$FFFC>
+Everyone, careful.<$FFFE>
+Kyaaa!<$FFFC>
+S..Someone!?<$FFFE>
+GUURRR!<$FFFE>
+Surely a girl's terrified scream!<$FFFC>
+And that other voice — a monster!<$FFFE>
+Monsters about!?<$FFFE>
+Hurry, save her!<$FFFE>
+Sir.<$FFFC>
+This forest is perfect for an ambush.<$FFFC>
+Stay alert.<$FFFE>
+Of course.<$FFFC>
+The enemy waits in shadow for our slip.<$FFFE>
+Monsters hide far better than humans.<$FFFE>
+Alright!<$FFFC>
+Expect the unexpected.<$FFFE>
+We heard, but okay!<$FFFE>
+Your slip put you right where I wanted!<$FFFD>
+Play time's over!<$FFFD>
+All troops, move out!<$FFFC>
+Crush them!<$FFFE>
+GAAAA!<$FFFE>
+Your slip put you right where I wanted!<$FFFD>
+Play time's over!<$FFFE>
+Uh!<$FFFC>
+Not bad for a human.<$FFFD>
+Try again in 10 years!<$FFFE>
+Dammit!<$FFFC>
+No end to them!?<$FFFE>
+Ahahaha!<$FFFD>
+Laughable creatures.<$FFFC>
+Chase them everywhere!<$FFFE>
+A fine warm-up before I face that sorceress.<$FFFC>
+Fight hard, darlings!<$FFFE>
+Yes ma'am!<$FFFE>
+GAAAA!<$FFFE>
+There must be a way to push back...<$FFFE>
+Down their commander and the rest may flee.<$FFFE>
+It has to be Ferakia...<$FFFE>
+Ah..,Ah...<$FFFE>
+Are you alright?<$FFFC>
+We're here to help.<$FFFE>
+No need to fear now.<$FFFE>
+*Giggle*...,..idiotic humans...<$FFFE>
+?<$FFFC>
+What are you saying?<$FFFE>
+Honestly, so gullible!<$FFFC>
+Letting yourselves be deceived!<$FFFE>
+!?<$FFFC>
+A transformation!?<$FFFE>
+Did you enjoy my show? I, Ferakia the Shapeshiftress, hope so!<$FFFE>
+Now, my darlings, come out!<$FFFE>
+Planned from the start.<$FFFC>
+I've no words...<$FFFE>
+How do you react?<$FFFE>
+Don't worry<$FFFE>
+To err is human<$FFFE>
+Say nothing.<$FFFE>
+No need to be abashed.<$FFFC>
+You did warn us of the ambush.<$FFFE>
+Sir...<$FFFC>
+Thank you.<$FFFE>
+Now let's crush those demons!<$FFFE>
+Yes sir!<$FFFE>
+Their plan wasn't obvious.<$FFFC>
+To err is human.<$FFFC>
+...Don't worry.<$FFFE>
+Still no excuse for such failure...<$FFFE>
+...<$FFFE>
+-Defeat Ferakia<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+You find a huge ancient statue in ruins.<$FFFC>
+A closer look reveals ancient writings.<$FFFD>
+"I long for a black-eyed sacrifice.<$FFFC>
+Donate via the metal bowl!"<$FFFE>
+What sacrifice will you give?<$FFFE>
+Tiaris<$FFFE>
+Nothing<$FFFE>
+1000P<$FFFE>
+Are you mad!?<$FFFE>
+Suddenly a voice rings from the statue.<$FFFD>
+"The spirits accept your offering.<$FFFC>
+Take this as our thanks."<$FFFE>
+Artemis Bow was obtained!<$FFFE>
+Tiaris..is...<$FFFE>
+With a bang, your money vanished.<$FFFE>
+Artemis Bow was obtained!<$FFFE>
+Please no....<$FFFC>
+Guess it's..over..<$FFFE>
+Ouchy!<$FFFC>
+It hurts...where's mummy...or Sophia?<$FFFE>
+Curses!<$FFFE>
+My sword arm grows hair...<$FFFE>
+Guaaa!<$FFFE>
+Oh?<$FFFC>
+Why does death feel so sweet...?<$FFFE>
+I'm sorry...<$FFFE>
+Thank you...for...nothing<$FFFE>
+Such violence against a woman!<$FFFC>
+Unseemly!<$FFFE>
+Enough fun for today...<$FFFE>
+Sir, only your splendid command won us this.<$FFFE>
+Sir....<$FFFC>
+Slow in mind and command...<$FFFD>
+This shame will follow us...<$FFFE>
+Velzeria grows bolder — the invasion nears.<$FFFE>
+Velzeria grows bolder — the invasion nears.<$FFFE>
+No time to waste.<$FFFC>
+We move at once!<$FFFE>
+So much flesh, so little time — where to begin?<$FFFE>
+Wonderful.<$FFFC>
+That crimson blood gets me hot!<$FFFD>
+Let our bodies pour rivers of sweetest wine!<$FFFE>
+Uuu...<$FFFE>
+Damn.<$FFFC>
+We were too late...<$FFFE>
+Useless bunch!<$FFFC>
+So-called heroes can't save one little girl.<$FFFE>
+!?<$FFFC>
+She transformed!?<$FFFE>
+Oh, you liked my show?<$FFFC>
+Sadly, the last you'll ever see!<$FFFD>
+Now, come out to play!<$FFFE>
+-Defeat Ferakia<$FFFE>
+-Death of Diehärte [diehardt's name]<$FFFE>
+Kyaaa!<$FFFC>
+Someone, help me!<$FFFE>
+Please, someone...<$FFFE>
+Hold out!<$FFFC>
+Help is coming!<$FFFE>
+Come fast, I beg you!<$FFFE>
+GOOOO!<$FFFE>
+GU!<$FFFE>
+GYAAA!<$FFFE>
+GU!<$FFFE>
+GOOOO!<$FFFE>
+GUGAAA!<$FFFE>
+GUGAAA!<$FFFE>
+GISYAAA!<$FFFE>
+GISYAAA!<$FFFE>
+Spare my life!?...guess not...<$FFFE>
+Kyaaaaaahhh!!<$FFFE>
+Aaah...<$FFFE>
+Finally dead!<$FFFC>
+Take me in soothing death!<$FFFE>
+GUHAAA!<$FFFE>
+GOOOO!<$FFFE>
+GOOOO!<$FFFE>
+GUHAAA!<$FFFE>
+GUHAAA!<$FFFE>
+GUGYAAAAH!<$FFFC>
+GYAOOOON!<$FFFE>
+Kyahahaha!<$FFFD>
+Aren't they adorable...?<$FFFC>
+Slaughter all you want, darlings, then we'll nap!<$FFFE>
+Blast! Hidden troops, so many!<$FFFE>
+Hehehe...<$FFFC>
+Kill them all...<$FFFE>
+Slowly, painfully; the thought fires me up.<$FFFE>
+I shall obey.<$FFFE>
+La..dy...Fer..akia..<$FFFC>
+Forgive..our..lateness...<$FFFE>
+Don't loiter, slow-pokes!<$FFFC>
+Death to them, now!<$FFFE>
+We fight and fight, yet they keep coming.<$FFFE>
+We must persevere!<$FFFE>
+GRUUU...devour!<$FFFE>
+More enemies!?<$FFFE>
+More enemies!?<$FFFE>
+Ahahaha!<$FFFC>
+What's wrong?<$FFFC>
+I'm here to chew your ear off, figuratively!<$FFFE>
+Is overwhelming us with numbers their plan?<$FFFE>

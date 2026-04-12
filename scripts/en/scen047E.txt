@@ -1,0 +1,70 @@
+Langrisser III dumper [0x1de972 to 0x1defdf]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General<$FFFF>
+Viscount Raymond<$FFFF>
+General Bortz<$FFFF>
+General Emerick<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Rigüler Commander<$FFFF>
+General Geier<$FFFF>
+General Varna<$FFFF>
+Adjutant Gates<$FFFF>
+Plains of Former Larcuss<$FFFF>
+The Larcuss remnants?<$FFFC>
+How can they be this strong....<$FFFE>
+Onward!<$FFFC>
+Press onward!<$FFFE>
+For the restoration of our country!<$FFFE>
+Former Larcuss Royal Castle - Currently Imperial Headquarters<$FFFF>
+With this, Larcuss is virtually ours!<$FFFE>
+Faster than I expected.<$FFFE>
+Lord Raymond has raised an army against Colcia.<$FFFE>
+....Worrisome.<$FFFC>
+Keep observing them.<$FFFE>
+Crushing those remnants would be easy for you.<$FFFE>
+No excuse for negligence, Bortz.<$FFFE>
+Sir, 10 prisoners escaped!<$FFFE>
+I'll handle this.<$FFFD>
+This place is boring.<$FFFC>
+Time for a hunt.<$FFFE>
+Geier.<$FFFC>
+Don't waste troops needlessly.<$FFFD>
+Your tactics cause heavy casualties.<$FFFE>
+................<$FFFE>
+...Hunting humans, he said.<$FFFE>
+That's how he talks.<$FFFD>
+Do as you said.<$FFFC>
+Do your duty, no questions asked.<$FFFD>
+Until orders come, keep executions minimal.<$FFFD>
+The prisoners are weak. Even escaped, they won't matter.<$FFFE>
+Hmmph!<$FFFC>
+Damn that Altemuller!<$FFFC>
+Kaiser's son or not, he's too young to be Field Marshal!<$FFFE>
+More experience than him, yet he talks down to me!<$FFFE>
+I'll show him.<$FFFC>
+Soon I'll get a chance to rub his face in the dirt!<$FFFE>
+Most excellent.<$FFFD>
+That brat doesn't stand a chance against you, General.<$FFFE>
+Damn straight.<$FFFD>
+Let's go, Gates!<$FFFE>
+Yessir!<$FFFE>

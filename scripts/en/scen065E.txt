@@ -1,0 +1,89 @@
+Langrisser III dumper [0x25bd90 to 0x25c607]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Fauvel<$FFFF>
+Larcuss Commander<$FFFF>
+General Varna<$FFFF>
+Rigüler Commander<$FFFF>
+General Bortz<$FFFF>
+Colcia Commander<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Lushiris Gate ~ Eastern Gate<$FFFF>
+Father, are you all right?<$FFFE>
+I'm unharmed,<$FFFC>
+thanks to you.<$FFFE>
+I'm glad we made it in time.<$FFFC>
+But is the gate safe?<$FFFE>
+Yes, thanks to you<$FFFC>
+it still shines with Lady Lushiris's light.<$FFFE>
+So now we've liberated two of the gates.<$FFFE>
+But I'm worried about the other two gates.<$FFFE>
+The west gate's light vanished not long ago.<$FFFC>
+Probably Barral's doing.<$FFFE>
+We were late because we fought the Empire on the way.<$FFFC>
+My apologies.<$FFFE>
+You must be Father's soldiers.<$FFFC>
+That means his front is going well.<$FFFE>
+We'll defend this place to the death!<$FFFC>
+Leave this to us and hurry to the western gate.<$FFFE>
+Raymond's battle drags on, so he can't spare troops for the west gate.<$FFFE>
+He went to the northern gate, held by Imperial main forces.<$FFFE>
+With the Empire tied up there, recovering this gate was easy.<$FFFE>
+Exactly.<$FFFE>
+The demons have begun their invasion.<$FFFC>
+We must restore the Lushiris Gate.<$FFFE>
+We've only got one more gate to liberate.<$FFFE>
+If that's your plan, I'd like to join you.<$FFFC>
+I may be old, but I've still got a few tricks left.<$FFFE>
+Fauvel joined the party!<$FFFE>
+Your help is appreciated.<$FFFE>
+Everyone, let's move out.<$FFFE>
+Plains Near the Northern Gate<$FFFF>
+You must be Bortz's soldiers.<$FFFC>
+....Hmm?<$FFFC>
+But what happened to Bortz?<$FFFE>
+General Bortz charged the enemy so we could escape....,<$FFFC>
+Wave after wave of soldiers.....<$FFFE>
+....I see.<$FFFE>
+You were blessed to have such a commander....<$FFFE>
+Don't count a man dead til you see the body!<$FFFE>
+!!<$FFFE>
+Heh, you really thought I'd died!<$FFFE>
+B..bortz!?<$FFFE>
+General, you made it back....<$FFFC>
+What a relief......<$FFFE>
+Glad to see you all safe too.<$FFFC>
+And don't cry now, it's indecent.<$FFFE>
+Varna, look after my men a bit longer. I'm.....incredibly.....worn out.<$FFFE>
+You can count on me.<$FFFE>
+Phew......<$FFFE>
+Z<$fe><$1e>Z<$fe><$f>Z<$fe><$f>Z<$fe><$f>..<$fe><$f>..<$FFFE>
+National Border Between Colcia and the Rigüler Empire<$FFFF>
+T..too powerful.....<$FFFC>
+..<$fe><$19>..<$fe><$14>..<$fe><$f>..<$fe><$f>Guhaa!<$FFFE>
+Hmm, hardly a challenge.<$FFFE>
+Excellency, you were incredible.<$FFFC>
+Your swordsmanship is even stronger than before!<$FFFE>
+My true struggle was<$FFFC>
+convincing my stiff muscles to move.<$FFFD>
+I leave the defense to you while I return to Larcussia.<$FFFE>
+Yes, sir!<$FFFE>

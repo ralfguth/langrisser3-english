@@ -1,0 +1,99 @@
+Langrisser III dumper [0x232230 to 0x232aab]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General in charge<$FFFF>
+Dark Knight<$FFFF>
+Ruud<$FFFF>
+Barral Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Adjutant Gates<$FFFF>
+General Geier<$FFFF>
+<$FFFC>
+Scenario ~ 10<$FFFC>
+"Ceremony of Scorching Heat"<$FFFE>
+While Lord Raymond and General Bortz engage in battle,<$FFFC>
+General Geier sets out to conquer the City of Laffel, which still is occupied by the Barral Kingdom.<$FFFE>
+At the same time, Do Kahni and Kha Shind vainly try to stop the advance of Dieharte's division,<$FFFC>
+which at last sets foot into the Shika Tribe's capitol grotto.<$FFFE>
+As the evening turns to night and the full moon rises,<$FFFC>
+a gruesome ceremony begins.<$FFFE>
+* Conditions of Victory<$FFFC>
+ -Rescue Sophia in 19 turns<$FFFC>
+ -Defeat Keh Shikairo<$FFFE>
+* Conditions of Defeat<$FFFC>
+ -Death of[diehardt's name]<$FFFC>
+ -Death of Sophia $FFFE>
+Laffel presently occupied by the Barrel Kingdom<$FFFF>
+Uuuuuuh,hick!<$FFFC>
+It's no use, no use....<$FFFE>
+Hick!...I'm as good as dead.<$FFFD>
+I knew it, I should've listened to my mum, be a farmer she said...damn that airship.. <$FFFE>
+To make things worse that Dark Knight character isn't exactly known for his forgiveness!<$FFFD>
+Shit!<$FFFB>
+<$FFFC>
+What is the world coming too...<$FFFE>
+.....Hey.<$FFFE>
+Yes, Sir Dark Knight.<$FFFE>
+....Who is in charge here?<$FFFE>
+Hick!<$FFFB>
+<$FFFC>
+....Yeaas.<$FFFE>
+Hey, you drunken bastard.<$FFFD>
+What the hell is going on here?<$FFFE>
+It's no use, riight?<$FFFC>
+We hick stand no chance against that airship...<$FFFD>
+We...we have been defeated...<$FFFB>
+<$FFFC>
+Hick!<$FFFE>
+Alcohol is not a solution but the cause of problems...in your case death...<$FFFE>
+Guaarghh!<$FFFE>
+Ahh!<$FFFE>
+He just butchered him....<$FFFE>
+...Such incompetence is intolerable.<$FFFC>
+I'm in command from now on.<$FFFE>
+....<$FFFE>
+Prepare the ballistas and some oil,<$FFFC>
+after that assemble the remaining soldiers.<$FFFE>
+Y..yessir!<$FFFE>
+So you are the Aide de camp of that deserted coward Dios.<$FFFC>
+...I have a special mission for you.<$FFFE>
+East of here lives a sacred beast, you will get a hold of that creature and present it to his majesty.<$FFFE>
+The leftovers of the Larcuss Kingdom may get in your way.<$FFFC>
+Dispose of them if they do.<$FFFE>
+Am I leaving right now?<$FFFC>
+I'd rather protect the town...<$FFFE>
+Who do you think your talking back to, runt? <$FFFC>
+You should be thankful to be of use.<$FFFE>
+.....<$FFFE>
+Now get some oil and ropes over here this instant!<$FFFE>
+....Those eyes.<$FFFE>
+At times like this I do miss General Dios sorely....<$FFFE>
+Deck of the Rigüler Airship<$FFFF>
+Adjutant!<$FFFD>
+He has come!<$FFFC>
+The Dark Knight has taken command over the enemy's forces!<$FFFE>
+This means trouble.<$FFFE>
+Sir Geier....<$FFFE>
+Grrr, I'm getting tired of this.<$FFFE>
+Commence an all out attack!<$FFFD>
+Those fools are just prolonging the inevitable, victory is as good as ours!<$FFFE>
+Yeaahhh!<$FFFE>

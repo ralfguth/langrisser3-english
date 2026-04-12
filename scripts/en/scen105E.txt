@@ -1,0 +1,44 @@
+Langrisser III dumper [0x341cb2 to 0x341fbb]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Worm<$FFFF>
+Gerold<$FFFF>
+Barral Castle<$FFFF>
+...I call upon thee Lushiris, goddess of light, lend me your power.<$FFFD>
+Holy light, purify this one from the evil that robs his freedom.<$FFFD>
+Less Ibiru Dasu Remu!<$FFFE>
+Kikikii!<$FFFE>
+...<$FFFE>
+Are you alright Gerold?<$FFFE>
+...Yes.<$FFFC>
+So this is the pain I must endure for my crimes as the Dark Knight...<$FFFD>
+Uuh...<$FFFE>
+We must head to Laffel at once.<$FFFC>
+But rest up for now.<$FFFE>
+...I will do no such thing.<$FFFB>
+<$FFFC>
+I must go too,<$FFFC>
+to see Layla once more.<$FFFE>
+We leave at once.<$FFFC>
+Everyone, let's hurry back to Laffel!<$FFFE>
+Farewell, Father.<$FFFC>
+Sleep peacefully...<$FFFE>

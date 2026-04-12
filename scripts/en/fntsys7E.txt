@@ -1,0 +1,31 @@
+Soldier<$FFFF>
+Priest<$FFFF>
+Priest<$FFFF>
+Priest<$FFFF>
+Priest<$FFFF>
+Archer<$FFFF>
+Archer<$FFFF>
+Archer<$FFFF>
+Archer<$FFFF>
+Aquatic Archer<$FFFF>
+Aquatic<$FFFF>
+Aquatic<$FFFF>
+Aquatic<$FFFF>
+Cavalry<$FFFF>
+Specialized Cavalry<$FFFF>
+Horse Archer<$FFFF>
+Undead Cavalry<$FFFF>
+Aerial<$FFFF>
+Aerial<$FFFF>
+Aerial<$FFFF>
+Spear<$FFFF>
+Robber<$FFFF>
+Demon Soldier<$FFFF>
+Demon Soldier<$FFFF>
+Demon Tribe<$FFFF>
+Ghost<$FFFF>
+Immortal<$FFFF>
+Gel<$FFFF>
+Dragon<$FFFF>
+Spirit<$FFFF>
+Spirit<$FFFF>

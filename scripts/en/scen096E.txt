@@ -1,0 +1,45 @@
+Langrisser III dumper [0x30b334 to 0x30b77b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Kaiser Paul<$FFFF>
+Rigüler Commander<$FFFF>
+<$FFFC>
+Scenario ~ 28<$FFFC>
+"Demon Defense Force"<$FFFE>
+[diehardt's name] and company have defeated one of<$FFFC>
+the three demon generals, Shapeshiftress Ferakia,<$FFFC>
+and headed on towards Velzeria Castle.<$FFFE>
+However, at the gates of that castle, Necromancer<$FFFC>
+Grove awaits them with a potent defense force.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Grove<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+New Kaiser Paul's Coronation Ceremony<$FFFF>
+Alas, my father, Heinrich Kleist IV, fought his illness valiantly, but to our great sorrow, he succumbed.<$FFFE>
+Now that I am Kaiser, in my father's place, I dedicate all my power to the Empire and its citizens!<$FFFE>
+Long live the new Lord Paul!<$FFFE>
+Long live the new Kaiser Paul!<$FFFE>
+I have one more important announcement.<$FFFE>
+It pains me, but I fear someone has poisoned Altemuller, who served the Imperial army with great merit.<$FFFE>
+I think that everyone held him in great esteem.<$FFFE>
+His successor as Field Marshal shall be Geier.<$FFFE>

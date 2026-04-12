@@ -1,0 +1,22 @@
+High Elf<$FFFF>
+Djinn<$FFFF>
+Efreet<$FFFF>
+Valkyrie<$FFFF>
+Freya<$FFFF>
+Thor<$FFFF>
+Haunt<$FFFF>
+Lilith<$FFFF>
+Baphomet<$FFFF>
+Neptune<$FFFF>
+Dragon Zombie<$FFFF>
+Belzebub<$FFFF>
+Jormungandr<$FFFF>
+Fenrir<$FFFF>
+Vampire Lord<$FFFF>
+Phoenix<$FFFF>
+Goddess of Light<$FFFF>
+Lord of Chaos<$FFFF>
+Hell Master<$FFFF>
+Dragon Lord<$FFFF>
+Builder<$FFFF>
+Builder<$FFFF>

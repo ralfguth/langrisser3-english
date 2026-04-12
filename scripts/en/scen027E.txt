@@ -1,0 +1,215 @@
+Langrisser III dumper [0x10cf2c to 0x10e403]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Prince Richard<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Monster<$FFFF>
+Velzerian Commander<$FFFF>
+-Defeat Richard<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+Richard's Residence<$FFFF>
+I'm Lewin, Prince of Elthlead.<$FFFC>
+I'm here for the messenger you sent to my father, King Sieghart.<$FFFE>
+Go back where you came from, your coup has failed.<$FFFC>
+Be grateful I don't charge you for all your crimes.<$FFFE>
+Oh my?<$FFFC>
+Everyone thought he was killed by the Empire.<$FFFE>
+But here he stands before us.<$FFFC>
+And with an even snottier attitude.<$FFFE>
+Right! Preposterous!<$FFFC>
+I saw him die with my own eyes!<$FFFE>
+Then who is this guy!?<$FFFE>
+The Langrisser is shining!?<$FFFE>
+Hmphh, my cover's blown.<$FFFE>
+No matter, I meant to dispose of you anyway, so let's go direct.<$FFFE>
+You!?<$FFFE>
+I finally found you!<$FFFC>
+Cursed Witch!<$FFFE>
+Kirikaze!?<$FFFE>
+Huh?<$FFFC>
+Do we know each other?<$FFFE>
+I could never forget your face!<$FFFC>
+I hail from a country far to the east!<$FFFE>
+A country destroyed by your evil deeds!<$FFFE>
+Ahahahaha!<$FFFC>
+Now I remember, such nostalgia!<$FFFE>
+You must be the lone survivor from back then.<$FFFE>
+So you remember too, we have so much in common!<$FFFC>
+Meaning you're the man who failed to save his own lord.<$FFFE>
+Poor thing, what a horrible thing to endure.<$FFFC>
+And now you want to return the favor, right?<$FFFE>
+Only by killing you with my own sword will my grief clear!<$FFFE>
+Ruin, we're in a dangerous spot.<$FFFC>
+We must regroup with the others fast!<$FFFE>
+Yes!<$FFFE>
+How rude!<$FFFC>
+Leaving without a goodbye!<$FFFE>
+Blasted!<$FFFC>
+We're surrounded.<$FFFE>
+Sir Diehärte!<$FFFE>
+No use complaining.<$FFFC>
+We'll have to fight our way out!<$FFFE>
+-Defeat Ferakia<$FFFE>
+-Death of Diehärte<$FFFE>
+Ahahahaha!<$FFFC>
+What joy!<$FFFD>
+Does shedding blood please you too?<$FFFC>
+Does the battle rush race your heart?<$FFFE>
+Silence!<$FFFC>
+I won't let anger cloud my mind!<$FFFE>
+Sir Diehärte.<$FFFD>
+I fear for Sir Kirikaze's calm.<$FFFC>
+If he continues, his life could be in danger.<$FFFD>
+I suggest you take him under your command.<$FFFE>
+Give Kirikaze orders?<$FFFE>
+You're right.<$FFFC>
+Better to coordinate our efforts.<$FFFE>
+Listen, Kirikaze!<$FFFC>
+Wouldn't it help if I coordinated your moves?<$FFFE>
+Sir Diehärte?<$FFFC>
+Very well.<$FFFD>
+My only wish is to fight that person.<$FFFE>
+Kirikaze has joined the division!<$FFFE>
+No, he's doing fine.<$FFFC>
+Not necessary yet.<<$FFFE>
+I see.<$FFFE>
+Lewin, perfect chance to try out the Langrisser!<$FFFE>
+Right!<$FFFC>
+Father, lend us strength.<$FFFE>
+A pattern looks somewhat misplaced.<$FFFE>
+Inspect it closer?<$FFFE>
+A sparkling stone sits in the center of the pattern.<$FFFE>
+Take it?<$FFFE>
+Secret Stone of the Hero was obtained!<$FFFE>
+A crackling sound comes from the southeast...<$FFFE>
+After a while, the stone suddenly shatters...<$FFFE>
+A pattern looks somewhat misplaced.<$FFFE>
+Inspect it closer?<$FFFE>
+A seven-colored stone sits in the center of the pattern.<$FFFE>
+Take it?<$FFFE>
+Runestone was obtained!<$FFFE>
+A crackling sound comes from the northwest...<$FFFE>
+I can't fall yet...<$FFFE>
+I don't want to...<$FFFC>
+Sir..Diehärte...<$FFFE>
+Father...<$FFFE>
+Coty....<$FFFE>
+Farewell everyone...<$FFFC>
+I'm so tired...<$FFFE>
+Aaah...<$FFFE>
+Sir Diehärte....<$FFFE>
+That light...is so...warm...<$FFFE>
+Sophia...<$FFFE>
+GRRRRHH!!<$FFFE>
+Grrr...<$FFFE>
+Dammit, I failed!<$FFFE>
+This could have been avoided...<$FFFE>
+This isn't how it's supposed to go.<$FFFC>
+But you leave me no choice.<$FFFE>
+Aaaahh, the blue sky...<$FFFE>
+I've no regrets...<$FFFE>
+Sir Diehärte...<$FFFC>
+The enemy targets Kirikaze...<$FFFE>
+I, Samurai Kirikaze of Yamato,<$FFFC>
+enter battle!<$FFFE>
+W..What power from that sword!?<$FFFE>
+...So that's what killed Rag!<$FFFC>
+I must report to Lord Bosel...<$FFFE>
+Hold it!<$FFFC>
+Our battle isn't over!<$FFFE>
+Tch, she got away!?<$FFFE>
+...That woman!<$FFFE>
+...That woman!<$FFFE>
+Kirikaze.<$FFFE>
+<$F704><$F705><$F706><$F704><$F705><$F706>So this is not even the first kingdom that's being attacked by Velzeria.<$FFFE>
+<$F707><$f7><$8><$F707><$f7><$8>I understand.<$FFFC>
+Let us cooperate closely from now on.<$FFFE>
+There are no words to express my gratitude!<$FFFE>
+There are no words to express my gratitude!<$FFFE>
+Kirikaze joined the demon hunters!<$FFFE>
+You did splendidly, Sir Diehärte.<$FFFE>
+Sir Diehärte....<$FFFC>
+..................<$FFFD>
+................<$FFFE>
+Everyone.<$FFFE>
+We must hurry, or Velzeria may commit new atrocities.<$FFFE>
+Right!<$FFFC>
+Take up pursuit at once!<$FFFE>
+We should hurry.<$FFFC>
+If we don't act fast, the enemy will regroup.<$FFFC>
+Everyone, take up the pursuit!<$FFFE>
+Come, cheeky humans, show me what you've got!<$FFFE>
+Yes, let's dance in blood!<$FFFE>
+GYAAAAAH!<$FFFE>
+My body is broken...<$FFFE>
+That magic sword defeats us!?<$FFFC>
+Whatever it is...I'm dead anyway...<$FFFD>
+Guarh!<$FFFE>
+GYAAAAAH!<$FFFE>
+Lord help us...<$FFFE>
+May great disaster strike you!<$FFFE>
+Darkness shall rule over all!<$FFFE>
+I'm a goner...<$FFFE>
+GOOON!<$FFFE>
+GOOON!<$FFFE>
+GOOON!<$FFFE>
+BAWOOOOOOHH!<$FFFE>
+I can't move...<$FFFE>
+GYAAAAAH!<$FFFE>
+My strength is fading...<$FFFE>
+BAWOOOOOOHH!<$FFFE>
+Curse you!<$FFFE>
+FUH!<$FFFE>
+Lady Ferakia....<$FFFE>
+Resisting darkness is futile, you'll die like me!<$FFFC>
+Ahahahaha....<$FFFD>
+Guargh!<$FFFE>
+Why is...<$FFFE>
+FUH!<$FFFE>
+My calculations say it's impossible...<$FFFE>
+Avada Kedavra....why didn't it work...<$FFFE>
+Guwaah!<$FFFE>
+What's the source of their power!?<$FFFC>
+No mere human could have it...<$FFFE>
+Uugh...<$FFFE>
+Damn you!<$FFFE>
+My, how worrisome!<$FFFC>
+You've killed all my little darlings!<$FFFD>
+And I put so much love in this trap, shame on you!<$FFFE>
+You're the last one standing.<$FFFC>
+Prepare for judgement!<$FFFE>
+You think you can handle me?<$FFFC>
+No puny human could defeat me.<$FFFE>
+Prepare yourself, witch!<$FFFE>
+You came from the east just for me?<$FFFE>
+You're quite an untiring man.<$FFFE>
+This is no time for frivolous talk.<$FFFE>
+My sole purpose here is to bring you down!<$FFFE>
+My!<$FFFC>
+Such rampant passion!<$FFFE>
+Let's see if a human can meet my expectations?<$FFFE>
+Long ago I was attached to a kingdom far to the east.<$FFFE>
+One day an army of demons led by that woman invaded and burned our country.<$FFFE>
+Back then I couldn't protect my Lord...nor his wife and son...<$FFFE>
+Lord Diehärte!<$FFFC>
+If you march against Velzeria, let me offer my services!<$FFFE>
+My greatest wish is to end the witch who murdered my Lord!<$FFFE>

@@ -1,0 +1,35 @@
+Langrisser III dumper [0x37a0ce to 0x37a2ef]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+ <$FFFC>
+   Scenario ~ ?1<$FFFC>
+  "Hidden Gyudon Restaurant; A true story"<$FFFE>
+Desperately trying to hide his awful sense of direction,<$FFFC>
+[diehardt's name] takes on the lead of the company himself.<$FFFE>
+Unknowingly he is leading the division<$FFFC>
+deeper and deeper into the forest,<$FFFC>
+when suddenly they come across...<$FFFE>
+Conditions of Victory<$FFFC>
+-Get something tasty for everyone!<$FFFC>
+Conditions of Defeat<$FFFC>
+-Death of any PC<$FFFC>
+-Fail to reach the restaurant within 20 turns<$FFFE>

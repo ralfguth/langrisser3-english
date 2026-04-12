@@ -1,0 +1,78 @@
+Langrisser III dumper [0x36a55a to 0x36ad47]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+True Bosel<$FFFF>
+Velzeria Castle ~ Underground<$FFFF>
+...My body...won't move...<$FFFE>
+No way....!<$FFFE>
+This will never happen!<$FFFC>
+Everyone will come and stop you!<$FFFE>
+...Diehärte...help...<$FFFC>
+me...<$FFFE>
+..I, I cannot move....<$FFFE>
+Such...!<$FFFE>
+...Your efforts are in vain.<$FFFC>
+Your dark magic against Langrisser.<$FFFE>
+For this being so pointless, release me from this binding spell.<$FFFE>
+...I'm gonna be alright.<$FFFC>
+He promised...<$FFFE>
+There's no doubt, he will come to save me.<$FFFE>
+...Keh!<$FFFE>
+That won't happen...!<$FFFE>
+No matter what you say, I won't give up hope.<$FFFE>
+You stand no chance against the might of the Elthlead Kingdom.<$FFFE>
+You are using me to further your ambitions, such cowardliness will not go unpunished by them!<$FFFE>
+I know, it was my faint-heartiness that allowed this to happen.<$FFFE>
+But even please come for me...and..<$FFFC>
+...Forgive me, Sir [diehardt's name].<$FFFE>
+For what purpose have I been taken to a place like this?<$FFFE>
+How horrible....!<$FFFE>
+Sacrificing me is a pointless endeavor.<$FFFE>
+Even if Chaos is revived, the holy blade of the Elthlead royal family Langrisser will seal him back again.<$FFFE>
+That I do believe with all my heart.<$FFFE>
+Before long, together we will find happiness.<$FFFC>
+So please be careful [diehardt's name]...<$FFFE>
+What is happening to me...?<$FFFE>
+That can't be...!<$FFFE>
+...That will never happen.<$FFFE>
+Even if you call forth Chaos they will come to seal him right away.<$FFFE>
+Hoho.<$FFFC>
+I'm afraid you overestimate the power of your friends and your importance to them greatly.<$FFFE>
+No.<$FFFC>
+He will do something.<$FFFE>
+Even though I'm just one person, he will come to my aid.<$FFFE>
+And then he'll deal with you and Chaos!<$FFFE>
+Suits me just fine!<$FFFC>
+That would only mean even more sacrifices!<$FFFE>
+...I have no doubt, he will come.<$FFFC>
+He promised...<$FFFE>
+Don't bother struggling.<$FFFC>
+This is just one of my many arts as Bosel the Prince of Darkness.<$FFFC>
+The spell cannot be broken.<$FFFE>
+Before long you will be sacrificed for the revival of Lord Chaos.<$FFFE>
+Go ahead, cry and scream all you want but the flame of your life shall soon extinguish.<$FFFE>
+When that time arrives Lord Chaos shall feast on your life force!<$FFFE>
+The time for us demons to rise over all is close at hand!<$FFFC>
+Hahahahaha!<$FFFE>
+They are welcome to try!<$FFFC>
+You and Elthlead and Langrisser!<$FFFE>
+Once this ceremony is complete all of your petty hopes will die!<$FFFE>

@@ -1,0 +1,263 @@
+Langrisser III dumper [0xf54a0 to 0xf7047]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General Varna<$FFFF>
+King Sieghart<$FFFF>
+Rigüler Commander<$FFFF>
+Elthlead Commander<$FFFF>
+Rag<$FFFF>
+Monster<$FFFF>
+Defeat all enemies<$FFFE>
+Death of [diehardt's name]<$FFFC>
+Death of Sieghart<$FFFE>
+In front of Elthlead's Capitol, Larcussia<$FFFF>
+So I've returned, this time I won't falter...<$FFFD>
+The downfall of Elthlead is already inevitable.<$FFFC>
+Now there's just one more thing to do...<$FFFE>
+Your Excellency, the troops are in position.<$FFFE>
+Good.<$FFFE>
+Lord Raymond, no King Sieghart.<$FFFC>
+It is time to repay the humiliation I suffered last time.<$FFFE>
+Are you prepared for what follows?<$FFFE>
+Tell me, why does the Empire crave our lands so?<$FFFE>
+King Sieghart.<$FFFC>
+I assume you can't know the Empire's situation.<$FFFE>
+We are proud of the Empire's growth.<$FFFC>
+Within our borders people live safely and peacefully.<$FFFE>
+However, most of our land is frozen wasteland where nothing grows.<$FFFE>
+And peace alone cannot quench the hunger of so many.<$FFFE>
+For the well-being of our people, we must claim fertile lands.<$FFFE>
+Couldn't you trade your mineral resources for food?<$FFFE>
+Sooner or later minerals run out.<$FFFE>
+We'd have food briefly, but the population grows and stocks dwindle.<$FFFE>
+Invading fertile lands is the only lasting solution.<$FFFE>
+Your reasoning is sound, but war is always horrible.<$FFFE>
+You who live in rich lands can't fully understand.<$FFFE>
+You and me both don't wish to wage war.<$FFFE>
+But I can't abandon the country my father built and protected with his own hands.<$FFFE>
+This may be the death of both of us.<$FFFE>
+But I'm the king of this country.<$FFFC>
+Protecting my people is my foremost duty.<$FFFE>
+To an honorable end!<$FFFE>
+I couldn't have said it better.<$FFFE>
+We're in time!<$FFFE>
+Your Excellency, enemy reinforcements have arrived!<$FFFE>
+Must be units returning from an expedition.<$FFFE>
+They're likely still fatigued from their last mission.<$FFFC>
+We will carry out our strategy as planned.<$FFFE>
+Varna, take some troops and deal with the newcomers.<$FFFE>
+Understood.<$FFFE>
+Sir Diehärte, the enemy has split their troops.<$FFFE>
+That eases some pressure from the siege.<$FFFC>
+If we hurry, we can win this.<$FFFE>
+But if the enemy crosses that bridge, the capitol will fall.<$FFFE>
+Just because we arrived in time doesn't mean we can relax!<$FFFE>
+That's right.<$FFFE>
+Everyone, I know you're tired but give it your all!<$FFFE>
+Now our victory over Elthlead is just one step ahead...<$FFFE>
+Isn't that the much rumored-about Diehärte?<$FFFC>
+Bortz and Emerick had trouble with him. Be careful.<$FFFD>
+That Diehärte.<$FFFC>
+His timing is pretty good.<$FFFE>
+Cavalry move out to crush the enemy at the rear.<$FFFC>
+Flying units back us up.<$FFFE>
+Understood.<$FFFE>
+Affirmative.<$FFFE>
+Well then, let's deal with those nuisances.<$FFFC>
+Commence the attack on the Velzerian abominations!<$FFFE>
+All troops, follow his Excellency into battle!<$FFFE>
+This is not the time for petty quarrels!<$FFFC>
+Protect this world, home to all humankind!<$FFFE>
+Everyone drive back the demons!<$FFFE>
+Move out, Varna!<$FFFE>
+Yessir!<$FFFE>
+Attack!<$FFFC>
+Concentrate on throwing down Sieghart!<$FFFE>
+The enemy is trying to break through!<$FFFC>
+Hold your ground!<$FFFE>
+Prepare yourself, Sieghart!<$FFFC>
+Nothing will stop my victory today!<$FFFE>
+Don't think I'll fall so easily!<$FFFE>
+Atop a mountain plateau stood a small forest.<$FFFD>
+One tree was much larger than the rest.<$FFFC>
+An arrow was stuck deeply within it.<$FFFE>
+What do you do?<$FFFE>
+Cut out the arrow<$FFFE>
+Pull out the arrow<$FFFE>
+Break off the arrow<$FFFE>
+You carefully cut out the arrow.<$FFFE>
+Obtained Destiny Arrow!<$FFFE>
+You pull but the arrow breaks midway.<$FFFE>
+With a sluggish sound, the arrow broke.<$FFFE>
+We were...<$FFFC>
+So close....<$FFFE>
+Sir Diehärte?<$FFFC>
+Don't die, your powers are still needed!<$FFFE>
+Sir Diehärte?<$FFFC>
+Don't die, your powers are still needed!<$FFFE>
+Father...<$FFFE>
+Everyone I'm sorry...<$FFFE>
+.....<$FFFE>
+Resistance is futile...<$FFFE>
+Huch?<$FFFE>
+Sorry...<$FFFE>
+Lushiris...<$FFFE>
+Guu...<$FFFC>
+Fare well...<$FFFE>
+Urgh!<$FFFE>
+What are you doing...<$FFFE>
+Keh!<$FFFC>
+I can't fail now!<$FFFE>
+Uuhg!<$FFFC>
+If..I..can't protect...this country...<$FFFE>
+Father...<$FFFE>
+King Sieghart...<$FFFE>
+Don't let a single demon set foot onto Elthlead soil!<$FFFE>
+Kyah!<$FFFE>
+We have to protect...<$FFFE>
+W..What!?<$FFFC>
+I couldn't be defeated by lowly demons...<$FFFE>
+Your Excellency! Please withdraw from battle!<$FFFC>
+Leave the rest to me!<$FFFE>
+Forgive me, Varna.<$FFFE>
+Diehärte's company...<$FFFC>
+Here I come!<$FFFE>
+Death is upon you!<$FFFE>
+Taking me lightly because I'm a woman will be your last mistake!<$FFFE>
+Laughable....<$FFFE>
+I will not permit you to do as you please with humanity!<$FFFE>
+Uh..Uh...<$FFFE>
+Varna!<$FFFC>
+You must retreat!<$FFFE>
+B..But your Excellency...<$FFFE>
+With that injury you can't fight effectively.<$FFFC>
+Head to the sickbay and get those wounds treated.<$FFFD>
+This is an order, Varna.<$FFFC>
+I will not allow you to put yourself in danger.<$FFFE>
+Forgive me, YOur Excellency...<$FFFE>
+You shall feel the wrath of the Empire!<$FFFE>
+Such might...<$FFFE>
+For the Empire!<$FFFE>
+Your Excellency...<$FFFE>
+Uuhh!<$FFFE>
+Kyaaa!<$FFFE>
+So cruel...<$FFFE>
+Your Excellency, there is no excuse...<$FFFE>
+W..Why did this...<$FFFE>
+Urgh...<$FFFE>
+Am I defeated!?<$FFFE>
+Interesting.<$FFFC>
+Who would have thought the Empire and Elthlead would team up...<$FFFD>
+I must report this to Master Bosel at once...<$FFFE>
+Come human, groan a little bit for me.<$FFFE>
+Such impudence!<$FFFE>
+If only I was born a bird...<$FFFE>
+GOOOOON!<$FFFE>
+GOOOOON!<$FFFE>
+GOOOOON!<$FFFE>
+GYAAAA!<$FFFE>
+GYAAAA!<$FFFE>
+GYAAAA!<$FFFE>
+GUGAA!<$FFFE>
+GUGAA!<$FFFE>
+Never could humans!?<$FFFE>
+SUUUUUUU!<$FFFE>
+SUUUUUUU!<$FFFE>
+SUUUUUUU!<$FFFE>
+GOOOOON!<$FFFE>
+What, all my troops wiped out!?<$FFFC>
+Seems even those insects can sting.<$FFFE>
+Alright, all demons have been taken care of.<$FFFE>
+Your strategy was truly inspiring, Sir Diehärte.<$FFFE>
+Sir Diehärte...<$FFFC>
+............<$FFFD>
+....I hate you<$FFFE>
+If humans stand together, we need fear nothing.<$FFFC>
+Yet I wonder if the senseless fighting will begin anew...<$FFFE>
+True, but I don't think we'll need to worry about the Empire for now.<$FFFE>
+That guy..Altemuller...our ally...<$FFFE>
+That guy..Altemuller...our ally...<$FFFE>
+Come on, he's not the worst there is.<$FFFE>
+He's a skilled man and could prove invaluable against the demons.<$FFFE>
+King Sieghart, I appreciate your goodwill in agreeing to the truce.<$FFFE>
+Those demons are a threat to all of us.<$FFFC>
+Now let us proceed with signing the truce.<$FFFE>
+W..What!?<$FFFE>
+The demons of Velzeria in such a place!?<$FFFE>
+Hm?<$FFFC>
+It's not just Elthlead's but the Empire's troops too?<$FFFD>
+He, that's fine.<$FFFC>
+We'll just kill all of them.<$FFFE>
+Impossible!<$FFFC>
+That way we won't be able to end our ongoing battle.<$FFFE>
+First the Empire and now Velzeria...<$FFFE>
+...King Sieghart!<$FFFE>
+What is it?<$FFFE>
+We would like to suggest a truce.<$FFFE>
+Your Excellency!?<$FFFE>
+The demons of Velzeria aren't ordinary foes.<$FFFC>
+We can continue our dispute after dealing with them.<$FFFE>
+What do you say?<$FFFC>
+Will you agree to the truce?<$FFFE>
+I need some time to consider.<$FFFE>
+Do you wish to convey your opinion?<$FFFE>
+Agree to the truce<$FFFE>
+Resist to the bitter end<$FFFE>
+Say nothing<$FFFE>
+I consent to his suggestion.<$FFFD>
+We should cooperate and drive those demons away!<$FFFE>
+...Certainly.<$FFFE>
+This is not the time to fight amongst ourselves.<$FFFC>
+I consent to your proposal.<$FFFE>
+This isn't the time for humans to fight each other.<$FFFD>
+But we can't trust the Rigüler Empire!<$FFFE>
+Sir Diehärte!?<$FFFE>
+...I disagree, this truce is a welcome concession.<$FFFC>
+We shouldn't prolong meaningless fighting.<$FFFD>
+While we war with each other, Velzeria gets the perfect opening.<$FFFD>
+If we allow that, the world could fall to the demons.<$FFFC>
+We can't risk that for any reason.<$FFFE>
+Sir Diehärte.<$FFFC>
+It is as King Sieghart says.<$FFFD>
+Now isn't the time for humans to fight.<$FFFE>
+Field Marshal Altemuller.<$FFFC>
+I consent to your proposal.<$FFFE>
+...Certainly.<$FFFE>
+This is not the time to fight amongst ourselves.<$FFFC>
+I consent to your proposal.<$FFFE>
+Heh, that was quick.<$FFFE>
+You heard him.<$FFFC>
+All units, cease hostilities towards Elthlead.<$FFFE>
+For now we'll cooperate with Elthlead and purge those demons!<$FFFE>
+Yessir!<$FFFE>
+Cooperate with the Empire!?<$FFFE>
+Cooperating with the Empire after everything that happened...<$FFFC>
+But I suppose it was the more reasonable choice.<$FFFE>
+Please do.<$FFFC>
+Our real enemy were the demons all along.<$FFFE>
+Humans fighting each other is such a pointless and tragic thing.<$FFFE>
+Considering the strength and numbers of our enemies,<$FFFC>
+cooperation is the most advisable strategy.<$FFFE>
+Flock together all you want, you're still just insects before us.<$FFFC>
+The triumph of darkness is set in stone.<$FFFE>
+Diehärte I'm afraid this is the end of the road for you!<$FFFE>
+You will find me a worthy opponent!<$FFFE>

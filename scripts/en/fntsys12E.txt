@@ -1,0 +1,349 @@
+Footmen with stronger attack power than Soldiers.<$FFFF>
+Because they wear light armor, their movement rate is high.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+They are the foundation foot soldier unit.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+ <$FFFF>
+Footmen with stronger defense than Soldiers.<$FFFF>
+Their magic resistance is also a bit higher.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Puzzling apparitions which have come from another universe.<$FFFF>
+Since they are akin to footmen.<$FFFF>
+they can overpower pikemen with ease,<$FFFF>
+but are plowed down by cavalry.<$FFFF>
+The strongest footmen and pride of Rig??er Empire.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+ <$FFFF>
+A lesser breed of werewolves.  Faster than<$FFFF>
+ordinary footmen, but weaker against magic.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Dark Guards' statistics have been boosted beyond<$FFFF>
+the level of ordinary footmen by dark magic.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Carnivorous giants 2-3 meters in stature.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+ <$FFFF>
+Mad warriors of the Shika Tribe.  They have higher<$FFFF>
+attack power at the expense of their defense.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Ordinary Shika Tribe footmen.  Because of<$FFFF>
+poor equipment, their power is a bit lacking.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Warriors of the Shika Tribe whose gigantic<$FFFF>
+shields grant a large defensive bonus.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+As a product of their studies, they are stronger<$FFFF>
+than Guardsmen against Demons and Undead.<$FFFF>
+Like footmen, they can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+A breed of footmen who have long fought against<$FFFF>
+Demons and Undead with the power of the gods.<$FFFF>
+Like footmen, they can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Holy warriors stronger against humans than<$FFFF>
+against Demons and the Undead.<$FFFF>
+Like footmen, they can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+A breed of footmen who have long fought against<$FFFF>
+Demons and Undead with the power of the gods.<$FFFF>
+Like footmen, they can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+As a product of their studies, they are stronger<$FFFF>
+than Fanatics against Demons and Undead.<$FFFF>
+Like footmen, they can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Unholy warriors who are stronger against<$FFFF>
+humans than against Demons or Undead.<$FFFF>
+Like footmen, they can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+This force can make ranged attacks with bows.<$FFFF>
+Their defense ability is stronger than<$FFFF>
+ordinary archer units.<$FFFF>
+Strongest against aerial units.<$FFFF>
+This force can make ranged attacks with bows.<$FFFF>
+Because their defense is so weak,<$FFFF>
+they are unable to withstand direct attacks.<$FFFF>
+Strongest against aerial units.<$FFFF>
+Using a mechanical contraption, this unit can<$FFFF>
+fire much farther than ordinary archers.<$FFFF>
+But, because it takes time to move the<$FFFF>
+device, its movement is quite slow.<$FFFF>
+Superior stats from superior breeding.<$FFFF>
+They also have unusually high<$FFFF>
+resistance against magic.<$FFFF>
+Strongest against aerial units.<$FFFF>
+Experts in fighting aerial units.  Their base<$FFFF>
+stats might be worse than normal archers,<$FFFF>
+but they are by far the strongest against aerial units.<$FFFF>
+ <$FFFF>
+Elves who follow the dark gods, and can<$FFFF>
+make ranged attacks like elves.  They possess<$FFFF>
+stronger magic resistance than normal elves.<$FFFF>
+Strongest against aerial units.<$FFFF>
+As sorceresses who follow the dark gods, <$FFFF>
+they can make ranged magic attacks.<$FFFF>
+They also have strong magic resistance.<$FFFF>
+Strongest against aerial units.<$FFFF>
+A Shika Tribe unit which makes ranged<$FFFF>
+attacks by slinging stones.  The range of<$FFFF>
+their slings is shorter than most ranged units.<$FFFF>
+Strongest against aerial units.<$FFFF>
+Mounted archers which stress defense power<$FFFF>
+more than Centauros units.  But, they also<$FFFF>
+have less attack power.<$FFFF>
+Strongest against aerial units.<$FFFF>
+Half-man, half-horse archers.  Able to make<$FFFF>
+both ranged and direct attacks effectively.<$FFFF>
+Strongest against aerial units.<$FFFF>
+ <$FFFF>
+Half-man, half-horse archers with magic tails.<$FFFF>
+They have stronger attacks and more mobility,<$FFFF>
+but less defense, than Centauros units.<$FFFF>
+Strongest against aerial units.<$FFFF>
+These water spirits with human form have<$FFFF>
+excellent aquatic mobility.  But, they can't perform<$FFFF>
+well on land.  They can overpower pikemen with<$FFFF>
+ease, but are plowed down by cavalry.  <$FFFF>
+Mermen are stronger and faster than ordinary<$FFFF>
+footmen when in an aquatic area.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+This aquatic unit is ill-suited to conflict on land.<$FFFF>
+But, in the water its mobility and power are<$FFFF>
+surpassed by none.  Can overpower pikemen,<$FFFF>
+but they are plowed down by cavalry.<$FFFF>
+Nixies wear the form of beautiful maidens.<$FFFF>
+Not just fast on the water, Nixies also<$FFFF>
+wield bows to make ranged attacks.<$FFFF>
+Strongest against aerial units.<$FFFF>
+These reptilian men are excellent in the water<$FFFF>
+and passable fighters on land.  They have<$FFFF>
+brawn but no brains.  Can overpower pikemen,<$FFFF>
+but they are plowed down by cavalry.<$FFFF>
+These berserk, oversized lobsters are well-suited<$FFFF>
+to moving and fighting in the sea.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+These berserk, oversized lobsters are supreme<$FFFF>
+in aquatic warfare.  But, they are quite poor on land.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+These giant frogs trained by the Shika Tribe<$FFFF>
+are excellent at aquatic warfare.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+These man-eating sharks trained by the Shika Tribe<$FFFF>
+are quite powerful in aquatic warfare.<$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+These killer whales trained by the Shika Tribe<$FFFF>
+are even stronger than the Shika sharks in the water. <$FFFF>
+They can overpower pikemen with ease, <$FFFF>
+but are plowed down by cavalry.<$FFFF>
+Assault cavalry stronger than Troopers at offense.<$FFFF>
+Their defense is lower, but mobility is also higher.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Orthodox cavalry soldiers.  Their high<$FFFF>
+mobility and attack power is best for skirmishes.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Heavy cavalry with high defense power,<$FFFF>
+but diminished mobility and attack power.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Elite cavalry bodyguards for the Rig??er Emperor.<$FFFF>
+They have extremely high attack power, at<$FFFF>
+the expense of mobility and defense.<$FFFF>
+Strong versus footmen, weak against pikes.<$FFFF>
+Legendary horse with eight legs.  Its strength<$FFFF>
+is mobility and fighting in the forest.<$FFFF>
+He can plow down footmen,<$FFFF>
+but pikes can really stick it to him.<$FFFF>
+Magical beasts created through sorcerous experimentation.<$FFFF>
+Unlike ordinary cavalry, they are strongest in the forest,<$FFFF>
+their habitat.  They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+A horse with a lovely horn on its head.  Unicorns<$FFFF>
+are strongest in the forest, their natural habitat.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+A giant tiger with two oversized fangs.<$FFFF>
+Jungle-dwellers, they are also suited for forest combat.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Giant black dogs which vomit flame and are said<$FFFF>
+to be the watchdogs of hell.  Strong in the woods.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+The remains of dinosaurs, whose whole bodies<$FFFF>
+are covered in scales.  Adapted to forest combat.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Large dogs trained for war by the Shika Tribe.<$FFFF>
+Well-suited for combat and movement in the forest.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Wolves with high attack power, trained by<$FFFF>
+the Shika Tribe.  They fight best in the forest.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Tigers with high combat potential, trained by<$FFFF>
+the Shika Tribe for forest movement and warfare.<$FFFF>
+They can plow down footmen,<$FFFF>
+but pikes can really stick it to them.<$FFFF>
+Pikemen who have trained more for speed<$FFFF>
+and offense than defense.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+An anti-cavalry unit which wields spears longer<$FFFF>
+than 3 meters.  Superior defense, weak mobility.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+Pikemen who crowd together in disciplined<$FFFF>
+formation to maximize defense over offense.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+Wooden dolls fashioned by sorcerous means<$FFFF>
+which fight with lengthened spears.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+Golems fashioned out of mud<$FFFF>
+which fight with elongated spears.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+Spear-wielding automata who place more stress<$FFFF>
+on movement and attack than Mud Golems.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+Shika Tribal pikemen who wield bamboo spears.<$FFFF>
+Because of poor equipment, they are below par.<$FFFF>
+They can really stick it to cavalry,<$FFFF>
+but get stomped on by footmen.<$FFFF>
+Fairies train to fight against other aerial units.<$FFFF>
+They have lovely looks and high stats.<$FFFF>
+As flying units they also have high mobility<$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Flyers with a woman's head and eagle's body.<$FFFF>
+They are highly mobile units suited to skirmishes,<$FFFF>
+and the foundational aerial unit type.<$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Gryphon-riders who train to fight ground units.<$FFFF>
+Their mobility is low, but they are unusually<$FFFF>
+strong against all ground units.<$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Aerial units prided for their strong defense and<$FFFF>
+magic resistance.  A good unit all-around:<$FFFF>
+effective against both aerial and ground units. <$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Giant bats which have trained to fight against<$FFFF>
+aerial units.<$FFFF>
+ <$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Evil faeries who specialize against ground units.<$FFFF>
+Their mobility suffers, but they are exceptionally<$FFFF>
+strong against all ground units.<$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Strongest aerial unit, created by ancient wizards.<$FFFF>
+No other aerial or ground unit can match its prowess.<$FFFF>
+Archers can shoot them out of the sky.<$FFFF>
+Beggars with the deft fingers of thieves.<$FFFF>
+Because of poor equipment, they are below par,<$FFFF>
+but they have more mobility than most footmen.<$FFFF>
+Strong against pikes and weak against cavalry.<$FFFF>
+Highwaymen and ruffians stronger at combat<$FFFF>
+than beggars.  They are also much more mobile<$FFFF>
+than most footmen.  They can stomp on pikemen,<$FFFF>
+but get plowed down by cavalry.<$FFFF>
+Female ninjas who have trained in the arts of war.<$FFFF>
+They have more mobility than footmen and high<$FFFF>
+attack power.  They can slice through pikemen,<$FFFF>
+but get plowed down by cavalry.<$FFFF>
+Undead skeletal horses.  Otherwise they are<$FFFF>
+like ordinary cavalry.  They can plow down<$FFFF>
+footmen other than holy units, but<$FFFF>
+pikemen can really stick it to them.<$FFFF>
+Undead horses which have no heads.  Otherwise<$FFFF>
+they are like ordinary cavalry.  They can plow down<$FFFF>
+footmen other than holy units, but<$FFFF>
+pikemen can really stick it to them.<$FFFF>
+Spectral beasts formed from the dead bodies<$FFFF>
+of behemoths.  Otherwise they are<$FFFF>
+like ordinary cavalry.  They can plow down<$FFFF>
+footmen other than holy units, but<$FFFF>
+pikemen can really stick it to them.<$FFFF>
+Small, winged low-grade demons.  Not the<$FFFF>
+best at fighting, but they have high magic<$FFFF>
+resistance.<$FFFF>
+Weak against holy units.<$FFFF>
+A lesser breed of true demons.  They are<$FFFF>
+skilled at combat and have high magic<$FFFF>
+resistance.<$FFFF>
+Weak against holy units.<$FFFF>
+A kind of dream demon, though a low-grade one.<$FFFF>
+But, its fighting power and magic resistance<$FFFF>
+is higher than normal.<$FFFF>
+Weak against holy units.<$FFFF>
+An undead spirit whose strength comes from suffering.<$FFFF>
+Most such undead possess dead bodies, but this<$FFFF>
+one has a spectral form.  It can pass through obstacles.<$FFFF>
+Weak against holy units.<$FFFF>
+An apparition which clings to unlife through hatred.<$FFFF>
+It can pass through obstacles with ease.<$FFFF>
+Because it is undead, it is weakest<$FFFF>
+against holy units.<$FFFF>
+The ghost of a dead man who harbors hatred<$FFFF>
+for this world and retains its former appearance.<$FFFF>
+It can pass through obstacles with ease, but<$FFFF>
+is weak against holy units.<$FFFF>
+Bone warriors granted life by wicked sorcerors.<$FFFF>
+They are mindless, puissant fighters.  Strong<$FFFF>
+against pikes, weak against cavalry and holy units.<$FFFF>
+Dead bodies animated by wicked sorcerors.<$FFFF>
+They are mindless, puissant fighters.  Strong<$FFFF>
+against pikes, weak against cavalry and holy units.<$FFFF>
+Humans transformed into a less form of vampire.<$FFFF>
+They have red eyes and blue and white bodies.<$FFFF>
+They fight extraordinarily well.  Strong against<$FFFF>
+pikes, weak against cavalry and holy units.<$FFFF>
+Dragons with more furious attacks than the<$FFFF>
+Red Dragons.  Covered in black scales which<$FFFF>
+are thinner than other dragonscales.  <$FFFF>
+ <$FFFF>
+These red-scaled dragons are a bit dull.<$FFFF>
+They make up for this with the berserk fury<$FFFF>
+of their powerful attacks.<$FFFF>
+ <$FFFF>
+Living in the high northern mountains, these dragons<$FFFF>
+are relatively docile.  However, their white scaled<$FFFF>
+armor is the strongest of the lesser dragons.<$FFFF>
+ <$FFFF>
+Liquid creatures with malleable shape.<$FFFF>
+They survive by engulfing and dissolving others.<$FFFF>
+They are very resistant to most attacks, but<$FFFF>
+are decimated by fire or holy attacks.<$FFFF>
+Fire spirits who appear as blazing lizards.<$FFFF>
+These spirits have an aggressive nature.<$FFFF>
+They absorb fire magic, but are weak<$FFFF>
+against coold-based attacks.<$FFFF>
+Wind spirits in the form of translucent maidens.<$FFFF>
+They have a peaceful disposition but are<$FFFF>
+unusually mobile units.<$FFFF>
+They can absorb wind-based attacks.<$FFFF>
+Being ordinary citizens, they aren't trained<$FFFF>
+for war and can't fight at all.<$FFFF>
+They are especially weak against cavalry.<$FFFF>
+ <$FFFF>
+ <$FFFF>
+ <$FFFF>
+ <$FFFF>

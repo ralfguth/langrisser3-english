@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+
+# Japanese disc image (user must provide their own)
+*.iso
+*.cue
+
+# Compressed archives
+*.zip
+
+# PDFs (copyrighted guides)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Legacy CWX directory (replaced by patches/)
+lang3a2/
+
+# Working files and internal docs
+claude_tasks_ec/
+archive/
+CLAUDE_TODO*.md
+todo.md
+measure.py
+d00_size_report.md
+FONT_TILE_REFERENCE.md

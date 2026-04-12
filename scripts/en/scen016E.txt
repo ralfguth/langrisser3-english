@@ -1,0 +1,289 @@
+Langrisser III dumper [0x954c6 to 0x96f7f]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Thief<$FFFF>
+Thief leader<$FFFF>
+-Defeat all enemies<$FFFE>
+-Death of Diehärte<$FFFC>
+-The enemy snatches the Haja no Ken<$FFFE>
+Estool Ruins<$FFFF>
+Is this the place?<$FFFC>
+Where treasures sleep?<$FFFE>
+First ones here in ages!<$FFFC>
+What luck!<$FFFE>
+Leave the small fry!<$FFFC>
+We're here for the big stuff.<$FFFC>
+Clear?<$FFFE>
+Jackpot! Look at this sword!<$FFFE>
+So this is where the holy sword lies?<$FFFE>
+Correct.<$FFFC>
+Kept secret by the nobility for ages.<$FFFD>
+So it could be used when demons invade.<$FFFE>
+Never mind that, we aren't the only ones here!<$FFFE>
+Ahh, thieves!<$FFFE>
+Boss!<$FFFC>
+Soldiers heading this way!<$FFFE>
+And it could've been a nice day...<$FFFC>
+Just grab the sword, it's loot enough.<$FFFD>
+Once we have it, we run!<$FFFE>
+Right!<$FFFE>
+How unfortunate.<$FFFC>
+The thieves are after the sword too.<$FFFE>
+That sword is essential!<$FFFC>
+We must secure it at all costs!<$FFFE>
+This narrow place will make the battle hard.<$FFFE>
+Move fast or they escape with the treasure.<$FFFE>
+You're right.<$FFFE>
+Oy, scum, listen!<$FFFC>
+Grab loot and run!<$FFFC>
+Meet at the usual spot!<$FFFE>
+Gotcha Boss!<$FFFE>
+Cover them!<$FFFD>
+Move out!<$FFFE>
+What a divine sword...<$FFFC>
+Worth millions!<$FFFE>
+The Haja no Ken was obtained!<$FFFE>
+What sword is this!?<$FFFC>
+No common blade!<$FFFD>
+You son of a...!<$FFFC>
+Cheater!<$FFFD>
+Escape before we're trapped!<$FFFE>
+The Haja no Ken was obtained!<$FFFE>
+Piss off!<$FFFC>
+It's mine!<$FFFD>
+No use...<$FFFC>
+Escape and I win!<$FFFE>
+With my special sword...<$FFFE>
+Look how poor and innocent I am!<$FFFC>
+I'd never take what's not mine!<$FFFD>
+Escape before I'm trapped!<$FFFE>
+Never alive!<$FFFE>
+Sir.<$FFFC>
+Hurry or he runs with it!<$FFFE>
+I know!<$FFFE>
+He's getting away!<$FFFE>
+Time's short!<$FFFE>
+Sir!<$FFFC>
+Thief's escaping!<$FFFE>
+On it!<$FFFC>
+He gets away here, gone forever!<$FFFE>
+Got it!<$FFFE>
+Jajaja!<$FFFC>
+Shiny treasure!<$FFFE>
+Divine Blessing was obtained!<$FFFE>
+Now I just run!<$FFFE>
+It was a mimic.<$FFFE>
+A mimic!?<$FFFC>
+Shit!<$FFFE>
+Divine Blessing was obtained!<$FFFE>
+Stealing from thieves, the nerve!<$FFFE>
+It was a mimic.<$FFFE>
+Damn!<$FFFC>
+Not fair!<$FFFE>
+I hate the world!<$FFFE>
+The Crystal Ankh was obtained!<$FFFE>
+Fortune smiles today!<$FFFE>
+It was a mimic.<$FFFE>
+C'mon...<$FFFC>
+You're kidding...<$FFFE>
+The Crystal Ankh was obtained!<$FFFE>
+Suckers!<$FFFC>
+Too slow!<$FFFE>
+It was a mimic.<$FFFE>
+Huh!?<$FFFC>
+Pathetic...<$FFFE>
+Going home to mom...<$FFFE>
+The notorious Magical Bikini was obtained!<$FFFE>
+It was a mimic.<$FFFE>
+That's just cheap...<$FFFE>
+The notorious Magical Bikini was obtained!<$FFFE>
+Just perfect!<$FFFC>
+I'm out!<$FFFE>
+It was a mimic.<$FFFE>
+Whaaat!?<$FFFC>
+Unbearable!<$FFFE>
+The kind sack was obtained!<$FFFE>
+Right call coming here.<$FFFE>
+It was a mimic.<$FFFE>
+No!<$FFFC>
+A lie!<$FFFE>
+The kind sack was obtained!<$FFFD>
+You try opening the sack...<$FFFD>
+Fruit of bravery was obtained!<$FFFE>
+Fruit of vigor was obtained!<$FFFE>
+Fruit of intelligence was obtained!<$FFFE>
+Fruit of power was obtained!<$FFFE>
+Fruit of toughness was obtained!<$FFFE>
+Fruit of protection was obtained!<$FFFE>
+Damn!<$FFFC>
+Nice find!<$FFFE>
+It was a mimic...<$FFFE>
+Meh.<$FFFC>
+No one's laughing...<$FFFE>
+The power glove was obtained!<$FFFE>
+Hmm.<$FFFC>
+Nice loot, off!<$FFFE>
+It was a mimic...<$FFFE>
+Grrr!<$FFFC>
+Waste of space!<$FFFE>
+The power glove was obtained!<$FFFE>
+Hooray!<$FFFC>
+Found something good!<$FFFE>
+It was a mimic...<$FFFE>
+Oh great.<$FFFC>
+Just fantastic!<$FFFE>
+Make my day and kick my...<$FFFC>
+But catch me first!<$FFFC>
+So long!<$FFFE>
+Not too late...<$FFFC>
+to escape...<$FFFE>
+Dammit!<$FFFC>
+My plans failed...<$FFFE>
+I'll remember this!<$FFFC>
+You'll regret this!<$FFFE>
+This treasure's mine!<$FFFC>
+See you!<$FFFC>
+You're in trouble now!<$FFFE>
+Dammit!<$FFFC>
+My plans failed...<$FFFE>
+Dang!<$FFFC>
+I'd be rich!<$FFFE>
+Deal's busted!<$FFFC>
+So long!<$FFFE>
+Dammit!<$FFFC>
+My plans failed...<$FFFE>
+Thanks for the loot!<$FFFC>
+Hehe...<$FFFE>
+Off to sell big in town!<$FFFC>
+Hahaha...<$FFFE>
+Dammit!<$FFFC>
+My plans failed...<$FFFE>
+So happy.<$FFFC>
+Living set with this...<$FFFE>
+Hehehe!<$FFFC>
+See you!<$FFFE>
+Dammit!<$FFFC>
+My plans failed...<$FFFE>
+This place is tiresome!<$FFFC>
+I'm out!<$FFFE>
+Made it through!<$FFFC>
+Good day!<$FFFE>
+Damn!<$FFFC>
+My plans failed...<$FFFE>
+No use crying...<$FFFC>
+My life's the treasure...<$FFFE>
+Before you stands a door bearing a painting of a giant.<$FFFC>
+There are two switches on the door.<$FFFE>
+Which switch will you push?<$FFFE>
+Black switch<$FFFE>
+Red switch<$FFFE>
+None<$FFFE>
+Pushing the black switch, the right side door opens.<$FFFC>
+Inside lies a vestment that shines strangely.<$FFFE>
+The Vestment of Darkness was obtained!<$FFFE>
+The door shuts and the switches stop moving.<$FFFE>
+Pushing the red switch, the left side door opens.<$FFFC>
+A dagger flies out and scratches your arm.<$FFFE>
+Apart from The Painless, nothing was obtained!<$FFFE>
+The door shuts and the switches stop moving.<$FFFE>
+Among the trees you find an image of an old man.<$FFFC>
+The old man holds a small bow and arrows.<$FFFE>
+Do you want to take up the image?<$FFFE>
+It seems a common image.<$FFFE>
+Suddenly the image begins to talk.<$FFFD>
+"Call my name and you shall be granted power."<$FFFE>
+Which name will you say?<$FFFE>
+Masamune<$FFFE>
+Chaos<$FFFE>
+Odin<$FFFE>
+The statue vanished...<$FFFE>
+The statue vanished...<$FFFE>
+"Take this bow and arrow for your wisdom."<$FFFE>
+Harding was obtained!<$FFFE>
+A rusted metal plate lies in the clearing.<$FFFE>
+Pick it up?<$FFFE>
+At your touch, the rust crumbles, revealing a fine shield!<$FFFE>
+Achilles Shield was obtained!<$FFFE>
+I couldn't...<$FFFC>
+Still you must...<$FFFE>
+Papa...<$FFFE>
+Everyone, forgive me...<$FFFE>
+So this is my limit...<$FFFE>
+No use...<$FFFE>
+Don't hit me...<$FFFE>
+I'm sorry...<$FFFE>
+Lushiris, take me...<$FFFE>
+Urg...<$FFFC>
+Carry on...<$FFFE>
+urrgh...<$FFFE>
+Inevitable...<$FFFE>
+Too strong...<$FFFC>
+Guaarr...<$FFFE>
+Haja no Ken was obtained!<$FFFE>
+You did it.<$FFFC>
+You hold the Haja no Ken.<$FFFE>
+Well done, Sir.<$FFFE>
+Yikes!<$FFFC>
+You got me...<$FFFE>
+Divine Blessing was obtained!<$FFFE>
+After all these years...<$FFFE>
+The Crystal Ankh was obtained!<$FFFE>
+You can't have it!<$FFFC>
+Never!<$FFFE>
+The Magical Bikini was obtained!<$FFFE>
+Urghh!<$FFFE>
+The kind sack was obtained!<$FFFD>
+You try opening the sack...<$FFFD>
+Fruit of bravery was obtained!<$FFFE>
+Fruit of vigor was obtained!<$FFFE>
+Fruit of intelligence was obtained!<$FFFE>
+Fruit of power was obtained!<$FFFE>
+Fruit of toughness was obtained!<$FFFE>
+Fruit of protection was obtained!<$FFFE>
+I bungled it...<$FFFE>
+The power glove was obtained!<$FFFE>
+Nooo!<$FFFE>
+Iaaahh!<$FFFC>
+Help...<$FFFE>
+Can't die before winning the lottery!<$FFFE>
+Boss!<$FFFE>
+What?<$FFFE>
+Save my soul...<$FFFE>
+Well?<$FFFC>
+Is that my blood?<$FFFE>
+Wait, I did nothing bad...<$FFFE>
+Shouldn't have drunk last night...<$FFFE>
+Blood, sweat, tears... a divine mix...<$FFFE>
+We can stand against the Empire and Barral now.<$FFFE>
+The thieves are dealt with.<$FFFE>
+The Haja no Ken was obtained!<$FFFE>
+Thanks to your command, Sir.<$FFFE>
+But some thieves escaped.<$FFFC>
+Small fry, but we should've gotten them...<$FFFE>
+Beyond fighting demons, the Haja no Ken is a mighty sword.<$FFFC>
+Use it wisely.<$FFFE>
+With it we can face the Empire and Barral, yes?<$FFFE>
+Perhaps.<$FFFC>
+And you've all grown much stronger.<$FFFE>
+Yes, our division grows in real battle daily.<$FFFE>
+I count on you all.<$FFFC>
+Lend me your strength in the battles ahead!<$FFFE>

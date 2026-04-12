@@ -1,0 +1,216 @@
+Langrisser III dumper [0x49080 to 0x4a5a5]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Barral Commander<$FFFF>
+Princess Freya<$FFFF>
+-Defeat Princess Freya<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+Railym presently under Barral's rule<$FFFF>
+Past here, the southern Lushiris Gate is near.<$FFFE>
+Please wait!<$FFFC>
+Troops are stationed in this town!<$FFFE>
+Those are!?<$FFFE>
+Barral troops...<$FFFE>
+What of it!<$FFFE>
+We can't reach the southern gate otherwise. Let's force our way through!<$FFFE>
+Hmm!?<$FFFC>
+Princess, the enemy is here!<$FFFE>
+Remnants of the Larcussian army?<$FFFE>
+Lord Raymond gathered troops, maybe his?<$FFFE>
+Perhaps...<$FFFC>
+It seems they plan to cross the Raylim Mountains.<$FFFE>
+So they plan further operations inside our country.<$FFFC>
+Prepare to intercept them!<$FFFE>
+That woman seems to be their commander.<$FFFE>
+It couldn't be...Princess Freya!?<$FFFE>
+We can't afford a detour.<$FFFE>
+A battle is inevitable.<$FFFE>
+....<$FFFE>
+Hey, [diehardt's name]!<$FFFC>
+Stop standing there looking silly!<$FFFE>
+Y..Yeah...<$FFFE>
+2nd division: southwest gate secured.<$FFFE>
+1st division: western gate secured.<$FFFE>
+3rd division: northwest gate secured.<$FFFE>
+Archers, advance!<$FFFD>
+Support the frontline!<$FFFE>
+Yessir!<$FFFE>
+The enemy is in the city...<$FFFD>
+All troops, full attack!<$FFFC>
+Exterminate the intruders!<$FFFE>
+Freya...<$FFFE>
+All my guards are defeated...<$FFFD>
+No matter how grim, I'll fight to my last breath!<$FFFE>
+Sir [diehardt's name].<$FFFC>
+The enemy uses Archers.<$FFFD>
+Pay attention.<$FFFE>
+They strike from a distance, with no chance to retaliate.<$FFFD>
+And they're most effective against flying units.<$FFFE>
+You know your stuff.<$FFFC>
+In melee, even flying units kill them easily.<$FFFE>
+I see.<$FFFD>
+So stay out of range and close in swiftly.<$FFFE>
+Correct.<$FFFE>
+Move out!<$FFFC>
+Don't let them gain ground.<$FFFE>
+For Barral's prosperity, we must crush the remnants of Larcuss.<$FFFC>
+Everyone, I rely on you!<$FFFE>
+...No doubt about it.<$FFFC>
+It really is Freya!<$FFFE>
+What is it, [diehardt's name]?<$FFFE>
+Unless my eyes deceive me, the enemy commander is Princess Freya.<$FFFE>
+Eeehh!?<$FFFC>
+She's your childhood friend, [diehardt's name]?<$FFFE>
+Princess Freya!<$FFFE>
+Who calls me!?<$FFFE>
+It's me, Diehärte!<$FFFC>
+You haven't forgotten me, right?<$FFFE>
+Diehärte...?<$FFFC>
+...I know no one by that name!<$FFFE>
+Freya!?<$FFFE>
+For an enemy, I have no memory!<$FFFD>
+My sole mission is to defeat you.<$FFFC>
+A pity, but if you attack, you must die!<$FFFE>
+Block the town entrances!<$FFFE>
+As you wish!<$FFFE>
+Infantry, advance!<$FFFE>
+What's the best way to take the city...?<$FFFE>
+Sir [diehardt's name].<$FFFC>
+Rather than break through all gates, we should focus on one.<$FFFE>
+Your thoughts?<$FFFE>
+There's no need for that<$FFFE>
+My plan exactly<$FFFE>
+You're right<$FFFE>
+There's no need for that.<$FFFC>
+We can break all the gates.<$FFFE>
+Possible, but with unnecessary losses.<$FFFC>
+Please consider concentrating our forces.<$FFFE>
+I'll think about it.<$FFFE>
+Don't worry.<$FFFC>
+That's what I planned too.<$FFFE>
+Then excuse me<$FFFC>
+for the needless advice.<$FFFE>
+No apology needed.<$FFFC>
+Your input is valued, so always speak openly.<$FFFE>
+I..I will..<$FFFE>
+...You're right.<$FFFC>
+Splitting our troops on all gates would be wasteful.<$FFFE>
+Yes.<$FFFE>
+Freya, it's me, Diehärte!<$FFFE>
+...It's been a long time, Diehärte.<$FFFE>
+A knight by now?<$FFFE>
+Yeah.<$FFFE>
+Yeah.<$FFFC>
+You honor your family name, [diehardt's name].<$FFFE>
+I see.<$FFFC>
+Then accept my congratulations.<$FFFE>
+I never thought we'd meet like this...<$FFFE>
+Why did Barral...why did King Wilder break the alliance and invade Larcuss!?<$FFFE>
+I met King Wilder in Laffel half a year ago, but the kind King was gone!<$FFFE>
+Humans change with time.<$FFFE>
+But you haven't changed, Freya!?<$FFFE>
+I have no wish to fight you...<$FFFE>
+You're going easy on me because I'm a woman!<$FFFE>
+As things stand, we're enemies.<$FFFC>
+I won't hold back!<$FFFE>
+Near the waterfall, a sword's hilt comes into sight.<$FFFE>
+Pull it out?<$FFFE>
+The Lawnmower was obtained!<$FFFE>
+The sword drifts into the inner waterways...<$FFFE>
+Uuwwaa!!<$FFFE>
+I'm sorry, [diehardt's name].<$FFFC>
+Carry on in my stead...<$FFFE>
+Iaaa!<$FFFE>
+Khe!<$FFFE>
+Ow!<$FFFE>
+It hurts...<$FFFE>
+My, you'll have to go on without me...<$FFFE>
+Forgive me, Sir [diehardt's name].<$FFFC>
+Retreat is best!<$FFFE>
+Aaaahh!<$FFFC>
+...I.Impossible...<$FFFE>
+Sir [diehardt's name], you commanded brilliantly.<$FFFE>
+Sir [diehardt's name]...<$FFFC>
+The battle took too long...<$FFFD>
+This'll hurt our next fight...<$FFFE>
+I hate to do this, [diehardt's name]!<$FFFC>
+Why did it come to this...?<$FFFE>
+I don't know.<$FFFC>
+I really don't, Freya.<$FFFD>
+Without Barral's invasion,<$FFFC>
+we'd have no reason to fight!<$FFFE>
+I'm Barral's princess!<$FFFC>
+If the King invades Larcuss, I must follow,<$FFFD>
+even as enemies...<$FFFC>
+We can't return to those merry days.<$FFFC>
+Now there's nothing left but to fight!<$FFFE>
+Freya...<$FFFC>
+I didn't want to hurt you, but it can't be helped.<$FFFD>
+Prepare yourself.<$FFFE>
+Spare me the pity.<$FFFC>
+Fight me with all your might!<$FFFE>
+Guuaarg!<$FFFE>
+Arrggg!<$FFFE>
+Ahhh!<$FFFE>
+Uuu!<$FFFE>
+Must protect...the princess...<$FFFD>
+Guuaa!<$FFFE>
+Guuu!<$FFFE>
+Farewell, Princess...<$FFFE>
+You shall not pass!<$FFFC>
+The gate must hold...<$FFFE>
+I couldn't protect...<$FFFE>
+Run...fools...<$FFFD>
+Guaa!<$FFFE>
+Curse you!<$FFFE>
+I won't lose to you!<$FFFE>
+Fuuu!<$FFFE>
+How careless of me...<$FFFE>
+Forgive me, Princess...<$FFFE>
+Never expected...<$FFFE>
+No way!?<$FFFE>
+Uwaaa!<$FFFE>
+I thought we'd win...<$FFFE>
+That's not true...<$FFFE>
+Urg...<$FFFE>
+Damn!<$FFFC>
+So much left undone...<$FFFE>
+P..Princess...<$FFFE>
+G.Guuuarg!<$FFFE>
+The Archers and infantry are crushed!?<$FFFD>
+Larcuss' remnants wield great power...<$FFFE>
+The gate defenders are no more...<$FFFC>
+Now it's up to Infantry and Archers...<$FFFE>
+The Archers are routed too...<$FFFE>
+The Archers and infantry are crushed!?<$FFFE>
+Survivors of Larcuss!<$FFFC>
+Turn back or face the consequences!<$FFFE>
+You won't pass this gate!<$FFFE>
+Not over my dead...body...<$FFFE>
+You'll never make it...<$FFFD>
+You won't lay a finger on the princess!<$FFFE>
+You had your chance to flee!<$FFFC>
+Now, breathe your last!<$FFFE>
+I take full blame for the dead today!<$FFFE>
+Enemy moves, prepare countermeasures!<$FFFE>
+Be careful out there!<$FFFE>
+Yessir!<$FFFE>

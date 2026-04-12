@@ -1,0 +1,317 @@
+Langrisser III dumper [0xa8696 to 0xaa653]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jugler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Princess Freya<$FFFF>
+Barral Soldier<$FFFF>
+Barral Commander<$FFFF>
+-Defeat Freya<$FFFE>
+-Death of Dieharte<$FFFE>
+Laffel ~ Occupied by the Barral Kingdom<$FFFF>
+*Sigh*...<$FFFC>
+The Dark Knight being called away doesn't bode well.<$FFFE>
+Those attacking Rogier must be bold.<$FFFC>
+That fortress can withstand an army.<$FFFE>
+The Dark Knight sent them to the Netherworld by now.<$FFFE>
+I know what he can do. But overconfidence leads to ruin.<$FFFE>
+Excuse my rudeness!<$FFFC>
+I was thinking out loud.<$FFFE>
+...It's alright.<$FFFC>
+Speaking freely is admirable.<$FFFE>
+The enemy!<$FFFC>
+The enemy has come!<$FFFE>
+!?<$FFFE>
+At last we're back.<$FFFE>
+Yeah.<$FFFC>
+We've returned.<$FFFE>
+Now I'll prove worthy of my oath to Gerold!<$FFFE>
+The gates won't fall easily.<$FFFC>
+But we can't turn back now.<$FFFE>
+Yo!<$FFFC>
+What's all this racket all about!?<$FFFE>
+Wolf!?<$FFFE>
+I'm drawn to wherever the action is.<$FFFC>
+Can't tolerate a battle in my town without me in it!<$FFFE>
+The legendary Silver Wolf is here!<$FFFC>
+Just give me orders.<$FFFE>
+Come to atone for your crimes?<$FFFC>
+Traitor, Dios...<$FFFE>
+That's a good one.<$FFFC>
+Just thinking about Barral as it is now makes me sick.<$FFFC>
+I'm ashamed of what you've become.<$FFFD>
+I act for my sake and the king I served.<$FFFC>
+But he's gone mad and treats lives as nothing!<$FFFE>
+Enough insulting my father!<$FFFC>
+You'll return whether you want to or not!<$FFFE>
+The west gate is under attack...<$FFFD>
+1st rear guard!<$FFFC>
+Reinforce the west gate!<$FFFE>
+The enemy moves on the northwest gate.<$FFFC>
+Attention!<$FFFE>
+They come through the southwest gate...<$FFFD>
+1st rear guard!<$FFFC>
+Support the southwest gate!<$FFFE>
+They breach the east gate...<$FFFD>
+2nd rear guard!<$FFFC>
+Reinforce the east gate!<$FFFE>
+The enemy assaults the north gate!<$FFFC>
+Attention!<$FFFE>
+The south gate is under attack...<$FFFD>
+2nd rear guard!<$FFFC>
+Reinforce the south gate!<$FFFE>
+...<$FFFC>
+So I must fight Dieharte again...<$FFFE>
+All troops prepare for battle!<$FFFC>
+Hold the town until the Dark Knight returns!<$FFFE>
+This battle is decided, Freya.<$FFFC>
+I don't want you harmed.<$FFFD>
+Stand down!<$FFFE>
+I can't do that!<$FFFC>
+I've got my own duty to uphold!<$FFFE>
+What do you reply?<$FFFE>
+Throw it away<$FFFE>
+I don't understand<$FFFE>
+Something is troubling you<$FFFE>
+If that duty harms you, abandon it!<$FFFD>
+Before being a Princess, you're your own person!<$FFFE>
+You don't understand at all!<$FFFD>
+I must obey father!<$FFFE>
+King Wilder has gone mad.<$FFFC>
+Following him is madness!<$FFFE>
+It's true father changed.<$FFFC>
+But his change is my responsibility!<$FFFD>
+That's why I'll never abandon him!<$FFFE>
+Freya...<$FFFE>
+I don't understand you!<$FFFC>
+Why so hostile when I speak gently?<$FFFE>
+I don't give up my beliefs easily.<$FFFD>
+You're right, Dieharte. You don't understand me!<$FFFE>
+What's troubling you?<$FFFD>
+We always got along, Freya.<$FFFC>
+If something worries you, say it!<$FFFE>
+Thank you, Dieharte...<$FFFD>
+But it's complicated.<$FFFC>
+I don't know how to feel about this.<$FFFE>
+You're worried about King Wilder.<$FFFD>
+You know best how much he's changed.<$FFFE>
+Father's change is my responsibility.<$FFFD>
+I can't abandon him.<$FFFC>
+I must stay at father's side.<$FFFE>
+Freya...<$FFFE>
+I won't tell you anything!<$FFFE>
+I won't tell you anything!<$FFFE>
+A girl opens the door.<$FFFE>
+How do you speak with her?<$FFFE>
+Joking<$FFFE>
+Strict<$FFFE>
+Gentle<$FFFE>
+The girl smiled and went inside.<$FFFE>
+The girl was startled and went inside.<$FFFE>
+The girl handed you a beautiful ring.<$FFFE>
+Ring of the Stone Spirit was obtained!<$FFFE>
+A woman opens the door.<$FFFE>
+How do you speak with her?<$FFFE>
+Promise to free Laffel<$FFFE>
+Flirt<$FFFE>
+Propose marriage<$FFFE>
+She smiles and hands you a fine piece of fabric.<$FFFE>
+Veil of Light was obtained!<$FFFE>
+She yawns and shuts the door.<$FFFE>
+She laughs, shakes her head and shuts the door.<$FFFE>
+Something was buried here recently.<$FFFE>
+Do you want to dig?<$FFFE>
+You find a strongbox with a fine accessory.<$FFFE>
+Star Coin was obtained!<$FFFE>
+Don't tell me...<$FFFC>
+You would let me die like this...<$FFFE>
+Papa...<$FFFE>
+I'm sorry, everyone...<$FFFE>
+I reached my limit...<$FFFE>
+It's hopeless...<$FFFE>
+Huh?<$FFFE>
+Excuse me...<$FFFE>
+Lushiris...where are you now...<$FFFE>
+Guargh...<$FFFC>
+Please carry on...<$FFFE>
+Urgh...<$FFFE>
+How sad...<$FFFE>
+Crap!<$FFFC>
+Why is there a gap where my heart should be...<$FFFE>
+Cheer up, Wolf.<$FFFC>
+We need you.<$FFFE>
+I'll finish this.<$FFFC>
+I'll show what I'm capable of...<$FFFE>
+If I'm defeated Barral will...<$FFFE>
+Freya...<$FFFE>
+What do you say?<$FFFE>
+We have won.<$FFFE>
+Wasted efforts<$FFFE>
+Why...<$FFFE>
+We have won.<$FFFE>
+Surely I...<$FFFE>
+Your efforts are wasted.<$FFFE>
+You think this was in vain?<$FFFC>
+I give up hoping you'll understand.<$FFFE>
+Why are you doing this...?<$FFFE>
+Only I can understand...<$FFFC>
+If I didn't, Father would...<$FFFE>
+Freya...<$FFFE>
+This battle is lost.<$FFFE>
+No more losses...dammit!<$FFFC>
+All troops, retreat!<$FFFE>
+Freya!<$FFFE>
+...There she goes...<$FFFE>
+You led us well, Sir Dieharte.<$FFFE>
+Sir Dieharte...<$FFFC>
+I'm worried about your state of mind...<$FFFD>
+Please see a doctor soon...<$FFFE>
+<$F702><$F703>Leave it to me!<$FFFC>
+Nothing we can't handle with our combined skills!<$FFFE>
+<$F702><$F703>Leave it to me!<$FFFC>
+Nothing we can't handle with our combined skills!<$FFFE>
+Hey!<$FFFC>
+Thought I'd join in, but you cleared the plate already!<$FFFE>
+Yeah.<$FFFC>
+Our strategy worked out well.<$FFFE>
+I see!<$FFFC>
+I owe you one.<$FFFD>
+Settled!<$FFFC>
+From now on I fight alongside you!<$FFFD>
+Laffel is free again.<$FFFE>
+...Laffel.<$FFFC>
+I finally kept my promise to Gerold.<$FFFC>
+Now, release the townspeople!<$FFFE>
+Prepare yourself, Freya!<$FFFE>
+Mind yourself!<$FFFE>
+For those who fell today, I carry on!<$FFFE>
+I won't die just yet!<$FFFE>
+Dieharte...<$FFFC>
+It looks grim for me,<$FFFD>
+but I won't yield until my last breath!<$FFFE>
+What do you say?<$FFFE>
+Hold back<$FFFE>
+I have no desire to fight<$FFFE>
+Stop it<$FFFE>
+Don't worry.<$FFFC>
+I'll try to hold back somewhat.<$FFFE>
+Don't mock me!<$FFFD>
+I won't stand that attitude!<$FFFE>
+Please stop!<$FFFC>
+I don't want to fight you!<$FFFE>
+I'm itching to repay you for last time!<$FFFD>
+Prepare yourself!<$FFFE>
+Stop this pointless struggle!<$FFFC>
+The battle is decided!<$FFFE>
+Is that so!<$FFFC>
+My strategy cost many lives.<$FFFD>
+But don't dare call what they fought for pointless!<$FFFE>
+N..No!<$FFFE>
+!<$FFFE>
+Prin...cess..<$FFFE>
+No way I go down like...this...<$FFFE>
+T.That's...<$FFFE>
+They got me!<$FFFE>
+...I died on a foreign field...<$FFFE>
+Laffel has fallen...<$FFFE>
+Over my dead body...<$FFFC>
+Victory to Barral!<$FFFE>
+Barral will be victorious!<$FFFE>
+Wind, carry my soul home...<$FFFE>
+Our corpses form an impenetrable wall...<$FFFE>
+Larcuss remnants...<$FFFE>
+Stop...them...<$FFFC>
+At all...cost...<$FFFE>
+Just try it!<$FFFC>
+You won't leave here alive!<$FFFE>
+It's over so soon...<$FFFE>
+!!<$FFFE>
+Oh Wind, grant us victory!<$FFFE>
+Your Majesty!<$FFFE>
+I...can't move...<$FFFE>
+How...<$FFFC>
+...could such a ragtag force defeat us...<$FFFE>
+Fool!<$FFFC>
+Don't yield, no matter what comes through that gate!<$FFFE>
+Now you did it!<$FFFE>
+Defeated like this...<$FFFE>
+I hear the wind...<$FFFE>
+Already dead inside...<$FFFE>
+...<$FFFE>
+M...mother...<$FFFE>
+Uuuuhh...<$FFFE>
+Such impudence!<$FFFE>
+Not again...<$FFFE>
+Urgh!<$FFFC>
+What's that?<$FFFE>
+Be...careful...<$FFFE>
+Those guys are cowards!<$FFFD>
+Fighting is horrible...<$FFFE>
+W..What!<$FFFE>
+My body won't move...<$FFFE>
+Power of the wind...<$FFFE>
+I give up!<$FFFE>
+All this pointless killing...<$FFFC>
+May Lushiris forgive you...<$FFFE>
+Forgive me, everyone.<$FFFC>
+I was a poor leader...<$FFFD>
+Would things differ with the Dark Knight here...<$FFFE>
+...<$FFFD>
+You've grown strong, Dieharte...and brutal...<$FFFE>
+Dieharte!<$FFFC>
+I take my leave now.<$FFFC>
+But this isn't the end of our story!<$FFFE>
+Silver Wolf joined!<$FFFE>
+Thanks, Wolf.<$FFFC>
+You know how to show up at the right time.<$FFFE>
+Thanks.<$FFFC>
+Your help is appreciated.<$FFFE>
+Yessir!<$FFFE>
+Intercept the enemy!<$FFFE>
+Understood!<$FFFE>
+Encircle the enemy!<$FFFC>
+Advance!<$FFFE>
+All western troops defeated...<$FFFD>
+I feared as much, Dieharte.<$FFFC>
+Flawless strategy...<$FFFD>
+But this battle is far from over!<$FFFE>
+Princess!<$FFFC>
+The eastern gate has fallen!<$FFFE>
+In that case,<$FFFC>
+abandon your post and join the main body!<$FFFE>
+Understood!<$FFFE>
+Take cover!<$FFFE>
+Take cover!<$FFFE>
+Relief troops coming!<$FFFE>
+Relief troops coming!<$FFFE>
+They're in the town!<$FFFC>
+Charge!<$FFFE>
+They're in the town!<$FFFC>
+Charge!<$FFFE>
+Show them what we've got!<$FFFE>
+Show them what we've got!<$FFFE>
+...Done. Feels good they're gone.<$FFFE>
+Hey!<$FFFC>
+I want to show my gratitude.<$FFFC>
+You freed Laffel. No small feat.<$FFFD>
+I must repay you!<$FFFD>
+I know!<$FFFC>
+From now on I fight alongside you!<$FFFC>
+All that's left is to retake the capitol, Larcussia.<$FFFE>

@@ -1,0 +1,79 @@
+Langrisser III dumper [0x3949b2 to 0x394f8b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Kaiser Kleist<$FFFF>
+Field Marshal Altemuller<$FFFF>
+First prince Paul<$FFFF>
+Barral Commander<$FFFF>
+King Wilder<$FFFF>
+Princess Freya<$FFFF>
+Mysterious man<$FFFF>
+Colcian General<$FFFF>
+Colcian Soldier<$FFFF>
+Royal Capitol Larcussia<$FFFF>
+ <$FFFE>
+ <$FFFE>
+ <$FFFE>
+ <$FFFE>
+Rigüler Castle ~ Audience Hall<$FFFF>
+Field Marshal Altemuller...<$FFFC>
+The Larcussia invasion was a splendid success.<$FFFD>
+If we conquer Laffel next, it would surely benefit the Empire...<$FFFE>
+Understood!<$FFFC>
+It shall be as you wish.<$FFFE>
+ <$FFFC>
+The future of the Empire depends....<$FFFC>
+...Aghh!<$FFFE>
+Father...<$FFFE>
+Don't worry yourself...<$FFFC>
+As of late, I don't feel...<$FFFD>
+ <$FFFC>
+....Ugh!<$FFFE>
+Your Majesty!?<$FFFE>
+Vice Capitol Laffel<$FFFF>
+Sir, the princess has arrived.<$FFFE>
+Good.<$FFFE>
+Father,<$FFFC>
+it has been a while.<$FFFE>
+Oh, Freya.<$FFFC>
+How is Laffel?<$FFFC>
+Compared to Larcussia it isn't much...<$FFFD>
+But no matter,<$FFFC>
+soon we'll conquer the capitol too.<$FFFE>
+Larcussia has fallen to the Rigüler Empire...<$FFFE>
+Father, you won't defy the Empire!?<$FFFE>
+No need to worry.<$FFFC>
+With Dios and our new ally, even the Empire will bow...<$FFFE>
+....<$FFFE>
+Who is he...?<$FFFE>
+Heart black as night...Dark Knight, a fitting name, no?<$FFFC>
+He'll be Barral's new supreme commander.<$FFFD>
+I can't wait to test him against the Empire.<$FFFC>
+Hohohoho!<$FFFE>
+ <$FFFE>
+The Imperials moved; now it's our turn to claim our share.<$FFFD>
+Glory to the Kingdom of Colcia!<$FFFC>
+All troops, advance!<$FFFE>
+ <$FFFC>
+ <$FFFC>
+Oohhh!<$FFFE>
+Half a year later ~ Raymond's mansion<$FFFF>

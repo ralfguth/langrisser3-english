@@ -1,0 +1,46 @@
+Langrisser III dumper [0x2e0604 to 0x2e09cf]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Imperial First Prince Paul<$FFFF>
+Advisor<$FFFF>
+<$FFFC>
+Scenario ~ 24<$FFFC>
+"The Field Marshal's Determination"<$FFFE>
+Velzeria, country of the demon kind, has begun a full-scale invasion.<$FFFC>
+The mobile division was defending the border villages but got a<$FFFC>
+high priority recall because of the Empire's attack on the royal capitol.<$FFFE>
+But, who will ultimately win in this battle between three foes; <$FFFC>
+the Empire, Velzeria, or Elthlead?<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of all enemies<$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of Sieghart<$FFFE>
+Rigüler Imperial Castle ~ Paul's Personal Room<$FFFF>
+So, now that my father's died, it's my turn to take the throne.<$FFFE>
+But, Altemuller seems more popular within the court here.<$FFFE>
+How shall we deal with those fools expected to oppose us?<$FFFE>
+Let's just give Altemuller no margin for error if he blunders again.<$FFFE>
+And when he does.....I'll call for his death.<$FFFE>
+This plan might take some time before it can be hatched.<$FFFC>
+But, it gives me such a rush.<$FFFC>
+Hahahaha!<$FFFE>

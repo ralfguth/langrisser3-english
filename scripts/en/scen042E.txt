@@ -1,0 +1,161 @@
+Langrisser III dumper [0x1c0314 to 0x1c13bb]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Knight Gerold<$FFFF>
+General Varna<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Duke William<$FFFF>
+Duke William<$FFFF>
+Rigüler Commander<$FFFF>
+Layla<$FFFF>
+Larcuss Commander<$FFFF>
+ <$FFFC>
+Scenario ~ 01<$FFFC>
+"Assault on the Floating Castle"<$FFFE>
+Since ancient times the Kingdom of Larcuss prospered,<$FFFC>
+resisting the ambitious Rigüler Empire to the north<$FFFC>
+while allying with Barral to the south.<$FFFC>
+A floating fortress above its capital Larcussia<$FFFC>
+kept peace throughout the lands.<$FFFE>
+Today a young man concludes his knightly training<$FFFC>
+with the ceremony of ascension.<$FFFC>
+[diehardt's name] Klaus overcame every hardship of the rigorous training.<$FFFC>
+Now his efforts would bear fruit<$FFFC>
+and his childhood dream finally become reality.<$FFFE>
+Little did he know this joy would soon<$FFFC>
+be overshadowed by black wings of demise<$FFFC>
+already approaching the Floating Castle.<$FFFE>
+*Conditions for Victory<$FFFC>
+ -Total destruction of the enemy <$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Floating Castle ~ Underground Altar<$FFFF>
+[diehardt's name].<$FFFC>
+Hey [diehardt's name]!<$FFFE>
+It is dawn already. <$FFFC>
+The ceremony preparations are complete, I trust?<$FFFE>
+Yes!<$FFFE>
+You made it. A little nervous?<$FFFC>
+Haha, that's only natural.<$FFFC>
+I was nervous at my knighting ceremony too.<$FFFE>
+Lord Gerold.....<$FFFE>
+Now that's a bit too formal.<$FFFE>
+I am thinking of you as my equal,<$FFFC>
+so just call me Gerold as you always do.<$FFFE>
+Thank you for everything, Gerold.<$FFFC>
+You are truly the most honourable of the royal knights.<$FFFE>
+Haha!<$FFFC>
+I kinda expect you to go for that title before long. <$FFFE>
+I expect you'll claim that title before long.<$FFFC>
+Well, we shouldn't keep everyone waiting.<$FFFE>
+Yes!<$FFFE>
+...Now I finally will become a knight.<$FFFC>
+I have dreamed of this day since I was a little boy....<$FFFE>
+Six years training under Lord William already?<$FFFC>
+Time sure flies by.<$FFFE>
+I wonder how princess Freya is doing.<$FFFE>
+She'll be 16 soon, she must have grown a lot...<$FFFE>
+After the ceremony I'll pay her a visit.<$FFFE>
+Mountains near the Floating Castle<$FFFF>
+Your Excellency Altemuller.<$FFFE>
+We've been here 4 days without acting. The troops grow restless...<$FFFE>
+There's no need to worry.<$FFFC>
+We will act at once.<$FFFE>
+That would be rash. A storm is coming shortly.<$FFFC>
+We cannot fly like this.<$FFFE>
+Ever heard of this castle's Demonic Cannon?<$FFFE>
+They say its power can annihilate an entire town.<$FFFE>
+Indeed.<$FFFC>
+That cannon alone blocks the Empire's advance. Destroy it and the castle falls, heralding our rise.<$FFFE>
+But we must stay undetected by the guards at all costs.<$FFFE>
+So, what you plan is to use the storm clouds as cover?<$FFFE>
+That's why this unit is all veteran fliers.<$FFFC>
+A storm beats the Demonic Cannon.<$FFFE>
+I consent.<$FFFE>
+All units, move out!<$FFFE>
+Floating Castle ~ Assembly Hall<$FFFF>
+...<$FFFC>
+[diehardt's name] Claus.<$FFFC>
+Before I grant you knighthood, you must make the oath.<$FFFE>
+...[diehardt's name] Claus.<$FFFC>
+Before I grant you knighthood, you must make the oath.<$FFFE>
+After this you are ready, [diehardt's name].<$FFFE>
+Yes milord!<$FFFC>
+I vow to be pure of heart and renounce the lust for power and fame.<$FFFE>
+[diehardt's name],<$FFFC>
+from now on you must serve the Larcuss Kingdom honorably.<$FFFE>
+Serve your king and protect those who cannot protect themselves.<$FFFE>
+Yessir!<$FFFE>
+Congratulations on your investiture.<$FFFE>
+Congratulations!<$FFFC>
+You've really earned it!<$FFFE>
+A small banquet has been prepared for the investiture.<$FFFC>
+Please join us in the banquet hall.<$FFFE>
+In the sky nearby the Floating Castle<$FFFF>
+...Advance quietly.<$FFFE>
+Our spy says they're holding a knighting ceremony today.<$FFFC>
+They're likely drunk by now....<$FFFE>
+We'll have to ruin their fun.<$FFFC>
+Let's take this flying eyesore out of the sky!<$FFFE>
+Yessir!<$FFFE>
+Floating castle banquet hall <$FFFF>
+You're a knight at last! Now you can protect the castle with Papa and Gerold.<$FFFE>
+Sure thing, Tiaris.<$FFFE>
+Err....my dear guests!<$FFFC>
+Today we have more than one cause to celebrate.<$FFFE>
+The word is yours Gerold.<$FFFE>
+...Yes...<$FFFE>
+Layla and I have decided to get married.<$FFFE>
+Ehhhhh!<$FFFC>
+Really!?<$FFFE>
+It's true. Tiaris.<$FFFE>
+Aww, I'm so jealous....<$FFFE>
+By our customs, you are all witnesses to this betrothal.<$FFFE>
+You two make a great couple, everyone knows that already.<$FFFC>
+Congratulations Gerold.<$FFFC>
+Congratulations Miss Layla.<$FFFE>
+Thank you, [diehardt's name].<$FFFE>
+Th..the enemy!<$FFFC>
+Flying troops of the Rigüler Empire are attacking us! <$FFFE>
+!!<$FFFC>
+How many are there and where did they appear?<$FFFE>
+Three units and two commanders, approaching from the west.<$FFFE>
+So few.<$FFFC>
+Those aren't the real threat; they must plan a surprise attack.<$FFFE>
+The west is a feint. They'll strike east while we're distracted.<$FFFE>
+I agree.<$FFFE>
+The ceremony must be adjourned.<$FFFC>
+Please evacuate to the ground.<$FFFE>
+Lord William!<$FFFC>
+I will fight too!<$FFFE>
+Then secure the west side with Tiaris and intercept the enemy.<$FFFC>
+This is your first real battle,<$FFFC>
+so be careful!<$FFFE>
+Gerold and I will take the east side.<$FFFE>
+Yessir!<$FFFE>
+Gerold...<$FFFE>
+Please.....be careful....<$FFFE>
+Don't worry, we will be alright.<$FFFE>
+Be careful out there, Papa!<$FFFE>
+...So [diehardt's name].<$FFFC>
+Let's hurry to our side too!<$FFFE>
+Right!<$FFFE>

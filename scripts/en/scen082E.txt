@@ -1,0 +1,84 @@
+Langrisser III dumper [0x2b3fb8 to 0x2b46ff]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General Emerick<$FFFF>
+Field Marshal Altemuller<$FFFF>
+General Varna<$FFFF>
+Supplyline Defense Commander<$FFFF>
+General Geier<$FFFF>
+Rigüler Commander<$FFFF>
+<$FFFC>
+Scenario ~ 21<$FFFC>
+"The Magnificent Capitol, Larcussia"<$FFFE>
+The mobile force rescued Lord Raymond from the<$FFFC>
+Imperial airships and hastened to reinforce<$FFFC>
+Larcussia's decimated troops.<$FFFE>
+They must recapture it to truly restore Larcuss.<$FFFC>
+But wily General Emerick stands in their way.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Destruction of all enemies<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Former Larcussia Castle ~ Imperial HQ<$FFFF>
+Your Excellency!<$FFFC>
+That company defeated Raymond's escort.<$FFFE>
+What did you say?<$FFFE>
+.....I see.<$FFFB>
+<$FFFC>
+They captured an airship after defeating Bortz.<$FFFE>
+They'll likely head here soon.<$FFFD>
+What do you think?<$FFFE>
+They won't use the airship to come here.<$FFFC>
+Our airship fleet would give them no chance.<$FFFE>
+So, by land.....<$FFFE>
+Indeed.<$FFFB>
+<$FFFC>
+Head out, Emerick.<$FFFD>
+Until Geier returns with the aerial fortress, no reinforcements.<$FFFC>
+Delay their attack as much as you can!<$FFFE>
+Sir!<$FFFC>
+It shall be as you command.<$FFFE>
+Rigüler Empire ~ Supply Base<$FFFF>
+W..why......we.....<$FFFE>
+Hmmph.<$FFFC>
+Show no mercy.<$FFFE>
+.....Lord Geier.<$FFFC>
+Please, tell us why we're killing our own comrades.<$FFFD>
+We just can't agree.<$FFFE>
+You'll all be rewarded for your part.<$FFFE>
+That's not what we want, give us an explanation!<$FFFC>
+Rewards mean nothing to us...<$FFFE>
+So you've said.<$FFFC>
+You must not question everything.<$FFFD>
+..Spirits of Flame, creator of ten thousand dharmas.<$FFFC>
+Obey our pact, and gather unto me.<$FFFC>
+Immolate in flame all those I designate.....<$FFFE>
+I..it can't be!<$FFFB>
+<$FFFC>
+G..general!?<$FFFE>
+....Burn everything.<$FFFC>
+Agnis Egdolans.......<$FFFD>
+Now, accept your "reward"!<$FFFE>
+Guwaaaaaaaa!<$FFFE>
+Guhaa!  Wh.......Gene....Gei.......<$FFFE>
+Hohoho,<$FFFD>
+...Like I'd leave anyone alive who knew.<$FFFE>

@@ -1,0 +1,332 @@
+Langrisser III dumper [0x198578 to 0x19a697]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+True Bosel<$FFFF>
+Chaos<$FFFF>
+Monster<$FFFF>
+Velzerian Commander<$FFFF>
+-Within 17 turns<$FFFC>
+ defeat Paul.<$FFFE>
+-Death of Dieharte<$FFFC>
+-Death of the hostage$FFFE>
+Velzerian Castle ~ Underground<$FFFF>
+Show yourself, Paul!<$FFFC>
+Return her this moment!<$FFFE>
+Hmph! You're already here.<$FFFC>
+Geier was useless after all.<$FFFE>
+Paul!<$FFFC>
+Your grudge is with me! Leave them out!<$FFFC>
+Let her go!<$FFFE>
+Now now, don't fret.<$FFFC>
+I'll tend to you shortly.<$FFFE>
+Once Lord Chaos revives, you'll die horribly.<$FFFE>
+What a twisted man.<$FFFE>
+This is it!<$FFFC>
+You cowardly bastard!<$FFFE>
+We must hurry.<$FFFC>
+We can't waste time here.<$FFFE>
+What is that sword?<$FFFC>
+No blade should rival Alhazard!<$FFFE>
+Uwaah!<$FFFC>
+So many demons at once!?<$FFFE>
+Hahahaha!<$FFFC>
+Doesn't it appeal to you?<$FFFC>
+My magnificent power?<$FFFD>
+Lord Chaos bestowed this upon me.<$FFFC>
+It grows once the revival is complete!<$FFFE>
+I'll turn his hopes to ashes!<$FFFC>
+Lend me your strength!<$FFFE>
+Have at you, Paul...no, Bosel!<$FFFE>
+Muhahaha!<$FFFC>
+My prayers have reached Lord Chaos!<$FFFE>
+What!?<$FFFE>
+Eeek!<$FFFC>
+...,Nooo!<$FFFE>
+Tiaris!<$FFFE>
+Ahh...!<$FFFC>
+This is no good...<$FFFE>
+Liffany!<$FFFE>
+...G..Goodbye...<$FFFE>
+Luna!<$FFFE>
+...Thank you.<$FFFC>
+Y..You must defeat Chaos...<$FFFE>
+Sophia!<$FFFE>
+...Farewell...I'll wait...forever...<$FFFE>
+Freya!<$FFFE>
+Hahahaha!<$FFFC>
+It has been done!<$FFFE>
+Lord Chaos's revival is at hand!<$FFFC>
+Ahahahaha!<$FFFE>
+...Well done, Bosel.<$FFFE>
+Yes, my lord!<$FFFC>
+Your loyal servant, always!<$FFFE>
+...We couldn't save her...<$FFFE>
+I...I...<$FFFE>
+We failed to prevent the revival...<$FFFE>
+...Bosel...Chaos...<$FFFC>
+If not for you, she'd still be here!<$FFFE>
+I swear I'll crush you for this!<$FFFE>
+-Defeat Paul and Chaos<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+Stall them for Lord Chaos's revival.<$FFFC>
+Don't fail me!<$FFFE>
+KISYAAA!<$FFFE>
+Lord Chaos is almost here...<$FFFD>
+The ceremony nears completion.<$FFFE>
+Good.<$FFFC>
+Minutes before Lord Chaos rises.<$FFFD>
+I'll handle those pests.<$FFFE>
+<$F704><$F704>Lord Bosel, when will Lord Chaos arrive?<$FFFE>
+Don't be impatient.<$FFFD>
+The revival is close at hand.<$FFFC>
+Hahahaha!<$FFFE>
+Lord of darkness, god of chaos!<$FFFC>
+Hear my call and manifest!<$FFFE>
+The ceremony has advanced far...<$FFFE>
+Unfortunately,<$FFFC>
+the ceremony nears its final stage.<$FFFE>
+This chant...<$FFFC>
+The ceremony will conclude shortly...<$FFFE>
+Uoo...Ah...<$FFFE>
+Oho!<$FFFC>
+Lord Chaos's voice can be heard!<$FFFD>
+Soon.<$FFFC>
+Very soon, the ceremony completes!<$FFFE>
+Uuu...!<$FFFC>
+This surge of dark energy...<$FFFE>
+Are you alright, Varna?<$FFFD>
+Khh, Chaos's revival is that close!?<$FFFE>
+Varna...<$FFFC>
+How much time before Chaos revives?<$FFFE>
+I can no longer...<$FFFE>
+Iyaaa....,<$FFFC>
+not now....<$FFFE>
+Aahhh...please hurry....<$FFFC>
+there's no time....<$FFFE>
+After coming so far.....?<$FFFC>
+So...still...<$FFFE>
+The dark energy is surging...<$FFFC>
+This is awful...<$FFFE>
+[diehardt's name]...<$FFFE>
+They're making their way here!<$FFFC>
+All forces, attack!<$FFFD>
+No one must pass! For Lord Chaos!<$FFFE>
+[diehardt's name]...<$FFFE>
+Hold on, Tiaris!<$FFFC>
+I'm by your side now!<$FFFE>
+[diehardt's name]...<$FFFE>
+Hold on, Liffany!<$FFFC>
+I'm by your side now!<$FFFE>
+Hold on, Luna!<$FFFC>
+I'm by your side now!<$FFFE>
+[diehardt's name]...<$FFFE>
+Hold on, Sophia!<$FFFC>
+I'm by your side now!<$FFFE>
+[diehardt's name]...<$FFFE>
+Hold on, Freya!<$FFFC>
+I'm by your side now!<$FFFE>
+[diehardt's name]...<$FFFE>
+You won't be forgiven, Bosel!<$FFFE>
+Who cares about one or two dead humans?<$FFFE>
+Shut up!<$FFFE>
+Your end is here! I'll take her back!<$FFFE>
+You think you can kill me!?<$FFFC>
+Feel the power of the true Bosel!<$FFFE>
+So you are Chaos.<$FFFC>
+I'll cleanse the world of you!<$FFFE>
+That life I consumed was delicious...<$FFFE>
+Whaat!<$FFFE>
+Out of my way!<$FFFC>
+Don't waste my time!<$FFFE>
+Forgive me Tiaris...<$FFFE>
+Forgive me Liffany...<$FFFE>
+Forgive me Luna...<$FFFE>
+Forgive me Sophia...<$FFFE>
+Forgive me Freya...<$FFFE>
+Forgive me...I couldn't stay...<$FFFE>
+Forgive me, [diehardt's name]...<$FFFC>
+It seems I must...<$FFFE>
+I'm sorry, [diehardt's name].<$FFFC>
+After coming so far...<$FFFE>
+C..Crap!<$FFFC>
+If only I had more power...<$FFFE>
+Forgive me for failing you...<$FFFE>
+I'm sorry...<$FFFE>
+Protect the human world...<$FFFE>
+Don't let them win...<$FFFC>
+Uurrgh!<$FFFE>
+The dark energy surges...<$FFFE>
+Lord [diehardt's name]...<$FFFC>
+I leave her in your care...<$FFFE>
+Lord [diehardt's name]...,<$FFFC>
+I entrust her to you...<$FFFE>
+Guaaaaa!<$FFFC>
+And so my way ends...<$FFFE>
+D..Damn...<$FFFC>
+Now everything I fought for...<$FFFE>
+[diehardt's name],<$FFFC>
+take care of the princess...<$FFFE>
+Never mind me, [diehardt's name].<$FFFC>
+You must not lose!<$FFFE>
+Shit!<$FFFC>
+Such power...<$FFFE>
+Don't be defeated!<$FFFE>
+Chaos mustn't be revived...<$FFFE>
+Kick their bu..urgh..<$FFFC>
+Y..You can do it...<$FFFE>
+You must rescue her...<$FFFC>
+[diehardt's name], if I fail now...<$FFFE>
+...my life has been in vain...<$FFFE>
+I..will not permit you...to...<$FFFE>
+So this is where my life ends...<$FFFE>
+Lord Chaos's revival is nigh!<$FFFC>
+This world falls to demon rule!<$FFFE>
+This world belongs to Lord Chaos!<$FFFE>
+Th..that can't..I...<$FFFC>
+Is this what happens without Alhazard?<$FFFE>
+Lord Chaos will revive me...<$FFFE>
+Hahaha.<$FFFC>
+Lord Chaos...<$FFFC>
+I must stand down a while.<$FFFE>
+You can rest for now.<$FFFE>
+Once at full strength, my power is limitless.<$FFFE>
+Embrace death without worry.<$FFFE>
+...I'm eternally grateful...<$FFFE>
+That sword felled Lord Chaos...<$FFFE>
+Humans couldn't forge such a blade...<$FFFD>
+Only a god could...<$FFFE>
+...It's over.<$FFFE>
+This world will be plunged into darkness...<$FFFC>
+You humans...will...<$FFFD>
+Guaah!<$FFFE>
+Eeeey!<$FFFC>
+Fight on!<$FFFD>
+The revival must not fail!<$FFFE>
+GUGA!<$FFFE>
+GUGA!<$FFFE>
+A place in hell awaits you...<$FFFE>
+GOON!<$FFFE>
+GOON!<$FFFE>
+Ahhh, back home...<$FFFE>
+ZAPP!!<$FFFE>
+Hihihi.<$FFFC>
+Your face glows red...<$FFFE>
+Not from embarrassment...<$FFFE>
+ZAPP!!<$FFFE>
+Guuaa....<$FFFE>
+BUURRR...<$FFFE>
+SHHHHAAA...<$FFFE>
+BUURRR...<$FFFE>
+SHAAAA!<$FFFE>
+Aahhh.....!<$FFFE>
+For now I leave this world behind...<$FFFE>
+Gyaaaahh!<$FFFE>
+I'm...immortal...you'll see...<$FFFE>
+They are too strong...<$FFFE>
+Darkness take me in...<$FFFE>
+BURRRR....<$FFFE>
+GOOON!<$FFFE>
+GUGA!<$FFFE>
+GYAAAAH!<$FFFE>
+GYAAAAH!<$FFFE>
+GUGA!<$FFFE>
+GOOON!<$FFFE>
+BURRRR....<$FFFE>
+Without me this world would simply stop.<$FFFC>
+Chaos is indispensable.<$FFFE>
+...So you have the Langrisser.<$FFFC>
+That sword is an eyesore.<$FFFE>
+This sword will be your end.<$FFFC>
+Prepare yourself!<$FFFE>
+My end, I see...<$FFFC>
+Hahaha...<$FFFE>
+What's so funny!<$FFFE>
+What do you think chaos is?<$FFFE>
+Lushiris and I keep this world in balance.<$FFFE>
+Light and darkness clashing keeps the world alive.<$FFFE>
+Life itself is a cycle of creation and destruction.<$FFFE>
+What do you mean...<$FFFC>
+Explain yourself.<$FFFE>
+You wish me gone.<$FFFC>
+But without me, this age would stagnate.<$FFFE>
+That sword is a danger to this world.<$FFFC>
+Its wielder could surpass even me.<$FFFE>
+Absurd!<$FFFC>
+Nothing surpasses the god of destruction!<$FFFE>
+Chaos has two faces: destruction and renewal.<$FFFC>
+My destruction brings new life.<$FFFE>
+But that sword is different.<$FFFE>
+A corrupted heart could bring only annihilation.<$FFFC>
+Its existence stirs greed and lust for power.<$FFFE>
+Hehehehe...<$FFFC>
+I return to darkness and watch from beyond...<$FFFE>
+Bosel.<$FFFC>
+The rest is yours.<$FFFE>
+Yes, Lord Chaos.<$FFFE>
+...He got me thinking.<$FFFE>
+Could Langrisser be that dangerous?<$FFFE>
+Juuaaa...<$FFFE>
+We did it!<$FFFC>
+Victory is ours!<$FFFE>
+...So it seems. For now.<$FFFE>
+This age needed me, you know.<$FFFE>
+What do you mean?<$FFFC>
+This age needed you..?<$FFFE>
+Yes.<$FFFC>
+Order and Chaos are two sides of one coin.<$FFFE>
+Worship light if you wish. But absolute order is stagnation.<$FFFE>
+Where nothing changes, nothing is born. No life.<$FFFC>
+Destruction resets the slate. Chaos is needed.<$FFFE>
+The chaotic force is essential.<$FFFE>
+But humans must choose.<$FFFE>
+That doesn't mean we'll lie down!<$FFFE>
+Certainly.<$FFFC>
+But remember this.<$FFFE>
+Chaos and order work through humans.<$FFFC>
+Your life is proof.<$FFFE>
+Chaos lives in every human.<$FFFC>
+Understand that...<$FFFE>
+I'll remember those words!<$FFFE>
+Humans will try to revive you!<$FFFC>
+But others will rise to seal you!<$FFFE>
+Perhaps...<$FFFC>
+That balance keeps the world alive.<$FFFE>
+Farewell.<$FFFC>
+We won't meet again.<$FFFE>
+When no one carries that spirit, I return...<$FFFE>
+...That sword...such power...<$FFFD>
+What is this blade...?<$FFFE>
+This is the Holy Sword Langrisser.<$FFFD>
+Elthlead's King gave his life to forge it, sealing demon power.<$FFFE>
+No matter how often you return, Langrisser defeats you!<$FFFE>
+Langrisser...<$FFFC>
+I shall remember that name.<$FFFC>
+When I awake, I'll seize that sword first.<$FFFE>
+Once Langrisser is gone, Lord Chaos rules...<$FFFC>
+What a joyous day...<$FFFE>
+...Hahahaha!<$FFFE>
+We have to hurry...<$FFFE>
+The ceremony is almost complete!?<$FFFE>
+Um...<$FFFC>
+I hope you know what you're doing.<$FFFE>
+I do.<$FFFD>
+Focus all attacks on Bosel!<$FFFE>

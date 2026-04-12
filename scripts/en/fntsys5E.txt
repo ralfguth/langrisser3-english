@@ -1,0 +1,169 @@
+Infantry<$FFFF>
+Soldier<$FFFF>
+Legion<$FFFF>
+Wolfman<$FFFF>
+Dark Guard<$FFFF>
+Ogre<$FFFF>
+Seaman<$FFFF>
+Infantry<$FFFF>
+Soldier<$FFFF>
+Legion<$FFFF>
+Grenadier<$FFFF>
+Infantry<$FFFF>
+Soldier<$FFFF>
+Legion<$FFFF>
+Wolfman<$FFFF>
+Dark Guard<$FFFF>
+Ogre<$FFFF>
+Berserker<$FFFF>
+Barbarian<$FFFF>
+Shielder<$FFFF>
+Monk<$FFFF>
+Guardsman<$FFFF>
+Crusader<$FFFF>
+Monk<$FFFF>
+Guardsman<$FFFF>
+Crusader<$FFFF>
+Monk<$FFFF>
+Guardsman<$FFFF>
+Crusader<$FFFF>
+Fanatic<$FFFF>
+Dark Monk<$FFFF>
+Apostle of Darkness<$FFFF>
+Guardsman<$FFFF>
+Elf<$FFFF>
+Crossbow<$FFFF>
+Ballista<$FFFF>
+High Elf<$FFFF>
+Elf<$FFFF>
+Crossbow<$FFFF>
+Ballista<$FFFF>
+Jer<$FFFF>
+Elf<$FFFF>
+Crossbow<$FFFF>
+Ballista<$FFFF>
+Dark Elf<$FFFF>
+Crossbow<$FFFF>
+Ballista<$FFFF>
+Witch<$FFFF>
+Slinger<$FFFF>
+Sagitigris<$FFFF>
+Centaur<$FFFF>
+Hapilsag<$FFFF>
+Sagitigris<$FFFF>
+Centaur<$FFFF>
+Hapilsag<$FFFF>
+Sagitigris<$FFFF>
+Centaur<$FFFF>
+Hapilsag<$FFFF>
+Undine<$FFFF>
+Merman<$FFFF>
+Archelon<$FFFF>
+Nixie<$FFFF>
+Lizardman<$FFFF>
+Killer Lobster<$FFFF>
+Tentacle<$FFFF>
+Lizardman<$FFFF>
+Merman<$FFFF>
+Archelon<$FFFF>
+Lizardman<$FFFF>
+Merman<$FFFF>
+Archelon<$FFFF>
+Lizardman<$FFFF>
+Killer Lobster<$FFFF>
+Tentacle<$FFFF>
+Shika Frog<$FFFF>
+Shika Shark<$FFFF>
+Shika Orca<$FFFF>
+Lancer<$FFFF>
+Trooper<$FFFF>
+Dragoon<$FFFF>
+Lancer<$FFFF>
+Trooper<$FFFF>
+Dragoon<$FFFF>
+Royal Lancer<$FFFF>
+Lancer<$FFFF>
+Trooper<$FFFF>
+Dragoon<$FFFF>
+Chimaera<$FFFF>
+Unicorn<$FFFF>
+Sleipnir<$FFFF>
+Sabertooth Tiger<$FFFF>
+Hellhound<$FFFF>
+Bone Dino<$FFFF>
+Chimaera<$FFFF>
+Unicorn<$FFFF>
+Sleipnir<$FFFF>
+Sabertooth Tiger<$FFFF>
+Hellhound<$FFFF>
+Bone Dino<$FFFF>
+Shika Hound<$FFFF>
+Halberd<$FFFF>
+Pike<$FFFF>
+Phalanx<$FFFF>
+Halberd<$FFFF>
+Pike<$FFFF>
+Phalanx<$FFFF>
+Halberd<$FFFF>
+Pike<$FFFF>
+Phalanx<$FFFF>
+Bone Golem<$FFFF>
+Puppet<$FFFF>
+Mad Golem<$FFFF>
+Bamboomen<$FFFF>
+Faerie<$FFFF>
+Harpy<$FFFF>
+Gryphon<$FFFF>
+Angel<$FFFF>
+Bat<$FFFF>
+Gremlin<$FFFF>
+Gargoyle<$FFFF>
+Faerie<$FFFF>
+Harpy<$FFFF>
+Gryphon<$FFFF>
+Faerie<$FFFF>
+Harpy<$FFFF>
+Gryphon<$FFFF>
+Bat<$FFFF>
+Harpy<$FFFF>
+Gremlin<$FFFF>
+Gargoyle<$FFFF>
+Beggar<$FFFF>
+Rogue<$FFFF>
+The Afflicted<$FFFF>
+Beggar<$FFFF>
+Rogue<$FFFF>
+Beggar<$FFFF>
+Rogue<$FFFF>
+Bone Horse<$FFFF>
+Headless Horse<$FFFF>
+Behemoth Zombie<$FFFF>
+Nightmare<$FFFF>
+Imp<$FFFF>
+Lesser Demon<$FFFF>
+Nightmare<$FFFF>
+Imp<$FFFF>
+Lesser Demon<$FFFF>
+Phantom<$FFFF>
+Wight<$FFFF>
+Specter<$FFFF>
+Phantom<$FFFF>
+Wight<$FFFF>
+Specter<$FFFF>
+Zombie<$FFFF>
+Vampire<$FFFF>
+Skeleton<$FFFF>
+Zombie<$FFFF>
+Vampire<$FFFF>
+Black Dragon<$FFFF>
+Red Dragon<$FFFF>
+White Dragon<$FFFF>
+Black Dragon<$FFFF>
+Red Dragon<$FFFF>
+White Dragon<$FFFF>
+Gel<$FFFF>
+Salamander<$FFFF>
+Sylph<$FFFF>
+Civilian<$FFFF>
+Skeleton<$FFFF>
+Skeleton<$FFFF>

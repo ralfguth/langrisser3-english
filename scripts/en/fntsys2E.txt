@@ -1,0 +1,40 @@
+Main RAM<$FFFF>
+Cartridge RAM <$FFFF>
+ is inaccessible! <$FFFF>
+Completely erase this slot? <$FFFF>
+Record deletion completed.<$FFFF>
+Record deletion failed. <$FFFF>
+you will go to Sega Saturn Save <$FFFF>
+In the Management Screen, be sure that all records<$FFFF>
+are deleted.<$FFFF>
+If you hold the L and R buttons <$FFFF>
+while you press the Reset button<$FFFF>
+Data management screen. <$FFFF>
+Saving a new game <$FFFF>
+requires more space than is present.<$FFFF>
+Required Space: <$FFFF>
+If you start a new game <$FFFF>
+Unable to save game <$FFFF>
+Do you still wish to begin the game?<$FFFF>
+Checking save games <$FFFF>
+Accurately loading the save game<$FFFF>
+was not possible. <$FFFF>
+Save game is corrupt. <$FFFF>
+Continuing that game is not possible. <$FFFF>
+In order to accurately load that game,<$FFFF>
+please try once again.<$FFFF>
+****Caution**** <$FFFF>
+Saving current game...<$FFFF>
+Game saved. <$FFFF>
+There is not enough space to save <$FFFF>
+game was not saved. <$FFFF>
+you will not be able to save. <$FFFF>
+Mid-battle<$FFFF>
+No save data<$FFFF>
+Resuming game <$FFFF>
+No pre-scenario saves present.<$FFFF>
+Save Pre-scenario game data?<$FFFF>
+On to the next scenario <$FFFF>
+Delete a game from the Management Screen<$FFFF>
+Record your accomplishments?<$FFFF>
+During preparations phase <$FFFF>

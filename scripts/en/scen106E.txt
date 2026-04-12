@@ -1,0 +1,65 @@
+Langrisser III dumper [0x347fe6 to 0x3485db]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Wormmaster Rag<$FFFF>
+Monster<$FFFF>
+Citizen<$FFFF>
+ <$FFFC>
+Scenario ~ 33<$FFFC>
+"Unwavering Loyalty" <$FFFE>
+The cause for the insanity of King Wilder<$FFFC>
+turned out to be Velzeria after all.<$FFFC>
+Gerold who recovers to his true self temporarily, conveys the fact.<$FFFE>
+To save his beloved Layla and to see her one last time, Gerold chooses to have the worm expelled from his body.<$FFFC>
+But with the worm gone Gerold now has only little time left.<$FFFE>
+In the meantime Altemuller has launched an attack on the city of Laffel.<$FFFC>
+His demonic forces show no mercy to anyone in their way.<$FFFC>
+Having to witness the massacre with his own eyes, Emerick can no longer bear to side with the demons.<$FFFE>
+*Conditions of Victory<$FFFC>
+ -Defeat Rag the Wormmaster<$FFFE>
+*Conditions of Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of Layla<$FFFC>
+ -Death of all Citizens<$FFFE>
+City of Laffel<$FFFF>
+Kill! Kill!<$FFFC>
+Slaughter to your hearts content!<$FFFE>
+Gaaooo!<$FFFE>
+Guaargh!<$FFFE>
+Kyaaahhh!<$FFFE>
+Stop this!<$FFFD>
+I won't stand idly by, while you massacre innocent citizens!<$FFFE>
+Emerick, don't tell me you would betray master Bosel?<$FFFE>
+He is no longer the lord Altemuller I hold in highest esteem.<$FFFC>
+Right now it pains me just to look at him.<$FFFE>
+Merciful it would be to strike down Altemuller, if this is what it takes to release him from this evil curse!<$FFFE>
+Swayed by emotions, you are blind to real power...foolish human..<$FFFE>
+Rag, what is this hold up about?<$FFFE>
+Yes, Master Bosel.<$FFFC>
+It seems that Emerick wishes to rebel against you.<$FFFE>
+...Is that true Emerick?<$FFFE>
+Your Excellency, you have changed.<$FFFC>
+I can follow your ways no more.<$FFFE>
+Let me offer you a peaceful slumber as my last service.<$FFFE>
+So you are serious.<$FFFC>
+Well then, show me the extent of your resolve.<$FFFE>
+...Your Excellency.<$FFFE>

@@ -1,0 +1,78 @@
+Langrisser III dumper [0x2e7f96 to 0x2e87bf]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+King Sieghart<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Elthlead Soldier<$FFFF>
+Bosel<$FFFF>
+Necromancer Grove<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Elthlead's Royal Capitol, Larcussia ~ Audience Hall<$FFFF>
+Elthlead and the Empire shall cease fire until Velzeria falls.<$FFFE>
+Elthlead is barely established.<$FFFC>
+We'd rather settle internal affairs than fight.<$FFFE>
+The Empire is in the same boat.<$FFFC>
+Velzeria's monsters invaded us too.<$FFFE>
+With the Kaiser dead, the Empire is unstable.<$FFFC>
+Neither side can ignore this threat.<$FFFE>
+This truce benefits us both.<$FFFE>
+With that done, farewell.<$FFFE>
+........<$FFFE>
+What's wrong, Tiaris?<$FFFE>
+Say, [diehardt's name].<$FFFE>
+Do you approve of allying with him?<$FFFE>
+That's what's bothering you.<$FFFE>
+At least we won't fight both Velzeria and the Empire.<$FFFE>
+....I guess so.<$FFFE>
+If you're okay with it, I can live with it too.<$FFFE>
+Tiaris.....<$FFFE>
+....I just can't believe it.<$FFFC>
+That guy...killed Father....<$FFFE>
+Tiaris....<$FFFE>
+Sire, Lady Jessica has arrived.<$FFFE>
+Lady Jessica?<$FFFD>
+Send her right in.<$FFFE>
+Yes, sir!<$FFFE>
+Lady Jessica.<$FFFC>
+A sight for sore eyes.<$FFFE>
+I've devised a plan to strike Velzeria.<$FFFE>
+Many thanks.<$FFFE>
+Bosel used the Alhazard to amplify his dark powers and negate the Gate.<$FFFD>
+We must gain power to overcome it.<$FFFE>
+Isn't the Haja no Ken enough?<$FFFE>
+The Haja no Ken is important.<$FFFD>
+But we can't overcome the Alhazard with it alone.<$FFFE>
+The Alhazard is that powerful....<$FFFE>
+To strengthen the Haja no Ken, we need a certain person's help.<$FFFD>
+Please escort them to the center of the Lushiris Gate.<$FFFE>
+Could I depend on you all once more?<$FFFE>
+Of course.<$FFFE>
+Velzeria Castle<$FFFF>
+I can't believe this.<$FFFC>
+Altemuller's become a hindrance to our plans.<$FFFE>
+Grove!<$FFFC>
+Hurry the assassination of this pest!<$FFFE>
+Yes, my lord!<$FFFE>
+Now, what to do about Elthlead....<$FFFE>
+Lord Bosel, please let me deal with Elthlead.<$FFFE>
+Ferakia...<$FFFC>
+Very well, I shall leave it to you.<$FFFE>

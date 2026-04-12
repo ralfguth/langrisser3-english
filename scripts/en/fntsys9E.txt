@@ -1,0 +1,19 @@
+Equip Katana<$FFFF>
+Equip Sword<$FFFF>
+Equip Spear<$FFFF>
+Equip Metal Armor<$FFFF>
+Equip Shield<$FFFF>
+Equip Mage Gear<$FFFF>
+Shinobu Art<$FFFF>
+Critical<$FFFF>
+Regenerate<$FFFF>
+Emergency Treatment<$FFFF>
+Swiftness<$FFFF>
+Kiai Shout<$FFFF>
+Quick Draw<$FFFF>
+Stealth<$FFFF>
+Berserk<$FFFF>
+Suicide Explosion<$FFFF>
+Reflection Ability<$FFFF>
+Double Magic<$FFFF>
+Double Magic<$FFFF>

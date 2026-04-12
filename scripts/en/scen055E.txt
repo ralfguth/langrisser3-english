@@ -1,0 +1,142 @@
+Langrisser III dumper [0x20f7da to 0x210573]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Princess Freya<$FFFF>
+Dark Knight<$FFFF>
+Young Dieharte<$FFFF>
+King Wilder<$FFFF>
+General Varna<$FFFF>
+Field Marshal Altemuller<$FFFF>
+Rigüler Commander<$FFFF>
+General Geier<$FFFF>
+Adjutant Gates<$FFFF>
+General Emerick<$FFFF>
+Viscount Raymond<$FFFF>
+General Bortz<$FFFF>
+Town of Railym<$FFFF>
+Enough is enough, Freya.<$FFFC>
+The battle is over.<$FFFE>
+....I won't be defeated.<$FFFC>
+If my blade fails, I'll use bare hands to stop you!<$FFFE>
+Princess Freya, you're going to be our prisoner.....<$FFFE>
+I think not.<$FFFE>
+Who's there!?<$FFFE>
+Dark Knight....<$FFFE>
+Hmmph.<$FFFC>
+I didn't come to protect the princess.....<$FFFE>
+Too many incompetent soldiers in Barral.<$FFFE>
+So you're the Dark Knight!<$FFFE>
+That rat......<$FFFE>
+Think you're all that!?<$FFFC>
+Punk!<$FFFE>
+Wait, Pierre!<$FFFE>
+*Huff*...wise choice.<$FFFC>
+You'll never beat the Dark Knight.<$FFFE>
+I'll let you take Railym.<$FFFC>
+Just return the princess.<$FFFE>
+Freya!<$FFFE>
+Next time, don't be foolish enough to show lenience.<$FFFD>
+I won't hold back when we fight.<$FFFE>
+Freya....<$FFFE>
+He seemed under some coercion....<$FFFE>
+Plains Southwest of the Town of Railym<$FFFF>
+[diehardt's name] and I.....,<$FFFC>
+I never wanted to fight him.....<$FFFD>
+....[diehardt's name]....<$FFFE>
+[diehardt's name] and I.....,<$FFFC>
+No, I never wanted to fight [diehardt's name]......<$FFFD>
+....[diehardt's name]....<$FFFE>
+Barral Castle Courtyard ~ 11 Years Ago<$FFFF>
+Hey waitaminute, gimme that back!<$FFFC>
+That's mine!<$FFFE>
+Noo, I've always wanted it!<$FFFC>
+It's mine!<$FFFE>
+Now, now, Freya.<$FFFC>
+Stop bugging poor [diehardt's name].<$FFFE>
+Barral Castle Courtyard ~ 6 Years Ago<$FFFF>
+Eh, what are you saying, [diehardt's name]?<$FFFE>
+I'm going to be a knight. I'll apprentice under Marquis William.<$FFFC>
+So I won't see you for a while.<$FFFE>
+But why? Don't you want to play together anymore?<$FFFE>
+How do you respond?<$FFFE>
+I'm sorry.<$FFFE>
+That's right.<$FFFE>
+I've had a lot of fun with you up to now.<$FFFE>
+Sorry.<$FFFC>
+I've always dreamed of this...<$FFFE>
+That's right.<$FFFC>
+Becoming a knight is all I think about.<$FFFE>
+I've had fun, Freya.<$FFFC>
+Let's meet again someday.<$FFFE>
+....[diehardt's name]....<$FFFE>
+Plains Southwest of the Town of Railym<$FFFF>
+How could our reunion turn out like that...<$FFFC>
+Father, why did we go to war.....<$FFFE>
+I wonder.....<$FFFC>
+Was it my fault Father changed?.....<$FFFE>
+Former Royal Castle of Larcussia ~ Current Imperial Headquarters<$FFFF>
+How are you feeling, Your Excellency?<$FFFE>
+Don't worry about me.<$FFFD>
+The Dark Knight is hurt as badly as I was.<$FFFC>
+He won't fight for a while.<$FFFD>
+Without him, Barral can't stand against us.<$FFFC>
+Even without me, we can capture Barral.<$FFFE>
+W..we've got a problem, sir!<$FFFD>
+The Larcussians beat Princess Freya's troops.<$FFFD>
+Then the Dark Knight rescued the princess....<$FFFE>
+Impossible!<$FFFE>
+He was deeply wounded!<$FFFD>
+What monster is he!?<$FFFD>
+Does Barral have such a skilled healer?<$FFFE>
+Geier.<$FFFB>
+<$FFFC>
+Use the airships to capture Laffel!<$FFFD>
+The Dark Knight won't appear again soon.<$FFFC>
+But be careful.<$FFFE>
+.....Yes, sir!<$FFFE>
+Deck on the Flagship of the Airship Fleet<$FFFF>
+So the Dark Knight wasn't defeated by that brat.<$FFFD>
+Just how strong is he.<$FFFE>
+Even so, Laffel is the second largest city of Larcuss.<$FFFE>
+Three days.<$FFFB>
+<$FFFC>
+No matter what city, I'll capture it in three days.<$FFFE>
+Haha, you're the greatest, Lord Geier!<$FFFE>
+Hohohoho.....<$FFFB>
+<$FFFC>
+I look forward to seeing that brat Altemuller...ler's face!<$FFFD>
+Wahahaha!<$FFFE>
+Former Royal Castle of Larcussia - Currently the Imperial Headquarters<$FFFF>
+Even with airships, Geier will struggle against the Dark Knight.....<$FFFD>
+Emerick!<$FFFB>
+<$FFFC>
+Attack this mobile division of Larcuss!<$FFFE>
+Yes, sir!<$FFFE>
+Plains Near the Northern Gate of the Lushiris Gate<$FFFF>
+The time has come for our first clash with the Empire!<$FFFE>
+Our opponent is likely the bold General Bortz.<$FFFE>
+We can't lose here!<$FFFC>
+All units, attack!<$FFFE>
+Listen up!<$FFFC>
+For the Empire, we'll destroy the Larcussian remnants!<$FFFC>
+Charge with a spirited battle cry!<$FFFE>
+Uoooo!!<$FFFE>

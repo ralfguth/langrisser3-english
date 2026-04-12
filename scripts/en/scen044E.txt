@@ -1,0 +1,116 @@
+Langrisser III dumper [0x1c8516 to 0x1c8e73]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Gerold<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Jügler<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+High Priest<$FFFF>
+Layla<$FFFF>
+Soldier<$FFFF>
+Gerold<$FFFF>
+ <$FFFC>
+Scenario ~ 02 <$FFFC>
+"Insane in Laffel"<$FFFE>
+Field Marshal Altemuller assaults Larcussia,<$FFFC>
+toppling the castle. [diehardt's name] barely escapes.<$FFFC>
+Still in shock, they reach Laffel.<$FFFE>
+Their only hope: contact Larcuss's ally, Barral.<$FFFC>
+But war was about to engulf Laffel too,<$FFFC>
+sparked by someone no one suspected....<$FFFE>
+*Conditions for Victory<$FFFC>
+ -Annihilation of all enemies<$FFFC>
+ -[diehardt's name], Layla,<$FFFC>
+  Tiaris reach the bottom of the map.<$FFFE>
+* Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of all the villagers<$FFFE>
+Church of Laffel<$FFFF>
+Huff*.....,<$FFFC>
+this should suffice for now.FFFE>
+High Priest.<$FFFC>
+Thank you so very much.<$FFFE>
+High Priest.<$FFFB>
+<$FFFC>
+Will Gerold be able to recover from his injury?<$FFFE>
+...I have done what I can.<$FFFD>
+It's a miracle he's alive. He's still critical.<$FFFE>
+Then....<$FFFE>
+In a few days we'll know his fate.<$FFFE>
+I see...<$FFFE>
+Emergency!<$FFFE>
+The enemy is here!<$FFFC>
+All citizens must evacuate!<$FFFE>
+How terrible!<$FFFC>
+Out of my way!<$FFFE>
+The enemy!?<$FFFB>
+<$FFFC>
+They caught up fast....<$FFFE>
+Emergency!<$FFFC>
+Enemy troops are invading Laffel!<$FFFE>
+Oh no!<$FFFE>
+We must prepare to leave at once!<$FFFE>
+Yes!<$FFFB>
+<$FFFC>
+Tiaris we must do our part too!<$FFFE>
+...Okay...<$FFFC>
+[diehardt's name], please hurry too.<$FFFE>
+...Wait, [diehardt's name].<$FFFE>
+Gerold!?<$FFFC>
+How are you feeling?<$FFFE>
+So the enemy has come here already?<$FFFE>
+Yeah.<$FFFE>
+Leave me behind and get away....<$FFFE>
+What are you saying, Gerold!<$FFFE>
+I know my own body best.<$FFFC>
+This injury won't heal soon.....<$FFFE>
+I won't be a burden.<$FFFC>
+Go without me.<$FFFE>
+The army must fall back and reorganize.<$FFFE>
+But Gerold!<$FFFE>
+[diehardt's name]...,<$FFFC>
+you are a knight now.<$FFFC>
+Protect this land and its people.<$FFFE>
+That would be the greatest honor you can bestow upon me.<$FFFC>
+One day you'll return here,<$FFFC>
+and Laffel will be liberated.<$FFFE>
+.....I understand, Gerold.<$FFFC>
+I'll become a fine knight and return here, I promise.<$FFFE>
+We'll form an army and come back for sure.<$FFFC>
+We'll reclaim your home town and liberate Larcussia.<$FFFE>
+......Layla, my betrothed, come here.<$FFFE>
+Layla!?<$FFFE>
+.....<$FFFB>
+<$FFFC>
+Will you please listen to me?<$FFFE>
+Gerold, I....<$FFFE>
+...I must ask something of you.<$FFFB>
+<$FFFC>
+You almost became a knight's wife.<$FFFD>
+You must be ready to let go...<$FFFD>
+This is my last request.<$FFFC>
+Live and escape with [diehardt's name].<$FFFE>
+...I'll do as you say.<$FFFB>
+<$FFFC>
+...I'll pray for your recovery,<$FFFD>
+so we may meet again....<$FFFE>
+Yeah....<$FFFE>
+.....<$FFFE>
+Cough*....<$FFFC>
+Go now, there is no time to lose.<$FFFE>
+I entrust her to you, [diehardt's name]....<$FFFE>

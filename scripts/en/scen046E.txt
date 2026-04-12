@@ -1,0 +1,136 @@
+Langrisser III dumper [0x1d6996 to 0x1d79e3]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Viscount Raymond<$FFFF>
+Gilbert<$FFFF>
+Necromancer Grove<$FFFF>
+Villager<$FFFF>
+<$FFFC>
+Scenario ~ 03<$FFFC>
+"The Blademaster with Sad Eyes"<$FFFE>
+The Rigüler Imperial Army led by Field Marshal Altemuller captured<$FFFC>
+the Floating Castle and used it to exact tribute from Larcussia,<$FFFC>
+virtually ruining the Kingdom.<$FFFE>
+[diehardt's name], Tiaris, and Layla escaped to Viscount Raymond's<$FFFC>
+domain, where they mustered troops and polished their strategy<$FFFC>
+for a counterattack.<$FFFE>
+Half a year has passed since the Floating Castle fell.<$FFFC>
+The troops are ready, and the day to act has come.<$FFFE>
+[diehardt's name], commanding an independent force, journeys to win<$FFFC>
+Baron Torrand's aid. On the way, he passes a village home to<$FFFC>
+a man bearing the title of Blademaster.<$FFFE>
+*Conditions for Victory<$FFFC>
+ -Defeat of Grove<$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of all the villagers<$FFFE>
+Viscount Raymond's Manor<$FFFF>
+Hmm.<$FFFC>
+We've managed to amass an army.<$FFFE>
+But in doing so, half a year has already passed...<$FFFC>
+Much longer than I had initially hoped.<$FFFE>
+Ah well, nothing to be done about that now.<$FFFE>
+It's a miracle we were able to gather any soldiers at all, especially under the scrutiny of the spies of surrounding countries.<$FFFE>
+However, Lewin,<$FFFC>
+times will be even tougher from here on out.<$FFFC>
+Half a year is hardly a short time.<$FFFD>
+Through the predations of many countries, the Kingdom of Larcuss is no more.<$FFFD>
+The true ordeal of rebuilding from nothing has not even begun.<$FFFE>
+Yes, Father.<$FFFE>
+But if we don't put our plans into motion, those who would revive the country will have no chance to do so.<$FFFE>
+Weren't a lot of people captured during the fall of Larcussia?<$FFFD>
+Including [diehardt's name]'s father and mother....<$FFFE>
+You've been worried about them too, haven't you...<$FFFC>
+Thank you, Tiaris.<$FFFE>
+....You're quite right.<$FFFC>
+We've been able to amass a fair army.<$FFFE>
+But we still lack commanders.<$FFFC>
+There should be another place besides my own which has retained its sovereignty through isolation.<$FFFE>
+Its lord, Baron Torrand, is said to be a genius strategist. If we allied with him, we would be set.<$FFFE>
+So, [diehardt's name]. Will you join Lewin and Tiaris in securing Baron Torrand's cooperation?<$FFFE>
+Yes, sir.<$FFFE>
+In the meantime, I will command the army and drive out the invaders from Colcia.<$FFFD>
+It will be a good test of our strength to see how we fare against the Colcian troops.<$FFFD>
+Once you've secured the Baron's aid, I'd like you to support my main troops as you see fit, commanding a mobile diversion force.<$FFFE>
+You wish me to take command of a mobile division?<$FFFE>
+What's wrong, [diehardt's name]?<$FFFC>
+Why aren't you approaching this task with your usual enthusiasm?<$FFFE>
+It's just that we don't have much experience with actual fighting.<$FFFC>
+All I ask is that you do your best.<$FFFE>
+Will you do this for me?<$FFFE>
+..<$fe><$3c>..<$fe><$28>..<$fe><$28>..<$fe><$28>.<$FFFE>
+Very well.<$FFFD>
+We shall head to Baron Torrand's land immediately.<$FFFE>
+I'm counting on you all!<$FFFE>
+Highway Near Ransh Village<$FFFF>
+Say, [diehardt's name].<$FFFE>
+Do you mind if we make a short stop before heading to Torrand's?<$FFFE>
+Something in this village you want to see?<$FFFE>
+A while back I heard from my father about a blademaster named Gilbert who lives here...<$FFFE>
+Ah, I see!<$FFFC>
+Lewin, didn't you also mention knowing such a man?<$FFFE>
+Indeed.<$FFFC>
+He's the kind of man who's respected for his honor as well as his strength.<$FFFE>
+....Hmmm.<$FFFD>
+Sure, there's no reason we can't take the time to meet such a person.<$FFFE>
+Ransh Village ~ Blademaster Gilbert's House<$FFFF>
+Excuse me.<$FFFC>
+Is Master Gilbert in at present?<$FFFE>
+Who is it?<$FFFE>
+I am Lewin, son of Viscount Raymond.<$FFFE>
+The son of Viscount Raymond, you say?<$FFFC>
+Ah yes, the Lord Viscount who rules that mountainous region.<$FFFE>
+The invasion by the Empire has been followed by raids from many countries, so little remains of Larcuss.<$FFFD>
+Lord Raymond is gathering an army to restore the Kingdom of Larcuss.<$FFFD>
+We'd be honored if you, the Blademaster, would lend your power to our cause.<$FFFE>
+I know nothing of a...Blademaster.<$FFFC>
+....You speak of times past.<$FFFE>
+But we seek to protect Larcuss from the invaders!<$FFFC>
+I beg of you, please aid us!!<$FFFE>
+I'm sorry, but I've vowed to never wield a blade again....<$FFFE>
+....Such sad eyes.....<$FFFE>
+Very well, I won't press you further for your reasons.<$FFFE>
+Nothing we say can ever change what has already come to pass.<$FFFC>
+I guess we're finished here.<$FFFC>
+...It no longer matters to me.<$FFFE>
+...a Blademaster, eh....?<$FFFD>
+If I were really the Blademaster they called me, how could I have let you.....<$FFFD>
+..<$fe><$3c>..<$fe><$3c>Coty<$fe><$3c>my child..<$fe><$3c>..<$fe><$3c>.<$FFFE>
+So this is the place.<$FFFC>
+The ley lines here slow the decomposition of the dead.....<$FFFE>
+Hee hee hee, I see now.<$FFFC>
+From here I can create powerful servants.<$FFFE>
+With them, I'll kill that sorceress for sure!<$FFFC>
+Hee hee hee!<$FFFE>
+Oh, those who have fallen!<$FFFC>
+Heed the call of the masterful Necromancer Grove!<$FFFE>
+Mihari Kushizakiki Iyokana Hagujisoramu!<$FFFE>
+Beautiful!<$FFFC>
+Such perfect undead!<$FFFE>
+Uwaaa!<$FFFC>
+O..o...o..oh no!<$FFFE>
+Oho, so you saw me, did you.<$FFFC>
+While I have no choice...<$FFFD>
+I prefer to see this as a golden opportunity...<$FFFC>
+Now I get to see just how strong my servants are!<$FFFD>
+My loyal servants!<$FFFC>
+Head out and kill all the humans in this village!<$FFFE>

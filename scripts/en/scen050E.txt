@@ -1,0 +1,40 @@
+Langrisser III dumper [0x1ecac8 to 0x1ecd83]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+<$FFFC>
+Scenario ~ 05<$FFFC>
+"Wily General Emerick"<$FFFE>
+Altemuller, Field Marshal of the Imperial Army, received the<$FFFC>
+information from Geier and sent General Emerick to the<$FFFC>
+mansion of Baron Torrand, to strike before [diehardt's name] and<$FFFC>
+company make contact.<$FFFE>
+But, through the guidance of the Baron's daughter, Luna,<$FFFC>
+[diehardt's name] and company arrived at the Baron's mansion<$FFFC>
+more quickly than thought possible, only to find a battle<$FFFC>
+already raging between the Baron and Emerick.<$FFFE>
+*Conditions for Victory<$FFFC>
+ -Defeat of Emerick<$FFFC>
+ -Annihilation of all invading enemy units<$FFFC>
+ -Arrival of the PCs inside the mansion<$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of Torrand<$FFFE>

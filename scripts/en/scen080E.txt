@@ -1,0 +1,57 @@
+Langrisser III dumper [0x2aa112 to 0x2aa5d7]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+<$FFFC>
+Scenario ~ 20<$FFFC>
+"Skirmish in the Vast Skies"<$FFFE>
+Since General Bortz fought to his last breath to let the majority<$FFFC>
+of his subordinates escape, he gave a fierce accounting of
+himself. During that battle, he showed that even to his death,<$FFFC>
+he was a true man.<$FFFE>
+Having defeated Bortz and captured the airship,<$FFFC>
+[diehardt's name] quickly set sail to rescue Lord Raymond<$FFFC>
+from his convoy to the Empire.<$FFFE>
+And now, a fierce battle was about to ensue in the vast skies.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of the Commander in 29 turns<$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Time up<$FFFE>
+Captured Airship<$FFFF>
+Wow, it's fast, soo fast!<$FFFE>
+After seeing the strength of this airship and that magically-propelled giant soldier, I'm worried about what the Empire might use next.<$FFFE>
+!!<$FFFE>
+Sir [diehardt's name]!<$FFFC>
+There's an Imperial airship up ahead!<$FFFE>
+So we've caught up to it!<$FFFE>
+Father's in there......<$FFFE>
+Prepare the boarding planks.<$FFFC>
+As soon as we touch their gunwale, we'll board them.<$FFFE>
+Eh?!<$FFFC>
+That's pretty reckless!<$FFFE>
+Very much so.<$FFFC>
+What if the ships should jostle apart while we're on the boarding plank....<$FFFE>
+It's dangerous, but there's no other way.<$FFFC>
+At this rate, if we let them into the Empire proper, we'll never be able to perform the rescue.<$FFFE>
+Since this is an aerial battle, it would be wise to prepare aerial troops.<$FFFE>
+That's right.<$FFFE>
+Match speeds and move alongside them!<$FFFE>

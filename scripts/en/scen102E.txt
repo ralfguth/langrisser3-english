@@ -1,0 +1,60 @@
+Langrisser III dumper [0x33408a to 0x3344c3]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Rigüler Commander<$FFFF>
+Velzerian Commander<$FFFF>
+ <$FFFC>
+Scenario ~ 31<$FFFC>
+"Threads between People"<$FFFE>
+The Dark Knight shows his true face,<$FFFC>
+being the familiar one of the thought-dead Gerold.<$FFFC>
+When finding out about it, [diehardt's name]'s heart<$FFFC>
+becomes enshrouded in sadness.<$FFFE>
+Furthermore, the malicious influence of Velzeria could still be felt<$FFFC>
+in the air surrounding Gerold.<$FFFC>
+Could this all be Velzeria's doing?<$FFFC>
+And is this the source of<$FFFC>
+King Wilder's insanity as well?<$FFFE>
+To uncover the truth the division<$FFFC>
+makes its way to the<$FFFC>
+Kingdom of Barral.<$FFFE>
+* Victory condition<$FFFC>
+ -Defeat or persuade Freya<$FFFC>
+* Victory condition<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Aerial Fortress ~ Skies above the Rigüler Capitol<$FFFF>
+You have nowhere to run...<$FFFC>
+Your miserable life ends here!<$FFFE>
+GYAAA...!<$FFFE>
+If we let them beat us here they will surge into the capitol.<$FFFC>
+You won't get past this very spot!<$FFFE>
+Uoohhh!<$FFFC>
+Charge!<$FFFE>
+...Rest in peace.<$FFFE>
+You're getting lax Emerick.<$FFFC>
+Look closely how it is done.<$FFFE>
+Hmph, after all their just numbers.<$FFFE>
+However, it saddens me to think that we fight our own kind.<$FFFE>
+What nonsense.<$FFFC>
+Those who dare resist me have no place in the new Empire.<$FFFC>
+They are only good for dulling my blade.<$FFFE>
+.....<$FFFE>

@@ -1,0 +1,83 @@
+Langrisser III dumper [0x27b2f0 to 0x27bc97]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Layla<$FFFF>
+General Emerick<$FFFF>
+Field Marshal Altemuller...ler<$FFFF>
+General Varna<$FFFF>
+Estool Ruins<$FFFF>
+Hmm, where should we head next?<$FFFE>
+The royal capital of Larcussia?  Or, maybe the city of Laffel?<$FFFE>
+Lord Raymond is working to liberate Larcussia, so he'll move troops there.<$FFFE>
+So, why don't we make a return trip to Laffel?<$FFFE>
+But, isn't that where the Dark Knight is?<$FFFE>
+You think the Haja no Ken won't be enough to take him on?<$FFFE>
+The Haja no Ken does possess extraordinary powers against demons.<$FFFE>
+But it won't have much extra power against foes like him.<$FFFE>
+Do we have the power to defeat the Dark Knight right now?<$FFFE>
+Returning to Laffel doesn't mean we must fight the Dark Knight.<$FFFE>
+We might be able to get him to leave Laffel.<$FFFE>
+Of course!<$FFFC>
+If we can get that fiend to leave, we won't have to fight him!<$FFFE>
+Simply put, we need to drive the Dark Knight elsewhere since we can't beat him!<$FFFE>
+Hmm, I wonder.....<$FFFE>
+No, instead of driving him out, we should try to lure him out.<$FFFE>
+If Barral is invaded first, the Dark Knight will be called from Laffel to assist.<$FFFE>
+Once the Dark Knight leaves Laffel, we march in and reclaim it.<$FFFE>
+........<$FFFE>
+How do you respond?<$FFFE>
+I see.<$FFFE>
+I think I understand.<$FFFE>
+You're incredible.<$FFFE>
+I see, what a strategy.<$FFFC>
+Such a profoundly thought-out plan.<$FFFE>
+Right, I think I understand.<$FFFE>
+You're incredible, Luna.<$FFFC>
+Such an inspiration.<$FFFE>
+But we'll need someone to watch Laffel for this to work.<$FFFE>
+But, if we're attacking the Kingdom of Barral, we won't have the troops to spare for watch duty....<$FFFE>
+Leave that to me.<$FFFC>
+I've got friends who can keep an eye on Laffel.<$FFFE>
+I'll head to Laffel immediately.<$FFFE>
+Wait, let me come too!<$FFFE>
+No, it will be easier for me alone to elude the notice of our enemies.<$FFFC>
+I promise not to make a mistake and get caught.<$FFFE>
+I made a promise to Gerold, after all.<$FFFC>
+I promised to restore his home town, Laffel.....<$FFFE>
+Former Larcussia Royal Castle - Currently Imperial Headquarters<$FFFF>
+You must be weary, Your Excellency.<$FFFE>
+Indeed.<$FFFD>
+What happened on the war front while I was gone?<$FFFE>
+The strength of Lord Raymond's Larcuss patriots has grown.<$FFFD>
+At present, General Bortz is ready to make an attack....<$FFFE>
+So good old Bortz wants to reclaim his honor, eh.<$FFFE>
+But, he doesn't have many soldiers with which to attack.<$FFFC>
+General Bortz will probably be hard-pressed in the fighting.<$FFFE>
+Hmm, the magically-propelled giant soldier, Galshook, has just arrived.<$FFFD>
+There's no need to have Bortz squander his few troops in such fighting.<$FFFE>
+....I've always thought this city looked lovely.<$FFFE>
+Verily, it is so.<$FFFE>
+Everyone agrees this city is a perfect addition to the Empire.<$FFFD>
+Such an abundant land would greatly invigorate the lives of the Empire's citizens....<$FFFE>
+That's why we'll go wherever we must and endure whatever we must.<$FFFE>
+Indeed.<$FFFC>
+Everyone's counting on our success.<$FFFE>

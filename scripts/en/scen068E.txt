@@ -1,0 +1,126 @@
+Langrisser III dumper [0x26edb6 to 0x26fab3]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General Bortz<$FFFF>
+Field Marshal Altemuller<$FFFF>
+General Geier<$FFFF>
+General Varna<$FFFF>
+General Emerick<$FFFF>
+Larcuss Commander<$FFFF>
+Layla<$FFFF>
+Former Castle of Larcussia ~ Currently Imperial Headquarters<$FFFF>
+My humble apologies, Your Excellency Altemuller.<$FFFE>
+I am so ashamed that I have survived ignominiously after my attack of Lord Raymond.<$FFFE>
+No, Bortz.<$FFFC>
+I've heard the rumors.<$FFFE>
+You acted to prevent our troops from being annihilated.<$FFFE>
+Your own troops came to petition on your behalf.<$FFFC>
+You don't need to fear me, just because I'm the Field Marshal.<$FFFE>
+....I'd like it best if you retained your position, Bortz.<$FFFE>
+Yes, sir!<$FFFE>
+........<$FFFE>
+What is it, Geier?<$FFFC>
+How have you found the conquest of Laffel?<$FFFE>
+...At first we won...But the Dark Knight destroyed our airships, so I ordered a retreat...<$FFFE>
+.....I see.<$FFFC>
+So it was the Dark Knight, eh.<$FFFE>
+On top of that, Geier.<$FFFC>
+He managed to defeat even you.<$FFFE>
+....I'm at a loss for words.<$FFFE>
+He couldn't be beaten even with the power of the airship fleet....<$FFFC>
+This Dark Knight is a most formidable foe.<$FFFE>
+........<$FFFE>
+We'll need more military might than I suspected.<$FFFE>
+I'll return to the capitol to report and request reinforcements.<$FFFE>
+Allow me to begin preparations for your entourage.<$FFFE>
+That would be excellent, Varna.<$FFFE>
+Geier, Bortz, Emerick.<$FFFC>
+I'm counting on you to watch over things in my absence!<$FFFE>
+Yes, sir!<$FFFE>
+Mountains Near the Western Gate<$FFFF>
+Sir [diehardt's name]!<$FFFC>
+A messenger has come!<$FFFE>
+All right, have the messenger enter.<$FFFE>
+Yes, sir!<$FFFE>
+Ah, it's Miss Layla!<$FFFE>
+It's been a while, [diehardt's name].<$FFFE>
+It's good to see you again.<$FFFE>
+I bring a message from Lord Raymond.<$FFFE>
+Lord Raymond's troops will engage the Empire while your division finds the Haja no Ken.<$FFFE>
+The Haja no Ken!?<$FFFE>
+You've heard of it?<$FFFE>
+Legend says this sword was crafted in a distant land and instilled with holy power to overcome evil.<$FFFE>
+Even with the Lushiris Gate open, the strongest demons can still enter.<$FFFE>
+We need an effective way to defeat them, so...<$FFFE>
+The Haja no Ken...<$FFFE>
+Who do you ask?<$FFFE>
+Tiaris<$FFFE>
+Liffany<$FFFE>
+Luna<$FFFE>
+Sophia<$FFFE>
+Layla<$FFFE>
+What do you think, Tiaris?<$FFFE>
+Eh?<$FFFC>
+What I think, let's see...<$FFFD>
+There's no way around this, right?<$FFFC>
+So, let's hurry up and get that thingie!<$FFFE>
+Gotcha.<$FFFE>
+What do you think, Liffany?<$FFFE>
+What's the matter, Sir [diehardt's name]?<$FFFC>
+You don't look all that eager to follow through with this.....<$FFFE>
+No, that's not it....<$FFFD>
+I was just taken aback a little...by the demons' power....<$FFFE>
+What do you think, Luna?<$FFFE>
+The Haja no Ken will become necessary to fight against the demons.<$FFFC>
+That's why we must get ahold of it as quickly as possible.<$FFFE>
+I see.<$FFFC>
+Thanks, Luna.<$FFFE>
+What do you think, Sophia?<$FFFE>
+If unchecked, the demons will probably change our world into an even more terrible place.<$FFFC>
+That's why we must do whatever we can to avert their victory.<$FFFD>
+But, to do so, we must have the Haja no Ken.<$FFFE>
+It's the only guaranteed way to defeat demons......<$FFFE>
+What do you think, Miss Layla?<$FFFE>
+Me?  Well, Lord Raymond asked me to come tell you to go and find the Haja no Ken, so.....<$FFFD>
+With the war against the Empire starting, doesn't it seem necessary?<$FFFE>
+So, if we don't get ahold of it, we'll all be facing even bigger troubles...<$FFFC>
+That's how it seems, doesn't it?<$FFFC>
+Certainly.  Well, let's head out.<$FFFE>
+We should go and seek the Haja no Ken without further delay.<$FFFE>
+All right, I'll trust your guidance!<$FFFE>
+<$FFFC>
+Scenario ~ 14<$FFFC>
+"Dios on the Run"<$FFFE>
+Thanks to the efforts of [diehardt's name], the power of the four gates<$FFFC>
+has been restored.  Furthermore, the Lushiris Gate now functions<$FFFC>
+properly, radiating its holy light.<$FFFE>
+While this protects against most demons, it will not be able to ward<$FFFC>
+against the most powerful demons.  For that reason, the mobile<$FFFC>
+division has been ordered to seek the Haja no Ken, to take<$FFFC>
+advantage of its power over demons.<$FFFE>
+As the party hurries on its way to fulfill these orders, they observe<$FFFC>
+General Dios being pursued by the Barral army.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Freya<$FFFC>
+*Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of Dios<$FFFE>

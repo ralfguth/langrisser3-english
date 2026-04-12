@@ -1,0 +1,47 @@
+Langrisser III dumper [0x2fa426 to 0x2fa7b3]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+General Emerick<$FFFF>
+General Varna<$FFFF>
+General Geier<$FFFF>
+<$FFFC>
+Scenario ~ 26<$FFFC>
+"Suspicion"<$FFFE>
+Is this claimant really of the Larcuss royal<$FFFC>
+bloodline? The Imperial army executed every member.<$FFFC>
+What could this sudden turn of events mean...?<$FFFE>
+As suspicions seethe, the mobile division hurries<$FFFC>
+to the royal capitol, gripped by foreboding.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat claimant Richard<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Imperial HQ ~ Early Morning<$FFFF>
+Y..your excellency, Altemuller...<$FFFE>
+Who did this to His Excellency!<$FFFE>
+...Sniff*...<$FFFE>
+...Someone poisoned the sake.<$FFFC>
+But who would do this... Dammit!<$FFFE>
+We must find the perpetrator!<$FFFC>
+I'll avenge him with my own hands!<$FFFE>
+Hohoho!<$FFFC>
+Whoever did this saved me the trouble...<$FFFE>

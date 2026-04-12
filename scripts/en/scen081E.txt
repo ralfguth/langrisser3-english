@@ -1,0 +1,91 @@
+Langrisser III dumper [0x2ae5d4 to 0x2aef8f]
+
+Cyber Warrior X
+
+Dieharte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Viscount Raymond<$FFFF>
+General Geier<$FFFF>
+Imperial First Prince Paul<$FFFF>
+Captured Airship<$FFFF>
+Father!<$FFFE>
+....Lewin.<$FFFC>
+You've become a fine young man.<$FFFE>
+So I've been saved by my own son, eh.<$FFFE>
+It wasn't me alone.<$FFFC>
+It was thanks to everyone.<$FFFE>
+I suppose so.<$FFFE>
+.....[diehardt's name].<$FFFC>
+You seem well.<$FFFE>
+My troops were wiped out.<$FFFC>
+Forgive me, but the capital's liberation is in your hands.<$FFFE>
+Yes, sir.<$FFFC>
+I've found many fine comrades.<$FFFE>
+We'll see it through.<$FFFE>
+I'm so glad.<$FFFC>
+Please look after Lewin.<$FFFE>
+Milord, you must rest now.<$FFFC>
+Leave the rest to us and rest.<$FFFE>
+Of course, thanks.<$FFFE>
+Everyone, thank you so much.<$FFFD>
+Liffany, [diehardt's name].<$FFFC>
+Now it's our turn to save your parents.<$FFFE>
+Oh, you're right.<$FFFD>
+I hope my parents are safe.<$FFFE>
+Me, too.<$FFFC>
+Let's head to Larcussia right away!<$FFFD>
+....Father, Mother, hold on.<$FFFC>
+We're coming to save you now!<$FFFE>
+Rigüler Imperial Castle ~ Kaiser Kleist's Sickroom<$FFFF>
+So I'll just head home with the aerial fortress.<$FFFE>
+Oho, Your Majesty, Paul.<$FFFE>
+So formal, General Geier.<$FFFC>
+I've something to ask.<$FFFE>
+What might that be?<$FFFE>
+Hmm.<$FFFC>
+I hear you don't think highly of Altemuller...ler.<$FFFE>
+No, I, ah...<$FFFE>
+No need to hide it.<$FFFC>
+Truth is, I hate that bastard too.<$FFFE>
+My father won't last much longer.<$FFFE>
+When he dies, I'll be Kaiser.....<$FFFC>
+And the new Field Marshal should be you, Geier.<$FFFE>
+Me!?<$FFFE>
+But we need an excuse to remove Altemuller...ler.<$FFFE>
+If he fails defending the capital, his credibility crumbles.<$FFFE>
+So, what do you think?<$FFFC>
+Can you find a reason to ground the fortress?<$FFFE>
+You want me not to return with the fortress?<$FFFE>
+Exactly.<$FFFC>
+With the fortress, we can retake the capital anytime.<$FFFE>
+You reclaim Larcussia after he loses it, using the fortress.<$FFFE>
+He's dismissed, you're promoted.<$FFFC>
+Like it?<$FFFE>
+....Your Majesty may underestimate that brat.<$FFFC>
+Even without the fortress, he can likely hold the capitol.<$FFFE>
+What!<$FFFC>
+Then what do you suggest....<$FFFE>
+.....Cut his supply line. No commander fights without provisions.....<$FFFE>
+In that case, halt his supply line!<$FFFE>
+But, I have no excuse to stop it.<$FFFE>
+...If bandits attacked the escorts, the supply line stops.<$FFFE>
+Ohh!<$FFFC>
+Ohh!!<$FFFE>
+Then leave the fortress to me!<$FFFC>
+Damage it enough and it can't fly.<$FFFE>

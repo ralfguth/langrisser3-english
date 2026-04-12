@@ -1,0 +1,260 @@
+Langrisser III dumper [0xe5b46 to 0xe723f]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Monster<$FFFF>
+Villager<$FFFF>
+Necromancer Grove<$FFFF>
+Velzerian Commander<$FFFF>
+-Destroy the enemy<$FFFE>
+-Death of [diehardt's name]<$FFFC>
+-Death of all Villagers<$FFFE>
+Village on the Velzeria - Elthlead Border<$FFFF>
+GOGAAAHHH!<$FFFE>
+Uwaaah!<$FFFE>
+BOOOOOHHH!<$FFFE>
+Run!<$FFFC>
+Everyone, get out of here!<$FFFE>
+Hehehe....<$FFFE>
+Yes, run away puny humans!<$FFFE>
+Shiver before our might!<$FFFC>
+The world belongs to those who wield power.<$FFFE>
+Witness the power of us demons first hand!<$FFFE>
+Lushiris!<$FFFE>
+Hehehehe!<$FFFC>
+Ever relying on someone else's power.<$FFFE>
+Those who can't draw their own power have no future!<$FFFE>
+Well then, my pets.<$FFFC>
+Slaughter to your heart's content!<$FFFE>
+Uwaahh!<$FFFC>
+Save us!<$FFFE>
+Hehehe!<$FFFC>
+Run for me, Run!<$FFFE>
+Hold it!<$FFFE>
+Who's there!?<$FFFE>
+Having fun? I'm afraid playtime is over.<$FFFE>
+We won't let you harm our people any longer!<$FFFE>
+Never mind me, but aren't there a bit lot of them?<$FFFE>
+No kidding.<$FFFC>
+But...<$FFFE>
+But if we don't fight, the villagers will die.<$FFFE>
+Let's get this over with.<$FFFC>
+After all we went through, we can't give up now!<$FFFE>
+We have to aid those villagers fast or they'll be doomed.<$FFFC>
+Hurry!<$FFFE>
+We have to aid those villagers fast or they'll be doomed.<$FFFC>
+We have to speed up our advance!<$FFFE>
+Sir Diehärte.<$FFFC>
+If we do nothing, the villagers will be murdered.<$FFFC>
+What to do...<$FFFE>
+What do you reply?<$FFFE>
+I got it<$FFFE>
+I don't know how...<$FFFE>
+They'll be alright<$FFFE>
+Of course we will try to protect them.<$FFFE>
+Right.<$FFFE>
+They mustn't be left to die.<$FFFC>
+I just don't know how to...<$FFFE>
+Sir Diehärte.<$FFFC>
+As our commander you should be the last to let go hope.<$FFFE>
+They'll be fine.<$FFFC>
+If we to put our hearts into this it'll work out.<$FFFE>
+Yes.<$FFFC>
+We have to help them no matter what.<$FFFE>
+How horrible.<$FFFC>
+The villagers are being chased tom their death.<$FFFD>
+We have to help them.<$FFFE>
+All of you, hurry up and make your escape to the west!<$FFFE>
+Elthlead soldiers have come!?<$FFFC>
+We are saved!<$FFFE>
+Leave it to us!<$FFFC>
+We'll make sure that y'all be safe!<$FFFE>
+It can't be helped then.<$FFFC>
+I'll just have to take care them by myself!<$FFFE>
+It's you!<$FFFC>
+...The one who would dare to toy with my daughter's remains!<$FFFE>
+Your daughter, you say?<$FFFC>
+I'm afraid that evades my memory.<$FFFC>
+But I'm a necromancer.<$FFFD>
+My profession is to use corpses!<$FFFC>
+So you'll excuse me for not remembering every single one of them.<$FFFE>
+You Bastard!<$FFFC>
+Everyone, let me handle this!<$FFFD>
+I'll deliver the punishment for all of his atrocious acts!<$FFFE>
+Huff, Huff...<$FFFE>
+Good.<$FFFC>
+Run without looking back!<$FFFE>
+Y..Yes..<$FFFE>
+Kyah!<$FFFC>
+The demons are chasing the villagers mercilessly!<$FFFE>
+Dammit!<$FFFC>
+Run Human, Run and then die!<$FFFE>
+There's an adorable flower blooming in the field before you.<$FFFE>
+Do you want to pull it out?<$FFFE>
+The flower wilted.<$FFFE>
+A beautiful girl appeared from midst of the flower.<$FFFD>
+"I am the flower spirit.<$FFFC>
+You have proven your kind heart,<$FFFD>
+thus you shall be rewarded."<$FFFE>
+What is it you are wishing for?<$FFFE>
+Magic<$FFFE>
+Power<$FFFE>
+Nothing<$FFFE>
+"I see.<$FFFC>
+If that's what you wish for, have this."<$FFFE>
+Holy Symbol was obtained!<$FFFE>
+"I see.<$FFFC>
+If this is what your desire."<$FFFE>
+<$f6>Protection<$fc>Strength rose +1<$FFFD>
+<$f6>Protection<$fc>Defence rose +1<$FFFE>
+"...Is that so.<$FFFC>
+Already rich is the heart that has nothing to desire..."<$FFFD>
+The spirit vanished into thin air.<$FFFE>
+On a rock a beautiful mermaid is resting.<$FFFC>
+She noticed you and seemed frightened.<$FFFE>
+What do you do?<$FFFE>
+Move along<$FFFE>
+Catch her<$FFFE>
+Smile at her<$FFFE>
+The mermaid dove quickly into the sea.<$FFFE>
+The mermaid dove quickly into the sea.<$FFFE>
+When you smiled at her, she seems to feel at ease, smiles back<$FFFD>
+and transfers a sparkling gem into your hands.<$FFFE>
+Mermaid's Tear was obtained!<$FFFE>
+I couldn't....<$FFFC>
+You must carry on...<$FFFE>
+Papa...<$FFFE>
+Everyone, I'm sorry...<$FFFE>
+Coty...<$FFFE>
+Gilbert...<$FFFE>
+Already...dead...<$FFFE>
+Huh?<$FFFE>
+Forgive me...<$FFFE>
+Goddess Lushiris, grant me the power to smite the loathed demon kind!<$FFFE>
+Lushiris...<$FFFE>
+GO back to the darkness you came from, demon!<$FFFE>
+Gurgh...<$FFFC>
+Please look after...my grave..<$FFFE>
+Uuhhhg...<$FFFE>
+That hurt...<$FFFE>
+Keh!<$FFFC>
+Where's that pain coming from...<$FFFE>
+Guarrgh!?<$FFFC>
+How come I can still feel pain...<$FFFD>
+I will take my leave for now.<$FFFC>
+Continue the onslaught unbridled during my absence!<$FFFE>
+Guargh!?<$FFFC>
+The Haja no Ken...hoaxed by mere humans...<$FFFD>
+For now I'll withdraw.<$FFFC>
+But the next time we meet you'll become my obsequious underlings!<$FFFE>
+Uuh...<$FFFC>
+This is getting tiresome.<$FFFD>
+I'll take my leave now.<$FFFC>
+Continue the onslaught unbridled in my absence!<$FFFE>
+Stop right there!<$FFFC>
+...Damn, he got away.<$FFFE>
+Humans aren't even good enough to be our food!<$FFFE>
+Those relying on Lushiris will perish when demons ascend.<$FFFE>
+Your presumptuousness shall be your downfall!<$FFFE>
+GYAAAHH!<$FFFE>
+GYAAAHH!<$FFFE>
+GUWOOOOHHH!<$FFFE>
+GUOOOHH!<$FFFE>
+GUOOOOHH!<$FFFE>
+GUOOOOHH!<$FFFE>
+GUWOOOOHHH!<$FFFE>
+GOOON!<$FFFE>
+GOOON!<$FFFE>
+GUWAAAAA!<$FFFE>
+GUWAAAAA!<$FFFE>
+GAAAAA!<$FFFE>
+Curse you!<$FFFE>
+Guaaahh!<$FFFE>
+That's fine...<$FFFE>
+Kyaahh!<$FFFE>
+HUUUUHHH!?<$FFFE>
+GYAAAHH!<$FFFE>
+GUWOOOOHHH!<$FFFE>
+GUUUGYAAA!<$FFFE>
+Too bad, it seems they were worthless after all!<$FFFC>
+Now everyone, come at me!<$FFFE>
+There's more up ahead, don't think you'll win that easily.<$FFFE>
+Too bad, it seems they were worthless after all!<$FFFC>
+Now everyone, come at me!<$FFFE>
+Uwaaah!<$FFFE>
+Help me!<$FFFE>
+It hurts!<$FFFC>
+Save me!<$FFFE>
+Uwaah!<$FFFC>
+I don't wanna die!<$FFFE>
+W..Why do I have to die like this...<$FFFE>
+Please!<$FFFC>
+Stop this!<$FFFE>
+Mother!<$FFFE>
+Aah!?<$FFFE>
+Iyaaaah!<$FFFC>
+Stop it already!<$FFFE>
+Hihihi!<$FFFC>
+Stop...it...<$FFFD>
+Oh but I just love seeing you miserable humans die.<$FFFC>
+It is my greatest pleasure in life.<$FFFE>
+No!<$FFFE>
+Aaahh...<$FFFC>
+How could this happen!?<$FFFE>
+Sir Diehärte!<$FFFC>
+The villagers...<$FFFE>
+Blasted!<$FFFC>
+We couldn't save them...<$FFFE>
+Sir Diehärte.<$FFFC>
+The villagers are safe now.<$FFFE>
+Good.<$FFFC>
+I'm glad we made it in time.<$FFFE>
+Concerning the villagers safety...<$FFFC>
+We weren't in time to save all.<$FFFE>
+You commanded us flawlessly.<$FFFE>
+You commanded us lousily.<$FFFD>
+I speak for all of us when I'm saying...<$FFFC>
+Please retire...<$FFFE>
+Thank you so very much.<$FFFC>
+Thanks to you everyone was saved.<$FFFE>
+I know!<$FFFC>
+Let us express our gratitude with this.<$FFFD>
+.<$fe><$14>.<$fe><$14>.<$fe><$14>.<$FFFC>
+Here you are!<$FFFC>
+Please accept this humble gift!<$FFFE>
+Angel Feather was obtained!<$FFFE>
+Thanks.<$FFFC>
+Use it wisely.<$FFFE>
+We will pray for your success on the battlefield.<$FFFE>
+Well then, let's return to the capitol!<$FFFE>
+Rise again, dead ones! Do my bidding!<$FFFD>
+Mihari han kimojinihi kushizekiki iyokana hagujisoramu!<$FFFE>
+What!<$FFFC>
+Walking Corpses!?<$FFFE>
+Who do you think your dealing with?<$FFFC>
+Grove the necromancer isn't someone to mess around with.<$FFFE>
+Necromancer Grove,...You'll pay dearly for this!<$FFFE>
+Grove, your evil deeds end here!<$FFFE>
+I'm merely giving corpses another purpose.<$FFFC>
+What's so bad about that?<$FFFE>
+Disturbing the dead is the most blasphemous act!<$FFFE>
+Such hate, instead of gratitude for renewed life.<$FFFE>
+Silence!<$FFFE>
