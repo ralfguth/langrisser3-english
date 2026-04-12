@@ -37,10 +37,11 @@ Build time is under 10 seconds. No additional dependencies needed.
 
 The Langrisser III Saturn translation has a long history of community effort:
 
-- **2001** — **CyberWarriorX (Theo Berkau)** released the first partial translation patch (v0.2), which included menu translations, a bigram font system, and Saturn disc reverse engineering work.
-- **2006-2010** — **Akari Dawn**, **ElfShadow**, and **Oogami** produced a complete English script translation covering all 125 scenario sections.
-- **2010s** — Several community projects attempted to combine CWX's tools with the Akari Dawn scripts, but encountered technical dead ends: corrupted dialogue data, broken name screens, and encoding mismatches caused by undocumented assumptions in the original patch tooling.
-- **2026** — This project (v0.4) was started from scratch. Instead of building on top of CWX's insertion tools, we wrote a new pipeline: a custom bigram encoder, pixel-level font tile generation, and an in-place D00.DAT patcher that respects the Saturn engine's sector-based file access. The result is a clean build that patches a stock Japanese ISO without corrupting game data.
+- **1996** — **Career Soft / NCS / Masaya** released Langrisser III for Sega Saturn in Japan. It was never officially localized for Western markets.
+- **2001** — **CyberWarriorX (Theo Berkau)** released an alpha v0.2 patch that translated the menus and UI, reverse-engineered the Saturn disc format, and created a bigram font system for Latin text. The dialogue remained untranslated (mojibake). He also built tools to dump and reinsert text, along with partially translated scenes that were never inserted. The patch included work by **Oogami** on the original script.
+- **2006-2010** — **Akari Dawn** picked up the translation effort. To their surprise, a significant portion of the script had already been translated by the original team. They completed the full English script for all 125 scenario sections and uploaded it to GameFAQs, hoping someone would insert it into the game.
+- **2001-2025** — For over two decades, the community waited. The game was fully hacked and fully translated, but nobody managed to put it all together. Several projects attempted to combine CWX's insertion tools with the Akari Dawn scripts, but all hit dead ends: corrupted dialogue data, broken name screens, and encoding mismatches caused by undocumented assumptions in the original tooling. The situation was described on CDRomance as *"waiting for someone to step up and put it all together."*
+- **2026** — This project (v0.4) was built from scratch. Instead of inheriting CWX's insertion tools, we wrote a new pipeline: a custom bigram encoder, pixel-level font tile generation from embedded glyph data, and an in-place D00.DAT patcher that respects the Saturn engine's sector-based file access. All 125 scenario sections are now translated and playable.
 
 ### What Makes v0.4 Different
 
