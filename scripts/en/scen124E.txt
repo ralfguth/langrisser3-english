@@ -198,24 +198,24 @@ She poured everything into raising them well, until nothing remained for herself
 She grew fond of [diehardt's name] but her love went unreturned.<$FFFC>
 To ease her heart she traveled, aiding war survivors.<$FFFE>
 After the demons were quelled she traveled to help those scarred by war.<$FFFE>
-The holy beast Jügler, blessed by Lushiris, guarded the western gate.<$FFFC>
+The holy beast Jugler, blessed by Lushiris, guarded the western gate.<$FFFC>
 He fought to protect the goddess's lands.<$FFFE>
 His shapeshifting gave Elthlead key strategic advantages.<$FFFD>
 His strength and fluffiness were vital to victory.<$FFFD>
-After the war Jügler returned to guard the western gate.<$FFFC>
+After the war Jugler returned to guard the western gate.<$FFFC>
 A mysterious figure awaited him...<$FFFD>
 To his shock it was a female holy beast, thought to be extinct...<$FFFD>
 Months later Lushiris blessed them with many healthy cubs.<$FFFC>
 They lived a happy family life ever after.<$FFFE>
 His shapeshifting gave key advantages.<$FFFC>
 He fought fiercely and often saved friends from peril.<$FFFD>
-After the war Jügler returned to guard the western gate.<$FFFC>
+After the war Jugler returned to guard the western gate.<$FFFC>
 One day a fire broke out in a nearby village.<$FFFD>
 Without hesitation he leapt into the blaze to save trapped children.<$FFFD>
 Every child in the land came to know the tale of the "Fiery Furball"...<$FFFE>
 His shapeshifting gave key advantages.<$FFFC>
 Many foes fell to his fangs, but fierce battle took its toll.<$FFFD>
-After the war Jügler returned to guard the western gate.<$FFFC>
+After the war Jugler returned to guard the western gate.<$FFFC>
 One day a fire broke out in a nearby village.<$FFFD>
 Without hesitation he leapt into the blaze to save trapped children.<$FFFC>
 He paid with his life...but thought it well worth it...<$FFFE>
@@ -224,7 +224,7 @@ But his potential went unrecognized and unused.<$FFFD>
 Frustrated, he returned to the western gate.<$FFFC>
 Feeling useless, he grew lazy and fat.<$FFFD>
 Horrified friends put him on a strict diet.<$FFFC>
-Now village children ride him daily for exercise...they love it, Jügler less so...<$FFFE>
+Now village children ride him daily for exercise...they love it, Jugler less so...<$FFFE>
 Dios, a Barral general, deserted the mad King Wilder and joined [diehardt's name].<$FFFE>
 A hardened veteran, his skills served Elthlead well.<$FFFD>
 After victory he returned to rebuild the shattered Barral.<$FFFE>
@@ -358,7 +358,7 @@ it was his task to take care of affairs of the state in their absence.<$FFFC>
 Although being gifted intellectually, governing a gigantic country was to much to handle for him alone.<$FFFD>
 Due to the constant support from Elthlead peace and order could be maintained.<$FFFC>
 As of late there have been reports of him being in bad health evermore waiting for Altemuller's return..<$FFFE>
-Altemuller the highly skilled and decorated Field Marshal of the Rigüler Empire, took up Alhazard, to avenge the death of his beloved Varna.<$FFFE>
+Altemuller the highly skilled and decorated Field Marshal of the Riguler Empire, took up Alhazard, to avenge the death of his beloved Varna.<$FFFE>
 Having his heart filled with only anger and hatred he became the Prince of Darkness, Bosel.<$FFFC>
 However [diehardt's name] and company defeated him and sealed away Alhazard once more.<$FFFD>
 After all it was not possible for [diehardt's name] to rescue Altemuller's soul.<$FFFD>
@@ -371,7 +371,7 @@ Afterwards he allied with [diehardt's name] in order to defeat Paul, who had bec
 But even after the battle was won, there was no time for him to take a breath.<$FFFC>
 His most beloved Varna had been resurrected by the power of darkness that was fading from the world, thus threatening her very existence.<$FFFD>
 To find a way to restore Varna's humanity, they set out on a journey into the unknown.<$FFFE>
-Several years after peace had been established, it occurred that a Rigüler division was attacked by remnants of the demon tribe.<$FFFD>
+Several years after peace had been established, it occurred that a Riguler division was attacked by remnants of the demon tribe.<$FFFD>
 The ambushed division was heavily outnumbered and prepared for a fight to the bitter end.<$FFFC>
 Out of nowhere a man and a women appear and annihilate all the demons with seemingly ease.<$FFFD>
 Emerick who rushes to the aid of the ambushed, utters the following, as he beholds the soldiers saviors, while tears swell up in his eyes...<$FFFC>
@@ -420,7 +420,7 @@ Several years later Elthlead enjoyed prosperity even greater than Larcuss had kn
 Not few think that what she and others of her kind where the ones who made this possibly with their unconditional altruism.<$FFFE>
 However, the injuries she received in battles long past got back at her and so she passed away at a cruelly young age.<$FFFD>
 Even during her last moments Sophia asked nothing of the ones present but to lead a happy life and parted with a gentle smile.<$FFFE>
-Long years passed and a rumor appeared saying that ALtemüller had fallen to darkness.<$FFFC>
+Long years passed and a rumor appeared saying that Altemuller had fallen to darkness.<$FFFC>
 Those who knew him had no doubt that if this was true he did it only to save poor Varna.<$FFFD>
 It said that he and a certain women were traveling the lands aimlessly...<$FFFE>
 Their journey reached a tragic end after long years of hardship.<$FFFC>

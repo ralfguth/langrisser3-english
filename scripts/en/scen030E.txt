@@ -2,7 +2,7 @@ Langrisser III dumper [0x13682a to 0x13850b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -132,7 +132,7 @@ Coty...<$FFFE>
 Sorry, everyone...<$FFFC>
 So tired...<$FFFE>
 Oh...<$FFFE>
-Sir, Diehärte...<$FFFE>
+Sir, Dieharte...<$FFFE>
 Ahh, that light....<$FFFE>
 Sophia...<$FFFE>
 Guuugh...<$FFFE>
@@ -170,11 +170,11 @@ Such mockery...<$FFFC>
 I..I'm Alhazard's bearer...this can't...<$FFFE>
 Alhazard was obtained!<$FFFE>
 This victory makes me proud to serve you, [diehardt's name].<$FFFE>
-Sir Diehärte...<$FFFC>
+Sir Dieharte...<$FFFC>
 I'm just glad we made it...<$FFFD>
 But it could've gone better...<$FFFE>
 Your Excellency!<$FFFE>
-You did unexpectedly well, Diehärte.<$FFFC>
+You did unexpectedly well, Dieharte.<$FFFC>
 My help wasn't needed.<$FFFE>
 Altemuller?<$FFFC>
 So you're alive?<$FFFE>

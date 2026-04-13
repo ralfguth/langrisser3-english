@@ -140,8 +140,16 @@ def main():
     # -- Step 3: Generate English font --
     print('[3/7] Generating English bigram font...')
     tiles = generate_all_tiles()
-    new_font = patch_font_bin(font_data, tiles)
-    print(f'  Generated {len(tiles)} tiles onto JP base ({len(new_font):,} bytes)')
+    # Use CWX font as base (preserves menu/UI tile glyphs referenced by CWX patches)
+    cwx_font_path = PATCHES_DIR / 'cwx_font.bin'
+    if cwx_font_path.exists():
+        font_base = cwx_font_path.read_bytes()
+        base_label = 'CWX'
+    else:
+        font_base = font_data
+        base_label = 'JP'
+    new_font = patch_font_bin(font_base, tiles)
+    print(f'  Generated {len(tiles)} tiles onto {base_label} base ({len(new_font):,} bytes)')
     print(f'  Bigram map: {len(BIGRAM_TILE_MAP)} pairs, Single map: {len(CHAR_TILE_MAP)} chars')
 
     # -- Step 4: Parse D00.DAT --

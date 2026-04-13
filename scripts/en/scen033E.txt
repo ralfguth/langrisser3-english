@@ -2,7 +2,7 @@ Langrisser III dumper [0x158b62 to 0x15c167]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -263,7 +263,7 @@ It's useless.<$FFFC>
 My current power....<$FFFE>
 I'm still incomplete....<$FFFE>
 Please open your eyes!<$FFFE>
-Diehärte, please do something to save him!<$FFFE>
+Dieharte, please do something to save him!<$FFFE>
 Ouch...that's rude...<$FFFE>
 Grrrr....<$FFFE>
 How did it come to this?<$FFFC>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x17a50a to 0x17d33b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -25,7 +25,7 @@ Velzerian Commander<$FFFF>
 Do Kahni<$FFFF>
 -Defeat Altemuller<$FFFE>
 -Death of [diehardt's name]<$FFFE>
-Rigüler Castle<$FFFF>
+Riguler Castle<$FFFF>
 It is too quiet...<$FFFE>
 Be on your guard.<$FFFC>
 The Demon Tribe's presence is strong here.<$FFFE>

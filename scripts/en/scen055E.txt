@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -26,7 +26,7 @@ Young Dieharte<$FFFF>
 King Wilder<$FFFF>
 General Varna<$FFFF>
 Field Marshal Altemuller<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Geier<$FFFF>
 Adjutant Gates<$FFFF>
 General Emerick<$FFFF>

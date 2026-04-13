@@ -2,7 +2,7 @@ Langrisser III dumper [0x2e0604 to 0x2e09cf]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -35,7 +35,7 @@ the Empire, Velzeria, or Elthlead?<$FFFE>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Death of Sieghart<$FFFE>
-Rigüler Imperial Castle ~ Paul's Personal Room<$FFFF>
+Riguler Imperial Castle ~ Paul's Personal Room<$FFFF>
 So, now that my father's died, it's my turn to take the throne.<$FFFE>
 But, Altemuller seems more popular within the court here.<$FFFE>
 How shall we deal with those fools expected to oppose us?<$FFFE>

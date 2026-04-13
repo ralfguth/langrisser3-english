@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -35,7 +35,7 @@ the Larcussians' plans, buying some time to realize their goal.<$FFFE>
   after initiating combat between the Imperial and Barral forces<$FFFC>
 *Condition for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-Near the Borderline between Barral and the Rigüler Empire<$FFFF>
+Near the Borderline between Barral and the Riguler Empire<$FFFF>
 Sir [diehardt's name]<$FFFB>
 <$FFFC>
 An enemy base is just a little farther.<$FFFE>

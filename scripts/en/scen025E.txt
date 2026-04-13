@@ -2,7 +2,7 @@ Langrisser III dumper [0xf54a0 to 0xf7047]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -22,7 +22,7 @@ Altemuller<$FFFF>
 Varna<$FFFF>
 General Varna<$FFFF>
 King Sieghart<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Elthlead Commander<$FFFF>
 Rag<$FFFF>
 Monster<$FFFF>
@@ -66,7 +66,7 @@ They're likely still fatigued from their last mission.<$FFFC>
 We will carry out our strategy as planned.<$FFFE>
 Varna, take some troops and deal with the newcomers.<$FFFE>
 Understood.<$FFFE>
-Sir Diehärte, the enemy has split their troops.<$FFFE>
+Sir Dieharte, the enemy has split their troops.<$FFFE>
 That eases some pressure from the siege.<$FFFC>
 If we hurry, we can win this.<$FFFE>
 But if the enemy crosses that bridge, the capitol will fall.<$FFFE>
@@ -74,9 +74,9 @@ Just because we arrived in time doesn't mean we can relax!<$FFFE>
 That's right.<$FFFE>
 Everyone, I know you're tired but give it your all!<$FFFE>
 Now our victory over Elthlead is just one step ahead...<$FFFE>
-Isn't that the much rumored-about Diehärte?<$FFFC>
+Isn't that the much rumored-about Dieharte?<$FFFC>
 Bortz and Emerick had trouble with him. Be careful.<$FFFD>
-That Diehärte.<$FFFC>
+That Dieharte.<$FFFC>
 His timing is pretty good.<$FFFE>
 Cavalry move out to crush the enemy at the rear.<$FFFC>
 Flying units back us up.<$FFFE>
@@ -110,9 +110,9 @@ You pull but the arrow breaks midway.<$FFFE>
 With a sluggish sound, the arrow broke.<$FFFE>
 We were...<$FFFC>
 So close....<$FFFE>
-Sir Diehärte?<$FFFC>
+Sir Dieharte?<$FFFC>
 Don't die, your powers are still needed!<$FFFE>
-Sir Diehärte?<$FFFC>
+Sir Dieharte?<$FFFC>
 Don't die, your powers are still needed!<$FFFE>
 Father...<$FFFE>
 Everyone I'm sorry...<$FFFE>
@@ -139,7 +139,7 @@ I couldn't be defeated by lowly demons...<$FFFE>
 Your Excellency! Please withdraw from battle!<$FFFC>
 Leave the rest to me!<$FFFE>
 Forgive me, Varna.<$FFFE>
-Diehärte's company...<$FFFC>
+Dieharte's company...<$FFFC>
 Here I come!<$FFFE>
 Death is upon you!<$FFFE>
 Taking me lightly because I'm a woman will be your last mistake!<$FFFE>
@@ -187,8 +187,8 @@ GOOOOON!<$FFFE>
 What, all my troops wiped out!?<$FFFC>
 Seems even those insects can sting.<$FFFE>
 Alright, all demons have been taken care of.<$FFFE>
-Your strategy was truly inspiring, Sir Diehärte.<$FFFE>
-Sir Diehärte...<$FFFC>
+Your strategy was truly inspiring, Sir Dieharte.<$FFFE>
+Sir Dieharte...<$FFFC>
 ............<$FFFD>
 ....I hate you<$FFFE>
 If humans stand together, we need fear nothing.<$FFFC>
@@ -229,14 +229,14 @@ We should cooperate and drive those demons away!<$FFFE>
 This is not the time to fight amongst ourselves.<$FFFC>
 I consent to your proposal.<$FFFE>
 This isn't the time for humans to fight each other.<$FFFD>
-But we can't trust the Rigüler Empire!<$FFFE>
-Sir Diehärte!?<$FFFE>
+But we can't trust the Riguler Empire!<$FFFE>
+Sir Dieharte!?<$FFFE>
 ...I disagree, this truce is a welcome concession.<$FFFC>
 We shouldn't prolong meaningless fighting.<$FFFD>
 While we war with each other, Velzeria gets the perfect opening.<$FFFD>
 If we allow that, the world could fall to the demons.<$FFFC>
 We can't risk that for any reason.<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 It is as King Sieghart says.<$FFFD>
 Now isn't the time for humans to fight.<$FFFE>
 Field Marshal Altemuller.<$FFFC>
@@ -259,5 +259,5 @@ Considering the strength and numbers of our enemies,<$FFFC>
 cooperation is the most advisable strategy.<$FFFE>
 Flock together all you want, you're still just insects before us.<$FFFC>
 The triumph of darkness is set in stone.<$FFFE>
-Diehärte I'm afraid this is the end of the road for you!<$FFFE>
+Dieharte I'm afraid this is the end of the road for you!<$FFFE>
 You will find me a worthy opponent!<$FFFE>

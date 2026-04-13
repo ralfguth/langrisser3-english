@@ -2,7 +2,7 @@ Langrisser III dumper [0x26922 to 0x29487]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ Citizen<$FFFF>
 General Geier<$FFFF>
 Imperial Commander<$FFFF>
 Gilbert<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Larcuss Commander<$FFFF>
 -Defeat all enemies except Geier<$FFFE>
 -Death of [diehardt's name]<$FFFC>

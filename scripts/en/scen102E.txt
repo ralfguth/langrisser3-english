@@ -2,7 +2,7 @@ Langrisser III dumper [0x33408a to 0x3344c3]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,13 +14,13 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Velzerian Commander<$FFFF>
  <$FFFC>
 Scenario ~ 31<$FFFC>
@@ -41,7 +41,7 @@ Kingdom of Barral.<$FFFE>
  -Defeat or persuade Freya<$FFFC>
 * Victory condition<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-Aerial Fortress ~ Skies above the Rigüler Capitol<$FFFF>
+Aerial Fortress ~ Skies above the Riguler Capitol<$FFFF>
 You have nowhere to run...<$FFFC>
 Your miserable life ends here!<$FFFE>
 GYAAA...!<$FFFE>

@@ -14,13 +14,13 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler commander<$FFFF>
+Riguler commander<$FFFF>
 Field Marshal Altemuller<$FFFF>
 Lushiris Southern Gate<$FFFF>
 Oh Gate...,<$FFFC>

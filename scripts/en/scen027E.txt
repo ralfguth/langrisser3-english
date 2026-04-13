@@ -2,7 +2,7 @@ Langrisser III dumper [0x10cf2c to 0x10e403]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -65,18 +65,18 @@ How rude!<$FFFC>
 Leaving without a goodbye!<$FFFE>
 Blasted!<$FFFC>
 We're surrounded.<$FFFE>
-Sir Diehärte!<$FFFE>
+Sir Dieharte!<$FFFE>
 No use complaining.<$FFFC>
 We'll have to fight our way out!<$FFFE>
 -Defeat Ferakia<$FFFE>
--Death of Diehärte<$FFFE>
+-Death of Dieharte<$FFFE>
 Ahahahaha!<$FFFC>
 What joy!<$FFFD>
 Does shedding blood please you too?<$FFFC>
 Does the battle rush race your heart?<$FFFE>
 Silence!<$FFFC>
 I won't let anger cloud my mind!<$FFFE>
-Sir Diehärte.<$FFFD>
+Sir Dieharte.<$FFFD>
 I fear for Sir Kirikaze's calm.<$FFFC>
 If he continues, his life could be in danger.<$FFFD>
 I suggest you take him under your command.<$FFFE>
@@ -85,7 +85,7 @@ You're right.<$FFFC>
 Better to coordinate our efforts.<$FFFE>
 Listen, Kirikaze!<$FFFC>
 Wouldn't it help if I coordinated your moves?<$FFFE>
-Sir Diehärte?<$FFFC>
+Sir Dieharte?<$FFFC>
 Very well.<$FFFD>
 My only wish is to fight that person.<$FFFE>
 Kirikaze has joined the division!<$FFFE>
@@ -110,13 +110,13 @@ Runestone was obtained!<$FFFE>
 A crackling sound comes from the northwest...<$FFFE>
 I can't fall yet...<$FFFE>
 I don't want to...<$FFFC>
-Sir..Diehärte...<$FFFE>
+Sir..Dieharte...<$FFFE>
 Father...<$FFFE>
 Coty....<$FFFE>
 Farewell everyone...<$FFFC>
 I'm so tired...<$FFFE>
 Aaah...<$FFFE>
-Sir Diehärte....<$FFFE>
+Sir Dieharte....<$FFFE>
 That light...is so...warm...<$FFFE>
 Sophia...<$FFFE>
 GRRRRHH!!<$FFFE>
@@ -127,7 +127,7 @@ This isn't how it's supposed to go.<$FFFC>
 But you leave me no choice.<$FFFE>
 Aaaahh, the blue sky...<$FFFE>
 I've no regrets...<$FFFE>
-Sir Diehärte...<$FFFC>
+Sir Dieharte...<$FFFC>
 The enemy targets Kirikaze...<$FFFE>
 I, Samurai Kirikaze of Yamato,<$FFFC>
 enter battle!<$FFFE>
@@ -146,8 +146,8 @@ Let us cooperate closely from now on.<$FFFE>
 There are no words to express my gratitude!<$FFFE>
 There are no words to express my gratitude!<$FFFE>
 Kirikaze joined the demon hunters!<$FFFE>
-You did splendidly, Sir Diehärte.<$FFFE>
-Sir Diehärte....<$FFFC>
+You did splendidly, Sir Dieharte.<$FFFE>
+Sir Dieharte....<$FFFC>
 ..................<$FFFD>
 ................<$FFFE>
 Everyone.<$FFFE>
@@ -210,6 +210,6 @@ Let's see if a human can meet my expectations?<$FFFE>
 Long ago I was attached to a kingdom far to the east.<$FFFE>
 One day an army of demons led by that woman invaded and burned our country.<$FFFE>
 Back then I couldn't protect my Lord...nor his wife and son...<$FFFE>
-Lord Diehärte!<$FFFC>
+Lord Dieharte!<$FFFC>
 If you march against Velzeria, let me offer my services!<$FFFE>
 My greatest wish is to end the witch who murdered my Lord!<$FFFE>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x356154 to 0x356ce7]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -27,7 +27,7 @@ Scenario ~ 34<$FFFC>
 "The Shape of a Heart"<$FFFE>
 Wielding the Demon Sword Alhazard,<$FFFC>
 Altemuller became ruler of the Demon Tribe.<$FFFC>
-From the Rigüler throne, he awaits<$FFFC>
+From the Riguler throne, he awaits<$FFFC>
 [diehardt's name] and companions.<$FFFE>
 This battle is the last chance to stop<$FFFC>
 Altemuller's fall to Bosel.<$FFFC>
@@ -37,7 +37,7 @@ the flame of hope toward the Imperial Capitol.<$FFFE>
  -Defeat of Altemuller<$FFFC>
 *Conditions of Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-Rigüler Royal Castle<$FFFF>
+Riguler Royal Castle<$FFFF>
 ...Hmm?<$FFFE>
 What is the matter lord Bosel?<$FFFE>
 Rag's life force has diminished completely.<$FFFC>
@@ -52,7 +52,7 @@ And I have you by my side too, Varna.<$FFFE>
 Alte...lord Bosel.<$FFFC>
 My devotion to you knows no limit; I will follow you to all ends.<$FFFE>
 Gladly would I give my very life, if it was for you...<$FFFE>
-In front of the Rigüler Castle Walls<$FFFF>
+In front of the Riguler Castle Walls<$FFFF>
 At last, we have made it here.<$FFFE>
 Only possible with Langrisser and everyone together.<$FFFE>
 It seems like an eternity since the floating castle fell.<$FFFE>
@@ -65,7 +65,7 @@ doing nothing while decaying from within; I'm ashamed.<$FFFD>
 You cleared my doubts and gave me new purpose. My sincerest gratitude.<$FFFE>
 When father was in danger, everyone helped save him...<$FFFE>
 That's true.<$FFFE>
-Gurur...Jug..Jügler...<$FFFE>
+Gurur...Jug..Jugler...<$FFFE>
 Damn right, the sole reason for thinking of others as our enemies<$FFFD>
 is that we don't understand each others perspective,<$FFFC>
 don't you think?<$FFFE>

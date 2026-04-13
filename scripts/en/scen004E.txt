@@ -2,7 +2,7 @@ Langrisser III dumper [0x1bd3c to 0x1d55f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -91,7 +91,7 @@ C..coty.....<$FFFE>
 Huhuhu!<$FFFC>
 Kill all you want!<$FFFE>
 Just who is this?<$FFFE>
-He's neither Rigüler nor Barral.<$FFFE>
+He's neither Riguler nor Barral.<$FFFE>
 Whoever he is, his evil must end.<$FFFE>
 I have a bad feeling about this.<$FFFC>
 Let's finish this fast!<$FFFE>

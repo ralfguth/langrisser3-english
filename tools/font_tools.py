@@ -74,25 +74,41 @@ _UC_UI_OFFSETS = {
 }
 
 # ---------------------------------------------------------------------------
-# Custom tile indices (free region 1509-1690)
+# CWX/VD special tile indices (already present in the font, NOT generated)
+# These tiles exist in the CWX font and must NOT be overwritten.
 # ---------------------------------------------------------------------------
 
-I_APOSTROPHE_TILE = 1509
-APOSTROPHE_TILE = 1510
+# Custom tiles at safe positions (overwrite unused kanji, NOT CWX specials)
+APOSTROPHE_TILE = 43         # standalone '  (tile 43 = unused kanji slot)
+I_APOSTROPHE_TILE = 44       # I' bigram     (tile 44 = unused kanji slot)
+ELLIPSIS_TILE = 906          # ··  (dialogue marker, repurpose as ellipsis)
 
-_SPACE_BIGRAM_BASE = 1511
-_UC_HAS_SPACE = {'A', 'C', 'I', 'O'}
-_UC_MISSING_SPACE = [ch for ch in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-                     if ch not in _UC_HAS_SPACE]
+# CWX special bigrams (already in font at these tile indices)
+_CWX_SPECIAL_BIGRAMS = {
+    ("'", 'v'): 1500,
+    ("'", 's'): 1585,
+    ("'", 't'): 1586,
+    ('n', "'"): 1571,
+    ('e', "'"): 1573,
+    ('a', "'"): 1574,
+}
 
-# Allocation (76 tiles, 1511-1586):
-#   1511-1536: space + lowercase a-z  (26)
-#   1537-1562: space + uppercase A-Z  (26)
-#   1563-1584: uppercase + space      (22, missing ones only)
-#   1585:      's bigram
-#   1586:      … ellipsis (full-width)
-APOS_S_TILE = 1585
-ELLIPSIS_TILE = 1586
+# CWX space+digit bigrams
+_CWX_SPACE_DIGIT_BIGRAMS = {
+    (' ', '0'): 1575,
+    (' ', '1'): 1576,
+    (' ', '2'): 1577,
+    (' ', '3'): 1578,
+    (' ', '4'): 1579,
+    (' ', '5'): 1580,
+    (' ', '6'): 1581,
+    (' ', '7'): 1582,
+    (' ', '8'): 1583,
+    (' ', '9'): 1584,
+}
+
+# All CWX pre-existing tile indices — do NOT overwrite these in generate_all_tiles()
+_CWX_PREEXISTING_TILES = set(_CWX_SPECIAL_BIGRAMS.values()) | set(_CWX_SPACE_DIGIT_BIGRAMS.values())
 
 # ---------------------------------------------------------------------------
 # Embedded glyph bitmaps (8px wide, 16 rows, 1 byte/row = 16 bytes each)
@@ -185,6 +201,10 @@ _PERIOD_GLYPH = bytes([
 _APOSTROPHE_GLYPH = bytes([
     0x00, 0x60, 0x60, 0x20, 0x00, 0x00, 0x00, 0x00,
     0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
+])
+_COLON_GLYPH = bytes([
+    0x00, 0x00, 0x00, 0x00, 0x60, 0x60, 0x00, 0x00,
+    0x00, 0x00, 0x00, 0x00, 0x60, 0x60, 0x00, 0x00,
 ])
 
 # Full 32-byte tiles for standalone uppercase (proportional full-width design)
@@ -307,19 +327,12 @@ def build_bigram_tile_map() -> dict:
 
     # Custom bigrams
     m[('I', "'")] = I_APOSTROPHE_TILE
-    m[("'", 's')] = APOS_S_TILE
 
-    # Space bigrams
-    tile_idx = _SPACE_BIGRAM_BASE
-    for ch in 'abcdefghijklmnopqrstuvwxyz':
-        m[(' ', ch)] = tile_idx
-        tile_idx += 1
-    for ch in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
-        m[(' ', ch)] = tile_idx
-        tile_idx += 1
-    for ch in _UC_MISSING_SPACE:
-        m[(ch, ' ')] = tile_idx
-        tile_idx += 1
+    # CWX special bigrams (apostrophe combos — tiles already in font)
+    m.update(_CWX_SPECIAL_BIGRAMS)
+
+    # CWX space+digit bigrams (tiles already in font)
+    m.update(_CWX_SPACE_DIGIT_BIGRAMS)
 
     return m
 
@@ -344,6 +357,8 @@ def generate_all_tiles() -> dict:
 
     # --- Standalone single-char tiles (0-42) ---
     tiles[0] = b'\x00' * 32                                      # space
+    # Tile 1: replace JP『with colon (:)
+    tiles[1] = _compose_tile(_COLON_GLYPH, _BLANK_GLYPH)
     tiles[3] = _compose_tile(_COMMA_GLYPH, _BLANK_GLYPH)         # comma
     tiles[4] = _compose_tile(_PERIOD_GLYPH, _BLANK_GLYPH)        # period
     tiles[5] = _compose_tile(_PUNCT_GLYPHS['?'], _BLANK_GLYPH)   # ?
@@ -357,23 +372,24 @@ def generate_all_tiles() -> dict:
     for i, ch in enumerate('ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
         tiles[17 + i] = _UC_STANDALONE_TILES[ch]
 
-    # --- All bigram tiles ---
-    bigram_map = build_bigram_tile_map()
-    for (left, right), tile_idx in bigram_map.items():
-        if tile_idx in tiles:
-            continue  # already set (custom tiles handled below)
-        tiles[tile_idx] = _compose_tile(_glyph(left), _glyph(right))
-
-    # --- Custom tiles ---
+    # --- Custom tiles (safe kanji slots) ---
     tiles[APOSTROPHE_TILE] = _compose_tile(_APOSTROPHE_GLYPH, _BLANK_GLYPH)
     tiles[I_APOSTROPHE_TILE] = _compose_tile(_LETTER_GLYPHS['I'], _APOSTROPHE_GLYPH)
-    tiles[APOS_S_TILE] = _compose_tile(_APOSTROPHE_GLYPH, _LETTER_GLYPHS['s'])
 
     # Ellipsis (full-width, three 2x2 dots)
     ell = bytearray(32)
     ell[24] = 0x66; ell[25] = 0x60  # row 12
     ell[26] = 0x66; ell[27] = 0x60  # row 13
     tiles[ELLIPSIS_TILE] = bytes(ell)
+
+    # --- All bigram tiles (skip CWX pre-existing) ---
+    bigram_map = build_bigram_tile_map()
+    for (left, right), tile_idx in bigram_map.items():
+        if tile_idx in _CWX_PREEXISTING_TILES:
+            continue  # already correct in CWX/VD font
+        if tile_idx in tiles:
+            continue  # already set above
+        tiles[tile_idx] = _compose_tile(_glyph(left), _glyph(right))
 
     return tiles
 

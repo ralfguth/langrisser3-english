@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -52,7 +52,7 @@ Me, too.<$FFFC>
 Let's head to Larcussia right away!<$FFFD>
 ....Father, Mother, hold on.<$FFFC>
 We're coming to save you now!<$FFFE>
-Rigüler Imperial Castle ~ Kaiser Kleist's Sickroom<$FFFF>
+Riguler Imperial Castle ~ Kaiser Kleist's Sickroom<$FFFF>
 So I'll just head home with the aerial fortress.<$FFFE>
 Oho, Your Majesty, Paul.<$FFFE>
 So formal, General Geier.<$FFFC>

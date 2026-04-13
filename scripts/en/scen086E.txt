@@ -3,7 +3,7 @@ Langrisser III dumper [0x2d98ba to 0x2da1fb]
 Cyber Warrior X
 
 Imperial First Prince Paul<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Healer<$FFFF>
@@ -30,7 +30,7 @@ Say what!?<$FFFE>
 Goaah!<$FFFE>
 Run!<$FFFC>
 Everyone, get out of here!<$FFFE>
-Rigüler Imperial Capitol ~ Main Street<$FFFF>
+Riguler Imperial Capitol ~ Main Street<$FFFF>
 ....His Imperial Majesty....<$FFFE>
 ....I wonder why our country's Kaiser didn't rule for very long?<$FFFE>
 The imperial family member's historically have lived long lives, right......<$FFFE>
@@ -43,7 +43,7 @@ Since his Imperial Highness has passed away, it would be wise to stow unnecessar
 My humble apologies.<$FFFE>
 ....Hmmph.<$FFFE>
 ..........<$FFFE>
-Rigüler Imperial Castle ~ Altemuller's Personal Room<$FFFF>
+Riguler Imperial Castle ~ Altemuller's Personal Room<$FFFF>
 Did you see that?<$FFFC>
 The look on Paul's face during the time of the funeral procession.<$FFFE>
 Yes, sir.<$FFFE>

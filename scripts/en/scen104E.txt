@@ -2,7 +2,7 @@ Langrisser III dumper [0x33f0ae to 0x33f9b3]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -33,7 +33,7 @@ his madness.<$FFFE>
 persuade Freya fails.<$FFFC>
 The same loses her life in<$FFFC>
 the ongoing meaningless battle.<$FFFE>
-At last Diehärte's company arrives<$FFFC>
+At last Dieharte's company arrives<$FFFC>
 in the heart of the Barral Kingdom.<$FFFC>
 Here they expect to find out what the<$FFFC>
 cause for King Wilder's insanity really is.<$FFFE>
@@ -45,7 +45,7 @@ Varna's Grave ~ Near the Velzerian Castle<$FFFF>
 ...Varna.<$FFFC>
 The one responsible for your death paid the ultimate price,<$FFFC>
 as did the murderer of my father.<$FFFD>
-Now the Rigüler Empire and Velzeria are my hands.<$FFFC>
+Now the Riguler Empire and Velzeria are my hands.<$FFFC>
 Even so....<$FFFE>
 This sword seems to grow in power with every further battle.<$FFFE>
 Yes, it was created to be this way to accustom the wielder to its power gradually.<$FFFE>

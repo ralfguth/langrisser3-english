@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -23,7 +23,7 @@ Varna<$FFFF>
 Ferakia<$FFFF>
 Bosel<$FFFF>
 General Bortz<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Velzeria Castle<$FFFF>
 Master Bosel....<$FFFE>
 ....What is it, Ferakia?<$FFFE>

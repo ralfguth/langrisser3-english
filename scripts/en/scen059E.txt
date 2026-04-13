@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -22,7 +22,7 @@ Altemuller<<$FFFF>
 Varna<$FFFF>
 General Varna<$FFFF>
 Field Marshal Altemuller<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Former Royal Castle of Larcussia ~ Currently Imperial Headquarters<$FFFF>
 Your Excellency!<$FFFC>
 It's still dangerous to your health to be very active.<$FFFE>

@@ -22,9 +22,9 @@ from font_tools import (
     _LC_STARTS, _LC_RIGHT_FULL, _LC_UI_OFFSETS,
     _UC_GROUPS, _UC_UI_OFFSETS,
     _LETTER_GLYPHS, _DIGIT_TILES, _PUNCT_GLYPHS,
-    _SPACE_BIGRAM_BASE, _UC_MISSING_SPACE,
+    _CWX_SPECIAL_BIGRAMS, _CWX_SPACE_DIGIT_BIGRAMS, _CWX_PREEXISTING_TILES,
     generate_all_tiles, patch_font_bin,
-    I_APOSTROPHE_TILE, APOSTROPHE_TILE, APOS_S_TILE, ELLIPSIS_TILE,
+    I_APOSTROPHE_TILE, APOSTROPHE_TILE, ELLIPSIS_TILE,
     _compose_tile, _glyph,
 )
 
@@ -91,9 +91,9 @@ class TestBigramTileMap(unittest.TestCase):
         space_count = sum(1 for k in BIGRAM_TILE_MAP if k[0] == ' ')
         apos_count = sum(1 for k in BIGRAM_TILE_MAP if k[0] == "'")
         self.assertEqual(lc_count, 801)
-        self.assertEqual(uc_count, 519 + 22)  # original UC + missing UC+space
-        self.assertEqual(space_count, 52)      # 26 LC + 26 UC
-        self.assertEqual(apos_count, 1)        # 's
+        self.assertEqual(uc_count, 519)        # UC groups only (no custom UC+space)
+        self.assertEqual(space_count, 10)      # CWX space+digit bigrams only
+        self.assertEqual(apos_count, 3)        # 's, 'v, 't from CWX
 
     def test_ui_tiles_not_in_bigram_map(self):
         mapped = set(BIGRAM_TILE_MAP.values())
@@ -117,16 +117,16 @@ class TestBigramTileMap(unittest.TestCase):
     def test_custom_bigrams_exist(self):
         self.assertIn(('I', "'"), BIGRAM_TILE_MAP)
         self.assertEqual(BIGRAM_TILE_MAP[('I', "'")], I_APOSTROPHE_TILE)
-        self.assertIn(("'", 's'), BIGRAM_TILE_MAP)
-        self.assertEqual(BIGRAM_TILE_MAP[("'", 's')], APOS_S_TILE)
 
-    def test_space_bigrams_exist(self):
-        for ch in 'abcdefghijklmnopqrstuvwxyz':
-            self.assertIn((' ', ch), BIGRAM_TILE_MAP, f"(' ','{ch}') missing")
-        for ch in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
-            self.assertIn((' ', ch), BIGRAM_TILE_MAP, f"(' ','{ch}') missing")
-        for ch in _UC_MISSING_SPACE:
-            self.assertIn((ch, ' '), BIGRAM_TILE_MAP, f"('{ch}',' ') missing")
+    def test_cwx_special_bigrams_exist(self):
+        for pair, tile_idx in _CWX_SPECIAL_BIGRAMS.items():
+            self.assertIn(pair, BIGRAM_TILE_MAP, f"CWX bigram {pair} missing")
+            self.assertEqual(BIGRAM_TILE_MAP[pair], tile_idx)
+
+    def test_cwx_space_digit_bigrams_exist(self):
+        for pair, tile_idx in _CWX_SPACE_DIGIT_BIGRAMS.items():
+            self.assertIn(pair, BIGRAM_TILE_MAP, f"CWX space+digit {pair} missing")
+            self.assertEqual(BIGRAM_TILE_MAP[pair], tile_idx)
 
     def test_all_tiles_within_font_range(self):
         max_tile = 1691
@@ -181,10 +181,14 @@ class TestTileGeneration(unittest.TestCase):
             self.assertEqual(len(data), 32,
                              f"Tile {idx} is {len(data)} bytes, expected 32")
 
-    def test_generates_all_bigram_tiles(self):
+    def test_generates_all_bigram_tiles_except_cwx(self):
         for pair, idx in BIGRAM_TILE_MAP.items():
-            self.assertIn(idx, self.tiles,
-                          f"Bigram {pair} tile {idx} not generated")
+            if idx in _CWX_PREEXISTING_TILES:
+                self.assertNotIn(idx, self.tiles,
+                                 f"CWX tile {idx} ({pair}) should NOT be generated")
+            else:
+                self.assertIn(idx, self.tiles,
+                              f"Bigram {pair} tile {idx} not generated")
 
     def test_generates_standalone_tiles(self):
         for idx in [0, 3, 4, 5, 6]:  # space, comma, period, ?, !
@@ -195,8 +199,12 @@ class TestTileGeneration(unittest.TestCase):
             self.assertIn(17 + i, self.tiles)
 
     def test_bigram_tiles_match_glyph_composition(self):
-        """Every bigram tile should equal compose(left_glyph, right_glyph)."""
+        """Every generated bigram tile should equal compose(left_glyph, right_glyph)."""
         for (left, right), idx in BIGRAM_TILE_MAP.items():
+            if idx in _CWX_PREEXISTING_TILES:
+                continue  # CWX tiles not generated, already correct in font
+            if idx not in self.tiles:
+                continue  # custom tiles tested separately
             expected = _compose_tile(_glyph(left), _glyph(right))
             actual = self.tiles[idx]
             self.assertEqual(actual, expected,
@@ -214,6 +222,79 @@ class TestTileGeneration(unittest.TestCase):
                 self.assertGreater(word, 0, f"Ellipsis row {row} is blank")
             else:
                 self.assertEqual(word, 0, f"Ellipsis row {row} should be blank")
+
+    def test_custom_apostrophe_tile(self):
+        """Tile 43: standalone apostrophe (left=apostrophe, right=blank)."""
+        from font_tools import _APOSTROPHE_GLYPH, _BLANK_GLYPH
+        expected = _compose_tile(_APOSTROPHE_GLYPH, _BLANK_GLYPH)
+        self.assertIn(APOSTROPHE_TILE, self.tiles)
+        self.assertEqual(self.tiles[APOSTROPHE_TILE], expected)
+        # Left half should have pixels (apostrophe), right half blank
+        tile = self.tiles[APOSTROPHE_TILE]
+        left_pixels = sum(bin(tile[r*2]).count('1') for r in range(16))
+        right_pixels = sum(bin(tile[r*2+1]).count('1') for r in range(16))
+        self.assertGreater(left_pixels, 0, "Apostrophe left half is blank")
+        self.assertEqual(right_pixels, 0, "Apostrophe right half should be blank")
+
+    def test_custom_i_apostrophe_tile(self):
+        """Tile 44: I' bigram (left=I, right=apostrophe)."""
+        from font_tools import _LETTER_GLYPHS, _APOSTROPHE_GLYPH
+        expected = _compose_tile(_LETTER_GLYPHS['I'], _APOSTROPHE_GLYPH)
+        self.assertIn(I_APOSTROPHE_TILE, self.tiles)
+        self.assertEqual(self.tiles[I_APOSTROPHE_TILE], expected)
+        # Both halves should have pixels
+        tile = self.tiles[I_APOSTROPHE_TILE]
+        left_pixels = sum(bin(tile[r*2]).count('1') for r in range(16))
+        right_pixels = sum(bin(tile[r*2+1]).count('1') for r in range(16))
+        self.assertGreater(left_pixels, 5, "I' left half (I) looks blank")
+        self.assertGreater(right_pixels, 0, "I' right half (') looks blank")
+
+    def test_colon_tile(self):
+        """Tile 1: colon (left=colon glyph, right=blank)."""
+        from font_tools import _COLON_GLYPH, _BLANK_GLYPH
+        expected = _compose_tile(_COLON_GLYPH, _BLANK_GLYPH)
+        self.assertIn(1, self.tiles)
+        self.assertEqual(self.tiles[1], expected)
+
+    def test_comma_tile(self):
+        """Tile 3: comma (left=comma glyph, right=blank)."""
+        from font_tools import _COMMA_GLYPH, _BLANK_GLYPH
+        expected = _compose_tile(_COMMA_GLYPH, _BLANK_GLYPH)
+        self.assertEqual(self.tiles[3], expected)
+
+    def test_period_tile(self):
+        """Tile 4: period (left=period glyph, right=blank)."""
+        from font_tools import _PERIOD_GLYPH, _BLANK_GLYPH
+        expected = _compose_tile(_PERIOD_GLYPH, _BLANK_GLYPH)
+        self.assertEqual(self.tiles[4], expected)
+
+    def test_digit_tiles_are_full_width(self):
+        """Tiles 7-16: digits use full 32-byte tiles from _DIGIT_TILES."""
+        from font_tools import _DIGIT_TILES
+        for d in '0123456789':
+            idx = 7 + int(d)
+            self.assertEqual(self.tiles[idx], _DIGIT_TILES[d],
+                             f"Digit '{d}' tile doesn't match _DIGIT_TILES")
+
+    def test_uppercase_standalone_tiles(self):
+        """Tiles 17-42: uppercase A-Z use full-width proportional tiles."""
+        from font_tools import _UC_STANDALONE_TILES
+        for i, ch in enumerate('ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
+            idx = 17 + i
+            self.assertEqual(self.tiles[idx], _UC_STANDALONE_TILES[ch],
+                             f"Uppercase '{ch}' at tile {idx} doesn't match")
+
+    def test_cwx_tiles_not_overwritten(self):
+        """CWX pre-existing tiles (1500-1586) must NOT be in generated tiles."""
+        for tile_idx in _CWX_PREEXISTING_TILES:
+            self.assertNotIn(tile_idx, self.tiles,
+                             f"CWX tile {tile_idx} should not be generated")
+
+    def test_no_tiles_in_cwx_special_range(self):
+        """No generated tiles should fall in the CWX special range 1500-1620."""
+        for idx in self.tiles:
+            self.assertFalse(1500 <= idx <= 1620,
+                             f"Tile {idx} is in CWX special range 1500-1620")
 
     def test_max_tile_index_within_font(self):
         max_idx = max(self.tiles.keys())

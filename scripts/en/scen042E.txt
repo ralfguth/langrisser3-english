@@ -2,7 +2,7 @@ Langrisser III dumper [0x1c0314 to 0x1c13bb]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -25,14 +25,14 @@ General Varna<$FFFF>
 Field Marshal Altemuller<$FFFF>
 Duke William<$FFFF>
 Duke William<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Layla<$FFFF>
 Larcuss Commander<$FFFF>
  <$FFFC>
 Scenario ~ 01<$FFFC>
 "Assault on the Floating Castle"<$FFFE>
 Since ancient times the Kingdom of Larcuss prospered,<$FFFC>
-resisting the ambitious Rigüler Empire to the north<$FFFC>
+resisting the ambitious Riguler Empire to the north<$FFFC>
 while allying with Barral to the south.<$FFFC>
 A floating fortress above its capital Larcussia<$FFFC>
 kept peace throughout the lands.<$FFFE>
@@ -135,7 +135,7 @@ Congratulations Gerold.<$FFFC>
 Congratulations Miss Layla.<$FFFE>
 Thank you, [diehardt's name].<$FFFE>
 Th..the enemy!<$FFFC>
-Flying troops of the Rigüler Empire are attacking us! <$FFFE>
+Flying troops of the Riguler Empire are attacking us! <$FFFE>
 !!<$FFFC>
 How many are there and where did they appear?<$FFFE>
 Three units and two commanders, approaching from the west.<$FFFE>

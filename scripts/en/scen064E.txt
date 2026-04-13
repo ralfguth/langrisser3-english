@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -27,7 +27,7 @@ General Geier<$FFFF>
 Adjutant Gates<$FFFF>
 Colcia Commander<$FFFF>
 Field Marshal Altemuller<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Ruud<$FFFF>
 Barral Commander<$FFFF>
 <$FFFC>
@@ -68,7 +68,7 @@ Eh, why!?<$FFFC>
 Why aren't they attacking!?<$FFFE>
 We ruled the battlefield only up until the point that fiend came....<$FFFD>
 So this is the power of the Dark Knight!<$FFFE>
-Border between Colcia and the Rigüler Empire<$FFFF>
+Border between Colcia and the Riguler Empire<$FFFF>
 The Empire currently has their hands full fighting both Barral and the remnants of Larcuss.<$FFFD>
 For now the Empire can't retaliate with their full strength!!<$FFFD>
 Let's go!<$FFFE>

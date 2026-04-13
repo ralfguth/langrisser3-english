@@ -2,7 +2,7 @@ Langrisser III dumper [0x40548 to 0x42027]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,18 +14,18 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
 General Varna<$FFFF>
 Dark Knight<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Barral General<$FFFF>
 Gilbert<$FFFF>
 Barral Commander<$FFFF>
@@ -33,8 +33,8 @@ Barral Commander<$FFFF>
 -Retreat all allies across the bridge<$FFFC>
  after provoking Imperial and Barral into fighting<$FFFE>
 -Death of [diehardt's name]<$FFFE>
-Near the border between Barral and the Rigüler Empire<$FFFF>
-We'll attack both Barral and Rigüler troops at once.<$FFFE>
+Near the border between Barral and the Riguler Empire<$FFFF>
+We'll attack both Barral and Riguler troops at once.<$FFFE>
 Our goal is to lure both armies into fighting each other.<$FFFE>
 Don't linger; we'll be in trouble when their main forces arrive.<$FFFE>
 A quick, decisive strike.<$FFFE>
@@ -246,7 +246,7 @@ Now where are those Barral cowards!?<$FFFE>
 We'll hit those bumpkins so hard they won't know what happened!<$FFFE>
 The enemy is approaching from the other side!<$FFFE>
 The enemy is approaching from the other side!<$FFFE>
-The Rigüler Empire has commenced an invasion!<$FFFE>
+The Riguler Empire has commenced an invasion!<$FFFE>
 This is getting serious, Sir [diehardt's name].<$FFFC>
 Imperial reinforcements have arrived.<$FFFD>
 We stand no chance with our current troops.<$FFFC>
@@ -281,6 +281,6 @@ Time to put you arrogant Barral braggarts in your place!<$FFFE>
 You damn imperials!<$FFFC>
 Time for a ride!<$FFFE>
 Our strategy was a success of sorts.<$FFFC>
-We sparked a war between Rigüler and Barral.<$FFFD>
+We sparked a war between Riguler and Barral.<$FFFD>
 And broke their front lines thoroughly — didn't think that was possible.<$FFFD>
 But now let's get the hell out of here!<$FFFE>

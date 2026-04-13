@@ -2,7 +2,7 @@ Langrisser III dumper [0x33b0b0 to 0x33becb]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -53,7 +53,7 @@ What do you think you're doing, Freya?<$FFFE>
 I no longer can hope for forgiveness.<$FFFE>
 ...When the sun sets at this lake...remember me...<$FFFE>
 Flaaaaaaireeee!<$FFFE>
-Rigüler Royal Castle ~ In front of Kaiser Paul's Chamber<$FFFF>
+Riguler Royal Castle ~ In front of Kaiser Paul's Chamber<$FFFF>
 ...At last I've cornered you, Paul, Geier!<$FFFE>
 Lord Altemuller.<$FFFC>
 Must you act so forcefully?<$FFFE>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x305b54 to 0x306b54]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>

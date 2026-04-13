@@ -2,7 +2,7 @@ Langrisser III dumper [0x127482 to 0x128837]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -26,7 +26,7 @@ Necromancer<$FFFF>
 Monster<$FFFF>
 Velzerian Commander<$FFFF>
 -Defeat Grove<$FFFE>
--Death of Diehärte<$FFFE>
+-Death of Dieharte<$FFFE>
 Velzeria Castle ~ Before the Castle Gates<$FFFF>
 So this is the Velzerian Castle, huh?<$FFFE>
 I assume so.<$FFFC>
@@ -68,7 +68,7 @@ I'm glad you like it, considering this such a simple task for my humble self to 
 Enjoy your miserable life, for it won't last any longer, Grove!<$FFFE>
 Dammit!<$FFFC>
 We have been surrounded once again!<$FFFE>
-Umm, Sir Diehärte.<$FFFD>
+Umm, Sir Dieharte.<$FFFD>
 Since they have been resurrected, I think it would be best using Holy and Fire magic against them.<$FFFE>
 ...<$FFFD>
 Yeah, you've got a point there.$FFFC>
@@ -115,7 +115,7 @@ Gilbert...<$FFFE>
 Everyone...<$FFFC>
 I'm soo tired...<$FFFE>
 Oh...<$FFFE>
-Sir Diehärte...<$FFFE>
+Sir Dieharte...<$FFFE>
 Oh, Lushiris..help your poor children...<$FFFE>
 Sophia...<$FFFE>
 Father please don't overexert yourself.<$FFFE>
@@ -134,15 +134,15 @@ Hihihihi!<$FFFE>
 Ughh...those...Ignoramus...<$FFFC>
 No human could....command such power...<$FFFE>
 It's gotta be....that sword...<$FFFC>
-Master Bösaaarrgghh...<$FFFE>
+Master Boseeellgghh...<$FFFE>
 Coty...<$FFFC>
 Your tormentor is no more.<$FFFE>
 You can sleep peacefully now and dream the endless dream.<$FFFE>
 It seems that all other demons have disappeared as well.<$FFFE>
 Has anyone else noticed just how powerful we've become?<$FFFE>
 With that all of the Velzerian Generals have been defeated by our own hands...<$FFFE>
-This battle went only well because of your prudent commanding, Sir Diehärte.<$FFFE>
-Sir Diehärte...<$FFFC>
+This battle went only well because of your prudent commanding, Sir Dieharte.<$FFFE>
+Sir Dieharte...<$FFFC>
 Please concentrate on the ongoing battle....<$FFFD>
 If we waste to much time the enemy can only benefit from it....<$FFFE>
 KISYAAAH!<$FFFE>

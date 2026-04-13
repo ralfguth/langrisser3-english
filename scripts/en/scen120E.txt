@@ -2,7 +2,7 @@ Langrisser III dumper [0x3800e6 to 0x38035f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -25,7 +25,7 @@ Scenario - ?4<$FFFC>
 "The Mightiest Foe"<$FFFE>
 Altemuller has been saved<$FFFC>
 and Alhazard has been sealed again.<$FFFE>
-Following those events, Altemuller invites Diehärte to an unimaginable-tough challenge.<$FFFE>
+Following those events, Altemuller invites Dieharte to an unimaginable-tough challenge.<$FFFE>
 One that should make everything that came before look like mere child's play.<$FFFE>
 And thus a battle that should push the whole division to its limit erupted....<$FFFE>
 Conditions of Victory<$FFFC>

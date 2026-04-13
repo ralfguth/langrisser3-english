@@ -2,7 +2,7 @@ Langrisser III dumper [0x326cae to 0x32718f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -27,7 +27,7 @@ Scenario ~ 30<$FFFC>
 "Behind the Mask"<$FFFE>
 Although Bosel was defeated successfully, the sealing of Alhazard was not completed.<$FFFC>
 At Varna's death, Altemuller takes away Alhazard in a rage of fury<$FFFC>
-to exact his revenge on the Rigüler Empire.<$FFFC>
+to exact his revenge on the Riguler Empire.<$FFFC>
 As the chase after Altemuller is about to commence,<$FFFE>
 a report of an attack from the Barral Kingdom comes in.<$FFFE>
 Being startled by the unfolding events, [diehardt's name] decides that protecting the citizens of Neref is a more urgent matter at hand.<$FFFE>
@@ -36,7 +36,7 @@ Being startled by the unfolding events, [diehardt's name] decides that protectin
 *Conditions of Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Destruction of the Floodgate<$FFFE>
-Rigüler Castle ~ Audience Hall<$FFFF>
+Riguler Castle ~ Audience Hall<$FFFF>
 How!<$FFFC>
 Can this really be true!?<$FFFE>
 It is.<$FFFC>

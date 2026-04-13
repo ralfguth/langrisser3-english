@@ -2,7 +2,7 @@ Langrisser III dumper [0xe5b46 to 0xe723f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -62,7 +62,7 @@ We have to aid those villagers fast or they'll be doomed.<$FFFC>
 Hurry!<$FFFE>
 We have to aid those villagers fast or they'll be doomed.<$FFFC>
 We have to speed up our advance!<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 If we do nothing, the villagers will be murdered.<$FFFC>
 What to do...<$FFFE>
 What do you reply?<$FFFE>
@@ -73,7 +73,7 @@ Of course we will try to protect them.<$FFFE>
 Right.<$FFFE>
 They mustn't be left to die.<$FFFC>
 I just don't know how to...<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 As our commander you should be the last to let go hope.<$FFFE>
 They'll be fine.<$FFFC>
 If we to put our hearts into this it'll work out.<$FFFE>
@@ -219,11 +219,11 @@ It is my greatest pleasure in life.<$FFFE>
 No!<$FFFE>
 Aaahh...<$FFFC>
 How could this happen!?<$FFFE>
-Sir Diehärte!<$FFFC>
+Sir Dieharte!<$FFFC>
 The villagers...<$FFFE>
 Blasted!<$FFFC>
 We couldn't save them...<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 The villagers are safe now.<$FFFE>
 Good.<$FFFC>
 I'm glad we made it in time.<$FFFE>

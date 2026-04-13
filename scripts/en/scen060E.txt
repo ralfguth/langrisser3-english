@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ General in charge<$FFFF>
 Dark Knight<$FFFF>
 Ruud<$FFFF>
 Barral Commander<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Adjutant Gates<$FFFF>
 General Geier<$FFFF>
 <$FFFC>
@@ -87,7 +87,7 @@ You should be thankful to be of use.<$FFFE>
 Now get some oil and ropes over here this instant!<$FFFE>
 ....Those eyes.<$FFFE>
 At times like this I do miss General Dios sorely....<$FFFE>
-Deck of the Rigüler Airship<$FFFF>
+Deck of the Riguler Airship<$FFFF>
 Adjutant!<$FFFD>
 He has come!<$FFFC>
 The Dark Knight has taken command over the enemy's forces!<$FFFE>

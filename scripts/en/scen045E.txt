@@ -13,7 +13,7 @@ Silver Wolf<$FFFF>
 Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Gerold<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
@@ -88,7 +88,7 @@ Hmm?<$FFFC>
 Tell me how you became one...<$FFFE>
 Yes, in the floating castle above Larcussia, where Duke William reigned, I finished my training.<$FFFE>
 I'm glad you escaped the castle's fall.<$FFFD>
-Do you have any report on the Rigüler Empire's invasion?<$FFFE>
+Do you have any report on the Riguler Empire's invasion?<$FFFE>
 Yessir, we saw the invasion with our own eyes.<$FFFC>
 Imperial Field Marshal Altemuller led the assault himself.<$FFFD>
 Despite fighting bravely, Duke William fell in the attack.<$FFFE>

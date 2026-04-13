@@ -2,7 +2,7 @@ Langrisser III dumper [0x14e900 to 0x150253]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -139,14 +139,14 @@ What!?<$FFFC>
 This can't be...<$FFFE>
 What excessiveness.<$FFFC>
 Not now...<$FFFE>
-Farewell, Diehärte...<$FFFC>
+Farewell, Dieharte...<$FFFC>
 I'm so tired....<$FFFE>
 I'm going to rest...just a little bit...<$FFFE>
 ...I'm done....<$FFFE>
 Tough luck...<$FFFC>
 How's that possible....<$FFFE>
 Grrr....<$FFFE>
-I'm sorry, Diehärte...<$FFFC>
+I'm sorry, Dieharte...<$FFFC>
 We were so close to our goal...<$FFFE>
 Grrr!<$FFFC>
 Don't throw your life away...<$FFFD>
@@ -198,7 +198,7 @@ It hadn't have to come to this...<$FFFE>
 There's always a better way...<$FFFE>
 The Elthlead troops are advancing!<$FFFE>
 Princess.<$FFFC>
-Diehärte, you have come all this way for naught!<$FFFE>
+Dieharte, you have come all this way for naught!<$FFFE>
 Dios you damn traitor...<$FFFC>
 Have you come back to murder my father!?<$FFFE>
 Tch!<$FFFC>

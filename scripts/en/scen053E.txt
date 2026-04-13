@@ -2,7 +2,7 @@ Langrisser III dumper [0x200236 to 0x200acb]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ Dark Knight<$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Barral Commander<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Viscount Raymond<$FFFF>
 Jessica<$FFFF>
 Layla<$FFFF>
@@ -60,7 +60,7 @@ Are you the great sorceress, the Lady Jessica?<$FFFE>
 Yes, I am Jessica.<$FFFC>
 I don't know about the "great sorceress" part.<$FFFE>
 Anyhow, what purpose draws you to this place?<$FFFE>
-We are fighting against the Rigüler Empire and Barral, in order to restore the Kingdom of Larcuss.<$FFFD>
+We are fighting against the Riguler Empire and Barral, in order to restore the Kingdom of Larcuss.<$FFFD>
 We've come to ask you to lend your power to our cause, Lady Jessica.<$FFFE>
 Your two enemy countries are both quite strong.<$FFFB>
 <$FFFC>

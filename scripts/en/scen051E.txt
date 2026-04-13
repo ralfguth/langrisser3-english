@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -55,7 +55,7 @@ I trained Luna in tactics myself.<$FFFD>
 She won't lose to any general.<$FFFE>
 Thank you, Lord Baron.<$FFFE>
 Before you go, hear my counsel.<$FFFD>
-Rigüler holds the center; Colcia and Barral are invading.<$FFFD>
+Riguler holds the center; Colcia and Barral are invading.<$FFFD>
 Let our foes fight each other while we preserve our strength.<$FFFE>
 Trick our enemies into fighting each other?<$FFFE>
 Indeed.<$FFFD>

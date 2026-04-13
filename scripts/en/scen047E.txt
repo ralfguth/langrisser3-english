@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -25,7 +25,7 @@ Viscount Raymond<$FFFF>
 General Bortz<$FFFF>
 General Emerick<$FFFF>
 Field Marshal Altemuller<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Geier<$FFFF>
 General Varna<$FFFF>
 Adjutant Gates<$FFFF>

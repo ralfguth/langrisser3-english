@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -23,7 +23,7 @@ Varna<$FFFF>
 Fauvel<$FFFF>
 Larcuss Commander<$FFFF>
 General Varna<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Bortz<$FFFF>
 Colcia Commander<$FFFF>
 Field Marshal Altemuller<$FFFF>
@@ -77,7 +77,7 @@ Varna, look after my men a bit longer. I'm.....incredibly.....worn out.<$FFFE>
 You can count on me.<$FFFE>
 Phew......<$FFFE>
 Z<$fe><$1e>Z<$fe><$f>Z<$fe><$f>Z<$fe><$f>..<$fe><$f>..<$FFFE>
-National Border Between Colcia and the Rigüler Empire<$FFFF>
+National Border Between Colcia and the Riguler Empire<$FFFF>
 T..too powerful.....<$FFFC>
 ..<$fe><$19>..<$fe><$14>..<$fe><$f>..<$fe><$f>Guhaa!<$FFFE>
 Hmm, hardly a challenge.<$FFFE>

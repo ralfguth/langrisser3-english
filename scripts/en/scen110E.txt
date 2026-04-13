@@ -2,7 +2,7 @@ Langrisser III dumper [0x367070 to 0x3681f3]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -86,7 +86,7 @@ I leave it in your hands Demon General Geier!<$FFFE>
 Elthlead Royal Castle<$FFFF>
 Well, everyone.<$FFFC>
 Let us enjoy ourselves tonight.<$FFFE>
-The Rigüler Empire,<$FFFC>
+The Riguler Empire,<$FFFC>
 the Barral Kingdom,<$FFFC>
 and the Kingdom of Elthlead have been restored; let us raise our glasses in celebration, cheers!<$FFFE>
 Yahuu!<$FFFC>

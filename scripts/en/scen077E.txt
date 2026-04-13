@@ -14,14 +14,14 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 General Bortz<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Thief<$FFFF>
 Verdant Plains Distant from the Battlefield<$FFFF>
 ....Looks like we lost our pursuers.<$FFFE>

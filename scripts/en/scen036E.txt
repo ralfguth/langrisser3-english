@@ -2,7 +2,7 @@ Langrisser III dumper [0x189bfa to 0x18b29f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -129,7 +129,7 @@ It is painful to have the one you love most being threatened.<$FFFC>
 You mustn't give up on her...<$FFFE>
 UUuu...,<$FFFC>
 Just a little longer...<$FFFE>
-Diehärte.....,<$FFFC>
+Dieharte.....,<$FFFC>
 we have to hurry and safe her...<$FFFE>
 She is in mortal danger....<$FFFE>
 We have to rescue her and thwart the revival of Chaos...<$FFFD>
@@ -140,17 +140,17 @@ The power of the demon kind has grown excessively...<$FFFE>
 I'm afraid...I can't help you to rescue her....<$FFFE>
 Damn...this!<$FFFC>
 There's still so much to fight for!<$FFFC>
-Diehärte!<$FFFE>
+Dieharte!<$FFFE>
 Don't ever abandon the ones you love...<$FFFC>
 You must carry on in my stead....<$FFFE>
 Chaos mustn't be allowed to soil this world...<$FFFE>
-Never let them go....Diehärte....<$FFFE>
+Never let them go....Dieharte....<$FFFE>
 Cripes.<$FFFC>
 To be able to fight Altemuller openly is such an uplifting sensation.<$FFFE>
 I just wonder if Paul has completed the preparations by now....<$FFFE>
 Anyway, playtime is over.<$FFFC>
 From now this is serious!<$FFFE>
-Forgive me, Diehärte...<$FFFC>
+Forgive me, Dieharte...<$FFFC>
 I wasn't able to repay my debt...<$FFFE>
 Hohoho!<$FFFC>
 How delicious!<$FFFC>

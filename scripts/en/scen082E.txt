@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -25,7 +25,7 @@ Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Supplyline Defense Commander<$FFFF>
 General Geier<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 <$FFFC>
 Scenario ~ 21<$FFFC>
 "The Magnificent Capitol, Larcussia"<$FFFE>
@@ -57,7 +57,7 @@ Until Geier returns with the aerial fortress, no reinforcements.<$FFFC>
 Delay their attack as much as you can!<$FFFE>
 Sir!<$FFFC>
 It shall be as you command.<$FFFE>
-Rigüler Empire ~ Supply Base<$FFFF>
+Riguler Empire ~ Supply Base<$FFFF>
 W..why......we.....<$FFFE>
 Hmmph.<$FFFC>
 Show no mercy.<$FFFE>

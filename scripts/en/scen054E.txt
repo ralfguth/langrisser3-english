@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -26,7 +26,7 @@ Layla<$FFFF>
 Scenario ~ 07<$FFFC>
 "Mountain Pass Reunion"<$FFFE>
 The strategy succeeded, inflaming hostilities between the<$FFFC>
-armies of the Rigüler Empire and Barral Kingdom,<$FFFC>
+armies of the Riguler Empire and Barral Kingdom,<$FFFC>
 which as hoped bought the party enough time to slip by the boarder.<$FFFE>
 [diehardt's name] and company had begun to move to Lushiris Gate,<$FFFC>
 their first destination, passing through the Railym Mountains.<$FFFE>

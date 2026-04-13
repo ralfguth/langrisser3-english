@@ -2,7 +2,7 @@ Langrisser III dumper [0x7b726 to 0x7cecb]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,14 +14,14 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler Commander<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Emerick<$FFFF>
 -Defeat all enemies within 14 turns<$FFFE>
 -Death of [diehardt's name]<$FFFC>
@@ -168,7 +168,7 @@ Father, hold on!<$FFFE>
 Just hold out!<$FFFC>
 We're on our way!<$FFFE>
 -Defeat all enemies<$FFFE>
--Death of Diehärte [diehardt's name]<$FFFC>
+-Death of Dieharte [diehardt's name]<$FFFC>
 -Death of Fauvel<$FFFE>
 Tsk, they disrupt our plans!?<$FFFE>
 Hahaha...!<$FFFC>
@@ -246,7 +246,7 @@ You are in command for now.<$FFFE>
 Leave everything to us!<$FFFE>
 Found you, [diehardt's name]!<$FFFE>
 Not you again, Emerick!<$FFFE>
-I'll demonstrate the Rigüler cavalry's power!<$FFFE>
+I'll demonstrate the Riguler cavalry's power!<$FFFE>
 Sorry we're late, General Emerick.<$FFFE>
 Don't worry about it.<$FFFC>
 Attack the enemy from behind.<$FFFC>

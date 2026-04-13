@@ -2,7 +2,7 @@ Langrisser III dumper [0x8d2be to 0x8f35b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -23,7 +23,7 @@ Varna<$FFFF>
 Barral Soldier<$FFFF>
 Princess Freya<$FFFF>
 Barral Commander<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 -Defeat Freya<$FFFE>
 -Death of [diehardt's name]<$FFFC>
 -Death of Dios<$FFFE>
@@ -121,7 +121,7 @@ Be my guest, but be careful.<$FFFD>
 Unlike Larcussia that relied on the Demonic Cannon, Barral troops trained hard.<$FFFE>
 I know.<$FFFC>
 I once was close to the royal family...Freya...<$FFFE>
-Stop interfering, Diehärte.<$FFFC>
+Stop interfering, Dieharte.<$FFFC>
 We're only here to arrest the traitor Dios.<$FFFD>
 Hand him over!<$FFFE>
 What do you reply?<$FFFE>
@@ -196,7 +196,7 @@ Craaap!<$FFFC>
 To fall like this...<$FFFE>
 My power was not enough...<$FFFE>
 Damn my luck...<$FFFC>
-Forgive me, Sir Diehärte...<$FFFE>
+Forgive me, Sir Dieharte...<$FFFE>
 Well...<$FFFC>
 May Lushiris watch over you...<$FFFE>
 I liked you better before you let me die...<$FFFE>
@@ -222,14 +222,14 @@ Not enough troops left to win...<$FFFC>
 Everyone, retreat...<$FFFE>
 ..If that's your wish.<$FFFC>
 Understood.<$FFFE>
-Diehärte!<$FFFC>
+Dieharte!<$FFFC>
 One day I'll return this favor!<$FFFE>
 Keh...<$FFFC>
 One day I'll return this favor!<$FFFE>
 ...Freya...<$FFFE>
-Sir Diehärte, commendable work.<$FFFC>
+Sir Dieharte, commendable work.<$FFFC>
 We should hurry ahead.<$FFFE>
-Sir Diehärte...<$FFFC>
+Sir Dieharte...<$FFFC>
 Your command was ridiculous.<$FFFD>
 I'm ashamed to serve you...<$FFFE>
 So, where are you heading?<$FFFE>
@@ -288,7 +288,7 @@ You'll have to do better than this!<$FFFC>
 I won't be swayed so easily!<$FFFE>
 If that's what you want.<$FFFC>
 You'd better brace yourself!<$FFFE>
-You should not take me lightly Diehärte!<$FFFE>
+You should not take me lightly Dieharte!<$FFFE>
 Wait.<$FFFC>
 I don't want to fight you Freya.<$FFFD>
 And I don't understand why we have to do battle!<$FFFC>
@@ -306,7 +306,7 @@ As expected,<$FFFD>
 I simply follow my father's orders.<$FFFE>
 Princess!<$FFFD>
 Our troops stationed on the island have been wiped out!<$FFFE>
-...As I expected of you Diehärte.<$FFFB>
+...As I expected of you Dieharte.<$FFFB>
 <$FFFC>
 If only we wouldn't have to be enemies...<$FFFE>
 Prin..cess?<$FFFE>

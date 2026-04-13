@@ -2,7 +2,7 @@ Langrisser III dumper [0x1438e8 to 0x14603b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -114,7 +114,7 @@ Yessir!<$FFFE>
 That can't be...<$FFFE>
 ....<$FFFC>
 I wonder, is this truly the righteous way to life...<$FFFE>
-Diehärte...<$FFFE>
+Dieharte...<$FFFE>
 What is it, Dios?<$FFFE>
 I'm concerned for my former subordinate Ruud.<$FFFC>
 Are you worried about going to battle with him?<$FFFE>
@@ -221,7 +221,7 @@ Be respectful to your elders...<$FFFE>
 GURRRRR...<$FFFE>
 Dammit!<$FFFC>
 That Dark Knight guy..is...<$FFFE>
-Diehärte, you have to bring down the Dark Knight...<$FFFE>
+Dieharte, you have to bring down the Dark Knight...<$FFFE>
 You are the only one who can stop him now!<$FFFE>
 I'm sorry, I can't...<$FFFE>
 Mistake!<$FFFC>

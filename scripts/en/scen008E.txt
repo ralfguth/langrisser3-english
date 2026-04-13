@@ -2,7 +2,7 @@ Langrisser III dumper [0x49080 to 0x4a5a5]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -82,9 +82,9 @@ Eeehh!?<$FFFC>
 She's your childhood friend, [diehardt's name]?<$FFFE>
 Princess Freya!<$FFFE>
 Who calls me!?<$FFFE>
-It's me, Diehärte!<$FFFC>
+It's me, Dieharte!<$FFFC>
 You haven't forgotten me, right?<$FFFE>
-Diehärte...?<$FFFC>
+Dieharte...?<$FFFC>
 ...I know no one by that name!<$FFFE>
 Freya!?<$FFFE>
 For an enemy, I have no memory!<$FFFD>
@@ -115,8 +115,8 @@ I..I will..<$FFFE>
 ...You're right.<$FFFC>
 Splitting our troops on all gates would be wasteful.<$FFFE>
 Yes.<$FFFE>
-Freya, it's me, Diehärte!<$FFFE>
-...It's been a long time, Diehärte.<$FFFE>
+Freya, it's me, Dieharte!<$FFFE>
+...It's been a long time, Dieharte.<$FFFE>
 A knight by now?<$FFFE>
 Yeah.<$FFFE>
 Yeah.<$FFFC>

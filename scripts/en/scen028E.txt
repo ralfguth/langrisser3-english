@@ -2,7 +2,7 @@ Langrisser III dumper [0x11a9d6 to 0x11bce3]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ Shapeshiftress Ferakia<$FFFF>
 Monster<$FFFF>
 Velzerian Commander<$FFFF>
 -Defeat Ferakia<$FFFE>
--Death of Diehärte<$FFFE>
+-Death of Dieharte<$FFFE>
 Plains of Luon ~ Marshlands<$FFFF>
 Perfect for an ambush. I smell carnage.<$FFFE>
 ...But waiting is so unnerving.<$FFFC>
@@ -67,13 +67,13 @@ If you want to end your misery, come at me!<$FFFC>
 This time I won't let you off so easily!<$FFFE>
 Why did it have to end like this...<$FFFE>
 I'm sorry....<$FFFC>
-Sir Diehärte...<$FFFE>
+Sir Dieharte...<$FFFE>
 Father...<$FFFE>
 Coty....<$FFFE>
 Farewell everyone...<$FFFC>
 I'm so tired...<$FFFE>
 Aaah...<$FFFE>
-Sir Diehärte....<$FFFE>
+Sir Dieharte....<$FFFE>
 That light...is so...warm...<$FFFE>
 Sophia...<$FFFE>
 Grrr...<$FFFE>
@@ -90,8 +90,8 @@ Forgive me Lord Bosel...I failed...<$FFFC>
 My lord....your murder is avenged...<$FFFE>
 My lord....your murder is avenged...<$FFFE>
 ...<$FFFE>
-Well done, Sir Diehärte. An important victory today.<$FFFE>
-Sir Diehärte....<$FFFC>
+Well done, Sir Dieharte. An important victory today.<$FFFE>
+Sir Dieharte....<$FFFC>
 That was difficult...<$FFFD>
 So this time I'll let it slide...<$FFFE>
 Hmm, a strange doll flew by...<$FFFC>
@@ -188,7 +188,7 @@ The doll fills you with unease...<$FFFC>
 Frustrated, you throw it away!<$FFFE>
 The doll's face turns to you!<$FFFD>
 It dances in mid-air, laughing eerily, and speaks:<$FFFE>
-Come Diehärte, there's a place you must see!<$FFFD>
+Come Dieharte, there's a place you must see!<$FFFD>
 What's going on now?<$FFFE>
 Umm...<$FFFC>
 Was it not you who gathered my body?<$FFFE>

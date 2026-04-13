@@ -2,7 +2,7 @@ Langrisser III dumper [0x1c8516 to 0x1c8e73]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -17,7 +17,7 @@ Dios<$FFFF>
 Gerold<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 High Priest<$FFFF>

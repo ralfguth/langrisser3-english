@@ -2,7 +2,7 @@ Langrisser III dumper [0x2a4d28 to 0x2a53fb]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -22,7 +22,7 @@ Altemuller<$FFFF>
 Varna<$FFFF>
 General Geier<$FFFF>
 Field Marshal Altemuller<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Emerick<$FFFF>
 General Varna<$FFFF>
 The Captured Airship<$FFFF>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x276bd4 to 0x277067]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -36,7 +36,7 @@ history is certain to be made......<$FFFE>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Loss of the Haja no Ken<$FFFE>
-Rigüler Castle ~ Paul's Personal Quarters<$FFFF>
+Riguler Castle ~ Paul's Personal Quarters<$FFFF>
 Hohoho!<$FFFC>
 So that ever-victorious, undefeated Altemuller is hard-pressed in battle!<$FFFC>
 My heart pounds in ecstasy!<$FFFE>

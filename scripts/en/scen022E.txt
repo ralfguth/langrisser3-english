@@ -2,7 +2,7 @@ Langrisser III dumper [0xca2d4 to 0xcb33b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,16 +14,16 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 General Emerick<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 -Defeat all enemies<$FFFE>
-Death of Diehärte<$FFFE>
+Death of Dieharte<$FFFE>
 Ruins of the Larcussian Castle<$FFFF>
 Listen up!<$FFFD>
 The aerial fortress hasn't arrived yet.<$FFFC>
@@ -66,7 +66,7 @@ Archers and Mages cover their advance!<$FFFE>
 Leave it to us.<$FFFE>
 Move out!<$FFFC>
 Charge at them all at once!<$FFFE>
-Diehärte.<$FFFC>
+Dieharte.<$FFFC>
 Is it true that you killed Bortz?<$FFFE>
 What do you reply?<$FFFE>
 He died an honorable death<$FFFE>
@@ -112,7 +112,7 @@ Guargh!<$FFFC>
 You'll go no further!<$FFFE>
 Kuh, so that's it...<$FFFD>
 This should've given the fortress enough time to arrive...<$FFFD>
-Farewell, Diehärte!<$FFFC>
+Farewell, Dieharte!<$FFFC>
 This is the last time you'll claim victory over me!<$FFFE>
 Blasted...I underestimated you...<$FFFE>
 General Emerick.<$FFFC>
@@ -138,7 +138,7 @@ Forgive me...general...Email..link...<$FFFE>
 Kuh!<$FFFE>
 This shouldn't be possible...<$FFFD>
 Guhuu!<$FFFE>
-Glory for the Rigüler Empire!<$FFFE>
+Glory for the Riguler Empire!<$FFFE>
 Not like this!<$FFFE>
 Why had it come to this...<$FFFE>
 You can kill my body, but my ideals live on!<$FFFE>
@@ -155,12 +155,12 @@ Could one man beat an army if truly determined...<$FFFD>
 ...Hmph.<$FFFC>
 I almost expected this.<$FFFD>
 Even so, Geier must take responsibility!<$FFFE>
-The game is on, Diehärte!<$FFFC>
+The game is on, Dieharte!<$FFFC>
 This time you won't be lucky!<$FFFE>
 This battle is won...<$FFFE>
-You have yet to fail us, Diehärte.<$FFFE>
+You have yet to fail us, Dieharte.<$FFFE>
 Well then, it is time to retake the castle.<$FFFE>
-Sir Diehärte...<$FFFC>
+Sir Dieharte...<$FFFC>
 That was slow, we might be in trouble<$FFFD>
 because you slacked off...<$FFFE>
 Understood.<$FFFC>

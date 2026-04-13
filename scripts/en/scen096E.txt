@@ -2,7 +2,7 @@ Langrisser III dumper [0x30b334 to 0x30b77b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,14 +14,14 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 Kaiser Paul<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 <$FFFC>
 Scenario ~ 28<$FFFC>
 "Demon Defense Force"<$FFFE>

@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -39,7 +39,7 @@ laid siege to it.<$FFFE>
  -Complete annihilation of enemies<$FFFC>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
- -Death of Jügler<$FFFE>
+ -Death of Jugler<$FFFE>
 City of Laffel - Currently Occupied by Barral<$FFFF>
 Lord Geier!<$FFFC>
 Four ships, now six, now seven shot down!<$FFFC>

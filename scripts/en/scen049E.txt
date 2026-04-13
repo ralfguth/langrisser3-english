@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -23,7 +23,7 @@ Varna<$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 General Emerick<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Bortz<$FFFF>
 Former Larcuss Royal Castle ~ Currently Imperial Headquarters<$FFFF>
 Have your wounds healed, Varna?<$FFFE>

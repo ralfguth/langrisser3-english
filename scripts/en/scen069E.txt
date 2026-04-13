@@ -2,7 +2,7 @@ Langrisser III dumper [0x273292 to 0x273927]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ Field Marshal Altemuller<$FFFF>
 Kaiser Kleist<$FFFF>
 Imperial First Prince Paul<$FFFF>
 General Varna<$FFFF>
-Rigüler Castle ~ Kaiser Kleist's Sickroom<$FFFF>
+Riguler Castle ~ Kaiser Kleist's Sickroom<$FFFF>
 With the demonic cannon out of the picture, our main army shouldn't be necessary, but....<$FFFE>
 A local lord, Lord Raymond, has gathered an army stronger than we suspected, and sorely pressed our troops there.<$FFFE>
 Also, an enigmatic black knight has appeared in the small country of Barral, inflicting massive damage on his own.<$FFFE>

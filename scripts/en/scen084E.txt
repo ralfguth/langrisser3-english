@@ -14,13 +14,13 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 General Emerick<$FFFF>
@@ -41,7 +41,7 @@ an Imperial base along the national border.<$FFFE>
  -Destruction of all enemies<$FFFC>
 *Condition for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-Imperial Base along the Rigüler ~ Elthlead National Border<$FFFF>
+Imperial Base along the Riguler ~ Elthlead National Border<$FFFF>
 Your Excellency Altemuller.<$FFFC>
 The attack preparations have been completed.<$FFFE>
 Good work.<$FFFC>

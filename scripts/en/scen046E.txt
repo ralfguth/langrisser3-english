@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -27,7 +27,7 @@ Villager<$FFFF>
 <$FFFC>
 Scenario ~ 03<$FFFC>
 "The Blademaster with Sad Eyes"<$FFFE>
-The Rigüler Imperial Army led by Field Marshal Altemuller captured<$FFFC>
+The Riguler Imperial Army led by Field Marshal Altemuller captured<$FFFC>
 the Floating Castle and used it to exact tribute from Larcussia,<$FFFC>
 virtually ruining the Kingdom.<$FFFE>
 [diehardt's name], Tiaris, and Layla escaped to Viscount Raymond's<$FFFC>

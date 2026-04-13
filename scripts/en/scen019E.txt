@@ -2,7 +2,7 @@ Langrisser III dumper [0xb2ece to 0xb4377]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,20 +14,20 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 General Bortz<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Galshook<$FFFF>
 -Defeat Bortz<$FFFC>
  and Galshook<$FFFE>
-Death of Diehärte<$FFFE>
+Death of Dieharte<$FFFE>
 Larcussia Defense Perimeter ~ Imperial Front-Line Base<$FFFF>
-The enemy has come into sight, Sir Diehärte.<$FFFE>
+The enemy has come into sight, Sir Dieharte.<$FFFE>
 Wow, it's huge!<$FFFE>
 I have to admit, it's impressive!<$FFFE>
 So this is what hurt father...<$FFFE>
@@ -41,7 +41,7 @@ Today you'll pay for Lord Raymond!<$FFFE>
 It emits the same energy as an ancient ruin I once visited.<$FFFE>
 I see.<$FFFC>
 I can't fathom the knowledge needed to build this.<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 Lord Kirikaze reports Galshook must reload its magical cannon after it is fired.<$FFFD>
 However, we don't know exactly how long that pause will be...<$FFFE>
 At least we can advance safely during that pause.<$FFFE>
@@ -100,7 +100,7 @@ Father...<$FFFE>
 Blasted!<$FFFE>
 I should have listened to my horse...<$FFFE>
 You can't imagine my pain...<$FFFE>
-Sir Diehärte...<$FFFE>
+Sir Dieharte...<$FFFE>
 Lushiris...<$FFFE>
 Lushiris!<$FFFC>
 Judge those who sinned against me!<$FFFE>
@@ -150,7 +150,7 @@ Kyaaah!<$FFFE>
 The remnants will cover the earth in blood...the prophecy was true...<$FFFE>
 My utter carelessness did this...<$FFFE>
 After coming so far...<$FFFE>
-Hussa for the Rigüler Empire!<$FFFE>
+Hussa for the Riguler Empire!<$FFFE>
 You win, now stop!<$FFFE>
 I've still got some fight left in me...<$FFFE>
 Aaah...<$FFFE>
@@ -184,16 +184,16 @@ Dammit!<$FFFC>
 But that's just fine!<$FFFD>
 With just me and y'all I can release all my anger!<$FFFC>
 Come at me with all you've got!<$FFFE>
-...Sir Diehärte.<$FFFC>
+...Sir Dieharte.<$FFFC>
 Wasn't destroying that weapon enough?<$FFFD>
 Hunting humans like this is senseless cruelty.FFFE>
-...Sir Diehärte.<$FFFC>
+...Sir Dieharte.<$FFFC>
 Wasn't destroying that weapon enough?<$FFFD>
 Hunting humans like this is senseless cruelty.<$FFFE>
 Keh, you really did it!<$FFFE>
 It's over...<$FFFE>
-You commanded well today, Sir Diehärte.<$FFFE>
-Sir Diehärte....<$FFFC>
+You commanded well today, Sir Dieharte.<$FFFE>
+Sir Dieharte....<$FFFC>
 Are you even serious about our mission?<$FFFD>
 It sure doesn't seem so...<$FFFE>
 All troops advance!<$FFFD>

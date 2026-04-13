@@ -2,7 +2,7 @@ Langrisser III dumper [0x2f5e18 to 0x2f7763]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -207,7 +207,7 @@ Thank you.<$FFFE>
 I'll come as well.<$FFFE>
 Very well.<$FFFC>
 Let's head to the castle.<$FFFE>
-Rigüler - Elthlead Border ~ Outside Imperial Base<$FFFF>
+Riguler - Elthlead Border ~ Outside Imperial Base<$FFFF>
 So we have a ceasefire with Elthlead.<$FFFC>
 But Velzeria....<$FFFE>
 A vampire bat....?<$FFFE>

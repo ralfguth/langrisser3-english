@@ -50,7 +50,7 @@ Although being painful, [diehardt's name] takes up arms knowing Freya wouldn't h
 In the end the company is victorious but Freya who refuses to surrender is rescued by the Dark Knight.<$FFFD>
 Freya who is just following the orders of her father is also unable to give an explanation for her father's madness.<$FFFD>
 Altemuller who is still recovering, is baffled to hear that the Dark Knight had occupied LAffel and orders General Geier to take the city with the fleet of airships.<$FFFD>
-Meanwhile Lord Raymond does battle against the Rigüler General Bortz.<$FFFE>
+Meanwhile Lord Raymond does battle against the Riguler General Bortz.<$FFFE>
 <$FFF80008>  Scenario - 08<$FFFD>
 Upon arriving at the southern gate it becomes clear that the gate has been occupied by members of the Shika Tribe.<$FFFD>
 In the end Do Kahni is defeated, but Sophia the gate's guardian has already been abducted to be sacrificed.<$FFFD>
@@ -87,7 +87,7 @@ Upon doing so his troops are able to withdraw and meet up with Varna's reinforce
 Furthermore General Geier has a hard time fighting against the Dark Knight.<$FFFC>
 Having troops to spare Barral attempts to invade the western Lushiris gate.<$FFFE>
 <$FFF8000D>  Scenraio - 13<$FFFD>
-With their new companion Fauvel, the division makes its way to western gate to protect its warden, the saintly animal Jügler.<$FFFD>
+With their new companion Fauvel, the division makes its way to western gate to protect its warden, the saintly animal Jugler.<$FFFD>
 At last all gates are reinstated and Lushiris gate regains its warding powers.<$FFFC>
 Since powerful demons could still break through, lady Jessica recommends to get a hold of the Haja no Ken, a sword with holy powers to fight demon kind.<$FFFD>
 The battle between Geier and the Black Knights comes to an end resulting in Geier's defeat.<$FFFD>

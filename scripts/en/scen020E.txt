@@ -21,7 +21,7 @@ Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 General Bortz<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Airship pilot<$FFFF>
 Thief<$FFFF>
 -Defeat Bortz<$FFFE>

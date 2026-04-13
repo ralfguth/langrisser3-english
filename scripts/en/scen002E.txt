@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ William<$FFFF>
 Knight Gerold<$FFFF>
 Larcuss Commander<$FFFF>
 Duke William<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 General Varna<$FFFF>
 Field Marshal Altemuller<$FFFF>
 -Defeat all enemies<$FFFE>
@@ -87,7 +87,7 @@ We'll lead the charge soon...<$FFFD>
 A regrettable loss.<$FFFE>
 Larcuss's fate is sealed.<$FFFE>
 So this is how it ends.<$FFFE>
-Though the Rigüler Marshal is young,<$FFFC>
+Though the Riguler Marshal is young,<$FFFC>
 he won...<$FFFE>
 Dieharte....<$FFFE>
 Go to Laffel and contact our Barral allies<$FFFC>
@@ -165,7 +165,7 @@ Tell me, what do they call you?<$FFFE>
 Gerold, Knight of Larcuss.<$FFFE>
 Gerold, then.<$FFFC>
 You'll prove a worthy opponent.<$FFFC>
-You can call me Varna, General of the Rigüler Empire!<$FFFE>
+You can call me Varna, General of the Riguler Empire!<$FFFE>
 I won't take your life.<$FFFC>
 But you'll be punished for invading!<$FFFE>
 William's wounded—end this fast!<$FFFD>

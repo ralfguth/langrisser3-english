@@ -2,7 +2,7 @@ Langrisser III dumper [0x10137c to 0x102b63]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -100,12 +100,12 @@ Bad news!<$FFFC>
 If Olver dies, we can't enhance the Haja no Ken!<$FFFE>
 That door,<$FFFC>
 it won't hold for much longer...<$FFFE>
-Sir Diehärte, if we don't act this instant...<$FFFE>
+Sir Dieharte, if we don't act this instant...<$FFFE>
 There is no time!<$FFFC>
 Everyone, on the double!<$FFFE>
 Hahaha...<$FFFC>
 The prey is cornered! I can taste the blood already!<$FFFE>
-Sir Diehärte, there's not much time left!<$FFFC>
+Sir Dieharte, there's not much time left!<$FFFC>
 If that door falls too, we're in trouble.<$FFFE>
 I know...<$FFFE>
 Finally the gate has fallen!<$FFFE>
@@ -122,7 +122,7 @@ Should I open the door?<$FFFE>
 Well...<$FFFC>
 Should I open the door?<$FFFE>
 Huff, I'm too old for this...<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 Olver has been successfully evacuated.<$FFFE>
 Alright, let's sweep up the remaining enemies!<$FFFE>
 An axe with runic symbols juts from the bare ground.<$FFFC>
@@ -147,7 +147,7 @@ I'll try to hurry those old bones.<$FFFE>
 Don't let him get away!<$FFFC>
 Kill that geezer no matter what!<$FFFE>
 I'm sorry everyone....<$FFFE>
-Diehärte...<$FFFE>
+Dieharte...<$FFFE>
 My power wasn't enough...<$FFFE>
 Tis is all I can do...<$FFFE>
 Just keep going...<$FFFE>
@@ -158,7 +158,7 @@ This can't be happening...<$FFFE>
 Uuhg...<$FFFE>
 Why...<$FFFE>
 What a fail!<$FFFC>
-I'm sorry, Diehärte!<$FFFE>
+I'm sorry, Dieharte!<$FFFE>
 This is the end....<$FFFE>
 Master Olver!<$FFFE>
 Curses!<$FFFC>
@@ -189,7 +189,7 @@ But it's fine.<$FFFC>
 Enjoy yourselves in my stead...Uarrgh!<$FFFE>
 Rag is done for....<$FFFC>
 But the demons haven't stopped their rampage!<$FFFE>
-Sir Diehärte, demons still threaten Olver.<$FFFE>
+Sir Dieharte, demons still threaten Olver.<$FFFE>
 We must purge them all before they threaten nearby villages.<$FFFE>
 Right, not one can escape.<$FFFC>
 Wipe out every single one of them!<$FFFE>
@@ -251,8 +251,8 @@ Now now, it wasn't that hard.<$FFFD>
 This door was built to ward off demons.<$FFFE>
 Wait till we secure the area.<$FFFE>
 Certainly.<$FFFE>
-Sir Diehärte, it's an honor serving you.<$FFFE>
-Sir Diehärte...<$FFFC>
+Sir Dieharte, it's an honor serving you.<$FFFE>
+Sir Dieharte...<$FFFC>
 I tire of lecturing you on your lack of skill...<$FFFD>
 Do you even try to take your job seriously?<$FFFE>
 Let's hurry back to Sieghart.<$FFFE>

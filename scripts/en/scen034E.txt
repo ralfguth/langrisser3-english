@@ -2,7 +2,7 @@ Langrisser III dumper [0x169e4e to 0x16c5ff]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -26,7 +26,7 @@ Dark Knight<$FFFF>
 Citizen<$FFFF>
 Monster<$FFFF>
 Do Kahni<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Citizen<$FFFF>
 Velzerian Commander<$FFFF>
 -Defeat Wormmaster Rag<$FFFE>
@@ -148,8 +148,8 @@ The giant fell silent and vanished.<$FFFE>
 "Well spoken. What reward do you seek?"<$FFFD>
 Choose wisely.<$FFFE>
 Choose one<$FFFE>
-Megingjöro<$FFFE>
-Mjöllnir<$FFFE>
+Megingjoro<$FFFE>
+Mjollnir<$FFFE>
 Strength<$FFFE>
 "As you wish.<$FFFC>
 Take my belt Megingjoro."<$FFFE>

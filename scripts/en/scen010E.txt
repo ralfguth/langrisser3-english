@@ -2,7 +2,7 @@ Langrisser III dumper [0x5a620 to 0x5bb3f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -23,7 +23,7 @@ Varna<$FFFF>
 Kah Shind<$FFFF>
 General Emerick<$FFFF>
 Shika Tribe<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 -Defeat all enemies<$FFFE>
 -Death of [diehardt's name]<$FFFE>
 Forest of the Shika Tribe<$FFFF>

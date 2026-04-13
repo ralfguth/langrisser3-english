@@ -2,7 +2,7 @@ Langrisser III dumper [0xc3ffc to 0xc4bd7]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,17 +14,17 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler Commander<$FFFF>
-Rigüler General<$FFFF>
+Riguler Commander<$FFFF>
+Riguler General<$FFFF>
 -Defeat the enemy commander<$FFFC>
  within 19 turns<$FFFE>
--Death of Diehärte<$FFFC>
+-Death of Dieharte<$FFFC>
 -29 turns elapse<$FFFE>
 Captured Airship vs. Raymond's Escort Airship<$FFFF>
 Commander, the enemy has made preparations to board our ship!<$FFFE>
@@ -35,7 +35,7 @@ Let's be off to the other side then.<$FFFC>
 But don't look down or you'll get dizzy.<$FFFE>
 Please try to end this fast, I don't feel too well.<$FFFE>
 To end this quickly, target their commander.<$FFFE>
-Sir Diehärte.<$FFFC>
+Sir Dieharte.<$FFFC>
 Let us commence the invasion of the enemy ship now.<$FFFC>
 We shouldn't let time pass wastefully.<$FFFE>
 Of course.<$FFFC>
@@ -99,7 +99,7 @@ Your Commander has fallen!<$FFFC>
 Put down your weapons and surrender quietly!<$FFFE>
 Understood.<$FFFC>
 We surrender...<$FFFE>
-Way to go, Sir Diehärte.<$FFFE>
+Way to go, Sir Dieharte.<$FFFE>
 The battle is over...<$FFFD>
 Now then, search the ship for Raymond!<$FFFE>
 I still can....<$FFFE>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x33462 to 0x35407]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -25,9 +25,9 @@ Torrand's subordinate<$FFFF>
 Baron Torrand<$FFFF>
 Imperial Corporal<$FFFF>
 Civilian<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Imperial Soldier<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 -Defeat Emerick<$FFFC>
 -Destroy all enemy forces<$FFFC>
 -Arrival at the mansion$FFFE>
@@ -273,7 +273,7 @@ Why must I die here!?<$FFFE>
 Already, my time has come...<$FFFE>
 Ridiculous!<$FFFE>
 Uuuarrrgg!<$FFFE>
-Long live the Rigüler Empire...<$FFFE>
+Long live the Riguler Empire...<$FFFE>
 !?<$FFFC>
 My intercept unit was crushed!<$FFFC>
 If only I had more time...<$FFFD>

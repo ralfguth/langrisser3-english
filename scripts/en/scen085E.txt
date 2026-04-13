@@ -2,7 +2,7 @@ Langrisser III dumper [0x2ce2b0 to 0x2ceb6f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -64,7 +64,7 @@ Sir Kirikaze, I have a favor to ask.<$FFFE>
 What might you ask of me?<$FFFE>
 I'd like you to go to Lady Jessica and discover how the monsters have been able to invade this deeply.<$FFFE>
 As you command.<$FFFE>
-Imperial Base along the Rigüler ~ Elthlead Borderline<$FFFF>
+Imperial Base along the Riguler ~ Elthlead Borderline<$FFFF>
 I can't believe these monsters came....  I didn't think that Velzeria would start a war.<$FFFE>
 Velzeria, the Kingdom of Demons.<$FFFC>
 Do they plan on ending the age of man?<$FFFE>

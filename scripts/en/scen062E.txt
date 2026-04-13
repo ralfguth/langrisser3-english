@@ -2,7 +2,7 @@ Langrisser III dumper [0x24315c to 0x24397f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,14 +14,14 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
 General Geier<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Adjutant Gates<$FFFF>
 Dark Knight<$FFFF>
 Barral Commander<$FFFF>

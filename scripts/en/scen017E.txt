@@ -2,7 +2,7 @@ Langrisser III dumper [0x9d770 to 0x9f06f]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -24,7 +24,7 @@ Thief<$FFFF>
 Barral Commander<$FFFF>
 Dark Knight<$FFFF>
 -Total destruction of the enemy<$FFFE>
--Death of Diehärte<$FFFE>
+-Death of Dieharte<$FFFE>
 Barral Stronghold ~ Rogier<$FFFF>
 Yaawn!<$FFFC>
 So this is the stronghold!<$FFFE>
@@ -46,12 +46,12 @@ Just thinking about it makes me sick!<$FFFE>
 Time to attack.<$FFFC>
 Take the fortress in one charge!<$FFFE>
 No Problem!<$FFFE>
-Is Diehärte here?<$FFFE>
+Is Dieharte here?<$FFFE>
 That would be me.<$FFFE>
 Wolf send me.<$FFFD>
 Speed up your operation!<$FFFC>
 The Dark Knight will be here soon!<$FFFE>
-Oh no, we must hurry sir Diehärte!<$FFFE>
+Oh no, we must hurry sir Dieharte!<$FFFE>
 Yeah.<$FFFC>
 We must pull back soon to free Laffel.<$FFFE>
 Aha!<$FFFD>
@@ -65,7 +65,7 @@ We must end this battle before the Dark Knight arrives.<$FFFE>
 I'm at it.<$FFFE>
 ...Make haste.<$FFFC>
 If the Dark Knight shows up we'll have to fight him!<$FFFE>
-Sir Diehärte, we have to end this fast.<$FFFC>
+Sir Dieharte, we have to end this fast.<$FFFC>
 If the Dark Knight arrives the battle could turn against us.<$FFFE>
 I know.<$FFFE>
 Everyone, hurry!<$FFFC>
@@ -143,7 +143,7 @@ Divine Blessing was obtained!<$FFFE>
 The bird escaped with the gem...<$FFFE>
 After a while the bird flies off with the gem...<$FFFE>
 I overestimated myself...<$FFFE>
-Diehärte...<$FFFE>
+Dieharte...<$FFFE>
 I'm sorry...<$FFFE>
 Coty...<$FFFE>
 Oh...<$FFFE>
@@ -212,7 +212,7 @@ You worms dare to challenge me?<$FFFC>
 Very well.<$FFFC>
 Come and die!<$FFFE>
 ...So the remnants of Larcuss got some skill after all.<$FFFD>
-...You there, Diehärte.<$FFFE>
+...You there, Dieharte.<$FFFE>
 Yes ?<$FFFE>
 When we meet again the pleasure will be all mine...<$FFFE>
 I..Impossible the Dark Knight cannot be defeated!?<$FFFD>
@@ -224,10 +224,10 @@ All the troop retreat!<$FFFE>
 Phew, somehow we managed to fend him off.<$FFFC>
 That was some serious battle, I was really worried for a second.<$FFFC>
 But all that matters is that we made it through.<$FFFE>
-This is a well earned victory, Sir Diehärte.<$FFFE>
-Sir Diehärte...<$FFFC>
+This is a well earned victory, Sir Dieharte.<$FFFE>
+Sir Dieharte...<$FFFC>
 That was a rather a pathetic performance.<$FFFD>
-Diehärte you should leave commanding the troops to me...<$FFFE>
+Dieharte you should leave commanding the troops to me...<$FFFE>
 I never thought it was possible to beat that guy.<$FFFE>
 With that kind of injury he won't be messing with us any time soon.<$FFFD>
 Now we should hurry back to Laffel.<$FFFC>
@@ -240,10 +240,10 @@ You're strong...<$FFFE>
 Mommy!<$FFFE>
 Blast!<$FFFE>
 Our maneuver was a success!<$FFFC>
-This is a well earned victory, Sir Diehärte.<$FFFE>
-Sir Diehärte...<$FFFC>
+This is a well earned victory, Sir Dieharte.<$FFFE>
+Sir Dieharte...<$FFFC>
 That was a rather a pathetic performance.<$FFFD>
-Diehärte you should leave commanding the troops to me...<$FFFE>
+Dieharte you should leave commanding the troops to me...<$FFFE>
 We did it...it's over.<$FFFC>
 Now we should hurry back to Laffel.<$FFFE>
 Everyone, I know your tired but hang in there!<$FFFE>

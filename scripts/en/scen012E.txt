@@ -2,7 +2,7 @@ Langrisser III dumper [0x72406 to 0x736e3]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -160,7 +160,7 @@ Oh, you liked my show?<$FFFC>
 Sadly, the last you'll ever see!<$FFFD>
 Now, come out to play!<$FFFE>
 -Defeat Ferakia<$FFFE>
--Death of Diehärte [diehardt's name]<$FFFE>
+-Death of Dieharte [diehardt's name]<$FFFE>
 Kyaaa!<$FFFC>
 Someone, help me!<$FFFE>
 Please, someone...<$FFFE>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x36a55a to 0x36ad47]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -26,7 +26,7 @@ Velzeria Castle ~ Underground<$FFFF>
 No way....!<$FFFE>
 This will never happen!<$FFFC>
 Everyone will come and stop you!<$FFFE>
-...Diehärte...help...<$FFFC>
+...Dieharte...help...<$FFFC>
 me...<$FFFE>
 ..I, I cannot move....<$FFFE>
 Such...!<$FFFE>

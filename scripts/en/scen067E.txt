@@ -14,13 +14,13 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Fauvel<$FFFF>
 Jessica<$FFFF>
 Viscount Raymond<$FFFF>
@@ -34,7 +34,7 @@ He's so fluffy-fluffy!<$FFFE>
 You wouldn't mind if I'd touched you too right?<$FFFE>
 My, you really are fluffy, aren't you.<$FFFE>
 .....Guu.<$FFFE>
-Good to see you again, Jügler.<$FFFE>
+Good to see you again, Jugler.<$FFFE>
 Master Fauvel, Mistress Sophia.<$FFFD>
 I am very glad to see both of you are well.<$FFFE>
 Both of us were also surrounded by enemies, until Sir [diehardt's name] and company came and saved us.<$FFFE>
@@ -51,10 +51,10 @@ Guess so.<$FFFB>
 <$FFFC>
 Lord Raymond must have been successful.<$FFFE>
 Right now, this country faces troublesome times.<$FFFC>
-I Jügler, will help you too!<$FFFE>
-Jügler joined the part!<$FFFE>
+I Jugler, will help you too!<$FFFE>
+Jugler joined the part!<$FFFE>
 My, even Mr. Fluffy-fluffy is coming with us!<$FFFE>
-Nice to have you with us, Jügler.<$FFFE>
+Nice to have you with us, Jugler.<$FFFE>
 Gr....<$FFFE>
 Lushiris Gate ~ Center<$FFFF>
 I have been waiting for your return, Lord Raymond.<$FFFD>

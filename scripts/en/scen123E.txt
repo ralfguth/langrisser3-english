@@ -2,7 +2,7 @@ Langrisser III dumper [0x3949b2 to 0x394f8b]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+Dieharte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
@@ -34,7 +34,7 @@ Royal Capitol Larcussia<$FFFF>
  <$FFFE>
  <$FFFE>
  <$FFFE>
-Rigüler Castle ~ Audience Hall<$FFFF>
+Riguler Castle ~ Audience Hall<$FFFF>
 Field Marshal Altemuller...<$FFFC>
 The Larcussia invasion was a splendid success.<$FFFD>
 If we conquer Laffel next, it would surely benefit the Empire...<$FFFE>
@@ -59,7 +59,7 @@ How is Laffel?<$FFFC>
 Compared to Larcussia it isn't much...<$FFFD>
 But no matter,<$FFFC>
 soon we'll conquer the capitol too.<$FFFE>
-Larcussia has fallen to the Rigüler Empire...<$FFFE>
+Larcussia has fallen to the Riguler Empire...<$FFFE>
 Father, you won't defy the Empire!?<$FFFE>
 No need to worry.<$FFFC>
 With Dios and our new ally, even the Empire will bow...<$FFFE>
