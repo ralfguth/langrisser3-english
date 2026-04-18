@@ -1,16 +1,15 @@
-Langrisser III dumper [0x169e4e to 0x16c5ff]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -19,368 +18,257 @@ Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
-Varna<$FFFF>
+Varna <$FFFF>
+Emerick <$FFFF>
 Wormmaster Rag<$FFFF>
-Layla<$FFFF>
-Dark Knight<$FFFF>
-Citizen<$FFFF>
-Monster<$FFFF>
+Layla <$FFFF>
+Dark Knight <$FFFF>
+Citizen <$FFFF>
+Monster <$FFFF>
 Do Kahni<$FFFF>
-Riguler Commander<$FFFF>
-Citizen<$FFFF>
-Velzerian Commander<$FFFF>
--Defeat Wormmaster Rag<$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of Layla<$FFFC>
--Death of all citizens<$FFFE>
-Outskirts of Laffel<$FFFF>
-So this is how it is.<$FFFC>
-Think you can take me?<$FFFD>
-Or was it just talk?<$FFFE>
-Keh!<$FFFE>
-What's going on!?<$FFFC>
-Altemuller and Emerick!?<$FFFE>
-So you came, [diehardt's name].<$FFFC>
-I'll send you to oblivion with Emerick.<$FFFE>
-Wait, Master Bosel.<$FFFC>
-My Barral plans failed.<$FFFD>
-Let me make up for it here.<$FFFE>
-...Hmm.<$FFFC>
-Very well.<$FFFD>
-Rag.<$FFFC>
-I leave this to you.<$FFFC>
-Let none escape!<$FFFD>
-I'll await news at the castle.<$FFFE>
-Yes my Lord!<$FFFE>
-W..wait!<$FFFE>
-Grr, he made his escape.<$FFFE>
-Emerick!<$FFFC>
-What's going on?<$FFFD>
-Aren't you a Riguler General?<$FFFE>
-Not anymore.<$FFFC>
-My sword aims at Altemuller now. A rebellion.<$FFFE>
-A rebellion?<$FFFE>
-Alhazard changed his Excellency.<$FFFE>
-He's not the man I admired.<$FFFE>
-Alhazard possessed him.<$FFFE>
-Even he couldn't resist its corruption.<$FFFE>
-The cursed sword fed on his anger.<$FFFD>
-He's no longer himself.<$FFFE>
-I see.<$FFFC>
-But first, save the citizens and destroy Rag!<$FFFE>
-Yeah, he's right!<$FFFE>
-I'll keep the demons out of the city!<$FFFE>
-Don't die on us, Emerick.<$FFFE>
-Ha, I can't lose with this many!<$FFFC>
-And for the finishing touch...<$FFFD>
-Come forth, my pets!<$FFFE>
-Ah yes, this will do.<$FFFC>
-Prepare to suffer!<$FFFE>
-Why are imperial troops helping us?<$FFFE>
-I'm human first.<$FFFC>
-I won't let demons run free.<$FFFE>
-I so enjoy human company.<$FFFD>
-Here, a little present for you.<$FFFC>
-Be grateful and die happy!<$FFFE>
-What!?<$FFFC>
-Even more demons?<$FFFE>
-Laffel will be rid of you, demons!<$FFFE>
-They outnumber us badly<$fe><$28><$FFFC>
-...Can we hold them?<$FFFE>
-Everyone, escape this way!<$FFFE>
-Y..yes!<$FFFE>
-It's noisy outside town...<$FFFC>
-More demons appeared?<$FFFE>
-Wait, that's Layla over there!<$FFFC>
-We have to save her!<$FFFE>
-Please hold out, Layla!<$FFFC>
-Help is on the way!<$FFFE>
-Lady Layla, hold on!<$FFFC>
-Help is almost there!<$FFFE>
-Layla, hold out!<$FFFC>
-Help is already here!<$FFFE>
+Riguler Commander <$FFFF>
+Citizen <$FFFF>
+Velzerian Commander <$FFFF>
+<$01E9>Conditions for Victory Defeat Wormmaster Rag <$FFFE>
+<$01E9>Conditions for Defeat Death of <$F600><$0000> Death of Layla Death of all citizens<$FFFE>
+Outskirts of Laffel <$FFFF>
+ So this is how it will be. Do you think you can  take me on?<$FFFD>Or was it all just big talk?<$FFFE>
+ Keh!<$FFFE>
+ What is going on here? Altemuller and Emerick are fighting each  other!?<$FFFE>
+ So you came, <$F600><$0000>. I will send you all to oblivion along with  Emerick.<$FFFE>
+ Please wait, Master  Bozel. My plans for  Barral seems to have failed.<$FFFD>Please allow me to restore myself here.<$FFFE>
+ …Hmm. Very well.<$FFFD>Rag. I leave this matter in your hands. Don't let any of them escape!<$FFFD>I will await good news in the castle.<$FFFE>
+ Yes my Lord!<$FFFE>
+ W…wait!<$FFFE>
+ Grr, he made his escape.<$FFFE>
+ Emerick! What on earth is happening here?<$FFFD>Aren't you one of the  Riguler Generals?<$FFFE>
+ Right now I am nothing of the like. My sword  now is aimed at  Altemuller, it is nothing short of a rebellion.<$FFFE>
+ A rebellion?<$FFFE>
+ That sword Al  Hazard…it changed his excellency.<$FFFE>
+ As of now his excellency is not the person I look up to.<$FFFE>
+ He must be possessed by  Al Hazard already.<$FFFE>
+ So even a man like him can't resist the transformation Al Hazard induces.<$FFFE>
+ Undoubtedly the cursed sword took advantage of  his rampant anger.<$FFFD>In this state he's no  longer the same person.<$FFFE>
+ That explains. But right now we have to concentrate on rescuing  the citizens and rid the world of the abomination called Rag!<$FFFE>
+ Oh yeah, he's exactly right!<$FFFE>
+ I will do my best to hinder the demons from entering the city!<$FFFE>
+ Just don't die on us, Emerick.<$FFFE>
+ Ha, I cannot possibly lose with this many monsters.And to put the  cherry on the cake, voila!<$FFFD>Come forth my little pests!<$FFFE>
+ Ah yes, this should suffice. Prepare to suffer!<$FFFE>
+ Why are the imperial troops protecting us?<$FFFE>
+ First of all I am human. That's why I will not  stand by and let the demons do as they  please.<$FFFE>
+ I enjoy human company so much.<$FFFD>Here,to show my  affection I have a little present for you. Be thankful and die  happily!<$FFFE>
+ What!? Even more demons?<$FFFE>
+ You will pollute Laffel  no longer with your  presence,demon scum!<$FFFE>
+ There are just too many  of them.<$FE28>…Can we hold out?<$FFFE>
+ Everyone, escape this way!<$FFFE>
+ Y…yes!<$FFFE>
+ It's noisy outside town… Did even more demons appear?<$FFFE>
+Wait a sec, that's Layla over there. We have to  save her no matter what!<$FFFE>
+Please hold out, Layla! Help is on the way!<$FFFE>
+Lady Layla be patient  just a little longer! You can rest assured that help will arrive  shortly!<$FFFE>
+Layla, hold out! Help is already here!<$FFFE>
 GAAA!<$FFFE>
-Damn!<$FFFC>
-They entered the town!<$FFFE>
-They're right behind us!<$FFFC>
-Everyone, run!<$FFFE>
-Chase the citizens...<$FFFE>
-...Run.<$FFFE>
-Leave the people alone!<$FFFC>
-Why target civilians!?<$FFFE>
-Hehehe...<$FFFC>
-Watching lives snuffed out is exquisite.<$FFFD>
-Their screams are music to me.<$FFFE>
+Damn! They entered the  town!<$FFFE>
+They are right behind  us! Everyone, run!<$FFFE>
+Hurry up and chase after the citizens…<$FFFE>
+…Run.<$FFFE>
+Stop targeting the townsfolk! What reason could you possibly have  for this!?<$FFFE>
+Hehehe… It is just too  enjoyable to watch their lives being sniffed out.<$FFFD>Their screams are the  sweetest music to my ears.<$FFFE>
 Monster!<$FFFE>
-No more toying with lives!<$FFFE>
-And you're any different?<$FFFC>
-Don't you use companions for your ends?<$FFFE>
-I'd never toy with lives like you!<$FFFC>
-What we do is just!<$FFFE>
-You don't understand?<$FFFC>
-Good and evil are relative. Ponder it in the netherworld.<$FFFD>
-True bliss lies in demon supremacy.<$FFFE>
-That will never happen!<$FFFE>
-A stone seems to move on its own.<$FFFE>
+You won't toy with the lives of others any  longer!<$FFFE>
+So what, are you telling me that what you do is any better? Do you not  use your companions to further your ends and  hurt people that are important to others?<$FFFE>
+That may be so but I would never toy with the lives of others like you do! What we are doing is  just!<$FFFE>
+You still don't  understand? Good and bad  are relative things but  you will have plenty of  time to think about this once I send you to the netherworld.<$FFFD>For me true happiness  can only be achieved by  supreme domination of  the demon kind.<$FFFE>
+That will never come to  be!<$FFFE>
+You come across a stone  that seems to be moving  on its own.<$FFFE>
 What do you do?<$FFFE>
 Lift it up<$FFFE>
 Watch it<$FFFE>
 Step on it<$FFFE>
-A small fairy was trapped under it.<$FFFD>
-"Thank you!<$FFFC>
-A rock fell on me while I napped.<$FFFD>
-Your kindness shall be rewarded."<$FFFD>
-The fairy flew off. Something sparkled on the ground.<$FFFE>
+You found a small fairy  that was stuck under the rock.<$FFFD>"Thank you kindly. I was taking a nap when  suddenly that rock collapsed right on my.<$FFFD>Your kind heart shall be rewarded."<$FFFD>As the fairy spoke those words, it flew off on  the winds and something  sparkling fell to the  ground.<$FFFE>
 Do you want to pick it up?<$FFFE>
-A beautiful spear appeared!<$FFFE>
+You suddenly hold a beautiful spear in your  hands.<$FFFE>
 Gea Bolg was obtained!<$FFFE>
-After a while the rock stopped...<$FFFE>
-Stepping on it, the rock went still...<$FFFE>
-A giant rock formation. Thunder rolls as you near.<$FFFC>
-Up close, it resembles a face.<$FFFD>
-The stone eyes open and speak.<$FFFC>
-"I grant my blessing if you know my name."<$FFFE>
+After a while the rock stopped moving…<$FFFE>
+When you step on the rock it stopped  moving…<$FFFE>
+You come across a gigantic formation of  rocks. As you approach it a roll of thunder can be heard. Upon taking a closer look, you can see that the rock looks like a man's face.<$FFFD>That very moment the stony eyelids raise and  the mouth opens to speak. "I will grant you my providence, if you  know my name."<$FFFE>
 How do you call him?<$FFFE>
 Freya<$FFFE>
 Thor<$FFFE>
 Loki<$FFFE>
-The giant fell silent and vanished.<$FFFE>
-"Well spoken. What reward do you seek?"<$FFFD>
-Choose wisely.<$FFFE>
-Choose one<$FFFE>
+The giant went silent and disappeared.<$FFFE>
+"You have spoken well, now receive your reward.<$FFFD>What would proof most  useful to you?"<$FFFE>
+Choose one of the  following <$FFFE>
 Megingjoro<$FFFE>
 Mjollnir<$FFFE>
 Strength<$FFFE>
-"As you wish.<$FFFC>
-Take my belt Megingjoro."<$FFFE>
-Megingjoro was obtained!<$FFFE>
-"As you wish.<$FFFC>
-Take my hammer Mjollnir."<$FFFE>
+"If that is your wish. You shall have my belt Megingjoro."<$FFFE>
+Megingjoro was Obtained!<$FFFE>
+"If that is your wish. You shall have my hammer Mjollnir."<$FFFE>
 Mjollnir was obtained!<$FFFE>
-"As you wish.<$FFFC>
-Receive my power."<$FFFE>
-<$f6>Blessing<$fc>Strength rises +2<$FFFE>
-Thor laughed thunderously and vanished.<$FFFE>
-The giant fell silent and vanished.<$FFFE>
-I promised Gerold.<$FFFC>
-I promised to liberate Laffel!<$FFFE>
+"If that is your wish. You shall be granted power."<$FFFE>
+<$F600><$05DA> STR rose by plus 2!<$FFFE>
+Tall seemed satisfied  and disappeared while  laughing thunderously.<$FFFE>
+The giant went silent  and disappeared.<$FFFE>
+I promised to Gerold. I promised to come back  and liberate Laffel!<$FFFE>
 All of this was your doing!<$FFFE>
-Yes, of course!<$FFFC>
-Will you ever learn?<$FFFC>
-Humans are mere tools for us superior demons!<$FFFE>
-Shut up and die, monster!<$FFFE>
+Yes, most certainly! Will you ever  understand? Your humans are nothing but tools to be used by us superior demons!<$FFFE>
+Shut up and die, you monster!!<$FFFE>
 What did you do to Altemuller?<$FFFE>
-Nothing really. Alhazard simply chose him.<$FFFD>
-It feeds on anger, hate, all negative emotions.<$FFFD>
-His fury made him the perfect vessel.<$FFFC>
-He will be a splendid Bosel!<$FFFE>
+Nothing really, he  simply was chosen by Alhazard.<$FFFD>Anger, Hate and all  negative feelings is what Alhazard is feasting upon.<$FFFD>Alhazard chose him because of the strength  of those emotions within him. He will be a splendid Bozel!<$FFFE>
 Silence!<$FFFE>
-Forgive me...Gerold...Layla...<$FFFD>
-I can't fight....anymore...<$FFFE>
-Hiyahiyahiya!<$FFFC>
-You're nothing but weak, pathetic humans!<$FFFE>
-...I'm sorry, Layla...<$FFFC>
-If only I'd been stronger...<$FFFE>
+Forgive  me…Gerold…Layla…<$FFFD>I can't  fight…anymore…<$FFFE>
+Hiyahiyahiyahiyahiya! After all you're nothing but weak, pathetic and  utterly worthless  humans!<$FFFE>
+…I am so sorry  Layla… If only I would been a little bit  stronger…<$FFFE>
 How dare you oppose us!<$FFFE>
-Ah...Argh!<$FFFC>
-My power didn't suffice...<$FFFE>
-Ouch...<$FFFC>
-That hurts...<$FFFE>
-Useless...<$FFFC>
-This is just the beginning...<$FFFE>
-Demons will never rule our world!<$FFFD>
-Be gone!<$FFFE>
-Guugh!<$FFFC>
-We can't fall here...<$FFFE>
-The demons grow stronger...<$FFFE>
-By Lushiris's light!<$FFFE>
-Don't let them win...<$FFFE>
-No mercy for demons!<$FFFE>
-Such dark impulses...<$FFFE>
-Grrrr....<$FFFC>
-....noooo....<$FFFE>
-Velzeria orchestrated King Wilder's downfall!<$FFFC>
-You'll pay dearly!<$FFFE>
+Ah…Argh! My power  didn't suffice…<$FFFE>
+Ouch… That hurts…<$FFFE>
+Useless… This is just  the beginning…<$FFFE>
+You demons will never  rule our world!<$FFFD>Be gone, monstrosities!<$FFFE>
+Guugh! We cannot be  defeated like this…<$FFFE>
+The Demons have become strong…<$FFFE>
+By Lushiris's holy light!<$FFFE>
+Don't let the demons win…<$FFFE>
+I will not waste my  mercy for you demons!<$FFFE>
+Such strong negative impulses…<$FFFE>
+Grrrr… …noooo…<$FFFE>
+It was Velzeria which  orchestrated King  Wilder's downfall! For this you will pay dearly!<$FFFE>
 Return to the world of darkness!<$FFFE>
-Dammit!<$FFFC>
-This is all I'm capable off.<$FFFE>
-Please, Dieharte...<$FFFC>
-Protect Laffel!<$FFFE>
-Until Laffel is safe, I refuse to die!<$FFFE>
-The demons seek to conquer our world.<$FFFC>
-By Lushiris's name, we won't let them!<$FFFE>
-Aaah...<$FFFC>
-The clear blue moon...<$FFFE>
-For all who fell before you, I'll cleanse this world of your kind!<$FFFE>
-Ugghh!<$FFFC>
-What a foolish mistake!<$FFFE>
-If not for you, father would still...<$FFFD>
-This is for my father!<$FFFE>
-I won't let you have your way!<$FFFE>
-S..Still...<$FFFC>
-I...can....<$FFFE>
-You make angry!<$FFFC>
-Feel Shikafury!<$FFFC>
-Do Kahni won't let you escape!<$FFFE>
-Sh..Shi..kaa...<$FFFE>
-I'm sorry, [diehardt's name].<$FFFC>
-No more...<$FFFE>
-I won't let you touch the citizens!<$FFFE>
-I wasn't strong enough...<$FFFE>
-I hope the next world is kinder...<$FFFE>
-Goodbye, cruel world....<$FFFE>
+Dammit! This is all I am capable off.<$FFFE>
+Please <$F600><$0000>. Protect Laffel!<$FFFE>
+Until Laffel knows peace again, I can't lay down  to die!<$FFFE>
+The demon's goal is to take over our world. By  Lushiris holy name we  will not allow those demons to succeed!<$FFFE>
+Aaah… The clear blue  moon…<$FFFE>
+In memory of the ones  that fell before you, it  is my duty to cleanse  this world of you demon  kind.<$FFFD>Prepare yourself!<$FFFE>
+Ugghh! What a foolish  mistake!<$FFFE>
+If it wasn't for you, father would…<$FFFD>This is for revenging my father!<$FFFE>
+I won't let you do as  you please with this world!<$FFFE>
+S…Still… I…can…<$FFFE>
+You make angry, feel  supreme Shikafury! Do  Kahni won't let you get  away!<$FFFE>
+Sh…Shi…kaa…<$FFFE>
+I am sorry, <$F600><$0000>. No  more…<$FFFE>
+I will not allow you to  lay so much as a finger  on the citizens!<$FFFE>
+I didn't have what it  takes…<$FFFE>
+I hope the next world  will be better…<$FFFE>
+Goodbye, cruel world…<$FFFE>
 Feel my wrath!<$FFFE>
-Now you'll pay for everything!<$FFFE>
-Killing me won't change anything.<$FFFC>
-The reign of darkness is inevitable!<$FFFD>
-You're in for punishment.<$FFFE>
-I'll gladly stain my hands with your blood!<$FFFC>
-Innocents were murdered!<$FFFD>
-Today you pay for your crimes!<$FFFE>
-Ugh....<$FFFE>
-Ha!<$FFFC>
-Die!<$FFFC>
-The way things turned out...<$FFFE>
-I'm sorry...I've become a burden...<$FFFE>
-..Dark..Knight...<$FFFE>
+Now we will repay you  for everything you have  done so far!<$FFFE>
+I am afraid that killing me won't do you any  good. The reign of  darkness is inevitable!<$FFFD>Your in for some serious punishment.<$FFFE>
+With pleasure I will dye my hands with the colour of your blood! Innocent  people were murdered!<$FFFD>Today you will pay for all your crimes against  humanity!<$FFFE>
+Ugh…<$FFFE>
+Ha! Die! The way things  turned out…<$FFFE>
+I am sorry…I have become an obstacle…to you…<$FFFE>
+…Dark…Knight…<$FFFE>
 Kyaaah!<$FFFE>
-L..Layla!<$FFFE>
+L…Layla!<$FFFE>
 Layla!<$FFFE>
-...I wanted...to see Gerold...one more time...<$FFFE>
-Forgive me...Gerold...<$FFFC>
-.........<$FFFE>
+…I wanted…to see…Gerold…just…o  ne more time…<$FFFE>
+Forgive me…Gerold… …<$FFFE>
 Iyaaah!<$FFFE>
-Those cursed demons....<$FFFE>
-Everyone...<$FFFE>
-I won't have it!<$FFFC>
-I don't wanna die...<$FFFE>
-This is not the time.<$FFFC>
-I'm still too immature...<$FFFE>
-Death is calling for you...<$FFFC>
-Or would you prefer being my puppet?<$FFFE>
-This is how my way ends...<$FFFE>
-The Dark Knight!? Impossible!<$FFFC>
-He shouldn't be sane anymore!<$FFFE>
-...What happened to the worm I placed in King Wilder...?<$FFFE>
-W..What did you just say?<$FFFE>
-So it was you who manipulated King Wilder all along!?<$FFFE>
-Haha!<$FFFC>
-But of course!<$FFFE>
-When the king fell from that cliff searching for his daughter, I planted one of my darlings right in his cracked skull!<$FFFE>
-...You did this to my father!<$FFFE>
-Unforgivable!<$FFFC>
-I won't let you toy with human lives!<$FFFE>
-Now now, don't be so ungrateful.<$FFFC>
-After all I did to preserve your father!<$FFFD>
-Well then...my pet...<$FFFC>
-My body...<$FFFE>
-Now worm, come to my body...<$FFFE>
-<$F702><$F702>Wh..Why won't my spell work..?<$FFFE>
-Ha! That sword!?<$FFFC>
-It blocks my magic...<$FFFE>
-Langrisser seals demon powers.<$FFFC>
-Your magic is no exception.<$FFFE>
-Langrisser seals demon powers.<$FFFC>
-Your magic is no exception.<$FFFE>
-Langrisser seals demon powers.<$FFFC>
-Your magic is no exception.<$FFFE>
-My body...is falling apart...?<$FFFC>
-Save me...Bosel...<$FFFE>
+Those cursed demons…<$FFFE>
+Everyone…<$FFFE>
+I won't have it! I don't wanna die…<$FFFE>
+This is not the time. I am still too immature…<$FFFE>
+Death is calling for you… Or would you  prefer being my puppet?<$FFFE>
+This is how my way ends…<$FFFE>
+The Dark Knight, that's  impossible!? What folly  is this!? At this point he shouldn't be able to  maintain sane!<$FFFE>
+…I wonder what  happened to…the worm I placed in King Wilder…<$FFFE>
+W…What did you just  say?<$FFFE>
+So it was you who  manipulated King Wilder  all along!?<$FFFE>
+Haha! But of course!<$FFFE>
+When the king was  searching for his  daughter and fell from the cliff I took the chance to attach one of  my little darlings right to his split head!<$FFFE>
+…You did all of this  to my father!<$FFFE>
+This is unforgivable! This is intolerable!<$FFFE>
+I will not permit you to play with human lives  any longer!<$FFFE>
+Now now, that's hardly something to get upset over. How ungrateful you  are, after all I did to  preserve your father!<$FFFD>Well then…my pet… My  body…<$FFFE>
+Now worm, come to…my body…<$FFFE>
+<$F702>
+<$F702>
+<$F702><$F702>Wh…Why…would my bewitchment won't  work…?<$FFFE>
+Ha! That sword!? It  blocks of my magic…<$FFFE>
+The Langrisser seals away the evil powers of  the demon tribe. Your  magic is no exception to that.<$FFFE>
+Langrisser seals away  the evil powers of the demon tribe. Your magic  is no exception to that.<$FFFE>
+Langrisser seals away  the evil powers of the demon tribe. Your magic  is no exception to that.<$FFFE>
+My body is falling apart…? Save…me…Bozel…<$FFFE>
 Iiiaahhh!<$FFFE>
 It's over.<$FFFE>
-He won't resurrect this time.<$FFFE>
-Um..<$fe><$28>.<$fe><$28>.<$fe><$1e><$FFFC>
-Thank you for saving us.<$FFFE>
-Please take this as our gratitude.<$FFFE>
-Divine Blessing was obtained!<$FFFE>
-...Father.<$FFFC>
-Your tormentor is no more.<$FFFC>
-Please rest in peace now.<$FFFE>
-...Father.<$FFFC>
-Your tormentor is no more.<$FFFC>
-Please rest in peace now.<$FFFE>
-Freya...<$FFFE>
-Thank you, [diehardt's name].<$FFFE>
-Thank you, [diehardt's name].<$FFFE>
-Do you hear me, Freya!?<$FFFC>
-The one who drove King Wilder mad is dead.<$FFFD>
-...still, without him, Freya and Wilder...<$FFFE>
-As long as Alhazard exists, there will be no peace.<$FFFE>
-As long as Alhazard exists, there will be no peace.<$FFFE>
-That's true.<$FFFD>
-Say, Emerick.<$FFFC>
-What will you do now that you've left Altemuller?<$FFFE>
-<$F703><$F704><$F705><$F703><$F704><$F705>Such resolve...<$FFFE>
-Noble words. They carry real weight.<$FFFE>
-*Sniff* I know this kind of sorrow.<$FFFE>
-...Alright.<$FFFC>
-Let us go together then.<$FFFE>
-We are Altemuller's last hope.<$FFFE>
-Emerick joins the party!<$FFFE>
-General!<$FFFC>
-Please take this token of gratitude!<$FFFE>
+He won't be able resurrect this time.<$FFFE>
+Um…<$FE28>…<$FE28>…<$FE1E>Thank you very much for  saving me.<$FFFE>
+Please take this as a symbol of our eternal  gratitude.<$FFFE>
+Divine Blessing was  obtained!<$FFFE>
+…Father. Your  tormentor is no more. Please rest in peace now.<$FFFE>
+…Father. Your  tormentor is no more. Please rest in peace now.<$FFFE>
+Freya…<$FFFE>
+Thank you, <$F600><$0000>.<$FFFE>
+Thank you, <$F600><$0000>.<$FFFE>
+Do you hear me, Freya!? The culprit for King Wilder's madness is  dead.<$FFFD>…still, if it wasn't  for him Freya and Wilder wouldn't have…<$FFFE>
+Still, as long as Al Hazard roams freely  there will be no peace.<$FFFE>
+Still, as long as Al Hazard roams freely  there will be no peace.<$FFFE>
+That's true.<$FFFD>Say, Emerick. What are  you planning to do now that you have detached from Altemuller?<$FFFE>
+<$F703>
+<$F704>
+<$F705>
+<$F703>
+<$F704>
+<$F705>
+<$F703><$F704><$F705><$F703><$F704><$F705>Such veracity…<$FFFE>
+What noble thing to say, word's like this surely  aren't spoken casually.<$FFFE>
+<$01E9>Sniff<$01E9> I understand  this kind of sorrow.<$FFFE>
+…Alright. Let us go together then.<$FFFE>
+We are Altemuller's last  hope.<$FFFE>
+Emerick joins the  party!<$FFFE>
+General! Please take this as a token of our gratitude!<$FFFE>
 Talisman was obtained!<$FFFE>
-<$F706><$F706>I hope Altemuller isn't beyond saving.<$FFFE>
+<$F706>
+<$F706>
+<$F706><$F706>I just hope that Altemuller isn't beyond  help already.<$FFFE>
+<$F707>
+<$F707>
 <$F707><$F707>Well then, move out!<$FFFE>
-Bastard!<$FFFC>
-You humans should just die quietly!<$FFFD>
-No matter. This town is mine.<$FFFE>
-We'll see about that!<$FFFE>
-ZAPP....<$FFFE>
-ZAPP....<$FFFE>
-GOOON...<$FFFE>
-GOOON...<$FFFE>
-Master Rag...will grant me...immortality...<$FFFE>
-For darkness eternal...<$FFFE>
-ZAPP....<$FFFE>
+Bastard! You lowly humans should just accept death in silence!<$FFFD>But it matters not to  me, this town is mine anyway.<$FFFE>
+We will see about that!<$FFFE>
+ ZAPP…<$FFFE>
+ ZAPP…<$FFFE>
+ GOOON…<$FFFE>
+ GOOON…<$FFFE>
+Master Rag…will make  me…immortal…<$FFFE>
+For eternal darkness…<$FFFE>
+ZAPP…<$FFFE>
 GYAAA!<$FFFE>
 GYAAA!<$FFFE>
 GASHAN!<$FFFE>
 GASHAN!<$FFFE>
 GASHAN!<$FFFE>
-ZAPP....<$FFFE>
-ZAPP....<$FFFE>
+ZAPP…<$FFFE>
+ZAPP…<$FFFE>
 GYAAA!<$FFFE>
 GYAAA!<$FFFE>
 GASHAN!<$FFFE>
-ZAPP....<$FFFE>
-KYSHAAA!<$FFFE>
-GYAAA!<$FFFE>
-GUGYAAA!<$FFFE>
-GUGYAAA!<$FFFE>
-W..what!<$FFFC>
-All my minions, annihilated!?<$FFFE>
-The Dark Knight!?<$FFFC>
-The Barral army is here!?<$FFFE>
-Don't worry, Barral has fallen.<$FFFC>
-He's our ally now!<$FFFE>
-The Dark Knight!?<$FFFC>
-Impossible! My worm should control him!<$FFFE>
-...What happened to the worm in Barral's King...?<$FFFE>
-Wh..What did you just say?!<$FFFE>
-You controlled King Wilder!?<$FFFE>
-Haha!<$FFFC>
-But of course.<$FFFE>
-When the king fell from the cliff, I planted my darling right in his cracked skull!<$FFFE>
-...You did this to my father!<$FFFE>
-Unforgivable!<$FFFC>
-Your evil ends here!<$FFFE>
-No more toying with human lives!<$FFFE>
-For Princess Freya, I'll deliver justice!<$FFFE>
-Try your worst!<$FFFC>
-You'll see how helpless you are before me!<$FFFE>
-Damn!<$FFFC>
-Still more of them!?<$FFFC>
-Hurry, Sir Dieharte!<$FFFE>
-Of course!<$FFFC>
-It's already!<$FFFE>
-Almost nothing of Lord Altemuller remains.<$FFFC>
-His heart grows more demonic by the day.<$FFFE>
-It pains me to even look at him now.<$FFFC>
-That's why I'll end his misery with my own hands.<$FFFE>
-While a fragment of his heart remains, this is my loyalty to him.<$FFFE>
-It is futile.<$FFFC>
-The worm's power won't save you.<$FFFE>
-Certainly.<$FFFE>
-Understood.<$FFFC>
-Leave it to me.<$FFFE>
+ ZAPP…<$FFFE>
+ KYSHAAA!<$FFFE>
+ GYAAA!<$FFFE>
+ GUGYAAA!<$FFFE>
+ GUGYAAA!<$FFFE>
+ W…whaat! All my minions  have been annihilated!?<$FFFE>
+ The Dark Knight!? …the  Barral army is here!?<$FFFE>
+ There is no need to be afraid, the Barral  Kingdom has collapsed! He currently is our  ally!<$FFFE>
+ The Dark Knight!? What  kind of prank is that!? With my worm possessing  him he shouldn't be able to be sane!<$FFFE>
+ …I wonder what  happened to the worm I placed inside Barral's King… just what is going on?<$FFFE>
+ Wh…What did you just say?!<$FFFE>
+ It was you who controlled King Wilder!?<$FFFE>
+ Haha! But of course.<$FFFE>
+ When the king was  searching for his  daughter and fell from the cliff, I took the  chance to attach one of  my little darlings right to his split head!<$FFFE>
+ …You did all of this  to my father!<$FFFE>
+ This is unforgivable! Your evil ways end here!<$FFFE>
+ I will not permit you to play with human lives  any longer!<$FFFE>
+ In stead of Princess Freya, I will deliver  you to justice!<$FFFE>
+ Try your worst! You will soon realize  how helpless you humans are before me!<$FFFE>
+ Damn this! There are still more of them!? Hurry up, Sir <$F600><$0000>!<$FFFE>
+ Of course! It is already!<$FFFE>
+ Almost nothing of his  former Excellency  Altemuller is left. His heart is becoming  more like one of a demon by the day.<$FFFE>
+ At this point it is  pains me to even look at him. That's why I will put an end to his misery with my own hands.<$FFFE>
+ Doing so,while still  a fragment of his heart  remains, is proof of my  unwavering loyalty to  him.<$FFFE>
+ It is futile. The power of the worm will not save you this time.<$FFFE>
+ Certainly.<$FFFE>
+ Understood. Leave it to me.<$FFFE>                                                                  

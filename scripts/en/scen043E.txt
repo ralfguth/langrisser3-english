@@ -1,16 +1,15 @@
-Langrisser III dumper [0x1c401a to 0x1c45a7]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,56 +19,38 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Knight Gerold<$FFFF>
 Layla<$FFFF>
-Floating castle<$FFFF>
-Varna!<$FFFE>
-...<$FFFC>
-This is the chance to totally destroy the enemy.<$FFFC>
-Please leave me be and take on the pursuit.<$FFFE>
-That you were injured is my responsibility, I'll carry you on my back.<$FFFE>
-We are returning to headquarters for now. We'll leave sweeping up the remaining enemies to Geier.<$FFFE>
-....Your Excellency.<$FFFE>
-Mountains near the Floating Castle<$FFFF>
-Imperial Field Marshal Altemuller..... <$FFFE>
-....Papa.<$FFFE>
-.....Uh.....urghh.....<$FFFE>
-Gerold stay strong!<$FFFC>
-Gerold!<$FFFE>
-He suffered a terrible wound.<$FFFC>
-But if we stay here to long the imperial pursuers will catch up to us.<$FFFE>
-I'm sorry Gerold.<$FFFC>
-You must hold out until we make it to Laffel!<$FFFE>
-Understood...and don't you worry..<$FFFE>
-Come, Tiaris.<$FFFC>
-We must be on our way.<$FFFE>
-....<$FFFE>
-Tiaris....<$FFFE>
-What do you want to say?<$FFFE>
-Show me that smile of yours.<$FFFE>
-Gerold is.....<$FFFE>
-You will be left behind!<$FFFE>
-Hey now, show me your smiling face Tiaris.<$FFFD>
-After all you are supposed to be the cheerful and vigorous girl I know.<$FFFE>
-......<$FFFD>
-Go on ahead.<$FFFC>
-I'll follow up right away....<$FFFE>
-Tiaris.....<$FFFE>
-I understand well that you are in agony right now.<$FFFC>
-But Gerold was seriously wounded. <$FFFD>
-We have to take him to a city fast or his live will be in danger too.<$FFFE>
-....Okay, I understand.<$FFFD>
-But....,<$FFFC>
-let me stand here for a moment.<$FFFC>
-I'll follow up right away.<$FFFE>
-Tiaris.....<$FFFE>
-How long are you planning on staying over there.<$FFFD>
-You will be left behind Tiaris.<$FFFE>
-.......<$FFFD>
-Go ahead.<$FFFC>
-I'll follow up right away....<$FFFE>
-.....Papa.<$FFFB>
-<$FFFC>
-Goodbye....<$FFFE>
+Floating castle <$FFFF>
+ Varna!<$FFFE>
+ … This is the chance  to totally destroy the enemy. Please leave me be and take on the pursuit.<$FFFE>
+ That you were injured is my responsibility, I will carry you on my back.<$FFFE>
+ We are returning to  headquarters for now. We  will leave sweeping up the remaining enemies to Geier.<$FFFE>
+ …Your Excellency.<$FFFE>
+Mountains near the Floating Castle <$FFFF>
+ Imperial Field Marshal Altemuller…<$FFFE>
+ …Papa.<$FFFE>
+ …Uh…urghh…<$FFFE>
+ Gerold stay strong! Gerold!<$FFFE>
+ He suffered a terrible wound. But if we stay  here to long the imperial pursuers will catch up to us.<$FFFE>
+ I am sorry Gerold. You must hold out until we make it to Laffel!<$FFFE>
+ Understood…and don't  you worry…<$FFFE>
+ Come, Tiaris. We must be  on our way.<$FFFE>
+…<$FFFE>
+ Tiaris…<$FFFE>
+ What do you want to say?<$FFFE>
+ Show me that smile of yours.<$FFFE>
+ Gerold is…<$FFFE>
+ You will be left behind!<$FFFE>
+ Hey now, show me your  smiling face Tiaris.<$FFFD>After all you are  supposed to be the cheerful and vigorous  girl I know.<$FFFE>
+ …<$FFFD>Go on ahead. I will  follow up right away…<$FFFE>
+ Tiaris…<$FFFE>
+ I understand well that you are in agony right now. But Gerold was seriously wounded.<$FFFD>We have to take him to a city fast or his live  will be in danger too.<$FFFE>
+ …Okay, I understand.<$FFFD>But…, let me stand  here for a moment. I will follow up right away.<$FFFE>
+ Tiaris…<$FFFE>
+ How long are you planning on staying over there.<$FFFD>You will be left behind  Tiaris.<$FFFE>
+ …<$FFFD>Go ahead. I will follow up right away…<$FFFE>
+ …Papa.<$FFFB>Goodbye…<$FFFE>  

@@ -1,428 +1,196 @@
-Langrisser III dumper [0x396b16 to 0x39edb3]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-All power must fade in time.<$FFFD>
-The pure of heart carry light's legacy. Hope endures while such souls draw breath.<$FFFE>
-The rise and fall of nations, war with demons, and the holy sword's role would inspire legends for ages to come.<$FFFE>
-Five years later Lewin wed a noble lady.<$FFFD>
-She was Tiaris, whom he'd loved since the war. She'd grown into a woman of rare beauty and grace.<$FFFE>
-The youngest king in history, he'd be remembered for his tireless rule and the prosperity he brought Elthlead.<$FFFE>
-Under his reign Elthlead knew lasting peace.<$FFFE>
-Young as he was, he surpassed all expectations and brought Elthlead great prosperity.<$FFFE>
-Under his reign Elthlead knew lasting peace and prosperity.<$FFFE>
-Tiaris, Marquis William's only daughter, fled the collapsing fortress with the new knight [diehardt's name].<$FFFE>
-Despite grief over her father's death, she fought bravely.<$FFFC>
-She led troops ably, securing many victories for Elthlead.<$FFFE>
-Many were surprised she overcame her sorrow to fight with such valor.<$FFFE>
-Summoning his courage, [diehardt's name] confessed his love.<$FFFD>
-Shocked at first, Tiaris was overjoyed; she'd never dared hope to be more than a sister to him.<$FFFE>
-Their joy was brief. The revived Geier kidnapped Tiaris.<$FFFC>
-She was to be sacrificed to the God of Darkness.<$FFFD>
-To the end she believed her brother would save her.<$FFFD>
-When Chaos revived, her soul vanished.<$FFFC>
-Cursing his failure, [diehardt's name] took his own life to join her...<$FFFE>
-After defeating Bosel, the lovers could at last be together.<$FFFD>
-Tiaris and [diehardt's name], now Supreme Commander of Elthlead's Knights, shared a long happy life.<$FFFE>
-After victory, the Claus family took Tiaris in, but she joined [diehardt's name]'s travels.<$FFFD>
-She never tired of discovering new places with him.<$FFFD>
-To her it was an endless honeymoon.<$FFFE>
-The Claus family took Tiaris in so the couple could enjoy married life.<$FFFD>
-Sadly a rare illness struck and her health declined fast.<$FFFC>
-[diehardt's name] cared for her devotedly but could not save her.<$FFFE>
-The Claus family took Tiaris in, but she joined [diehardt's name]'s travels.<$FFFD>
-Travel proved less fun than she'd hoped.<$FFFD>
-She returned to train under Ms. Claus to become a good wife.<$FFFE>
-The Claus family took Tiaris in, but she married King Lewin.<$FFFD>
-Though happy, a trace of sadness lingered in her heart.<$FFFD>
-She'd never told her brother she felt more for him than family should.<$FFFC>
-At times she wondered what a different life might've been...<$FFFE>
-As years passed her sorrow faded and she became beloved as Elthlead's first queen.<$FFFC>
-Despite the burden of rule, she lived a long joyful life...<$FFFE>
-The Claus family took Tiaris in, but she married King Lewin.<$FFFD>
-The realm prospered alongside the royal couple's bliss for all their days.<$FFFE>
-The Claus family took Tiaris in, but she married King Lewin.<$FFFD>
-Their happiness was tragically brief.<$FFFC>
-A rare illness struck Tiaris young and her health failed.<$FFFD>
-With Lewin and their children at her side, she quietly passed on.<$FFFE>
-A famed blademaster of Larcuss.<$FFFD>
-He'd cast aside his sword after his daughter's death, but her spirit moved him to fight for justice again.<$FFFE>
-His blade wreaked havoc, securing countless victories.<$FFFC>
-His prowess bolstered the mobile division and helped found Elthlead.<$FFFD>
-After victory he became Elthlead's fencing instructor.<$FFFE>
-His training honed both sword and spirit, producing many great knights.<$FFFD>
-His pupils became the continent's finest,<$FFFD>
-earning him the title "Gilbert, Broodmother of Knights"...<$FFFE>
-His training honed both sword and spirit, producing many great knights.<$FFFD>
-Yet his pupils, though strong, often acted rash in battle.<$FFFE>
-Years of lethargy had cost him his former greatness as a blademaster....<$FFFE>
-After victory he became Elthlead's fencing instructor.<$FFFD>
-His training honed sword and spirit alike, producing fine knights.<$FFFD>
-Though his pupils lacked enthusiasm, they became one of the strongest divisions on the continent.<$FFFE>
-After the war Gilbert cast his sword aside again and returned to tend his daughter's grave.<$FFFD>
-Years later he lost his will to live and quietly passed away...<$FFFE>
-Saved by [diehardt's name], the young mage Liffany joined his quest to rebuild Larcuss.<$FFFE>
-Her magic made her an invaluable ally.<$FFFE>
-Her admiration for [diehardt's name] deepened with each battle they shared.<$FFFE>
-After confessing mutual love, Geier kidnapped Liffany to sacrifice her to Chaos.<$FFFC>
-His aim was to offer her soul to the god of destruction.<$FFFD>
-To the end she believed [diehardt's name] would come...<$FFFD>
-When Chaos revived, her soul fell to darkness.<$FFFC>
-Cursing himself, [diehardt's name] soon followed her...<$FFFE>
-Against all odds [diehardt's name] saved her.<$FFFD>
-They settled in the Capitol as a couple.<$FFFC>
-Liffany opened a restaurant; her cooking became so loved she was called a genius.<$FFFD>
-She spread her cuisine across the country.<$FFFD>
-With the profits she funded a university to study demons, always backed by her husband.<$FFFE>
-When [diehardt's name] traveled, Liffany joined him.<$FFFC>
-She returned to the Capitol after a while.<$FFFD>
-Her cooking won everyone over.<$FFFC>
-She opened her own restaurant with confidence.<$FFFD>
-Needing funds to expand, she rejoined [diehardt's name]'s battles.<$FFFE>
-But old war wounds took her young, before she could realize her dreams.<$FFFE>
-[diehardt's name] rescued Liffany and they settled in the Capitol.<$FFFD>
-She opened a restaurant with his help.<$FFFD>
-Her genius cooking brought fame and they lived happily ever after.<$FFFE>
-Tiring of travel, Liffany returned to the Capitol.<$FFFC>
-She opened a restaurant, then a magic lab.<$FFFD>
-Consumed by research, she tested ever stronger spells.<$FFFC>
-One day a spell failed catastrophically.<$FFFD>
-Her body was vaporized without a trace...<$FFFE>
-She returned to her parents to research magic and demonkind.<$FFFE>
-She invented simple spells to improve daily life.<$FFFC>
-This sparked the magic revolution.<$FFFD>
-Her book on magic theory became the foundation of modern magic.<$FFFC>
-Despite fame, loneliness marked her face.<$FFFD>
-Many pursued her, but only one man held her heart...the one who'd saved her and the world...<$FFFE>
-She tested ever stronger spells.<$FFFD>
-One day a spell failed badly.<$FFFC>
-A magic explosion left her gravely injured.<$FFFD>
-Days later she woke, calling for [diehardt's name] in delirium...<$FFFE>
-She founded a lab and devoted herself to magic research.<$FFFD>
-She invented simple spells to improve daily life.<$FFFC>
-This sparked the magic revolution.<$FFFD>
-Her book on magic theory became the foundation of modern magic.<$FFFE>
-She founded a lab and devoted herself to magic research.<$FFFD>
-She tested ever stronger spells.$FFFD>
-One day a catastrophic failure vaporized her...<$FFFE>
-The young squire Pierre proved his worth guiding Larcussian refugees to safety.<$FFFD>
-He met [diehardt's name] and joined the effort to rebuild Larcuss.<$FFFE>
-Pierre's cheer and bravery lifted his friends in and out of battle.<$FFFC>
-He grew from boy to dependable knight.<$FFFD>
-He served the Elthlead crown loyally and became captain of the knights.<$FFFE>
-Pierre fought admirably.<$FFFD>
-He became the knight he'd dreamed of and served the Elthlead Royal Family.<$FFFE>
-But overconfidence breeds danger.<$FFFD>
-He was last heard joining a quest to slay dragons.<$FFFE>
-Haunted by war, he sought a peaceful life.<$FFFC>
-He took over his parents' bar.<$FFFD>
-A drunk drew a sword one day and Pierre took a fatal wound trying to stop him.<$FFFC>
-After days of struggle he passed away...<$FFFE>
-Daughter of the genius strategist Torrand, Luna learned warfare from youth.<$FFFE>
-Her keen mind and blade helped secure Elthlead's victory many times over.<$FFFE>
-Her tactics outshone her swordplay.<$FFFE>
-Through many battles Luna grew fond of [diehardt's name].<$FFFD>
-When he bravely confessed his love, she could hardly believe it.<$FFFC>
-She'd never have spoken first on her own.<$FFFE>
-Their joy ended when Geier kidnapped Luna.<$FFFC>
-He meant to sacrifice her to Chaos.<$FFFD>
-To the end she awaited [diehardt's name]...<$FFFD>
-When Chaos revived, her soul vanished...<$FFFC>
-Hating his weakness, [diehardt's name] took his own life to join her...<$FFFE>
-After the war Luna chose to serve the Elthlead Royal Family.<$FFFE>
-She traveled with [diehardt's name] awhile, then taught a new generation of strategists.<$FFFD>
-Peace was fragile; many eyes coveted the small kingdom.<$FFFD>
-But her strategies and [diehardt's name]'s strength kept threats at bay without bloodshed.<$FFFD>
-Minstrels would sing of their heroism for years to come.$FFFE>
-But it was a loveless life.<$FFFC>
-[diehardt's name] left on a journey to grow stronger.<$FFFD>
-Years later a demon horde threatened Elthlead's border.<$FFFC>
-Luna rode out alone but was overwhelmed.<$FFFD>
-When all seemed lost, a lone dual-wielding swordsman saved her and the kingdom.<$FFFD>
-Living alone, Luna regretted never admitting her feelings to [diehardt's name].<$FFFE>
-Luna traveled with [diehardt's name] briefly, then settled to teach strategy.<$FFFD>
-Peace was fragile; many eyes coveted Elthlead.<$FFFD>
-Her strategies kept threats at bay without bloodshed.<$FFFC>
-Yet her brilliant mind couldn't win [diehardt's name]'s heart...<$FFFE>
-It was a loveless life.<$FFFC>
-Seeking growth, she left on a journey.<$FFFD>
-Years later a demon horde threatened Elthlead.<$FFFC>
-Luna rode out alone but was overwhelmed.<$FFFD>
-The demons' final charge ended her short life...<$FFFC>
-[diehardt's name] mourned the loss of a dear friend...<$FFFE>
-After the war Luna served the Elthlead Royal Family.<$FFFE>
-Her time fighting beside [diehardt's name] remained her dearest memory.<$FFFE>
-The sage Fauvel, devoted to Lushiris, long guarded her eastern gate.<$FFFE>
-His knowledge and magic proved invaluable to [diehardt's name]'s cause.<$FFFE>
-For his service he was named High Priest.<$FFFD>
-He spent his days spreading Lushiris's teachings and the value of peace.<$FFFD>
-His good deeds were remembered long after; people called him a saint.<$FFFE>
-Honored for his war efforts, Fauvel was invited to serve the crown.<$FFFD>
-He humbly declined, returning to guard Lushiris gate.<$FFFD>
-He died peacefully, his only regret never seeing Sophia in a bride's dress.<$FFFE>
-Despite his age he was valuable in battle and as advisor.<$FFFE>
-Honored for his war efforts, Fauvel was invited to serve the crown.<$FFFD>
-He humbly declined, returning to guard Lushiris gate.<$FFFE>
-After the war Fauvel resumed guarding the eastern gate.<$FFFD>
-But past battles had worn his body thin.<$FFFD>
-He died peacefully, never seeing Sophia in a bride's dress.<$FFFE>
-Sophia, Fauvel's daughter and guardian of Lushiris's southern gate.<$FFFD>
-Saved from a Shika ritual, she joined [diehardt's name]'s quest for peace.<$FFFE>
-Her healing earned her the title of goddess among the Shika and saved her allies countless times.<$FFFC>
-She despised violence; pity, not hate, filled her heart in battle.<$FFFE>
-Many wounded depended on her healing.<$FFFE>
-Her heart turned to one man alone.<$FFFC>
-Her prayers were answered when he confessed his love.<$FFFE>
-But Geier kidnapped Sophia for sacrifice to Chaos.<$FFFC>
-He meant to offer her to the god of darkness.<$FFFD>
-She believed [diehardt's name] would come, but in vain...<$FFFD>
-When Chaos revived, her soul was lost to darkness.<$FFFC>
-Mad with grief, [diehardt's name] took his own life to join her.<$FFFE>
-The war ended but its scars ran deep.<$FFFC>
-The damage was severe.<$FFFE>
-[diehardt's name] and Sophia built a home and took in war orphans.<$FFFD>
-Elthlead prospered beyond what Larcuss ever knew.<$FFFC>
-Many believe her selfless kindness helped make it so.<$FFFD>
-People came to call her the "Holy Mother".<$FFFE>
-[diehardt's name] journeyed for growth.<$FFFC>
-Sophia joined, helping all in need along the way.<$FFFD>
-Elthlead prospered beyond what Larcuss ever knew.<$FFFC>
-Many believe her selfless kindness helped make it so.<$FFFE>
-Together they built a home and an orphanage for war's youngest victims.<$FFFD>
-Those they raised became fine people who bettered Elthlead.<$FFFC>
-But old battle wounds caught up and she died cruelly young.<$FFFD>
-In her last moments she asked only that others live happily, and smiled as she passed.<$FFFE>
-[diehardt's name] left to mature. Sophia built an orphanage and awaited his return.<$FFFD>
-Watching the children grow brought joy, but missing him wore her thin.<$FFFD>
-She poured everything into raising them well, until nothing remained for herself...<$FFFE>
-She grew fond of [diehardt's name] but her love went unreturned.<$FFFC>
-To ease her heart she traveled, aiding war survivors.<$FFFE>
-After the demons were quelled she traveled to help those scarred by war.<$FFFE>
-The holy beast Jugler, blessed by Lushiris, guarded the western gate.<$FFFC>
-He fought to protect the goddess's lands.<$FFFE>
-His shapeshifting gave Elthlead key strategic advantages.<$FFFD>
-His strength and fluffiness were vital to victory.<$FFFD>
-After the war Jugler returned to guard the western gate.<$FFFC>
-A mysterious figure awaited him...<$FFFD>
-To his shock it was a female holy beast, thought to be extinct...<$FFFD>
-Months later Lushiris blessed them with many healthy cubs.<$FFFC>
-They lived a happy family life ever after.<$FFFE>
-His shapeshifting gave key advantages.<$FFFC>
-He fought fiercely and often saved friends from peril.<$FFFD>
-After the war Jugler returned to guard the western gate.<$FFFC>
-One day a fire broke out in a nearby village.<$FFFD>
-Without hesitation he leapt into the blaze to save trapped children.<$FFFD>
-Every child in the land came to know the tale of the "Fiery Furball"...<$FFFE>
-His shapeshifting gave key advantages.<$FFFC>
-Many foes fell to his fangs, but fierce battle took its toll.<$FFFD>
-After the war Jugler returned to guard the western gate.<$FFFC>
-One day a fire broke out in a nearby village.<$FFFD>
-Without hesitation he leapt into the blaze to save trapped children.<$FFFC>
-He paid with his life...but thought it well worth it...<$FFFE>
-His shapeshifting gave key advantages.<$FFFC>
-But his potential went unrecognized and unused.<$FFFD>
-Frustrated, he returned to the western gate.<$FFFC>
-Feeling useless, he grew lazy and fat.<$FFFD>
-Horrified friends put him on a strict diet.<$FFFC>
-Now village children ride him daily for exercise...they love it, Jugler less so...<$FFFE>
-Dios, a Barral general, deserted the mad King Wilder and joined [diehardt's name].<$FFFE>
-A hardened veteran, his skills served Elthlead well.<$FFFD>
-After victory he returned to rebuild the shattered Barral.<$FFFE>
-When order was restored he became supreme commander of Barral's army.<$FFFD>
-He'd be remembered as Barral's backbone.<$FFFE>
-A battle wound robbed his sword arm of strength.<$FFFC>
-His fighting days were over.<$FFFD>
-When Barral stabilized, Dios left to seek a new life.<$FFFE>
-Though a veteran, Dios never got to prove his full potential.<$FFFD>
-He returned to rebuild Barral despite scornful looks.<$FFFD>
-People despised him at first.<$FFFE>
-But he persevered, helping everyone he could.<$FFFC>
-In time scorn turned to gratitude.<$FFFD>
-He was reinstated as General.<$FFFC>
-He became the finest General Barral ever had.<$FFFE>
-Dios worked tirelessly to restore Barral.<$FFFC>
-While inspecting the castle rebuild, a boulder fell and buried him.<$FFFD>
-Whether it was truly an accident remains unknown...<$FFFE>
-From Laffel came the self-styled righteous thief Silver Wolf, who helped [diehardt's name] overthrow Barral's occupation.<$FFFD>
-During their travels he befriended Lewin, who offered him a role as spy and diplomat.<$FFFE>
-Beyond battle, his swift intelligence network and loyal followers proved invaluable to Elthlead.<$FFFE>
-When the war ended, he offered his services to the Elthlead Royal family.<$FFFD>
-His blend of diplomacy and covert intelligence exceeded all expectations.<$FFFD>
-With the Floating Castle gone, Wolf's efforts ensured Elthlead enjoyed years of peace.<$FFFD>
-His fusion of stealth and diplomacy inspired generations of agents...<$FFFE>
-His intelligence network and followers were invaluable to Elthlead.<$FFFD>
-While spying abroad he was spotted and attacked.<$FFFD>
-Old wounds slowed him and he barely escaped...<$FFFC>
-Praise for surviving didn't change his mind to retire.<$FFFE>
-Realizing he'd grown too old for such work, he retired and vanished...<$FFFD>
-After the war Wolf was invited to serve the Elthlead Royal Family.<$FFFE>
-Wolf returned to Laffel but realized thievery was wrong.<$FFFD>
-He soon left to find a new path in life.<$FFFC>
-But he hadn't fought very actively in battle.<$FFFE>
-Wolf returned to Laffel to harass the rich, to their great vexation.<$FFFD>
-At last a hired assassin struck him with a lethal poison.<$FFFD>
-He fled the city but died; his true identity remains a mystery to this day...<$FFFE>
-The great sorceress Jessica, evermore surrounded by a veil of mystery.<$FFFC>
-As the Avatar of Lushiris on earth, it was her task to guide the human to the path of light.<$FFFE>
-Her magical powers and intellect were matched only by her beauty, rivaling Lushiris herself. None doubted her role was essential to Elthlead's rise and victory over demonkind.<$FFFE>
-Her magical powers made her indispensable on the battlefield, though she suffered injuries during the demon war.<$FFFE>
-Her intelligence and many advises benefited the War-effort greatly, her participation in battle however could have been more prolific.<$FFFE>
-Her intelligence and many advises benefited the War-effort greatly, but she was seen on the battlefield only occasional.<$FFFE>
-After peace was established Jessica was offered the position of court magician and adviser by the Elthlead Royal Family.<$FFFE>
-With her gift of reincarnation she served for centuries, guiding generations of the Royal Family, known as "The descendants of light."<$FFFD>
-Over time she became a legend herself, being almost as famous as the Langrisser itself...<$FFFC>
-But one who lives through all of mankind's history is also destined for solitude... <$FFFE>
-Her reason for staying was to watch over Langrisser, so the day that it fell into the hands of evil would never come.<$FFFD>
-For that was the mission assigned to her by Lushiris, a mission that would never truly end...<$FFFE>
-From a ruined kingdom far to the east hails Kirikaze, a Samurai that finally took his revenge for what the demons did to his country.<$FFFE>
-His two blades sliced through Elthlead enemies like ripe corn. Without his skills, rebuilding the ruined country Larcuss and delivering the original Bosel to justice wouldn't have been possible.<$FFFE>
-Despite his expectedly fabulous swordskills his performance in battle was a bit lackluster.<$FFFE>
-After fulfilling his duty he entrusted his most cherished sword to [diehardt's name] and returned to his home country.<$FFFE>
-Rumors say that he, tired of bloodshed, gave up fighting and now tends to the graves of his lord and his family.<$FFFE>
-Maybe one day he would set out on a journey once again...<$FFFE>
-Princess Freya not only had to suffer from the sudden madness of her own father Wilder, but also had to fight her dear childhood friend, [diehardt's name], in numerous battles.<$FFFE>
-Being shaken by [diehardt's name]'s wholeheartedly plea, she joined him to rescue her father from his succumbing madness.<$FFFD>
-To her great sorrow, there was no way to save her father but only the possibility to finally put his soul to rest.<$FFFD>
-During his last moments King Wilder shortly recovers to his true self, allowing them to see eye to eye, even though for just a fleeting moment. Furious about her father's demise, Freya takes bloody revenge on the responsible Demon General Rag.<$FFFE>
-After the war ended Freya and [diehardt's name] hoped for a happy life together. But the resurrected Geier kidnaps Freya shortly after to sacrifice her to Chaos .<$FFFD>
-To the very end Freya believed that [diehardt's name] would come for her, but her hopes were in vain...<$FFFD>
-With the revival of Chaos her soul plunged into eternal darkness.<$FFFC>
-Unable to endure the pain of having lost his beloved Freya, [diehardt's name] takes his own life shortly after...<$FFFE>
-Upon mustering inhuman strength to save his beloved, [diehardt's name] strikes down the Prince of Darkness.<$FFFD>
-After their victory over the true Bosel, Freya and [diehardt's name] returned to Barral to rebuild the shattered country.<$FFFD>
-Long months of hard work pass and finally order returned to the devastated Kingdom.<$FFFC>
-When the situation stabilizes Freya is reinstated as queen by the grateful citizens and doesn't hesitate to make [diehardt's name] her king.<$FFFD>
-The two of them would go down into history as the fairest and most caring monarchs Barral has ever had, creating happiness not only for themselves but for all of their people as well.<$FFFE>
-Although wanting to be together with Freya, [diehardt's name] decides to go on a journey to mature.<$FFFD>
-Waiting for his return, Freya heads back to her home country to rebuild the shattered country.<$FFFD>
-After long months of hard work order finally returned to the devastated country.<$FFFD>
-One day after years of hard work to rebuild Barral, a lone swordsman requests an audience by the queen.<$FFFD>
-No other than the man she had waited for so long, stands now before her and tears of joy run like rivers as the two lovers finally reunite.<$FFFE>
-Even though Freya was saved by [diehardt's name] from being sacrificed, she suffered severe injuries during the ongoing battles.<$FFFD>
-After their victory over Bosel, [diehardt's name] and Freya return to Barral to rebuild the shattered Kingdom.<$FFFD>
-With utmost combined effort the two manage to make good progress.<$FFFC>
-After long months of hard work order finally returns to the devastated country.<$FFFD>
-When the country finally stabilizes, the two at long last enjoy their partnership to the fullest.<$FFFC>
-But their happiness lasted only for a short while.<$FFFD>
-The old wounds from past battles, claim her life at a very young age.<$FFFD>
-Knowing that [diehardt's name] would be a just ruler for the country she now has to leave behind, she died with smile on her face...<$FFFE>
-Despite wanting to be together with Freya, [diehardt's name] decides to go on a journey to mature.<$FFFD>
-While waiting for her beloved to come back, Freya returned to Barral to rebuild the devastated Kingdom.<$FFFD>
-But the citizens still held a grudge against her, for their suffering caused by the insane Wilder and the reconstruction only progresses slowly.<$FFFD>
-When [diehardt's name] finally returned as a new man, he did everything to aide Freya.<$FFFD>
-Together they manage to establish order once more and led their country to great prosperity.<$FFFE>
-After the war ended, Freya returned to Barral to help rebuild the Kingdom her father left in disorder.<$FFFD>
-As the new queen she worked hard to create a better life for her people, being supported by the reinstated General Dios.<$FFFE>
-After long months of seemingly endless labour, order finally returns to the devastated country.<$FFFE>
-Although many princes and men of noble heritage try their luck, Freya turns them down rather determined and stays the absolute and sole ruler.<$FFFD>
-The only man that ever had a place in her heart was [diehardt's name].<$FFFE>
-Despite her solitude Freya went down into history as the fairest and most caring queen Barral ever had.<$FFFE>
-Although Elthlead supported Barral's rebuild in every way possible, it never reached its former glory,<$FFFE>
-resulting from her unanswered love towards [diehardt's name].<$FFFD>
-Unable to concentrate on matters at hand it seemed the land suffered with his queen.<$FFFD>
-Today the tragic queen of Barral has become the stuff of legend.<$FFFC>
-When the companions parted ways it was as if Freya had become unable to smile...<$FFFE>
-Hiding her feelings, she made an effort to learn how to govern a country.<$FFFC>
-While forcing herself to put up a brave front, no one truly understood her hearts sorrow.<$FFFD>
-Even though Barral flourished, happiness did not return to Freya. <$FFFE>
-Freya who couldn't bare her agony anymore threw herself into a lake to give up her life.<$FFFD>
-Each time the evening sun sets her image floats over the lake, being only visible to [diehardt's name]'s tear-filled eyes...<$FFFE>
-Ever hoping he could turn back time...<$FFFC>
-In order to protect the Shika Tribe it was Do Kahni who joined Sophia on her quest for peace.<$FFFE>
-His bravery and wildness in battle made his enemies shiver in fear and proved him worthy of his title as a hero.<$FFFD>
-After having fought many battles together, all his comrades acknowledge him as a true hero.<$FFFD>
-For his many feats he was chosen to be the successor of the great chief.<$FFFE>
-No one doubted his bravery in battle but he could've been  active a little bit more.<$FFFD>
-Being together with outsiders for so long didn't please everyone in the tribe.<$FFFD>
-Despite that he was chosen to be the successor of the great chief.<$FFFE>
-Being not very intelligent and always charging the enemy, he suffered many injuries during the countless battles he fought.<$FFFE>
-Still he was a great help in the War-effort and earned himself the title of "Hero of mankind".<$FFFD>
-After the war ended, he returned to the Shika tribe only to find his home being under attack by monsters.<$FFFD>
-Paying the ultimate price for protecting his kin, he died a true hero's death.<$FFFE>
-Despite calling himself a hero he seemed useless in real battle.<$FFFD>
-Making his way back home in frustration, he was ambushed by monsters.<$FFFC>
-That's the last thing known about him.<$FFFE>
-Among the four Imperial Generals there's one famed for his refined intellect, his name being Emerick.<$FFFD>
-He allied with [diehardt's name] to rescue his Lord Altemuller from the evil bewitchment of Alhazard.<$FFFE>
-However the hopes for rescuing Altemuller were slim.<$FFFC>
-His attempt to reach Altemuller's heart fail and the same dies in the aftermath.<$FFFD>
-Emerick who couldn't rescue Altemuller returned to the Empire and made every effort to manage the postwar confusion.<$FFFD>
-Unfortunately he wasn't able to reinstate order throughout the giant country.<$FFFC>
-But because there was no legitimate successor for the throne the quarrels among the nobles gave rise to a full-scale rebellion.<$FFFE>
-Only with combined efforts was it possible to save the obsessed Altemuller.<$FFFE>
-Since Altemuller and Varna set out on a journey, it was Emmailink's task to take care of affairs of the state in their absence.<$FFFC>
-Being gifted with a brilliant intellect, he proved himself to be highly capable to handle governmental affairs.<$FFFD>
-He managed to improve the citizens life significantly by applying new methods of agriculture and trade with other nations.<$FFFE>
-Since Altemuller and Varna set out on a journey,<$FFFC>
-it was his task to take care of affairs of the state in their absence.<$FFFC>
-Although being gifted intellectually, governing a gigantic country was to much to handle for him alone.<$FFFD>
-Due to the constant support from Elthlead peace and order could be maintained.<$FFFC>
-As of late there have been reports of him being in bad health evermore waiting for Altemuller's return..<$FFFE>
-Altemuller the highly skilled and decorated Field Marshal of the Riguler Empire, took up Alhazard, to avenge the death of his beloved Varna.<$FFFE>
-Having his heart filled with only anger and hatred he became the Prince of Darkness, Bosel.<$FFFC>
-However [diehardt's name] and company defeated him and sealed away Alhazard once more.<$FFFD>
-After all it was not possible for [diehardt's name] to rescue Altemuller's soul.<$FFFD>
-His heart had been already consumed by his hatred<$FFFD>
-and the demonic sword had changed him beyond repair.<$FFFC>
-Upon asking for reasons,<$FFFC>
-the cursed sword remains silent....<$FFFE>
-Having his heart filled with only anger and hatred he became Bosel temporally but returned to his true self thanks to powers of the Langrisser.<$FFFD>
-Afterwards he allied with [diehardt's name] in order to defeat Paul, who had become the new Bosel.<$FFFD>
-But even after the battle was won, there was no time for him to take a breath.<$FFFC>
-His most beloved Varna had been resurrected by the power of darkness that was fading from the world, thus threatening her very existence.<$FFFD>
-To find a way to restore Varna's humanity, they set out on a journey into the unknown.<$FFFE>
-Several years after peace had been established, it occurred that a Riguler division was attacked by remnants of the demon tribe.<$FFFD>
-The ambushed division was heavily outnumbered and prepared for a fight to the bitter end.<$FFFC>
-Out of nowhere a man and a women appear and annihilate all the demons with seemingly ease.<$FFFD>
-Emerick who rushes to the aid of the ambushed, utters the following, as he beholds the soldiers saviors, while tears swell up in his eyes...<$FFFC>
-"Welcome back your Excellency."<$FFFE>
-After many years the two of them still didn't return.<$FFFC>
-And maybe they have to continue their aimless journey forever...<$FFFE>
-Varna, known as one of the four Imperial Generals and Altemuller's beloved adjutant.<$FFFD>
-Shortly after rescuing her little Sister who had been kidnapped by Bosel, Varna gives her own life to protect Altemuller from being assassinated by Geier.<$FFFC>
-However, Altemuller gave new life to her by applying the powers of darkness.<$FFFE>
-When the true Bosel was defeated she set out on a journey with his Excellency Altemuller.<$FFFE>
-After long years of aimless traveling, a method to restore her humanity was finally found and the two of them lived in happiness ever after, enjoying their lives to the fullest.<$FFFE>
-After long years of aimless traveling, a method to restore her humanity still couldn't be found and so her life faded away.<$FFFD>
-The time she spent traveling with the man she loved was the happiest time of her life.<$FFFC>
-During her dying moments she thanked Altemuller for his love and promised to meet him in her next life...<$FFFE>
-Dreaming of becoming a knight since childhood, it was, [diehardt's name], who surpassed even his own wishes and became a hero amongst heroes.<$FFFC>
-Not only did he play a major role in restoring the ruined Kingdom of Larcuss and re-establishing peace throughout the world, but also protected all of humankind from the demon's invasion.<$FFFE>
-[diehardt's name] who had confessed his love to his chosen Tiaris, was overjoyed to realize that his love was returned.<$FFFE>
-[diehardt's name] who had confessed his love to his chosen Liffany, was overjoyed to realize that his love was returned.<$FFFE>
-[diehardt's name] who had confessed his love to his chosen Luna, was overjoyed to realize that his love was returned.<$FFFE>
-[diehardt's name] who had confessed his love to his chosen Sophia, was overjoyed to realize that his love was returned.<$FFFE>
-[diehardt's name] who had confessed his immortal love to his chosen Freya, was overjoyed to realize that his love was returned.<$FFFE>
-Their happiness didn't last long, since she was being sacrificed for the revival of Chaos.<$FFFE>
-Even though [diehardt's name] was able to defeat Chaos in a battle of epical scale, the wounds his heart had suffered tore him apart from within.<$FFFE>
-[diehardt's name], the hero who brought back peace could no longer stay in Elthlead.<$FFFC>
-He departed for journey without sense or direction, for his body had become an empty shell since the one he loved was no more...<$FFFE>
-Although she was kidnapped to be a sacrifice for the revival of Chaos, [diehardt's name] came to her rescue and defeated Paul in a battle of mythical scale.<$FFFE>
-From now on the reunited lovers cherished every single moment together and enjoyed happiness for as long as they lived .<$FFFE>
-...And this concludes the story of the rise of the fabled Kingdom Elthlead.<$FFFC>
-At that time no one imagined that those events were merely a prologue to an even greater story.<$FFFE>
-For the legend surrounding the Langrisser had only just begun...<$FFFE>
-Even though [diehardt's name] longed for many women, he kept his feelings locked away inside his heart of iron.<$FFFE>
-Even though [diehardt's name] confessed his sincere love, he was rejected and despised.<$FFFE>
-After their victory [diehardt's name] lost his will to live and went on a journey to find a nice place to die.<$FFFC>
-Altemuller who had turned into Bosel, couldn't be saved and lost his life during battle.<$FFFE>
-Thereupon [diehardt's name] decided to go on a journey to become a become a better man.<$FFFE>
-In order to spread the benefits of magic she invented numerous easy to use spells to help people lead a better life.<$FFFC>
-As a result the revolution of magic occurred.<$FFFD>
-The book about magic theory that Liffany wrote, was recognized as the foundation of modern magic.<$FFFE>
-The book about magic theory that Liffany wrote, was recognized as the foundation of modern magic.<$FFFC>
-While she was serving Elthlead she finished Volume one.<$FFFD>
-Due to this book she would be referred to as the "Goddess of Battle" even long after her time.<$FFFE>
-Several years later a massive horde of demons threatens the Elthlead border.<$FFFC>
-Luna heads out to stop the enemy's advance herself but is overwhelmed by their sheer numbers.<$FFFD>
-And thus with the last determined charge of the demons her short life came to an end...<$FFFE>
-Several years later Elthlead enjoyed prosperity even greater than Larcuss had known.<$FFFC>
-Not few think that what she and others of her kind where the ones who made this possibly with their unconditional altruism.<$FFFE>
-However, the injuries she received in battles long past got back at her and so she passed away at a cruelly young age.<$FFFD>
-Even during her last moments Sophia asked nothing of the ones present but to lead a happy life and parted with a gentle smile.<$FFFE>
-Long years passed and a rumor appeared saying that Altemuller had fallen to darkness.<$FFFC>
-Those who knew him had no doubt that if this was true he did it only to save poor Varna.<$FFFD>
-It said that he and a certain women were traveling the lands aimlessly...<$FFFE>
-Their journey reached a tragic end after long years of hardship.<$FFFC>
-Varna's body couldn't stay alive after most of the dark power had vanished.<$FFFD>
-And so one day right before Altemuller's eyes she turned to dust and was carried off by the wind leaving no trace behind.<$FFFE>
+Tiaris<$FFFF>
+Liffany <$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jugler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Emerick <$FFFF>
+ Lewin, son of King Siegheart, slew the  fiends with the help of  <$F600><$0000> and the others, bringing an end to the war that had raged across the continent.<$FFFE>
+ There once lived a famous blademaster hailing from the Kingdom of Larcuss.<$FFFD>After having thrown away his sword because of his daughter's death, it was  her spirit that  persuaded him to fight for justice once more.<$FFFE>
+ No one objected when Lewin, whose sincerity and steady nature had  won universal respect, inherited the throne.<$FFFD>Thus was born the  youngest king in the history of the Kingdom of Elthlead.<$FFFE>
+ Lewin's drive in this  war earned everyone's respect, and after Siegheart's death he ascended to the throne.<$FFFE>
+ Wherever power arises it has to fall again  eventually.<$FFFD>Pure of heart and  reasonable in judgement  are the descendants of light. Hope shall live on as long as people with such qualities draw breath.<$FFFE>
+ The rise and fall of kingdoms, the never ending battle against  demons outside and within, as well as the  involvement of the divine sword Langrisser, is the material for many legends to come.<$FFFE>
+ When 5 years had passed  Lewin took a beautiful lady of noble heritage as his wife.<$FFFD>This lady was no other than Tiaris, the girl he had learned to love  during his years of  fighting. By now she had  grown into a woman of  incomparable beauty and  elegance.<$FFFE>
+ And he who should remain the youngest king in the countrie's history, would be eternally remembered for his almost limitless efforts to govern Elthlead and create prosperity for  his people.<$FFFE>
+ By his hands Elthlead  should know long years of peace.<$FFFE>
+Despite being so young for a king, he surpassed  everyone's expectations  and brought prosperity to Elthlead for many years.<$FFFE>
+ By his hands Elthlead  should know long years of peace and prosperity.<$FFFE>
+ Tiaris the only daughter of Marquis William, escaped the collapsing fortress along with the  freshly instated knight  <$F600><$0000>.<$FFFE>
+ Despite her young age  and the grief her own  father's death caused  her, she fought  valiantly. Tiaris led  her troops into battle remarkably, ensuring  victory for Elthlead many times.<$FFFE>
+ To the surprise of many  she was able to overcome her sorrow and participate in battle  with exemplary elan.<$FFFE>
+ By putting up all his  bravery, <$F600><$0000> confessed that he loved  her as a woman.<$FFFD>Being struck by surprise at first, Tiaris was  overjoyed soon, never had she dared to hope to be something more to him than a sibling.<$FFFE>
+ The newly found joy  didn't last long, since the resurrected Geier  kidnapped Tiaris shortly after. It was none other than the God of  Darkness, that Tiaris should be sacrificed to.<$FFFD>Until the very end she believed in her Oni chan to come to rescue her.<$FFFD>When Chaos revived, her soul disappeared. Being disgusted by his own failure, <$F600><$0000> put himself out of misery, hoping to meet his loved one on the other side…<$FFFE>
+ After <$F600><$0000> puts an end to Bozel, the two lovers finally could enjoy their partnership.<$FFFD>Together, Tiaris and  <$F600><$0000>, who had become  the Supreme Commander of the Elthlead's Knights, enjoyed a long and ever  exiting life.<$FFFE>
+ After their victory, Tiaris was taken in by the Claus family, but joined <$F600><$0000> on his  journey to mature.<$FFFD>Tiaris who tagged along  with <$F600><$0000> never got sick of discovering new  places around the world.<$FFFD>To her it was like an  infinite honeymoon.<$FFFE>
+ After their victory, Tiaris was taken in by the Claus family, so  they could finally enjoy their married life.<$FFFD>Unfortunately her health deteriorated quickly due to an infection with a rare disease. <$F600><$0000> took care of  her the best he could  but ultimately had to  surrender her to death.<$FFFE>
+ After their victory, Tiaris was taken in by the Claus family, but joined <$F600><$0000> on his  journey to mature.<$FFFD>However, traveling was not as much fun as she had hoped for.<$FFFD>She returned to  <$F600><$0000>'s parents to  train under Ms. Claus to  become a good wife.<$FFFE>
+ After their victory, Tiaris was taken in by the Claus family, but eventually married Lewin who had become the King  of Elthlead.<$FFFD>Although being happily married, there still was a grain of sadness left  in her heart.<$FFFD>Never had she told her older brother that she felt more for him than relatives do. And from time to time she fantasized about how it  could have been to have  lived a different  life…<$FFFE>
+ But as the years passed  by her sorrow faded away too and she should go  down into history as the loving first queen of  Elthlead. And although  the responsibility to  govern a whole country demanded much of her, she lived a long and joyous life…<$FFFE>
+ And carrying that regret sealed in her heart, she lived out the rest of  her life.<$FFFE>
+ After their victory, Tiaris was taken in by the Claus family, but eventually married Lewin who was now king of  Elthlead.<$FFFD>And the county flourished along with  the monarch's happiness which led a life of  bliss for all their days on earth.<$FFFE>
+ After their victory, Tiaris was taken in by the Claus family, but eventually married Lewin who was now king of  Elthlead.<$FFFD>And the county flourished along with  the monarch's happiness, which tragically came to an end after a relatively short while. At still young age Tiaris was struck by a rare disease and her health deteriorated.<$FFFD>And while Lewin and  their children watched over her, life  eventually slipped away.<$FFFE>
+ There once lived a famous blademaster hailing from the Kingdom of Larcuss.<$FFFD>After having thrown away his sword because of his daughter's death, it was  her spirit that  persuaded him to fight for justice once more.<$FFFE>
+ His sword wrecked havoc  among his enemies, ensuring victory countless times. His prows in battle greatly  benefited the mobile division and thus the  founding of the Elthlead Kingdom.<$FFFD>After their victory  Gilbert was summoned to  be the fencing instructor of the  Elthlead Kingdom.<$FFFE>
+ His methods to not only  hone swordsmanship but to temper ones mind as well, gave rise to many grand knights.<$FFFD>Those who trained under  him soon were known as the finest knights throughout the continent,<$FFFD>netting him the  honorific title  "Gilbert, Broodmother of  Knights"…<$FFFE>
+ His methods to not only  hone swordsmanship but to temper ones mind as well, gave rise to many grand knights.<$FFFD>Those who trained under  him became strong but  often acted rashly in  battle.<$FFFE>
+ Never again did he reach his former greatness as  a blademaster, due to  the years of lethargy…<$FFFE>
+ After their victory  Gilbert was summoned to  be the fencing instructor of the  Elthlead Kingdom.<$FFFD>His methods were to not  only hone swordsmanship but to temper ones mind  as well, gave rise to  many grand knights.<$FFFD>Even though his trainees lacked somewhat in enthusiasm, they became famous as one of the strongest knight division throughout the  continent.<$FFFE>
+ After the battle Gilbert threw away his sword once more and returned to his village to take care of his daughter's grave.<$FFFD>Some years passed and  Gilbert finally lost his will to live and gave in to death…<$FFFE>
+ Upon being saved by  <$F600><$0000>, the young magician Liffany, joined  his quest to rebuild the Kingdom of Larcuss.<$FFFE>
+ She soon became an indispensable ally due to her powerful magic.<$FFFE>
+ Admiring him from the  very first moment, her affection towards  <$F600><$0000> grew ever so  deeper with every battle they fought together.<$FFFE>
+ After confessing the mutual love, it was  Geier who kidnapped  Liffany and brought an abrupt end to their  fresh love. His malicious intention was  to sacrifice Liffany to  Chaos, the deity of  destruction.<$FFFD>Up to the very end did she believe in <$F600><$0000> to come for her…<$FFFD>When Chaos revived, her soul fell into eternal darkness. Cursing himself, <$F600><$0000> followed his only one  shortly after…<$FFFE>
+ Against all odds <$F600><$0000> rescued her from the clutches of evil.<$FFFD>After peace was  restored, the two of  them settled down in the Capitol as a married couple. Liffany opened  up her own restaurant in the Capitol and soon her cooking was so popular that she was called a cooking genius.<$FFFD>Before long she opened up restaurants throughout the country to spread her way of the magic cuisine.<$FFFD>Using the spare money  she funded a university  to study demons and ways to fight them, always  being supported by her caring husband.<$FFFE>
+ When <$F600><$0000> set out on  his travels, Liffany joined him. But after a while she returned to  the Capitol.<$FFFD>Soon her cooking was loved by the people  around her. Being confident in her cooking abilities, Liffany opened up her own  restaurant.<$FFFD>Planning to open many  restaurants throughout the country but lacking  the funds, she once more joined up with <$F600><$0000>.<$FFFE>
+ However, due to the many injuries she suffered in battle, she passed away at a young age, never having the chance to realize her dreams.<$FFFE>
+ After Liffany was  rescued heroicly by  <$F600><$0000>, the two of  them settled down in the Capitol to enjoy their married life.<$FFFD>Being confident in her cooking abilities  Liffany opened up her  own restaurant with  <$F600><$0000>'s help.<$FFFD>Her genius cooking soon  became famous and the  two of them led a happy  life ever after.<$FFFE>
+Eventually Liffany had enough of traveling the  world. She returned to the Capitol and opened her own restaurant.<$FFFD>After several years, she founded her own  laboratory in the  Capitol. Eventually she  got absorbed into the  research of magic  completely. After a while she began  experimenting with spells of great  destructive power.<$FFFD>One day one of those spells failed horribly resulting in her body  being evaporated, leaving behind not even  the smallest trace…<$FFFE>
+ After their victory she  returned to her parents  in the Capitol to do research on magic and  demon kind.<$FFFE>
+In order to spread the benefits of magic she  invented numerous easy to use spells to help people lead a better life. As a result the revolution of magic  occurred.<$FFFD>The book about magic theory that Liffany  wrote, was recognized as the foundation of modern magic. Despite her many  achievements she often carried an expression of lonesomeness on her  face.<$FFFD>Although attracting men  and women alike, none  could meet her requirements, for there was only one man she was thinking of…one that had rescued her and the  world alike…<$FFFE>
+Eventually she began experimenting with spells of great  destructive power.<$FFFD>One day one of those spells failed horribly. Getting caught up into a magical explosion she  suffered sever injuries.<$FFFD>Only after several days  of rest she finally  opened her eyes again. Still in delirium she  called out for a man called <$F600><$0000> many  times…<$FFFE>
+ After several years, she founded her own  laboratory, and got absorbed into the  research of magic  completely.<$FFFD>In order to spread the benefits of magic she  invented numerous easy spells to help people  lead a better life. As a result the revolution of magic occurred.<$FFFD>The book about magic theory that Liffany  wrote, was recognized as the foundation of modern magic.<$FFFE>
+Then one day, after several years had  passed, she built a laboratory of her own  and immersed herself in  magical research.<$FFFD>Before long, she was endlessly experimenting  in an effort to create a spell of terrifying  destructive power.<$FFFD>But when a spell was accidentally triggered through a moment's carelessness, she was caught in the blast and, it is said, vanished  without a trace.<$FFFE>
+ The knight's apprentice  Pierre proved himself  worthy by leading  Larcussian refugees to safety.<$FFFD>While attending to this  task he crossed paths  with <$F600><$0000> and decided to help rebuilding the ruined  Kingdom of Larcuss.<$FFFE>
+ Pierre not only  supported his friends  with his cheerfulness  and jokes, but also with his foolhardiness in battle. During their  travels he grew from a boy into a dependable  knight.<$FFFD>He served the Elthlead Royal devotedly and was  promoted to be captain of the knights.<$FFFE>
+ Pierre performed admirably on the field of battle.<$FFFD>Finally he became the  knight he always wanted  to be and served the Elthlead Royal Family.<$FFFE>
+ But those who trust  their own power to much  live dangerously.<$FFFD>The last thing that was  heard of him was that he wanted to join the quest to extinct the dragons.<$FFFE>
+ After seeing the horrors of war for himself he  wished for a more  peaceful life. He  abandoned the way of the knight and succeeded his parent's bar.<$FFFD>One day a drunken  customer drew a sword  and Pierre who tried to  intervene suffered a deep wound. After days  of struggling he finally closed his eyes  forever…<$FFFE>
+ Being the daughter of  the genius strategos Torrand, Luna received education in all manners of warfare from an early age.<$FFFE>
+ Not only her mind but  also her blade was as  sharp as a razor and many claim that  Elthlead's victory was only possible due to her relentless efforts.<$FFFE>
+ Compared to her  strategies her swordskills were nothing grand.<$FFFE>
+ In the course of many  battles Luna developed a rather strong affinity towards <$F600><$0000>.<$FFFD>When <$F600><$0000>, in a surge of bravery confessed his love to  her, she almost didn't believe her ears. This  was a true stroke of luck, since she surely  would've stayed silent by herself.<$FFFE>
+ But their happiness  ended abruptly when  Geier kidnapped Luna shortly after. Geier's despicable motives were  to sacrifice Luna to the evil deity Chaos.<$FFFD>Until her last breath  she waited sternly for <$F600><$0000> to come for her…<$FFFD>Upon the revival of  Chaos, her soul  disappeared… Hating  himself for being too  weak, <$F600><$0000> took his  own life to be with Luna once again…<$FFFE>
+ After the war ended Luna didn't return to her Father's lands but decided to serve the Elthlead Royal Family.<$FFFE>
+A few years later, Luna was united with  <$F600><$0000>, but she continued in her role as a strategist.<$FFFD>Even though Elthlead had found peace, there were  still no shortage of minor states willing to  provoke war.<$FFFD>Yet <$F600><$0000> flawlessly  carried out her  brilliant, near genius strategies, bringing  each conflict to a close without needless losses.<$FFFD>And so, the exploits of Elthlead's finest knight and strategist are still sung with delight by bards to this day.<$FFFE>
+ But it was a world missing the one she  loved. Realizing his own immaturity, <$F600><$0000> set out on a journey of  training as soon as the  war ended.<$FFFD>Several years after Luna entered Elthlead's service, hordes of monsters began appearing near the border. Luna went there to take command, but the monsters' chaotic movements forced her onto the defensive.<$FFFD>Just when the final line of defense seemed about  to break, a lone man  appeared and drove the monsters away with his twin blades.<$FFFD>Yes the one man Luna would love for her entire life, <$F600><$0000>, had returned.<$FFFE>
+ Several years later Luna accompanies <$F600><$0000> again for a while, but ultimately settles down  to give lessons on strategy.<$FFFD>Peace didn't last long in Elthlead as the small country was still being  watched by many greedy eyes.<$FFFD>But with her unmatched strategies those minor incidents were solved  without any serious  bloodshed. Even though being gifted with a brilliant mind, <$F600><$0000>'s heart was the one thing she couldn't conquer…<$FFFE>
+ It was a life without  love. Still being malcontent with her  abilities she set out on a journey to mature.<$FFFD>Several years later a massive horde of demons  threatened the Elthlead  border. Luna headed out to stop the enemy's  advance herself but was  overwhelmed by their sheer numbers.<$FFFD>And thus with the last determined charge of the demons her short life  came to an end… <$F600><$0000> laments the loss of a good friend…<$FFFE>
+ After the war ended Luna didn't return to her Father's lands but decided to serve the Elthlead Royal Family.<$FFFE>
+ The time she spent fighting alongside <$F600><$0000> remained her  most treasured memory.<$FFFE>
+ The great sage and devoted follower of  Lushiris, Fauvel, watched over Lushiris  eastern gate for a long  time.<$FFFE>
+ He joined <$F600><$0000>'s cause and proved himself to be of great use due to his vast knowledge  and magical powers.<$FFFE>
+ For his contribution in  the establishment of peace he was appointed to be High Priest.<$FFFD>He spent the rest of his life spreading his belief of Lushiris and the importance to  maintain peace.<$FFFD>His good deeds would be  remembered long past his time and people spoke of him only as a saint.<$FFFE>
+ To honor his efforts during the war, Fauvel  was invited to serve the Elthlead Royal Family.<$FFFD>However he humbly  declined the offer and returned to his quiet  life to protect Lushiris gate.<$FFFD>And one day he passed  away peacefully, only  regretting to never have been able to behold his  beloved daughter Sophia in a brides dress.<$FFFE>
+ Despite his high age he  was a valuable member of the diversion, be it in  battle or as an advisor.<$FFFE>
+ To honor his efforts during the war, Fauvel  was invited to serve the Elthlead Royal Family.<$FFFD>However he humbly  declined the offer and returned to his quiet  life to protect Lushiris gate.<$FFFE>
+ After the war ended  Fauvel returned to his duty to protect the  eastern gate.<$FFFD>But his old body was torn from the past struggles and wouldn't serve him much longer.<$FFFD>And so one day he passed away peacefully, never being able to behold his beloved daughter Sophia in a brides dress.<$FFFE>
+ Sophia, daughter of the great sage Fauvel and  guardian of Lushiris southern gate.<$FFFD>After she was saved from a cruel sacrificial  ritual of the Shika Tribe, she joined  <$F600><$0000>'s quest for peace.<$FFFE>
+ Her healing magic not  only earned her the  title of goddess among the Shika's, but also  saved her companions innumerable times. Despising violence, it  was pity not hate that filled her heart when  she had to go into battle.<$FFFE>
+ Many times those who were injured depended on her healing abilities.<$FFFE>
+ Over time her heart  blossomed, being attracted to one man only. Her prayers were  answered and the one she longed for confessed his love to her.<$FFFE>
+ If it hadn't been for  Geier who kidnapped  Sophia, she and <$F600><$0000> could've enjoy  bliss from now on. Geier's despicable  motives were to  sacrifice Sophia to  Chaos, the god of  drakness.<$FFFD>To the very end Sophia believed that  <$F600><$0000> would come for  her, but her hopes were  in vain…<$FFFD>With the revival of  Chaos, her soul plunged  into eternal darkness. <$F600><$0000> going mad at  his own weakness, ultimately takes his own life to be with his  loved one once more.<$FFFE>
+ Eventually the war ended and peace returned to  the lands. But the damage done during the war was severe.<$FFFE>
+ <$F600><$0000> and Sophia made a happy home for themselves and many  children who were made orphans during the war.<$FFFD>Years went by and  Elthlead grew even more  prosperous than Larcuss  ever had. Not few think that what she and others of her kind where the  ones who made this possibly with their  unconditional altruism.<$FFFD>Eventually people grew to love her dearly and bestowed the name "Holy mother" upon her.<$FFFE>
+ <$F600><$0000> went on a journey for personal growth. Sophia joined him and helped everyone  in need that they came across during their  travels.<$FFFD>Years went by and  Elthlead grew even more  prosperous than Larcuss  ever had. Not few think that what she and others of her kind where the  ones who made this possibly with their  unconditional altruism.<$FFFE>
+Together with  <$F600><$0000>, Sophia built a happy home for themselves and funded an orphanage for the  youngest victims of the  war.<$FFFD>Those who were raised by those two grew up to be  good people who worked hard to make Elthlead a better place for everyone. However, the injuries she received in battles long past got  back at her and so she passed away at a cruelly young age.<$FFFD>Even during her last moments Sophia asked nothing of the ones  present but to lead a happy life and parted  with a gentle smile.<$FFFE>
+ <$F600><$0000> thinking  himself to be still to immature went on a journey. Sophia built an orphanage, ever awaiting his return.<$FFFD>Simply watching them grow filled her heart  with joy, but missing <$F600><$0000> wore her out.<$FFFD>She used all her energy  to raise the children to be good people but one day she had none left to live herself…<$FFFE>
+ During their shared time she developed a rather strong affection towards <$F600><$0000>. But her prayers remained unanswered.<$FFFD>In order to distract herself and to sooth her aching heart she traveled the lands to  aide those who had suffered during the war.<$FFFE>
+ After the demon thread was subdued she traveled the lands to aide those  who had suffered during  the war.<$FFFE>
+ The saintly beast  Jugler, blessed by  Lushiris herself was the guardian of the western  gate. He fought to  protect the lands that are blessed by his goddess.<$FFFE>
+ His ability to transform, often was crucial to gain a strategic advantage over the enemy.<$FFFD>His beastly strength and unmatched fluffiness were of great importance for Elthlead's success on the battlefield.<$FFFD>When the battles came to an end, Jugler returned to the western gate to act as a guardian once more. Waiting for him was a suspicious silhouette…<$FFFD>To Jugler's ineffable surprise it turned out, that it was a female saintly animal which he  believed to have become  extinct…<$FFFD>Several months later Lushiris blessed them with half a horde of healthy children. They  all led a happy and  carefree family life ever after.<$FFFE>
+ His ability to transform, often was crucial to gain a strategic advantage over the enemy. Jugler fought ferociously on the field of battle and not few  times helped his friends in perilous situations.<$FFFD>When the battles came to an end, Jugler returned to the western gate to act as a guardian once more. Jugler continued  his quiet life for a while but one day a terrible fire broke out  in the nearby village.<$FFFD>To save some left behind children, Jugler jumps  right into the blazing hell without the slightest hesitation.<$FFFD>Since that day there was not one child throughout the land that didn't know the story of the  heroic deeds of the  "Fiery Furball"…<$FFFE>
+ His ability to transform, often was crucial to gain a strategic advantage over the enemy. Many enemy's  fell victim to his claws and fangs but ravenous battle has taken his toll on him as well.<$FFFD>When the battles came to an end, Jugler returned to the western gate to act as a guardian once more. Jugler continued  his quiet life for a while but one day a terrible fire broke out  in the nearby village.<$FFFD>To save some left behind children, Jugler jumps  right into the blazing hell without the slightest hesitation. For his heroism he paid  with his life…but he thinks it was well worth…<$FFFE>
+ His ability to transform, often was crucial to gain a strategic advantage over the enemy. But unfortunately it seems like someone didn't  recognized his potential and neglected to use him.<$FFFD>Frustrated and disappointed he returned to the western gate. Feeling useless Jugler begins to grow lazy and  corpulent.<$FFFD>When his friends came to visit they were so shocked that they order  him to do a strict diet  and work out. Now his daily training includes  letting all children of  the village ride him, which makes the little rascals very happy…Jugler not so  much…<$FFFE>
+ Dios, a former general  of Barral deserted due to the insanity of King  Wilder and joined  <$F600><$0000>'s division.<$FFFE>
+ Being a hardened battle  veteran, his skills were of great use to the  Elthlead Kingdom.<$FFFD>After their victory Dios returned to Barral to  reconstruct the Kingdom which still was in shambles.<$FFFE>
+ Once order was restored  in Barral and Dios was being elected to become  the new supreme  commander of the Barral  army.<$FFFD>He would be remembered as the unbreakable backbone of Barral.<$FFFE>
+ In one of the many battles Dios suffered an injury on the arm and  became unable to lift a sword. This marked the end of Dios's fighting days.<$FFFD>When order was restored  in Barral, Dios set out  on a journey stating only that he would be  searching for a new  life.<$FFFE>
+ Although being a war veteran, Dios never was  given the chance to show his potential.<$FFFD>After their victory Dios returned to Barral to  reconstruct the Kingdom which still was in shambles.<$FFFD>Despite his efforts  everyone looked at him with scornful eyes.<$FFFE>
+ Nonetheless Dios kept up his work and did everything he could to help those around him. And one day all their  anguish towards him was  gone and made room for a different feeling, gratefulness.<$FFFD>After Barral stabilized  he was reinstated as General. He would go down as the finest General Barral had ever  seen.<$FFFE>
+ Dios worked his bones  off to make Barral better than ever. Upon  visiting the site of the still being  reconstructed castle a giant boulder drops and  buries Dios beneath it.<$FFFD>No one knows if it really was an accident or…<$FFFE>
+ The city of Laffel is  home to the self proclaimed righteousness robber silver wolf, which helped <$F600><$0000> to  overcome the occupation  of the Barral Kingdom.<$FFFD>During their travels he  makes friends with Lewin who offers him a position as a spy and  diplomat.<$FFFE>
+ Apart from excelling in  battle, his ability to  gather information fast  and efficiently made him and his many followers valuable allies for  Elthlead.<$FFFE>
+ When the war ended, he  offered his services to  the Elthlead Royal family.<$FFFD>Combining peace oriented diplomacy with an  invisibly working  information network paid off more than anyone would've hoped for.<$FFFD>Since the Floating Castle was no more it  was thanks to Wolf's many efforts that  Elthlead enjoyed long  years of peace.<$FFFD>His example of combining stealth and diplomacy  became a role model for  many potent agents to  come…<$FFFE>
+ His ability to gather  information fast and efficiently made him and his many followers a valuable ally for  Elthlead.<$FFFD>While conducting espionage in a foreign country he was noticed and attacked by the  soldiers.<$FFFD>Due to his old wounds  his body didn't move as  nimble as before and Wolf makes his escape  only barely… Being praised for making it  back alive didn't change his mind to quiet.<$FFFE>
+ Realizing that he was  growing to old for that  kind of work, he retired  and was never seen again…<$FFFD>When the war was over  Wolf was invited to  serve the Elthlead Royal Family.<$FFFE>
+ Wolf returned to Laffel  but suddenly recognized  that being a thief was immoral.<$FFFD>Shortly after he left on a journey to find a new  perspective for his  life. But he didn't participate very actively in battle.<$FFFE>
+ Once again Wolf returned to Laffel to harass the  rich and decadent, to  their great vexation.<$FFFD>At long last a hired assassin manages to  strike him with a poisonous venom delivering the lethal  blow.<$FFFD>Escaping the city didn't save his life but his  anonymity, his true  identity remaining a mystery up until today…<$FFFE>
+ The great sorceress  Jessica, evermore  surrounded by a veil of  mystery. As the Avatar of Lushiris on earth, it  was her task to guide  the human to the path of light.<$FFFE>
+ Her over worldly magical powers and intelligence  only were matched by her breathtaking beauty, which even rivaled Lushiris herself. No one  ever doubted that her  contributions were essential for the rise of the Elthlead Kingdom and the victory over demon kind.<$FFFE>
+ Her over worldly magical powers and intelligence  made her a indispensable ally on the battlefield, unfortunately she  suffered some injuries during the war against the demons.<$FFFE>
+ Her intelligence and many advises benefited the War effort greatly, her participation in battle however could have been more prolific.<$FFFE>
+ Her intelligence and many advises benefited the War effort greatly, but she was seen on the  battlefield only occasional.<$FFFE>
+ After peace was  established Jessica was  offered the position of  court magician and adviser by the Elthlead  Royal Family.<$FFFE>
+ With her ability to  reincarnate she  fulfilled her duty for many centuries and continued to guide the children and grandchildren of the Elthlead Royal family, which were called "The  descendants of light" ever after.<$FFFD>Over time she became a legend herself, being almost as famous as the  Langrisser itself… But one who lives through  all of mankind's history is also destined for solitude…<$FFFE>
+ Her reason for staying was to watch over  Langrisser, so the day  that it fell into the  hands of evil would  never come.<$FFFD>For that was the mission assigned to her by Lushiris, a mission that  would never truly end…<$FFFE>
+ From a ruined kingdom far to the east hails  Kirikaze, a Samurai that  finally took his revenge for what the demons did  to his country.<$FFFE>
+ His two blades sliced  through Elthlead enemies like ripe corn. Without his skills, rebuilding  the ruined country Larcuss and delivering the original Bozel to  justice wouldn't have  been possible.<$FFFE>
+Despite his expectedly fabulous swordskills his performance in battle  was a bit lackluster.<$FFFE>
+ After fulfilling his duty he entrusted his  most cherished sword to  <$F600><$0000> and returned to his home country.<$FFFE>
+ Rumors say that he, tired of bloodshed, gave  up fighting and now  tends to the graves of his lord and his family.<$FFFE>
+ Maybe one day he would set out on a journey once again…<$FFFE>
+ Princess Freya not only had to suffer from the sudden madness of her  own father Wilder, but also had to fight her  dear childhood friend, <$F600><$0000>, in numerous battles.<$FFFE>
+ Being shaken by  <$F600><$0000>'s wholeheartedly plea, she joined him to rescue her father from his  succumbing madness.<$FFFD>To her great sorrow, there was no way to save her father but only the  possibility to finally put his soul to rest.<$FFFD>During his last moments  King Wilder shortly  recovers to his true self, allowing them to  see eye to eye, even  though for just a fleeting moment. Furious about her father's demise, Freya takes  bloody revenge on the  responsible Demon  General Rag.<$FFFE>
+ After the war ended  Freya and <$F600><$0000> hoped for a happy life together. But the resurrected Geier  kidnaps Freya shortly after to sacrifice her to Chaos .<$FFFD>To the very end Freya believed that  <$F600><$0000> would come for  her, but her hopes were  in vain…<$FFFD>With the revival of  Chaos her soul plunged into eternal darkness. Unable to endure the pain of having lost his  beloved Freya, <$F600><$0000> takes his own life shortly after…<$FFFE>
+ Upon mustering inhuman strength to save his beloved, <$F600><$0000> strikes down the Prince  of Darkness.<$FFFD>After their victory over the true Bozel, Freya  and <$F600><$0000> returned to Barral to rebuild the  shattered country.<$FFFD>Long months of hard work pass and finally order returned to the  devastated Kingdom. When  the situation stabilizes Freya is reinstated as  queen by the grateful  citizens and doesn't hesitate to make <$F600><$0000> her king.<$FFFD>The two of them would go down into history as the fairest and most caring  monarchs Barral has ever had, creating happiness  not only for themselves  but for all of their people as well.<$FFFE>
+ Although wanting to be together with Freya, <$F600><$0000> decides to go on a journey to mature.<$FFFD>Waiting for his return, Freya heads back to her home country to rebuild  the shattered country.<$FFFD>After long months of hard work order finally  returned to the  devastated country.<$FFFD>One day after years of hard work to rebuild Barral, a lone swordsman  requests an audience by  the queen.<$FFFD>No other than the man  she had waited for so  long, stands now before her and tears of joy run like rivers as the two lovers finally reunite.<$FFFE>
+ Even though Freya was saved by <$F600><$0000> from being sacrificed, she suffered severe injuries during the ongoing battles.<$FFFD>After their victory over Bozel, <$F600><$0000> and Freya return to Barral  to rebuild the shattered Kingdom.<$FFFD>With utmost combined effort the two manage to make good progress. After long months of hard work order finally  returns to the devastated country.<$FFFD>When the country finally stabilizes, the two at  long last enjoy their  partnership to the fullest. But their happiness lasted only  for a short while.<$FFFD>The old wounds from past battles, claim her life  at a very young age.<$FFFD>Knowing that <$F600><$0000> would be a just ruler  for the country she now  has to leave behind, she died with smile on her face…<$FFFE>
+ Despite wanting to be  together with Freya, <$F600><$0000> decides to go on a journey to mature.<$FFFD>While waiting for her  beloved to come back, Freya returned to Barral to rebuild the  devastated Kingdom.<$FFFD>But the citizens still held a grudge against  her, for their suffering caused by the insane Wilder and the reconstruction only  progresses slowly.<$FFFD>When <$F600><$0000> finally returned as a new man, he did everything to aide Freya.<$FFFD>Together they manage to  establish order once more and led their country to great prosperity.<$FFFE>
+ After the war ended, Freya returned to Barral to help rebuild the Kingdom her father left in disorder.<$FFFD>As the new queen she worked hard to create a better life for her  people, being supported by the reinstated  General Dios.<$FFFE>
+ After long months of seemingly endless  labour, order finally returns to the devastated country.<$FFFE>
+ Although many princes  and men of noble heritage try their luck, Freya turns them down rather determined and  stays the absolute and sole ruler.<$FFFD>The only man that ever had a place in her heart was <$F600><$0000>.<$FFFE>
+ Despite her solitude Freya went down into  history as the fairest and most caring queen  Barral ever had.<$FFFE>
+ Although Elthlead  supported Barral's rebuild in every way possible, it never  reached its former glory,<$FFFE>
+ resulting from her unanswered love towards  <$F600><$0000>.<$FFFD>Unable to concentrate on matters at hand it seemed the land suffered with his queen.<$FFFD>Today the tragic queen of Barral has become the stuff of legend. When  the companions parted  ways it was as if Freya had become unable to smile…<$FFFE>
+ Hiding her feelings, she made an effort to learn  how to govern a country. While forcing herself to put up a brave front, no  one truly understood her hearts sorrow.<$FFFD>Even though Barral flourished, happiness did not return to  Freya.<$FFFE>
+ Freya who couldn't bare her agony anymore threw  herself into a lake to give up her life.<$FFFD>Each time the evening  sun sets her image floats over the lake, being only visible to  <$F600><$0000>'s tear filled eyes…<$FFFE>
+ Ever hoping he could turn back time… In  order to protect the Shika Tribe it was Do  Kahni who joined Sophia on her quest for peace.<$FFFE>
+ His bravery and wildness in battle made his enemies shiver in fear and proved him worthy of his title as a hero.<$FFFD>After having fought many battles together, all his comrades acknowledge him as a true hero.<$FFFD>For his many feats he  was chosen to be the successor of the great chief.<$FFFE>
+ No one doubted his bravery in battle but he could've been active a little bit more.<$FFFD>Being together with  outsiders for so long  didn't please everyone in the tribe.<$FFFD>Despite that he was  chosen to be the successor of the great chief.<$FFFE>
+ Being not very intelligent and always charging the enemy, he  suffered many injuries during the countless battles he fought.<$FFFE>
+ Still he was a great help in the War effort and earned himself the title of "Hero of  mankind".<$FFFD>After the war ended, he  returned to the Shika tribe only to find his home being under attack  by monsters.<$FFFD>Paying the ultimate  price for protecting his kin, he died a true  hero's death.<$FFFE>
+ Despite calling himself  a hero he seemed useless in real battle.<$FFFD>Making his way back home in frustration, he was  ambushed by monsters. That's the last thing  known about him.<$FFFE>
+ Among the four Imperial  Generals there's one famed for his refined  intellect, his name  being Emerick.<$FFFD>He allied with <$F600><$0000> to rescue his Lord Altemuller from the evil bewitchment of  Alhazard.<$FFFE>
+ However the hopes for  rescuing Altemuller were slim. His attempt to  reach Altemuller's heart fail and the same dies in the aftermath.<$FFFD>Emerick who couldn't rescue Altemuller  returned to the Empire and made every effort to manage the postwar confusion.<$FFFD>Unfortunately he wasn't  able to reinstate order  throughout the giant country. But because there was no legitimate  successor for the throne the quarrels among the nobles gave rise to a full scale rebellion.<$FFFE>
+ Only with combined efforts was it possible  to save the obsessed Altemuller.<$FFFE>
+ Since Altemuller and Varna set out on a journey, it was  Emmailink's task to take  care of affairs of the state in their absence. Being gifted with a brilliant intellect, he  proved himself to be highly capable to handle governmental affairs.<$FFFD>He managed to improve  the citizens life  significantly by applying new methods of  agriculture and trade  with other nations.<$FFFE>
+ Since Altemuller and Varna set out on a journey, it was his task to take care of affairs  of the state in their  absence. Although being  gifted intellectually, governing a gigantic country was to much to handle for him alone.<$FFFD>Due to the constant  support from Elthlead  peace and order could be maintained. As of late  there have been reports  of him being in bad  health evermore waiting  for Altemuller's return…<$FFFE>
+ Altemuller the highly  skilled and decorated  Field Marshal of the Riguler Empire, took up Alhazard, to avenge the death of his beloved Varna.<$FFFE>
+ Having his heart filled  with only anger and  hatred he became the Prince of Darkness, Bozel. However <$F600><$0000> and company defeated him and sealed  away Alhazard once more.<$FFFD>After all it was not possible for <$F600><$0000> to  rescue Altemuller's soul.<$FFFD>His heart had been already consumed by his  hatred<$FFFD>and the demonic sword  had changed him beyond repair. Upon asking for reasons, the cursed  sword remains silent…<$FFFE>
+ Having his heart filled  with only anger and  hatred he became Bozel temporally but returned  to his true self thanks  to powers of the Langrisser.<$FFFD>Afterwards he allied with <$F600><$0000> in order  to defeat Paul, who had become the new Bozel.<$FFFD>But even after the battle was won, there was no time for him to take a breath. His most  beloved Varna had been resurrected by the power of darkness that was fading from the world, thus threatening her very existence.<$FFFD>To find a way to restore Varna's humanity, they  set out on a journey into the unknown.<$FFFE>
+ Several years after  peace had been established, it occurred that a Riguler division  was attacked by remnants of the demon tribe.<$FFFD>The ambushed division  was heavily outnumbered  and prepared for a fight to the bitter end. Out of nowhere a man and a women appear and annihilate all the demons with seemingly  ease.<$FFFD>Emerick who rushes to  the aid of the ambushed, utters the following, as  he beholds the soldiers  saviors, while tears swell up in his eyes… "Welcome back your  Excellency."<$FFFE>
+ After many years the two of them still didn't return. And maybe they  have to continue their aimless journey  forever…<$FFFE>
+ Varna, known as one of the four Imperial  Generals and Altemuller's beloved adjutant.<$FFFD>Shortly after rescuing her little Sister who  had been kidnapped by  Bozel, Varna gives her own life to protect  Altemuller from being  assassinated by Geier. However, Altemuller gave new life to her by applying the powers of darkness.<$FFFE>
+ When the true Bozel was  defeated she set out on  a journey with his Excellency Altemuller.<$FFFE>
+ After long years of  aimless traveling, a method to restore her  humanity was finally found and the two of them lived in happiness  ever after, enjoying  their lives to the fullest.<$FFFE>
+ After long years of  aimless traveling, a method to restore her  humanity still couldn't  be found and so her life faded away.<$FFFD>The time she spent traveling with the man she loved was the  happiest time of her life. During her dying  moments she thanked  Altemuller for his love  and promised to meet him in her next life…<$FFFE>
+ Dreaming of becoming a knight since childhood, it was, <$F600><$0000>, who surpassed even his own wishes and became a hero amongst heroes. Not only  did he play a major role in restoring the ruined  Kingdom of Larcuss and re establishing peace  throughout the world, but also protected all of humankind from the  demon's invasion.<$FFFE>
+ <$F600><$0000> who had confessed his love to  his chosen Tiaris, was overjoyed to realize that his love was  returned.<$FFFE>
+ <$F600><$0000> who had confessed his love to  his chosen Liffany, was overjoyed to realize that his love was  returned.<$FFFE>
+ <$F600><$0000> who had confessed his love to  his chosen Luna, was overjoyed to realize that his love was  returned.<$FFFE>
+ <$F600><$0000> who had confessed his love to  his chosen Sophia, was overjoyed to realize that his love was  returned.<$FFFE>
+ <$F600><$0000> who had confessed his immortal love to his chosen Freya, was overjoyed to  realize that his love  was returned.<$FFFE>
+ Their happiness didn't last long, since she was being sacrificed for the revival of Chaos.<$FFFE>
+ Even though <$F600><$0000> was able to defeat Chaos in  a battle of epical scale, the wounds his  heart had suffered tore  him apart from within.<$FFFE>
+ <$F600><$0000>, the hero who  brought back peace could no longer stay in  Elthlead. He departed for journey without  sense or direction, for his body had become an empty shell since the  one he loved was no  more…<$FFFE>
+ Although she was kidnapped to be a sacrifice for the  revival of Chaos, <$F600><$0000> came to her rescue and defeated Paul in a battle of mythical  scale.<$FFFE>
+ From now on the reunited lovers cherished every single moment together and enjoyed happiness  for as long as they  lived .<$FFFE>
+ …And this concludes the story of the rise of the fabled Kingdom Elthlead. At that time  no one imagined that those events were merely a prologue to an even  greater story.<$FFFE>
+ For the legend surrounding the  Langrisser had only just begun…<$FFFE>
+ Even though <$F600><$0000> longed for many women, he kept his feelings locked away inside his heart of iron.<$FFFE>
+ Even though <$F600><$0000> confessed his sincere  love, he was rejected and despised.<$FFFE>
+ After their victory  <$F600><$0000> lost his will to live and went on a journey to find a nice place to die. Altemuller  who had turned into  Bozel, couldn't be saved and lost his life during battle.<$FFFE>
+ Thereupon <$F600><$0000> decided to go on a journey to become a become a better man.<$FFFE>
+ In order to spread the benefits of magic she  invented numerous easy to use spells to help people lead a better life. As a result the revolution of magic  occurred.<$FFFD>The book about magic theory that Liffany  wrote, was recognized as the foundation of modern magic.<$FFFE>
+ The book about magic theory that Liffany  wrote, was recognized as the foundation of modern magic. While she was serving Elthlead she finished Volume one.<$FFFD>Due to this book she would be referred to as  the "Goddess of Battle" even long after her  time.<$FFFE>
+ Several years later a massive horde of demons  threatens the Elthlead border. Luna heads out  to stop the enemy's  advance herself but is overwhelmed by their sheer numbers.<$FFFD>And thus with the last determined charge of the demons her short life  came to an end…<$FFFE>
+ Several years later  Elthlead enjoyed prosperity even greater  than Larcuss had known. Not few think that what  she and others of her  kind where the ones who  made this possibly with  their unconditional  altruism.<$FFFE>
+However, the injuries  she received in battles  long past got back at  her and so she passed  away at a cruelly young  age.<$FFFD>Even during her last moments Sophia asked nothing of the ones  present but to lead a happy life and parted  with a gentle smile.<$FFFE>
+ Long years passed and a rumor appeared saying  that ALtemuller had  fallen to darkness. Those who knew him had no doubt that if this  was true he did it only  to save poor Varna.<$FFFD>It said that he and a certain women were traveling the lands  aimlessly…<$FFFE>
+ Their journey reached a tragic end after long  years of hardship. Varna's body couldn't stay alive after most of the dark power had vanished.<$FFFD>And so one day right before Altemuller's eyes  she turned to dust and was carried off by the wind leaving no trace  behind.<$FFFE>

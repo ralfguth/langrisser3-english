@@ -42,7 +42,7 @@ The holy sword crafted by a legendary smith<$FFFF>
 to combat evil.  Forged using a layered metal<$FFFF>
 called Orihalcon.<$FFFF>
 (AT +7)<$FFFF>
-The Haja no Ken, enfused with Sieghart's soul.<$FFFF>
+The Haja no Ken, enfused with Gickhardt's soul.<$FFFF>
  Drawing on the divine protection of the Goddess<$FFFF>
 of Light, Lushiris, it has the power to face the Al Hazard.<$FFFF>
 (AT +11, DF +1, bonus magic resistance)<$FFFF>

@@ -1,16 +1,15 @@
-Langrisser III dumper [0x33b0b0 to 0x33becb]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,126 +19,85 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Princess Freya<$FFFF>
-Kaiser Paul<$FFFF>
-Field Marshal Geier<$FFFF>
+Emerick <$FFFF>
+Princess Freya <$FFFF>
+Kaiser Paul <$FFFF>
+Field Marshal Geier <$FFFF>
 Paul<$FFFF>
 Elthlead Commander<$FFFF>
 Do Kahni<$FFFF>
-On the Stronghold's Bridge<$FFFF>
-Please tell me, Freya.<$FFFC>
-What really happened to King Wilder?<$FFFE>
-...I was hunting alone and followed my prey deep into the forest.<$FFFE>
-When I didn't return, Father came looking for me.<$FFFC>
-My prey startled his horse and he fell from a cliff.<$FFFE>
-It was a miracle he wasn't badly hurt.<$FFFC>
-But...<$FFFE>
-Freya...<$FFFE>
-...Afterwards.<$FFFC>
-The kind father I knew was no more.<$FFFE>
-It was all my fault!<$FFFC>
-Father changed because of my carelessness!<$FFFC>
-That's the sad truth.<$FFFE>
-Everyone, please leave! There's nothing you can do!<$FFFE>
-Freya!<$FFFC>
-Please calm down!<$FFFE>
-I didn't want to fight you, but I can't betray my father.<$FFFE>
-...I've already chosen my path...<$FFFE>
-After father changed...<$FFFC>
-Barral began invading other countries.<$FFFE>
-I too have committed crimes against your people.<$FFFC>
-There's no turning back for me...<$FFFE>
-What do you think you're doing, Freya?<$FFFE>
-I no longer can hope for forgiveness.<$FFFE>
-...When the sun sets at this lake...remember me...<$FFFE>
-Flaaaaaaireeee!<$FFFE>
-Riguler Royal Castle ~ In front of Kaiser Paul's Chamber<$FFFF>
-...At last I've cornered you, Paul, Geier!<$FFFE>
-Lord Altemuller.<$FFFC>
-Must you act so forcefully?<$FFFE>
-The citizens have suffered greatly and your reputation...<$FFFE>
-Are you giving me advice?<$FFFC>
-I don't care about the citizens.<$FFFE>
-As long as Geier and Paul lie dead, nothing else matters.<$FFFE>
-....<$FFFE>
-It ends right here.<$FFFE>
-You can't hide from me forever.<$FFFC>
-Prepare yourselves!<$FFFE>
-Wuuah!<$FFFE>
-You have nowhere left to run to now.<$FFFE>
-G,G,Geier!<$FFFC>
-Cut him down!<$FFFE>
-You poisoned my father and yours before.<$FFFC>
-And even Varna...<$FFFE>
-Uuaarh!<$FFFE>
-Eehhh!<$FFFE>
-You're next, Paul!<$FFFC>
-Your crimes demand death!<$FFFE>
-Guaaaaargh!<$FFFE>
-Hmph.<$FFFC>
-He was blown away.<$FFFE>
-No matter, he can't survive that fall.<$FFFE>
-...It's over.<$FFFE>
-...Not a moment too soon. Good riddance.<$FFFE>
-If only there'd been a way to save her.<$FFFE>
-Lord Altemuller...<$FFFE>
-Plains leading to Barral's royal castle<$FFFF>
-What's the meaning of this?<$FFFE>
-We tried to stop him but he insisted on seeing you.<$FFFE>
-Shika!<$FFFC>
-I'm Do Kahni!<$FFFD>
-Khe Shikairo said.<$FFFC>
-Shika must help you.<$FFFD>
-Let me see Commander!<$FFFE>
-What should we do?<$FFFE>
-Don't worry, it's fine.<$FFFC>
-He's an old friend of ours.<$FFFD>
-We could use the help.<$FFFE>
-Ummm...<$FFFE>
-...Hm?<$FFFB>
-<$FFFC>
-What is it?<$FFFE>
-A Shika tribesman wants to see you.<$FFFE>
-I see...<$FFFC>
-Let him pass.<$FFFE>
-I'll send him over right away.<$FFFE>
-Oh, its you?<$FFFE>
-Shika!<$FFFD>
-Do Kahni is Hero!<$FFFC>
-Do Kahni helps you!<$FFFC>
-Better fighting evil together!<$FFFE>
-The Shika chief herself sent him.<$FFFE>
-Thanks for coming, Do Kahni.<$FFFD>
-We can use the help.<$FFFC>
-Welcome aboard.<$FFFE>
-Shikaaaa!<$FFFE>
-You must be tired from your journey.<$FFFC>
-Please rest for now.<$FFFE>
-Shika!<$FFFC>
-Do Kahni happy <$FFFC>
-Shikaa!<$FFFE>
-...Please cheer up.<$FFFE>
-Huh?<$FFFE>
-You lead the Elthlead troops.<$FFFD>
-If the commander feels down, it affects all the troops.<$FFFC>
-You should try to cheer up.<$FFFE>
-What do you reply<$FFFE>
-I'm alright<$FFFE>
-...I'm sorry<$FFFE>
+On the Stronghold's  Bridge<$FFFF>
+ Please tell me, Freya. What really happened to  King Wilder?<$FFFE>
+ …Not long ago, I was out in the forest  hunting on my own and  followed my prey deep into the forest.<$FFFE>
+ When I didn't come home  Father and some his  subordinates came  looking for me. My prey had startled my father's horse and father fell  from a cliff.<$FFFE>
+ It was a miracle that he wasn't injured seriously. But…<$FFFE>
+ Freya…<$FFFE>
+ …Afterwards. The kind  father I knew was no more.<$FFFE>
+ It was all my fault! Father only changed  because of my  mindlessness! That's the  sad truth.<$FFFE>
+ Please everyone you must leave here, there is  nothing you can do to  help!!<$FFFE>
+ Freya! Please calm down  Freya!<$FFFE>
+ I really didn't want to  fight with you but I cannot bring myself to betray my own father.<$FFFE>
+ …I have already chosen  my path…<$FFFE>
+ After father changed… Barral began to invade other country's.<$FFFE>
+ Even I have committed  horrible crimes against  the people of your country. There's no  turning back for me any  longer…<$FFFE>
+ What do you think you're doing, Freya?<$FFFE>
+ I no longer can hope for forgiveness.<$FFFE>
+ …When the sun sets at this lake…remember me  sometimes…<$FFFE>
+ Flaaaaaaireeee!<$FFFE>
+ Riguler Royal Castle <$0236> In front of Kaiser Paul's Chamber<$FFFF>
+…At long last I've got  you cornered Paul, Geier!<$FFFE>
+ Lord Altemuller. Is it really necessary to act  so forcefully?<$FFFE>
+ The common citizens have already suffered quiet heavily and your reputation…<$FFFE>
+ Are you trying to give me advice? I don't care  about the common citizens.<$FFFE>
+ As long as Geier and Paul lay dead at my  feet, I couldn't care less about such trivial  matters.<$FFFE>
+…<$FFFE>
+ It ends right here.<$FFFE>
+ Even you must understand that you can't hide from me forever. Prepare yourselves!<$FFFE>
+ Wuuah!<$FFFE>
+ You have nowhere left to run to now.<$FFFE>
+ G,G,Geier! Cut him down!<$FFFE>
+ You poisoned my father and your own father  before. And even  Varna…<$FFFE>
+ Uuaarh!<$FFFE>
+ Eehhh!<$FFFE>
+ You're next Paul! The crimes you committed can only be answered by  death!<$FFFE>
+ Guaaaaargh!<$FFFE>
+ Hmph. He was blown away.<$FFFE>
+ No matter, he can't  survive a fall like  this.<$FFFE>
+ …It is over.<$FFFE>
+ …And not one moment to  soon, it sure feels good  to be rid of them.<$FFFE>
+ If only there had been a way to save her.<$FFFE>
+ Lord Altemuller…<$FFFE>
+Plains leading to  Barral's royal castle <$FFFF>
+ What's the meaning of  this?<$FFFE>
+ We tried to stop him but he insisted on seeing  <$F600><$0000>.<$FFFE>
+ Shika! I am Do Kahni!<$FFFD>Khe Shikairo said. Shika must help you.<$FFFD>Let me see Commander!<$FFFE>
+ What should we do?<$FFFE>
+ Don't worry, that's  quiet alright. He is an  old acquaintance of  ours.<$FFFD>We could use the additional manpower.<$FFFE>
+ Ummm…<$FFFE>
+ …Hm?<$FFFB>What is it?<$FFFE>
+ A member of the Shika tribe wants to see you.<$FFFE>
+ I see… Let him pass.<$FFFE>
+ Of course, I will send him over right away.<$FFFE>
+ Oh, its you?<$FFFE>
+ Shika!<$FFFD>Do Kahni is Hero! Do  Kahni helps you! Better  fighting evil together!<$FFFE>
+ It seems the chief of  the Shika's herself has send him over.<$FFFE>
+ Thanks for coming Do Kahni.<$FFFD>We can use the extra hand. Welcome on board.<$FFFE>
+ Shikaaaa!<$FFFE>
+ You must be tired from your journey. Please go and rest up for now.<$FFFE>
+ Shika! Do Kahni happy  Shikaa!<$FFFE>
+ …Please cheer up.<$FFFE>
+ Huh?<$FFFE>
+ You are the leader of  the Elthlead troops.<$FFFD>If the commander feels down it has an effect on all of his troops. That's why you should  try to cheer up.<$FFFE>
+What do you reply <$FFFE>
+I am alright<$FFFE>
+ …I am sorry<$FFFE>
 Leave me alone<$FFFE>
-I'm alright.<$FFFC>
-I'm not as down as I look.<$FFFE>
-...Is that so...<$FFFC>
-If that's the case it's good...<$FFFE>
-...I'm sorry.<$FFFC>
-I gave into my sadness without minding everyone's feelings.<$FFFE>
-Sorry for being blunt.<$FFFC>
-But if you don't encourage us now, who will...<$FFFE>
-...Thank you...<$FFFC>
-For caring...<$FFFE>
-...Leave me alone.<$FFFE>
-Huh?<$FFFE>
-I told you to leave!<$FFFE>
-...I'll leave.<$FFFC>
-But we're all depressed. If you don't encourage us, who will?<$FFFD>
-For everyone's sake, I hope you'll be back to normal tomorrow.<$FFFE>
+ I am alright. I am not  feeling down as much as  I look.<$FFFE>
+ …Is that so… If  that's the case it's good…<$FFFE>
+ …I am sorry. I just  gave into my own sadness not minding everyone else's feelings.<$FFFE>
+ And I am sorry for putting it so bluntly. But if you don't encourage us at times  like this no one else  will…<$FFFE>
+ …Thank you… For caring…<$FFFE>
+ …Leave me alone.<$FFFE>
+ Huh?<$FFFE>
+ I told you to leave!<$FFFE>
+ …I will leave. But know that we all are depressed and if you don't encourage us to  carry on who else will?<$FFFD>For everyone's sake I hope that coming tomorrow you will be back to normal.<$FFFE> 

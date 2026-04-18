@@ -34,7 +34,7 @@ Altemuller<$FFFF>
 General Geier<$FFFF>
 Bosel<$FFFF>
 Necromancer Grove<$FFFF>
-Shapeshiftress Ferakia<$FFFF>
+Shapeshiftress Feraquea<$FFFF>
 Worm Master Rag<$FFFF>
 Richard<$FFFF>
 Coty<$FFFF>
@@ -53,7 +53,7 @@ General Varna<$FFFF>
 General Emerick<$FFFF>
 Princess Freya<$FFFF>
 Do Kahni<$FFFF>
-Sieghart<$FFFF>
+Gickhardt<$FFFF>
 Gilbert<$FFFF>
 Coty<$FFFF>
 Adjutant Ruud<$FFFF>
@@ -312,7 +312,7 @@ Elthlead Soldier<$FFFF>
 Elthlead Soldier<$FFFF>
 Elthlead Soldier<$FFFF>
 Elthlead Soldier<$FFFF>
-Ferakia<$FFFF>
+Feraquea<$FFFF>
 Ledin<$FFFF>
 Chris<$FFFF>
 Namu<$FFFF>

@@ -1,16 +1,15 @@
-Langrisser III dumper [0x2e0604 to 0x2e09cf]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,27 +19,17 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Imperial First Prince Paul<$FFFF>
-Advisor<$FFFF>
-<$FFFC>
-Scenario ~ 24<$FFFC>
-"The Field Marshal's Determination"<$FFFE>
-Velzeria, country of the demon kind, has begun a full-scale invasion.<$FFFC>
-The mobile division was defending the border villages but got a<$FFFC>
-high priority recall because of the Empire's attack on the royal capitol.<$FFFE>
-But, who will ultimately win in this battle between three foes; <$FFFC>
-the Empire, Velzeria, or Elthlead?<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of all enemies<$FFFC>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of Sieghart<$FFFE>
-Riguler Imperial Castle ~ Paul's Personal Room<$FFFF>
-So, now that my father's died, it's my turn to take the throne.<$FFFE>
-But, Altemuller seems more popular within the court here.<$FFFE>
-How shall we deal with those fools expected to oppose us?<$FFFE>
-Let's just give Altemuller no margin for error if he blunders again.<$FFFE>
-And when he does.....I'll call for his death.<$FFFE>
-This plan might take some time before it can be hatched.<$FFFC>
-But, it gives me such a rush.<$FFFC>
-Hahahaha!<$FFFE>
+Emerick <$FFFF>
+Imperial First Prince  Paul<$FFFF>
+Advisor <$FFFF>
+ Scenario <$0236> 24 "The Field  Marshal's Determination"<$FFFE>
+ Velzeria, the land of monsters, had begun its full invasion. The separate force that  saved the border village was immediately ordered  back to the royal  capital, which was under attack by the Imperial Army, with no time to rest.<$FFFE>
+Velzeria, country of the  demon kind, has begun a full scale invasion. The mobile division was  defending the border villages but got a high  priority recall because  of the Empire's attack  on the royal capitol.<$FFFE>
+ <$01E9>Condition for Victory  Defeat of all enemies  <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Gickhardt <$FFFE>
+Riguler Imperial Castle  <$0236> Paul's Personal Room<$FFFF>
+ So, now that my father's died, it's my turn to take the throne.<$FFFE>
+ But, Altemuller seems  more popular within the  court here.<$FFFE>
+How shall we deal with those fools expected to  oppose us?<$FFFE>
+ Let's just give  Altemuller no margin for error if he blunders again.<$FFFE>
+ And when he does…I will call for his death.<$FFFE>
+ This plan might take some time before it can  be hatched. But, it  gives me such a rush. Hahahaha!<$FFFE> 

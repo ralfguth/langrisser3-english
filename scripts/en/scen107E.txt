@@ -1,16 +1,15 @@
-Langrisser III dumper [0x34c9f8 to 0x350837]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,615 +19,375 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Dark Knight<$FFFF>
+Emerick <$FFFF>
+Dark Knight <$FFFF>
 Layla<$FFFF>
-Sage Fauvel<$FFFF>
+Sage Fauvel <$FFFF>
 Jugler<$FFFF>
 City of Laffel<$FFFF>
-...Gerold asked me to give this keepsake to Layla.<$FFFE>
-Th..that's!<$FFFC>
-The pendant I gave him...<$FFFE>
+ …Gerold asked me to  give this keepsake to  his beloved, Layla.<$FFFE>
+ Th…that's! The pendant I gave him…<$FFFE>
 Take it as a memento.<$FFFE>
-Gerold's last wish was for you to find happiness...he's gone.<$FFFE>
-...Gerold...<$FFFE>
-Well then, my time has almost run out...<$FFFC>
-I should not stay here any longer.<$FFFC>
-Once we were enemies, but let us part as friends.<$FFFE>
-Thank you for keeping your promise to come back and protecting Laffel.<$FFFE>
-You have become a sublime knight.<$FFFC>
-I compliment you...<$FFFE>
-...Gerold...<$FFFE>
-Farewell...<$FFFE>
+ Gerold's last wish was  for you to find  happiness…he's dead.<$FFFE>
+ …Gerold…<$FFFE>
+ Well then, my time has almost run out… I should not stay here any longer. Once we were  enemies but let us part  as friends.<$FFFE>
+ Thank you for keeping  your promise to come back and protect Laffel.<$FFFE>
+ You have become a sublime knight. I compliment you…<$FFFE>
+ …Gerold…<$FFFE>
+ Farewell…<$FFFE>
 That night<$FFFF>
-..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$FFFC>
-Tomorrow we march on the imperial capital.<$FFFE>
-This will be the decisive battle...<$FFFC>
-...Maybe not all of us will return alive...<$FFFE>
-We only made it this far because everyone joined their strength.<$FFFE>
-Thus...<$FFFE>
-Which one of those do you prefer?<$FFFE>
-A Woman<$FFFE>
-A Man<$FFFE>
-Who captivates your heart?<$FFFE>
+ …<$FE3C>…<$FE3C>…<$FE3C>… So tomorrow we  finally march into the imperial capital.<$FFFE>
+ This will be the decisive battle… …Maybe not all of us  will return alive…<$FFFE>
+ We only made it this far because everyone joined  their strength.<$FFFE>
+ Thus…<$FFFE>
+ Which one of those do  you prefer?<$FFFE>
+A Woman <$FFFE>
+A Man <$FFFE>
+ Who is the women that  enthralls your heart?<$FFFE>
 Tiaris<$FFFE>
-Liffany<$FFFE>
+Liffany <$FFFE>
 Luna<$FFFE>
 Sophia<$FFFE>
 Freya<$FFFE>
-Who captivates your heart?<$FFFE>
+ Who is the women that  enthrals your heart?<$FFFE>
 Tiaris<$FFFE>
-Liffany<$FFFE>
+Liffany <$FFFE>
 Luna<$FFFE>
 Sophia<$FFFE>
 Freya<$FFFE>
-...Freya...<$FFFD>
-I wasn't strong enough to save you..<$FFFC>
-I hope you feel no more pain, wherever you are...<$FFFE>
-....<$FFFC>
-I'll never forget what you gave your life for...<$FFFE>
-Tomorrow we seal the demon sword that caused all this...<$FFFD>
-Watch over me, Freya...<$FFFE>
-Do you want to confess your love to her?<$FFFE>
-...I don't want any regrets.<$FFFE>
-...No.<$FFFC>
-We have an important battle ahead.<$FFFC>
-I don't want to unsettle her.<$FFFE>
-I must keep these feelings in my heart a while longer.<$FFFD>
-....<$FFFE>
-...Tiaris.<$FFFE>
-<$ff><$fa>...<$FFFE>
-...Well, already asleep are we?<$FFFC>
-How unfortunate, and yet I feel relieved in some way.<$FFFE>
-<$ff><$fa>...U..m,<$FFFC>
-<$ff><$f9>who's there?<$FFFE>
-Ah, sorry.<$FFFC>
-Did I wake you up?<$FFFE>
-No, it's alright,<$FFFC>
-...but what's the matter?<$FFFE>
-Eh, emmm...<$FFFC>
-It's just that...<$FFFE>
-Hm?<$FFFE>
-How do I best put it...<$FFFE>
-What?<$FFFE>
-Tiaris.<$FFFC>
-I...love you!<$FFFE>
-Ehh!?<$FFFE>
-I love you.<$FFFC>
-This was not the best time to say something like this,<$FFFC>
-that I understand.<$FFFE>
-However, I had to speak my mind before tomorrow.<$FFFC>
-...Therefore you had to know how I feel about you...<$FFFE>
-...<$FFFE> 
-I, I'm so sorry!<$FFFC>
-Blurting out something weird like that!<$FFFE>
-...Ah....um<$FFFE>
-Ehh!?<$FFFE>
-I like you very much.<$FFFC>
-...No, I loved you all this time.<$FFFE>
-Ever since you came to start your training with papa.<$FFFE>
-...Tiaris.<$FFFE>
-How dreamlike.<$FFFC>
-I always thought you would only see me as a little sister...<$FFFE>
-At the beginning I did. But little by little, I saw you as more than that.<$FFFE>
-You are the most irreplaceable person to me.<$FFFC>
-I love you, Tiaris.<$FFFE>
-...I love you too...<$FFFE>
-...Ahahah!<$FFFE>
-Ti..Tiaris?<$FFFE>
-That was the best joke so far!<$FFFE>
-Jo..Joke...<$FFFE>
-You said it to ease me before tomorrow, right?<$FFFD>
-I'm fine, Brother!<$FFFE>
-...Brother...<$FFFE>
-That's right.<$FFFC>
-[diehardt's name], you're family to me!<$FFFD>
-I can always count on you!<$FFFE>
-O,oh!<$FFFC>
-I'll take care of everything!<$FFFD>
-...Well, good night then.<$FFFE>
-Good night, brother!<$FFFE>
-...So I'm just a brother to her, huh?<$FFFE>
-My, what brings you here at such an hour?<$FFFE>
-Hey, Liffany.<$FFFC>
-Wonderful moonlit night, isn't it?<$FFFE>
-That's certainly true.<$FFFC>
-On a night like this, one could hear the howling of a werewolf.<$FFFE>
-....<$FFFE>
-What is the matter?<$FFFE>
-Was there something else you wanted to talk about?<$FFFE>
-Well...<$FFFC>
-As a matter of fact there is something I wanted to tell you.<$FFFE>
-Me?<$FFFC>
-What could it be?<$FFFE>
-...Liffany.<$FFFE>
-Yes?<$FFFE>
-To be honest, I...<$FFFE>
-Please speak clearly...<$FFFE>
-I love you.<$FFFC>
-Liffany...<$FFFE>
-....<$FFFE>
-I'll say it as many times as you need.<$FFFC>
-I love you.<$FFFC>
-I adore you with all of my heart.<$FFFE>
-What a delightful sensation.<$FFFC>
-How I have longed for you to say this, ever since we first met.<$FFFE>
-From whence you saved me from the Empire,<$FFFC>
-I had a feeling that one day those words would come.<$FFFE>
-I'm so glad you didn't reject me...I couldn't have taken the pain.<$FFFE>
-Well, I didn't believe you could be hurt by anything.<$FFFC>
-My valiant knight.<$FFFE>
-Hey now, I'm a sensitive being too.<$FFFE>
-Hihihi.<$FFFC>
-Even so, please continue to rescue me in the future.<$FFFE>
-Gotcha. I promise.<$FFFE>
-I will protect you no matter what.<$FFFC>
-Liffany...<$FFFE>
-Did you hear that!? The werewolf!<$FFFC>
-It wants to eat me alive!<$FFFE>
-...Liffany...<$FFFE>
-Speaking of which, I need to cook for tomorrow.<$FFFE>
-...Um...<$FFFE>
-Can't fight on an empty stomach!<$FFFC>
-True enough!<$FFFC>
-Then help me!<$FFFE>
-...Oh boy.<$FFFE>
-My, what's the matter?<$FFFC>
-Did I see a werewolf just over there?<$FFFE>
-So romance is off the table...<$FFFD>
-Hey now.<$FFFC>
-Maybe after tomorrow's battle there'll be time for that...<$FFFE>
-I'm lucky.<$FFFC>
-She is still awake at this hour.<$FFFE>
-Oh, [diehardt's name].<$FFFC>
-I'm thinking of a strategy for tomorrow's battle.<$FFFE>
-Luna.<$FFFC>
-Up until now you have worked so hard.<$FFFE>
-Without you we couldn't have made it this far.<$FFFE>
-What's the matter, why are you being so formal?<$FFFE>
-Say nothing, please just listen.<$FFFE>
-...Okay.<$FFFE>
-...Sometimes it's hard to say something no matter how you try...<$FFFE>
-No, let me put it bluntly.<$FFFE>
-...Yes.<$FFFE>
-Luna, I love!<$FFFE>
-....<$FFFE>
-It's the honest truth.<$FFFC>
-I love you with all my heart.<$FFFE>
-...Th..That can't, me...<$FFFE>
-I'm just a tactician, so terribly unwomanly at that...<$FFFE>
-That's not true!<$FFFC>
-You are plenty woman, I assure you.<$FFFE>
-Without a doubt!<$FFFE>
-You don't mean it....Hihi...<$FFFE>
-...What is your reply?<$FFFE>
-...I don't know how to find romantic words well, but...<$FFFE>
-I'm also very fond of you...<$FFFE>
-...I love you too...<$FFFE>
-...That was wonderful.<$FFFC>
-With that encouragement, I'm ready for tomorrow's battle.<$FFFE>
-...Unconditionally, we will be victorious!<$FFFE>
-...Yes...<$FFFE>
-...Did you just say something?<$FFFE>
-Eh?<$FFFE>
-Tomorrow is decisive. Get plenty of rest.<$FFFC>
-Sleep improves your command skills.<$FFFE>
-Eh, but...<$FFFE>
-It's alright.<$FFFC>
-I'll take care of all preparations.<$FFFE>
-....<$FFFE>
-Sleep well, commander.<$FFFE>
-Bad timing...or just bad luck...<$FFFE>
-Lushiris, goddess of light, please grant us your protection.<$FFFC>
-And please protect the one most dear to me...<$FFFE>
-Huh, who's there!?<$FFFE>
-I, I'm so sorry!<$FFFC>
-It's just me...<$FFFC>
-It wasn't my intention to be eavesdropping...<$FFFE>
-...Um...so you heard me?<$FFFE>
-...Sorry.<$FFFE>
-...<$FFFE>
-Forgive me!<$FFFC>
-I won't do it again!<$FFFE>
-...So long.<$FFFE>
-Wait!<$FFFE>
-Eh?<$FFFE>
-U,umm...<$FFFE>
-...This may not be the best time for it,<$FFFE>
-but please listen.<$FFFE>
-Sophia, I...<$FFFE>
-Please listen closely,<$FFFC>
-for it takes all of my courage to say this.<$FFFE>
-No, I will speak from here.<$FFFE>
-I love you.<$FFFE>
-...This is not a dream is it...?<$FFFE>
-It is no dream.<$FFFC>
-Look at me, I'm right here by your side.<$FFFE>
-Is this really true?<$FFFC>
-Can I believe it?<$FFFE>
-I like you more than anything else, Sophia.<$FFFC>
-I love you.<$FFFE>
-I love you too.<$FFFC>
-...It feels like a wonderful dream...<$FFFE>
-...Was that what you came to say?<$FFFE>
-That..was...<$FFFE>
-What are you getting at?<$FFFE>
-The person...most dear to you...<$FFFE>
-Please just forget about that!<$FFFE>
-Fine, I'll forget!<$FFFC>
-...But answer one question.<$FFFD>
-Who is the person dearest to you, if not me?<$FFFE>
-...How regrettable...<$FFFE>
-Hahaha, I see.<$FFFD>
-I'll just have to get over it.<$FFFC>
-Don't misunderstand!<$FFFE>
-I don't dislike you..<$FFFC>
-I hold you in high regard...<$FFFD>
-But,...<$FFFB>
-<$FFFC>
-I'm sorry...<$FFFE>
-No need to apologize...<$FFFE>
-...Forget what I said...<$FFFC>
-Rejection hurts the most...<$FFFE>
-Humph!<$FFFC>
-Ha!<$FFFE>
-Here you are Freya.<$FFFE>
-Oh, you've been watching?<$FFFC>
-...I can't seem to sleep.<$FFFE>
-Heh, same here.<$FFFE>
-Even someone like you?<$FFFE>
-Now you're making me feel terrible.<$FFFE>
-Hihihi, I'm joking.<$FFFE>
-Sheesh!<$FFFE>
-...How nostalgic this feels.<$FFFC>
-Watching the moon together with you like this.<$FFFE>
-That's right.<$FFFC>
-In the old days we had a good time doing this together.<$FFFE>
-...Say, Freya.<$FFFC>
-Would you just listen and don't laugh?<$FFFE>
-What's the matter, why so tense all of a sudden?<$FFFE>
-Long ago I vowed to you that I would become a knight,<$FFFC>
-a splendid one at that.<$FFFE>
-I remember.<$FFFE>
-As promised I became a knight.<$FFFE>
-But whether I'm a fine knight or not I do not know.<$FFFE>
-You are a wonderful one.<$FFFE>
-Thank you.<$FFFC>
-When you say it with such confidence I can believe it too.<$FFFE>
-I love you.<$FFFE>
+ …Freya…<$FFFD>I wasn't strong enough to save you… Hopefully you don't need to feel pain anymore, wherever  you are now…<$FFFE>
+ … Know that I will  never forget, what you  gave your life for…<$FFFE>
+ Tomorrow we will seal  away the evil sword of the demon tribe, that is the cause for all of this…<$FFFD>Watch over me, Freya…<$FFFE>
+ Do you want to confess your love to her?<$FFFE>
+ …I don't want any regrets.<$FFFE>
+ …No. We just have an important battle before  us. And I wouldn't want to discompose her.<$FFFE>
+ I have to keep those feelings locked up in my heart a little while longer.<$FFFD>…<$FFFE>
+ …Tiaris.<$FFFE>
+<$FFFA>…<$FFFE>
+ …Well, already asleep are we? How unfortunate, and yet I feel relived in some way.<$FFFE>
+ <$FFFA>Mmm…<$FFF9>who is it…?<$FFFE>
+ Ah, sorry. Did I wake  you up?<$FFFE>
+ No, it's alright, …but  what's the matter?<$FFFE>
+ Eh, emmm… It's just that…<$FFFE>
+ Hm?<$FFFE>
+ How do I best put it…<$FFFE>
+ What?<$FFFE>
+ Tiaris. I…love you!<$FFFE>
+ Ehh!?<$FFFE>
+ I love you. This was not  the best time to say something like this, that I understand.<$FFFE>
+ However, I had to speak  my mind before tomorrow. …Therefore you had to know how I feel about  you…<$FFFE>
+…<$FFFE>
+ I, I am so sorry! Blurting out something weird like that!<$FFFE>
+ …Ah…um<$FFFE>
+ Ehh!?<$FFFE>
+ I like you very much too. …No, I loved you all this time.<$FFFE>
+ Ever since you came to start your training with papa.<$FFFE>
+ …Tiaris.<$FFFE>
+ How dreamlike. I always  thought you would only think of me as a little  sister…<$FFFE>
+ At the beginning I thought of you that way. However, little by little I recognized that you are more to me than  that.<$FFFE>
+ You are the  irreplaceable woman for  me. I love you, Tiaris.<$FFFE>
+ …I love you too…<$FFFE>
+ …Ahahah!<$FFFE>
+ Ti…Tiaris?<$FFFE>
+ That was the best joke so far!<$FFFE>
+ Jo…Joke…<$FFFE>
+ You did it to make me  feel easy about  tomorrow's battle didn't you?<$FFFD>I am alright, Brother!<$FFFE>
+ …Brother…<$FFFE>
+ That's right. <$F600><$0000> you're like family to me!<$FFFD>I can always rely on you!<$FFFE>
+ O,oh! I leave everything  in your care!<$FFFD>…Well, see you tomorrow then, good  night.<$FFFE>
+ Good night, brother!<$FFFE>
+ …So I am just a brother to her, huh?<$FFFE>
+ My, what brings you here  at such an hour?<$FFFE>
+ Hey, Liffany. Don't we  have a wonderful moonlit night tonight?<$FFFE>
+ That's certainly true. At such a night one  could hear the howling of the werewolf.<$FFFE>
+…<$FFFE>
+ What seems to be the matter?<$FFFE>
+ Was there something else you wanted to talk to me about?<$FFFE>
+ Ehh…Well… As a matter of fact there is something I wanted to  talk to you about.<$FFFE>
+ With me? Hm, what could  that possibly be?<$FFFE>
+ …Liffany.<$FFFE>
+ Yes?<$FFFE>
+ To be honest, I…<$FFFE>
+ Please speak clearly…<$FFFE>
+ I love you. Liffany…<$FFFE>
+…<$FFFE>
+ I say it as any number of times. I am so very  fond of you. I love you  with all of my heart.<$FFFE>
+ What a delightful  sensation. How I have  longed for you to say  this, ever since the  first time we meet.<$FFFE>
+ From whence you saved me from the Empire, I had a premonition that one day those words would pass your lips.<$FFFE>
+ I am so glad…you  didn't reject me, I couldn't have taken the  pain.<$FFFE>
+ Well, I didn't believe  you could be hurt by anything. My valiant  Knight in shining armor.<$FFFE>
+ Hey now, I am a sensitive being too.<$FFFE>
+ Hihihi. Even so, please  continue to come to my rescue in the future.<$FFFE>
+ Gotcha. I promise.<$FFFE>
+ I will protect you no  matter what. Liffany…<$FFFE>
+ No way, did you just  hear the werewolf just now!? He undoubtedly  plans to eat me alive!<$FFFE>
+ …Liffany…<$FFFE>
+ Apropos eating, I need  to prepare some meals  for tomorrow.<$FFFE>
+ …Um…<$FFFE>
+ We can't do battle on an empty stomach, can we? Yeah, I can't disagree  to that! Then give me a hand!<$FFFE>
+ …Oh boy.<$FFFE>
+ My, what's the matter? Did I see a werewolf just over there?<$FFFE>
+ It seems I am not  considered an object for romance…<$FFFD>Hey now. We may have some spare time for that kind of joke after the battle tomorrow…<$FFFE>
+ I am lucky. She is still  awake.<$FFFE>
+ Oh,<$F600><$0000>. I am thinking of a strategy for our battle against Velzeria tomorrow.<$FFFE>
+ Luna. Up until now you  have worked so hard.<$FFFE>
+ Without you we couldn't  have made it this far.<$FFFE>
+ What's the matter, why are you being so formal?<$FFFE>
+ Say nothing, please justlisten.<$FFFE>
+ …Okay.<$FFFE>
+ …Sometimes it's hard  to say something no  matter how hard you  try…<$FFFE>
+ No, let me put it bluntly.<$FFFE>
+ …Yes.<$FFFE>
+ Luna, I love!<$FFFE>
+…<$FFFE>
+ It's the honest truth. I love you with all my heart.<$FFFE>
+ …Th…That can't, me…<$FFFE>
+ I am just a tactician, unwomanly at that…<$FFFE>
+ That's not true! You are plenty woman.<$FFFE>
+ I can say that without any doubt!<$FFFE>
+ You don't mean it…Hihi…<$FFFE>
+ …What is your reply?<$FFFE>
+ …Um, I don't know how  to find romantic words well, but…<$FFFE>
+ I am also very fond of you…<$FFFE>
+ …I love you too…<$FFFE>
+ …That was wonderful. With such an encouragement my body is already itching for the  battle tomorrow.<$FFFE>
+ …We will be victorious  without fail!<$FFFE>
+ …Yes…<$FFFE>
+ …Did you just say something?<$FFFE>
+ Eh?<$FFFE>
+ Tomorrow will be decisive battle, please  make sure to give your body plenty of rest. Going to bed early will  improve your commanding  abilities.<$FFFE>
+ Eh, but…<$FFFE>
+ It's alright. I will  take care of all preparations.<$FFFE>
+…<$FFFE>
+ Sleep well, commander.<$FFFE>
+ I guess my timing was  kinda bad…or I am just a failure…<$FFFE>
+ Lushiris, goddess of  light please grant us  your protection. And please protect the one most dear to me…<$FFFE>
+ Huh, who's there!?<$FFFE>
+ I, I am so sorry. It's  just me… It wasn't my  intention to be  eavesdropping…<$FFFE>
+ …Um…so you heard me?<$FFFE>
+ …Sorry.<$FFFE>
+…<$FFFE>
+ Forgive me! I won't do  it again!<$FFFE>
+ …So long.<$FFFE>
+ Wait!<$FFFE>
+ Eh?<$FFFE>
+ U,umm…<$FFFE>
+ …This may be not the  best time for it,<$FFFE>
+ but please listen to what I have to say.<$FFFE>
+ Sophia, I…<$FFFE>
+ Please listen closely, for it takes all of my courage to say it.<$FFFE>
+ No, don't trouble yourself any further, I will speak from here on.<$FFFE>
+ I love you.<$FFFE>
+ …This is not a dream is it…?<$FFFE>
+ It is no dream. Look at me, I am right here by  your side.<$FFFE>
+ Ahhh, is this really  true? Can I believe it?<$FFFE>
+ I cherish you more than  anything else, Sophia. I love you.<$FFFE>
+ I love you too. …This feels just like a wonderful dream…<$FFFE>
+ …Was that what you  came to say?<$FFFE>
+ That…was…<$FFFE>
+ I don't understand what  are you getting at?<$FFFE>
+ The person…most dear  to you…<$FFFE>
+ Please just forget about that!<$FFFE>
+ Alright, I will forget! …But answer me one  question.<$FFFD>Who is the person most dear to you, if not me?<$FFFE>
+ …How regrettable…<$FFFE>
+ Hahaha, so that's how it  is.<$FFFD>I will just have to  getting over it. Don't misunderstand!<$FFFE>
+ It is not that I dislike you… I hold you in rather high esteem…<$FFFD>But,…<$FFFB>I am sorry…<$FFFE>
+ You don't need to  apologize for that…<$FFFE>
+ …Just forget what I said… The pain from rejection hurts the  most…<$FFFE>
+ Humph! Ha!<$FFFE>
+ Here you are Freya.<$FFFE>
+ Oh, you've been watching? …It seems that somehow I am unable to sleep.<$FFFE>
+ Heh, same here.<$FFFE>
+ Ah, so such a thing can befall even someone like you?<$FFFE>
+ Now your making me feel  terrible.<$FFFE>
+ Hihihi, I am joking.<$FFFE>
+ Sheesh!<$FFFE>
+ …How nostalgic. Watching the moon with you like this.<$FFFE>
+ That's right. In the old  days we had a good time  doing this together.<$FFFE>
+ …Well, Freya. Please  just listen and don't  laugh.<$FFFE>
+ What's the matter, why are you being so uptight all of a sudden?<$FFFE>
+ Long ago I vowed to you  that I would become a knight and a splendid  one at that.<$FFFE>
+ I remember.<$FFFE>
+ As promised I became a knight.<$FFFE>
+ But whether I am a fine  knight or not I do not know.<$FFFE>
+ You are a wonderful one.<$FFFE>
+ Thank you. When you say  it with such confidence  I can believe it too.<$FFFE>
+ I love you.<$FFFE>
 !!<$FFFE>
-What do you say?<$FFFC>
-How do you feel about me?<$FFFE>
-...<$FFFE>
-Please answer me, Freya!<$FFFE>
-...I..feel the same way about you...<$FFFC>
-No.<$FFFC>
-I love you even more, with all my heart and soul.<$FFFE>
-I'm so glad.<$FFFC>
-...Heh, that's so like you.<$FFFE>
-Huh!?<$FFFE>
-You've always been competitive.<$FFFE>
-Hey!<$FFFC>
-You're so tactless!<$FFFE>
-Sorry!<$FFFC>
-I was trying to hide my embarrassment.<$FFFE>
-...You're the only one for me.<$FFFC>
-I've loved you since we first met<$FFFC>
-as children.<$FFFE>
-It felt like a red thread tied us together.<$FFFE>
-Bound for life.<$FFFE>
-Freya...<$FFFE>
-When you left for knight training,<$FFFE>
-I feared we'd never meet again.<$FFFE>
-...Rest assured.<$FFFC>
-I won't leave you again.<$FFFC>
-From now on, always by your side.<$FFFE>
-...I love you...<$FFFE>
-...I'm sorry.<$FFFB>
-<$FFFC>
-I'm not in the right state of mind.<$FFFE>
-...<$FFFE>
-With father's death and Velzeria controlling him...<$FFFE>
-...Forgive me, Freya.<$FFFC>
-I should have considered your feelings.<$FFFD>
-Maybe after tomorrow's battle, things will be different.<$FFFD>
-If you don't feel that way now, it's fine.<$FFFC>
-I was too hasty.<$FFFE>
-No, it's not your fault.<$FFFD>
-My blood boils when I think of what they did to father...<$FFFB>
-<$FFFC>
-...I'm sorry.<$FFFE>
-...Sealing Alhazard comes first.<$FFFC>
-So no demons can be summoned again.<$FFFD>
-Let us avenge King Wilder and put his soul to rest.<$FFFE>
-...Will you help me with this?<$FFFC>
-Absolutely.<$FFFE>
-Yeah. I promise.<$FFFE>
-Who is the man that's in your mind?<$FFFE>
-Lewin<$FFFE>
+ What do you say? In what way do you think about me?<$FFFE>
+…<$FFFE>
+ Please answer me,Freya!<$FFFE>
+ …I…feel the same way  about you… No. I love  you even more, with all  my heart and my very soul.<$FFFE>
+ I am so glad. …Heh, it's like you to say something like this.<$FFFE>
+ Huh!?<$FFFE>
+ After all, the spirit of rivalry is strong within you.<$FFFE>
+ Hey! You're so tactless!<$FFFE>
+ Sorry, Sorry! I just  tried to cover up my own embarrassment somehow.<$FFFE>
+ …Your the only one for  me. I've loved you ever since we've met for the  first time when we were  still kids.<$FFFE>
+ Yes, it felt like there  was a red thread between you and me,<$FFFE>
+ tying us together for a lifetime.<$FFFE>
+ Freya…<$FFFE>
+ So, when you were starting your training as a knight <$FFFE>
+ and we didn't see each other, I was so worried  that we may never see  each other again.<$FFFE>
+ …You can feel reassured. I won't leave you again. From now on I will be by your side, always.<$FFFE>
+ …I love you…<$FFFE>
+ …I am sorry.<$FFFB>At the moment, I am not  in the right mind for  this.<$FFFE>
+…<$FFFE>
+ With father's recent  death and Velzeria controlling him all this time…<$FFFE>
+ …Forgive me, Freya. I should have been more  considerate of your  feelings.<$FFFD>Maybe once the decisive  battle tomorrow is over, matters will be  different.<$FFFD>If you don't have those  feelings right now, it's  alright. I just acted  too rashly.<$FFFE>
+ No, it's not your fault.<$FFFD>It is just that my blood is boiling every time I think about what they  did to father…<$FFFB>…I am sorry.<$FFFE>
+ …Sealing Alhazard has to come before everything else. So that no wicked demons can be  summoned anymore.<$FFFD>Let us designate our efforts to revenge King  Wilder and to put his  soul to rest.<$FFFE>
+ …Will you help me with  this? Absolutely.<$FFFE>
+ Yeah. I promise.<$FFFE>
+ Who is the man that's in your mind?<$FFFE>
+Lewin <$FFFE>
 Pierre<$FFFE>
-Gilbert<$FFFE>
+Gilbert <$FFFE>
 Fauvel<$FFFE>
-Other<$FFFE>
-L..Lewin...<$FFFE>
-...I..!<$FFFD>
-W..wha'ts troubling you,<$FFFC>
-[diehardt's name]...?<$FFFE>
-Up until now everything worked out fine.<$FFFE>
-Yes.<$FFFC>
-I think it's thanks to everyone trying hard.<$FFFE>
-Noo, I haven't come to say this,<$FFFC>
-I wanted to talk about you, Lewin.<$FFFE>
-Eh!?<$FFFE>
-You're still so very young...this fighting must be hard on you...<$FFFE>
-That's why...<$FFFC>
-I wanted to reward you...<$FFFE>
-First of all I have to get rid of all those clothes!<$FFFE>
-Don't you want to get ready too?<$FFFE>
-S.stop this!<$FFFC>
-Have you no shame!?<$FFFE>
-There's no need to be shy...<$FFFC>
-Come on in and get wet yourself...<$FFFE>
-Ahh, it's hot...<$FFFD>
-It's hot, [diehardt's name]...<$FFFE>
-The secret is not to move much.<$FFFD>
-This feels good.<$FFFE>
-Ouch!<$FFFE>
-I'm sorry, I was a bit too forceful.<$FFFC>
-Hmm, its getting red already...<$FFFD>
-Having a bath is the most relaxing thing...<$FFFE>
-Scratching the back is fine if you don't do it too strong....<$FFFC>
-Hey, that's not by back....<$FFFE>
-And thus the evening went by...<$FFFE>
-You're still awake, Pierre?<$FFFE>
-Say, [diehardt's name].<$FFFC>
-What happens to Elthlead after Altemuller falls?<$FFFE>
-Hmm?<$FFFC>
-Let me see...<$FFFE>
-Worried about the truce with the Empire after Velzeria?<$FFFE>
-Yeah, maybe...(Pause)<$FFFE>
-The Empire won't invade again. The Kaiser is dead and they need to rebuild.<$FFFD>
-We should all work to keep the peace.<$FFFE>
-....<$FFFC>
-What's going on!?<$FFFC>
-Why am I acting so serious all of a sudden!?)<$FFFE>
-They went to war for their people's sake.<$FFFC>
-We could have helped by sending goods.<$FFFD>
-Maybe, but they have pride too...<$FFFC>
-There should have been a peaceful way...<$FFFE>
-Yes, Pierre...<$FFFE>
-I hate this!<$FFFE>
-Pierre!<$FFFE>
-....<$FFFE>
-Huh?<$FFFC>
-Pierre....?<$FFFE>
-*Sniff-sniff*...<$FFFC>
-...Waaaa....<$FFFD>
-Oh, [diehardt's name]?<$FFFC>
-Up so late?<$FFFD>
-Huh?<$FFFC>
-Why are you on that chair?<$FFFD>
-Something wrong with your tent?<$FFFE>
-....<$FFFB>
-<$FFFC>
-Or are you always sleeping like this?<$FFFD>
-Right now Pierre wants to be alone...<$FFFB>
-<$FFFC>
-I was just a bit surprised.<$FFFE>
-Gilbert?<$FFFD>
-....<$FFFD>
-...Well then!<$FFFC>
-You know what's at stake tomorrow?<$FFFD>
-Yeah, I know.<$FFFD>
-Good.<$FFFC>
-...Some things can't be helped.<$FFFC>
-Get some sleep.<$FFFE>
-....<$FFFB>
-<$FFFC>
-....How did it went?<$FFFB>
-<$FFFC>
-....*GRIN*!<$FFFE>
-Good Evening.<$FFFE>
-Oh, [diehardt's name].<$FFFC>
-Where you going somewhere?<$FFFE>
-Just taking a walk to clear my mind.<$FFFE>
-I see.<$FFFC>
-Come in, have a seat.<$FFFE>
-I'm intruding.<$FFFE>
-You aren't. Tomorrow's the last chance to talk like this.<$FFFE>
-I guess...<$FFFE>
-....<$FFFC>
-[diehardt's name], who have you chosen?<$FFFE>
-Eh!?<$FFFC>
-What do you mean?<$FFFE>
-Don't play dumb...<$FFFC>
-Surrounded by beautiful girls, surely one caught your eye?<$FFFE>
-Fauvel, that's not......<$FFFE>
-Tiaris?<$FFFC>
-Still young, but she'll be a beauty!<$FFFD>
-Strong-willed too, in a good way.<$FFFD>
-Or Liffany?<$FFFC>
-Kind and gorgeous.<$FFFD>
-You'll have trouble keeping rivals away.<$FFFC>
-That beauty mark drives men insane...<$FFFE>
-Um...Fauvel...<$FFFE>
-Or Luna?<$FFFD>
-The genius tactician with an icy air.<$FFFC>
-Pity the man under her constant command.<$FFFE>
-..In that case...<$FFFE>
-Then Sophia must be in your heart!<$FFFD>
-Such a good girl.<$FFFD>
-Devoted to Lushiris, she'll make a wonderful wife someday.<$FFFC>
-My pride and joy...<$FFFE>
-...I can't take any more...<$FFFC>
-I need to escape...<$FFFE>
-And let's not forget Lady Jessica.<$FFFD>
-Her beauty is otherworldly...<$FFFD>
-The goddess blessed her well.<$FFFB>
-<$FFFC>
-With so many fine women, you must have a hard time...<$FFFB>
-<$FFFC>
-Ah, to be young again...<$FFFD>
-....<$FFFE>
-Old folks love to ramble, and Fauvel went on all night...<$FFFE>
-Then, who is it?<$FFFE>
+Other <$FFFE>
+ L…Lewin…<$FFFE>
+ …I…!<$FFFD>W…wha'ts troubling you, <$F600><$0000>…?<$FFFE>
+ Up until now everything  worked out fine.<$FFFE>
+ Yes. I think it's thanks to everyone trying hard.<$FFFE>
+ Noo, I haven't come to say this, I wanted to talk about you, Lewin.<$FFFE>
+ Eh!?<$FFFE>
+ You're still so very young…this fighting  must be hard on you…<$FFFE>
+ That's why… I wanted  to reward you…<$FFFE>
+ First of all I have to get rid of all those clothes!<$FFFE>
+ Don't you want to get  ready too?<$FFFE>
+ S.stop this! Have you no shame!?<$FFFE>
+ There's no need to be shy… Come on in and  get wet yourself…<$FFFE>
+ Ahh, it's hot…<$FFFD>It's hot, <$F600><$0000>…<$FFFE>
+ The secret is not to move much.<$FFFD>This feels good.<$FFFE>
+ Ouch!<$FFFE>
+ I am sorry, I was a bit too forceful. Hmm, its getting red already…<$FFFD>Having a bath is the most relaxing thing…<$FFFE>
+ Scratching the back is fine if you don't do it  too strong… Hey, that's not by back…<$FFFE>
+ And thus the evening went by…<$FFFE>
+ You're still awake, Pierre?<$FFFE>
+ Say, <$F600><$0000>. What do you think will happen to Elthlead after Altemuller has been  defeated?<$FFFE>
+ Hmm? Let me see…<$FFFE>
+ You're worried about what will to the truce  with the Empire, now that Velzeria has been dealt with, right?<$FFFE>
+ Yeah, maybe…<$0171>Pause<$0175><$FFFE>
+ I don't think the empire will try to invade us  again. The former Kaiser died and they will be busy rebuilding the country.<$FFFD>We all should work together to keep the peace, no?<$FFFE>
+ … What's going on!? Why am I acting so serious all of a sudden!?<$0175><$FFFE>
+ The reason for them to go to war was to improve the live of their  people. We could've helped them by sending goods, then.<$FFFD>Maybe, but they have their own pride too… I know there would have  been a peaceful way, if  they tried…<$FFFE>
+ Yes, Pierre…<$FFFE>
+ I hate this!<$FFFE>
+ Pierre!<$FFFE>
+…<$FFFE>
+ Huh? Pierre…?<$FFFE>
+ <$01E9>Sniff sniff<$01E9>… …Waaaa…<$FFFD>Oh, <$F600><$0000>? What're you doing being up so  late?<$FFFD>Huh? Why are you sitting on that chair?<$FFFD>did something happen to  your tent?<$FFFE>
+ …<$FFFB>Or are you always  sleeping like this?<$FFFD>Right now Pierre wants to be alone…<$FFFB>I was just a bit surprised.<$FFFE>
+ Gilbert?<$FFFD>…<$FFFD>…Well then! I guess you know what's at stake tomorrow?<$FFFD>Yeah, I understand.<$FFFD>That's good. …Some things can't be helped. Better get some sleep.<$FFFE>
+ …<$FFFB>…How did it went?<$FFFB>…<$01E9>GRIN<$01E9>!<$FFFE>
+ Good Evening.<$FFFE>
+ Oh, <$F600><$0000>. Where you going somewhere?<$FFFE>
+ No, I was just taking a walk to clear my mind a bit.<$FFFE>
+ I see. In that case, please come in and take  a seat.<$FFFE>
+ I am intruding.<$FFFE>
+ You aren't. Tomorrow is the decisive battle, it's the last chance to  talk like this.<$FFFE>
+ I guess…<$FFFE>
+ … <$F600><$0000>, whose the one you have chosen?<$FFFE>
+ Eh!? What do you mean…?<$FFFE>
+ Don't play ignorant… You are surrounded by  many beautiful girls your age, surely one has  come to your attention?<$FFFE>
+ Fauvel, that's not…<$FFFE>
+ Maybe it's Tiaris? She's still immature but she will be a beauty one day, no doubt!<$FFFD>You will have it tough with her, she's strong  willed in a positive sense.<$FFFD>Then maybe it's Liffany? She's such a kind girl  and nothing short of gorgeous to boot.<$FFFD>You will have a hard time  keeping others away from her though. That beauty mark would be driving  any man insane…<$FFFE>
+ Um…Fauvel…<$FFFE>
+ Or maybe, it's Luna?<$FFFD>The girl that's a genius tactician with a an air  of ice around her. I can imagine the poor fellow  that will be under her constant command some  day.<$FFFE>
+ …In that case…<$FFFE>
+ It has to be Sophia who  resides in your heart!<$FFFD>Yes, she's such a good girl.<$FFFD>Her devotion to Lushiris knows no boundaries and  surely she will be a wonderful wife someday too. She's my pride and  joy…<$FFFE>
+ …I can't listen to  this anymore… I gotta sneak my way out of  this…<$FFFE>
+ Oh, and let's not forget  about Lady Jessica.<$FFFD>Yes, her beauty is almost out of this world…<$FFFD>The goddess truly has  blessed her in many  ways.<$FFFB>With so many exquisite women around, I am sure you have a hard time deciding…<$FFFB>Ah, to be young again…<$FFFD>…<$FFFE>
+ Old people like to ramble and Fauvel  continued like this the  whole night…<$FFFE>
+ Then, who is it?<$FFFE>
 Dios<$FFFE>
-Silver Wolf<$FFFE>
+Silver Wolf <$FFFE>
 Kirikaze<$FFFE>
-Emerick<$FFFE>
+Emerick <$FFFE>
 Jugler<$FFFE>
-Ah...,<$FFFC>
-Ah...,<$FFFE>
-Hmm?<$FFFC>
-What's the matter, [diehardt's name]?<$FFFE>
+ Ah…, Ah…,<$FFFE>
+ Hmm? What's the matter, <$F600><$0000>?<$FFFE>
 ANIKIII!<$FFFE>
-Have you lost your mind!?<$FFFE>
-It's not really pleasant being screamed at, you know...<$FFFE>
-Just what are you doing!?<$FFFE>
-I'm trying to figure out how to finish the secret secret of the Aniki!<$FFFE>
-Hey! Wait a sec!<$FFFC>
-Thanks for offering your assistance so willingly!<$FFFD>
-Nooo!<$FFFE>
-Dioooos!<$FFFE>
-....<$FFFC>
-Go...<$FFFE>
-...<$FFFC>
-...Aniki?<$FFFE>
-That's music to my ears.<$FFFE>
-Hey, Wolf!<$FFFD>
-...Can you hear me?<$FFFB>
-<$FFFC>
-No use. Time to be louder.<$FFFE>
-What a haul, what a haul!<$FFFE>
-Wolf!<$FFFE>
-Wow!<$FFFB>
-<$FFFC>
-[diehardt's name]?<$FFFC>
-This late at night...<$FFFE>
-Why so flustered?<$FFFB>
-<$FFFC>
-What's in that sack?<$FFFE>
-Well...you see...<$FFFC>
-...This...is...<$FFFE>
-This is what?<$FFFE>
-You're acting suspicious.<$FFFC>
-Let me have a look!<$FFFE>
-Wait..,you little!<$FFFE>
-Gems?<$FFFC>
-And that sword...<$FFFC>
-I've seen these before...<$FFFE>
-Well...the gem and sword...<$FFFE>
-Ah!<$FFFC>
-That's the Ribbon Tiaris is always wearing!<$FFFE>
- <$FFFC>
-You rotten thief!<$FFFB>
-<$FFFC>
-I found these lying around...<$FFFD>
-She must've dropped it on the way to her tent...<$FFFC>
-I'll return it before morning.<$FFFE>
-That's Kirikaze's sword!<$FFFE>
-Just borrowing it!<$FFFC>
-It's not stealing if you return it...<$FFFE>
-And those clothes...<$FFFC>
-Lingerie!?<$FFFE>
-Eh!?<$FFFC>
-Those are my real treasures...<$FFFC>
-Here have a look at those.<$FFFD>
-This looks like Rabbit Ears...<$FFFC>
-A Leotard with a tail attached to it....<$FFFD>
-And what's this?<$FFFC>
-A Bunny Suit!?<$FFFE>
+ Have you lost your mind!?<$FFFE>
+ It's not really pleasant being screamed at, you know…<$FFFE>
+ Just what are you  doing!?<$FFFE>
+ I am trying to figure  out how to finish the  secret secret of the Aniki!<$FFFE>
+ Hey! Wait a sec! Thanks  for offering your  assistance so willingly!<$FFFD>Nooo!<$FFFE>
+ Dioooos!<$FFFE>
+ … Go…<$FFFE>
+ … …Aniki?<$FFFE>
+ That's music to my ears.<$FFFE>
+ Hey, Wolf!<$FFFD>…Can you hear me?<$FFFB>It's no use. Time to get a bit louder.<$FFFE>
+ What a haul, what a haul!<$FFFE>
+ Wolf!<$FFFE>
+ Wow!<$FFFB>What're you doing here, <$F600><$0000>? And so late at  night at that…<$FFFE>
+ Tell me, why did you get so flustered right now?<$FFFB>And what's that sack you're carrying on your  back for?<$FFFE>
+ Well…you see… …This…is…<$FFFE>
+ This is what?<$FFFE>
+ You're acting  suspicious. Let me have a look!<$FFFE>
+ Wait…,you little!<$FFFE>
+ Those are gems right? And that sword… I get the feeling I've seen them before…<$FFFE>
+ Well…you see…that gem and this sword…<$FFFE>
+ Ah! That's the Ribbon Tiaris is always wearing!<$FFFE>
+ You rotten thief!<$FFFB>Hey nor, I found those just lying around…<$FFFD>I guess she dropped it on her way to her  tent… I will make sure  she gets it back before  tomorrow morning.<$FFFE>
+ Now I remember, that's  Kirikaze's sword!<$FFFE>
+ Well, let's just say I borrowed it for a while! It's not stealing if you bring it back before anybody notices…<$FFFE>
+ And what are those things that look like  clothes… Lingerie!?<$FFFE>
+ Eh!? Those are my real treasures… Here have a look at those.<$FFFD>This looks like Rabbit Ears… A Leotard with a tail attached to it…<$FFFD>And what's this? A Bunny Suit!?<$FFFE>
 !!<$FFFE>
-There's more?<$FFFC>
-One last thing...<$FFFD>
-This one is...special...<$FFFE>
-We must be careful...<$FFFC>
-What I'll show you goes beyond common decency...<$FFFE>
-Ah, hey, [diehardt's name]...<$FFFE>
-If we're caught with it, we're done for.<$FFFD>
-Close the door, shut the windows, brace yourself...<$FFFE>
-Mr. Nemon!<$FFFE>
-Or Mr. Kyamon?<$FFFD>
-...Hah!<$FFFE>
-I get it, you're Mr. Shinmon then!<$FFFE>
-That's not my name either!<$FFFC>
-I'm Kirikaze!<$FFFE>
-Huh, so what's the difference?<$FFFE>
-It's different!<$FFFC>
-It's absolutely different!<$FFFE>
-No need to get worked up.<$FFFC>
-Relax.<$FFFE>
-It's completely different!<$FFFE>
-............<$FFFE>
-......<$FFFE>
-...Chi!<$FFFE>
-What's on your mind?<$FFFE>
-Kirikaze.<$FFFC>
-Is it true you eat rotten beans and raw fish?<$FFFE>
-....<$FFFC>
-You mean Tofu and Sashimi?<$FFFE>
-Wouldn't that destroy your stomach?<$FFFE>
-It depends on the cook.<$FFFC>
-So you do eat rotten things.<$FFFE>
-Hmph...<$FFFC>
-And all men are ninjas and all women geishas?<$FFFE>
-It's nothing like that!<$FFFE>
-And all bearded men are called Sensei...<$FFFE>
-What!?<$FFFC>
-That's nonsense!<$FFFD>
-Who spreads such lies?<$FFFE>
-The folk at the Floating Castle...<$FFFD>
-So it's different?<$FFFE>
-Nothing like that at all!<$FFFE>
-Dammit!<$FFFC>
-What a letdown...<$FFFE>
-...Typical westerners, misunderstanding everything...<$FFFE>
-What are you doing, Emerick?<$FFFC>
-I'm gazing at the moon...<$FFFE>
-[diehardt's name]...<$FFFD>
-I've been thinking about tomorrow's battle...<$FFFE>
-About facing Altemuller?<$FFFE>
-Yes...<$FFFE>
-I cannot fight my beloved Excellency...<$FFFE>
-I see...<$FFFE>
-....<$FFFE>
-....Huh?<$FFFD>
-What was that just...now...<$FFFE>
-The truth at last!<$FFFD>
-Surprised?<$FFFC>
-...Not really...<$FFFE>
-That's not the point!<$FFFC>
-You've been fooling us!?<$FFFE>
-Oh nononono.<$FFFE>
-I'm drawn to powerful men like you!<$FFFE>
-Yaaiii,<$FFFC>
-Emerick is a Man-lover!<$FFFE>
-Shocking!<$FFFE>
-A love triangle with Varna?<$FFFD>
-Sadly, his Excellency only likes women...<$FFFE>
-Come with me, I cried!<$FFFC>
-Time for me to leave!<$FFFE>
-Then I learned Varna had taken his heart...<$FFFD>
-Wait...<$FFFB>
-<$FFFC>
-I'm not...<$FFFB>
-<$FFFC>
-Or...<$FFFE>
-And [diehardt's name]'s vision faded into dream.<$FFFE>
-Jugler?<$FFFE>
-Gurgur?<$FFFE>
-I have a request...<$FFFE>
-Gur?<$FFFE>
-Can't resist! Must touch!<$FFFE>
-Kyuuuhh!<$FFFE>
-Hmmmm!<$FFFC>
-Soo Fluffy-Fluffy!<$FFFE>
-Kyu,kyuu,kyuuu!<$FFFC>
-(You soon are cuddling on the floor)<$FFFE>
-This must be a dream...<$FFFC>
-Sleeping on fluffy clouds...<$FFFD>
-Good night, Jugler...<$FFFE>
-Gurguruu..!<$FFFC>
-(Something heavy on you!<$FFFC>
-Too hot, can't breathe!)<$FFFD>
-............<$FFFC>
-(You fainted)<$FFFE>
+ There's still more in there? Yes, there's still one thing left…<$FFFD>However, I guess you could call this last one special…<$FFFE>
+ We have to be very careful… What I am going to show you, diverts from the public  view on moral…<$FFFE>
+ Ah, hey, <$F600><$0000>…<$FFFE>
+ If we are spotted with it, we will be in serious danger.<$FFFD>Close the door and shut  the windows and brace  yourself…<$FFFE>
+ Mr. Nemon!<$FFFE>
+ Or, would you prefer  being called Mr.Kyamon?<$FFFD>…Hah!<$FFFE>
+ I get it, you're Mr. Shinmon then!<$FFFE>
+ That's not my name either! I am Kirikaze!<$FFFE>
+ Huh, so what's the difference?<$FFFE>
+ It's different! It's  absolutely different!<$FFFE>
+ No need to get so worked up about it. Just relax, take a breather.<$FFFE>
+ I tell you, it's  completely different!<$FFFE>
+…<$FFFE>
+…<$FFFE>
+ …Chi!<$FFFE>
+ What's on your mind?<$FFFE>
+ I just wondered, Kirikaze. Is it true  that you're eating rotten beans and raw fish where you come  from?<$FFFE>
+ … I presume you are speaking about Tofu and  Sashimi?<$FFFE>
+ Wouldn't eating  something like this  utterly destroy your stomach?<$FFFE>
+ Well no, of course it  depends a bit on the cook. So, in the end it really is true, that you  eat rotten things.<$FFFE>
+ Hmph… By the way, is  it also true that all  men are ninjas and all the women are Geishas  where you come from?<$FFFE>
+ It's nothing like that!<$FFFE>
+ And everyone with a beard has to be called "Sensei"…<$FFFE>
+ What!? That's nonsense!<$FFFD>Who would tell such  ridiculous lies?<$FFFE>
+ Well, the folk at the Floating Castle…<$FFFD>So, in reality it's different?<$FFFE>
+ Yes it's nothing like  that at all!<$FFFE>
+ Dammit! What a letdown…<$FFFE>
+ …Sadly, it's typical  for you westerners to  misunderstand our  culture in almost every  way possible…<$FFFE>
+ What are you doing, Emerick? I am gazing at the moon…<$FFFE>
+ <$F600><$0000>…<$FFFD>I've been thinking about  the battle that is awaiting us tomorrow…<$FFFE>
+ It's about having to do  battle with Altemuller, right?<$FFFE>
+ Yes…<$FFFE>
+ After all, I cannot  fight my beloved Excellency…<$FFFE>
+ I see…<$FFFE>
+…<$FFFE>
+ …Huh?<$FFFD>What was that  just…now…<$FFFE>
+ So the truth comes out at last!<$FFFD>Heh, are you really that surprised? Well…not  really…<$FFFE>
+ But that's not the point! Have you fooled us the whole time!?<$FFFE>
+ Oh nononono.<$FFFE>
+ I am actually drawn to powerful men like  yourself!<$FFFE>
+ Yaaiii, Emerick is a Man lover!<$FFFE>
+ Shocking!<$FFFE>
+So you've got something  like a love triangle with Varna?<$FFFD>Sadly no, his Excellency  is only interested in  women…<$FFFE>
+ Come with me, I cried! I think it's time for me to be on my way, now!<$FFFE>
+ Only then did I find out that Varna had already captured his heart…<$FFFD>Now, you wait…<$FFFB>I am not…<$FFFB>Or…<$FFFE>
+ Thus <$F600><$0000>'s vision  became one with the  infinite dream.<$FFFE>
+ Jugler?<$FFFE>
+ Gurgur?<$FFFE>
+ To tell the truth I have a request…<$FFFE>
+ Gur?<$FFFE>
+ I can't resist it any  longer! Have to touch!<$FFFE>
+ Kyuuuhh!<$FFFE>
+ Hmmmm! Soo Fluffy  Fluffy!<$FFFE>
+ Kyu,kyuu,kyuuu! <$0171>You  soon are cuddling on the floor<$0175><$FFFE>
+ This has to be a dream… I am sleeping on some fluffy cotton  clouds…<$FFFD>Good night, Jugler…<$FFFE>
+ Gurguruu…! <$0171>You feel something heavy laying on you! It's too hot, you can't breath!<$0175><$FFFD>… <$0171>You  fainted<$0175><$FFFE>

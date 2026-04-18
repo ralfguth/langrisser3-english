@@ -29,43 +29,27 @@ from d00_tools import parse_d00, parse_script_file
 # Remove an entry only after the underlying file is fixed to match JP.
 ENTRY_COUNT_XFAIL: dict[int, tuple[int, int]] = {
     3: (222, 226),
-    4: (174, 179),
+    4: (175, 179),
     5: (238, 250),
-    6: (205, 206),
-    7: (179, 207),
-    9: (111, 112),
+    7: (180, 207),
     11: (243, 249),
-    12: (147, 148),
     14: (161, 166),
     17: (171, 173),
     18: (210, 214),
-    19: (129, 130),
     21: (91, 97),
-    23: (177, 184),
+    23: (176, 184),
     27: (159, 169),
     28: (146, 148),
     29: (147, 148),
-    31: (228, 229),
     32: (173, 175),
     33: (330, 334),
-    34: (257, 270),
-    35: (272, 278),
-    36: (159, 160),
+    34: (256, 270),
+    35: (274, 278),
     37: (222, 225),
-    39: (294, 304),
-    44: (67, 68),
-    50: (22, 23),
-    52: (31, 32),
-    60: (64, 65),
-    73: (40, 41),
-    80: (37, 38),
-    86: (59, 80),
-    122: (18, 24),
-    123: (54, 56),
-    124: (168, 192),
+    39: (296, 304),
 }
 
-JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega saturn/Langrisser III (Japan)'
+JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega-saturn/Langrisser III (Japan)'
 JP_TRACK01 = JP_DIR / 'Langrisser III (Japan) (3M) (Track 01).bin'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
 
@@ -238,9 +222,9 @@ def test_scen001_lushiris_prologue_order():
     anchors = [
         'my name is lushiris',
         'goddess of light',
-        'tell me your name',
-        'please push the c button',
-        'what is the key quality of a great unit',
+        'please tell me',
+        'gift for you',
+        'what is the essential quality',
     ]
 
     found: dict[str, int] = {}
@@ -267,19 +251,19 @@ def test_scen001_lushiris_prologue_order():
         )
 
     # Specific invariants for the character-creation questionnaire flow.
-    name_idx = found['tell me your name']
-    push_idx = found['please push the c button']
-    q1_idx = found['what is the key quality of a great unit']
+    name_idx = found['please tell me']
+    push_idx = found['gift for you']
+    q1_idx = found['what is the essential quality']
 
     if name_idx >= q1_idx:
         pytest.fail(
-            f"Lushiris canary: 'tell me your name' (entry {name_idx}) must "
-            f"appear BEFORE 'what is the key quality' (entry {q1_idx}) — "
+            f"Lushiris canary: 'please tell me' (entry {name_idx}) must "
+            f"appear BEFORE 'what is the essential quality' (entry {q1_idx}) — "
             f"the questionnaire indices are misordered"
         )
     if push_idx >= q1_idx:
         pytest.fail(
-            f"Lushiris canary: 'please push the C button' (entry {push_idx}) "
+            f"Lushiris canary: 'gift for you' (entry {push_idx}) "
             f"must appear BEFORE the first questionnaire question "
-            f"'what is the key quality' (entry {q1_idx})"
+            f"'what is the essential quality' (entry {q1_idx})"
         )

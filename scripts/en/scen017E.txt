@@ -1,16 +1,15 @@
-Langrisser III dumper [0x9d770 to 0x9f06f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,232 +19,159 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Thief<$FFFF>
+Emerick <$FFFF>
+Thief <$FFFF>
 Barral Commander<$FFFF>
-Dark Knight<$FFFF>
--Total destruction of the enemy<$FFFE>
--Death of Dieharte<$FFFE>
-Barral Stronghold ~ Rogier<$FFFF>
-Yaawn!<$FFFC>
-So this is the stronghold!<$FFFE>
-This is likely the base for the invasion of Laffel.<$FFFE>
-Yeah.<$FFFC>
-When we attacked Laffel we used this stronghold as headquarters.<$FFFE>
-In other words, this fortress is vital to the whole invasion.<$FFFE>
-That's right.<$FFFC>
-If attacked here, reinforcements from Laffel would come for sure.<$FFFE>
-I guess we all know what that means.<$FFFE>
-Isn't this a good chance to take out the Dark Knight and start a counter-offensive?<$FFFE>
-No.<$FFFC>
-Our objective now is distracting the enemy.<$FFFE>
-If we aren't careful we could get into a pincer attack.<$FFFE>
-I agree.<$FFFC>
-Besides, the Dark Knight is a heartless monster, cutting down his own men on a whim.<$FFFE>
-...Damn!<$FFFC>
-Just thinking about it makes me sick!<$FFFE>
-Time to attack.<$FFFC>
-Take the fortress in one charge!<$FFFE>
-No Problem!<$FFFE>
-Is Dieharte here?<$FFFE>
-That would be me.<$FFFE>
-Wolf send me.<$FFFD>
-Speed up your operation!<$FFFC>
-The Dark Knight will be here soon!<$FFFE>
-Oh no, we must hurry sir Dieharte!<$FFFE>
-Yeah.<$FFFC>
-We must pull back soon to free Laffel.<$FFFE>
-Aha!<$FFFD>
-Once reinforcements come you're done for!<$FFFC>
-Don't think you'll escape easily!<$FFFE>
-So that's how it is!<$FFFD>
-Once reinforcements come you're done for!<$FFFC>
-Don't think you'll escape easily!<$FFFE>
-Now that they know our plan we must silence them.<$FFFC>
-We must end this battle before the Dark Knight arrives.<$FFFE>
-I'm at it.<$FFFE>
-...Make haste.<$FFFC>
-If the Dark Knight shows up we'll have to fight him!<$FFFE>
-Sir Dieharte, we have to end this fast.<$FFFC>
-If the Dark Knight arrives the battle could turn against us.<$FFFE>
-I know.<$FFFE>
-Everyone, hurry!<$FFFC>
-The dark knight is approaching!<$FFFE>
-With the Dark Knight here, victory is ours!<$FFFD>
-All troops, charge!<$FFFC>
-Destroy the invaders!<$FFFE>
-Everyone's having fun already.<$FFFC>
-What incompetent fool is responsible for this?<$FFFE>
-The Dark Knight!?<$FFFE>
-So he really came!<$FFFE>
-...The remnants of the Larcuss army.<$FFFC>
-Hmph...that's just perfect.<$FFFC>
-I wanted to kill you for some time now.<$FFFE>
-That's a worry, the Dark Knight arrived sooner than anticipated...<$FFFE>
-No use complaining, we just have to defeat him and<$FFFC>
-after that we will claim back Laffel!<$FFFE>
-Defeat me...<$FFFC>
-Amusing.<$FFFE>
--Defeat the Dark Knight<$FFFE>
-The Dark Knight...<$FFFC>
-What a fearful enemy.<$FFFE>
-His power is clearly beyond any normal human.<$FFFE>
-We might not stand a chance against him now...<$FFFE>
-I'm sorry everyone.<$FFFC>
-It took too long to take the fortress...<$FFFE>
-Alert!<$FFFC>
-It is the enemy, the enemy attacked!<$FFFE>
-What!?<$FFFC>
-How many are there?<$FFFE>
-They number approximately 1/3 of our troops.<$FFFE>
-What fools!<$FFFC>
-They must be mad to attack with so few.<$FFFD>
-All troops to battle stations!<$FFFC>
-Show them the power of Barral!<$FFFE>
-I'm outta here.<$FFFC>
-Too dangerous here, good luck!<$FFFE>
-Move in on the enemy!<$FFFC>
-Don't let them get any further!<$FFFE>
-Yessir!<$FFFE>
-Advance.<$FFFE>
-Yessir!<$FFFE>
-Something oddly shaped sticks out behind the statue.<$FFFE>
-What do you do?<$FFFE>
+Dark Knight <$FFFF>
+Total destruction of the enemy <$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
+Barral Stronghold <$0236> Rogier<$FFFF>
+ Yaawn! So this is the  stronghold!<$FFFE>
+ It is likely that this is the base for the  invasion on Laffel.<$FFFE>
+ Yeah. When we launched  our attack on Laffel we  used this stronghold as  headquarters.<$FFFE>
+ In other words, this  fortress holds high  importance to the whole  invasion.<$FFFE>
+ That's right. If there  would be an attack here, reinforcements would be  sent from Laffel no  doubt.<$FFFE>
+ I guess we all know what that means.<$FFFE>
+ Wouldn't this be a good  opportunity to take out  the Dark Knight for good and to begin a counter offensive?<$FFFE>
+ No. For now our objective is distracting the enemy.<$FFFE>
+ If we aren't careful we  could get into a pincer  attack.<$FFFE>
+ I agree. Besides that  Dark Knight fellow is  one heartless  monstrosity, cutting down his own men if he feels like it.<$FFFE>
+ …Damn! Just  remembering it makes my  stomach ache!<$FFFE>
+ It is time to commence the attack. Take the  fortress with one  dedicated charge!<$FFFE>
+ No Problem!<$FFFE>
+ Is there someone called  <$F600><$0000> around here?<$FFFE>
+ That would be me.<$FFFE>
+ Wolf send me.<$FFFD>You need to speed up your operation! The Dark  Knight will arrive here  shortly!<$FFFE>
+ Oh no, we must hurry sir <$F600><$0000>!<$FFFE>
+ Yeah. We have to fall back soon if we want to  free Laffel.<$FFFE>
+ Aha!<$FFFD>Once our reinforcements  arrive you will be done for! Don't think you will get away from here easily!<$FFFE>
+ So that's how it is!<$FFFD>Once our reinforcements  arrive you will be done for! Don't think you will get away from here  easily!<$FFFE>
+ Now that they know our plan we have to silence  them for good. We need to conclude this battle  before the Dark Knight arrives.<$FFFE>
+ I am at it.<$FFFE>
+ …Make haste. If the  Dark Knight appears our  only option will be to fight him!<$FFFE>
+ Sir <$F600><$0000>, we have to  end this fast. If the  Dark Knight arrives the  outcome of the battle  could be unfavorable.<$FFFE>
+ I know.<$FFFE>
+ Everyone, hurry! The dark knight is approaching!<$FFFE>
+ Now that the Dark Knight is here, our victory is  certain!<$FFFD>All troops, charge! Destroy the invaders!<$FFFE>
+ I see everyone is  already enjoying themselves. What kind of  incompetent maggot is  responsible for this?<$FFFE>
+ The Dark Knight!?<$FFFE>
+ So he really came!<$FFFE>
+ …The remnants of the  Larcuss army. Hmph…that's just  perfect. I wanted to kill you for some time now.<$FFFE>
+ That's a worry, the Dark  Knight arrived sooner  than anticipated…<$FFFE>
+ No use complaining, we  just have to defeat him and after that we will claim back Laffel!<$FFFE>
+Defeat me… Amusing.<$FFFE>
+Defeat the Dark Knight<$FFFE>
+ The Dark Knight… What  a fearful enemy.<$FFFE>
+ His power is clearly beyond what normal humans should be capable of.<$FFFE>
+ With our current strength we might not  stand a chance against him…<$FFFE>
+ I am sorry everyone. It  just took too long to  conquer the fortress…<$FFFE>
+ Alert! It is the enemy, the enemy attacked!<$FFFE>
+ What!? How many are  there?<$FFFE>
+ They number  approximately 1 3 of our  troops.<$FFFE>
+ What fools! They must be  mad believing to stand a chance with so few.<$FFFD>All troops on battle station! Let them a taste the power of Barral!<$FFFE>
+ I am outta here. It's  getting too dangerous  around here, good luck!<$FFFE>
+Move in on the enemy! Don't let them get any further!<$FFFE>
+ Yessir!<$FFFE>
+ Advance.<$FFFE>
+ Yessir!<$FFFE>
+ Something weirdly shaped sticks out from behind the statue.<$FFFE>
+ What do you do?<$FFFE>
 Destroy it<$FFFE>
-Take it<$FFFE>
+Take it <$FFFE>
 Stare at it motionless<$FFFE>
-Nothing happened.<$FFFE>
-You couldn't reach it...<$FFFE>
-After staring a while, the statue begins to speak.<$FFFD>
-If you wish it to be yours, make an offer.<$FFFE>
-How much do you offer?<$FFFE>
+ Nothing happened.<$FFFE>
+ You couldn't reach it…<$FFFE>
+ After some time of staring motionlessly, the statue begins to speak.<$FFFD>If you wish for it to be yours, make an offer.<$FFFE>
+ How much do you offer?<$FFFE>
 100P<$FFFE>
 500P<$FFFE>
 1000P<$FFFE>
-That's not enough...<$FFFE>
-Nothing happens.<$FFFC>
-But your money is gone...<$FFFE>
-That's not enough...<$FFFE>
-Nothing happens.<$FFFC>
-But your money is gone...<$FFFE>
-That's not enough...<$FFFE>
-But the thought is what counts.<$FFFC>
-Take this!<$FFFE>
-Crest of the Lord of Immortals was obtained!<$FFFE>
-You inspect the stone pillar and realize it's a gravestone.<$FFFD>
-A large migratory bird lands on it.<$FFFC>
-In one claw it holds a gem sparkling in seven colors.<$FFFE>
-What do you do?<$FFFE>
-Threaten the bird<$FFFE>
-Reach out to it with your hand<$FFFE>
-Ignore the bird<$FFFE>
-Startled, the bird flies off, leaving the gem behind.<$FFFE>
-Divine Blessing was obtained!<$FFFE>
-The bird escaped with the gem...<$FFFE>
-After a while the bird flies off with the gem...<$FFFE>
-I overestimated myself...<$FFFE>
-Dieharte...<$FFFE>
-I'm sorry...<$FFFE>
-Coty...<$FFFE>
-Oh...<$FFFE>
-That's weird.<$FFFC>
-I can't feel my body...<$FFFE>
-Excuse me...<$FFFE>
-Oh..I can see a light...<$FFFE>
-My age caught up to me...<$FFFC>
-Please be careful...<$FFFE>
-Urrgh...<$FFFE>
-Shii...<$FFFE>
-How silly...<$FFFC>
-The fort mustn't fall before...<$FFFE>
-I failed...<$FFFD>
-Even if I die this fortress won't fall!<$FFFD>
-Dark Knight!<$FFFC>
-Come quick!<$FFFE>
-Hey, not bad!<$FFFE>
-My compliments for making it so far!<$FFFE>
-Not yet!<$FFFC>
-We won't be defeated like that!<$FFFE>
-Preposterous!<$FFFE>
-This end is unfit for a knight!<$FFFE>
-How did they get this far!?<$FFFD>
-We must hold out till reinforcements come!<$FFFE>
-I'm supposed to know a spell against that condition...<$FFFE>
-Life's such a waste of time...<$FFFE>
-To die in such a dump...<$FFFE>
-Crap!<$FFFE>
-I can't bear the cruelty no longer!<$FFFE>
-My body and this fortress are like tempered steel!<$FFFE>
-I kinda saw it coming...<$FFFE>
-I'm gonna pile up a mountain with your remains!<$FFFE>
-M..My ballista jammed!<$FFFE>
-So long...<$FFFC>
-Death feels...nice...<$FFFE>
-So this is where my journey ends...<$FFFE>
-Fail...<$FFFE>
-I never told you...<$FFFC>
-Good bye...Elliot...<$FFFE>
-I'm b.r.o.k.e.n...<$FFFE>
-Urgh...<$FFFC>
-They...broke through...<$FFFE>
-Here they come!<$FFFC>
-This is as far as you go!<$FFFE>
-So I die...on my first deployment...<$FFFE>
-I didn't expect that...<$FFFE>
-You brute...<$FFFE>
-The enemy is here!<$FFFE>
-Those guys aren't your run of the mill soldiers!<$FFFD>
-We have to think of something...<$FFFE>
-So that's how dying feels like...<$FFFE>
-Such...carelessness...<$FFFE>
-W..What hit me!?<$FFFE>
-...My body grows cold...<$FFFE>
-Lay down your swords...<$FFFC>
-We are defeated...<$FFFE>
-If Rogier falls...<$FFFC>
-The royal capitol will...<$FFFE>
-That's my final mistake!<$FFFE>
-I confess everything!<$FFFC>
-Defeat tastes oh so bitter...<$FFFE>
-Who is in command?<$FFFC>
-I don't see anybody raising his hand, why's that?<$FFFE>
-You worms dare to challenge me?<$FFFC>
-Very well.<$FFFC>
-Come and die!<$FFFE>
-...So the remnants of Larcuss got some skill after all.<$FFFD>
-...You there, Dieharte.<$FFFE>
-Yes ?<$FFFE>
-When we meet again the pleasure will be all mine...<$FFFE>
-I..Impossible the Dark Knight cannot be defeated!?<$FFFD>
-Those guys aren't human!<$FFFC>
-All the troop retreat!<$FFFE>
-I..Impossible the Dark Knight was defeated!?<$FFFD>
-Those guys aren't human!<$FFFC>
-All the troop retreat!<$FFFE>
-Phew, somehow we managed to fend him off.<$FFFC>
-That was some serious battle, I was really worried for a second.<$FFFC>
-But all that matters is that we made it through.<$FFFE>
-This is a well earned victory, Sir Dieharte.<$FFFE>
-Sir Dieharte...<$FFFC>
-That was a rather a pathetic performance.<$FFFD>
-Dieharte you should leave commanding the troops to me...<$FFFE>
-I never thought it was possible to beat that guy.<$FFFE>
-With that kind of injury he won't be messing with us any time soon.<$FFFD>
-Now we should hurry back to Laffel.<$FFFC>
-Everyone, I know your tired but hang in there!<$FFFE>
-I can't believe it...<$FFFE>
-Hmph!<$FFFC>
-That's it!<$FFFE>
-Your luck has just run out!<$FFFE>
-You're strong...<$FFFE>
-Mommy!<$FFFE>
-Blast!<$FFFE>
-Our maneuver was a success!<$FFFC>
-This is a well earned victory, Sir Dieharte.<$FFFE>
-Sir Dieharte...<$FFFC>
-That was a rather a pathetic performance.<$FFFD>
-Dieharte you should leave commanding the troops to me...<$FFFE>
-We did it...it's over.<$FFFC>
-Now we should hurry back to Laffel.<$FFFE>
-Everyone, I know your tired but hang in there!<$FFFE>
-<$F703><$F703>Fu!<$FFFC>
-The fortress mustn't fall at any cost!<$FFFE>
+ That's not enough…<$FFFE>
+ Nothing happens. But your money is gone…<$FFFE>
+ That's not enough…<$FFFE>
+ Nothing happens. But your money is gone…<$FFFE>
+ That's not enough…<$FFFE>
+ But the thought is what  counts. Take this!<$FFFE>
+ Crest of the Lord of Immortals was obtained!<$FFFE>
+ As you inspect the small stone pillar you realize that it's a gravestone.<$FFFD>Suddenly a large migratory bird lands on  the gravestone. In one  of his claws it holds a gem that sparkles in seven colors.<$FFFE>
+ What do you do?<$FFFE>
+Threaten the bird <$FFFE>
+Reach out to it withyour hand <$FFFE>
+Ignore the bird <$FFFE>
+ Being surprise, the migratory bird flies off, leaving the gem behind.<$FFFE>
+ Divine Blessing was  obtained!<$FFFE>
+ The migratory bird escaped with the gem…<$FFFE>
+ After a while the  migratory bird flies off with the gem…<$FFFE>
+ I overestimated  myself…<$FFFE>
+ <$F600><$0000>…<$FFFE>
+ I am sorry…<$FFFE>
+ Coty…<$FFFE>
+ Oh…<$FFFE>
+ That's weird. I can't feel my body…<$FFFE>
+ Excuse me…<$FFFE>
+ Oh…I can see a light…<$FFFE>
+ My age caught up to  me… Please be careful…<$FFFE>
+ Urrgh…<$FFFE>
+ Shii…<$FFFE>
+ How silly… The stronghold mustn't fall  before…<$FFFE>
+ I failed…<$FFFD>But even if I die this fortress will never  fall!<$FFFD>Dark Knight! Come quick!<$FFFE>
+ Hey, not bad!<$FFFE>
+ My compliments for making it so far!<$FFFE>
+ Not yet! We won't be defeated like that!<$FFFE>
+ Preposterous!<$FFFE>
+ This is not an end befitting a knight!<$FFFE>
+ Impossible, how did they  make it so far!?<$FFFD>We must old out until  the reinforcements come!<$FFFE>
+ I am supposed to know a spell against that condition…<$FFFE>
+ Life's such a waste of time…<$FFFE>
+ To die in such a dump…<$FFFE>
+ Crap!<$FFFE>
+ I can't bear the cruelty no longer!<$FFFE>
+ My body and this fortress are like  tempered steel!<$FFFE>
+ I kinda saw it coming…<$FFFE>
+ I am gonna pile up a mountain with your remains!<$FFFE>
+ M…My ballista jammed!<$FFFE>
+ So long… Death feels…nice…<$FFFE>
+ So this is where my  journey ends…<$FFFE>
+ Fail…<$FFFE>
+ I never told you… Good  bye…Elliot…<$FFFE>
+ I am b.r.o.k.e.n…<$FFFE>
+ Urgh… They…broke  through…<$FFFE>
+ Here they come! This is as far as you go!<$FFFE>
+ So I die…on my first  deployment…<$FFFE>
+I didn't expect that…<$FFFE>
+ You brute…<$FFFE>
+ The enemy is here!<$FFFE>
+ Those guys aren't your run of the mill  soldiers!<$FFFD>We have to think of  something…<$FFFE>
+ So that's how dying  feels like…<$FFFE>
+ Such…carelessness…<$FFFE>
+ W…What hit me!?<$FFFE>
+ …My body grows cold…<$FFFE>
+ Lay down your swords… We are defeated…<$FFFE>
+ If Rogier falls… The royal capitol will…<$FFFE>
+ That's my final mistake!<$FFFE>
+ I confess everything! Defeat tastes oh so  bitter…<$FFFE>
+ Who is in command? I don't see anybody  raising his hand, why's that?<$FFFE>
+ You worms dare to  challenge me? Very well. Come and die!<$FFFE>
+…So the remnants of Larcuss got some skill after all.<$FFFD>…You there, <$F600><$0000>.<$FFFE>
+ Yes ?<$FFFE>
+ When we meet again the pleasure will be all mine…<$FFFE>
+ I…Impossible the Dark  Knight cannot be defeated!?<$FFFD>Those guys aren't human! All the troop retreat!<$FFFE>
+ I…Impossible the Dark  Knight was defeated!?<$FFFD>Those guys aren't human! All the troop retreat!<$FFFE>
+ Phew, somehow we managed  to fend him off. That  was some serious battle, I was really worried for a second. But all that  matters is that we made  it through.<$FFFE>
+ This is a well earned  victory, Sir <$F600><$0000>.<$FFFE>
+ Sir <$F600><$0000>… That was  a rather a pathetic  performance.<$FFFD><$F600><$0000> you should  leave commanding the troops to me…<$FFFE>
+ I never thought it was possible to beat that  guy.<$FFFE>
+ With that kind of injury he won't be messing with us any time soon.<$FFFD>Now we should hurry back to Laffel. Everyone, I know your tired but hang in there!<$FFFE>
+ I can't believe it…<$FFFE>
+ Hmph! That's it!<$FFFE>
+ Your luck has just run out!<$FFFE>
+ You're strong…<$FFFE>
+ Mommy!<$FFFE>
+ Blast!<$FFFE>
+ Our maneuver was a success! This is a well  earned victory, Sir <$F600><$0000>.<$FFFE>
+ Sir <$F600><$0000>… That was  a rather a pathetic  performance.<$FFFD><$F600><$0000> you should  leave commanding the troops to me…<$FFFE>
+ We did it…it's over. Now we should hurry back to Laffel.<$FFFE>
+ Everyone, I know your tired but hang in there!<$FFFE>
+<$F703>
+<$F703>
+ <$F703><$F703>Fu! The fortress mustn't  fall at any cost!<$FFFE>  

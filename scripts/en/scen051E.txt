@@ -1,16 +1,15 @@
-Langrisser III dumper [0x1f4d12 to 0x1f5fc7]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,149 +19,76 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Baron Torrand<$FFFF>
-King Wilder<$FFFF>
-Klaus<$FFFF>
-Princess Freya<$FFFF>
+Emerick <$FFFF>
+Baron Torrand <$FFFF>
+King Wilder <$FFFF>
+Klaus <$FFFF>
+Princess Freya <$FFFF>
 Colcia Commander<$FFFF>
 Viscount Raymond<$FFFF>
-Larcuss Commander<$FFFF>
-Baron Torrand's Mansion<$FFFF>
-....Lord William has fallen.<$FFFD>
-I'm glad you escaped safely.<$FFFE>
-Lord Raymond assembled an army for a counterattack.<$FFFD>
-We need your aid, Lord Torrand.<$FFFE>
-....Can you truly restore Larcuss?<$FFFE>
-We can't be certain yet.<$FFFB>
-<$FFFC>
-But doing nothing means losing our chance.<$FFFD>
-We gathered this army in secret over months. There's still time to act.<$FFFD>
-But we need a strategist to lead our forces.<$FFFE>
-..<$fe><$1e>..<$fe><$f>..<$fe><$f>Your eyes shine brightly.<$FFFD>
-I wouldn't have believed it, but your resolve is clear....<$FFFD>
-Very well.<$FFFC>
-I'll gladly offer my aid.<$FFFE>
-[diehardt's name], Lewin, we did it!<$FFFE>
-But my infirmity won't let me travel.<$FFFE>
-And if I leave, no one will protect my citizens.<$FFFE>
-....Luna.<$FFFE>
-Yes, Father.<$FFFE>
-You should travel with my daughter, Luna.<$FFFC>
-She's well-versed in the arts of war.<$FFFE>
-Thank you for all you've done.<$FFFE>
-Don't worry about her.<$FFFC>
-I trained Luna in tactics myself.<$FFFD>
-She won't lose to any general.<$FFFE>
-Thank you, Lord Baron.<$FFFE>
-Before you go, hear my counsel.<$FFFD>
-Riguler holds the center; Colcia and Barral are invading.<$FFFD>
-Let our foes fight each other while we preserve our strength.<$FFFE>
-Trick our enemies into fighting each other?<$FFFE>
-Indeed.<$FFFD>
-Then we strike at their weakest.<$FFFE>
-You understand warfare well.<$FFFE>
-In Baldea's forest, at Lushiris Gate, lives the sorceress Lady Jessica.<$FFFD>
-You should seek her out.<$FFFE>
-Lady Jessica at Lushiris Gate, eh.<$FFFE>
-....The Barral Kingdom baffles me.<$FFFD>
-King Wilder seems to have changed completely.<$FFFC>
-Rumors say he's gone mad.<$FFFE>
-King Wilder....<$FFFE>
-Do you know of Barral's new Supreme Commander?<$FFFD>
-Always in jet-black armor, no one knows his identity.<$FFFD>
-Merciless, he's known as the Dark Knight.<$FFFE>
-The Dark Knight!?<$FFFE>
-That's all I've learned.<$FFFB>
-<$FFFC>
-Luna can tell you more.<$FFFE>
-Father, you're overtaxing yourself.<$FFFC>
-Please rest soon.<$FFFD>
-I'll serve in your place with honor.<$FFFE>
-I leave it to you, Luna.<$FFFE>
-And I found this.<$FFFC>
-Put it to good use....<$FFFE>
-Received Gleipnir!<$FFFE>
-Sir [diehardt's name], look after my daughter.<$FFFB>
-<$FFFC>
-Take care on your journey.<$FFFE>
-Barral Castle ~ Audience Room ~ 12 Years Earlier<$FFFF>
-Ohh!<$FFFB>
-<$FFFC>
-It's been ages! Glad you came, Kraus.<$FFFE>
-A pleasure, King Wilder.<$FFFE>
-No need for formalities.<$FFFC>
-We're close friends, after all.<$FFFE>
-Pleased to meet you, King Wilder, Princess Freya.<$FFFB>
-<$FFFC>
-My name is [diehardt's name].<$FFFE>
-....I'm Freya.<$FFFB>
-<$FFFC>
-Nice to meet you, [diehardt's name].<$FFFE>
-Hey, Freya?<$FFFC>
-What's the matter?<$FFFD>
-You seem sunburnt and soft-spoken today.<$FFFC>
-What happened to your usual recklessness?<$FFFE>
-Sheesh!<$FFFC>
-Papa, you meanie!<$FFFE>
-Ha ha ha!<$FFFC>
-I didn't mean to make you nervous.<$FFFD>
-[diehardt's name], go play with Freya.<$FFFD>
-Krause and I need to talk.<$FFFE>
-.....Geez, Papa can be so obnoxious!<$FFFE>
-[diehardt's name], let's go play outside!<$FFFE>
-Very well, Princess.<$FFFB>
-<$FFFC>
-Whatever milady does wish.<$FFFE>
-Don't be milady-ing me!<$FFFB>
-<$FFFC>
-Didn't you hear Papa scold your father?<$FFFD>
-Like him, I don't care for manners.<$FFFC>
-It's so tiresome hearing it all day!<$FFFC>
-Wouldn't you agree, [diehardt's name]?<$FFFE>
-....Phew.<$FFFD>
-I was afraid I'd slip up talking like that.<$FFFE>
-Ahahaha!<$FFFB>
-<$FFFC>
-I wondered about that!<$FFFE>
-But King Wilder seems so kind.<$FFFD>
-I thought he'd be scarier.<$FFFE>
-....You think?<$FFFB>
-<$FFFC>
-People say that, how Papa doesn't seem kingly.<$FFFE>
-Anyway, let's head outside.<$FFFB>
-<$FFFC>
-We'll play tag!<$FFFE>
-Alright!<$FFFC>
-No way I'm losing!<$FFFE>
+Larcuss Commander <$FFFF>
+Baron Torrano's Mansion <$FFFF>
+ …I see, so Lord William has fallen.<$FFFD>I am glad you were able  to escape to safety.<$FFFE>
+ Additionally, my uncle, Lord Raymond, has assembled an army so we  can finally mount a counterattack.<$FFFD>That's why we 've been tasked with coming to  obtain your assistance, Lord Torrand.<$FFFE>
+ …Do you truly think you can restore the  Kingdom of Larcuss?<$FFFE>
+ We cannot be certain of  it yet.<$FFFB>But, if we do nothing, we will have lost any  chance we might have had.<$FFFD>Though it has taken us half a year to gather  this army in secret, we  still might have time if we act now.<$FFFD>But, we can't utilize  the full power of our  army to follow our hearts if we have no strategist to lead.<$FFFE>
+ …<$FE1E>…<$FE0F>…<$FE0F>You have good eyes.<$FFFD>With someone of your strength and resolve, it  may indeed be  possible…<$FFFD>Very well. I will gladly lend you my aid.<$FFFE>
+ <$F600><$0000>, Lewin, we did  it!<$FFFE>
+ However, upon  reflection, I won't be  able to travel much  because of my infirmity.<$FFFE>
+ And, if I leave here, there will be no one left to protect the  citizens of my lands.<$FFFE>
+ …Luna.<$FFFE>
+ Yes, Father.<$FFFE>
+ It would be best if you  travelled with my  daughter, Luna. She's learned the arts of war  well and fought before.<$FFFE>
+ My thanks for everything you've done for me and my father.<$FFFE>
+ Don't worry about her. I've personally trained Luna in tactics and  strategy.<$FFFD>With all her knowledge of strategy, she shouldn't lose to any  ordinary general.<$FFFE>
+ Thank you very much, Lord Baron.<$FFFE>
+ But, before you leave, I would like to share a little more of what I've  learned.<$FFFD>At present, with the  Riguler Empire occupying the center of the  country, Colcia and  Barral have begun  invading.<$FFFD>Since we face numerous enemy countries, if we hold off making decisive strikes and instead get  our foes to fight  amongst themselves, we  can save our army while  exhausting of our  enemies.<$FFFE>
+ Oh, trick our enemies into fighting each other, you say?<$FFFE>
+ Indeed.<$FFFD>If we make our move  then, in addition to  saving our resources, we  can strike with maximum efficacy when our foes are at their weakest.<$FFFE>
+ You really do have a deep understanding of  warfare.<$FFFE>
+ Also, at the Lushiris Gate, deep in the forest  of Baldea, there is said to live a great  sorceress, the Lady  Jessica.<$FFFD>It would be best if you  tried to meet her.<$FFFE>
+ Lady Jessica of the  Lushiris Gate, eh.<$FFFE>
+ …I am still baffled by the Barral Kingdom.<$FFFD>That King Wilder seems to have changed past all recognition. Rumors say  that he's gone  completely mad.<$FFFE>
+ King Wilder…<$FFFE>
+ Speaking of which, do  you know about Barral's new Supreme Commander?<$FFFD>He always goes about all covered in jet black armor, and it seems no one knows his true identity.<$FFFD>Showing no mercy to his  foes, this nebulous figure is called the Dark Knight.<$FFFE>
+ The Dark Knight!?<$FFFE>
+ That's about all I've  been able to learn.<$FFFB>Just ask Luna if you wish to know more at a later date.<$FFFE>
+ Father, you're taxing your health with this  exertion. Please take a break soon.<$FFFD>I, Luna, shall do my best to take your place  and serve with honor and distinction.<$FFFE>
+ I leave it to you, Luna.<$FFFE>
+ Oh, and I came across this. See that you put  it to good use…<$FFFE>
+ Received Gleipnir!<$FFFE>
+ Sir <$F600><$0000>, look after  my daughter.<$FFFB>Take care on your  journey.<$FFFE>
+ Barral Castle <$0236> Audience  Room <$0236> 12 Years Earlier<$FFFF>
+ Ohh!<$FFFB>It's been such a long  time since last we met, I am so glad you came, Kraus.<$FFFE>
+ It is a pleasure to see  you, too, King Wilder.<$FFFE>
+ No need to speak so  distantly. You and I are close friends, after all.<$FFFE>
+ A pleasure to meet you, King Wilder and Princess Freya.<$FFFB>My name is <$F600><$0000>.<$FFFE>
+ …I am Freya.<$FFFB>Nice to meet you, <$F600><$0000>.<$FFFE>
+ Hey, Freya? What's the  matter?<$FFFD>Today you seem a little  sunburnt and quite soft  spoken. What happened to  your usual recklessness?<$FFFE>
+ Sheesh! Papa, you meanie!<$FFFE>
+ Ha ha ha! I didn't mean to make you nervous.<$FFFD><$F600><$0000>, why don't you go play a bit and have fun with your new  friend, Freya.<$FFFD>And in the meantime, Krause and I can have a little chat together.<$FFFE>
+ …Geeze, I can't believe how obnoxious  Papa was being.<$FFFE>
+ Say, <$F600><$0000>, want to go play outside?<$FFFE>
+ Very well, Princess.<$FFFB>Whatever milady does wish.<$FFFE>
+ Don't be milady ing me!<$FFFB>Didn't you hear Papa berate your father about that?<$FFFD>Like him, I am not a stickler for manners. It's so tiresome to hear day in, day out! Wouldn't you agree, <$F600><$0000>?<$FFFE>
+ …Phew.<$FFFD>Honestly, I was afraid I was going to make a mistake if I kept  talking like that.<$FFFE>
+ Ahahaha!<$FFFB>I wondered about that!<$FFFE>
+ But, King Wilder seems like such a kind man.<$FFFD>I thought he would be a bit more frightening.<$FFFE>
+ …You think?<$FFFB>A lot of people say  that, how Papa doesn't  strike them quite like a King.<$FFFE>
+ Anyways, let's head on outside.<$FFFB>We will play tag!<$FFFE>
+ Alright! No way I am losing!<$FFFE>
 Plains of Former Larcuss<$FFFF>
-Dammit all!<$FFFB>
-<$FFFC>
-Back, back!<$FFFC>
-Retreeaaaaat!!<$FFFE>
-Looks like we've driven them all off.<$FFFC>
-The Colcian Army's headed home.<$FFFE>
-Indeed.<$FFFC>
-One less enemy to worry about.<$FFFE>
-Lord Raymond!<$FFFE>
-A report from the mobile division.<$FFFC>
-What does it say?<$FFFE>
-Sir, we've secured Lord Torrand's aid.<$FFFD>
-Since he's ill, his daughter Luna came in his place.<$FFFE>
-Oho, the Baron's daughter.<$FFFD>
-I hear she's quite skilled with the blade.<$FFFC>
-That's excellent.<$FFFE>
-One more thing.<$FFFD>
-Lushiris Gate, in the forest of Baldea.<$FFFB>
-<$FFFC>
-A mighty sorceress, Lady Jessica, lives there.<$FFFD>
-They recommend we head there next.<$FFFE>
-Lushiris Gate, I see.<$FFFE>
-Lord Raymond, do you know of her or the Gate?<$FFFE>
-The Gate is consecrated ground, dedicated to the goddess Lushiris.<$FFFD>
-With this strife, it may no longer function properly.<$FFFE>
-Colcia's no longer a concern.<$FFFC>
-Let's head to Lushiris Gate at once!<$FFFE>
-Yes. Let's hurry.<$FFFE>
-Assemble all our forces.<$FFFB>
-<$FFFC>
-From here we seek the Lushiris Gate!<$FFFE>
+ Dammit all!<$FFFB>Back, back! Retreeaaaaat!!<$FFFE>
+ Somehow it looks like  we've driven them all  off. The Colcian Army's  headed back home.<$FFFE>
+Indeed. Now we've got  one less enemy country facing us.<$FFFE>
+ Lord Raymond!<$FFFE>
+ Oh, an incoming report  from the mobile  division. What does it  say?<$FFFE>
+ Sir, the mobile division has secured the aid of Lord Torrand.<$FFFD>Because Lord Torrand is  ill and can't move much, the Baron's Daughter, Lady Luna, has come in his place.<$FFFE>
+ Oho, the Baron's daughter.<$FFFD>I hear she's quite a skilled woman, better  than most men with the blade. That's excellent.<$FFFE>
+ Oh, there's also one  more matter mentioned in the message.<$FFFD>Lushiris Gate, in the  forest of Baldea.<$FFFB>It seems that the Lady Jessica, a mighty  sorceress, resides there.<$FFFD>They recommend that our  next move should be to head there.<$FFFE>
+ Lushiris Gate, I see.<$FFFE>
+ Lord Raymond, are you knowing anything about this woman, or the  Lushiris Gate?<$FFFE>
+ This Lushiris Gate is on consecrated grounds, dedicated to the goddess of light who watches over our country, Lady  Lushiris.<$FFFD>Because of this strife, I have a feeling the Lushiris Gate may no longer be able to  properly function.<$FFFE>
+ Colcia should no longer  be a concern of ours. Let's head to Lushiris Gate immediately!<$FFFE>
+ Yes. Let's hurry.<$FFFE>
+ Assemble all our forces.<$FFFB>From here we seek the  Lushiris Gate!<$FFFE> 

@@ -72,7 +72,7 @@ Sophia who joins the division, suggests to move on the eastern gate next.<$FFFD>
 The Barral troops stationed in Laffel being at the brink of defeat, are reinforced by the Dark Knight who takes over command determinately.<$FFFD>
 Altemuller who has recovered from his injury moves out to the Colcian border to repel their troops almost singe handedly.<$FFFE>
 <$FFF8000B>  Scenraio - 11<$FFFD>
-Moving on the eastern gate, the division is ambushed by Ferakia another Demon General, who was planning the assassination of lady JEssica.<$FFFD>
+Moving on the eastern gate, the division is ambushed by Feraquea another Demon General, who was planning the assassination of lady JEssica.<$FFFD>
 The time before the demons would start their invasion, according to the Demon's overlord Bosel, grew short.<$FFFD>
 At the same time General Bortz plans to use himself as a decoy to enable his troops to retreat safely.<$FFFE>
 <$FFF8000C>  Scenraio - 12<$FFFD>
@@ -137,7 +137,7 @@ Geier who had returned to the capitol joins up with Paul to plot the demise of A
 Emerick faces off against the division but can't stop them.<$FFFD>
 Being back-stabbed by Paul and Geier the supplies for the Imperials had run out and their defeat became inevitable.<$FFFD>
 To avoid meaningless bloodshed Altemuller offers a truce which Raymond generously accepts, resulting in the long awaited liberation of Larcussia.<$FFFD>
-Because none of the former royalty is still alive, Raymond is crowned the new King and changes his name into Sieghart and bestows the name Elthlead onto his newly risen kingdom.<$FFFD>
+Because none of the former royalty is still alive, Raymond is crowned the new King and changes his name into Gickhardt and bestows the name Elthlead onto his newly risen kingdom.<$FFFD>
 Those news even reach the distant Kingdom of Velzeria.<$FFFC>
 Staying in the background long enough Velzeria now turns to action.<$FFFC>
 Nobody knew that the real battle had only just begun.<$FFFE>
@@ -165,20 +165,20 @@ Bosel who is upset about the recent events gives the final order to assassinate 
 <$FFF80019>  Scenario - 25<$FFFD>
 After successfully protecting Olver from Rag's assault, everyone is making their way to Lushiris central gate.<$FFFC>
 In heaven they meet the goddess Lushiris.<$FFFD>
-By infusing the Haja no Ken with the soul of King Sieghart, the holy sword Langrisser is crafted.<$FFFD>
+By infusing the Haja no Ken with the soul of King Gickhardt, the holy sword Langrisser is crafted.<$FFFD>
 [diehardt's name] is chosen to wield Langrisser but recommends Lewin to take the now empty throne of Elthlead.<$FFFC>
 A messenger arrives, stating that a survivor of the royal family is claiming his right to ascent the throne.<$FFFD>
 But hadn't all members of the royal family been executed by the Empire?<$FFFC>
 Ill-at-ease the division makes its way back to the Capitol.<$FFFD>
 At the same time a messenger from Velzeria visits Varna and demands of her to kill Altemuller, while threatening the life of Varna's kidnapped sister Anna.<$FFFE>
 <$FFF8001A>  Scenario - 26<$FFFD>
-Being bathed in the light of Langrisser the royal survivor turns out to be Ferakia the demon Shapeshiftress.<$FFFD>
-Kirikaze, whose homeland had been brought to ruin by Ferakia, joins the fight against the demons to avenge his Lord and his family.<$FFFD>
+Being bathed in the light of Langrisser the royal survivor turns out to be Feraquea the demon Shapeshiftress.<$FFFD>
+Kirikaze, whose homeland had been brought to ruin by Feraquea, joins the fight against the demons to avenge his Lord and his family.<$FFFD>
 Furthermore news of Altemuller's death come to the ears of our protagonists.<$FFFC>
 Paul rejoices at those news, for the Empire would be his alone at last.<$FFFE>
 <$FFF8001B>  Scenario - 27<$FFFD>
-Ferakia failed to ambushed the party which was making their way to Velzeria and was delivered to justice by Kirikaze.<$FFFC>
-With Rag and Ferakia out of the way only one of the demon generals remained.<$FFFD>
+Feraquea failed to ambushed the party which was making their way to Velzeria and was delivered to justice by Kirikaze.<$FFFC>
+With Rag and Feraquea out of the way only one of the demon generals remained.<$FFFD>
 Although Kirikaze had his revenge, he continues to follow [diehardt's name] to defeat the true mastermind, Bosel.<$FFFE>
 <$FFF8001C>  Scenario - 28<$FFFD>
 When [diehardt's name]and company pushed down Grove the last of the demon generals only Bosel remained as the last enemy standing.<$FFFD>

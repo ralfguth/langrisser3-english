@@ -1,16 +1,15 @@
-Langrisser III dumper [0x127482 to 0x128837]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,131 +19,100 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Necromancer Grove<$FFFF>
+Emerick <$FFFF>
+Necromancer Grove <$FFFF>
 Pierre<$FFFF>
-Necromancer<$FFFF>
-Monster<$FFFF>
-Velzerian Commander<$FFFF>
--Defeat Grove<$FFFE>
--Death of Dieharte<$FFFE>
-Velzeria Castle ~ Before the Castle Gates<$FFFF>
-So this is the Velzerian Castle, huh?<$FFFE>
-I assume so.<$FFFC>
-The demonic aura around here is staggering.<$FFFE>
-I'm here for the first time, but according to what Lady Lushiris has conveyed to me this has to be it.<$FFFE>
-So the Prince of Darkness Bosel is around here too?<$FFFE>
-Most certainly.<$FFFE>
-Let's give that Bosel fellow a good trashing and be outta here!<$FFFE>
-I'm afraid that is not going to happen.<$FFFE>
-That voice!<$FFFE>
-We are surrounded!<$FFFC>
-How come we didn't noticed?<$FFFE>
-Suits me fine!<$FFFC>
-That way they save us the trouble of chasing after them.<$FFFE>
-Quiet overconfident, aren't we?<$FFFE>
-I admit, I'm slightly impressed you managed to defeat Ferakia.<$FFFC>
-But this time the circumstances are a bit different, no?<$FFFE>
-It's the same thing!<$FFFC>
-We defeated her, we'll defeat you and then we'll finish off that Bosel character!<$FFFE>
-Is that so?<$FFFC>
-They say you need 3 times the soldiers to take this castle.<$FFFE>
-But you are just a handful; are you telling me that you believe you can win at such odds?<$FFFE>
-That's exactly what I'm saying!<$FFFE>
-Say, that talk about 3 times the soldiers was a bluff right?<$FFFE>
-I'm afraid not.<$FFFC>
-It is basic strategic knowledge that one needs approximately 3 times the troops to conquer a well armed defensive position.<$FFFD>
-In other words, what he was saying was quiet accurate.<$FFFE>
-What!?<$FFFC>
-In case you didn't notice, THEY have 3 times our troops!<$FFFE>
-Now keep it cool, we're only talking about numbers here.<$FFFC>
-We'll just take them on one by one, if we stick together that minor difference in numbers won't matter much.<$FFFE>
-Hehehehe!<$FFFC>
-You amuse me, but let's see if you can keep up with your boasting!<$FFFE>
-Come perished ones, rise again and haunt the living! <$FFFD>
-Kimo Jinihi Kushi Zekiki Yokana Haguji Soramu!<$FFFE>
-Whaa?<$FFFC>
-All the monster's corpses have come back to life?<$FFFE>
-I'm glad you like it, considering this such a simple task for my humble self to perform.<$FFFE>
-Enjoy your miserable life, for it won't last any longer, Grove!<$FFFE>
-Dammit!<$FFFC>
-We have been surrounded once again!<$FFFE>
-Umm, Sir Dieharte.<$FFFD>
-Since they have been resurrected, I think it would be best using Holy and Fire magic against them.<$FFFE>
-...<$FFFD>
-Yeah, you've got a point there.$FFFC>
-Let's give it a try.<$FFFE>
+Necromancer <$FFFF>
+Monster <$FFFF>
+Velzerian Commander <$FFFF>
+Defeat Grove<$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
+Velzeria Castle <$0236> Before  the Castle Gates<$FFFF>
+ So this is the Velzerian Castle, huh?<$FFFE>
+ I assume so. The demonic aura around here is  staggering.<$FFFE>
+ I am here for the first  time, but according to  what Lady Lushiris has conveyed to me this has  to be it.<$FFFE>
+ So the Prince of Darkness Bozel is around here too?<$FFFE>
+ Most certainly.<$FFFE>
+ Let's give that Bozel  fellow a good trashing and be outta here!<$FFFE>
+ I am afraid that is not  going to happen.<$FFFE>
+ That voice!<$FFFE>
+ We are surrounded! How come we didn't noticed?<$FFFE>
+ Suits me fine! That way  they save us the trouble of chasing after them.<$FFFE>
+ Quiet overconfident, aren't we?<$FFFE>
+ I admit, I am slightly impressed you managed to defeat Feraquea. But this  time the circumstances are a bit different, no?<$FFFE>
+ It's the same thing! We  defeated her, we will defeat you and then we will finish off that Bozel character!<$FFFE>
+ Is that so? They say you  need 3 times the soldiers to take this  castle.<$FFFE>
+ But you are just a handful, are you telling me that you believe you  can win at such odds?<$FFFE>
+ That's exactly what I am saying!<$FFFE>
+ Say, that talk about 3 times the soldiers was a bluff right?<$FFFE>
+ I am afraid not. It is basic strategic  knowledge that one needs approximately 3 times the troops to conquer a well armed defensive position.<$FFFD>In other words, what he was saying was quiet accurate.<$FFFE>
+ What!? In case you didn't notice, THEY have  3 times our troops!<$FFFE>
+ Now keep it cool, we're  only talking about numbers here. We will just take them on one by one, if we stick together that minor  difference in numbers  won't matter much.<$FFFE>
+ Hehehehe! You amuse me, but let's see if you can keep up with your  boasting!<$FFFE>
+ Come perished ones, rise  again and haunt the  living!<$FFFD>Kimo Jinihi Kushi Zekiki Yokana Haguji Soramu!<$FFFE>
+ Whaa? All the monster's corpses have come back to life?<$FFFE>
+ I am glad you like it, considering this such a simple task for my humble self to perform.<$FFFE>
+ Enjoy your miserable life, for it won't last any longer, Grove!<$FFFE>
+ Dammit! We have been  surrounded once again!<$FFFE>
+ Umm, Sir <$F600><$0000>.<$FFFD>Since they have been resurrected, I think it  would be best using Holy and Fire magic against them.<$FFFE>
+ …<$FFFD>I see, so that's how it  is. It may be worth trying.<$FFFE>
 GUGAAAA!<$FFFE>
-Hehehe.<$FFFC>
-You're struggling hard, but how long can you keep that up?<$FFFE>
-A powerful looking sword sticks out from the ground.<$FFFD>
-There are letters carved into the floor next to it.<$FFFD>
-"Name the greatest sword on earth and I shall lend you my power."<$FFFE>
-What do you say?<$FFFE>
+ Hehehe. You're  struggling hard, but how long can you keep that up?<$FFFE>
+ A powerful looking sword sticks out from the  ground.<$FFFD>There are letters carved into the floor next to it.<$FFFD>"Name the greatest sword  on earth and I shall lend you my power."<$FFFE>
+ What do you say?<$FFFE>
 Langrisser<$FFFE>
 Muramasa<$FFFE>
 Alhazard<$FFFE>
-The sword crumbled to dust...<$FFFE>
-Under heavy sounds you were able to draw the sword out.<$FFFE>
-Muramasa was obtained!<$FFFE>
-The sword crumbled to dust...<$FFFE>
-In front of you gasps a small hole. Inside it a bottle filled with deep-red liquid can be seen.<$FFFE>
-Do you want to pick up the bottle?<$FFFE>
-To reach it you have to to a narrow hole and probably will hurt your hand.<$FFFE>
-What do you do?<$FFFE>
-Grasp it securely<$FFFE>
-Try pinching it<$FFFE>
+ The sword crumbled to dust…<$FFFE>
+ Under heavy sounds you were able to draw the  sword out.<$FFFE>
+ Muramasa was obtained!<$FFFE>
+ The sword crumbled to  dust…<$FFFE>
+ In front of you gasps a small hole. Inside it a bottle filled with deep red liquid can be seen.<$FFFE>
+ Do you want to pick up the bottle?<$FFFE>
+ To reach it you have to  to a narrow hole and probably will hurt your  hand.<$FFFE>
+ What do you do?<$FFFE>
+Grasp it securely <$FFFE>
+Try pinching it <$FFFE>
 Leave it alone<$FFFE>
-You managed to take the bottle, but got injured.<$FFFE>
-<$f6>Protection<$fc>You have lost 10 health points.<$FFFE>
-Ghost Blood was obtained!<$FFFE>
-As you attempt to carry the bottle out, it slipped away.<$FFFD>
-The bottle broke and the liquid went to waste...<$FFFE>
-Suddenly the earth begin  to tremble.<$FFFC>
-The bottle broke and the liquid went to waste...<$FFFE>
-Suddenly the earth begin  to tremble.<$FFFC>
-The bottle broke and the liquid went to waste...<$FFFE>
-Why does it has to end like this...<$FFFE>
-Ouchie!<$FFFE>
-Father...<$FFFE>
-Grove...you bastard...<$FFFE>
-Oh don't make such a sad face.<$FFFD>
-I shall put his body to good use.<$FFFC>
-Hihihihi....<$FFFE>
-Ughh...<$FFFE>
-Gilbert...<$FFFE>
-Everyone...<$FFFC>
-I'm soo tired...<$FFFE>
-Oh...<$FFFE>
-Sir Dieharte...<$FFFE>
-Oh, Lushiris..help your poor children...<$FFFE>
-Sophia...<$FFFE>
-Father please don't overexert yourself.<$FFFE>
-No...not now...<$FFFE>
-Guaah...<$FFFE>
-What a failure!<$FFFE>
-Come on...try a little harder...<$FFFE>
-Ahh, Heaven feels nice...<$FFFE>
-Curse..you...<$FFFE>
-So it has come to this at long last.<$FFFE>
-You're the last of Velzeria's Generals to draw breath!<$FFFE>
-This time you won't get slip away!<$FFFE>
-Now now, please don't be so repellent.<$FFFE>
-Just think about what magnificent zombie I could craft from flesh such as yours?<$FFFC>
-Hihihihi!<$FFFE>
-Ughh...those...Ignoramus...<$FFFC>
-No human could....command such power...<$FFFE>
-It's gotta be....that sword...<$FFFC>
-Master Boseeellgghh...<$FFFE>
-Coty...<$FFFC>
-Your tormentor is no more.<$FFFE>
-You can sleep peacefully now and dream the endless dream.<$FFFE>
-It seems that all other demons have disappeared as well.<$FFFE>
-Has anyone else noticed just how powerful we've become?<$FFFE>
-With that all of the Velzerian Generals have been defeated by our own hands...<$FFFE>
-This battle went only well because of your prudent commanding, Sir Dieharte.<$FFFE>
-Sir Dieharte...<$FFFC>
-Please concentrate on the ongoing battle....<$FFFD>
-If we waste to much time the enemy can only benefit from it....<$FFFE>
+You managed to take the  bottle, but got injured.<$FFFE>
+ <$F600><$02BE>ok 10 points of damage.<$FFFE>
+ Ghost Blood was  obtained!<$FFFE>
+ As you attempt to carry  the bottle out, it  slipped away.<$FFFD>The bottle broke and the liquid went to waste…<$FFFE>
+ Suddenly the earth begin to tremble. The bottle  broke and the liquid went to waste…<$FFFE>
+ Suddenly the earth begin to tremble. The bottle  broke and the liquid went to waste…<$FFFE>
+ Why does it has to end like this…<$FFFE>
+ Ouchie!<$FFFE>
+ Father…<$FFFE>
+ Grove…you bastard…<$FFFE>
+ Oh don't make such a sad face.<$FFFD>I shall put his body to  good use. Hihihihi…<$FFFE>
+ Ughh…<$FFFE>
+ Gilbert…<$FFFE>
+ Everyone… I am soo  tired…<$FFFE>
+ Oh…<$FFFE>
+ Sir <$F600><$0000>…<$FFFE>
+ Oh, Lushiris…help your  poor children…<$FFFE>
+ Sophia…<$FFFE>
+ Father please don't  overexert yourself.<$FFFE>
+ No…not now…<$FFFE>
+ Guaah…<$FFFE>
+ What a failure!<$FFFE>
+ Come on…try a little harder…<$FFFE>
+ Ahh, Heaven feels  nice…<$FFFE>
+ Curse…you…<$FFFE>
+ So it has come to this at long last.<$FFFE>
+ You're the last of Velzeria's Generals to draw breath!<$FFFE>
+ This time you won't get  slip away!<$FFFE>
+ Now now, please don't be so repellent.<$FFFE>
+ Just think about what  magnificent zombie I could craft from flesh such as yours? Hihihihi!<$FFFE>
+ Ughh…those…Ignoramus  … No human  could…command such power…<$FFFE>
+ It's gotta be…that sword… Master  Bosaaarrgghh…<$FFFE>
+ Coty… Your tormentor  is no more.<$FFFE>
+ You can sleep peacefully now and dream the  endless dream.<$FFFE>
+ It seems that all other  demons have disappeared  as well.<$FFFE>
+ Has anyone else noticed  just how powerful we've  become?<$FFFE>
+ With that all of the Velzerian Generals have  been defeated by our own hands…<$FFFE>
+ This battle went only  well because of your prudent commanding, Sir <$F600><$0000>.<$FFFE>
+ Sir <$F600><$0000>… Please  concentrate on the ongoing battle…<$FFFD>If we waste to much time the enemy can only benefit from it…<$FFFE>
 KISYAAAH!<$FFFE>
 KISYAAAH!<$FFFE>
 KISYAAAH!<$FFFE>
@@ -159,35 +127,26 @@ GUGOOO!<$FFFE>
 GOOON!<$FFFE>
 GOOON!<$FFFE>
 GUGOOO!<$FFFE>
-Is that my fate...<$FFFE>
-Such sweet pain...<$FFFE>
+ Is that my fate…<$FFFE>
+ Such sweet pain…<$FFFE>
 SYAAAH!<$FFFE>
 SYAAAH!<$FFFE>
 GWAAAAA!<$FFFE>
 GWAAAAA!<$FFFE>
 GWAAAAA!<$FFFE>
-Guaaarg...<$FFFE>
-Simpletons...<$FFFE>
-Sniff*...<$FFFC>
-I go back to..black...<$FFFE>
-Feel my wrath!<$FFFE>
-You humans are to be loathed...<$FFFE>
-Why did you invade our home country...<$FFFE>
+ Guaaarg…<$FFFE>
+ Simpletons…<$FFFE>
+ Sniff<$01E9>… I go back to…black…<$FFFE>
+ Feel my wrath!<$FFFE>
+ You humans are to be loathed…<$FFFE>
+ Why did you invade our home country…<$FFFE>
 PUSYUUU!<$FFFE>
 PUSYUUU!<$FFFE>
-Now all that's left is to storm the castle!<$FFFC>
-Do you still plan to fight on!?<$FFFE>
-Now your all alone Groove!<$FFFC>
-Do you still plan to fight on!?<$FFFE>
-Hehehe!<$FFFC>
-It's to early for you to celebrate a victory you haven't won yet.<$FFFE>
-Is that a sore loser speaking?<$FFFC>
-But no matter, your time is running short anyway!<$FFFE>
-KYAAAAH!<$FFFC>
-They killed all of my precious minions simply like that....<$FFFD>
-You'll pay...you'll pay dearly!<$FFFE>
-You ignorant humans have no sense for quality corpses!<$FFFC>
-How dare you slay my beloved underlings!<$FFFE>
-Grove.<$FFFC>
-Underestimating the strength of us humans will prove a baneful fallacy!<$FFFE>
-Now you will witness our power first hand!<$FFFE>
+ Now all that's left is to storm the castle! Do  you still plan to fight  on!?<$FFFE>
+ Now your all alone Groove! Do you still  plan to fight on!?<$FFFE>
+ Hehehe! It's to early for you to celebrate a victory you haven't won  yet.<$FFFE>
+ Is that a sore loser speaking? But no matter, your time is running short anyway!<$FFFE>
+ KYAAAAH! They killed all of my precious minions simply like that…<$FFFD>You will pay…you will pay dearly!<$FFFE>
+ You ignorant humans have no sense for quality corpses! How dare you  slay my beloved  underlings!<$FFFE>
+ Grove. Underestimating the strength of us humans will prove a baneful fallacy!<$FFFE>
+ Now you will witness our power first hand!<$FFFE> 

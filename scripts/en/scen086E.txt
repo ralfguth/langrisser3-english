@@ -1,85 +1,84 @@
-Langrisser III dumper [0x2d98ba to 0x2da1fb]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Imperial First Prince Paul<$FFFF>
-Riguler Commander<$FFFF>
+Tiaris<$FFFF>
+Liffany <$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Freya<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jugler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemuller<$FFFF>
+Varna<$FFFF>
+Emerick <$FFFF>
+Villager<$FFFF>
+Monsters<$FFFF>
+Imperial Citizens <$FFFF>
+Imperial First Prince  Paul<$FFFF>
+Riguler Commander <$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Healer<$FFFF>
-<$FFFC>
-Scenario ~ 23<$FFFC>
-"Necromancy, Redux"<$FFFE>
-At last, Velzeria has begun to mobilize.  But, their movements<$FFFC>
-have been cloaked in shadows.  Now, Grove has led a legion<$FFFC>
-of monsters against a village on the Elthlead border.<$FFFE>
-[diehardt's name] and company overcome their fatigue and set out towards the border village in order to save the villagers.<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of all enemies<$FFFC>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of all NPCs<$FFFE>
-Village along the Velzeria ~ Elthlead Border<$FFFF>
-How in the world have we come to such a sordid state of affairs, that monsters infest our countryside?<$FFFE>
-Lately, they've come frequently.<$FFFD>
-This village hasn't been hit hard, but the neighboring villages have been completely destroyed by the monsters.<$FFFE>
-Has Lady Lushiris forsaken us?<$FFFE>
-O..o..oh no!<$FFFC>
-Monsters, again!<$FFFE>
-Say what!?<$FFFE>
-Goaah!<$FFFE>
-Run!<$FFFC>
-Everyone, get out of here!<$FFFE>
-Riguler Imperial Capitol ~ Main Street<$FFFF>
-....His Imperial Majesty....<$FFFE>
-....I wonder why our country's Kaiser didn't rule for very long?<$FFFE>
-The imperial family member's historically have lived long lives, right......<$FFFE>
-Think someone might have murdered him?<$FFFE>
-Hey....<$FFFE>
-Sir!<$FFFE>
-What are you all chattering about?<$FFFE>
-Umm.....forgive us.<$FFFE>
-Since his Imperial Highness has passed away, it would be wise to stow unnecessary chatter.<$FFFE>
-My humble apologies.<$FFFE>
-....Hmmph.<$FFFE>
-..........<$FFFE>
-Riguler Imperial Castle ~ Altemuller's Personal Room<$FFFF>
-Did you see that?<$FFFC>
-The look on Paul's face during the time of the funeral procession.<$FFFE>
-Yes, sir.<$FFFE>
-Even though his father has passed he way, he had that look of smug satisfaction.<$FFFC>
-....Argh, what a bastard!<$FFFE>
-Excuse me.<$FFFE>
-You called me, Your Excellency Altemuller?<$FFFE>
-Thanks for responding to my summons.<$FFFC>
-I've got something I'd like to ask you.<$FFFE>
-Yes, milord, how might I help you?<$FFFE>
-You attended both my Father, the previous Kaiser, and Kaiser Kleist IV in their final days, correct?<$FFFE>
-That is correct.<$FFFE>
-....Then, let me frank with you - what do you think the true cause of death was for both of them?<$FFFE>
-..........<$FFFE>
-Don't worry.<$FFFC>
-Just tell us what you really think.<$FFFE>
-....Please forgive my fear.<$FFFE>
-I've tended many people to their final moments, as a healer.<$FFFC>
-However, I don't believe those two honorable personages died from ordinary illnesses.<$FFFE>
-Their faces turned a purple color, their skin began to turn yellowish in places, yet whatever medicine I prepared, their bodies still grew weaker.....<$FFFE>
-This is just a guess, but I believe someone might have poisoned them.....<$FFFE>
-Poison?<$FFFE>
-I know no more; this is all just wild speculation.<$FFFE>
-Because of my shortcomings in study, it might have just been some unknown disease.<$FFFE>
-.....Thanks so much.<$FFFC>
-You may leave now.<$FFFE>
-....One warning, though.<$FFFC>
-Don't tell His Majesty Paul what we spoke of here, on pain of death.<$FFFE>
-Y...yes, sir......<$FFFC>
-Then, if I might be excused.<$FFFE>
-So it looks like they were murdered by poison after all.<$FFFC>
-.....Paul, you bastard.<$FFFE>
-Your Excellency, what shall we do?<$FFFE>
-....We can't rush this kind of thing.<$FFFC>
-I can't let them think this talk of poison is just an excuse to take the throne.<$FFFE>
-I must recover my honor.<$FFFC>
-Only after proving myself worthy will I ascend the throne.<$FFFE>
-And to do that, now we must capture Elthlead!<$FFFE>
-Sir!<$FFFE>
+ At last, Velzeria has  begun to mobilize. But, their movements have been cloaked in shadows. Now, Grove has led a legion of monsters against a village on the Elthlead border.<$FFFE>
+ Velzeria had finally begun to act. Its movements were utterly unpredictable. Now, a village along Elthlead's border was under attack  by a monster force led by Grob.<$FFFE>
+ <$F600><$0000> and company overcome their fatigue and set out towards the  border village in order  to save the villagers.<$FFFE>
+ <$01E9>Condition for Victory  Defeat of all enemies  <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of all NPCs <$FFFE>
+ Village along the  Velzeria <$0236> Elthlead  Border<$FFFF>
+ How in the world have we come to such a sordid  state of affairs, that  monsters infest our  countryside?<$FFFE>
+ Lately, they've come  frequently.<$FFFD>This village hasn't been hit hard, but the neighboring villages have been completely destroyed by the monsters.<$FFFE>
+ Has Lady Lushiris  forsaken us?<$FFFE>
+ O…o…oh no! Monsters, again!<$FFFE>
+ Say what!?<$FFFE>
+ Goaah!<$FFFE>
+ Run! Everyone, get out of here!<$FFFE>
+Riguler Imperial Capitol <$0236> Main Street<$FFFF>
+ …His Imperial Majesty…<$FFFE>
+ …I wonder why our country's Kaiser didn't  rule for very long?<$FFFE>
+ The imperial family  member's historically  have lived long lives, right…<$FFFE>
+ Think someone might have murdered him?<$FFFE>
+ Hey…<$FFFE>
+ Sir!<$FFFE>
+ What are you all chattering about?<$FFFE>
+ Umm…forgive us.<$FFFE>
+ Since his Imperial Highness has passed  away, it would be wise  to stow unnecessary  chatter.<$FFFE>
+ My humble apologies.<$FFFE>
+ …Hmmph.<$FFFE>
+…<$FFFE>
+Riguler Imperial Castle  <$0236> Altemuller's Personal  Room<$FFFF>
+ Did you see that? The look on Paul's face  during the time of the funeral procession.<$FFFE>
+ Yes, sir.<$FFFE>
+ Even though his father has passed he way, he  had that look of smug  satisfaction. …Argh, what a bastard!<$FFFE>
+ Excuse me.<$FFFE>
+ You called me, Your  Excellency Altemuller?<$FFFE>
+Thanks for responding to my summons. I've got  something I would like to ask you.<$FFFE>
+ Yes, milord, how might I help you?<$FFFE>
+ You attended both my Father, the previous  Kaiser, and Kaiser  Kleist IV in their final  days, correct?<$FFFE>
+ That is correct.<$FFFE>
+ …Then, let me frank  with you what do you think the true cause of  death was for both of  them?<$FFFE>
+…<$FFFE>
+ Don't worry. Just tell us what you really think.<$FFFE>
+ …Please forgive my  fear.<$FFFE>
+ I've tended many people to their final moments, as a healer. However, I don't believe those two  honorable personages died from ordinary illnesses.<$FFFE>
+ Their faces turned a purple color, their skin  began to turn yellowish  in places, yet whatever  medicine I prepared, their bodies still grew  weaker…<$FFFE>
+ This is just a guess, but I believe someone  might have poisoned  them…<$FFFE>
+ Poison?<$FFFE>
+ I know no more, this is all just wild  speculation.<$FFFE>
+ Because of my  shortcomings in study, it might have just been  some unknown disease.<$FFFE>
+ …Thanks so much. You may leave now.<$FFFE>
+ …One warning, though. Don't tell His Majesty Paul what we spoke of  here, on pain of death.<$FFFE>
+ Y…yes, sir… Then, if I might be excused.<$FFFE>
+ So it looks like they  were murdered by poison  after all. …Paul, you bastard.<$FFFE>
+ Your Excellency, what  shall we do?<$FFFE>
+ …We can't rush this kind of thing. I can't let them think this talk of poison is just an excuse to take the throne.<$FFFE>
+ I must recover my honor. Only after proving myself worthy will I ascend the throne.<$FFFE>
+ And to do that, now we  must capture Elthlead!<$FFFE>
+ Sir!<$FFFE> 

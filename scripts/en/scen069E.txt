@@ -1,16 +1,15 @@
-Langrisser III dumper [0x273292 to 0x273927]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,44 +19,32 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Field Marshal Altemuller<$FFFF>
-Kaiser Kleist<$FFFF>
-Imperial First Prince Paul<$FFFF>
+Kaiser Kleist <$FFFF>
+Imperial First Prince  Paul<$FFFF>
 General Varna<$FFFF>
-Riguler Castle ~ Kaiser Kleist's Sickroom<$FFFF>
-With the demonic cannon out of the picture, our main army shouldn't be necessary, but....<$FFFE>
-A local lord, Lord Raymond, has gathered an army stronger than we suspected, and sorely pressed our troops there.<$FFFE>
-Also, an enigmatic black knight has appeared in the small country of Barral, inflicting massive damage on his own.<$FFFE>
-That's why I have requested additional troops in addition to permission to attack with the aerial fortress and the magically-animated giant soldier, the Galshook.<$FFFE>
-The aerial fortress is still being excavated.<$FFFC>
-However, I approve the use of the Galshook.<$FFFC>
-I trust you will use it well.....<$FFFE>
-Yes, sir!<$FFFE>
-......Hmmph.<$FFFE>
-If you'll excuse me, I'll return to my work.<$FFFE>
-After seeing how ill the Kaiser is, I was forced to remember how we lost the last Kaiser.<$FFFC>
-But somehow, it doesn't seem like quite the same illness.<$FFFE>
-Yes, I was thinking the same thing.<$FFFC>
-Those symptoms are the same shown by my father in his final years.<$FFFC>
-But, I don't think it is an ordinary illness.<$FFFE>
-But even the doctor said he'd never seen the like of that illness, so he didn't know how he could help.....<$FFFC>
-I have to wonder whether it's not at illness at all, but rather poison.....<$FFFE>
-Hmm!?<$FFFC>
-But if that's the case, could it be that someone poisoned the last Kaiser, too!<$FFFC>
-If the Kaiser should die, the one who has the most to gain....<$FFFE>
-Kaiser Kleist IV's successor is that Imperial First Prince, Paul.....<$FFFE>
-If that's so, could it be that this punk, Paul, has poisoned the Kaiser!?<$FFFE>
-Varna, that's a dangerous thing to say.<$FFFC>
-Nowhere have we seen evidence for this proposed poisoning.<$FFFE>
-Even I don't think Father died from an ordinary illness.....<$FFFC>
-But, we have no evidence.<$FFFE>
-Your Excellency.....<$FFFE>
-I bear my uncle no grudge.<$FFFC>
-But, I will watch this damned Paul well!<$FFFE>
-There's no way in hell I'm letting a rat like him sit on the throne!<$FFFE>
-I and the others of the four generals shall do all in our power to assure Your Excellency is restored to the line of succession.<$FFFE>
-Thank you.<$FFFC>
-Your power shall be very helpful for this cause of mine.<$FFFE>
-For now, though, we shall use the Galshook to bring the Empire victory!<$FFFE>
-Yes, sir!<$FFFC>
-It shall be as you command!<$FFFE>
+Riguler Castle <$0236> Kaiser  Kleist's Sickroom<$FFFF>
+ With the demonic cannon  out of the picture, our main army shouldn't be necessary, but…<$FFFE>
+ A local lord, Lord  Raymond, has gathered an army stronger than we  suspected, and sorely  pressed our troops there.<$FFFE>
+ Also, an enigmatic black  knight has appeared in the small country of Barral, inflicting  massive damage on his  own.<$FFFE>
+ That's why I have  requested additional troops in addition to  permission to attack with the aerial fortress and the magically  animated giant soldier, the Galshook.<$FFFE>
+ The aerial fortress is still being excavated. However, I approve the use of the Galshook. I trust you will use it  well…<$FFFE>
+ Yes, sir!<$FFFE>
+ …Hmmph.<$FFFE>
+ If you will excuse me, I will return to my work.<$FFFE>
+ After seeing how ill the Kaiser is, I was forced  to remember how we lost  the last Kaiser. But somehow, it doesn't seem like quite the same  illness.<$FFFE>
+ Yes, I was thinking the  same thing. Those symptoms are the same  shown by my father in  his final years. But, I don't think it is an ordinary illness.<$FFFE>
+ But even the doctor said he would never seen the  like of that illness, so  he didn't know how he  could help… I have  to wonder whether it's not at illness at all, but rather poison…<$FFFE>
+ Hmm!? But if that's the case, could it be that  someone poisoned the last Kaiser, too! If the  Kaiser should die, the one who has the most to  gain…<$FFFE>
+ Kaiser Kleist IV's successor is that  Imperial First Prince, Paul…<$FFFE>
+ If that's so, could it  be that this punk, Paul, has poisoned the Kaiser!?<$FFFE>
+ Varna, that's a dangerous thing to say. Nowhere have we seen evidence for this  proposed poisoning.<$FFFE>
+ Even I don't think Father died from an  ordinary illness… But, we have no  evidence.<$FFFE>
+ Your Excellency…<$FFFE>
+ I bear my uncle no grudge. But, I will  watch this damned Paul well!<$FFFE>
+ There's no way in hell I am letting a rat like  him sit on the throne!<$FFFE>
+ I and the others of the  four generals shall do all in our power to  assure Your Excellency is restored to the line  of succession.<$FFFE>
+ Thank you. Your power  shall be very helpful  for this cause of mine.<$FFFE>
+ For now, though, we  shall use the Galshook to bring the Empire  victory!<$FFFE>
+ Yes, sir! It shall be as  you command!<$FFFE> 

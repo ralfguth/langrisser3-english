@@ -1,16 +1,15 @@
-Langrisser III dumper [0x341cb2 to 0x341fbb]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,25 +19,16 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Worm<$FFFF>
-Gerold<$FFFF>
-Barral Castle<$FFFF>
-...I call upon thee Lushiris, goddess of light, lend me your power.<$FFFD>
-Holy light, purify this one from the evil that robs his freedom.<$FFFD>
-Less Ibiru Dasu Remu!<$FFFE>
-Kikikii!<$FFFE>
-...<$FFFE>
-Are you alright Gerold?<$FFFE>
-...Yes.<$FFFC>
-So this is the pain I must endure for my crimes as the Dark Knight...<$FFFD>
-Uuh...<$FFFE>
-We must head to Laffel at once.<$FFFC>
-But rest up for now.<$FFFE>
-...I will do no such thing.<$FFFB>
-<$FFFC>
-I must go too,<$FFFC>
-to see Layla once more.<$FFFE>
-We leave at once.<$FFFC>
-Everyone, let's hurry back to Laffel!<$FFFE>
-Farewell, Father.<$FFFC>
-Sleep peacefully...<$FFFE>
+Gerold <$FFFF>
+Barral Castle <$FFFF>
+ …I call upon thee Lushiris, oh holy goddess of light, please  lend me your restoring powers.<$FFFD>Holy light purify this one from the wicked evil that robs his freedom.<$FFFD>Less Ibiru Dasu Remu!<$FFFE>
+ Kikikii!<$FFFE>
+…<$FFFE>
+ Are you alright Gerold?<$FFFE>
+ …Yes. So this is the  pain I have to endure  for my crimes as the Dark Knight…<$FFFD>Uuh…<$FFFE>
+ We have to set out for Laffel immediately. But you should take it easy  and try to rest up for now.<$FFFE>
+ …I will do no such  thing.<$FFFB>I must go as well, to  see Layla once more.<$FFFE>
+ We will take our leave immediately. Everyone, let's hurry back to  Laffel!<$FFFE>
+ Farewell, Father. Sleep tight…sleep peacefully…<$FFFE> 

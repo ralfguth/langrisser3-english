@@ -1,16 +1,15 @@
-Langrisser III dumper [0x200236 to 0x200acb]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,70 +19,50 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Dark Knight<$FFFF>
+Emerick <$FFFF>
+Dark Knight <$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Barral Commander<$FFFF>
-Riguler Commander<$FFFF>
+Riguler Commander <$FFFF>
 Viscount Raymond<$FFFF>
 Jessica<$FFFF>
 Layla<$FFFF>
-Border Between the RigEer Empire and Barral<$FFFF>
+Border Between the Riguler Empire and Barral<$FFFF>
 !!<$FFFE>
-Hmmph!<$FFFE>
-Your Excellency!<$FFFE>
-With the Dark Knight as your opponent, you're in for a rough time....<$FFFE>
-But, his foe looks quite formidable too.....<$FFFE>
-....Impressive, you're just as strong as the rumors say.<$FFFC>
-This is my first time fighting against a foe this strong.<$FFFE>
-.....Dastardly fiend.<$FFFC>
-Let's end this now.<$FFFE>
-Uooo!<$FFFE>
-Aaaagh!<$FFFC>
-The river!<$FFFE>
-The bridge will not persevere!<$FFFB>
-<$FFFC>
-Your Excellency, it's too dangerous!<$FFFC>
-Please come back!<$FFFE>
-Sir Dark Knight!<$FFFE>
-Bah!<$FFFE>
-We'll have to postpone our duel.<$FFFC>
-.....Bleh!<$FFFE>
-Your Excellency!<$FFFC>
-Are you all right, Your Excellency!?<$FFFE>
-Don't just stand there! Quickly, get him to a doctor!<$FFFE>
-....Ugh!<$FFFE>
-Sir Dark Knight!<$FFFE>
-Lushiris Gate ~ Center<$FFFF>
-This is the first time I have laid eyes on this place.<$FFFC>
-Are you the great sorceress, the Lady Jessica?<$FFFE>
-Yes, I am Jessica.<$FFFC>
-I don't know about the "great sorceress" part.<$FFFE>
-Anyhow, what purpose draws you to this place?<$FFFE>
-We are fighting against the Riguler Empire and Barral, in order to restore the Kingdom of Larcuss.<$FFFD>
-We've come to ask you to lend your power to our cause, Lady Jessica.<$FFFE>
-Your two enemy countries are both quite strong.<$FFFB>
-<$FFFC>
-...However, they are not your only foes.<$FFFE>
-Who else have we overlooked?<$FFFE>
-In the land to the northeast of Larcuss, there is a kingdom of demons, called Velzeria.<$FFFD>
-Protecting against the invasion of those demons is the very reason for the Lushiris Gate to be standing here, but....<$FFFD>
-With the invasion of the Empire and Barral, some of the four gates that supply this place have been occupied.<$FFFD>
-That's why the Lushiris Gate has ceased functioning.<$FFFE>
-Then, if the Gate does not resume functioning soon.....<$FFFE>
-The divine protection of Lushiris, the goddess of light, will no longer hold on this land.<$FFFD>
-So, it's only a matter of time before Velzeria....and the demons invade.<$FFFE>
-With us already fighting against the Empire, and Barral, we hardly can afford to have another foe nipping at our heels.<$FFFE>
-So then, what is to be done?<$FFFE>
-If we can free the four gates and occupy the land on which they stand, the power of the Lushiris Gate will be renewed.<$FFFE>
-I see.<$FFFC>
-We should collaborate with [diehardt's name]'s forces to free the four gates.<$FFFE>
-Lord Raymond!<$FFFC>
-Please send me as the messenger to [diehardt's name]!<$FFFE>
-Lady Layla!?<$FFFE>
-With everyone fighting, I'm the only one who has nothing to offer here!<$FFFE>
-...Very well.<$FFFC>
-Bring this message to him.<$FFFD>
-I'm counting on you.<$FFFE>
-Thank you, milord!<$FFFE>
-In the mean time, I will tell you where the four gates can be found.<$FFFE>
+ Hmmph!<$FFFE>
+ Your Excellency!<$FFFE>
+ With the Dark Knight as  your opponent, you're in for a rough time…<$FFFE>
+ But, his foe looks quite formidable too…<$FFFE>
+ …Impressive, you're  just as strong as the  rumors say. This is my  first time fighting  against a foe this strong.<$FFFE>
+ …Dastardly fiend. Let's end this now.<$FFFE>
+ Uooo!<$FFFE>
+ Aaaagh! The river!<$FFFE>
+ The bridge will not  persevere!<$FFFB>Your Excellency, it's  too dangerous! Please  come back!<$FFFE>
+ Sir Dark Knight!<$FFFE>
+ Bah!<$FFFE>
+ We will have to postpone our duel. …Bleh!<$FFFE>
+ Your Excellency! Are you all right, Your  Excellency!?<$FFFE>
+ Don't just stand there! Quickly, get him to a doctor!<$FFFE>
+ …Ugh!<$FFFE>
+ Sir Dark Knight!<$FFFE>
+Lushiris Gate <$0236> Center <$FFFF>
+ This is the first time I have laid eyes on this place. Are you the great sorceress, the Lady  Jessica?<$FFFE>
+ Yes, I am Jessica. I don't know about the "great sorceress" part.<$FFFE>
+ Anyhow, what purpose  draws you to this place?<$FFFE>
+ We are fighting against  the Riguler Empire and Barral, in order to restore the Kingdom of Larcuss.<$FFFD>We've come to ask you to lend your power to our cause, Lady Jessica.<$FFFE>
+ Your two enemy countries are both quite strong.<$FFFB>…However, they are not  your only foes.<$FFFE>
+ Who else have we overlooked?<$FFFE>
+ In the land to the northeast of Larcuss, there is a kingdom of  demons, called Velzeria.<$FFFD>Protecting against the invasion of those demons is the very reason for the Lushiris Gate to be  standing here, but…<$FFFD>With the invasion of the Empire and Barral, some  of the four gates that supply this place have been occupied.<$FFFD>That's why the Lushiris  Gate has ceased  functioning.<$FFFE>
+ Then, if the Gate does  not resume functioning soon…<$FFFE>
+ The divine protection of Lushiris, the goddess of  light, will no longer  hold on this land.<$FFFD>So, it's only a matter  of time before Velzeria…and the  demons invade.<$FFFE>
+ With us already fighting against the Empire, and Barral, we hardly can afford to have another foe nipping at our heels.<$FFFE>
+ So then, what is to be done?<$FFFE>
+ If we can free the four  gates and occupy the land on which they stand, the power of the  Lushiris Gate will be  renewed.<$FFFE>
+ I see. We should collaborate with <$F600><$0000>'s forces to free the four gates.<$FFFE>
+ Lord Raymond! Please  send me as the messenger to <$F600><$0000>!<$FFFE>
+ Lady Layla!?<$FFFE>
+ With everyone fighting, I am the only one who  has nothing to offer here!<$FFFE>
+ …Very well. Bring this  message to him.<$FFFD>I am counting on you.<$FFFE>
+ Thank you, milord!<$FFFE>
+ In the mean time, I will  tell you where the four  gates can be found.<$FFFE> 

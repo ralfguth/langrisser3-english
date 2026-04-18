@@ -1,16 +1,15 @@
-Langrisser III dumper [0x1bd3c to 0x1d55f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,240 +19,165 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Villager<$FFFF>
-Gilbert<$FFFF>
-Grove<$FFFF>
+Gilbert <$FFFF>
+Grove <$FFFF>
 Coty<$FFFF>
-Monster<$FFFF>
--Defeat Necromancer Grove<$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of all Villagers<$FFFE>
-Ransch Village ~ Blademaster Gilbert's house<$FFFF>
-I'm sorry.<$FFFC>
-After all this way we've come....<$FFFE>
-Don't worry about it.<FFFC>
-It couldn't be helped.<$FFFE>
-!?<$FFFD>
-Strange noises from the back of the village.<$FFFE>
-H..help!<$FFFE>
-It is terrible!<$FFFE>
-What is the meaning of this!?<$FFFE>
-It's awful!<$FFFC>
-The dead have risen from the graveyard!<$FFFE>
-Iyaa!<$FFFC>
-What is this!?<$FFFE>
-...It's a zombie...?<$FFFE>
-Other villagers are still back there!<$FFFC>
-Someone has to warn them!<$FFFE>
-Lewin, Tiaris—we must act!<$FFFE>
-Of course!<$FFFE>
-W..what!?<$FFFC>
-Me too!?<$FFFE>
-Hehehe!<$FFFC>
-More humans! Slay them all!<$FFFE>
-Who's that oddball!?<$FFFC>
-Does he control the zombies?<$FFFE>
-Seems so.<$FFFC>
-Take him out and the zombies will cease too.<$FFFE>
-I see.<$FFFC>
-We have no choice but to take up arms.<$FFFD>
-Let's go Tiaris!<$FFFE>
-Y..yes.<$FFFC>
-I'll give it my all!<$FFFE>
-Abomination! You disturb the dead's slumber!<$FFFE>
-Feel the wrath of my blade!<$FFFE>
-Hehehe!<$FFFC>
-Come over and play with my little friends!<$FFFE>
-[diehardt's name], I'll fight once more.<$FFFC>
-I'm at your command!$FFFE>
-Gilbert joined!<$FFFE>
-Gilbert!<$FFFC>
-Let's deal with the undead and their master!<$FFFE>
-Hehehe!<$FFFD>
-My unearthly powers cannot be bested!<$FFFE>
-Damn you!<$FFFB>
-<$FFFC>
-Let me refute that!<$FFFE>
-Not bad!<$FFFC>
-You struggle well for worms!<$FFFD>
-I needed practice before that sorceress anyway!<$FFFE>
-What sorceress?<$FFFD>
-...What are you talking about?<$FFFE>
-Now, my wonderful servants!<$FFFC>
-Show me your might!<$FFFE>
-Huh?<$FFFE>
-A grave over there too?<$FFFC>
-Anything good here?<$FFFE>
-Mihari Kushizekiki Hagujisoramu!<$FFFE>
-!?<$FFFC>
-C..coty.....<$FFFE>
-.....<$FFFE>
-Huhuhu!<$FFFC>
-Kill all you want!<$FFFE>
-Just who is this?<$FFFE>
-He's neither Riguler nor Barral.<$FFFE>
-Whoever he is, his evil must end.<$FFFE>
-I have a bad feeling about this.<$FFFC>
-Let's finish this fast!<$FFFE>
-On a grave in front of you is a potion.<$FFFE>
-Do you want to take it?<$FFFE>
-The potion sits on a paper that says:<$FFFC>
-"Please take me with you."<$FFFE>
+Monster <$FFFF>
+Defeat Necromancer Grove<$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of all Villagers<$FFFE>
+Ransch Village <$0236> Blademaster Gilbert's  house <$FFFF>
+ I am sorry. After all the way we've come here…<$FFFE>
+ It can't be helped. Don't worry about it.<$FFFE>
+ !?<$FFFD>There are coming strange noises from the back of  the village.<$FFFE>
+ H…help!<$FFFE>
+ It is terrible!<$FFFE>
+ What is the meaning of this!?<$FFFE>
+ It's awful! The dead  from the graveyard have  risen and are heading  this way!<$FFFE>
+ Iyaa! What is this!?<$FFFE>
+ …It's, a zombie…?<$FFFE>
+ There are still other  villagers back there! Huff<$01E9>, someone has to  warn them!<$FFFE>
+ Lewin, Tiaris we have to step in!<$FFFE>
+ Of course!<$FFFE>
+ W…what!? Me too!?<$FFFE>
+ Hehehe! Oh, there are more humans around, slay  them all!<$FFFE>
+ Who's that oddball!? Is  he the one that controls the zombies?<$FFFE>
+ It seems to be so. If we can take him out the zombies probably will  cease their rampage too.<$FFFE>
+ I see. Anyway, we have no choice but to take up arms.<$FFFD>Let's go Tiaris!<$FFFE>
+ Y…yes. I will give it  my all!<$FFFE>
+ Abomination that dares to disturb the slumber of the deceased!<$FFFE>
+ You shall feel the wrath of my blade!<$FFFE>
+ Hehehe! Be my guest, you can come right over here and play with my little  friends!<$FFFE>
+ <$F600><$0000>, I will do battle once more. I am at your command!<$FFFE>
+ Gilbert joined the party.<$FFFE>
+ Gilbert! …Alright, let's take care of those undead and their master!<$FFFE>
+ Hehehe!<$FFFD>My unearthly powers  cannot be bested!<$FFFE>
+ Damn you!<$FFFB>Let me refute that!<$FFFE>
+ Not bad! You struggle on well for being such  worms!<$FFFD>And before I could take  on that sorcerers I needed some nice practice anyway!<$FFFE>
+ What Sorceress?<$FFFD>…What are you talking about?<$FFFE>
+ Now, my wonderful  servants! Show me the extend of your might!<$FFFE>
+ Huh?<$FFFE>
+ There's a grave over  there too? Let's see if  we have anything good  here!<$FFFE>
+ Mihari Kushizekiki Hagujisoramu!<$FFFE>
+ !? C…coty…<$FFFE>
+…<$FFFE>
+ Huhuhu! Kill all you  want!<$FFFE>
+ He surely doesn't belong to the Riguler Empire or the Barral Kingdom.<$FFFE>
+ But no matter who he is, we cannot tolerate his evil ways.<$FFFE>
+ On a grave in front of you, there is a potion.<$FFFE>
+ Ugh, this is disgusting. Let's finish this  quickly!<$FFFE>
+ Do you want to take it?<$FFFE>
 Take the potion with you?<$FFFE>
-Nectar was obtained!<$FFFE>
-As you turn away, it reeks of rotten skunk.<$FFFE>
-A weird helm sits inside the hut.<$FFFE>
-Do you take it?<$FFFE>
-Egil Helm was obtained!<$FFFE>
-There is a statue of the village's hero.<$FFFE>
-What do you want to do?<$FFFE>
+ There's a note attached to the potion. "Please accept this."<$FFFE>
+ Nectar was obtained!<$FFFE>
+ As you turn to leave the potion gives of a disgusting scent of  rotten skunk.<$FFFE>
+ There is a weird looking helm inside the hut.<$FFFE>
+ Do you take it?<$FFFE>
+ Egil Helm was obtained!<$FFFE>
+ There is a statue of thevillage's hero.<$FFFE>
+ What do you want to do?<$FFFE>
 Offer up flowers<$FFFE>
 Offer up 100P<$FFFE>
-Offer up a prayer<$FFFE>
-As you place the flowers, the spear falls at your feet.<$FFFE>
-Bloody Lance was obtained!<$FFFE>
-Nothing happened...<$FFFE>
-Nothing happened...<$FFFE>
-Damn,<$FFFC>
-if only I was stronger...<$FFFE>
-What to say!<$FFFC>
-What to do!<$FFFE>
-Don't come near me!<$FFFE>
-Don't come near me!<$FFFE>
-I'm sorry.<$FFFC>
-I can't fight anymore....<$FFFE>
-Your blasphemy will no longer go unpunished!<$FFFE>
-What are you babbling about?<$FFFC>
-You're just jealous of my exquisite comrades!<$FFFE>
-No don't!<$FFFC>
-Please stop, Coty!<$FFFE>
-Jahahaha!<$FFFD>
-Struggle all you want.<$FFFC>
-There's nothing you can do.<$FFFE>
-Damn....<$FFFE>
-C..coty...<$FFFE>
-[diehardt's name].<$FFFC>
-Gilbert, you're pitiful!<$FFFE>
-Stop, it is me!<$FFFC>
-Don't you recognize me, Coty?<$FFFE>
-.....<$FFFE>
-D..daddy...<$FFFE>
-Coty!<$FFFE>
-!?<$FFFC>
-This cheeky thing dares ignore my commands!<$FFFC>
-We cannot have that!<$FFFE>
-Kyaaaa!<$FFFE>
-Farewell, Coty....<$FFFE>
-Uuu...<$FFFE>
-Somebody heelp!<$FFFE>
-I'll be right there for you!<$FFFC>
-Hold on!<$FFFE>
-Everyone, escape to Gilbert's house!<$FFFC>
-We'll handle them!<$FFFE>
-Y..yes!<$FFFE>
-Help...me...<$FFFE>
-L..leave me be!<$FFFE>
-Sir Gilbert!<$FFFE>
-Someone help me!<$FFFE>
-Rats, we failed to protect the villagers!<$FFFC>
-...If not so sad, that's impressive patience.<$FFFE>
-Iiiiiihh!<$FFFD>
-Such pain inflicted on me...<$FFFC>
-You're lucky I must deal with that sorceress...<$FFFC>
-I shall remember this humiliation!<$FFFE>
-It's over...<$FFFC>
-But how did that lunatic escape...<$FFFE>
-<$F702><$F702>We gratefully accept your assistance, Sir Gilbert.<$FFFE>
-Just Gilbert is fine.<$FFFE>
-Just Gilbert is fine.<$FFFE>
-We must thank you properly.<$FFFC>
-Thanks to you, the whole village was saved.<$FFFD>
-As thanks, take the village's secret treasure.<$FFFE>
-Divine Blessing was obtained!<$FFFE>
-A brave wielder gains mysterious powers.<$FFFE>
-Thank you, everyone.<$FFFE>
-Use it to restore the Larcuss Kingdom.<$FFFD>
-We're rooting for you.<$FFFC>
-Please keep at it!<$FFFE>
-<$F703><$F703>Halt!<$FFFC>
-Don't you dare hurt my daughter!<$FFFE>
-Sir Gilbert...<$FFFE>
-Coty, please stop this!<$FFFD>
-If you must direct your hate at someone,<$FFFC>
-it should be me!<$FFFE>
-Fool!<$FFFC>
-Why did it have to come to this...<$FFFE>
-...Daddy...<$FFFE>
-You all have my thanks.<$FFFC>
-You have saved me...<$FFFD>
-Take care of daddy for me.<$FFFE>
-Goodbye, Coty...<$FFFE>
-GUUUU...<$FFFE>
-GUUUU....<$FFFE>
-GUUUU..<$FFFE>
-GUUUU....<$FFFE>
-ZAPP...<$FFFE>
-GUUUU...<$FFFE>
-GUUUU...<$FFFE>
-GUUUU....<$FFFE>
-ZAPP...<$FFFE>
-ZAPP....<$FFFE>
-GUUUU...<$FFFE>
-GUUUU...<$FFFE>
-GUUUU...<$FFFE>
-ZAPP....<$FFFE>
-ZAPP....<$FFFE>
-GUUUU....<$FFFE>
-GUUUU...<$FFFE>
-GUUUU...<$FFFE>
-ZAPP...<$FFFE>
-ZAPP...<$FFFE>
-All under control—humans can't scratch me.<$FFFD>
-Now face me—you'll die by my own hands!<$FFFC>
-Hihihihi!<$FFFE>
-Those measly humans fight quite well.<$FFFD>
-Let's see how they like this!<$FFFE>
-Kyaaa!<$FFFC>
-Even more have appeared!<$FFFE>
-Their numbers grow troublesome.<$FFFC>
-How can we make short work of them...<$FFFE>
-Undead are vulnerable to holy powers.<$FFFC>
-Use your companions' affinities for better battle.<$FFFE>
-[diehardt's name], more enemies have appeared!<$FFFE>
-Oh come on, I've had enough!<$FFFE>
-Do their numbers know no end!?<$FFFE>
-Hihihi!<$FFFD>
-Many more want to play with you!<$FFFE>
-Khe, still more are coming!<$FFFE>
-Ohh, giving up already?<$FFFC>
-Hihihi!<$FFFE>
-I won't let you disturb the dead's slumber!<$FFFC>
-This I swear by Lushiris's holy name!<$FFFE>
-Abomination!<$FFFC>
-You'll pay for what you did to Coty!<$FFFE>
-Hihihi!<$FFFC>
-I was surprised to learn you were her father.<$FFFD>
-But truly, thank me!<$FFFC>
-Only by my hand could you meet your daughter again!<$FFFE>
-Grr! I'll cut you to pieces for that mockery!<$FFFE>
-Coty!<$FFFE>
-....Please, daddy...<$FFFE>
-Please help those people.<$FFFC>
-Your strength is needed now.<$FFFE>
-You died because I lived by the sword.<$FFFE>
-All from my thoughtlessness...<$FFFE>
-Many people suffer right now.<$FFFC>
-And the world's sorrow will only grow.<$FFFE>
-I'm not sad—I know you'll always love me.<$FFFC>
-My one wish is no one has to suffer...<$FFFE>
-....I understand.<$FFFC>
-I lost my way, but your kindness showed me what to do.<$FFFC>
-Thank you.<$FFFE>
-Daddy....<$FFFE>
-Please watch over me, Coty.<$FFFD>
-I'll wield my sword for people's happiness.<$FFFC>
-One day we'll restore peace to all Larcuss.<$FFFE>
-Sir [diehardt's name].<$FFFC>
-My path lies clearly before me.<$FFFD>
-For Larcuss's people, I'll take up the sword once more.<$FFFC>
-If I may, I'll follow your lead from here on.<$FFFE>
+Offer up a prayer <$FFFE>
+ When you place the flowers on the stone socket, the spear the figure was holding falls right before your feet.<$FFFE>
+ Bloody Lance was obtained!<$FFFE>
+ Nothing happened…<$FFFE>
+ Nothing happened…<$FFFE>
+ Nothing happened.<$FFFE>
+ What to say! What to do!<$FFFE>
+ Owwww! What was that for!?<$FFFE>
+ Don't come near me!<$FFFE>
+ Don't come near me!<$FFFE>
+ I am sorry. I can't fight anymore…<$FFFE>
+ Your blasphemic doings will no longer go  unpunished!<$FFFE>
+ No don't! Please stop, Coty!<$FFFE>
+ Stop! Stop it, Coty!<$FFFE>
+ Jahahaha!<$FFFD>Struggle all you want. There is nothing you can do.<$FFFE>
+ C…coty…<$FFFE>
+ C Coty…<$FFFE>
+ Stop this, it is me! Don't you recognize me Coty?<$FFFE>
+ Stop, it's me! Don't you recognize me, Coty!?<$FFFE>
+ D…daddy…<$FFFE>
+ Coty!<$FFFE>
+ Kyaaaa!<$FFFE>
+ !? How dare you ignore my orders, you insolent  girl! I will deal with  you myself!<$FFFE>
+ Farewell, Coty…<$FFFE>
+ Uuu…<$FFFE>
+ Somebody heelp!<$FFFE>
+ S Somebody help me!<$FFFE>
+ Everyone, make your escape to Gilbert's  house! We will take care of them!<$FFFE>
+ Everyone, run to  Gilbert's house! We will hold them off!<$FFFE>
+ Help…me…<$FFFE>
+ L…leave me be!<$FFFE>
+ Sir Gilbert!<$FFFE>
+ Someone help me!<$FFFE>
+ Someone, please help!<$FFFE>
+ Rats, we have failed to protect the villagers! …If it wasn't so sad, it would be quiet a feat, being so patient.<$FFFE>
+ Iiiiiihh!<$FFFD>Doing such to me, doing such a painful thing to  me… You're lucky I have to take care of that sorceress… I shall remember this  humiliation!<$FFFE>
+ It's over… But I am concerned about how that lunatic managed to escape…<$FFFE>
+<$F702>
+<$F702>
+ <$F702><$F702>We gratefully accept your assistance, Sir Gilbert.<$FFFE>
+ Just Gilbert is fine.<$FFFE>
+ Just Gilbert is fine.<$FFFE>
+ There is also need to  thank you properly. Due to your help everyone in the village was saved.<$FFFD>As a token of our  gratitude you shall have the village's secret  treasure.<$FFFE>
+ Divine Blessing was  obtained!<$FFFE>
+ Thank you, everyone.<$FFFE>
+ Thank you, everyone.<$FFFE>
+ Use it well for the sake of the restoration of  the Larcuss Kingdom.<$FFFD>We are rooting for you. Please keep at it!<$FFFE>
+<$F703>
+<$F703>
+ <$F703><$F703>Halt! Don't you dare  hurt my daughter!<$FFFE>
+ Sir Gilbert…<$FFFE>
+ Coty, please stop this!<$FFFD>If you must direct your  hate at someone, it  should be me!<$FFFE>
+ Fool! Why did it have to  come to this…<$FFFE>
+ …Daddy…<$FFFE>
+ You all have my thanks. You have saved me…<$FFFD>Please take care of  daddy for me.<$FFFE>
+ Goodbye, Coty…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+ZAPP…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+ZAPP…<$FFFE>
+ZAPP…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+ZAPP…<$FFFE>
+ZAPP…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+GUUUU…<$FFFE>
+ZAPP…<$FFFE>
+ZAPP…<$FFFE>
+I've got everything under control, you humans cannot hope to  even scratch the likes of me.<$FFFD>Now I am your opponent and you shall die at my  very own hands! Hihihihi!<$FFFE>
+ Those measly humans are  doing quiet well.<$FFFD>Let's see how they like  this!<$FFFE>
+ In such numbers they could be getting troublesome. I wonder if there is a way to make short work of them…<$FFFE>
+ Undead creatures are vulnerable to holy powers. If you take your  companions affinity's  into consideration, you can do battle much more  effectively.<$FFFE>
+ Undead are weak against  a cleric's holy power. If you think about unit  matchups, the battle  should go more smoothly.<$FFFE>
+ Oh come on, I've had  enough of this!<$FFFE>
+ Do their numbers know no end!?<$FFFE>
+ So he's going to  overwhelm us with  numbers!?<$FFFE>
+ Hihihi!<$FFFD>There are many more  that'd like to have fun with you, I can assure  you!<$FFFE>
+ Khe, still more are  coming!<$FFFE>
+ No longer will I permit  you to disturb the slumber of the dead! This I swear by Lushiris holy name!<$FFFE>
+ Abomination! You will  pay for what you did to  Coty!<$FFFE>
+ You bastard! How dare  you do this to Coty!<$FFFE>
+ Hihihi! I was quiet surprised myself to find out that you were this poor girl's father.<$FFFD>But truly, you should be thanking me! After all, it was made possible solely by my hand that you could meet your  beloved daughter again!<$FFFE>
+ Coty!<$FFFE>
+ …Please, daddy…<$FFFE>
+ But only because I lived by the sword you were  killed.<$FFFE>
+ Please help those  people. Father's strength is needed now.<$FFFE>
+ All that happened just because of my  thoughtlessness…<$FFFE>
+ I never want to go through this again…<$FFFE>
+ I am not sad any more  because I know that you  love me always. My one  wish is that no one has  to suffer any longer…<$FFFE>
+ This pain has to end with just Father and me. Please… don't make  everyone suffer any more than they already  have…<$FFFE>
+ …I understand. I lost  my way, but your  kindness showed me what  I must to do. Thank you.<$FFFE>
+ Daddy…<$FFFE>
+ Please watch over me, Coty.<$FFFD>From now on I will wield my sword for the sake of people's happiness. And one day we will restore  peace throughout all of  Larcuss, so make sure to watch closely.<$FFFE>
+ Sir <$F600><$0000>. My path lies clearly before me.<$FFFD>For the sake of the  people of Larcuss, I will take up a sword once more. If I may, I will follow your lead  from here on out.<$FFFE>  

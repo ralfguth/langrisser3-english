@@ -307,6 +307,91 @@ def patch_file_in_iso(image: bytearray, entry: ISOEntry, new_data: bytes) -> int
         return new_sectors
 
 
+def _make_sector(sector_num: int, user_data: bytes) -> bytearray:
+    """Create a Mode 1/2352 sector with sync, MSF header, user data, EDC/ECC."""
+    sector = bytearray(SECTOR_SIZE)
+    sector[0:12] = b'\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00'
+    abs_sector = sector_num + 150  # 2-second lead-in offset
+    m = abs_sector // (75 * 60)
+    s = (abs_sector // 75) % 60
+    f = abs_sector % 75
+    sector[12] = (m // 10) * 16 + (m % 10)  # BCD
+    sector[13] = (s // 10) * 16 + (s % 10)
+    sector[14] = (f // 10) * 16 + (f % 10)
+    sector[15] = 1  # Mode 1
+    sector[USER_OFFSET:USER_OFFSET + len(user_data)] = user_data
+    rewrite_sector_edc_ecc(sector)
+    return sector
+
+
+def rebuild_iso_inorder(image: bytearray, file_index: dict,
+                        target_path: str, new_data: bytes) -> bytearray:
+    """Rebuild ISO with a larger file in its original position.
+
+    Instead of appending at the end, shifts all subsequent files forward
+    to make room, then updates their directory records.
+
+    Returns a new image bytearray.
+    """
+    target = file_index[target_path]
+    old_sectors = math.ceil(target.size / USER_SIZE)
+    new_sectors = math.ceil(len(new_data) / USER_SIZE)
+    delta = new_sectors - old_sectors
+
+    if delta <= 0:
+        # Fits in place — just patch
+        result = bytearray(image)
+        write_file_data(result, target.extent, new_data, target.size)
+        update_dir_record_size(result, target.record_offset, len(new_data))
+        return result
+
+    shift_start = target.extent + old_sectors  # first sector to shift forward
+    total_old_sectors = len(image) // SECTOR_SIZE
+
+    # --- Build new image ---
+    # Part 1: sectors 0 .. target.extent-1 (unchanged, includes directories)
+    result = bytearray(image[:target.extent * SECTOR_SIZE])
+
+    # Part 2: write new (larger) file at original extent
+    for s in range(new_sectors):
+        chunk_start = s * USER_SIZE
+        chunk_end = min(chunk_start + USER_SIZE, len(new_data))
+        result.extend(_make_sector(target.extent + s, new_data[chunk_start:chunk_end]))
+
+    # Part 3: copy sectors from shift_start..end, each shifted +delta in MSF
+    for old_idx in range(shift_start, total_old_sectors):
+        old_start = old_idx * SECTOR_SIZE
+        sector = bytearray(image[old_start:old_start + SECTOR_SIZE])
+        new_idx = old_idx + delta
+        # Rewrite MSF header for new position
+        abs_sector = new_idx + 150
+        m = abs_sector // (75 * 60)
+        s = (abs_sector // 75) % 60
+        f = abs_sector % 75
+        sector[12] = (m // 10) * 16 + (m % 10)
+        sector[13] = (s // 10) * 16 + (s % 10)
+        sector[14] = (f // 10) * 16 + (f % 10)
+        rewrite_sector_edc_ecc(sector)
+        result.extend(sector)
+
+    # --- Update directory records ---
+    # Target file: update size (extent unchanged)
+    update_dir_record_size(result, target.record_offset, len(new_data))
+
+    # All files/dirs with extent >= shift_start: shift +delta
+    # This includes files beyond Track 1 (e.g. ADPCM in Track 2) because
+    # growing Track 1 shifts Track 2's absolute disc position too.
+    shifted = 0
+    for path, entry in file_index.items():
+        if entry.extent >= shift_start:
+            new_extent = entry.extent + delta
+            update_dir_record_extent(result, entry.record_offset, new_extent, entry.size)
+            shifted += 1
+
+    print(f'  ISO rebuild: +{delta} sectors, {shifted} entries shifted')
+    return result
+
+
 def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> None:
     """Assemble final CD image: patched track01 + audio tracks from JP source."""
     output_dir = output_cue.parent

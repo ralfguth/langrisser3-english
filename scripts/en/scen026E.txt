@@ -1,16 +1,15 @@
-Langrisser III dumper [0x10137c to 0x102b63]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,245 +19,171 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Olver<$FFFF>
+Emerick <$FFFF>
+Olver <$FFFF>
 Wormmaster Rag<$FFFF>
-Monster<$FFFF>
-Rag<$FFFF>
-Velzerian Commander<$FFFF>
--Defeat all enemies<$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of Olver<$FFFE>
+Monster <$FFFF>
+Rag <$FFFF>
+Velzerian Commander <$FFFF>
+<$01E9>Conditions for Victory Defeat all enemies<$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Olver<$FFFE>
 Olver's Residence<$FFFF>
-What is it that you want!?<$FFFE>
-Hihihihi!<$FFFC>
-By Lord Bosel's order, we've come to claim your life.<$FFFE>
-My life?<$FFFC>
-Why is it that you wish me dead?<$FFFE>
-You're the only one who can enhance the Haja no Ken.<$FFFE>
-We can't let that sword surpass Alhazard.<$FFFE>
-With you gone, Velzeria's triumph is certain.<$FFFE>
-...Wicked Demons!<$FFFE>
-Well then, my pets!<$FFFC>
-Break into his house and kill him for good.<$FFFE>
-Yes, master!<$FFFE>
-Master Rag, the door won't budge!<$FFFE>
-Use your head for once!<$FFFC>
-Use destructive magic to blast it open!<$FFFE>
-Understood.<$FFFE>
-Uwaaah!<$FFFC>
-Demons are attacking!<$FFFE>
-The demons know he can strengthen the Haja no Ken.<$FFFE>
-Pfft!<$FFFC>
-Elthlead forces have come.<$FFFC>
-We have to get over with this fast.<$FFFE>
-We must hurry if Olver is to survive.<$FFFE>
-You there, tear that door apart right now!<$FFFE>
-Yessir!<$FFFE>
-Everyone else, move out to destroy Elthlead's forces!<$FFFE>
+ What is it that you  want!?<$FFFE>
+ Hihihihi! We are here by  order of our lord Bozel, we have come to claim your life.<$FFFE>
+ My life? Why is it that  you wish me dead?<$FFFE>
+ As far as we know, you are the only one who can enhance the power of the Haja no Ken.<$FFFE>
+ Of course we couldn't  allow that sword to  become more powerful than Alhazard.<$FFFE>
+ If you are wiped from the face of this world, Velzerias triumph would  be a certainty.<$FFFE>
+ …Wicked Demons!<$FFFE>
+ Well then, my pets! Break into his house and kill him for good.<$FFFE>
+ Yes, master!<$FFFE>
+ Master Rag, the door  won't budge!<$FFFE>
+ Use your head for once! Naturally you have to  use powerful destructive magic to open it!<$FFFE>
+ Understood.<$FFFE>
+ Uwaaah! Demons are  attacking!<$FFFE>
+ It would seem as if the  demons are also aware of his ability to strengthen the Haja no Ken.<$FFFE>
+ Pfft! Elthlead forces have come. We have to  get over with this fast.<$FFFE>
+ We should advance with utmost haste, if we wish  for Olver to live.<$FFFE>
+ You there, tear that door apart right now!<$FFFE>
+ Yessir!<$FFFE>
+ Everyone else, move out  to destroy Elthlead's  forces!<$FFFE>
 GAAAAAAHHHH!<$FFFE>
-You're too old and rusty to keep up, geezer!<$FFFE>
-Hihihihi!<$FFFC>
-Such a vigorous lass!<$FFFD>
-Soon you'll see how powerless you children are!<$FFFE>
-Commence the Attack!<$FFFC>
-Above all we must ensure Olver's safety!<$FFFE>
-What should I do from here?<$FFFE>
-What are your orders for Olver?<$FFFE>
-Wait inside the house<$FFFE>
-Move to the south<$FFFE>
-Please wait inside the house.<$FFFE>
-Certainly.<$FFFE>
-Please evacuate to the south.<$FFFC>
-We will guard you!<$FFFE>
-Thank you kindly.<$FFFE>
-Now then, get that door open pronto!<$FFFE>
-Yessir!<$FFFE>
-What's that!?<$FFFC>
-They found a way to break through my door...<$FFFE>
-Hahaha...<$FFFC>
-The gate was broken!<$FFFC>
-That's what you get for messing with me!<$FFFE>
-That's bad!<$FFFC>
-We need to hurry!<$FFFE>
-Only one door remains!<$FFFC>
-Break it before the humans interfere!<$FFFE>
-Yes, sir!<$FFFE>
-Hmph!<$FFFC>
-How dare you mock me!<$FFFE>
-What a stubborn door...<$FFFC>
-Try this next!<$FFFE>
-What, the door withstood my magic?<$FFFE>
-Aaah!<$FFFC>
-They'll break through soon!<$FFFE>
-Quickly!<$FFFE>
-Hahahahaha!<$FFFC>
-At long last!<$FFFC>
-Give in to your fate!<$FFFE>
-What is the meaning of this?<$FFFC>
-If I must I'll resist to my last breath!<$FFFE>
-Bad news!<$FFFC>
-If Olver dies, we can't enhance the Haja no Ken!<$FFFE>
-That door,<$FFFC>
-it won't hold for much longer...<$FFFE>
-Sir Dieharte, if we don't act this instant...<$FFFE>
-There is no time!<$FFFC>
-Everyone, on the double!<$FFFE>
-Hahaha...<$FFFC>
-The prey is cornered! I can taste the blood already!<$FFFE>
-Sir Dieharte, there's not much time left!<$FFFC>
-If that door falls too, we're in trouble.<$FFFE>
-I know...<$FFFE>
-Finally the gate has fallen!<$FFFE>
-Well...<$FFFC>
-Should I open the door and come out?<$FFFE>
-Well...<$FFFC>
-Should I open the second door now?<$FFFE>
-Well...<$FFFC>
-Should I open the door?<$FFFE>
-Well...<$FFFC>
-Should I open the second door now?<$FFFE>
-Well...<$FFFC>
-Should I open the door?<$FFFE>
-Well...<$FFFC>
-Should I open the door?<$FFFE>
-Huff, I'm too old for this...<$FFFE>
-Sir Dieharte.<$FFFC>
-Olver has been successfully evacuated.<$FFFE>
-Alright, let's sweep up the remaining enemies!<$FFFE>
-An axe with runic symbols juts from the bare ground.<$FFFC>
-As you reach for it, a voice speaks.<$FFFD>
-"What is it you rely most on in battle?"<$FFFE>
-What do you answer?<$FFFE>
-Courage<$FFFE>
-Faith<$FFFE>
-Physical strength<$FFFE>
-"In that case you have no need for our power."<$FFFD>
-The voice fell silent and the Axe sank into earth...<$FFFE>
-"In that case you have no need for our power."<$FFFD>
-The voice fell silent and the Axe sank into earth...<$FFFE>
-"If it is power you seek, receive this as our gift."<$FFFE>
-Rune Axe was obtained!<$FFFE>
-Maggots!<$FFFC>
-Use the teleport spell to get to him!<$FFFE>
-We'll take care of the enemy!<$FFFC>
-Please evacuate south, quickly!<$FFFE>
-Very well.<$FFFC>
-I'll try to hurry those old bones.<$FFFE>
-Don't let him get away!<$FFFC>
-Kill that geezer no matter what!<$FFFE>
-I'm sorry everyone....<$FFFE>
-Dieharte...<$FFFE>
-My power wasn't enough...<$FFFE>
-Tis is all I can do...<$FFFE>
-Just keep going...<$FFFE>
-Huh?<$FFFE>
-Forgive me...<$FFFE>
-Aah, what beautiful light...<$FFFE>
-This can't be happening...<$FFFE>
-Uuhg...<$FFFE>
-Why...<$FFFE>
-What a fail!<$FFFC>
-I'm sorry, Dieharte!<$FFFE>
-This is the end....<$FFFE>
-Master Olver!<$FFFE>
-Curses!<$FFFC>
-We couldn't save him!<$FFFE>
-Hahaha!<$FFFC>
-Hmm, that went rather well.<$FFFC>
-All troop, retreat!<$FFFE>
-That's just a scratch...<$FFFD>
-What matters is we did our duty.<$FFFC>
-I'm fine.<$FFFD>
-Don't worry about me.<$FFFC>
-Enjoy your remaining time.<$FFFD>
-Hehehehe...<$FFFE>
-What a stubborn old man!<$FFFE>
-Uuurgh...<$FFFC>
-You did unexpectedly well.<$FFFE>
-Are you alright master Olvar!?<$FFFE>
-I'm fine.<$FFFC>
-Still more demons are approaching!<$FFFE>
-This is bad.<$FFFC>
-We must protect him!<$FFFE>
-W..What...!?<$FFFC>
-I..can't die..like this...<$FFFE>
-Hmph....<$FFFC>
-My body..is shattered..but Master Bosel..will..Urghh!<$FFFE>
-But it's fine.<$FFFC>
-...My pets, run wild as much as you want...<$FFFC>
-Enjoy yourselves in my stead...Uarrgh!<$FFFE>
-Rag is done for....<$FFFC>
-But the demons haven't stopped their rampage!<$FFFE>
-Sir Dieharte, demons still threaten Olver.<$FFFE>
-We must purge them all before they threaten nearby villages.<$FFFE>
-Right, not one can escape.<$FFFC>
-Wipe out every single one of them!<$FFFE>
-How typically human, conceited to the end!<$FFFD>
-Come taste the power of demonkind!<$FFFE>
-Hahaha!<$FFFC>
-Time to harvest your lifeforce!<$FFFE>
-Guwaaah!<$FFFE>
-They've got wits after all.<$FFFC>
-Those brats from Elthlead!<$FFFE>
-What!?<$FFFC>
-The enemy is targeting us!<$FFFE>
-There's no escaping us!<$FFFC>
-Run as far as you want!<$FFFE>
-My beautiful face!!?<$FFFE>
-In such a place...<$FFFE>
-God of chaos!<$FFFC>
-Bring us salvation!<$FFFE>
+ You're way too rusty and shrivelled to keep up with us, you ugly  geezer!<$FFFE>
+ Hihihihi! Such a vigorous lass!<$FFFD>Shortly you will understand what mere children you all are before our power!<$FFFE>
+ Commence the Attack! Above all we must ensure Olver's safety!<$FFFE>
+ Well, please tell me  what I should do from here on.<$FFFE>
+ What are your orders for Olver?<$FFFE>
+Wait inside the house <$FFFE>
+Move to the south <$FFFE>
+ Please wait inside thehouse.<$FFFE>
+ Certainly.<$FFFE>
+ Please evacuate to the south. We will guard you!<$FFFE>
+ Thank you kindly.<$FFFE>
+ Now then, get that door open pronto!<$FFFE>
+ Yessir!<$FFFE>
+ What's that!? They found  a way to break through my door…<$FFFE>
+ Hahaha… The gate was  broken! That's what you get for messing with me!<$FFFE>
+ That's bad! We need to  hurry!<$FFFE>
+ Only one door remains! Take care of it before those humans get a chance to interfere!<$FFFE>
+ Yes, sir!<$FFFE>
+ Hmph! How dare you mock me!<$FFFE>
+What a stubborn door… Let's see how you like what I got in store for  you next!<$FFFE>
+ What, the door withstood  my magic?<$FFFE>
+ Aaah! If they keep it up they will probably break  through the door before  long!<$FFFE>
+ Quickly!<$FFFE>
+ Hahahahaha! At long last! Give in to your fate!<$FFFE>
+ What is the meaning of this? If I must I will  resist to my last  breath!<$FFFE>
+ Bad news! If Olver is killed, it becomes will be to enhance the Haja no Ken!<$FFFE>
+ That door, it won't hold for much longer…<$FFFE>
+ Sir <$F600><$0000>, if we don't act this instant…<$FFFE>
+ There is no time! Everyone, on the double!<$FFFE>
+ Hahaha… The prey has  been cornered, I can't wait to savour the sweet taste of spilled blood already!<$FFFE>
+ Sir <$F600><$0000>, there's not much time left! If  that door is destroyed too, we will have a major problem to deal  with.<$FFFE>
+ I know…<$FFFE>
+ Finally the gate has fallen!<$FFFE>
+ Well… Should I open the door and come out?<$FFFE>
+ Well… Should I open the second door now?<$FFFE>
+ Well… Should I open the door?<$FFFE>
+ Well… Should I open the second door now?<$FFFE>
+ Well… Should I open the door?<$FFFE>
+ Well… Should I open the door?<$FFFE>
+ Huff, I am too old for  this…<$FFFE>
+ Sir <$F600><$0000>. Olver has been successfully  evacuated.<$FFFE>
+ Alright, let's sweep up the remaining enemies!<$FFFE>
+ On a spot of bare land, an axe with runic  symbols on it is stuck to the ground. When you  reached out for the Axe  a voice spoke from somewhere.<$FFFD>"What is it you rely  most on in battle?"<$FFFE>
+ What do you answer?<$FFFE>
+Courage <$FFFE>
+Faith <$FFFE>
+Physical strength <$FFFE>
+ "In that case you have  no need for our power."<$FFFD>The voice went silent  and the Axe was  swallowed by the ground…<$FFFE>
+ "In that case you have  no need for our power."<$FFFD>The voice went silent  and the Axe was  swallowed by the ground…<$FFFE>
+ "If it is power you seek, receive this as our gift."<$FFFE>
+ Rune Axe was obtained!<$FFFE>
+ Maggots! Use the teleport spell to get to him!<$FFFE>
+ We will take care of the enemy! Please hurry and  evacuate to the south!<$FFFE>
+ Very well. I will try to hurry those old bones.<$FFFE>
+ Don't let him get away! Kill that geezer no  matter what!<$FFFE>
+ I am sorry everyone…<$FFFE>
+ <$F600><$0000>…<$FFFE>
+ My power wasn't  enough…<$FFFE>
+ Tis is all I can do…<$FFFE>
+ Just keep going…<$FFFE>
+ Huh?<$FFFE>
+ Forgive me…<$FFFE>
+ Aah, what beautiful  light…<$FFFE>
+ This can't be  happening…<$FFFE>
+ Uuhg…<$FFFE>
+ Why…<$FFFE>
+ What a fail! I am sorry, <$F600><$0000>!<$FFFE>
+ This is the end…<$FFFE>
+ Master Olver!<$FFFE>
+ Curses! We couldn't save  him!<$FFFE>
+ Hahaha! Hmm, that went rather well. All troop, retreat!<$FFFE>
+ That's just a scratch…<$FFFD>Most importantly is that we fulfilled our duty. I am fine.<$FFFD>Don't let this be a cause of worry for you. Enjoy the short time you still have left.<$FFFD>Hehehehe…<$FFFE>
+ What a stubborn old man!<$FFFE>
+ Uuurgh… You did unexpectedly well.<$FFFE>
+ Are you alright master Olvar!?<$FFFE>
+ I am fine. Still more  demons are approaching!<$FFFE>
+ This is bad. We have to  protect him no matter  what!<$FFFE>
+ W…What…!? I…can't  die…like this…<$FFFE>
+ Hmph… Even though…my body is  shattered…Master Bozel…will…Urghh!<$FFFE>
+ But it's fine. …My pets, run wild as much  as you want… Enjoy yourselves in my stead…Uarrgh!<$FFFE>
+ Rag is done for… But the demons haven't stopped their rampage!<$FFFE>
+ Sir <$F600><$0000>, there are still demons that  threaten Olver's live.<$FFFE>
+ Also we should purge them all, or they may cause trouble in villages around.<$FFFE>
+ You're right we cannot allow even one of them to escape. Wipe out  every single one of  them!<$FFFE>
+ How typically human to be conceited beyond  limits!<$FFFD>Come and get a little  taste of the superior  power of us demons!<$FFFE>
+ Hahaha! It's time for your lifeforce to be harvested!<$FFFE>
+ Guwaaah!<$FFFE>
+ Well, it seems they got some wits after all. Those obnoxious kids from Elthlead!<$FFFE>
+ What!? The enemy is  targeting us!<$FFFE>
+ There's no escaping us! Run as far as you want!<$FFFE>
+ What happened to my  beautiful face!!?<$FFFE>
+ In such a place…<$FFFE>
+ God of chaos! Bring us  salvation!<$FFFE>
 GYAAAA!<$FFFE>
 GYAAAA!<$FFFE>
-Magical...<$FFFE>
-Chaos-Sama!<$FFFE>
-Resistance is futile...<$FFFD>
-Urggh!<$FFFE>
+ Magical…<$FFFE>
+ Chaos Sama!<$FFFE>
+ Resistance is futile…<$FFFD>Urggh!<$FFFE>
 GYAAAA!<$FFFE>
 GYAAAA!<$FFFE>
 GOOON!<$FFFE>
-Defeated by inferior beings...<$FFFE>
-Why I am defeated!?<$FFFE>
-That's death...?<$FFFE>
+ Defeated by such inferior beings…<$FFFE>
+ Why I am defeated!?<$FFFE>
+ That's death…?<$FFFE>
 GYAAAA!<$FFFE>
 GOOON!<$FFFE>
 GOOON!<$FFFE>
 KISYAAAA!<$FFFE>
 KISYAAAA!<$FFFE>
-Now only Rag is left!<$FFFE>
-It's over.<$FFFE>
-Do you want Olver to open his door?<$FFFE>
-It is too dangerous right now to open it.<$FFFC>
-Please wait for a little while longer.<$FFFE>
-Alright.<$FFFE>
-Do you want Olver to open his door?<$FFFE>
-Please do.<$FFFE>
-Alright, just give me a minute!<$FFFE>
-Wait till we secure the area.<$FFFE>
-Certainly.<$FFFE>
-Please do.<$FFFE>
-Alright, just give me a minute!<$FFFE>
-Huh?<$FFFE>
-How did you break it so easily?<$FFFE>
-Now now, it wasn't that hard.<$FFFD>
-This door was built to ward off demons.<$FFFE>
-Do you want Olver to open his door?<$FFFE>
-Please do.<$FFFE>
-Alright, just give me a minute!<$FFFE>
-Huh?<$FFFE>
-How did you break it so easily?<$FFFE>
-Now now, it wasn't that hard.<$FFFD>
-This door was built to ward off demons.<$FFFE>
-Wait till we secure the area.<$FFFE>
-Certainly.<$FFFE>
-Sir Dieharte, it's an honor serving you.<$FFFE>
-Sir Dieharte...<$FFFC>
-I tire of lecturing you on your lack of skill...<$FFFD>
-Do you even try to take your job seriously?<$FFFE>
-Let's hurry back to Sieghart.<$FFFE>
-Are you the one called Olver?<$FFFE>
-Indeed, what business have you with me?<$FFFE>
-We are here on behalf of lady Jessica.<$FFFE>
-Lady Jessica, you say.<$FFFC>
-...I see.<$FFFC>
-Then it's my pleasure to meet you.<$FFFE>
+ Now only Rag is left!<$FFFE>
+ It's over.<$FFFE>
+ Do you want Olver to open his door?<$FFFE>
+ It is too dangerous  right now to open it. Please wait for a little while longer.<$FFFE>
+ Alright.<$FFFE>
+ Do you want Olver to open his door?<$FFFE>
+ Please do.<$FFFE>
+ Alright, just give me aminute!<$FFFE>
+ Please wait until we have secured the area.<$FFFE>
+ Certainly.<$FFFE>
+ Please do.<$FFFE>
+ Alright, just give me a minute!<$FFFE>
+ Huh?<$FFFE>
+ H…How did you break it with one blow?<$FFFE>
+ Now now, that wasn't too much of an effort.<$FFFD>You see, this door was especially constructed to ward of demons.<$FFFE>
+ Do you want Olver to open his door?<$FFFE>
+ Please do.<$FFFE>
+ Alright, just give me aminute!<$FFFE>
+ Huh?<$FFFE>
+ H…How did you break it with one blow?<$FFFE>
+ Now now, that wasn't too much of an effort.<$FFFD>You see, this door was especially constructed to ward of demons.<$FFFE>
+ Please wait until we have secured the area.<$FFFE>
+ Certainly.<$FFFE>
+ Sir <$F600><$0000>, I am happy  to serve under such a capable commander.<$FFFE>
+ Sir <$F600><$0000>… I am growing tired lecturing  you for your lack of skill…<$FFFD>Do you even try to take  your job seriously?<$FFFE>
+ Now then, let us hurry  back to Gickhardt and the others.<$FFFE>
+ Are you the one called Olver?<$FFFE>
+ Indeed, may I inquire what business you have with me?<$FFFE>
+ We are here on behalf of lady Jessica.<$FFFE>
+ Lady Jessica, you say. …I see. In that case  it is my pleasure to make your acquaintance.<$FFFE>  

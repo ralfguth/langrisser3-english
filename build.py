@@ -5,9 +5,9 @@ build.py - Build Langrisser III English Translation Patch
 Single-command build pipeline that:
 1. Reads the Japanese disc image
 2. Extracts FONT.BIN and D00.DAT
-3. Generates English font tiles and patches FONT.BIN
+3. Generates English font from JP FONT.BIN + embedded glyph data
 4. Encodes English translation scripts into D00.DAT
-5. Patches everything back into the ISO
+5. Rebuilds ISO with larger D00.DAT (sector-shifting)
 6. Assembles final CD image with audio tracks
 
 Usage:
@@ -15,7 +15,6 @@ Usage:
 
 Requires:
     - Japanese disc image at the configured JP_DIR path
-    - Pillow (pip install Pillow)
     - English translation scripts in scripts/en/
 
 Output:
@@ -34,13 +33,13 @@ sys.path.insert(0, str(SCRIPT_DIR / 'tools'))
 
 from iso_tools import (
     build_file_index, extract_file_data, patch_file_in_iso,
-    assemble_cd_image, SECTOR_SIZE
+    rebuild_iso_inorder, assemble_cd_image, SECTOR_SIZE
 )
 from d00_tools import (
-    parse_d00, insert_translations, rebuild_d00, patch_d00_inplace
+    parse_d00, insert_translations, rebuild_d00
 )
 from font_tools import (
-    CHAR_TILE_MAP, BIGRAM_TILE_MAP, generate_all_tiles, patch_font_bin,
+    CHAR_TILE_MAP, BIGRAM_TILE_MAP, generate_english_font,
 )
 
 # ---------------------------------------------------------------------------
@@ -65,7 +64,7 @@ MENU_PATCHES = {
 }
 
 # Default JP disc location (can be overridden with --jp-iso)
-_DEFAULT_JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega saturn/Langrisser III (Japan)'
+_DEFAULT_JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega-saturn/Langrisser III (Japan)'
 
 
 def main():
@@ -73,10 +72,6 @@ def main():
     parser = argparse.ArgumentParser(description='Build Langrisser III English Translation')
     parser.add_argument('--jp-iso', type=Path, default=None,
                         help='Path to Japanese disc directory (containing .cue and Track 01 .bin)')
-    parser.add_argument('--font-only', action='store_true',
-                        help='Only patch FONT.BIN, skip D00.DAT (for crash diagnosis)')
-    parser.add_argument('--no-translate', action='store_true',
-                        help='Rebuild D00.DAT with JP text only (test relocation)')
     args = parser.parse_args()
 
     # Resolve JP disc location
@@ -97,10 +92,6 @@ def main():
 
     print('=' * 60)
     print('  Langrisser III - English Translation Build')
-    if args.font_only:
-        print('  ** FONT-ONLY MODE (no D00.DAT changes) **')
-    elif args.no_translate:
-        print('  ** NO-TRANSLATE MODE (D00.DAT relocated, JP text) **')
     print('=' * 60)
     print()
 
@@ -110,7 +101,7 @@ def main():
         print(f'  Expected a .bin file like "Langrisser III (Japan) (Track 01).bin"')
         return 1
 
-    if not args.font_only and not SCRIPTS_DIR.exists():
+    if not SCRIPTS_DIR.exists():
         print(f'ERROR: No translation scripts found in {SCRIPTS_DIR}')
         return 1
 
@@ -138,48 +129,29 @@ def main():
     print(f'  D00.DAT:  {len(d00_data):,} bytes')
 
     # -- Step 3: Generate English font --
-    print('[3/7] Generating English bigram font...')
-    tiles = generate_all_tiles()
-    # Use CWX font as base (preserves menu/UI tile glyphs referenced by CWX patches)
-    cwx_font_path = PATCHES_DIR / 'cwx_font.bin'
-    if cwx_font_path.exists():
-        font_base = cwx_font_path.read_bytes()
-        base_label = 'CWX'
-    else:
-        font_base = font_data
-        base_label = 'JP'
-    new_font = patch_font_bin(font_base, tiles)
-    print(f'  Generated {len(tiles)} tiles onto {base_label} base ({len(new_font):,} bytes)')
-    print(f'  Bigram map: {len(BIGRAM_TILE_MAP)} pairs, Single map: {len(CHAR_TILE_MAP)} chars')
+    print('[3/7] Generating English font...')
+    new_font = generate_english_font(font_data)
+    print(f'  English font: {len(new_font):,} bytes ({len(new_font) // 32} tiles)')
 
     # -- Step 4: Parse D00.DAT --
-    if not args.font_only:
-        print('[4/7] Parsing D00.DAT...')
-        sections = parse_d00(d00_data)
-        total_entries = sum(s.entry_count for s in sections)
-        print(f'  {len(sections)} sections, {total_entries:,} entries total')
-    else:
-        print('[4/7] Skipping D00.DAT parse (font-only mode)')
+    print('[4/7] Parsing D00.DAT...')
+    sections = parse_d00(d00_data)
+    total_entries = sum(s.entry_count for s in sections)
+    print(f'  {len(sections)} sections, {total_entries:,} entries total')
 
     # -- Step 5: Insert English translations --
-    if not args.font_only and not args.no_translate:
-        print('[5/7] Encoding English translations...')
-        new_text_areas, stats = insert_translations(
-            sections, SCRIPTS_DIR, CHAR_TILE_MAP, BIGRAM_TILE_MAP, verbose=False
-        )
+    print('[5/7] Encoding English translations...')
+    new_text_areas, stats = insert_translations(
+        sections, SCRIPTS_DIR, CHAR_TILE_MAP, BIGRAM_TILE_MAP, verbose=False
+    )
 
-        print(f'  Translated: {stats["translated"]} sections')
-        print(f'  Skipped:    {stats["skipped"]} sections')
-        if stats['entry_count_mismatches']:
-            print(f'  Entry count adjustments: {len(stats["entry_count_mismatches"])}')
-        if stats['errors']:
-            for err in stats['errors']:
-                print(f'  WARNING: {err}')
-    elif args.no_translate:
-        print('[5/7] Skipping translations (no-translate mode)')
-        new_text_areas = {}
-    else:
-        print('[5/7] Skipping translations (font-only mode)')
+    print(f'  Translated: {stats["translated"]} sections')
+    print(f'  Skipped:    {stats["skipped"]} sections')
+    if stats['entry_count_mismatches']:
+        print(f'  Entry count adjustments: {len(stats["entry_count_mismatches"])}')
+    if stats['errors']:
+        for err in stats['errors']:
+            print(f'  WARNING: {err}')
 
     # -- Step 6: Rebuild D00.DAT and patch ISO --
     print('[6/7] Rebuilding and patching ISO...')
@@ -205,19 +177,13 @@ def main():
     else:
         print(f'  WARNING: patches/ directory not found, menus remain Japanese')
 
-    if not args.font_only:
-        # Patch D00.DAT in-place (same size, no relocation)
-        # Game uses direct sector access — D00.DAT MUST stay at original extent
-        patched_d00, num_patched, num_skipped = patch_d00_inplace(
-            d00_data, sections, new_text_areas
-        )
-        print(f'  D00.DAT: {num_patched} sections patched, {num_skipped} kept JP (too large)')
-        print(f'  D00.DAT: {len(patched_d00):,} bytes (same as original)')
+    # Rebuild D00.DAT (may be larger than original)
+    new_d00 = rebuild_d00(sections, new_text_areas)
+    print(f'  D00.DAT: {len(d00_data):,} -> {len(new_d00):,} bytes')
 
-        # Write patched D00.DAT back into ISO at original location
-        patch_file_in_iso(image, d00_entry, patched_d00)
-    else:
-        print(f'  D00.DAT: unchanged (font-only mode)')
+    # Rebuild ISO with larger D00.DAT (shifts subsequent files)
+    image = rebuild_iso_inorder(image, file_index, 'LANG/SCEN/D00.DAT', new_d00)
+    print(f'  ISO rebuilt: {len(image):,} bytes ({len(image) // SECTOR_SIZE} sectors)')
 
     # Write patched track 01
     track01_path = BUILD_DIR / 'tracks' / 'track01.bin'
@@ -243,8 +209,7 @@ def main():
     print(f'  Audio tracks: {audio_tracks}')
     print(f'  Build time:   {elapsed:.1f}s')
     print()
-    print('  To play: load Langrisser_III_English.cue in')
-    print('  RetroArch + Beetle Saturn (or Mednafen)')
+    print('  To play: load Langrisser_III_English.cue in Ymir')
 
     return 0
 

@@ -1,16 +1,15 @@
-Langrisser III dumper [0x1de972 to 0x1defdf]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,51 +19,36 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General<$FFFF>
+Emerick <$FFFF>
+General <$FFFF>
 Viscount Raymond<$FFFF>
-General Bortz<$FFFF>
-General Emerick<$FFFF>
+General Bortz <$FFFF>
+General Emerick <$FFFF>
 Field Marshal Altemuller<$FFFF>
-Riguler Commander<$FFFF>
-General Geier<$FFFF>
+Riguler Commander <$FFFF>
+General Geier <$FFFF>
 General Varna<$FFFF>
 Adjutant Gates<$FFFF>
 Plains of Former Larcuss<$FFFF>
-The Larcuss remnants?<$FFFC>
-How can they be this strong....<$FFFE>
-Onward!<$FFFC>
-Press onward!<$FFFE>
-For the restoration of our country!<$FFFE>
-Former Larcuss Royal Castle - Currently Imperial Headquarters<$FFFF>
-With this, Larcuss is virtually ours!<$FFFE>
-Faster than I expected.<$FFFE>
-Lord Raymond has raised an army against Colcia.<$FFFE>
-....Worrisome.<$FFFC>
-Keep observing them.<$FFFE>
-Crushing those remnants would be easy for you.<$FFFE>
-No excuse for negligence, Bortz.<$FFFE>
-Sir, 10 prisoners escaped!<$FFFE>
-I'll handle this.<$FFFD>
-This place is boring.<$FFFC>
-Time for a hunt.<$FFFE>
-Geier.<$FFFC>
-Don't waste troops needlessly.<$FFFD>
-Your tactics cause heavy casualties.<$FFFE>
-................<$FFFE>
-...Hunting humans, he said.<$FFFE>
-That's how he talks.<$FFFD>
-Do as you said.<$FFFC>
-Do your duty, no questions asked.<$FFFD>
-Until orders come, keep executions minimal.<$FFFD>
-The prisoners are weak. Even escaped, they won't matter.<$FFFE>
-Hmmph!<$FFFC>
-Damn that Altemuller!<$FFFC>
-Kaiser's son or not, he's too young to be Field Marshal!<$FFFE>
-More experience than him, yet he talks down to me!<$FFFE>
-I'll show him.<$FFFC>
-Soon I'll get a chance to rub his face in the dirt!<$FFFE>
-Most excellent.<$FFFD>
-That brat doesn't stand a chance against you, General.<$FFFE>
-Damn straight.<$FFFD>
-Let's go, Gates!<$FFFE>
-Yessir!<$FFFE>
+ This is the remnants of  the Larcuss army? Impossible, how can they  be this strong…<$FFFE>
+ Onward! Press onward!<$FFFE>
+ For the restoration of our country!<$FFFE>
+Former Larcuss Royal Castle Currently Imperial Headquarters <$FFFF>
+ With this, Larcuss is  virtually ours!<$FFFE>
+ We've succeeded faster than I thought possible.<$FFFE>
+ According to reports I've received, the ruler of a frontier land, Lord  Raymond, has raised an army and is striking at  the Colcian army.<$FFFE>
+ …Such talk is worrisome. For now, continue observation of  the Colcian army and the remnants of the Larcuss  army.<$FFFE>
+ But, with Your Excellency's might, it  would be easy to crush these remnants of the  Larcuss army.<$FFFE>
+ That's still no excuse for negligence, General Bortz.<$FFFE>
+ I fear I have something  to bring to your attention!<$FFFD>10 of the prisoners have managed to escape.<$FFFE>
+ I would like to look into this myself.<$FFFD>This place has grown a mite bit boring. I would like to do something enjoyable like a hunt.<$FFFE>
+ Geier. Don't waste troops for no reason.<$FFFD>Your tactics often result in heavy  casualties.<$FFFE>
+…<$FFFE>
+ …Hunting humans, he  said.<$FFFE>
+ That certainly sounds  like something he would  say.<$FFFD>Well, let him talk. As  long as the mission is carried out, there's no  problem.<$FFFD>Even if it's an order  from the homeland, only  the bare minimum need be executed.<$FFFD>And the strength of men  weak enough to be taken  prisoner is hardly worth worrying about. Even if some escape, it doesn't  matter.<$FFFE>
+ Hmmph! Damn that Altemuller! Even if he's said to be the son of  the previous Kaiser, he's too young to be the Field Marshal!<$FFFE>
+I've had more combat  experience and accomplishments, yet he  mouths off at me like  that!<$FFFE>
+ But, I will show him. Sometime soon I will get a chance to rub his face in the dirt!<$FFFE>
+ That would be most excellent.<$FFFD>That brat doesn't have a chance in the world  against you, General.<$FFFE>
+ Damn straight.<$FFFD>Let's go, Gates!<$FFFE>
+ Yessir!<$FFFE>

@@ -1,16 +1,15 @@
-Langrisser III dumper [0x37e0dc to 0x37e347]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,18 +19,9 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
- <$FFFC>
-Scenario - ?3<$FFFC>
-"The Queen and Aesthetic Men"<$FFFE>
-On the way to Castle Velzeria<$FFFC>
-during the battle with Ferakia,<$FFFC>
-[diehardt's name] comes into the<$FFFC>
-possession of a strange living doll<$FFFC>
-made of clay.<$FFFE>
-When the said doll flies off, [diehardt's name] orders the reluctant division to follow it.<$FFFE>
-After a lengthy chase they find themselves in front of a quirky looking temple...<$FFFE>
-Conditions of Victory<$FFFC>
--That's a secret!<$FFFC>
-Conditions of Defeat<$FFFC>
--Death of [diehardt's name]<$FFFC>
--Death of any Female PC<$FFFE>
+Emerick <$FFFF>
+ Scenario ?3 "The Queen  and Aesthetic Men"<$FFFE>
+ On the way to Castle Velzeria during the  battle with Feraquea, <$F600><$0000> comes into the  possession of a strange  living doll made of  clay.<$FFFE>
+ When the said doll flies off, <$F600><$0000> orders the  reluctant division to  follow it.<$FFFE>
+ After a lengthy chase  they find themselves in  front of a quirky  looking temple…<$FFFE>
+ Conditions of Victory  That's a secret! Conditions of Defeat Death of <$F600><$0000> Death of any Female PC<$FFFE>

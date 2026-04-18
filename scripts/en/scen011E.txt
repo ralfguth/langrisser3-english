@@ -1,16 +1,15 @@
-Langrisser III dumper [0x657f4 to 0x67a1f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,357 +19,235 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Keh Shikairo<$FFFF>
-Shika Commander<$FFFF>
+Shika Commander <$FFFF>
 Wormmaster Rag<$FFFF>
-Kah Shind<$FFFF>
-Monster<$FFFF>
-Rescue Sophia in 19 turns<$FFFC>
--Defeat Keh Shikairo<$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of Sophia<$FFFE>
-Shika Tribe Hideout<$FFFF>
-Shika, shika, shiiika!<$FFFC>
-Lower the sacrifice!<$FFFD>
-This make Shika tribe flourish without fail!<$FFFC>
-Skiika!<$FFFE>
-Shiika!<$FFFE>
-So this is the Shika Tribe hideout?<$FFFE>
-We have a full moon tonight!<$FFFC>
-Are we going to be alright?<$FFFE>
-[diehardt's name], over there—that's Sophia!<$FFFE>
-....ah, someone...<$FFFE>
-What are they doing to her!<$FFFE>
-If lowered more she'll burn alive!<$FFFE>
-This is awful!<$FFFC>
-We have to save her fast!<$FFFE>
-Take out the Shika chief and it ends.<$FFFE>
-Understood!<$FFFC>
-Everyone, hurry! We must rescue Sophia!<$FFFE>
-Skika,shika!<$FFFC>
-Sacrifice! Sacrifice!<$FFFE>
-Kyaahh!<$FFFE>
-!?<$FFFC>
-The rope has gone down gradually!?<$FFFE>
-We need to rush to her aid!<$FFFE>
-Hang in there!<$FFFC>
-We're here to help!<$FFFE>
-Shika!<$FFFC>
-Skikaka!<$FFFE>
-Aaa, someone....<$FFFE>
-Don't worry, we'll be there soon!<$FFFE>
-Ahh, this heat....<$FFFC>
-Lushiris my goddess...<$FFFE>
-[diehardt's name], Hurry up!<$FFFE>
-I'm at it!<$FFFE>
-Khe, we have to act quickly!<$FFFE>
-Kyaa!<$FFFE>
-It's hopeless!<$FFFC>
-We won't make it in time!<$FFFE>
-There's no time left!<$FFFE>
-Bring down that chief pronto!<$FFFE>
-Focus all forces on the chief!<$FFFD>
-Only way to save lady Sophia!<$FFFE>
-Kyaaaaaa!<$FFFE>
-H..How could we let this happen?<$FFFC>
-We were too late...<$FFFE>
-You there!<$FFFC>
-Massacre this lot for me!<$FFFE>
-Kaa!<$FFFE>
-Let us enjoy ourselves!<$FFFE>
-Miss Sophia.<$FFFC>
-Leave the fighting to us; watch from safety.<$FFFE>
-I have to refuse, Sir [diehardt's name].<$FFFC>
-While Velzerian Demons roam, I can't stand idle.<$FFFD>
-I will fight beside you.<$FFFE>
-Very well.<$FFFE>
-I'll follow your orders.<$FFFC>
-Please give me instructions.<$FFFD>
-And please just call me Sophia.<$FFFE>
-Sophia joins the party!<$FFFE>
-Keh Shikairo chief.<$FFFC>
-You alright?<$FFFE>
-Do Kahni comes well!<$FFFC>
-Help comrades!<$FFFC>
-Destroy evil man!<$FFFE>
-Understood!<$FFFC>
-Do Kahni fights!<$FFFE>
-Leave it to you I do!<$FFFE>
-...<$FFFC>
-What happening?<$FFFD>
-!?<$FFFC>
-Me sense evil presence.<$FFFE>
-Again you it is!<$FFFC>
-I strike down you!<$FFFE>
-Shikaa!<$FFFE>
-Kah Shind being mad!<$FFFD>
-Do Kahni Champion!<$FFFC>
-Evil deeds do not permit!<$FFFC>
-I defeat you!<$FFFE>
-Don't let them through!<$FFFD>
-For Shika tribe!<$FFFC>
-Poweer!!!<$FFFE>
-Shikaaaa!<$FFFE>
-Not fight you anymore.<$FFFC>
-Do Kahni respect chief's order.<$FFFE>
-What do you reply?<$FFFE>
-Let's fight together!<$FFFE>
-Have your wounds healed?<$FFFE>
+Kah Shind <$FFFF>
+Monster <$FFFF>
+<$01E9>Conditions for Victory Rescue Sophia in 19 turns Defeat Keh Shikairo<$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Sophia  19 turns pass <$FFFE>
+Shika Tribe Hideout <$FFFF>
+ Shika, shika, shiiika! Lower the sacrifice!<$FFFD>This make Shika tribe  flourish without fail! Skiika!<$FFFE>
+ Shiika!<$FFFE>
+ So this is the Shika Tribe's main hideout?<$FFFE>
+ We have a full moon  tonight! Are we going to be alright?<$FFFE>
+ <$F600><$0000> look over there that's Sophia!<$FFFE>
+ …ah, someone…<$FFFE>
+ What are they doing to her!<$FFFE>
+ If this rope is lowered  any more she will be burnt alive!<$FFFE>
+ This is awful! We have to save her fast!<$FFFE>
+ If we can take out the Shika tribe's chief it  should be enough.<$FFFE>
+ Understood! Everyone on the double! We have to  rescue Sophia!<$FFFE>
+ Skika,shika! Sacrifice! Sacrifice!<$FFFE>
+ Kyaahh!<$FFFE>
+ !? The rope has gone down gradually!?<$FFFE>
+ We need to rush to her aid!<$FFFE>
+ Hang in there! We're  here to help!<$FFFE>
+ Shika! Skikaka!<$FFFE>
+ Aaa, someone…<$FFFE>
+ Don't worry, we will be  there for you any minute now!<$FFFE>
+ Ahh, this heat… Lushiris my goddess…<$FFFE>
+ <$F600><$0000>, Hurry up!<$FFFE>
+ I am at it!<$FFFE>
+ Khe, we have to act  quickly!<$FFFE>
+ Kyaa!<$FFFE>
+ It's hopeless! We won't  make it in time like this!<$FFFE>
+ There's no time left!<$FFFE>
+ Bring down that chief  pronto!<$FFFE>
+ We have to concentrate all our forces on the  chief!<$FFFD>That is the only possible way to save lady Sophia!<$FFFE>
+ Kyaaaaaa!<$FFFE>
+ H…How could we let this  happen? We weren't there  for her in time…<$FFFE>
+ You there! Do me the favor and massacre this  lot!<$FFFE>
+ Kaa!<$FFFE>
+ Well then, let us enjoy  ourselves, shall we!?<$FFFE>
+ Miss Sophia. Please  leave the fighting to us and watch from safety.<$FFFE>
+ I have to refuse, Sir <$F600><$0000>. While the Velzerian Demons roam freely, I can not stand idly by.<$FFFD>Thus I will go to battle together with you.<$FFFE>
+ Very well.<$FFFE>
+ I will follow your orders from now on. Please give me instructions.<$FFFD>And one more thing, please just call me  Sophia.<$FFFE>
+ Sophia joins the party!<$FFFE>
+ Keh Shikairo chief. You alright?<$FFFE>
+ Do Kahni comes well! Help comrades! Destroy evil man!<$FFFE>
+ Understood! Do Kahni  fights!<$FFFE>
+ Leave it to you I do!<$FFFE>
+ … What happening?<$FFFD>!? Me sense evil presence.<$FFFE>
+ Again you it is! I strike down you!<$FFFE>
+ Shikaa!<$FFFE>
+ Kah Shind being mad!<$FFFD>Do Kahni Champion! Evil  deeds do not permit! I defeat you!<$FFFE>
+ Don't let them through!<$FFFD>For Shika tribe! Poweer!!!<$FFFE>
+ Shikaaaa!<$FFFE>
+ Not fight you anymore. Do Kahni respect chief's order.<$FFFE>
+ What do you reply?<$FFFE>
+ Let's fight together!<$FFFE>
+ Have your wounds healed?<$FFFE>
 I hope we won't regret it<$FFFE>
-That's good.<$FFFC>
-Let's fight together!<$FFFE>
-Dho Khani is Champion.<$FFFD>
-Never will lose again!<$FFFC>
-This time show perseverance!<$FFFE>
-Are your wounds healed?<$FFFE>
-Little scratch long gone.<$FFFD>
-Just come home to bring wondrous stone.<$FFFE>
-A wondrous stone you say?<$FFFE>
-Pass through time.<$FFFC>
-Time and Space is warped.<$FFFD>
-Chief told me to get stone, ask chief.<$FFFE>
-I hope we won't come to regret it.<$FFFE>
-Do Kahni is Champion.<$FFFC>
-Worry not, be cool!<$FFFE>
-You friend now.<$FFFE>
-Ask about Do Kahni's stone?<$FFFE>
-It isn't urgent;<$FFFD>
-...but I'm curious about that wondrous stone.<$FFFE>
-That stone cross through time.<$FFFC>
-Past, present, future, all become one with it.<$FFFE>
-What do you reply?<$FFFE>
-I see<$FFFE>
-May I have it<$FFFE>
+ That's good. Let's fight together!<$FFFE>
+ Dho Khani is Champion.<$FFFD>Never will lose again! This time show perseverance!<$FFFE>
+ Have your wounds from before healed already?<$FFFE>
+ Little scratch long  gone.<$FFFD>Just come home to bring  wondrous stone.<$FFFE>
+ A wondrous stone you say?<$FFFE>
+ Pass through time. Time  and Space is warped.<$FFFD>Chief told me to get stone, ask chief.<$FFFE>
+ I hope we won't come to  regret it.<$FFFE>
+ Do Kahni is Champion. Worry not, be cool!<$FFFE>
+ You friend now.<$FFFE>
+ Do you want to inquire about the stone Do Kahni mentioned?<$FFFE>
+ It isn't such an urgent  matter,<$FFFD>…but I am curious about a wondrous stone Do Kahni mentioned.<$FFFE>
+ That stone cross through time. Past, present, future, all become one  with it.<$FFFE>
+ What do you reply?<$FFFE>
+I see <$FFFE>
+May I have it <$FFFE>
 I doubt that<$FFFE>
-I see.<$FFFC>
-That certainly sounds miraculous...<$FFFE>
-That's one wondrous stone alright.<$FFFC>
-Would you mind hand it over to me?<$FFFE>
-Not possible, request must be refused.<$FFFC>
-Searched very long time, it's treasure.<$FFFC>
-Very important.<$FFFE>
-No object could have such powers.<$FFFC>
-It's just superstition.<$FFFE>
-Shika god made you the fool!<$FFFC>
-Shika god is real.<$FFFC>
-Stone has powers.<$FFFE>
-It's nothing.<$FFFC>
-It wasn't that urgent after all.<$FFFE>
-Is something the matter, Sir [diehardt's name]?<$FFFE>
-Your reply?<$FFFE>
-There's that stone<$FFFE>
-I came to protect you<$FFFE>
+ I see. That certainly  sounds miraculous…<$FFFE>
+ That's one wondrous  stone alright. Would you mind hand it over to me?<$FFFE>
+ Not possible, request must be refused. Searched very long time, it's treasure. Very  important.<$FFFE>
+ There couldn't be an object with such powers. It's just some stupid  superstitious belief.<$FFFE>
+ Shika god made you the fool! Shika god is real. Stone has powers.<$FFFE>
+ It's nothing. It wasn't that urgent after all.<$FFFE>
+ Is something the matter, Sir <$F600><$0000>?<$FFFE>
+ Your reply?<$FFFE>
+There's that stone <$FFFE>
+I came to protect you <$FFFE>
 It's nothing<$FFFE>
-I want to ask you something.<$FFFE>
-Hm, what could that be?<$FFFE>
-The chief has a wondrous stone—could you ask about it?<$FFFE>
-Is the stone needed for something important?<$FFFD>
-...Alright.$FFFC>
-I'll ask the chief right away.<$FFFE>
-I wanted to see if you are well, Sophia.<$FFFE>
-Thank you for your concern, Sir [diehardt's name].<$FFFE>
-Oh, it's nothing.<$FFFE>
-I see.<$FFFE>
-Oh..., goddess.<$FFFE>
-Umm, great chieftain.<$FFFC>
-I have a request...<$FFFE>
-Goddess can ask anything.<$FFFE>
-You recently obtained a special stone—might I have it?<$FFFE>
-Yes.<$FFFC>
-Goddess means this stone, I give after battle..<$FFFE>
-Thank you, great chief.<$FFFE>
-Me not great before you.<$FFFC>
-Serving goddess is joy.<$FFFC>
-Shika family rejoices being of use.<$FFFE>
-...You see a large face on the ground.<$FFFE>
-What do you wish to do?<$FFFE>
+ To tell the truth  there's something I wanted to ask of you.<$FFFE>
+ Hm, what could that be?<$FFFE>
+ The chieftain has a wondrous stone, which I would like to get a closer look at, maybe you could ask him about  it?<$FFFE>
+ You need that stone?<$FFFD>…Understood. For now, let's try asking for it.<$FFFE>
+ I just wanted to see if  you are well, Sophia.<$FFFE>
+ Thank you very much for  your concern, Sir <$F600><$0000>.<$FFFE>
+ Oh, it's nothing.<$FFFE>
+ I see.<$FFFE>
+ Oh…, goddess.<$FFFE>
+Umm, great chieftain. To  speak frankly, I've got  a request…<$FFFE>
+ Goddess can ask  anything.<$FFFE>
+ Not long ago you came  into possession of a special stone, I wondered if I by any chance could have it?<$FFFE>
+ Yes. Goddess means this  stoneGoddess means this stone, I give after  battle…<$FFFE>
+ Thank you very much  great chief.<$FFFE>
+ Me not great before you. Serving goddess is joy. Shika family rejoices  being of use.<$FFFE>
+ …You come across a large face on the  ground.<$FFFE>
+ What do you wish to do?<$FFFE>
 Pray before it<$FFFE>
 Scribble on it<$FFFE>
-Trample on it<$FFFE>
-As you pray, the face smiles and floats up.<$FFFD>
-Its mouth opens wide and armor drops out...<$FFFE>
-Aeneas Armor was obtained!<$FFFE>
-As you scribble, the face floats up grinning and speaks:<$FFFD>
-"Oh, what fine taste you have.<$FFFC>
-I'll reward you with something to your liking!"<$FFFE>
-The fabulous Magical Bikini was obtained!<$FFFE>
-As you trample the face, it grins eerily and<$FFFD>
-returns to a blank mask moments after...<$FFFE>
-Hehehe...<$FFFC>
-That pest dead, victory is ours.<$FFFE>
-How..foolish..<$FFFC>
-Dying in such a place...<$FFFE>
-You have to rescue....Sophia...<$FFFE>
-OUCH!<$FFFC>
-It hurts..IT HUURTS...<$FFFE>
-Curses!<$FFFE>
-My sword arm is growing heavy...<$FFFE>
-Guaaa!<$FFFE>
-Oh?<$FFFC>
-Blackness shrouds my eyes...<$FFFE>
-Please forgive my failings...<$FFFE>
-That cannot be...<$FFFE>
-Everyone, lend me your power...<$FFFE>
-Uuu....<$FFFC>
-Keh Shikairo be useless...<$FFFD>
-Farewell...goddess<$FFFE>
-Shika!<$FFFE>
-Now, release Sophia!<$FFFE>
-How could you put her through this!<$FFFE>
-U,uhh....<$FFFD>
-Alright.<$FFFC>
-Keh Shikairo admits defeat.<$FFFC>
-Let the Sacrifice go.<$FFFE>
-How very troublesome.<$FFFE>
-Who's there!?<$FFFE>
-A shame—she'd have been a fine offering.<$FFFD>
-Without her, Lushiris gate would be lost.<$FFFE>
-A demon from Velzeria!?<$FFFE>
-A demon from Velzeria!?<$FFFE>
-Come forth my servants!<$FFFE>
-Shika!<$FFFE>
-Did we not kill this one before?!<$FFFC>
-So you are toying with the dead too demon?!<$FFFE>
-Did we not kill this one before?!<$FFFC>
-So you are toying with the dead too, demon?!<$FFFE>
-<$F702><$F702>Kha Shind how did this!? <$FFFC>
-Why you direct spear at me?<$FFFE>
-Ha!<$FFFE>
-Don't bother.<$FFFD>
-This one is my loyal servant now.<$FFFC>
-Well, let the dance of death begin.<$FFFD>
-Once the chief dies, my protege takes his place.<$FFFE>
-Kill her!<$FFFC>
-Kill Keh Shikairo<$FFFC>
-Kha Shind becomes chief!<$FFFE>
-Here they come!<$FFFE>
-Keh Shikairo fights too!<$FFFC>
-I won't let Kha Shind win!<$FFFE>
-Please wait.<$FFFD>
-With such wounds you cannot fight.<$FFFC>
-In one moment you'll feel better.<$FFFE>
-Big Wonder!<$FFFE>
-Y-you're, goddess.....<$FFFE>
-Oh my...<$FFFC>
-They think restorative magic is a miracle.<$FFFE>
-Sophia...<$FFFE>
-What do you say?<$FFFE>
-Safety must come first.<$FFFE>
-Pity for the enemy is futile.<$FFFE>
-You're very kind, aren't you.<$FFFE>
-Safety must come first.<$FFFE>
-Thank you so much for your help.<$FFFE>
-Pity for the enemy is futile...<$FFFE>
-...That may be true for you.<$FFFC>
-But as shrine maiden, I won't abandon any suffering.<$FFFE>
-You're very kind, aren't you Sophia?<$FFFE>
-That...<$FFFC>
-That's only natural for a shrine maiden.<$FFFE>
-By the way, Sophia.<$FFFD>
-Demons come here because the Lushiris Gate is broken.<$FFFD>
-We must reinstate the southern gate.<$FFFE>
-I see.<$FFFC>
-First, the Velzerian demons here must perish.<$FFFE>
-We must help goddess.<$FFFC>
-Do battle with all of strength!<$FFFE>
-Shika!<$FFFE>
-Protect goddess.<$FFFC>
-Keh Shikairo and Shika Tribe fight for you!<$FFFE>
--Defeat Kah Shind<$FFFC>
- or Wormmaster Rag<$FFFE>
--Death of [diehardt's name]<$FFFE>
-You will not take sacrifice!<$FFFC>
-Shika, angry!<$FFFE>
-You, wake up!<$FFFC>
-Listen to order of Keh Shikairo!<$FFFE>
-Useless, no matter how often you try.<$FFFC>
-They are deaf to your prattling.<$FFFE>
-Comrades return to old self!<$FFFE>
-A bit slow, aren't you?<$FFFC>
-There's no way to restore them!<$FFFE>
-Attacking the comrade?<$FFFC>
-Keh Shikairo won't do!<$FFFC>
-Instead I kill you!<$FFFE>
-Shurghikaa!<$FFFE>
-Inferior material—this battle is over...<$FFFC>
-It's really such a shame!<$FFFE>
-But don't be sad, we'll meet again!<$FFFE>
-Shikaaa!<$FFFE>
-Kah Shind never becomes chief!<$FFFC>
-Kah Shind will be!<$FFFE>
-Kah Shind to weak to be chief!<$FFFE>
-Wh..What?!<$FFFC>
-I couldn't be defeated like this...<$FFFC>
-This is unacceptable!<$FFFE>
-Shiurgha!<$FFFE>
-You've risen in my estimation, just a little.<$FFFC>
-Next time I'll tear you limb from limb!<$FFFE>
-You have no business here.<$FFFC>
-Perish, you're an eyesore!<$FFFE>
-For Velzeria, they must not open Lushiris Gate!<$FFFE>
-That won't happen!<$FFFC>
-The world of darkness awaits!<$FFFE>
-Shiika!<$FFFE>
-Shishika!<$FFFE>
-Shikaka!<$FFFE>
-Shika....<$FFFE>
-Shi....<$FFFE>
-Shika..<$FFFE>
-Shikashiaktsuu!<$FFFE>
-Shika!<$FFFE>
-Shikaaaa!<$FFFE>
-...Shi..ka...<$FFFE>
-Shikuuuarghgh!<$FFFE>
-Shikashikatsuu!<$FFFE>
-GYAAA....<$FFFE>
-Shika...<$FFFE>
-Shi...<$FFFE>
+Trample on it <$FFFE>
+ When you start to pray, the face smiles gently and begins to float.<$FFFD>The mouth opens widely and an armor drops out…<$FFFE>
+ Aeneas Armor was obtained!<$FFFE>
+ When you scribble  something on the face, the same starts floating while a wide grin comes  across its mouth as it speaks <$01E2><$FFFD>"Oh, what a fine taste you have. I will reward you with something that  should be much to your liking!"<$FFFE>
+ The fabulous Magical Bikini was obtained!<$FFFE>
+ As you trample on the  face it grins at you eerily and<$FFFD>returns to be an expressionless mask the  moment after…<$FFFE>
+ Hehehe… Since that  pest is dead our victory is as good as ours.<$FFFE>
+ How…foolish… Dying in  such a place…<$FFFE>
+ You have to  rescue…Sophia…<$FFFE>
+ OUCH! It hurts…IT HUURTS…<$FFFE>
+ Curses!<$FFFE>
+ My sword arm is growing  heavy…<$FFFE>
+ Guaaa!<$FFFE>
+ Oh? Pure blackness is enshrouding my eyes…<$FFFE>
+ Please forgive my  failings…<$FFFE>
+ That cannot be…<$FFFE>
+ Everyone please lend me  some of your power…<$FFFE>
+ Uuu… Keh Shikairo be useless…<$FFFD>Farewell…goddess <$FFFE>
+ Shika!<$FFFE>
+ Now, release Sophia!<$FFFE>
+ How could you make her endure something like  this!<$FFFE>
+ U,uhh…<$FFFD>Alright. Keh Shikairo  admits defeat. Let the Sacrifice go.<$FFFE>
+ How very troublesome.<$FFFE>
+ Who's there!?<$FFFE>
+ Ah what a shame she  would have made such a fine sacrifice.<$FFFD>Without her Lushiris gate would've been done  for good.<$FFFE>
+ A demon from Velzeria!?<$FFFE>
+ A demon from Velzeria!?<$FFFE>
+ Come forth my servants!<$FFFE>
+ Shika!<$FFFE>
+ Did we not kill this one before?! So you are  toying with the dead too demon?!<$FFFE>
+ Did we not kill this one before?! So you are  toying with the dead too, demon?!<$FFFE>
+<$F702>
+<$F702>
+ <$F702><$F702>Kha Shind how did this!? Why you direct spear at  me?<$FFFE>
+ Ha!<$FFFE>
+ Don't bother.<$FFFD>This one is my loyal servant now. Well, let the dance of death begin.<$FFFD>Once the chief is no more, my little protege will take his place.<$FFFE>
+ Kill her! Kill Keh  Shikairo Kha Shind becomes chief!<$FFFE>
+ Here they come!<$FFFE>
+ Keh Shikairo fights too! I won't let Kha Shind  win!<$FFFE>
+ Please wait.<$FFFD>With such wounds you cannot fight. In one  moment you will feel  better.<$FFFE>
+ Big Wonder!<$FFFE>
+ Y you're, goddess…<$FFFE>
+ Oh my… It seems they think restorative magic  to be a miracle.<$FFFE>
+ Sophia…<$FFFE>
+ What do you say?<$FFFE>
+ Safety must come first.<$FFFE>
+ Pity for the enemy is futile.<$FFFE>
+ You're very kind, aren't  you.<$FFFE>
+ Safety must come first.<$FFFE>
+ Thank you so much for  your help.<$FFFE>
+ Pity for the enemy is  futile…<$FFFE>
+ …That may be true for you. However, I am a shrine maiden and I won't abandon the  suffering no matter who  they are.<$FFFE>
+ You're very kind, aren't  you Sophia?<$FFFE>
+ That… That's only natural for a shrine maiden.<$FFFE>
+ By the way, Sophia.<$FFFD>It seems like that the demons could come here because the Lushiris Gate is non functional at the moment.<$FFFD>That's why we need to  reinstate the southern gate.<$FFFE>
+ I see. First of all the  Velzerian demons around  here must perish.<$FFFE>
+ We must help goddess. Do  battle with all of strength!<$FFFE>
+ Shika!<$FFFE>
+Protect goddess. Keh Shikairo and Shika Tribe will fight for you!<$FFFE>
+Defeat Kah Shind or  Wormmaster Rag<$FFFE>
+Death of <$F600><$0000><$FFFE>
+ You will not take  sacrifice! Shika, angry!<$FFFE>
+ You, wake up! Listen to order of Keh Shikairo!<$FFFE>
+ It's useless, no matter how many times you try. They are deaf to your  prattling.<$FFFE>
+ Comrades return to old self!<$FFFE>
+ A bit slow, aren't you? There's absolutely no way to restore them!<$FFFE>
+ Attacking the comrade? Keh Shikairo won't do! Instead I kill you!<$FFFE>
+ Shurghikaa!<$FFFE>
+ What inferior material to work with, it can't  be helped, this battle is over… It's really such a shame!<$FFFE>
+ But don't be sad, we  will meet again  undoubtedly!<$FFFE>
+ Shikaaa!<$FFFE>
+ Kah Shind never becomes  chief! Kah Shind will  be!<$FFFE>
+ Kah Shind to weak to be  chief!<$FFFE>
+ Wh…What?! I couldn't be defeated like this… This is unacceptable!<$FFFE>
+ Shiurgha!<$FFFE>
+I've got to admit you just rose in my  estimation, even though just a little. To show my affection, next time I will tear you limb from limb personally!<$FFFE>
+ You have no business around here. Perish, you're an eyesore!<$FFFE>
+ For the sake of Velzeria we have to keep them from opening Lushiris  Gate!<$FFFE>
+ That won't happen! Come, the world of darkness is awaiting you!<$FFFE>
+ Shiika!<$FFFE>
+ Shishika!<$FFFE>
+ Shikaka!<$FFFE>
+ Shika…<$FFFE>
+ Shi…<$FFFE>
+ Shika…<$FFFE>
+ Shikashiaktsuu!<$FFFE>
+ Shika!<$FFFE>
+ Shikaaaa!<$FFFE>
+ …Shi…ka…<$FFFE>
+ Shikuuuarghgh!<$FFFE>
+ Shikashikatsuu!<$FFFE>
+GYAA<$0650>…<$FFFE>
+ Shika…<$FFFE>
+ Shi…<$FFFE>
 PUSYU!<$FFFE>
 PUSYU!<$FFFE>
-Guaa!<$FFFE>
-Shikaaaa!<$FFFE>
-Sh-shika!<$FFFE>
-You not belong here.<$FFFC>
-You no longer part of Shika family!<$FFFE>
-You have evil heart.<$FFFC>
-And evil I cleanse!<$FFFE>
-How?<$FFFC>
-They being stronger than usual.<$FFFE>
-Heheheh...<$FFFC>
-But of course.<$FFFC>
-You too could become strong beyond measure.<$FFFE>
-Do Kahni is Champion.<$FFFC>
-No need to be stronger.<$FFFE>
+ Guaa!<$FFFE>
+ Shikaaaa!<$FFFE>
+ Sh shika!<$FFFE>
+ You not belong here. You no longer part of Shika family!<$FFFE>
+ You have evil heart. And evil I cleanse!<$FFFE>
+ How? They being stronger than usual.<$FFFE>
+ Heheheh… But of  course. You too could become strong beyond measure.<$FFFE>
+ Do Kahni is Champion. No  need to be stronger.<$FFFE>
 Hold it!<$FFFE>
-...It seems like he escaped.<$FFFE>
-Is it finally over?<$FFFC>
-Thank goodness—this smelly place is too much.<$FFFE>
-You commanded us most skilfully, Sir [diehardt's name].<$FFFE>
-Sir [diehardt's name]...<$FFFC>
-We took far too long on this mission...<$FFFD>
-I hate you...you know that?<$FFFE>
-<$F705>Here is promised stone.<$FFFE>
-Time and Space Warping Stone was obtained!<$FFFE>
-Thank you, great chief.<$FFFE>
-Sir [diehardt's name].<$FFFC>
-Here's the stone you wanted.<$FFFE>
-Thanks, Sophia.<$FFFC>
-I'll make good use of it.<$FFFD>
-Our Shika battle is over.<$FFFC>
-Now hurry to reinstate the southern gate!<$FFFE>
-Yes.<$FFFE>
-<$F705>Thank you, great chief.<$FFFE>
-Good, our Shika battle is over.<$FFFD>
-Let's go, Sophia.<$FFFC>
-The southern gate awaits.<$FFFE>
-<$F706><$F706>Velzerians are here—we must reinstate Lushiris gate fast.<$FFFD>
-Let's return to the shrine.<$FFFD>
-Great chief, I must return to my duties.<$FFFD>
-If worried about your holy site, watch us there.<$FFFC>
-Godsend person grows strong.<$FFFE>
-No, he isn't dead.<$FFFC>
-His aura still lives....<$FFFD>
-This demon must control his mind.<$FFFE>
-You are now goddess to us.<$FFFC>
-We swear a holy oath not to hinder you,<$FFFC>
-or do battle with any of you.<$FFFE>
+ …It seems like he escaped.<$FFFE>
+Is it finally over? Thank goodness, I've got  enough of this smelly  place.<$FFFE>
+ You commanded us most  skilfully, Sir <$F600><$0000>.<$FFFE>
+ Sir <$F600><$0000>… We took much too long for  completing this  mission…<$FFFD>I hate you…you know that?<$FFFE>
+<$F705>
+ <$F705>Here is promised stone.<$FFFE>
+ Time and Space Warping Stone was obtained!<$FFFE>
+ Thank you, great chief.<$FFFE>
+ Sir <$F600><$0000>. Here's the stone you wanted.<$FFFE>
+ Thanks, Sophia. I will  make good use of it.<$FFFD>It seems our battle with the Shika tribe is over. Now let us hurry to  reinstate the southern gate!<$FFFE>
+ Yes.<$FFFE>
+<$F705>
+ <$F705>Thank you, great chief.<$FFFE>
+ Good, it seems our  battle with the Shika tribe is over.<$FFFD>Let's go, Sophia. The southern gate awaits.<$FFFE>
+<$F706>
+<$F706>
+<$F706><$F706>The Velzerian's got here already, we must make  haste to reinstate Lushiris gate.<$FFFD>Let us be on our way back to the shrine.<$FFFD>Great chief of the Shika tribe, I must return to  my duties now.<$FFFD>If you are worried about your holy site, come and  watch over our doings  there. Godsend person  grows strong.<$FFFE>
+ No, he isn't dead. His aura still emits life…<$FFFD>This demon must be manipulating his mind.<$FFFE>
+ You are now goddess to us. We make holy oath not to hinder you, or do battle with any of you.<$FFFE>   

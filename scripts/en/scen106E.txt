@@ -1,16 +1,15 @@
-Langrisser III dumper [0x347fe6 to 0x3485db]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,46 +19,30 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Wormmaster Rag<$FFFF>
-Monster<$FFFF>
-Citizen<$FFFF>
- <$FFFC>
-Scenario ~ 33<$FFFC>
-"Unwavering Loyalty" <$FFFE>
-The cause for the insanity of King Wilder<$FFFC>
-turned out to be Velzeria after all.<$FFFC>
-Gerold who recovers to his true self temporarily, conveys the fact.<$FFFE>
-To save his beloved Layla and to see her one last time, Gerold chooses to have the worm expelled from his body.<$FFFC>
-But with the worm gone Gerold now has only little time left.<$FFFE>
-In the meantime Altemuller has launched an attack on the city of Laffel.<$FFFC>
-His demonic forces show no mercy to anyone in their way.<$FFFC>
-Having to witness the massacre with his own eyes, Emerick can no longer bear to side with the demons.<$FFFE>
-*Conditions of Victory<$FFFC>
- -Defeat Rag the Wormmaster<$FFFE>
-*Conditions of Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of Layla<$FFFC>
- -Death of all Citizens<$FFFE>
+Monster <$FFFF>
+Citizen <$FFFF>
+ Scenario <$0236> 33 "Unwavering Loyalty"<$FFFE>
+ The cause for the  insanity of King Wilder  turned out to be Velzeria after all. Gerold who recovers to  his true self  temporarily, conveys the fact.<$FFFE>
+ To save his beloved  Layla and to see her one last time, Gerold chooses to have the worm expelled from his body. But with the worm gone Gerold now has only little time left.<$FFFE>
+ In the meantime  Altemuller has launched  an attack on the city of Laffel. His demonic forces show no mercy to  anyone in their way. Having to witness the  massacre with his own  eyes, Emerick can no  longer bear to side with the demons.<$FFFE>
+<$01E9>Conditions of Victory  Defeat Rag the Wormmaster<$FFFE>
+ <$01E9>Conditions of Defeat Death of <$F600><$0000> Death of Layla Death of all  Citizens<$FFFE>
 City of Laffel<$FFFF>
-Kill! Kill!<$FFFC>
-Slaughter to your hearts content!<$FFFE>
-Gaaooo!<$FFFE>
-Guaargh!<$FFFE>
-Kyaaahhh!<$FFFE>
-Stop this!<$FFFD>
-I won't stand idly by, while you massacre innocent citizens!<$FFFE>
-Emerick, don't tell me you would betray master Bosel?<$FFFE>
-He is no longer the lord Altemuller I hold in highest esteem.<$FFFC>
-Right now it pains me just to look at him.<$FFFE>
-Merciful it would be to strike down Altemuller, if this is what it takes to release him from this evil curse!<$FFFE>
-Swayed by emotions, you are blind to real power...foolish human..<$FFFE>
-Rag, what is this hold up about?<$FFFE>
-Yes, Master Bosel.<$FFFC>
-It seems that Emerick wishes to rebel against you.<$FFFE>
-...Is that true Emerick?<$FFFE>
-Your Excellency, you have changed.<$FFFC>
-I can follow your ways no more.<$FFFE>
-Let me offer you a peaceful slumber as my last service.<$FFFE>
-So you are serious.<$FFFC>
-Well then, show me the extent of your resolve.<$FFFE>
-...Your Excellency.<$FFFE>
+ Kill! Kill! Slaughter to  your hearts content!<$FFFE>
+ Gaaooo!<$FFFE>
+ Guaargh!<$FFFE>
+ Kyaaahhh!<$FFFE>
+ Stop this!<$FFFD>I won't stand idly by, while you massacre innocent citizens!<$FFFE>
+ Emerick, don't tell me you would betray master  Bozel?<$FFFE>
+ He is no longer the lord Altemuller I hold in highest esteem. Right now it pains me just to  look at him.<$FFFE>
+ Merciful it would be to  strike down Altemuller, if this is what it takes to release him from this evil curse!<$FFFE>
+ Swayed by emotions, you are blind to real  power…foolish human…<$FFFE>
+ Rag, what is this hold up about?<$FFFE>
+ Yes, Master Bozel. It  seems that Emerick wishes to rebel against  you.<$FFFE>
+ …Is that true Emerick?<$FFFE>
+ Your Excellency, you have changed. I can follow your ways no  more.<$FFFE>
+ Let me offer you a peaceful slumber as my last service.<$FFFE>
+ So you are serious. Well  then, show me the extent  of your resolve.<$FFFE>
+ …Your Excellency.<$FFFE>

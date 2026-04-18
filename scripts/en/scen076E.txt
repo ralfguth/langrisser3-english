@@ -1,16 +1,15 @@
-Langrisser III dumper [0x298518 to 0x298bc3]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,52 +19,31 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Viscount Raymond<$FFFF>
 Field Marshal Altemuller<$FFFF>
 Healer<$FFFF>
-Riguler Commander<$FFFF>
-General Bortz<$FFFF>
-<$FFFC>
-Scenario ~ 18<$FFFC>
-"Ultimate Military Device of Antiquity"<$FFFE>
-After [diehardt's name] and company defeated Freya and reclaimed<$FFFC>
-Laffel, they soon found themselves faced with the problem posed<$FFFC>
-by the cruel slaughter of the main troops.<$FFFE>
-Without a doubt, they now had to defeat the Empire's magically<$FFFC>
-propelled giant soldier and rescue Lord Raymond.<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat both General Bortz and the<$FFFC>
- magically-propelled giant soldier, Galshook<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
+Riguler Commander <$FFFF>
+General Bortz <$FFFF>
+ Scenario <$0236> 18 "Ultimate Military Device of Antiquity"<$FFFE>
+ Without a doubt, they  now had to defeat the  Empire's magically propelled giant soldier  and rescue Lord Raymond.<$FFFE>
+ They had to rescue Lord  Raymond, who had been  defeated by the Empire's magical war machine and  taken prisoner.<$FFFE>
+ <$01E9>Condition for Victory  Defeat both General  Bortz and the magically  propelled giant soldier, Galshook <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE>
 Field of Battle Near Larcussia Castle<$FFFF>
-U..ugh.......<$FFFE>
-How's Lord Raymond's condition?<$FFFE>
-Your Excellency Altemuller, as you can see,<$FFFD>
-Lord Raymond yet clings to life.<$FFFC>
-However, it would be dangerous to move him right now.<$FFFE>
-You're just as hardy as I've heard, Lord Raymond.<$FFFC>
-When you've recovered from your wound, we'll take you to the Empire.<$FFFD>
-Of course, you won't come as a guest, but rather as a prisoner.<$FFFE>
-U...gh.....<$FFFE>
-Your Excellency!<$FFFD>
-It looks like Laffel, previously occupied by Barral, has been captured by Larcuss forces.<$FFFE>
-...The independent forces commanded by that [diehardt's name] fellow, I see.<$FFFD>
-They'll probably head here and try to rescue Lord Raymond.<$FFFD>
-Send a message to Bortz.<$FFFC>
-Tell him to use the magically-propelled giant soldier to end the threat of this force.<$FFFE>
-Yes, sir!<$FFFE>
-It's about time for me to return as well.<$FFFC>
-Bring word to our main headquarters as soon as Lord Raymond's condition stabilizes.<$FFFE>
-As you wish.<$FFFE>
-Larcussia Defense Perimeter ~ Imperial Front-Line Base<$FFFF>
-General Bortz!<$FFFC>
-We've received orders from His Excellency Altemuller.<$FFFE>
-Great, what do they say?<$FFFE>
-We are to intercept and destroy the surviving rebel army which is headed here, using the Galshook.<$FFFE>
-There's a remaining military force headed here!?<$FFFD>
-Very well.<$FFFC>
-Tell him I shall accept this mission.<$FFFE>
-Yes, sir!<$FFFE>
-If possible, I'd rather not use the Galshook.....<$FFFD>
-But if they were able to retake Laffel, I might not have that luxury.<$FFFE>
+ U…ugh…<$FFFE>
+ How's Lord Raymond's  condition?<$FFFE>
+ Your Excellency  Altemuller, as you can  see,<$FFFD>Lord Raymond yet clings  to life. However, it  would be dangerous to  move him right now.<$FFFE>
+ You're just as hardy as  I've heard, Lord  Raymond. When you've recovered from your  wound, we will take you  to the Empire.<$FFFD>Of course, you won't come as a guest, but rather as a prisoner.<$FFFE>
+ U…gh…<$FFFE>
+ Your Excellency!<$FFFD>It looks like Laffel, previously occupied by Barral, has been  captured by Larcuss  forces.<$FFFE>
+ …The independent  forces commanded by that <$F600><$0000> fellow, I see.<$FFFD>They will probably head here and try to rescue Lord Raymond.<$FFFD>Send a message to Bortz. Tell him to use the  magically propelled  giant soldier to end the threat of this force.<$FFFE>
+ Yes, sir!<$FFFE>
+ It's about time for me to return as well. Bring word to our main headquarters as soon as  Lord Raymond's condition stabilizes.<$FFFE>
+ As you wish.<$FFFE>
+Larcussia Defense  Perimeter <$0236> Imperial  Front Line Base <$FFFF>
+General Bortz! We've  received orders from His Excellency Altemuller.<$FFFE>
+ Great, what do they say?<$FFFE>
+ We are to intercept and  destroy the surviving  rebel army which is  headed here, using the Galshook.<$FFFE>
+ There's a remaining military force headed  here!?<$FFFD>Very well. Tell him I shall accept this  mission.<$FFFE>
+ Yes, sir!<$FFFE>
+ If possible, I would rather not use the Galshook…<$FFFD>But if they were able to retake Laffel, I might not have that luxury.<$FFFE> 

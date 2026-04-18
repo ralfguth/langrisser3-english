@@ -1,16 +1,15 @@
-Langrisser III dumper [0x2fa426 to 0x2fa7b3]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,28 +19,18 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General Emerick<$FFFF>
+Emerick <$FFFF>
+General Emerick <$FFFF>
 General Varna<$FFFF>
-General Geier<$FFFF>
-<$FFFC>
-Scenario ~ 26<$FFFC>
-"Suspicion"<$FFFE>
-Is this claimant really of the Larcuss royal<$FFFC>
-bloodline? The Imperial army executed every member.<$FFFC>
-What could this sudden turn of events mean...?<$FFFE>
-As suspicions seethe, the mobile division hurries<$FFFC>
-to the royal capitol, gripped by foreboding.<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat claimant Richard<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-Imperial HQ ~ Early Morning<$FFFF>
-Y..your excellency, Altemuller...<$FFFE>
-Who did this to His Excellency!<$FFFE>
-...Sniff*...<$FFFE>
-...Someone poisoned the sake.<$FFFC>
-But who would do this... Dammit!<$FFFE>
-We must find the perpetrator!<$FFFC>
-I'll avenge him with my own hands!<$FFFE>
-Hohoho!<$FFFC>
-Whoever did this saved me the trouble...<$FFFE>
+General Geier <$FFFF>
+ Scenario <$0236> 26 "Suspicion"<$FFFE>
+ A surviving member of  the Larcus royal family  is claiming the right to the throne? Weren't the royals supposed to have  been executed by the Imperial Army? What in the world is going on…?<$FFFE>
+ Is this claimant to the  throne really of the Larcuss royal bloodline? Didn't the Imperial army execute every member of  the royal bloodline? What could be the  meaning of this sudden turn of events…?<$FFFE>
+ <$01E9>Condition for Victory  Defeat of the royal  claimant Richard <$01E9>Condition for Defeat Death of <$F600><$0000><$FFFE>
+Imperial Headquarters <$0236> Early Morning <$FFFF>
+ Y…your excellency, Altemuller…<$FFFE>
+ Who in the world did this to His Excellency!<$FFFE>
+ …Sniff<$01E9>…<$FFFE>
+ …Someone mixed poison with the sake. But who, who would do this to His Excellency… Dammit!<$FFFE>
+We've got to find the  perpetrator! And then, I will make a blood  offering with my own hands!<$FFFE>
+ Hohoho! Whoever did this  saved me the trouble of  doing it myself…<$FFFE> 

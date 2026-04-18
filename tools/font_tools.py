@@ -1,24 +1,28 @@
 #!/usr/bin/env python3
 """
-font_tools.py - Bigram font system for Langrisser III Saturn English translation.
+font_tools.py - Tile maps for Langrisser III Saturn English translation (VD font).
 
-Self-contained font generator: all Latin glyph bitmaps are embedded as constants.
-No external font files are needed — the build extracts the JP FONT.BIN from the
-ISO as a base (preserving UI/decoration tiles) and overwrites letter/bigram tiles
-with glyphs generated from the embedded data.
+Defines CHAR_TILE_MAP and BIGRAM_TILE_MAP that map characters and character pairs
+to tile indices in VermillionDesserts' English font (ENFONT2.BIN / vd_font.bin).
 
-Tile layout follows CyberWarriorX's v0.2 translation patch tile map, which
-assigns specific tile indices to bigram pairs. UI/decoration tiles interspersed
-in the bigram groups are left untouched (they come from the JP original).
+Tile layout follows CyberWarriorX's v0.2 translation patch tile map, which VD
+adopted. VD's font has specific differences from CWX's original documentation:
+  - LC bigram position 27 is period (.) not apostrophe (')
+  - Tiles 43-45 are full-width lowercase a, m, p (not custom slots)
+  - Apostrophe bigrams at tiles 1491-1500 (10 pairs: o' n' s' t' u' y' 'r 's 't 'v)
+  - Space+letter bigrams at tiles 1435-1487 (52 pairs)
+  - Punctuation bigrams at tiles 907-910 (?? ?! !! !?)
+  - Double-quote at tile 1470
 
-FONT.BIN format: 1691 tiles × 32 bytes each (16×16 1bpp, MSB=leftmost).
+FONT.BIN format: 1691 tiles x 32 bytes each (16x16 1bpp, MSB=leftmost).
 """
 
 # ---------------------------------------------------------------------------
 # Tile layout (tile index assignments for bigram groups)
 # ---------------------------------------------------------------------------
 
-# Lowercase bigram groups: each letter has 31 consecutive tile slots.
+# Lowercase bigram groups: each letter has a consecutive block of tile slots.
+# Groups with UI offsets (m, p, y) span more than 31 slots to fit 31 right chars.
 _LC_STARTS = {
     'a': 46,  'b': 77,  'c': 108, 'd': 139, 'e': 170,
     'f': 214, 'g': 245, 'h': 276, 'i': 335, 'j': 374,
@@ -27,14 +31,24 @@ _LC_STARTS = {
     'u': 718, 'v': 749, 'w': 780, 'x': 811, 'y': 842,
     'z': 875,
 }
-_LC_RIGHT_FULL = [' '] + list('abcdefghijklmnopqrstuvwxyz') + ["'", ',', '?', '!']
+
+# VD's right-char sequence for LC bigrams.
+# Position 27 is PERIOD (.), not apostrophe — this matches VD's actual font.
+_LC_RIGHT_FULL = [' '] + list('abcdefghijklmnopqrstuvwxyz') + ['.', ',', '?', '!']
 
 # UI/decoration tiles at specific offsets within bigram groups.
 # These tiles are used by the game engine and must NOT be overwritten.
 _LC_UI_OFFSETS = {
     'm': {15, 22},   # tiles 482, 489
     'p': {4},        # tile 566
+    'v': {17},       # tile 766 — UI tile, vq bigram does not exist
     'y': {18, 19},   # tiles 860, 861
+}
+
+# Characters absent from specific LC groups (UI tile occupies their slot
+# and VD's font has no replacement tile for that bigram).
+_LC_MISSING_CHARS = {
+    'v': {'q'},  # tile 766 is UI; vq bigram does not exist in VD font
 }
 
 # Uppercase bigram groups: variable size, right chars from analysis.
@@ -74,26 +88,47 @@ _UC_UI_OFFSETS = {
 }
 
 # ---------------------------------------------------------------------------
-# CWX/VD special tile indices (already present in the font, NOT generated)
-# These tiles exist in the CWX font and must NOT be overwritten.
+# VD special tile indices (present in VD's ENFONT2.BIN font)
 # ---------------------------------------------------------------------------
 
-# Custom tiles at safe positions (overwrite unused kanji, NOT CWX specials)
-APOSTROPHE_TILE = 43         # standalone '  (tile 43 = unused kanji slot)
-I_APOSTROPHE_TILE = 44       # I' bigram     (tile 44 = unused kanji slot)
-ELLIPSIS_TILE = 906          # ··  (dialogue marker, repurpose as ellipsis)
+ELLIPSIS_TILE = 906          # … two-dot ellipsis (tile 906)
+DQUOTE_TILE = 1470           # " double-quote (tile 1470)
 
-# CWX special bigrams (already in font at these tile indices)
-_CWX_SPECIAL_BIGRAMS = {
-    ("'", 'v'): 1500,
-    ("'", 's'): 1585,
-    ("'", 't'): 1586,
-    ('n', "'"): 1571,
-    ('e', "'"): 1573,
-    ('a', "'"): 1574,
+# VD apostrophe bigrams (tiles 1491-1500)
+# These are the ONLY way to encode apostrophes — VD has no standalone ' tile.
+# VD avoids "I'll"/"I'm"/"I'd" (uses "I will"/"I am" etc.) because there is
+# no I' bigram and no standalone apostrophe in the font.
+_VD_APOSTROPHE_BIGRAMS = {
+    ('d', "'"): 1491, ('n', "'"): 1492, ('s', "'"): 1493,
+    ('t', "'"): 1494, ('u', "'"): 1495, ('y', "'"): 1496,
+    ("'", 'r'): 1497, ("'", 's'): 1498, ("'", 't'): 1499,
 }
 
-# CWX space+digit bigrams
+# VD space+letter bigrams (tiles 1435-1487)
+# Encode " a" through " z" and " A" through " Z" as single tiles.
+_VD_SPACE_LETTER_BIGRAMS = {}
+for _i, _ch in enumerate('abcdefghijklmnopqrstuvwxyz'):
+    _VD_SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1435 + _i       # 1435-1460
+for _i, _ch in enumerate('ABCDEFGHI'):
+    _VD_SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1461 + _i       # 1461-1469
+# tile 1470 = DQUOTE_TILE (not a space+letter bigram)
+_VD_SPACE_LETTER_BIGRAMS[(' ', 'J')] = 1471
+_VD_SPACE_LETTER_BIGRAMS[(' ', 'K')] = 1472
+_VD_SPACE_LETTER_BIGRAMS[(' ', 'L')] = 1473
+for _i, _ch in enumerate('MNOPQRSTUVWXYZ'):
+    _VD_SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1474 + _i       # 1474-1487
+
+# VD punctuation double-bigrams (tiles 907-910)
+_VD_PUNCT_BIGRAMS = {
+    ('?', '?'): 907, ('?', '!'): 908, ('!', '!'): 909, ('!', '?'): 910,
+}
+
+# CWX special bigrams (already in VD/CWX font at these tile indices)
+_CWX_SPECIAL_BIGRAMS = {
+    ("'", 'v'): 1500,
+}
+
+# CWX space+digit bigrams (already in VD/CWX font)
 _CWX_SPACE_DIGIT_BIGRAMS = {
     (' ', '0'): 1575,
     (' ', '1'): 1576,
@@ -107,12 +142,25 @@ _CWX_SPACE_DIGIT_BIGRAMS = {
     (' ', '9'): 1584,
 }
 
-# All CWX pre-existing tile indices — do NOT overwrite these in generate_all_tiles()
-_CWX_PREEXISTING_TILES = set(_CWX_SPECIAL_BIGRAMS.values()) | set(_CWX_SPACE_DIGIT_BIGRAMS.values())
+# All CWX pre-existing tile indices — the 1500-1620 range is used by CWX menu
+# patches (a0lang.bin, syswin.bin, prog files) for stat labels, menu text, etc.
+_CWX_PREEXISTING_TILES = set(range(1500, 1621))
+
+# Custom bigram tiles added to kanji area (tiles 1621+).
+# These tiles are written by the build pipeline into vd_font.bin.
+_CUSTOM_APOSTROPHE_BIGRAMS = {
+    ('I', "'"): 1621,   # I'll, I'm, I'd
+    ("'", 'l'): 1622,   # I'll, he'll, she'll, we'll, they'll
+    ("'", 'm'): 1623,   # I'm
+    ("'", 'd'): 1624,   # I'd, he'd, she'd, we'd, they'd
+    ('o', "'"): 1625,   # who's, who'd
+    ('e', "'"): 1626,   # he's (when greedy encoder consumes e alone)
+}
 
 # ---------------------------------------------------------------------------
 # Embedded glyph bitmaps (8px wide, 16 rows, 1 byte/row = 16 bytes each)
-# Extracted from CWX v0.2 font and stored here so the build is self-contained.
+# Reference data extracted from CWX v0.2 font. Used by tests to verify
+# glyph data integrity, not by the build pipeline.
 # ---------------------------------------------------------------------------
 
 _LETTER_GLYPHS = {
@@ -185,29 +233,36 @@ _DIGIT_TILES = {
 }
 
 _PUNCT_GLYPHS = {
+    ':': bytes.fromhex('00000000000000303000003030000000'),
+    ';': bytes.fromhex('00000000000000303000000030301020'),
+    ',': bytes.fromhex('00000000000000000000000030301020'),
+    '.': bytes.fromhex('00000000000000000000000030300000'),
     '?': bytes.fromhex('38448202020204081010100010100000'),
     '!': bytes.fromhex('10101010101010101010100010100000'),
 }
 
-# Redesigned punctuation (8px half-glyph)
-_COMMA_GLYPH = bytes([
-    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
-    0x00, 0x00, 0x00, 0x00, 0x60, 0x60, 0x20, 0x00,
-])
-_PERIOD_GLYPH = bytes([
-    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
-    0x00, 0x00, 0x00, 0x00, 0x60, 0x60, 0x00, 0x00,
-])
-_APOSTROPHE_GLYPH = bytes([
-    0x00, 0x60, 0x60, 0x20, 0x00, 0x00, 0x00, 0x00,
-    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
-])
-_COLON_GLYPH = bytes([
-    0x00, 0x00, 0x00, 0x00, 0x60, 0x60, 0x00, 0x00,
-    0x00, 0x00, 0x00, 0x00, 0x60, 0x60, 0x00, 0x00,
-])
+# Comma glyph used in bigram right-halves (same shape as standalone)
+_COMMA_GLYPH_BIGRAM = bytes.fromhex('00000000000000000000000030301020')
 
-# Full 32-byte tiles for standalone uppercase (proportional full-width design)
+_APOSTROPHE_GLYPH = bytes.fromhex('00303010200000000000000000000000')
+
+_BLANK_GLYPH = b'\x00' * 16
+
+# Half-width (8px) digit glyphs used in space+digit bigrams
+_DIGIT_HALF_GLYPHS = {
+    '0': bytes.fromhex('38448282868a92a2c282828244380000'),
+    '1': bytes.fromhex('103050101010101010101010107c0000'),
+    '2': bytes.fromhex('38448202020202040810204080fe0000'),
+    '3': bytes.fromhex('384482020202027c0202028244380000'),
+    '4': bytes.fromhex('0c141424444484fe0404040404040000'),
+    '5': bytes.fromhex('fe8080808080f8040202020284780000'),
+    '6': bytes.fromhex('3c4280808080b8c48282828244380000'),
+    '7': bytes.fromhex('fe020204040408080810101020200000'),
+    '8': bytes.fromhex('38448282824438448282828244380000'),
+    '9': bytes.fromhex('3a4682828282463a0202020202020000'),
+}
+
+# Full 32-byte standalone uppercase tiles (tiles 17-42)
 _UC_STANDALONE_TILES = {
     'A': bytes.fromhex('0000000001000380028006c004400c6008200fe01830101030182008f83e0000'),
     'B': bytes.fromhex('000000003fe0081008080808080808100fe0081808040804080408083ff00000'),
@@ -237,37 +292,151 @@ _UC_STANDALONE_TILES = {
     'Z': bytes.fromhex('000000001ff810301060004000c0018001000300060004000c0818083ff80000'),
 }
 
-_BLANK_GLYPH = b'\x00' * 16
+_ELLIPSIS_TILE_DATA = bytes.fromhex(
+    '000000000000000000000000000000000000000000000000318c318c00000000'
+)
+_DQUOTE_TILE_DATA = bytes.fromhex(
+    '0000360036001200240000000000000000000000000000000000000000000000'
+)
 
 # ---------------------------------------------------------------------------
-# Helpers
+# CWX/VD non-bigram tiles (menus, UI, gaps)
+# These tiles are referenced by CWX menu patches (prog_3, syswin, etc.)
+# and must be present in the font for menus to display correctly.
 # ---------------------------------------------------------------------------
 
+# Game engine UI/decoration tiles (must not be overwritten by bigram generator)
+_UI_TILES = {
+    766: bytes.fromhex('0000000000000000000000008434844c848484848484844c84347a0400060004'),
+    1041: bytes.fromhex('fe0082008000800080008400fc82849280928092809280928292fe6c00000000'),
+    1276: bytes.fromhex('cef844446442644264425442544454784c404c404c4044404440c4e000000000'),
+}
 
-def _compose_tile(left_glyph: bytes, right_glyph: bytes) -> bytes:
-    """Compose a 32-byte tile from two 16-byte half-glyphs."""
-    result = bytearray(32)
-    for r in range(16):
-        result[r * 2] = left_glyph[r]
-        result[r * 2 + 1] = right_glyph[r]
-    return bytes(result)
+# CWX menu tiles: English text for stat labels, menus, battle UI
+# Tiles 1501-1574: uppercase+symbol menu glyphs
+# Tiles 1585-1616: lowercase menu glyphs
+_CWX_MENU_TILES = {
+    1501: bytes.fromhex('f838444442824282428042804480788040804080408240824044e03800000000'),
+    1502: bytes.fromhex('f83884448282828082808480f880848e82828282828282828444f83800000000'),
+    1503: bytes.fromhex('c6006c006c006c00540054005400440044004400440044004400ee0000000000'),
+    1504: bytes.fromhex('3800440082008000800040002038184404820280028082824444383800000000'),
+    1505: bytes.fromhex('fe00920092001000100010001084108410841084108410841084387a00000000'),
+    1506: bytes.fromhex('3e00080008000848080008000884088408840884088488848884707a00000000'),
+    1507: bytes.fromhex('0000000000000048000000006c84928492849284928492849284827a00000000'),
+    1508: bytes.fromhex('00000000000000480000000034844c848484848484844c843484847a48003000'),
+    1509: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
+    1510: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
+    1511: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
+    1512: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
+    1513: bytes.fromhex('f810441042104210421042104410781040104010401040004010e01000000000'),
+    1514: bytes.fromhex('f838844482828282828282828482f8fe88828882848284828282828200000000'),
+    1515: bytes.fromhex('083810441082208220822082208220fe20822082208220821082108208000000'),
+    1516: bytes.fromhex('fe009200920010001010101010fe101010101000100010001000380000000000'),
+    1517: bytes.fromhex('38384444828202820286028a029204a208c21082208240828044fe3800000000'),
+    1518: bytes.fromhex('4200a200a400440008000800100010002000200044004a208a18840800000000'),
+    1519: bytes.fromhex('fe00420040004000400044007cfe440040004000400040004000e00000000000'),
+    1520: bytes.fromhex('0c381444148224824486448a8492fea204c20482048204820444043800000000'),
+    1521: bytes.fromhex('4220a210a410440808080808100810082008200844084a088a10841000200000'),
+    1522: bytes.fromhex('38004400820082008210821082fefe1082108200820082008200820000000000'),
+    1523: bytes.fromhex('f8008400820082008210821082fe821082108200820082008400f80000000000'),
+    1524: bytes.fromhex('38fe449282928210821082108210fe1082108210821082108210823800000000'),
+    1525: bytes.fromhex('f8fe84428240824082408244827c824482408240824082408440f8e000000000'),
+    1526: bytes.fromhex('fece1044106410641064105410541054104c104c104c10441044fec400000000'),
+    1527: bytes.fromhex('fe00920092001000100010001000100010001000100010001000380000000000'),
+    1528: bytes.fromhex('e082408240824082404440444044402840284028402842104210fe1000000000'),
+    1529: bytes.fromhex('eef84444444244424442444244447c7844404440444044404440eee000000000'),
+    1530: bytes.fromhex('c6f86c446c426c42544254425444447844404440444044404440eee000000000'),
+    1531: bytes.fromhex('38fe449282928010801040102010181004100210021082104410383800000000'),
+    1532: bytes.fromhex('f800840082008200820082008400f80088008800840084008200820000000000'),
+    1533: bytes.fromhex('3e0008000800084808000800087808040804087c08848884888c707200000000'),
+    1534: bytes.fromhex('000000000000004804000000047804040404047c04840484048c047244003800'),
+    1535: bytes.fromhex('0030001000104810001000107810041004107c10841084108c10723800000000'),
+    1536: bytes.fromhex('0030001000104410001000103810441082108210821082104410383800000000'),
+    1537: bytes.fromhex('003800440082000200020002000200040008001000200040008000fe00000000'),
+    1538: bytes.fromhex('003800440082000200020002fe02007c00020002000200820044003800000000'),
+    1539: bytes.fromhex('008000800080008000800080feb800c4008200820082008200c400b800000000'),
+    1540: bytes.fromhex('000200020002000200020002fe3a004600820082008200820046003a00000000'),
+    1541: bytes.fromhex('008000800080008000800080feb800c400820082008200820082008200000000'),
+    1542: bytes.fromhex('000000000000000000000000fe6c009200920092009200920092008200000000'),
+    1543: bytes.fromhex('000000000000000000000000fe78008400800060001800040084007800000000'),
+    1544: bytes.fromhex('0200020002000200020002003afe4600820082008200820046003a0000000000'),
+    1545: bytes.fromhex('00000000000000001000000030fe100010001000100010001000380000000000'),
+    1546: bytes.fromhex('30001000100010001000100010fe100010001000100010001000380000000000'),
+    1547: bytes.fromhex('000000000000000000000000ccfe720042004200420042004200420000000000'),
+    1548: bytes.fromhex('000000000000000000000000b8fe440040004000400040004000e00000000000'),
+    1549: bytes.fromhex('00000000000000000000000082fe9200920092009200920092006c0000000000'),
+    1550: bytes.fromhex('00fe000200020004000400040008000800080010001000100020002000000000'),
+    1551: bytes.fromhex('fe4280a280a4804480088008f8100410022002200244024a848a788400000000'),
+    1552: bytes.fromhex('0002000200040004000800080010001000200020004000400080008000000000'),
+    1553: bytes.fromhex('0200020004000400080008001000100020002000400040008000800000000000'),
+    1554: bytes.fromhex('00000000000000000000000000fe000000000000000000000000000000000000'),
+    1555: bytes.fromhex('10fe3080508010801080108010f81004100210021002100210847c7800000000'),
+    1556: bytes.fromhex('003800440082008210821044fe38104410820082008200820044003800000000'),
+    1557: bytes.fromhex('001000300050001010101010fe10101010100010001000100010007c00000000'),
+    1558: bytes.fromhex('3800440082000200020002000200040008001000200040008000fe0000000000'),
+    1559: bytes.fromhex('00000000000000000010001000fe001000100000000000000000000000000000'),
+    1560: bytes.fromhex('fe0080008000800080008000f800040002000200020002008400780000000000'),
+    1561: bytes.fromhex('38384444828202820286028a02927ca202c20282028282824444383800000000'),
+    1562: bytes.fromhex('00fe00800080008000800080fef8000400020002000200020084007800000000'),
+    1563: bytes.fromhex('380044008200820086008a009200a200c2008200820082004400380000000000'),
+    1564: bytes.fromhex('4200a200a400440008000800100010002000200044004a008a00840000000000'),
+    1565: bytes.fromhex('10003000500010001000100010001000100010001000100010007c0000000000'),
+    1566: bytes.fromhex('8200820082008200440044004400280028002800280010001000100000000000'),
+    1567: bytes.fromhex('00fe0080008000800080008000f8000400020002000200020084007800000000'),
+    1568: bytes.fromhex('384244a282a4824486088a089210a210c22082208244824a448a388400000000'),
+    1569: bytes.fromhex('0010003000500010001000100010001000100010001000100010007c00000000'),
+    1570: bytes.fromhex('000000001010101054543838fefe383854541010101000000000000000000000'),
+    1571: bytes.fromhex('000000000010001000540038ccfe723842544210421042004200420000000000'),
+    1572: bytes.fromhex('000000001000100054003800fe00380054001000100000000000000000000000'),
+    1573: bytes.fromhex('00000000000000000000000038fe44008200fe00800082004400380000000000'),
+    1574: bytes.fromhex('00000000000000000000000078fe040004007c00840084008c00720000000000'),
+    1585: bytes.fromhex('00000000000000000000000007800040004007c00840084008c0072000000000'),
+    1586: bytes.fromhex('0800080008000800080008000b800c4008200820082008200c400b8000000000'),
+    1587: bytes.fromhex('0000000000000000000000000380044008200800080008200440038000000000'),
+    1588: bytes.fromhex('00200020002000200020002003a004600820082008200820046003a000000000'),
+    1589: bytes.fromhex('0000000000000000000000000380044008200fe0080008200440038000000000'),
+    1590: bytes.fromhex('00c00120010001000100010007c0010001000100010001000100010000000000'),
+    1591: bytes.fromhex('00000000000000000000000001a00260042004200420026001a0042002400180'),
+    1592: bytes.fromhex('0800080008000800080008000b800c4008200820082008200820082000000000'),
+    1593: bytes.fromhex('0000000000000000010000000300010001000100010001000100038000000000'),
+    1594: bytes.fromhex('0000000000000000004000000040004000400040004000400040004004400380'),
+    1595: bytes.fromhex('0400040004000400040004200440048005000600050004800440042000000000'),
+    1596: bytes.fromhex('0300010001000100010001000100010001000100010001000100038000000000'),
+    1597: bytes.fromhex('00000000000000000000000006c0092009200920092009200920082000000000'),
+    1598: bytes.fromhex('0000000000000000000000000cc0072004200420042004200420042000000000'),
+    1599: bytes.fromhex('0000000000000000000000000380044008200820082008200440038000000000'),
+    1600: bytes.fromhex('0000000000000000000000000580064004200420042006400580040004000400'),
+    1601: bytes.fromhex('000000000000000000000000034004c008400840084004c00340004000600040'),
+    1602: bytes.fromhex('00000000000000000000000005c0022002000200020002000200070000000000'),
+    1603: bytes.fromhex('00000000000000000000000003c004200400030000c00020042003c000000000'),
+    1604: bytes.fromhex('01000100010001000100010007c001000100010001000100010000c000000000'),
+    1605: bytes.fromhex('000000000000000000000000084008400840084008400840084007a000000000'),
+    1606: bytes.fromhex('0000000000000000000000000820082004400440028002800100010000000000'),
+    1607: bytes.fromhex('000000000000000000000000082009200920092009200920092006c000000000'),
+    1608: bytes.fromhex('0000000000000000000000000820044002800100010002800440082000000000'),
+    1609: bytes.fromhex('00000000000000000000000008200820082008200820082007e00020002007c0'),
+    1610: bytes.fromhex('00000000000000000000000007e000200040008001000200040007e000000000'),
+    1611: bytes.fromhex('800080008000804880008000b878c4048204827c82848284828c827200000000'),
+    1612: bytes.fromhex('00000000000048000000000078b8044404407c40844084408c4072e000000000'),
+    1613: bytes.fromhex('f80084008200824482008400f838844482828282828282828444f83800000000'),
+    1614: bytes.fromhex('0000000000004400000000003878448482808260821882044484387800000000'),
+    1615: bytes.fromhex('f800840082008200820082008400f80088008800840084108238821000000000'),
+    1616: bytes.fromhex('3800440082008200820082008200fe0082008200820082108238821000000000'),
+}
 
+# CWX special tiles between apostrophe and space+letter groups
+_CWX_BETWEEN_TILES = {
+    1488: bytes.fromhex('0000380044007c004400440003c002200220022003c000110011000a000a0004'),
+    1489: bytes.fromhex('0000f0008800f0008800f0000380044007c00440044000120014001800140012'),
+    1490: bytes.fromhex('00007c004000700040007c000220032002a002600220001e001100110011001e'),
+    1630: bytes.fromhex('00107c1000fefe1000107c1001ff00047c0401ff00047c8444c4444444047c1c'),
+}
 
-def _glyph(ch: str) -> bytes:
-    """Look up the 16-byte half-glyph for a character."""
-    if ch == ' ':
-        return _BLANK_GLYPH
-    if ch == ',':
-        return _COMMA_GLYPH
-    if ch == '.':
-        return _PERIOD_GLYPH
-    if ch == "'":
-        return _APOSTROPHE_GLYPH
-    if ch in _LETTER_GLYPHS:
-        return _LETTER_GLYPHS[ch]
-    if ch in _PUNCT_GLYPHS:
-        return _PUNCT_GLYPHS[ch]
-    return _BLANK_GLYPH
+# Gap tiles between bigram groups — blank in VD font, kanji in JP font.
+# Must be blanked to avoid rendering kanji artifacts.
+_BLANK_GAP_TILES = [
+    *range(201, 212), *range(307, 330), *range(366, 369), 911, 912,
+]
 
 
 # ---------------------------------------------------------------------------
@@ -275,9 +444,14 @@ def _glyph(ch: str) -> bytes:
 # ---------------------------------------------------------------------------
 
 def build_char_tile_map() -> dict:
-    """Build single char -> tile_index mapping."""
+    """Build single char -> tile_index mapping.
+
+    Only includes characters that have valid glyphs in VD's font.
+    """
     m = {}
     m[' '] = 0
+    m[':'] = 1
+    m[';'] = 2
     m[','] = 3
     m['.'] = 4
     m['?'] = 5
@@ -291,26 +465,34 @@ def build_char_tile_map() -> dict:
     for ch, start in _LC_STARTS.items():
         m[ch] = start
 
-    m["'"] = APOSTROPHE_TILE
     m['…'] = ELLIPSIS_TILE
+    m['"'] = DQUOTE_TILE
 
     return m
 
 
 def build_bigram_tile_map() -> dict:
-    """Build (left_char, right_char) -> tile_index mapping."""
+    """Build (left_char, right_char) -> tile_index mapping.
+
+    Only includes bigrams that have valid glyphs in VD's font.
+    """
     m = {}
 
-    # Lowercase bigrams
+    # Lowercase bigrams — use range(33) to accommodate groups with UI offsets
+    # (m has 2, p has 1, v has 1, y has 2). Groups without UI offsets stop
+    # early when all right chars are assigned.
     for left, base in _LC_STARTS.items():
         ui_offsets = _LC_UI_OFFSETS.get(left, set())
+        missing = _LC_MISSING_CHARS.get(left, set())
+        right_chars = [c for c in _LC_RIGHT_FULL if c not in missing]
         char_idx = 0
-        for ri in range(31):
+        for ri in range(33):
             if ri in ui_offsets:
                 continue
-            if char_idx < len(_LC_RIGHT_FULL):
-                m[(left, _LC_RIGHT_FULL[char_idx])] = base + ri
-                char_idx += 1
+            if char_idx >= len(right_chars):
+                break
+            m[(left, right_chars[char_idx])] = base + ri
+            char_idx += 1
 
     # Uppercase bigrams
     for left, (base, rights) in _UC_GROUPS.items():
@@ -325,14 +507,30 @@ def build_bigram_tile_map() -> dict:
             char_idx += 1
             ri += 1
 
-    # Custom bigrams
-    m[('I', "'")] = I_APOSTROPHE_TILE
+    # VD apostrophe bigrams (1491-1500)
+    m.update(_VD_APOSTROPHE_BIGRAMS)
+    m.update(_CWX_SPECIAL_BIGRAMS)  # 'v at 1500
 
-    # CWX special bigrams (apostrophe combos — tiles already in font)
-    m.update(_CWX_SPECIAL_BIGRAMS)
+    # VD space+letter bigrams (1435-1487)
+    m.update(_VD_SPACE_LETTER_BIGRAMS)
+
+    # VD punctuation bigrams (907-910)
+    m.update(_VD_PUNCT_BIGRAMS)
 
     # CWX space+digit bigrams (tiles already in font)
     m.update(_CWX_SPACE_DIGIT_BIGRAMS)
+
+    # Custom apostrophe bigrams (tiles 1621+, written into kanji area)
+    m.update(_CUSTOM_APOSTROPHE_BIGRAMS)
+
+    # Validate no tile index collisions (two pairs sharing a slot)
+    seen = {}
+    for pair, tile_idx in m.items():
+        if tile_idx in seen:
+            raise ValueError(
+                f"Tile slot {tile_idx} collision: {seen[tile_idx]} and {pair}"
+            )
+        seen[tile_idx] = pair
 
     return m
 
@@ -340,73 +538,6 @@ def build_bigram_tile_map() -> dict:
 CHAR_TILE_MAP = build_char_tile_map()
 BIGRAM_TILE_MAP = build_bigram_tile_map()
 TILE_CHAR_MAP = {v: k for k, v in CHAR_TILE_MAP.items()}
-
-
-# ---------------------------------------------------------------------------
-# Font generation (fully self-contained, no external font files)
-# ---------------------------------------------------------------------------
-
-def generate_all_tiles() -> dict:
-    """Generate all tile overrides to patch onto JP FONT.BIN.
-
-    Returns dict of tile_index -> 32-byte tile data for every tile that
-    needs to be written. JP UI/decoration tiles are NOT included (they
-    are preserved from the original).
-    """
-    tiles = {}
-
-    # --- Standalone single-char tiles (0-42) ---
-    tiles[0] = b'\x00' * 32                                      # space
-    # Tile 1: replace JP『with colon (:)
-    tiles[1] = _compose_tile(_COLON_GLYPH, _BLANK_GLYPH)
-    tiles[3] = _compose_tile(_COMMA_GLYPH, _BLANK_GLYPH)         # comma
-    tiles[4] = _compose_tile(_PERIOD_GLYPH, _BLANK_GLYPH)        # period
-    tiles[5] = _compose_tile(_PUNCT_GLYPHS['?'], _BLANK_GLYPH)   # ?
-    tiles[6] = _compose_tile(_PUNCT_GLYPHS['!'], _BLANK_GLYPH)   # !
-
-    # Digits 0-9 (full-width tiles, stored as-is)
-    for digit, tile_data in _DIGIT_TILES.items():
-        tiles[7 + int(digit)] = tile_data
-
-    # Uppercase A-Z standalone (full-width proportional tiles)
-    for i, ch in enumerate('ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
-        tiles[17 + i] = _UC_STANDALONE_TILES[ch]
-
-    # --- Custom tiles (safe kanji slots) ---
-    tiles[APOSTROPHE_TILE] = _compose_tile(_APOSTROPHE_GLYPH, _BLANK_GLYPH)
-    tiles[I_APOSTROPHE_TILE] = _compose_tile(_LETTER_GLYPHS['I'], _APOSTROPHE_GLYPH)
-
-    # Ellipsis (full-width, three 2x2 dots)
-    ell = bytearray(32)
-    ell[24] = 0x66; ell[25] = 0x60  # row 12
-    ell[26] = 0x66; ell[27] = 0x60  # row 13
-    tiles[ELLIPSIS_TILE] = bytes(ell)
-
-    # --- All bigram tiles (skip CWX pre-existing) ---
-    bigram_map = build_bigram_tile_map()
-    for (left, right), tile_idx in bigram_map.items():
-        if tile_idx in _CWX_PREEXISTING_TILES:
-            continue  # already correct in CWX/VD font
-        if tile_idx in tiles:
-            continue  # already set above
-        tiles[tile_idx] = _compose_tile(_glyph(left), _glyph(right))
-
-    return tiles
-
-
-def patch_font_bin(jp_font: bytes, tiles: dict) -> bytes:
-    """Patch JP FONT.BIN with generated Latin tiles.
-
-    Starts from the JP original (preserving UI/decoration tiles that the
-    game engine references directly), then overwrites all letter, bigram,
-    and punctuation tiles with our generated content.
-    """
-    font = bytearray(jp_font)
-    for tile_idx, tile_data in tiles.items():
-        offset = tile_idx * 32
-        if offset + 32 <= len(font):
-            font[offset:offset + 32] = tile_data
-    return bytes(font)
 
 
 # ---------------------------------------------------------------------------
@@ -431,6 +562,154 @@ def visualize_tile(tile_data: bytes, label: str = '?') -> str:
 
 
 # ---------------------------------------------------------------------------
+# Font generation — build English font at build time from JP FONT.BIN
+# ---------------------------------------------------------------------------
+
+def _interleave(left_glyph: bytes, right_glyph: bytes) -> bytes:
+    """Interleave two 16-byte half-glyphs into a 32-byte tile (MSB left)."""
+    result = bytearray(32)
+    for i in range(16):
+        result[i * 2] = left_glyph[i]
+        result[i * 2 + 1] = right_glyph[i]
+    return bytes(result)
+
+
+def generate_english_font(jp_font: bytes) -> bytes:
+    """Generate English font by overwriting tiles in the JP FONT.BIN.
+
+    Takes the raw JP FONT.BIN (54112 bytes = 1691 tiles x 32 bytes) and
+    overwrites ONLY tiles mapped by the encoder (CHAR_TILE_MAP / BIGRAM_TILE_MAP).
+    UI tiles, CWX range (1500-1620 except space+digit), and unmapped kanji are
+    left untouched.
+
+    Returns a complete 54112-byte font ready to be patched into the ISO.
+    """
+    TILE_SIZE = 32
+    EXPECTED_SIZE = 1691 * TILE_SIZE
+
+    if len(jp_font) != EXPECTED_SIZE:
+        raise ValueError(
+            f"Expected {EXPECTED_SIZE} bytes (1691 tiles), got {len(jp_font)}"
+        )
+
+    font = bytearray(jp_font)
+
+    def write_tile(idx, data):
+        font[idx * TILE_SIZE:(idx + 1) * TILE_SIZE] = data
+
+    # Build glyph lookup for bigram interleaving
+    half_glyphs = {}
+    half_glyphs[' '] = _BLANK_GLYPH
+    half_glyphs.update({ch: g for ch, g in _LETTER_GLYPHS.items()})
+    half_glyphs.update({ch: g for ch, g in _PUNCT_GLYPHS.items()})
+    half_glyphs["'"] = _APOSTROPHE_GLYPH
+
+    # Bigram comma uses a shifted-up variant
+    bigram_right_glyphs = dict(half_glyphs)
+    bigram_right_glyphs[','] = _COMMA_GLYPH_BIGRAM
+
+    # --- Tile 0: blank (space) ---
+    write_tile(0, b'\x00' * TILE_SIZE)
+
+    # --- Tiles 1-6: standalone punctuation (left half + blank right) ---
+    for ch, idx in [(':', 1), (';', 2), (',', 3), ('.', 4), ('?', 5), ('!', 6)]:
+        write_tile(idx, _interleave(_PUNCT_GLYPHS[ch], _BLANK_GLYPH))
+
+    # --- Tiles 7-16: full-width digits ---
+    for i in range(10):
+        write_tile(7 + i, _DIGIT_TILES[str(i)])
+
+    # --- Tiles 17-42: full-width uppercase ---
+    for i in range(26):
+        write_tile(17 + i, _UC_STANDALONE_TILES[chr(65 + i)])
+
+    # --- Tiles 46-905: LC bigrams ---
+    for left, base in _LC_STARTS.items():
+        ui_offsets = _LC_UI_OFFSETS.get(left, set())
+        missing = _LC_MISSING_CHARS.get(left, set())
+        right_chars = [c for c in _LC_RIGHT_FULL if c not in missing]
+        char_idx = 0
+        for ri in range(33):
+            if ri in ui_offsets:
+                continue
+            if char_idx >= len(right_chars):
+                break
+            right_ch = right_chars[char_idx]
+            left_g = half_glyphs[left]
+            right_g = bigram_right_glyphs[right_ch]
+            write_tile(base + ri, _interleave(left_g, right_g))
+            char_idx += 1
+
+    # --- Tile 906: ellipsis ---
+    write_tile(906, _ELLIPSIS_TILE_DATA)
+
+    # --- Tiles 907-910: punctuation bigrams ---
+    for (left, right), idx in _VD_PUNCT_BIGRAMS.items():
+        write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
+
+    # --- Tiles 914-1435: UC bigrams ---
+    for left, (base, rights) in _UC_GROUPS.items():
+        ui_offsets = _UC_UI_OFFSETS.get(left, set())
+        char_idx = 0
+        ri = 0
+        while char_idx < len(rights):
+            if ri in ui_offsets:
+                ri += 1
+                continue
+            right_ch = rights[char_idx]
+            left_g = half_glyphs[left]
+            right_g = bigram_right_glyphs[right_ch]
+            write_tile(base + ri, _interleave(left_g, right_g))
+            char_idx += 1
+            ri += 1
+
+    # --- Tiles 1435-1487: space+letter bigrams ---
+    for (left, right), idx in _VD_SPACE_LETTER_BIGRAMS.items():
+        write_tile(idx, _interleave(_BLANK_GLYPH, half_glyphs[right]))
+
+    # --- Tile 1470: double-quote ---
+    write_tile(1470, _DQUOTE_TILE_DATA)
+
+    # --- Tiles 1491-1500: VD apostrophe bigrams ---
+    for (left, right), idx in _VD_APOSTROPHE_BIGRAMS.items():
+        left_g = half_glyphs[left]
+        right_g = half_glyphs[right]
+        write_tile(idx, _interleave(left_g, right_g))
+
+    # --- Tile 1500: 'v (CWX special) ---
+    for (left, right), idx in _CWX_SPECIAL_BIGRAMS.items():
+        write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
+
+    # --- Tiles 1575-1584: space+digit bigrams ---
+    for (left, right), idx in _CWX_SPACE_DIGIT_BIGRAMS.items():
+        write_tile(idx, _interleave(_BLANK_GLYPH, _DIGIT_HALF_GLYPHS[right]))
+
+    # --- Tiles 1621-1626: custom apostrophe bigrams ---
+    for (left, right), idx in _CUSTOM_APOSTROPHE_BIGRAMS.items():
+        left_g = half_glyphs[left]
+        right_g = half_glyphs[right]
+        write_tile(idx, _interleave(left_g, right_g))
+
+    # --- UI tiles (game engine decorations) ---
+    for idx, data in _UI_TILES.items():
+        write_tile(idx, data)
+
+    # --- CWX menu tiles (English text for menus/stats/battle UI) ---
+    for idx, data in _CWX_MENU_TILES.items():
+        write_tile(idx, data)
+
+    # --- CWX special tiles (between apostrophe and space+letter groups) ---
+    for idx, data in _CWX_BETWEEN_TILES.items():
+        write_tile(idx, data)
+
+    # --- Blank gap tiles (remove kanji from unused slots) ---
+    for idx in _BLANK_GAP_TILES:
+        write_tile(idx, b'\x00' * TILE_SIZE)
+
+    return bytes(font)
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -445,18 +724,9 @@ if __name__ == '__main__':
 
     lc_count = sum(1 for k in BIGRAM_TILE_MAP if k[0].islower())
     uc_count = sum(1 for k in BIGRAM_TILE_MAP if k[0].isupper())
+    sp_count = sum(1 for k in BIGRAM_TILE_MAP if k[0] == ' ')
+    apos_count = sum(1 for k in BIGRAM_TILE_MAP if "'" in k)
     print(f'  Lowercase bigrams: {lc_count}')
     print(f'  Uppercase bigrams: {uc_count}')
-
-    tiles = generate_all_tiles()
-    print(f'\nGenerated tiles: {len(tiles)}')
-    print(f'Max generated tile index: {max(tiles.keys())}')
-
-    # Show some sample tiles
-    for left, right in [('t','h'), ('e',' '), ('H','e'), ('T','h'), ('i','n')]:
-        pair = (left, right)
-        if pair in BIGRAM_TILE_MAP:
-            idx = BIGRAM_TILE_MAP[pair]
-            if idx in tiles:
-                print(f'\n--- "{left}{right}" at tile {idx} ---')
-                print(visualize_tile(tiles[idx], f'{left}{right}'))
+    print(f'  Space+char bigrams: {sp_count}')
+    print(f'  Apostrophe bigrams: {apos_count}')

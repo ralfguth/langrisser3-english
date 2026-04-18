@@ -1,16 +1,15 @@
-Langrisser III dumper [0x1a6422 to 0x1a923f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -20,425 +19,290 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Ledin<$FFFF>
-Erwin<$FFFF>
+Emerick <$FFFF>
+Ledin <$FFFF>
+Erwin <$FFFF>
 Namu<$FFFF>
-Chris<$FFFF>
+Chris <$FFFF>
 Cherie<$FFFF>
 Liana<$FFFF>
--Defeat Ledin and Erwin<$FFFE>
--[diehardt's name]<$FFFE>
-Space-Time Loophole<$FFFF>
-[diehardt's name]!<$FFFC>
-Where did you bring us!?<$FFFE>
-Huh, me?<$FFFE>
-Well...<$fe><$2d><$FFFE>
-Who else!?<$FFFC>
-Don't play the innocent!<$FFFE>
-...To be honest...<$FFFC>
-I don't know what happened either.<$FFFE>
-We're in trouble again.<$FFFE>
-!?<$FFFC>
-Lewin and the others are gone!<$FFFE>
-Is that so...<$FFFC>
-The stone the chieftain gave us?<$FFFE>
-Most likely.<$FFFC>
-This is what happens when you misuse it...<$FFFD>
-Best not to meddle with the unknown.<$FFFE>
-My father spoke of space-time rifts.<$FFFD>
-We may have fallen into a gap between past and future...<$FFFE>
-Is that even possible?<$FFFE>
-And [diehardt's name] ends up alone with all the girls!<$FFFE>
-What do you reply?<$FFFE>
+<$01E9>Conditions for Victory Defeat Ledin and Erwin<$FFFE>
+<$F600><$0000><$FFFE>
+Space Time Loophole <$FFFF>
+ <$F600><$0000>! Where on earth  did you drag us off to this time!<$FFFE>
+ Huh, me?<$FFFE>
+ Hm?<$FE2D><$FFFE>
+ Who else!? Don't play  the innocent!<$FFFE>
+ …You see…to be  honest… I don't quiet understand what just happened myself.<$FFFE>
+ Oh my, seems like we managed to get ourselves in trouble again.<$FFFE>
+ !? Sir Lewin and our other companions doesn't seem to be anywhere  around!<$FFFE>
+ Is that so… Don't you think this could be the  effect of the stone the  chieftain gave us?<$FFFE>
+ Most likely. I presume that this is what  happens if you don't know how to handle it  properly…<$FFFD>It would've been better  not to meddle with the unknown.<$FFFE>
+ I think my father told me about this phenomenon of space time warping.<$FFFD>If my theory is correct, we have fallen into a loophole between the present, the past and  the future…<$FFFE>
+ To think that such a thing would be even  possible.<$FFFE>
+ Yeah right, and of  course it's pure coincidence that <$F600><$0000> ends up with  all the defenseless  girls alone!<$FFFE>
+ What do you reply?<$FFFE>
 Admit it<$FFFE>
-Deny it<$FFFE>
-You see right through me...<$FFFC>
-None of you are defenseless...<$FFFE>
-Come on now.<$FFFC>
-You should know me better than that.<$FFFE>
-We should look around this place.<$FFFE>
-Agreed.<$FFFC>
-Let's look around first.<$FFFE>
-Oh?<$FFFC>
-We're not alone here.<$FFFE>
-Right.<$FFFC>
-They look like skilled warriors.<$FFFE>
-Who goes there?<$FFFE>
-I'm Erwin.<$FFFC>
-Leader of the forces of justice!<$FFFE>
-What?<$FFFC>
-Brazen, aren't you?<$FFFE>
-Hah.<$FFFC>
-Says the guy stuck at level thirty-three.<$FFFD>
-I hit thirty-four weeks ago.<$FFFE>
-One level won't save you.<$FFFE>
-Nice speech.<$FFFC>
-But can you back up any of that!?<$FFFE>
-Our scenarios were harder than yours!<$FFFD>
-We could take you any day!<$FFFE>
-Watch your tongue.<$FFFC>
-You're my descendant. You could use some humility.<$FFFE>
-Hah...<$FFFC>
-Time to let our swords do the talking.<$FFFD>
-Liana, Cherie, let's go!<$FFFE>
-Fine by me.<$FFFC>
-Chris, Namu.<$FFFC>
-Prepare for battle!<$FFFE>
-....<$FFFC>
-Interesting.<$FFFD>
-Some kind of hero contest.<$FFFE>
-So, what about it?<$FFFE>
-Heh...<$FFFC>
-Time to show who the real hero is.<$FFFE>
-Boys.<$FFFC>
-Boys and their egos...<$FFFE>
-Say, Liffany!<$FFFD>
-Don't those two look like Lewin?<$FFFE>
-Hmmm...<$FFFC>
-Now that you mention it...<$FFFE>
-This place warps time, after all.<$FFFE>
-Maybe they're his descendants.<$FFFE>
-That's what I thought too.<$FFFE>
-Hey, this is a battlefield.<$FFFC>
-Take this seriously!<$FFFE>
-Sure, sure.<$FFFC>
-Relax!<$FFFE>
-They have three commanders each.<$FFFD>
-We're five. No problem.<$FFFE>
-It won't be easy.<$FFFC>
-They look experienced.<$FFFE>
-So are we.<$FFFC>
-If they underestimate me,<$FFFD>
-they'll regret it!<$FFFE>
-<$F702><$F702>Relying on numbers, how cowardly!<$FFFE>
-Honestly!<$FFFC>
-Have you no chivalry!?<$FFFE>
-<$F703><$F703>What do you reply?<$FFFE>
-Jealous?<$FFFE>
-We'll reduce our commanders!<$FFFE>
-...How sad.<$FFFC>
-So unpopular...<$FFFE>
-What!?<$FFFE>
-What!?<$FFFE>
-...Very well.<$FFFC>
-We'll even the numbers.<$FFFE>
-Remove 2 members from the party.<$FFFE>
-Remove 1 member from the party.<$FFFE>
-Now it's even.<$FFFE>
-Then prove it.<$FFFE>
-Now it's even.<$FFFE>
-Then prove it.<$FFFE>
-Erwin.<$FFFC>
-That one is even worse than you.<$FFFE>
-I agree.<$FFFC>
-Too noisy for my taste.<$FFFE>
-Let's deal with him first.<$FFFC>
-Then we settle our fight.<$FFFE>
-It's a deal.<$FFFE>
-Well then.<$FFFC>
-The alliance is formed!<$FFFE>
-Show me your power!<$FFFE>
-Show me your resolve!<$FFFE>
-Interesting.<$FFFC>
-Bring it on!<$FFFE>
-We got all the questions right.<$FFFC>
-Don't we deserve a reward?<$FFFE>
-I won't lose!<$FFFE>
-I won't go down easily!<$FFFE>
-Modesty is a hero's virtue.<$FFFE>
-Be satisfied with what you got!<$FFFE>
-Prince.<$FFFC>
-This battle is meaningless!<$FFFE>
-A man who won't defend his honor isn't worthy of love.<$FFFD>
-I cannot yield.<$FFFE>
-Ledin...<$FFFE>
-Chris.<$FFFC>
-Please understand.<$FFFE>
-Very well.<$FFFC>
-I'll fight with you.<$FFFE>
-Thank you both.<$FFFE>
-Hah, how old-fashioned.<$FFFC>
-Fighting to impress the girls.<$FFFE>
-Right.<$FFFC>
-I can't stand men like him.<$FFFE>
-Let's get this over with.<$FFFE>
-....<$FFFE>
-Brace yourself.<$FFFE>
-That's my line.<$FFFE>
-Don't blame me if you get hurt!<$FFFE>
-This is getting out of hand.<$FFFD>
-The real hero will settle this.<$FFFE>
-Another one?<$FFFE>
-Stay out of this.<$FFFC>
-If you know what's good for you!<$FFFE>
-Soon you'll see.<$FFFC>
-You're only a side character!<$FFFE>
-Even together, you can't win!<$FFFD>
-The real hero never loses!<$FFFE>
-Want to test that theory?<$FFFE>
-Right.<$FFFC>
-Let's see what heroes can do these days.<$FFFE>
-Be my guest.<$FFFC>
-I won't disappoint!<$FFFE>
-That [diehardt's name] is full of himself.<$FFFE>
-My thoughts exactly.<$FFFC>
-Let's teach him real strength!<$FFFE>
-Leave it to me!<$FFFE>
-This battle is already decided!<$FFFE>
-Can your sword match your mouth!?<$FFFE>
-Come to taste defeat!?<$FFFE>
-You'll be the one suffering!<$FFFC>
-Actions speak louder than words!<$FFFE>
-Let's see whose skill is superior!<$FFFE>
-It would be my pleasure!<$FFFE>
-A hero must be knowledgeable too.<$FFFD>
-When Langrisser I was ported from MD to PC, what changed?<$FFFD>
-What was modified?<$FFFE>
-What changed?<$FFFE>
-Hidden Classes added<$FFFE>
-Support magic improved<$FFFE>
-Super-Langrisser added<$FFFE>
-I know that.<$FFFC>
-Hidden classes were added!<$FFFE>
-Simple enough...<$FFFC>
-Support magic improved!<$FFFE>
-Very good.<$FFFC>
-Here, your reward.<$FFFE>
-500P were obtained!<$FFFE>
-But you still need to prove yourself in battle!<$FFFE>
-I know that.<$FFFC>
-They added the Super-Langrisser!<$FFFE>
-Now, a question about myself.<$FFFC>
-What happened to me at the end?<$FFFE>
-What became of Chris?<$FFFE>
-Sacrificed to Chaos<$FFFE>
-Flew off on a Pegasus<$FFFE>
-Married Ledin<$FFFE>
-Not a hard question.<$FFFC>
-Sacrificed to Chaos.<$FFFE>
-Wrong.<$FFFE>
-You lost 200P!<$FFFE>
-Not a hard question.<$FFFC>
-You flew off on a Pegasus to the heavens.<$FFFE>
-Wrong. Quite the imagination.<$FFFE>
-You lost 500P!<$FFFE>
-You married Ledin!<$FFFC>
-That's gotta be it!<$FFFE>
-...Right!<$FFFD>
-That's the correct answer.<$FFFC>
-You may have this.<$FFFE>
-Cross was obtained!<$FFFE>
-Isn't that the cross from your rampage?<$FFFE>
-It certainly is.<$FFFC>
-Ah, how nostalgic.<$FFFE>
-Surprised you remember it fondly.<$FFFC>
-The things one does for harmony.<$FFFE>
-...Right!<$FFFC>
-That's the correct answer.<$FFFE>
-Please answer correctly.<$FFFC>
-Who does my heart belong to?<$FFFE>
-Who does Namu love?<$FFFE>
-Ledin<$FFFE>
-Lance<$FFFE>
-[diehardt's name]<$FFFE>
-That's easy.<$FFFC>
-It must be Ledin!<$FFFE>
-The prince is nice, but...<$FFFE>
-Namu...you don't mean!?<$FFFC>
-But you must know..I..<$FFFE>
-Ledin!<$FFFE>
-I'm sorry.<$FFFC>
-I was caught off guard.<$FFFE>
-My apologies, Prince.<$FFFE>
-Don't worry...<$FFFE>
-Wrong answer. Pay up.<$FFFE>
-You lost 200P<$FFFE>
-L.A.N.C.E!<$FFFE>
-Noooo!<$FFFC>
-How embarrassing...<$FFFD>
-I mean, correct.<$FFFC>
-Here is your reward.<$FFFE>
-Assault Suit was obtained!<$FFFE>
-What!?<$FFFE>
-Sorry, wrong item.<$FFFC>
-Take this instead.<$FFFE>
-Wisdom Fruit was obtained!<$FFFE>
-This boosts intelligence. Useful for you.<$FFFE>
-That's easy.<$FFFC>
-It must be......ME!!<$FFFE>
-Sorry, I don't like guys with palm tree hair.<$FFFC>
-Wrong answer. Pay up.<$FFFE>
-You lost 200P...and some confidence...<$FFFE>
-As the true hero, this should be easy.<$FFFD>
-Who was my final boss?<$FFFE>
-Who was the last boss?<$FFFE>
-Bernhardt<$FFFE>
-Chaos<$FFFE>
-Bosel<$FFFE>
-Kaiser Bernhardt.<$FFFE>
-Too easy, huh.<$FFFD>
-But fine.<$FFFC>
-Take this.<$FFFE>
-Valor Seed was obtained!<$FFFE>
-Not bad at trivia,<$FFFD>
-but can you fight as well?<$FFFE>
-You picked that before.<$FFFD>
-Such poor tactics!<$FFFE>
-It was Chaos!<$FFFE>
-It was Bosel!<$FFFE>
-This one may be hard, but try your best.<$FFFD>
-What happened to the Langrisser at the end?<$FFFE>
-What happened to the holy blade?<$FFFE>
-Vanished with Alhazard<$FFFE>
-It was sealed again<$FFFE>
-Returned to the goddess<$FFFE>
-It vanished with Alhazard<$FFFD>
-and was never seen again.<$FFFE>
-Correct.<$FFFC>
-You are quite knowledgeable.<$FFFD>
-Accept this reward.<$FFFE>
-Protection Fruit was obtained!<$FFFE>
-Correct.<$FFFC>
-You are quite knowledgeable.<$FFFE>
-Sealed again...<$FFFE>
-Returned to the goddess...<FFFE>
-My turn!<$FFFC>
-I'm a princess, but of which kingdom?<$FFFE>
-Cherie's kingdom?<$FFFE>
+Deny it <$FFFE>
+ You see right through  me…as always. But there's hardly anything defenseless about any of you…<$FFFE>
+ Aww, come on now. You of  all people should know me better than that.<$FFFE>
+ In any case, I think it  would be advisable to  try to find out more about this place.<$FFFE>
+ Agreed. First of all, we  should take a look around.<$FFFE>
+ Oh? It seems like we are  not the only ones who  were taken here.<$FFFE>
+ Yup. And they look like  they are skilled warriors too.<$FFFE>
+ Who goes there?<$FFFE>
+ I am Erwin. Leader of the forces of justice!<$FFFE>
+ What? I can't agree on  that, you seem a little brazen for that  position.<$FFFE>
+Hah. That's rich, coming  from someone stuck on  level thirty three.<$FFFD>I, on the other hand, have reached level thirty four weeks ago.<$FFFE>
+ Cut the bragging! One level is hardly enough to close the gap between the difference in  talent.<$FFFE>
+ Nice speech. But can you back up any of that!?<$FFFE>
+ You have no idea what  our battle hardened  troops have been through!<$FFFE>
+ Our Scenarios have been  much more challenging  than yours!<$FFFD>No matter, we could take you on any day!<$FFFE>
+ It would suit you better to watch your tongue. After all, you are supposed to be my  descendant. Maybe a lesson in humbleness would do you good.<$FFFE>
+ Hah… I also think that it's high time to let  our swords take over the speaking.<$FFFD>Liana, Cherie, let's go!<$FFFE>
+ Fine by me. Chris, Namu. Prepare for battle!<$FFFE>
+ … Interesting.<$FFFD>As far as I understand the situation it's some  kind of competition of heroes.<$FFFE>
+ So, what about it?<$FFFE>
+ Heh… I guess it's time for me to step in and  show them who the real protagonist is.<$FFFE>
+ Boys. I just don't get  them, being stuck with  all that ego crap.<$FFFE>
+ Say, Liffany!<$FFFD>Don't you think that those two bear a remarkable resemblance to Lewin?<$FFFE>
+ Hmmm… Now that you  mention it, it certainly  seems that way.<$FFFE>
+ Do you think it's  possible that there's some kind of connection  between them, considering that this  place warps time and all?<$FFFE>
+ Yes, that's certainly a possibility. Who knows, maybe those two even are Lewin's direct descendants.<$FFFE>
+ Yeah, that's exactly  what I've been thinking  too.<$FFFE>
+ Hey now, this still is a battlefield. Could you do me a favor and take this a bit more serious?<$FFFE>
+ Sure, Sure. Keep your armor on, Mr.All  Important!<$FFFE>
+ Their respective teams only number three  Commanders.<$FFFD>We, on the other hand, are five in total. Winning against them should be no problem.<$FFFE>
+I am afraid it won't be  that easy. After all, they all seem to be very experienced in the way of fighting.<$FFFE>
+ And so are we. If they should make the mistake  to think of me as a child,<$FFFD>they're in for a brutal  beating a la Tia!<$FFFE>
+<$F702>
+<$F702>
+ <$F702><$F702>To rely on an advantage  in numbers, such  cowardice!<$FFFE>
+ Honestly! Don't you have  any sense of chivalry!?<$FFFE>
+<$F703>
+<$F703>
+ <$F703><$F703>What do you reply?<$FFFE>
+ Do I sense jealousy?<$FFFE>
+ We will reduce the number of our  commanders!<$FFFE>
+ …How sad it must be. To be such unpopular specimen…<$FFFE>
+ What!?<$FFFE>
+ What!?<$FFFE>
+ …Very well. If you  insist we will reduce  our numbers.<$FFFE>
+ Please remove 2 members from the active party.<$FFFE>
+ Please remove 1 member  from the active party.<$FFFE>
+ Well then, it's between  you and me now.<$FFFE>
+ In that case, prove it.<$FFFE>
+ Well then, it's between  you and me now.<$FFFE>
+ In that case, prove it.<$FFFE>
+ Erwin. That fellow seems to be far more ludicrously self centred than you are.<$FFFE>
+ I Agree. He's quiet a bit too noisy for my taste as well.<$FFFE>
+ I suggest setting aside  our dispute for now and  put this nuisance into his place. After that, we can continue our  battle undisturbed.<$FFFE>
+ It's a deal.<$FFFE>
+ Well then. The alliance  has been formed!<$FFFE>
+ Show me the extent of  your power!<$FFFE>
+ Show me the worth of your conviction!<$FFFE>
+ A most interesting turn  of events. Bring it on!<$FFFE>
+ We answered all those  questions correctly. Shouldn't we get a special reward for this?<$FFFE>
+ I won't lose!<$FFFE>
+ I won't go down without  a fight!<$FFFE>
+ Modesty is a hero's virtue. Think of it as a chance to learn some temperance.<$FFFE>
+Shouldn't you be satisfied with what you  got already!?<$FFFE>
+ Prince. We shouldn't  participate in such a meaningless battles!<$FFFE>
+ A man that cannot uphold his honor, wouldn't be worthy of the gaze of  those he adores.<$FFFD>Therefore, I cannot  yield.<$FFFE>
+ Ledin…<$FFFE>
+ Chris. Please try to understand what this means to me.<$FFFE>
+ Very well, I think I understand. I will go to  battle with you.<$FFFE>
+ Thank you, both of you.<$FFFE>
+ Hah, that's pretty archaic. Going to battle just to impress the  girls.<$FFFE>
+ Right. I can't stand overbearing man like him.<$FFFE>
+ Well then, let's get this over with.<$FFFE>
+…<$FFFE>
+I hope you have braced yourself for a bit of a painful experience.<$FFFE>
+ That's my line.<$FFFE>
+ Don't blame me if you  get yourself hurt!<$FFFE>
+ This is getting out of hand.<$FFFD>It is time for me, the real protagonist, to  step in and bring a conclusion to this rivalry.<$FFFE>
+ Another newcomer?<$FFFE>
+ You would better stay out of this. That is if you  know what's good for you!<$FFFE>
+ Shortly you will come to understand. That yours  is only a minor part to  play in this story!<$FFFE>
+ Even with your new formed alliance you have no hope of victory!<$FFFD>The real protagonist can never loose!<$FFFE>
+ I guess you wouldn't mind putting that theory to test then.<$FFFE>
+ Right. If what you're  saying is true, I would like to see what protagonists are capable of these days.<$FFFE>
+ Be my guest. I am sure I will live up to your expectations!<$FFFE>
+ That <$F600><$0000> fellow  seems to be a bit full of himself.<$FFFE>
+ My thoughts exactly. Let's teach him a lesson in real strength!<$FFFE>
+ Leave it to me!<$FFFE>
+ Give up, this battle has already been decided!<$FFFE>
+ Let's see if your  swordplay can keep up with your tongue!<$FFFE>
+ So, have you come to  suffer a shameful  defeat!?<$FFFE>
+ I am afraid that you will be the one to suffer! But deeds are better than words!<$FFFE>
+ Let's see whose skill are the most refined!<$FFFE>
+ It would be my pleasure!<$FFFE>
+ A hero needs to beknowledgeable as well.Let's see if you gotwhat it takes.<$FFFD>When Langrisser I was ported from MD to PC,some modifications were applied.<$FFFD>What exactly has been modified?<$FFFE>
+ What has been modified?<$FFFE>
+Hidden Classes were  added <$FFFE>
+Support magic was  improved<$FFFE>
+Super Langrisser was implemented <$FFFE>
+ I know that. Hidden  classes were added!<$FFFE>
+ It's the simple  things… Support magic was improved!<$FFFE>
+ Very good. Here, consider this to be your reward.<$FFFE>
+ 500P were obtained!<$FFFE>
+ However, you still have to prove your skill withthe blade, so don't get haughty just yet!<$FFFE>
+ I know that. They introduced the SuperLangrisser!<$FFFE>
+ Alright, this is aquestion related to myself. What happened to me at the ending of our story?<$FFFE>
+ What became of Chris?<$FFFE>
+She was sacrificed to  Chaos <$FFFE>
+Flew off on a Pegasus <$FFFE>
+She married Ledin <$FFFE>
+ That's not really a difficult question. You've been sacrificed to Chaos.<$FFFE>
+ Wrong answer.<$FFFE>
+ You lost <$05ED>0P!<$FFFE>
+ That's not really a difficult question. You flew off on a Pegasus to serve Lushiris in the  heavens.<$FFFE>
+Wrong. You've got an overly active  imagination.<$FFFE>
+ You lost 500P!<$FFFE>
+Naturally you got  married to Ledin! That's  gotta be it!<$FFFE>
+ …Right!<$FFFD>That's the correct answer. You may have  this.<$FFFE>
+ Cross was obtained!<$FFFE>
+ Is that not the cross  you threw around when  you were on a rampage?<$FFFE>
+ It certainly is. Ah, what nostalgia.<$FFFE>
+ I am a bit surprised you would keep that in good  memory. One has to go to  such lengths in the name of harmony.<$FFFE>
+ …Right! That's the  correct answer.<$FFFE>
+ Please try to answer my  question correctly. Who is the man my heart  yearns for?<$FFFE>
+ Who does Namu like the most?<$FFFE>
+Ledin <$FFFE>
+Lance <$FFFE>
+<$F600><$0000><$FFFE>
+ That's easy. It has to be Ledin!<$FFFE>
+ Certainly, the prince is nothing to sneeze  at…but…<$FFFE>
+ Namu…you couldn't mean!? But you must  know…I…<$FFFE>
+ Ledin!<$FFFE>
+ I am sorry. I was caught  off guard.<$FFFE>
+ My apologies, Prince.<$FFFE>
+ Don't worry about it…<$FFFE>
+ Anyhow, your answer was wrong. Please pay the  due fee.<$FFFE>
+You lost <$05ED>0P<$FFFE>
+L.<$0650>N.C.E!<$FFFE>
+ Noooo! Such  embarrassment…<$FFFD>I mean, correct answer. This shall suffice as  your reward.<$FFFE>
+ Assault Suit was obtained!<$FFFE>
+ What!?<$FFFE>
+ Excuse me, I must have confused the items. Have  this instead.<$FFFE>
+ Wisdom Fruit was obtained!<$FFFE>
+ I think you will find  this to be most useful to you, since it  improves intelligence.<$FFFE>
+ That's easy. It has to be…ME!!<$FFFE>
+ I am sorry , but personally I am not too  fond of guys with hair resembling a palm tree. Anyhow, your answer was wrong. Please pay the  due fee.<$FFFE>
+ You lost <$05ED>0P…and a portion of your  confidence…<$FFFE>
+ Being the true protagonist, you won't have any trouble answering my question, right?<$FFFD>Who was the last boss I had to<$FFFE>
+ Who was the final boss?<$FFFE>
+Bernhardt <$FFFE>
+Chaos <$FFFE>
+Bozel <$FFFE>
+ It was Kaiser Bernhardt.<$FFFE>
+ I guess this was a bit too easy.<$FFFD>But it's fine. Take  this.<$FFFE>
+ Valor Seed was obtained!<$FFFE>
+ I gotta admit your not half bad at answering  questions,<$FFFD>but now it's time to see what you can do in battle!<$FFFE>
+ You already have picked  that answer before.<$FFFD>Those poor tactics will  get you nowhere!<$FFFE>
+ The last boss had to be Chaos!<$FFFE>
+ That would've beenBozel!<$FFFE>
+ Perhaps this question isa bit difficult, but tryyour best to answer it.<$FFFD>What happened to theLangrisser at the end ofour story?<$FFFE>
+ What happened to the holy blade?<$FFFE>
+It disappeared along with Alhazard <$FFFE>
+ It was sealed again.<$FFFE>
+It was returned to the goddess <$FFFE>
+ It disappeared along with Alhazard <$FFFD>and it hasn't been seen  again ever after.<$FFFE>
+ That is correct. You prove to be quiet  knowledgeable after all.<$FFFD>Please accept this as a reward.<$FFFE>
+ Protection Fruit was obtained!<$FFFE>
+ That is correct. You prove to be quiet  knowledgeable after all.<$FFFE>
+ I guess It was sealed  again…<$FFFE>
+ Where's Cherie a princess?<$FFFE>
+ A question from me! Which kingdom's princess  am I?<$FFFE>
 Night Club<$FFFE>
-Kalxath<$FFFE>
+Kalxath <$FFFE>
 Baldea<$FFFE>
-...A night club...<$FFFC>
-...Those clothes say it all...<$FFFE>
-Son of a...!<$FFFC>
-You asked for it!<$FFFE>
-Cherie kicked you...you lost 1000P...<$FFFE>
-Princess of Kalxath.<$FFFC>
-Descendant of Lance and Namu.<$FFFE>
-Bingo.<$FFFC>
-Here, this should help.<$FFFE>
-Power Fruit was obtained!<$FFFE>
-Bingo.<$FFFE>
-Baldea?<$FFFE>
-Close, but no.<$FFFC>
-Baldea didn't exist anymore in my time.<$FFFD>
-Wrong answer. Pay up.<$FFFE>
-You lost 200P.<$FFFE>
-A cluster of huge stones in a circle.<$FFFD>
-Man-made, but their purpose is unclear.<$FFFE>
-What do you do?<$FFFE>
-Call the outside world<$FFFE>
-Make a sacrifice<$FFFE>
-Search for treasure<$FFFE>
-<$f6>Guardian<$fc>You shout and try to reach the outside world.<$FFFC>
-<$fe><$14>.<$fe><$14>.<$fe><$14>.<$fe><$14>.<$fe><$14>..<$FFFD>
-But no reply...<$FFFE>
-Make a sacrifice?<$FFFE>
-What will you offer?<$FFFE>
+Baldia<$FFFE>
+ Son of a…! Grr! You brought this one on  yourself!<$FFFE>
+ In that case, you must  be the princess of Kalxath. A descendant of Lance and Namu.<$FFFE>
+ 1000P was taken from your funds!<$FFFE>
+ Bingo. Here you go, this  should buff you up somewhat.<$FFFE>
+ Correct. Then I will give you this.<$FFFE>
+ Bingo.<$FFFE>
+ Um, I guess it's Baldea?<$FFFE>
+ Wasn't it Baldia?<$FFFE>
+ Close, but not quiet there. The Kingdom of  Baldea pretty much didn't exist any longer  during my period.<$FFFD>I am afraid you will have  to pay for answering wrong.<$FFFE>
+ You lost <$05ED>0P.<$FFFE>
+ You come across a cluster of huge stones positioned in a circular manner.<$FFFD>It seems to be man made, but its specific uses  are a mystery to you.<$FFFE>
+Communicate with the outside world <$FFFE>
+Offer up a sacrifice<$FFFE>
+Search for hidden treasure<$FFFE>
+ Do you want to make asacrifice?<$FFFE>
+ <$F600><$02C1>ied sending a thought out to the outer world.<$FE14>…<$FE14>…<$FE14>…<$FE14>…<$FE14>…<$FFFD>But there was noresponse…<$FFFE>
+ What do you want to offer up?<$FFFE>
 A Prayer<$FFFE>
 Saintly Animal<$FFFE>
 Your own blood<$FFFE>
-<$f6>Guardian<$fc>You offer a silent prayer...<$FFFD>
-But nothing happens...<$FFFE>
-But Jugler was out of reach.<$FFFD>
-A voice echoes in your mind.<$FFFD>
-"The thought counts. Take this."<$FFFE>
-Staff of the Dragon Lord was obtained!<$FFFE>
-You cut your finger and let blood drip on the ground.<$FFFD>
-A voice echoes in your mind.<$FFFD>
-"I accept. Take this as proof of our pact."<$FFFE>
-Blood Pact was obtained!<$FFFE>
-<$f6>Guardian<$fc>You lost 10 HP.<$FFFE>
-You search but find nothing...<$FFFE>
-Absurd!<$FFFC>
-I'm the hero...this must be a mistake...<$FFFE>
-This is my time to shine!<$FFFE>
-Yeooow, Ouchy!<$FFFE>
-Aahh...<$FFFE>
-Uuuu...<$FFFC>
-Forgive me, Sir [diehardt's name]...<$FFFE>
-Lushiris keeps me safe...<$FFFE>
-Forgive me.<$FFFC>
-Prolonging this is foolish.<$FFFD>
-Let us retreat.<$FFFE>
-I see now...<$FFFC>
-Time to entrust the future to the next generation...<$FFFE>
-You are both strong and wise.<$FFFE>
-Thank you.<$FFFC>
-You are a worthy predecessor...<$FFFE>
-If only I could have done more...<$FFFE>
-Defeat tempers the spirit...<$FFFE>
-I won't leave the world to the incapable!<$FFFC>
-Show me what you've got, Erwin!<$FFFE>
-Here I go!<$FFFE>
-Oh...Ledin...<$FFFE>
-Forgive me!<$FFFD>
-Prince...<$FFFE>
-I have lost...<$FFFC>
-I'm sorry, Cherie, Liana...<$FFFE>
-I've been defeated...<$FFFC>
-Guess I wasn't the hero after all...<$FFFE>
-You are both strong and wise.<$FFFE>
-Thanks.<$FFFC>
-You are a worthy predecessor...<$FFFE>
-Erwin...<$FFFE>
-At last it's over.<$FFFC>
-What a relief...<$FFFE>
-Please, Erwin.<$FFFC>
-Don't be reckless while I'm away...<$FFFE>
-Ouch!<$FFFC>
-Time to withdraw!<$FFFE>
-You'd better be ready for this!<$FFFE>
-Heh...<$FFFC>
-Just as I thought.<$FFFD>
-The only possible outcome.<$FFFE>
-Now we need to find a way back...<$FFFE>
-We should find a way to return.<$FFFE>
-Right, we still have much to do!<$FFFE>
-Yes...<$FFFE>
-You did it once, you must know how to get back?<$FFFE>
-Sorry.<$FFFC>
-No idea.<$FFFE>
-I don't know how to get back either.<$FFFE>
-<$F704><$F704>Hmm.<$FFFC>
-If only it were that simple.<$FFFC>
-Stone, take us back to our world...<$FFFD>
-And<$fe><$28>.<$fe><$28>.<$fe><$28>.still here...<$FFFE>
-<$F705><$F705>Face reality.<$FFFD>
-It's no use.<$FFFC>
-We'll never get back...home...<$FFFE>
-Remove Tiaris?<$FFFE>
-At least I'm free from this stupidity!<$FFFE>
-Remove Liffany?<<$FFFE>
-I'm sorry for the trouble.<$FFFC>
-Excuse me.<$FFFE>
-Remove Luna?<$FFFE>
-How unfortunate.<$FFFC>
-I wanted to fight those strange foes...<$FFFE>
-Remove Sophia?<$FFFE>
-I understand.<$FFFC>
-I'll withdraw for now.<$FFFE>
-Now we're even!<$FFFC>
-May the best win!<$FFFE>
-I'll never tire of saying it.<$FFFC>
-I'm the hero here!<$FFFE>
-How foolish!<$FFFC>
-Picking the same answer twice!?<$FFFD>
-Pay up!<$FFFE>
-You lost 200P<$FFFE>
-Hah...<$FFFC>
-Is that the extent of your knowledge?<$FFFD>
-Pay for the wrong answer!<$FFFE>
-You lost 200P!<$FFFE>
-Incorrect.<$FFFC>
-Pay up.<$FFFE>
-You lost 200P<$FFFE>
-Secret Stone of the Hero was obtained!<$FFFE>
-Using numbers against us, how cowardly!<$FFFC>
-Have you no chivalry!?<$FFFE>
-Five against three is a cheap tactic.<$FFFD>
-You have much to learn.<$FFFE>
-Actually, it's simple.<$FFFC>
-Hold the stone and focus on returning home.<$FFFE>
-Don't give up.<$FFFD>
-If we keep trying, we'll make it back.<$FFFE>
+Your own blood<$FFFE>
+ <$F600><$0219>fered a prayer…<$FFFD>But nothing happened.<$FFFE>
+ But Jugler was not in  range of your  treacherous hands.<$FFFD>Suddenly a voice echoes  through your mind.<$FFFD>"It's the thought that  counts. Take this as a sign of my appreciation."<$FFFE>
+ Staff of the Dragon Lord was obtained!<$FFFE>
+ You take out a knife, cut your finger a little and let the blood drop on the ground.<$FFFD>Suddenly a voice echoes  through your mind.<$FFFD>"I accept. You shall have this as prove of  our covenant."<$FFFE>
+ Blood Pact was obtained!<$FFFE>
+ <$F600><$02BE>ok 10 points of damage.<$FFFE>
+ You search the surroundings but come  away empty handed…<$FFFE>
+ Absurd! I am the  protagonist…this has to be…a mistake…<$FFFE>
+ Yeooow, Ouchy!<$FFFE>
+ Aahh…<$FFFE>
+ Yeah…<$FFFE>
+ Uuuu… Forgive me, Sir <$F600><$0000>…<$FFFE>
+ Lushiris keeps me  safe…<$FFFE>
+ Forgive me. Prolonging  this battle would be foolish.<$FFFD>Let us retreat.<$FFFE>
+ Now I understand… It  is time to leave matters to the next  generation…<$FFFE>
+ Your both, knowledgeable and strong.<$FFFE>
+ Thank you. I think you are a worthy predecessor…<$FFFE>
+ Admitting defeat at  times can only temper  oneself…<$FFFE>
+ Here I go!<$FFFE>
+ Regret ever fighting me  in the next world! Come  on, Elwin!<$FFFE>
+ Oh…Ledin…<$FFFE>
+ Lord Ledin…<$FFFE>
+ Forgive me!<$FFFD>Prince…<$FFFE>
+ I have been defeated… Guess I wasn't the protagonist after all…<$FFFE>
+ Thanks. I think you are a worthy predecessor…<$FFFE>
+ Erwin…<$FFFE>
+ At last this meaningless battle is over. What a relief…<$FFFE>
+ Elwin…<$FFFE>
+ I beg your pardon, Erwin. Please don't do anything reckless while  I am not around…<$FFFE>
+ Ouch! Time to withdraw!<$FFFE>
+ Owwww! What was that for!?<$FFFE>
+ You would better be ready  for this!<$FFFE>
+ Heh… Just as I thought.<$FFFD>This was the only  possible outcome.<$FFFE>
+ I guess now would be a good time to think of a way to return to our world.<$FFFE>
+ Right, there are still a lot of things we have to take care of!<$FFFE>
+ Yes…<$FFFE>
+ You did it before, you should at least have a vague idea how to get us back, right?<$FFFE>
+ By the way, do you have any idea how we can get  back?<$FFFE>
+ Sorry. I have no idea.<$FFFE>
+ I, however, have no idea how to get back.<$FFFE>
+<$F704>
+<$F704>
+ <$F704><$F704>Oh. So it was something that simple. Then let's  go back to our own world.<$FFFD>Though<$FE28>…<$FE28>…<$FE28>… would you come visit  here from time to time?<$FFFE>
+<$F705>
+<$F705>
+ <$F705><$F705>We have to face reality.<$FFFD>It's no use. We will never make it  back…home…<$FFFE>
+ Thanks, at least I don't  have to be part of all this stupidity that way!<$FFFE>
+ Remove Liffany?<$FFFE>
+ Remove Luna?<$FFFE>
+ How unfortunate. I had looked forward to do battle against those peculiar opponents…<$FFFE>
+ Remove Sophia?<$FFFE>
+ I understand. I will  withdraw for now.<$FFFE>
+ Remove Sophia from the party?<$FFFE>
+ Alright, we have equal numbers now! May the best prevail!<$FFFE>
+ Not a chance, I will  never get tired of saying this. I am the  protagonist around here!<$FFFE>
+ How many times do I have to tell you? I am the  star here!<$FFFE>
+ How foolish! To belief you could fool me by picking the same choice  twice!<$FFFD>Now, pay up!<$FFFE>
+You lost <$05ED>0P<$FFFE>
+ Hah… So that's the extend of your knowledge…<$FFFD>You will have to pay dearly for picking the wrong answer!<$FFFE>
+ You lost <$05ED>0P!<$FFFE>
+ That is incorrect. Please pay up.<$FFFE>
+You lost <$05ED>0P<$FFFE>
+ Secret Stone of the Hero was obtained!<$FFFE>
+ To rely on an advantage  in numbers, such  cowardice! Do you have no sense of chivalry at  all!?<$FFFE>
+ Ganging up on us with  five commanders is quiet a cheap strategy.<$FFFD>You still have a long  way to go.<$FFFE>
+ Actually, I think it's  quiet simple. Try holding the stone like before and focus your  mind on returning to our original world.<$FFFE>
+ Please don't give up so  soon.<$FFFD>If we keep on trying I am sure we will make it  back somehow.<$FFFE>  
