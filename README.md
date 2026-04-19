@@ -16,7 +16,6 @@ An English translation patch for Langrisser III on Sega Saturn, built from scrat
 | Boser             | Bozel     |
 
 Uses the official localized names from Langrisser Mobile where available.
-Full reference: [docs/langrisser-mobile-name-map.md](docs/langrisser-mobile-name-map.md)
 
 ## How to Patch
 
