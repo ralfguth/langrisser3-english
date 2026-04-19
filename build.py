@@ -128,6 +128,9 @@ def main():
     print(f'  FONT.BIN: {len(font_data):,} bytes ({len(font_data) // 32} tiles)')
     print(f'  D00.DAT:  {len(d00_data):,} bytes')
 
+    # Save JP D00.DAT for tests
+    (BUILD_DIR / 'd00_jp.dat').write_bytes(d00_data)
+
     # -- Step 3: Generate English font --
     print('[3/7] Generating English font...')
     new_font = generate_english_font(font_data)
@@ -209,7 +212,7 @@ def main():
     print(f'  Audio tracks: {audio_tracks}')
     print(f'  Build time:   {elapsed:.1f}s')
     print()
-    print('  To play: load Langrisser_III_English.cue in Ymir')
+    print('  To play: load Langrisser_III_English.cue in your emulator')
 
     return 0
 

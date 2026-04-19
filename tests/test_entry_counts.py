@@ -49,41 +49,15 @@ ENTRY_COUNT_XFAIL: dict[int, tuple[int, int]] = {
     39: (296, 304),
 }
 
-JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega-saturn/Langrisser III (Japan)'
-JP_TRACK01 = JP_DIR / 'Langrisser III (Japan) (3M) (Track 01).bin'
+JP_D00 = PROJ / 'build' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
-
-SECTOR_SIZE = 2352
-USER_OFFSET = 16
-USER_SIZE = 2048
-
-
-def _extract_d00():
-    """Extract D00.DAT from JP ISO and parse sections."""
-    import math, struct
-    image = JP_TRACK01.read_bytes()
-
-    # Quick ISO9660 parse to find D00.DAT
-    pvd = image[16 * SECTOR_SIZE + USER_OFFSET:16 * SECTOR_SIZE + USER_OFFSET + USER_SIZE]
-    root_len = pvd[156]
-    root = pvd[156:156 + root_len]
-    root_extent = struct.unpack_from('<I', root, 2)[0]
-    root_size = struct.unpack_from('<I', root, 10)[0]
-
-    # Import iso_tools for proper parsing
-    from iso_tools import build_file_index, extract_file_data
-    file_index = build_file_index(bytearray(image))
-    d00_entry = file_index.get('LANG/SCEN/D00.DAT')
-    assert d00_entry is not None, "D00.DAT not found in ISO"
-    d00_data = extract_file_data(image, d00_entry.extent, d00_entry.size)
-    return parse_d00(d00_data)
 
 
 @pytest.fixture(scope='module')
 def jp_sections():
-    if not JP_TRACK01.exists():
-        pytest.skip('JP ISO not available')
-    return _extract_d00()
+    if not JP_D00.exists():
+        pytest.skip('build/d00_jp.dat not found (run build.py first)')
+    return parse_d00(JP_D00.read_bytes())
 
 
 def test_all_sections_have_scripts(jp_sections):

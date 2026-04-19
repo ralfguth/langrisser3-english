@@ -2,14 +2,15 @@ Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
+
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
@@ -19,17 +20,17 @@ Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 William<$FFFF>
 Knight Gerold<$FFFF>
-Larcuss Commander <$FFFF>
+Larcuss Commander<$FFFF>
 Duke William<$FFFF>
-Riguler Commander <$FFFF>
+Riguler Commander<$FFFF>
 General Varna<$FFFF>
 Field Marshal Altemuller<$FFFF>
 <$01E9>Conditions of Victory  Defeat all enemies<$FFFE>
 <$01E9>Conditions of Defeat  Death of <$F600><$0000><$FFFE>
-The Floating Castle <$FFFF>
+The Floating Castle<$FFFF>
  Honestly! Why does this have to happen at a  time like this?<$FFFE>
  They probably used the stormy weather to their  advantage and hid  themselves in the  clouds, while approaching the castle unnoticed.<$FFFE>
  I guess they also chose  this day because today was the investiture  ceremony.<$FFFE>
