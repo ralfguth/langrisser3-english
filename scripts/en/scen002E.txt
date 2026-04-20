@@ -3,35 +3,36 @@ Langrisser III dumper [0x0000 to 0x0000]
 Cyber Warrior X
 
 
+
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
-Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Freya <$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
 Jugler<$FFFF>
-Jessica<$FFFF>
+Jessica <$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
-Varna<$FFFF>
-Emerick<$FFFF>
-William<$FFFF>
-Knight Gerold<$FFFF>
-Larcuss Commander<$FFFF>
+Varna <$FFFF>
+Emerick <$FFFF>
+William <$FFFF>
+Sir Gerold<$FFFF>
+Larcuss Commander <$FFFF>
 Duke William<$FFFF>
-Riguler Commander<$FFFF>
-General Varna<$FFFF>
+Riguler Commander <$FFFF>
+General Varna <$FFFF>
 Field Marshal Altemuller<$FFFF>
-<$01E9>Conditions of Victory  Defeat all enemies<$FFFE>
-<$01E9>Conditions of Defeat  Death of <$F600><$0000><$FFFE>
-The Floating Castle<$FFFF>
- Honestly! Why does this have to happen at a  time like this?<$FFFE>
+<$01E9>Conditions of Victory <$FFFC>  Defeat all enemies <$FFFE>
+<$01E9>Conditions of Defeat <$FFFC>  Death of <$F600><$0000><$FFFE>
+The Floating Castle <$FFFF>
+ Honestly! Why <$FFFC>does this have to happen<$FFFC>at a time like this?<$FFFE>
  They probably used the stormy weather to their  advantage and hid  themselves in the  clouds, while approaching the castle unnoticed.<$FFFE>
  I guess they also chose  this day because today was the investiture  ceremony.<$FFFE>
  Yeah. That was  favourable for them too.<$FFFD>But complaining about it won't help us right now. Let's go Tiaris. We have to protect the Magical Cannon!<$FFFE>
