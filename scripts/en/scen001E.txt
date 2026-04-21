@@ -5,6 +5,8 @@ Cyber Warrior X
 
 
 
+
+
 Tiaris<$FFFF>
 Liffany <$FFFF>
 Luna<$FFFF>
@@ -155,8 +157,8 @@ Do you want to be informed about<$FFFC>the battle system in greater<$FFFC>detail
 In this game,units act together<$FFFC>under their commander.<$FFFD>Orders go to commanders only,<$FFFC>not to individual soldiers.<$FFFD>Commanders do not act right away<$FFFC>after receiving orders.<$FFFD>Once all orders are given, press<$FFFC>Start and select Execute Turn.<$FFFC>All units will then act at once.<$FFFE>
 Do you want me to explain every <$FFFC>command?<$FFFE>
 <$035C>Move<$035D>Sets a destination for<$FFFC>your unit. You can set up to 4<$FFFC>waypoints within its max<$FFFC>movement range.<$FFFD><$035C>Recover<$035D>Your commander and <$FFFC>Soldiers will recover some HP.<$FFFC>Recovering units cannot move or <$FFFC>attack during that turn.<$FFFD><$035C>Magic<$035D>Use your MP to invoke<$FFFC>mighty spells. Casting units can't do anything else that turn.<$FFFD>Note that spells need time to be<$FFFC>cast.More powerful spells take <$FFFC>longer to cast than easy ones.<$FFFD><$035C>Item<$035D>Items can either be <$FFFC>equipped or used during battle.<$FFFD>Only one item can be used at a <$FFFC>time and the unit becomes unable<$FFFC>to do anything else.<$FFFD><$035C>Use<$035D>Use items and invoke <$FFFC>special effect of certain items.<$FFFC>Beware though, there are items <$FFFC>that could break upon using.<$FFFD><$035C>Summon<$035D>Use your MP to call <$FFFC>a creature. Summoned creatures <$FFFC>act just as other commanders.<$FFFE>
-<$035C>Skill<$035D> There are skills with permanent effect and skills that can be activated manually. In  battle only skills that can be activated will show up<$FFFD>Master the use of those commands and success will be certain.<$FFFD>Combine commands to compensate for your allies weaknesses or to enhance their strengths can turn the tide in battle. The <$035C>Mode<$035D> and <$035C>Formation<$035D> commands will be  explained separately.<$FFFD>Until you press Start or Z and Select Execute Turn you are free to change given commands.<$FFFE>
-Do you want me explain a unit's  mode more accurately?<$FFFE>
+<$035C>Skill <$035D>There are skills with <$FFFC>permanent effect and skills that<$FFFC>can be activated manually.<$FFFC>In battle only skills that can<$FFFC>be activated will show up.<$FFFD>Master the use of those commands<$FFFC>and success will be certain.<$FFFD>Normally, you can only choose one command at a time. However,<$035C>Mode<$035D> and <$035C>Formation <$035D> can<$FFFC>be combined with other commands.<$FFFD>Until you press Start or Z and <$FFFC>select Execute Turn you are free<$FFFC>to change given commands.<$FFFE>
+Do you want me explain a unit's <$FFFC>mode more accurately?<$FFFE>
 There are three possible modes a unit can be set to, Defense, Normal and High Mobility.<$FFFD>Normal is the default and most balanced mode. Choosing High Mobility as a unit's mode will increase the distance a unit can move, but will lower the attack and defense values.<$FFFD>When choosing Defense, movement  is no longer possible, but defensive power rises. Note that your soldiers have to move in  order to change formation.<$FFFE>
 Do you desire to know more about the unit's formations?<$FFFE>
 The formation decides how unit's will place themselves in relation to their commander.<$FFFD>A change in formation only applies after a commander moves.<$FFFD>The Square is the default  formation placing soldiers all around the commander.<$FFFD>The Spear can help to reach far  away enemies.<$FFFD>The Wall is useful to intercept  enemies coming from the back and the front.<$FFFD>The Slant comes in two variations and can be handy in various situations.<$FFFD>In battle it is of utmost  importance to determine which  units should make contact to the enemy. Use formations for  precise maneuvers.<$FFFE>
