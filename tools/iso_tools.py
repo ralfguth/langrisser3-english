@@ -475,6 +475,30 @@ def _shift_track2_msf(jp_track2: bytes, new_start_sector: int) -> bytes:
     return bytes(out)
 
 
+def _find_jp_track(jp_dir: Path, track_num: int) -> Path | None:
+    """Locate the JP-source .bin file for a given track number.
+
+    Different JP rips name tracks differently — some examples seen:
+      - "Langrisser III (Japan) (3M) (Track 01).bin"  (Redump 3M variant)
+      - "Langrisser III (Japan) (1M) (Track 01).bin"  (Redump 1M variant)
+      - "Langrisser III (Japan) (Track 01).bin"
+      - "track01.bin"
+      - "Langrisser III (Japan) - Track 1.bin"        (no leading zero)
+
+    Match the same way build.py finds Track 01: glob for *rack* + the
+    track number with and without leading zero. Returns the first match
+    or None.
+    """
+    patterns = [
+        f'*rack*{track_num:02d}*.bin',  # "Track 01", "track02"
+        f'*rack*{track_num}*.bin',      # "Track 1" (no leading zero)
+    ]
+    for pat in patterns:
+        for candidate in sorted(jp_dir.glob(pat)):
+            return candidate
+    return None
+
+
 def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> None:
     """Assemble final CD image: patched track01 + audio tracks from JP source.
 
@@ -482,6 +506,10 @@ def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> Non
     match the new physical position when Track 1 has grown. Without this
     fix Beetle Saturn refuses to stream XA voice clips. See
     `_shift_track2_msf` for details.
+
+    JP track filenames are matched by glob (`*rack*NN*.bin`), so any
+    Redump variant (1M / 3M / un-suffixed) or short name (`track02.bin`)
+    works without code changes.
     """
     output_dir = output_cue.parent
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -499,17 +527,25 @@ def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> Non
 
     # Track 2: MODE 2 ADPCM voice streams. Rewrite in-sector MSF so it
     # matches the post-shift physical position on disc.
-    jp_track2 = jp_dir / 'Langrisser III (Japan) (3M) (Track 02).bin'
-    if jp_track2.exists():
+    jp_track2 = _find_jp_track(jp_dir, 2)
+    if jp_track2 is not None:
         track2_data = jp_track2.read_bytes()
         track2_data = _shift_track2_msf(track2_data, track01_sectors)
         (output_dir / 'track02.bin').write_bytes(track2_data)
+    else:
+        print('  WARNING: Track 02 source .bin not found in JP dir; '
+              'audio voice will not be available')
 
     # Audio tracks 03..22: raw CDDA, no MSF headers to rewrite
+    audio_copied = 0
     for i in range(3, 23):
-        jp_track = jp_dir / f'Langrisser III (Japan) (3M) (Track {i:02d}).bin'
-        if jp_track.exists():
+        jp_track = _find_jp_track(jp_dir, i)
+        if jp_track is not None:
             shutil.copy2(jp_track, output_dir / f'track{i:02d}.bin')
+            audio_copied += 1
+    if audio_copied == 0:
+        print('  WARNING: no audio tracks (03..22) found in JP dir; '
+              'background music will not play')
 
     # Generate CUE sheet matching original JP disc layout, with FILE
     # entries pointing to siblings of the .cue (no subdirectory).
