@@ -1,327 +1,210 @@
-Langrisser III dumper [0x33462 to 0x35407]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General Emerick<$FFFF>
-Torrand's subordinate<$FFFF>
-Baron Torrand<$FFFF>
-Imperial Corporal<$FFFF>
+Emerick <$FFFF>
+General Emerick <$FFFF>
+Torrano's subordinate <$FFFF>
+Baron Torrand <$FFFF>
+Imperial Corporal <$FFFF>
 Civilian<$FFFF>
-Rigüler Commander<$FFFF>
+Riguler Commander <$FFFF>
 Imperial Soldier<$FFFF>
-Rigüler Commander<$FFFF>
--Defeat Emerick<$FFFC>
--Destroy all enemy forces<$FFFC>
--Arrival at the mansion$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of Torrand<$FFFE>
-Baron Torrand's Mansion<$FFFF>
-Is this how the famous strategist fights?<$FFFE>
-No resistance so far...<$FFFC>
-Or is it a trap?<$FFFE>
-Baron!<$FFFE>
-We've been surrounded.<$FFFC>
-First, let the civilians leave...<$FFFE>
-If you wish to evacuate civilians,<$FFFC>
-we won't interfere.<$FFFC>
-The attack will halt during evacuation.<$FFFE>
-You show no signs of treachery.<$FFFC>
-I'm grateful.<$FFFE>
-We've no intent to spill innocent blood.<$FFFE>
-So even today's youth have honor.<$FFFE>
-Begin civilian evacuation.<$FFFE>
-Yessir!<$FFFE>
-Attention all troops!<$FFFC>
-During civilian evacuation, all attacks are forbidden!<$FFFD>
-Unsanctioned aggression is treason!<$FFFE>
-General Emerick!<$FFFE>
-What is it?<$FFFE>
-Larcussian remnants approach from the southern forest.<$FFFE>
-Could it be the unit that fought Geier?<$FFFD>
-Position your troops and handle the mobile unit.<$FFFC>
-Especially if I fail to take the mansion.<$FFFE>
-Understood!<$FFFE>
-Here we are.<$FFFC>
-This road leads to the mansion.<$FFFE>
-We got here faster than expected.<$FFFE>
-Let's meet the Baron and relay Lord Raymond's proposal.<$FFFE>
-...It won't be that simple.<$FFFE>
-The imperials are here!<$FFFE>
-They're so persistent!<$FFFE>
-Then we must hurry!<$FFFE>
-Wait, Sir [diehardt's name].<$FFFC>
-Their numbers seem too few to storm the mansion.<$FFFE>
-I'm sure more enemies lie in wait nearby.<$FFFC>
-The forest would be ideal for an ambush.<$FFFE>
-...I see.<$FFFC>
-Thanks, Luna.<$FFFE>
-Everyone! The imperials likely have an ambush set!<$FFFC>
-Advance carefully!<$FFFE>
-Thank you, Sir [diehardt's name].<$FFFE>
-Also, please just call me Luna.<$FFFE>
-Got it, Luna.<$FFFC>
-Now, let's go aid the Baron!<$FFFE>
-You should escape now.<$FFFE>
-B..But...<$FFFE>
-You'll be fine.<$FFFC>
-The imperial General has honor.<$FFFE>
-While you escape, we won't advance a step.<$FFFC>
-You have my word.<$FFFE>
-Alright.<$FFFC>
-Baron, we will pray for your victory.<$FFFE>
-That will certainly help.<$FFFE>
-General Emerick.<$FFFC>
-Civilian evacuation is complete.<$FFFE>
-Resume the attack!<$FFFE>
-Yessir!<$FFFE>
-What could the countermeasure be...?<$FFFC>
-If I don't think fast, I'll be riddled with arrows.<$FFFE>
-Now, storm the mansion!<$FFFE>
-Affirmative!<$FFFE>
-Now we return the favor!<$FFFE>
-The water's coming in...<$FFFE>
-The gate's closed, water rises; he uses buoyancy to cross...<$FFFE>
-That youth is impressive.<$FFFE>
-A bit more and we'll clear the gate.<$FFFC>
-It's time to claim victory.<$FFFE>
-Yeaahh!<$FFFE>
-Crap!<$FFFC>
-We didn't expect them here.<$FFFD>
-No point hiding now.<$FFFC>
-Can't be helped, charge!<$FFFE>
-Understood!<$FFFE>
-An ambush after all.<$FFFC>
-Without Luna's warning, this could've been bad.<$FFFE>
-Thanks, Luna.<$FFFC>
-You saved us.<$FFFE>
-It was nothing...<$FFFE>
-The enemy has many cavalry units.<$FFFE>
-Cavalry crush infantry easily.<$FFFC>
-Best to send spearmen against them.<$FFFE>
-Strategy?<$FFFC>
-I heard about that, but I was sick that day...<$FFFE>
-Each unit type has strengths and weaknesses...<$FFFD>
-Cavalry beat infantry but lose to spearmen.<$FFFD>
-Spearmen struggle against other infantry.<$FFFE>
-As expected of a genius strategist's daughter.<$FFFC>
-With that info, we can fight smarter.<$FFFE>
-Right.<$FFFC>
-I'll put this to good use...<$FFFE>
-Little by little.<$FFFC>
-Exhaust them gradually.<$FFFE>
-Yessir!<$FFFE>
-Interesting.<$FFFC>
-The Baron shows his wits.<$FFFE>
-You there, close the water gate and stop the river!<$FFFE>
-Yessir!<$FFFC>
-Right away!<$FFFE>
-Wear them down bit by bit...<$FFFC>
-Those who think only brute force wins are fools.<$FFFE>
-Yes!<$FFFE>
-Charge!<$FFFC>
-Take the mansion fast before reinforcements arrive!<$FFFE>
-Understood!<$FFFE>
-Hahahaha!<$FFFC>
-We've got you now!<$FFFC>
-All out Attack!<$FFFE>
-Yessir, as you wish!<$FFFE>
-Curses!<$FFFC>
-Should've heeded Luna's warning...<$FFFD>
-Can't be helped.<$FFFC>
-We'll just have to deal with it.<$FFFE>
-We've made it to safety...<$FFFE>
-Baron.<$FFFC>
-All civilians are safe.<$FFFE>
-Good.<$FFFC>
-Brace for the imperial attack.<$FFFC>
-We'll show them our spirit.<$FFFD>
-Fall back to my position,<$FFFC>
-you're at a disadvantage against their infantry.<$FFFE>
-Yessir!<$FFFE>
-*Huff*...that was scary...<$FFFE>
-Baron Torrand.<$FFFC>
-We're safe now...<$FFFE>
-Baron.<$FFFC>
-All civilians are safe.<$FFFE>
-Good.<$FFFC>
-Brace for the imperial attack.<$FFFC>
-Let's show our fighting spirit.<$FFFD>
-Fall back to my position,<$FFFC>
-you're at a disadvantage against their cavalry.<$FFFE>
-Yessir!<$FFFE>
-Huh!?<$FFFC>
-What is happening!?<$FFFE>
-Your plan worked!<$FFFC>
-The mouse took the bait.<$FFFE>
-Excellent.<$FFFC>
-Take out the trapped commander!<$FFFE>
-Yessir!<$FFFE>
-...Blasted!<$FFFC>
-There must be a way to open it.<$FFFE>
-What now, General?<$FFFE>
-Don't panic.<$FFFC>
-There's surely a counter-measure.<$FFFE>
-The floodgate's closed!<$FFFE>
-Good, resume the assault!<$FFFE>
-Yessir!<$FFFE>
-Using the river and moat,<$FFFC>
-we should get interesting results...<$FFFE>
-?!<$FFFC>
-They broke through our reinforcements?<$FFFC>
-A pincer attack would be dire...<$FFFD>
-You there, knight!<$FFFC>
-You must be their commander.<$FFFC>
-What's your name?<$FFFE>
-Fall back inside the mansion.<$FFFC>
-I'll handle the infantry on our flanks.<$FFFD>
-Spearmen, block the path and take the General if he breaks out!<$FFFE>
-Leave him to us!<$FFFE>
-Good.<$FFFC>
-Don't risk your lives; just hold out till my daughter returns.<$FFFE>
-Amid three trees lies a clearing.<$FFFD>
-A little spirit in the center gazes at you curiously.<$FFFE>
-What do you want to do?<$FFFE>
-Smile<$FFFE>
+Riguler Commander <$FFFF>
+Defeat Emerlink Wipe out the enemy intercept  force Reach the mansion <$FFFE>
+ <$F600><$0000> falls in battle Torland falls in battle <$FFFE>
+Baron Torrano's Mansion <$FFFF>
+ Could this truly be how  the famous strategist  does battle?<$FFFE>
+ Until now, there was no  resistance at all… Or  is this a trap?<$FFFE>
+ Baron!<$FFFE>
+ It seems like we have  been surrounded. First let go those that  shouldn't get involved with the fighting…<$FFFE>
+ If you wish to evacuate  the civilians, we will not interfere with them. During the evacuation  the attack will be halted.<$FFFE>
+ You show no signs of planing something  ignoble. For that you  have my gratitude.<$FFFE>
+ So even some of nowadays youths, have a sense of honor.<$FFFE>
+ Commence the evacuation  of all civilians.<$FFFE>
+ Yessir!<$FFFE>
+ Yes, sir!<$FFFE>
+ I have an announcement for all troops! While the evacuation of the  civilians takes place, all hostile acts are prohibited!<$FFFD>Any unordered acts of  aggression will be judged the same as treason against the  Empire!<$FFFE>
+ General Emerick!<$FFFE>
+ What is it?<$FFFE>
+ Remnants of the  Larcussian army are  approaching from the forest to the south.<$FFFE>
+ Could it be the unit that fought with Geier?<$FFFD>You and your troops  should take positions at the assigned location  and take care of the mobile division. Most  importantly do so, if I should fail to occupy  the mansion.<$FFFE>
+ Understood!<$FFFE>
+ Here we are. This road leads directly to the  mansion.<$FFFE>
+ Let's meet up with the Baron quickly to convey  Lord Raymond's proposal.<$FFFE>
+ …I am afraid it won't be that simple.<$FFFE>
+ Uwa! The imperial troops are here!<$FFFE>
+ Oh my, they sure are persistent!<$FFFE>
+ In that case we must hurry even more!<$FFFE>
+ We have to hurry!<$FFFE>
+ I am certain there are more enemies laying in wait somewhere close. Especially the forest  would be a suitable  terrain for such purposes.<$FFFE>
+ …I see. Thanks for the  warning, Miss Luna.<$FFFE>
+ Everyone! It is to be expected that the  imperials have set up an ambush for us! Advance with utmost caution!<$FFFE>
+ Everyone! Imperial  soldiers could be hiding anywhere! Stay alert and  move carefully!<$FFFE>
+ One more thing, I would appreciate it if you just called me Luna.<$FFFE>
+ Well then, you should  make good your escape  now.<$FFFE>
+ All right, Luna. Come  on, let's help the  baron!<$FFFE>
+ B…But…<$FFFE>
+ B…but…<$FFFE>
+ While you escape we  won't take as much as  another step forward. You have my word.<$FFFE>
+ Alright. Baron, we will pray for your victory.<$FFFE>
+ Understood. Baron, may fortune favor you.<$FFFE>
+ That will certainly  help.<$FFFE>
+ General Emerick. The evacuation of the  civilians seems to be  complete.<$FFFE>
+ Alright, continue the  attack!<$FFFE>
+ Yessir!<$FFFE>
+ Now, what could that countermeasure possibly  be…? If I can't think  of anything fast, I will  be spiked with arrows.<$FFFE>
+ Affirmative!<$FFFE>
+ Now it's up to us to return the favor!<$FFFE>
+ Alright, the water is  entering…<$FFFE>
+The water gate was closed therefore the water level is rising, he tries using buoyancy  to cross over the  gates…<$FFFE>
+ That youth is really something else.<$FFFE>
+ That man is no slouch.<$FFFE>
+ Just a little bit more and we can pass over the gate. It's about time to  claim victory for us.<$FFFE>
+ Yeaahh!<$FFFE>
+Crap! We didn't expect  them to come this way.<$FFFD>There is no use in hiding anymore. It can't  be helped, charge at the enemy!<$FFFE>
+ Yes sir, understood!<$FFFE>
+ Thank you Luna. You really saved us.<$FFFE>
+ Thanks, Luna. You saved me.<$FFFE>
+ The enemy seems to employ many cavalry  units.<$FFFE>
+ Looks like the enemy has a lot of cavalry.<$FFFE>
+ Strategy? I heard something about that before, but I guess I was sick at that lesson…<$FFFE>
+As one would expect of the daughter of a genius strategist's. With those  information we should be able to do battle more effectively.<$FFFE>
+ Each troop type has its  strengths and  weaknesses.<$FFFD>Cavalry is strong  against infantry, but against spearmen it  can't charge and is at a disadvantage.<$FFFD>And against spearmen, nimble infantry can  fight more effectively.<$FFFE>
+ Indeed. I will make sure  to put this knowledge to good use…<$FFFE>
+ Little by little. Let them exhaust their strength gradually.<$FFFE>
+ This is it. Fight with  everything you've got.<$FFFE>
+ Yessir!<$FFFE>
+ Interesting. The Baron shows his wits.<$FFFE>
+ You there, division just outside the castle, close the water gate and stop the flow of the river!<$FFFE>
+ Wear them down little by little… One who thinks  only all out war can lead to victory is gravely mistaken.<$FFFE>
+ So the time has come… Don't let your guard down. This will be a full scale battle.<$FFFE>
+ Yes!<$FFFE>
+ Charge! If we don't take  over the mansion swiftly, enemy reinforcements will show up!<$FFFE>
+ Understood!<$FFFE>
+Hahahaha! We've got you  now! All out Attack!<$FFFE>
+ Yessir, as you wish!<$FFFE>
+Curses! We should've  listened to Luna's warning…<$FFFD>It can't be helped. Now we've got no other choice but to deal with  it.<$FFFE>
+ We've made it to safety…<$FFFE>
+ Baron. All civilians have been evacuated to safety.<$FFFE>
+ Good. Brace yourselves  for the attack of the  imperial troops. We will show them our fighting spirit.<$FFFD>Avoid contact with the enemy and fall back to my position, since you are at a disadvantage  against their advancing  infantry.<$FFFE>
+ Yessir!<$FFFE>
+ <$01E9>Huff<$01E9>…that was scary…<$FFFE>
+ Baron. All civilians have evacuated to  safety.<$FFFE>
+ Baron. All civilians have been evacuated to safety.<$FFFE>
+ Good. Brace yourselves  for the attack of the  imperial troops. Let's show them our fighting spirit.<$FFFD>Avoid contact with the enemy and fall back to my position, since you are at a disadvantage  against their advancing  cavalry.<$FFFE>
+ Yessir!<$FFFE>
+ Your plan was a success! The mouse was caught in  the trap.<$FFFE>
+ So it worked, excellent. Take out the commander while he's trapped!<$FFFE>
+ Everything is going  according to plan. Now press the attack on the  enemy general!<$FFFE>
+ Yessir!<$FFFE>
+ …Blasted! There has to  be some kind of  mechanism to open it.<$FFFE>
+ What are we going to do  now, General?<$FFFE>
+ Don't panic. Undoubtedly there is a counter measure.<$FFFE>
+ Good, resume the assault  on the mansion now!<$FFFE>
+ Yessir!<$FFFE>
+ Yes, sir!<$FFFE>
+ Now, using the river and the moat of this mansion, we should be  getting some interesting results…<$FFFE>
+ ?! The enemy has broken  through our  reinforcements? Being caught in a pincer attack would be  perilous…<$FFFD>You knight there! Surely  you must be their  commander. Tell me, what  your name is?<$FFFE>
+ Fall back to the inner part of the mansion. Let me take care of those  infantry units coming  from our flanks.<$FFFD>Spearmen, block off that  path and take down the enemy General if he  breaks out!<$FFFE>
+ Just leave him to our  care!<$FFFE>
+ Good. Don't do anything to endanger your lives, we just have to hold out until my daughter comes  back.<$FFFE>
+ Surrounded by three  trees there is some  vacant land.<$FFFD>There's a little spirit in the centre, gazing at you with curiosity.<$FFFE>
+Smile <$FFFE>
 Do your signature pose<$FFFE>
 Do nothing<$FFFE>
-The spirit looks bored, yawns, and vanishes...<$FFFE>
-You smile brightly at the spirit.<$FFFD>
-"You're adorable.<$FFFC>
-Here,<$fe><$3c>I'll give you this!"<$FFFE>
-Ring of Lauren was obtained!<$FFFE>
-The spirit looks bored, yawns, and vanishes...<$FFFE>
-A voice speaks from nowhere...<$FFFD>
-"Why have you come?<$FFFC>
-What do you want?"<$FFFE>
-What do you reply?<$FFFE>
-I had nothing special in mind<$FFFE>
-For some reason or another<$FFFE>
-The moment you speak,<$FFFE>
-the voice returns.<$FFFD>
-"Thinking isn't your forte.<$FFFC>
-This should suit you."<$FFFE>
-Devil Axe was obtained!<$FFFE>
-A stupid answer earns the most fitting reward.<$FFFE>
-You try to retort but can't stop laughing...<$FFFE>
-Inspecting the floodgate, a strange object falls off.<$FFFE>
-Talisman of the Holy King was obtained!<$FFFE>
-The mansion was so close...<$FFFE>
-What went wrong!?<$FFFC>
-Such pain!<$FFFE>
-How shameful.<$FFFC>
-I lack the knowledge...<$FFFE>
-You live by the sword and you...<$FFFE>
-It hurts...<$FFFE>
-Oh my?<$FFFC>
-How could my powers fail...<$FFFE>
-Too bad...<$FFFC>
-I was careless...<$FFFE>
-Father!<$FFFE>
-Luna...<$FFFE>
-Dammit!<$FFFC>
-My time has come...<$FFFE>
-Noo!<$FFFE>
-Hold still and it won't hurt much.<$FFFC>
-Take this!<$FFFE>
-Unbelievable...<$FFFC>
-Clever trap; he truly lives up to his name.<$FFFE>
-Uuu!<$FFFE>
-I'll take revenge...one day!<$FFFE>
-Lord Torrand!<$FFFE>
-Forgive me...<$FFFE>
-Help..me...<$FFFE>
-Kyaaa!<$FFFE>
-So the genius strategist title was no lie.<$FFFC>
-But this is just one lost battle of many to come.<$FFFD>
-Tell me the name of the man who thwarted us today!<$FFFE>
-Larcuss lives on!<$FFFE>
-I'm sorry Lord Emerick...<$FFFE>
-Damn!<$FFFC>
-How unpleasant...<$FFFE>
-What absurdity!<$FFFE>
-Uuu!<$FFFE>
-Uwaa!<$FFFE>
-What senseless death...<$FFFE>
-So soon...<$FFFC>
-I go to join my ancestors...<$FFFE>
-Guaa!<$FFFE>
-Th..this is nothing, I can't...<$FFFE>
-So much left undone...<$FFFE>
-Uuu...!<$FFFC>
-My...vision grows dark...<$FFFE>
-Not fair!<$FFFE>
-Arrgh!<$FFFE>
-Why must I die here!?<$FFFE>
-Already, my time has come...<$FFFE>
-Ridiculous!<$FFFE>
-Uuuarrrgg!<$FFFE>
-Long live the Rigüler Empire...<$FFFE>
-!?<$FFFC>
-My intercept unit was crushed!<$FFFC>
-If only I had more time...<$FFFD>
-You there, knight!<$FFFC>
-You must be the commander.<$FFFC>
-What's your name?<$FFFE>
-Crap!<$FFFC>
-Didn't expect them here.<$FFFD>
-No point hiding now.<$FFFC>
-Can't be helped, charge!<$FFFE>
-Understood!<$FFFE>
-An ambush after all.<$FFFC>
-Without Luna's warning, it could've been bad.<$FFFE>
-Thanks, Luna.<$FFFC>
-You saved us.<$FFFE>
-It was nothing...<$FFFE>
-This is the end!<$FFFE>
-Hah...<$FFFC>
-Taste the power of an imperial General.<$FFFD>
-Against me, only defeat awaits!<$FFFE>
-Our spearmen are destroyed...<$FFFE>
-Your hope for victory is gone, Lord Torrand.<$FFFC>
-Further struggle is futile.<$FFFD>
-Prepare yourself!<$FFFE>
-Perhaps.<$FFFC>
-Yet I won't lose hope till this battle ends.<$FFFD>
-To my last breath, I fight!<$FFFE>
-I'm [diehardt's name], Knight of Larcuss.<$FFFE>
-I'll remember that name.<$FFFC>
-I'm Emerick, one of the four imperial generals.<$FFFD>
-I'll retreat for now.<$FFFC>
-But I've a feeling we'll meet on the field of honor again.<$FFFE>
-Sir [diehardt's name]...<$FFFC>
-This mission took too long...<$FFFE>
-I'm sorry...<$FFFC>
-By the way, is Baron Torrand safe?<$FFFE>
-Well done, Sir [diehardt's name].<$FFFE>
-Phew, we fended them off.<$FFFC>
-Is Baron Torrand safe?<$FFFE>
-Phew, we fended them off.<$FFFC>
-Is Baron Torrand safe?<$FFFE>
-Father, are you unhurt?<$FFFE>
-Father, are you unhurt?<$FFFE>
-Yes, Luna.<$FFFC>
-Don't worry about me.<$FFFC>
-But who are they?<$FFFE>
-We come on Lord Raymond's behalf, to restore Larcuss.<$FFFD>
-We need strategist Torrand's aid.<$FFFE>
-Oh, Lord Raymond.<$FFFD>
-Your journey must've been hard.<$FFFC>
-Tell me everything once you've settled in my mansion.<$FFFE>
+ The spirit looks bored, yawns and then vanishes…<$FFFE>
+ Ring of Lauren was obtained!<$FFFE>
+ The spirit laughed merrily and said,<$FFFD>"You're an interesting  one. All right,<$FE3C>take this!"<$FFFE>
+ The spirit looks bored, yawns and then vanishes…<$FFFE>
+ Ring of Lauren was obtained!<$FFFE>
+ Suddenly a voice can be  heard from somewhere around…<$FFFD>"Why have you come here? Just what on earth do  you want?"<$FFFE>
+ What do you reply?<$FFFE>
+For some reason oranother <$FFFE>
+ The moment you spokethose words,<$FFFE>
+ Devil Axe was obtained!<$FFFE>
+ The voice spoke again.<$FFFD>"I never thought you would  notice. Here, take this as your reward."<$FFFE>
+ A stupid answer like this shall be rewarded with the most audible  form of stupidity.<$FFFE>
+ You try to talk back but can't because you're laughing too intense, holding your abdomen…<$FFFE>
+ When you inspect the floodgate, a strange object falls off.<$FFFE>
+ Talisman of the Holy King was obtained!<$FFFE>
+ The mansion was just before our eyes…<$FFFE>
+ With the baron's mansion in sight…<$FFFE>
+ How shameful. After all, I lack knowledge…<$FFFE>
+ Ugh… how pathetic. I still have much to learn…<$FFFE>
+ It hurts…<$FFFE>
+ Ow ow…<$FFFE>
+ Too bad… I was careless…<$FFFE>
+ Tch… So I let my guard down…<$FFFE>
+ Luna…<$FFFE>
+ Noo!<$FFFE>
+ If you hold still it won't hurt that much. Take this!<$FFFE>
+ Nngghhh!<$FFFE>
+ Unbelievable… That was  one clever trap, he  really is as good as they say.<$FFFE>
+ Tch… Don't get clever  with me.<$FFFE>
+ I will take  revenge…one day!<$FFFE>
+ Lord Torrand!<$FFFE>
+ Forgive me…<$FFFE>
+ Help…me…<$FFFE>
+ Kyaaa!<$FFFE>
+ Larcuss lives on!<$FFFE>
+ So there really was a reason they called you a genius strategist. It's  obvious this battle will be lost if we continue.<$FFFD>And if even my rear  guard couldn't stop you, then tell me your name.<$FFFE>
+ I am sorry Lord  Emerick…<$FFFE>
+ What absurdity!<$FFFE>
+ Tch! This is bad… at  this rate…<$FFFE>
+ Uuu!<$FFFE>
+ Uwaa!<$FFFE>
+ What senseless death…<$FFFE>
+ Guaa!<$FFFE>
+ N Not yet… I won't lose to the likes of you…<$FFFE>
+ Th…this is nothing, I can't die like…<$FFFE>
+ There was so much I wanted to do…<$FFFE>
+ Not fair!<$FFFE>
+ Ugh… My vision is  fading…<$FFFE>
+ Arrgh!<$FFFE>
+ Why do I have to die like this!?<$FFFE>
+ Already, my time has come…<$FFFE>
+ Ridiculous!<$FFFE>
+ Uuuarrrgg!<$FFFE>
+ Long live the Riguler  Empire…<$FFFE>
+ Long live the Ligurian Empire…<$FFFE>
+ !? The unit I send out to intercept them was  crushed! Dang, if only I had more time…<$FFFD>You knight there! Surely  you are their commander. What is your name?<$FFFE>
+Crap! We didn't expect  them to come this way.<$FFFD>There is no use in hiding anymore. It can't  be helped, charge at the enemy!<$FFFE>
+ Yes sir, understood!<$FFFE>
+ Thank you Luna. You really saved us.<$FFFE>
+ Thanks, Luna. You saved me.<$FFFE>
+ This is the end of your  road!<$FFFE>
+ So our spearmen have been totally destroyed…<$FFFE>
+ Your only hope for victory is no more, Lord  Torrand. Your ongoing  struggle is in vain.<$FFFD>Prepare yourself!<$FFFE>
+ The spear unit was wiped out…?<$FFFE>
+ You might be right. And yet I won't let down hope until this battle is concluded.<$FFFD>To my last moment, I will keep on fighting!<$FFFE>
+ Not yet. I haven't given up hope.<$FFFD>We fight with everything we have until the bitter end!<$FFFE>
+ I am <$F600><$0000>, Knight of Larcuss.<$FFFE>
+I shall memorize that  name. I am Emerick of the four imperial  generals.<$FFFD>For the moment I will  retreat. However, I've  got a feeling that we  will meet on the field of honor again.<$FFFE>
+ I am sorry… By the  way, is Baron Torrand  safe?<$FFFE>
+ I am sorry. By the way, is Baron Torland safe?<$FFFE>
+ You did commendable, Sir <$F600><$0000>.<$FFFE>
+ Phew, somehow we managed  to fend them off. But most importantly, is  Barron Torrand safe?<$FFFE>
+ Phew, somehow we managed  to fend them off. But most importantly, is  Barron Torrand safe?<$FFFE>
+ Father, are you unhurt?<$FFFE>
+ Father, are you unhurt?<$FFFE>
+ Yes, Luna. There's no  need to worry about me. But who are those  people?<$FFFE>
+ We are here at the behest of Lord Raymond, who is currently making  an effort to restore Larcuss.<$FFFD>We came to borrow the  power of the famous  master strategist  Torrand for the said cause.<$FFFE>
+ Oh, lord Raymond you  say.<$FFFD>Your journey must have been long and arduous. Tell me all the details  after you made yourself  at home in my mansion.<$FFFE>

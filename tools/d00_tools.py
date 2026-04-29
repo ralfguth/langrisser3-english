@@ -326,6 +326,15 @@ def build_text_area(entry_bytes_list: list) -> bytes | None:
     for entry in entry_bytes_list:
         result += entry
 
+    # Pad to 4-byte alignment: Saturn loads data after the text block and
+    # misaligned lengths shift subsequent sprite data by 2 bytes, causing
+    # on-screen corruption (discovered by VermilionDesserts).
+    remainder = len(result) % 4
+    if remainder:
+        result += b'\x00' * (4 - remainder)
+        # Update total_size to reflect padding
+        struct.pack_into('>I', result, 0, len(result))
+
     return bytes(result)
 
 

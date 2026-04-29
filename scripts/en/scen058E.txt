@@ -1,36 +1,26 @@
-Langrisser III dumper [0x227696 to 0x2278ef]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-<$FFFC>
-Scenario ~ 09<$FFFC>
-"Shaman Attack"<$FFFE>
-Sophia, Warden of the Southern Gate, has been taken away<$FFFC>
-by the Shika Tribe. Moreover, it is said that she will be used<$FFFC>
-as the sacrifice in a ceremony.<$FFFE>
-As it stands, not only can she not reinstate the Gate, but her<$FFFC>
-own life is in danger. The party has set foot in the mountain<$FFFC>
-region, but have seen no signs of life in the vicinity of the<$FFFC>
-Shika Tribe's headquarters.<$FFFE>
-*Condition for Victory<$FFFC>
- -Complete annihilation of enemies<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
+Emerick <$FFFF>
+ Scenario <$0236> 09 "Shaman Attack"<$FFFE>
+ Sophia, keeper of the southern gate, had been  abducted by the Shika tribe. Worse, they meant  to use her as a sacrifice in a ritual.<$FFFE>
+ At this rate, not only  would they fail to restore the gate, her life itself was in danger. The party set foot in the desolate mountains, heading for the Shika tribe's stronghold.<$FFFE>
+ <$01E9>Condition for Victory  Complete annihilation of enemies <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE>

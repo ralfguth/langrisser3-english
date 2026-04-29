@@ -1,51 +1,37 @@
-Langrisser III dumper [0x2edef0 to 0x2ee367]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-King Sieghart<$FFFF>
-<$FFFC>
-Scenario ~ 25<$FFFC>
-"Light Over Shadow"<$FFFE>
-The great sorceress Jessica has said that as things stand<$FFFC>
-now, the Haja no Ken can't defeat the evil blade held<$FFFC>
-by the demons, the Alhazard.<$FFFE>
-Several elements are needed to increase the power of the<$FFFC>
-Haja no Ken.  One ingredient is the presence of Olver.  So,<$FFFC>
-[diehardt's name] and company have journeyed out to meet Olver.<$FFFC><$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of all enemies<$FFFE>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of Olver<$FFFE>
-Plains on the way to the Center of the Lushiris Gate<$FFFF>
-We'll arrive at the center of the Gate soon.<$FFFD>
-My son and his companions are probably meeting that person needed to strengthen the Haja no Ken about now.<$FFFD>
-Speaking of which, what in the world is this secret you mentioned?<$FFFE>
-.......<$FFFD>
-To strengthen the Haja no Ken,<$FFFC>
-one additional thing is absolutely necessary.<$FFFE>
-Well in that case, we can send out another brigade of troops soon enough.<$FFFD>
-So, where should we send them?<$FFFE>
-No, we don't need to go off seeking this component.<$FFFE>
-What do you mean?<$FFFE>
-..........<$FFFE>
-....King Sieghart.<$FFFE>
-Are you willing to give your life for the sake of this world?<$FFFE>
+Emerick <$FFFF>
+King Sieghart <$FFFF>
+ Scenario <$0236> 25 "Light  Over Shadow"<$FFFE>
+ The great sorceress  Jessica said that the  Sword of Evil's Bane in its current state could  not stand against  Alhazard, the demon sword wielded by the fiends.<$FFFE>
+ Several elements are needed to increase the power of the Haja no Ken. One ingredient is the presence of Olver. So, <$F600><$0000> and company have journeyed out to  meet Olver.<$FFFE>
+ <$01E9>Condition for Victory  Defeat of all enemies <$FFFE>
+ <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Olver<$FFFE>
+ Plains on the way to the Center of the Lushiris Gate<$FFFF>
+ We will arrive at the  center of the Gate soon.<$FFFD>My son and his companions are probably  meeting that person  needed to strengthen the Haja no Ken about now.<$FFFD>Speaking of which, what  in the world is this secret you mentioned?<$FFFE>
+ …<$FFFD>To strengthen the Haja no Ken, one additional  thing is absolutely  necessary.<$FFFE>
+ Well in that case, we  can send out another brigade of troops soon enough.<$FFFD>So, where should we send  them?<$FFFE>
+ No, we don't need to go off seeking this component.<$FFFE>
+ What do you mean?<$FFFE>
+…<$FFFE>
+ …King Sieghart.<$FFFE>
+ Are you willing to give  your life for the sake of this world?<$FFFE>

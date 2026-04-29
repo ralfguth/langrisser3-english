@@ -1,82 +1,65 @@
-Langrisser III dumper [0x2a4d28 to 0x2a53fb]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General Geier<$FFFF>
+Emerick <$FFFF>
+General Geier <$FFFF>
 Field Marshal Altemuller<$FFFF>
-Rigüler Commander<$FFFF>
-General Emerick<$FFFF>
+Riguler Commander <$FFFF>
+General Emerick <$FFFF>
 General Varna<$FFFF>
 The Captured Airship<$FFFF>
-With this we should be able to rescue Lewin's father, no?<$FFFE>
-Yes.<$FFFB>
-<$FFFC>
-But......<$FFFE>
-Cheer up!<$FFFC>
-I'm sure we'll make it in time!<$FFFE>
-I'm afraid our foes might have other airships around.<$FFFD>
-Imperial soldiers will seek to strike at us from the skies as we approach.<$FFFE>
-Lewin......<$FFFE>
-What do you say?<$FFFE>
-Leave it to me!<$FFFE>
-It'll all turn out alright.<$FFFE>
-All we can do is to give it our best.<$FFFE>
-Leave it to me!<$FFFC>
-I'm sure we'll be able to save Lord Raymond.<$FFFE>
-....Sure.....<$FFFE>
-I understand how you're feeling all too well.<$FFFD>
-But, it will all turn out alright.<$FFFC>
-Trust in us all.<$FFFC>
-I promise we'll manage to save Lord Raymond!<$FFFE>
-Everyone,<$FFFC>
-...Thanks so much.<$FFFE>
-You shouldn't give up until we've at least given it a shot.<$FFFE>
-................<$FFFE>
-Get ready to launch!<$FFFE>
-Alright!  Let's get a move on!<$FFFD>
-It's time to rescue Lord Raymond!!<$FFFE>
-Former Larcussia Royal Castle ~ Presently Imperial Headquarters<$FFFF>
-It's past time to have escorted Lord Raymond to the Imperial capitol.<$FFFC>
-Why don't we return there tomorrow evening.....<$FFFE>
-I'll consider it.<$FFFE>
-Excuse me, I have a report.<$FFFD>
-At the conclusion of General Bortz's clash with those Larcussian forces, his army was annihilated!<$FFFE>
-Impossible!<$FFFE>
-What about Bortz?<$FFFE>
-.......While his troops escaped via airships, he stayed and died an honorable death......<$FFFE>
-General Bortz.......<$FFFE>
-....You've done well.<$FFFC>
-Please, leave us now.<$FFFE>
-Yessir!<$FFFE>
-So he became a human shield for his troops, eh.<$FFFC>
-He stayed true to form even up to his death.<$FFFE>
-.....We've lost a truly valuable man.<$FFFE>
-Your Excellency Altemuller.<$FFFC>
-What shall we do?<$FFFE>
-That company's morale is high now, and they will likely head here soon.<$FFFE>
-......Hmmm.<$FFFE>
-Geier!<$FFFC>
-Take the aerial fortress and return to the Imperial capitol.<$FFFE>
-They will probably have some use for you there.<$FFFE>
-Yes, sir!<$FFFE>
-So that group has defeated Bortz.<$FFFC>
-We can no longer afford to treat them lightly.<$FFFE>
-Muster all our forces and crush them.<$FFFE>
+ With this we should be able to rescue Lewin's father, no?<$FFFE>
+ Yes.<$FFFB>But…<$FFFE>
+ Cheer up! I am sure we  will make it in time!<$FFFE>
+ I am afraid our foes might have other airships around.<$FFFD>Imperial soldiers will seek to strike at us from the skies as we approach.<$FFFE>
+ Lewin…<$FFFE>
+ What do you say?<$FFFE>
+ Leave it to me!<$FFFE>
+ It will all turn out alright.<$FFFE>
+ All we can do is to giveit our best.<$FFFE>
+ Leave it to me! I am sure we will be able to  save Lord Raymond.<$FFFE>
+ …Sure…<$FFFE>
+ I understand how you're  feeling all too well.<$FFFD>But, it will all turn  out alright. Trust in us all. I promise we will manage to save Lord  Raymond!<$FFFE>
+ Everyone, …Thanks so  much.<$FFFE>
+ You shouldn't give up until we've at least given it a shot.<$FFFE>
+…<$FFFE>
+ Get ready to launch!<$FFFE>
+ Alright! Let's get a move on!<$FFFD>It's time to rescue Lord Raymond!!<$FFFE>
+Former Larcussia Royal Castle <$0236> Presently Imperial Headquarters <$FFFF>
+ It's past time to have escorted Lord Raymond to the Imperial capitol. Why don't we return  there tomorrow evening…<$FFFE>
+ I will consider it.<$FFFE>
+ Excuse me, I have a report.<$FFFD>At the conclusion of General Bortz's clash with those Larcussian  forces, his army was  annihilated!<$FFFE>
+ Impossible!<$FFFE>
+ What about Bortz?<$FFFE>
+ …While his troops escaped via airships, he  stayed and died an honorable death…<$FFFE>
+ General Bortz…<$FFFE>
+ …You've done well. Please, leave us now.<$FFFE>
+ Yessir!<$FFFE>
+ So he became a human shield for his troops, eh. He stayed true to form even up to his  death.<$FFFE>
+ …We've lost a truly valuable man.<$FFFE>
+ Your Excellency  Altemuller. What shall  we do?<$FFFE>
+ That company's morale is high now, and they will likely head here soon.<$FFFE>
+ …Hmmm.<$FFFE>
+ Geier! Take the aerial fortress and return to the Imperial capitol.<$FFFE>
+ They will probably have  some use for you there.<$FFFE>
+ Yes, sir!<$FFFE>
+ So that group has  defeated Bortz. We can  no longer afford to  treat them lightly.<$FFFE>
+ Muster all our forces  and crush them.<$FFFE>

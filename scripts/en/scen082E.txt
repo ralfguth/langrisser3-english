@@ -1,84 +1,53 @@
-Langrisser III dumper [0x2b3fb8 to 0x2b46ff]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General Emerick<$FFFF>
+Emerick <$FFFF>
+General Emerick <$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
-Supplyline Defense Commander<$FFFF>
-General Geier<$FFFF>
-Rigüler Commander<$FFFF>
-<$FFFC>
-Scenario ~ 21<$FFFC>
-"The Magnificent Capitol, Larcussia"<$FFFE>
-The mobile force rescued Lord Raymond from the<$FFFC>
-Imperial airships and hastened to reinforce<$FFFC>
-Larcussia's decimated troops.<$FFFE>
-They must recapture it to truly restore Larcuss.<$FFFC>
-But wily General Emerick stands in their way.<$FFFE>
-*Condition for Victory<$FFFC>
- -Destruction of all enemies<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-Former Larcussia Castle ~ Imperial HQ<$FFFF>
-Your Excellency!<$FFFC>
-That company defeated Raymond's escort.<$FFFE>
-What did you say?<$FFFE>
-.....I see.<$FFFB>
-<$FFFC>
-They captured an airship after defeating Bortz.<$FFFE>
-They'll likely head here soon.<$FFFD>
-What do you think?<$FFFE>
-They won't use the airship to come here.<$FFFC>
-Our airship fleet would give them no chance.<$FFFE>
-So, by land.....<$FFFE>
-Indeed.<$FFFB>
-<$FFFC>
-Head out, Emerick.<$FFFD>
-Until Geier returns with the aerial fortress, no reinforcements.<$FFFC>
-Delay their attack as much as you can!<$FFFE>
-Sir!<$FFFC>
-It shall be as you command.<$FFFE>
-Rigüler Empire ~ Supply Base<$FFFF>
-W..why......we.....<$FFFE>
-Hmmph.<$FFFC>
-Show no mercy.<$FFFE>
-.....Lord Geier.<$FFFC>
-Please, tell us why we're killing our own comrades.<$FFFD>
-We just can't agree.<$FFFE>
-You'll all be rewarded for your part.<$FFFE>
-That's not what we want, give us an explanation!<$FFFC>
-Rewards mean nothing to us...<$FFFE>
-So you've said.<$FFFC>
-You must not question everything.<$FFFD>
-..Spirits of Flame, creator of ten thousand dharmas.<$FFFC>
-Obey our pact, and gather unto me.<$FFFC>
-Immolate in flame all those I designate.....<$FFFE>
-I..it can't be!<$FFFB>
-<$FFFC>
-G..general!?<$FFFE>
-....Burn everything.<$FFFC>
-Agnis Egdolans.......<$FFFD>
-Now, accept your "reward"!<$FFFE>
-Guwaaaaaaaa!<$FFFE>
-Guhaa!  Wh.......Gene....Gei.......<$FFFE>
-Hohoho,<$FFFD>
-...Like I'd leave anyone alive who knew.<$FFFE>
+Supplyline Defense Commander <$FFFF>
+General Geier <$FFFF>
+Riguler Commander <$FFFF>
+ Scenario <$0236> 21 "The  Magnificent Capitol, Larcussia"<$FFFE>
+ After rescuing Lord  Raymond from the Imperial airship that  had been transporting  him, the separate force  advanced on the royal  capital, Larkasia, in  place of the annihilated main army.<$FFFE>
+ Unless this place was  retaken, they could not  truly claim to have  restored the Kingdom of  Larcus. But Emerlink, the Empire's brilliant tactician, stood in  their way.<$FFFE>
+ <$01E9>Condition for Victory  Destruction of all enemies <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE>
+Former Larcussia Royal Castle <$0236> Currently Imperial Headquarters <$FFFF>
+ Your Excellency! That  company has defeated the escort for Lord Raymond.<$FFFE>
+ What did you say?<$FFFE>
+ …I see.<$FFFB>So they even captured an airship after they defeated Bortz.<$FFFE>
+ At this rate, they will probably head here soon.<$FFFD>What do you think?<$FFFE>
+ They won't use the airship to come here. Because of our encircling airship fleet, they'd be at a disadvantage.<$FFFE>
+ So, by land…<$FFFE>
+ Indeed.<$FFFB>Head out, Emerick.<$FFFD>Until Geier returns with the aerial fortress, we  won't have any further reinforcements. Delay their attack as much as  you can!<$FFFE>
+ Sir! It shall be as you  command.<$FFFE>
+Riguler Empire <$0236> Supply  Base for Larcussia<$FFFF>
+ W…why…we…<$FFFE>
+ Hmmph. Show no mercy.<$FFFE>
+ …Lord Geier. Please, tell us why we're  annihilating our comrades in the supply defense corps.<$FFFD>As things stand, we just can't agree.<$FFFE>
+ You all will be duly rewarded for your part in this stratagem.<$FFFE>
+That's not what we wish, please give us an  explanation! To us, things like rewards…<$FFFE>
+ So you've said. You all must not accept  everything without question.<$FFFD>…Oh Spirits of Flame, creator of the ten thousand dharmas. Obey  our pact, and gather  unto me. Immolate in flame all those I designate…<$FFFE>
+ I…it can't be!<$FFFB>G…general!?<$FFFE>
+ …Burn everything. Agnis Egdolans…<$FFFD>Now, accept your "reward"!<$FFFE>
+ Guwaaaaaaaa!<$FFFE>
+ Guhaa! Wh…Gene…Gei… …<$FFFE>
+ Hohoho,<$FFFD>…Like I would really  leave anyone living who  knew of this incident.<$FFFE>

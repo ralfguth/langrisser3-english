@@ -1,91 +1,67 @@
-Langrisser III dumper [0x2ae5d4 to 0x2aef8f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Viscount Raymond<$FFFF>
-General Geier<$FFFF>
-Imperial First Prince Paul<$FFFF>
+General Geier <$FFFF>
+Imperial First Prince  Paul<$FFFF>
 Captured Airship<$FFFF>
-Father!<$FFFE>
-....Lewin.<$FFFC>
-You've become a fine young man.<$FFFE>
-So I've been saved by my own son, eh.<$FFFE>
-It wasn't me alone.<$FFFC>
-It was thanks to everyone.<$FFFE>
-I suppose so.<$FFFE>
-.....[diehardt's name].<$FFFC>
-You seem well.<$FFFE>
-My troops were wiped out.<$FFFC>
-Forgive me, but the capital's liberation is in your hands.<$FFFE>
-Yes, sir.<$FFFC>
-I've found many fine comrades.<$FFFE>
-We'll see it through.<$FFFE>
-I'm so glad.<$FFFC>
-Please look after Lewin.<$FFFE>
-Milord, you must rest now.<$FFFC>
-Leave the rest to us and rest.<$FFFE>
-Of course, thanks.<$FFFE>
-Everyone, thank you so much.<$FFFD>
-Liffany, [diehardt's name].<$FFFC>
-Now it's our turn to save your parents.<$FFFE>
-Oh, you're right.<$FFFD>
-I hope my parents are safe.<$FFFE>
-Me, too.<$FFFC>
-Let's head to Larcussia right away!<$FFFD>
-....Father, Mother, hold on.<$FFFC>
-We're coming to save you now!<$FFFE>
-Rigüler Imperial Castle ~ Kaiser Kleist's Sickroom<$FFFF>
-So I'll just head home with the aerial fortress.<$FFFE>
-Oho, Your Majesty, Paul.<$FFFE>
-So formal, General Geier.<$FFFC>
-I've something to ask.<$FFFE>
-What might that be?<$FFFE>
-Hmm.<$FFFC>
-I hear you don't think highly of Altemuller...ler.<$FFFE>
-No, I, ah...<$FFFE>
-No need to hide it.<$FFFC>
-Truth is, I hate that bastard too.<$FFFE>
-My father won't last much longer.<$FFFE>
-When he dies, I'll be Kaiser.....<$FFFC>
-And the new Field Marshal should be you, Geier.<$FFFE>
-Me!?<$FFFE>
-But we need an excuse to remove Altemuller...ler.<$FFFE>
-If he fails defending the capital, his credibility crumbles.<$FFFE>
-So, what do you think?<$FFFC>
-Can you find a reason to ground the fortress?<$FFFE>
-You want me not to return with the fortress?<$FFFE>
-Exactly.<$FFFC>
-With the fortress, we can retake the capital anytime.<$FFFE>
-You reclaim Larcussia after he loses it, using the fortress.<$FFFE>
-He's dismissed, you're promoted.<$FFFC>
-Like it?<$FFFE>
-....Your Majesty may underestimate that brat.<$FFFC>
-Even without the fortress, he can likely hold the capitol.<$FFFE>
-What!<$FFFC>
-Then what do you suggest....<$FFFE>
-.....Cut his supply line. No commander fights without provisions.....<$FFFE>
-In that case, halt his supply line!<$FFFE>
-But, I have no excuse to stop it.<$FFFE>
-...If bandits attacked the escorts, the supply line stops.<$FFFE>
-Ohh!<$FFFC>
-Ohh!!<$FFFE>
-Then leave the fortress to me!<$FFFC>
-Damage it enough and it can't fly.<$FFFE>
+ Father!<$FFFE>
+ …Lewin. You've become quite a wondrous young man.<$FFFE>
+ So I've been saved by my own son, eh.<$FFFE>
+ It wasn't me alone. We  only succeeded because of everyone's aid…<$FFFE>
+ I suppose so.<$FFFE>
+ …<$F600><$0000>. It looks  like you're doing well.<$FFFE>
+ My own troops were pretty much annihilated. I feel guilty, but I would like to entrust  the liberation of the  royal capital to you all.<$FFFE>
+ Yes, sir. I've been joined by many inspirational comrades.<$FFFE>
+ We will do whatever we can to pull through and  finish this, now that  it's down to us.<$FFFE>
+ I am so glad. I will  trust you to look after  Lewin from here on.<$FFFE>
+ Milord Viscount, you're  pushing your body too  much. Please leave the  rest to us, and rest up.<$FFFE>
+ Of course, thanks.<$FFFE>
+ Everyone, thank you so  much.<$FFFD>Liffany, <$F600><$0000>. Now, it's our turn to save  your parents.<$FFFE>
+ Oh, you're right.<$FFFD>I sure hope my father  and mother are safe and  sound.<$FFFE>
+ Me, too. Let's head to Larcussia right away!<$FFFD>…Father, Mother, please hold on a little  longer. We're coming to  save you now!<$FFFE>
+Riguler Imperial Castle  <$0236> Kaiser Kleist's Sickroom<$FFFF>
+ So, after this I will just be heading home with the aerial  fortress, eh.<$FFFE>
+ Oho, Your Majesty, Paul.<$FFFE>
+ So proper to use such a distant greeting, General Geier. I've  something I would like to ask you.<$FFFE>
+ Well, what matter might that be?<$FFFE>
+ Hmm. From what I've  heard, you don't seem to hold Altemuller in the highest regard.<$FFFE>
+ No, I, ah…<$FFFE>
+ There's no need to hide your feelings on this. The fact of the matter is, I hate that bastard as well.<$FFFE>
+ And my father won't last much longer with his illness.<$FFFE>
+ When he succumbs, I will  become Kaiser… When  that time comes, I think the one who should hold  the office of Field  Marshal is you, Geier.<$FFFE>
+ Me!?<$FFFE>
+ But, to do that, we must come across some excuse  to remove Altemuller from his post.<$FFFE>
+ If he should make some mistake in his current defense of the Royal capitol, it would  undermine his  credibility.<$FFFE>
+ So, what do you think? Is there any reason you  can come up with for discontinuing the use of the aerial fortress?<$FFFE>
+ So you're saying that  you would prefer for me  not to return with the aerial fortress?<$FFFE>
+ Exactly. With the might  of the aerial fortress, we can retake the royal  capital at any time.<$FFFE>
+ You can then reclaim the city of Larcussia after  that bastard loses it, using the aerial fortress.<$FFFE>
+ He will be dismissed, and you will be promoted. Like that strategy?<$FFFE>
+ …I think Your Majesty might be underestimating that brat's power. Even  without the fortress, he  will probably still be able to hold the royal capitol.<$FFFE>
+ What! If that's true, what would you recommend…<$FFFE>
+ …Well, if his supply line were severed, he  won't be able to sustain his side of the battle no matter how great a commander he is…<$FFFE>
+ In that case, halt his  supply line!<$FFFE>
+ But, I have no excuse to stop it.<$FFFE>
+ …Nonetheless, if the  supply line defenders  were annihilated by  troops disguised as  bandits, wouldn't that work to stop the supply  line?<$FFFE>
+ Ohh! Ohh!!<$FFFE>
+ In that case, leave the matter of the aerial fortress to me! If it is  damaged enough, it won't  be able to take flight.<$FFFE>

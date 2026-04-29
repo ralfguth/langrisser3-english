@@ -1,88 +1,56 @@
-Langrisser III dumper [0x33f0ae to 0x33f9b3]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rag<$FFFF>
-Rag<$FFFF>
- <$FFFC>
-Scenario ~ 32<$FFFC>
-"The Insanity of King Wilder" <$FFFE>
-Thanks to [diehardt's name]'s wholeheartedly attempt,<$FFFC>
-Freya was convinced to put down arms.<$FFFC>
-Together they set out to cure King Wilder of <$FFFC>
-his madness.<$FFFE>
-[diehardt's name] attempt to<$FFFC>
-persuade Freya fails.<$FFFC>
-The same loses her life in<$FFFC>
-the ongoing meaningless battle.<$FFFE>
-At last Diehärte's company arrives<$FFFC>
-in the heart of the Barral Kingdom.<$FFFC>
-Here they expect to find out what the<$FFFC>
-cause for King Wilder's insanity really is.<$FFFE>
-* Victory condition<$FFFC>
- -Defeat Wilder<$FFFC>
-* Defeat condition<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-Varna's Grave ~ Near the Velzerian Castle<$FFFF>
-...Varna.<$FFFC>
-The one responsible for your death paid the ultimate price,<$FFFC>
-as did the murderer of my father.<$FFFD>
-Now the Rigüler Empire and Velzeria are my hands.<$FFFC>
-Even so....<$FFFE>
-This sword seems to grow in power with every further battle.<$FFFE>
-Yes, it was created to be this way to accustom the wielder to its power gradually.<$FFFE>
-Lord Altemuller....no, you are my lord Bosel now.<$FFFE>
-Bosel?<$FFFE>
-Yes.<$FFFC>
-Being Bosel the ruler over Velzeria, is the destiny of the wielder of Alhazard.<$FFFE>
-The prince of darkness.<$FFFC>
-So, lastly I became Bosel myself.<$FFFE>
-With Alhazard you wield powers greater than any other, nothing is impossible for you now.<$FFFE>
-...If that is the case, let me try this.<$FFFE>
-Huh!<$FFFE>
-...Altemuller...<$FFFE>
-T..that can't be!<$FFFE>
-So Alhazard can even return the dead to the living.<$FFFE>
-This magnificent power is yours to command.<$FFFC>
-Lord Bosel.<$FFFE>
-But summoning the undead like this...<$FFFE>
-She is not undead.<$FFFC>
-With Bosel's powers flesh can be constructed anew to be a vessel for the soul.<$FFFD>
-She is completely different from the mindless zombies Grove uses.<$FFFD>
-This woman is truly alive once more.<$FFFC>
-Even though binded to the dark magic. Should it fade the flesh will eventually fall back into ruin.<$FFFE>
-...Hmph.<$FFFC>
-Evidently this is a godlike power.<$FFFE>
-I have fully become that women, Varna and right now I'm bursting with sense of pleasure.<$FFFE>
-Let us join in this happiness you made possible.<$FFFE>
-Ah...<$FFFE>
-...Varna.<$FFFC>
-I'm so glad to have you back...<$FFFC>
-To be able to meet with you once again...<$FFFE>
-Altemuller...<$FFFE>
-As the new Bosel there won't be anything left for you to desire,<$FFFC>
-and Alhazard's powers shall never fail you.<$FFFE>
-Now I truly realize.<$FFFC>
-With Alhazard's Power there is no end to my possibilities.<$FFFE>
-The Empire and Velzeria are already in my hands.<$FFFC>
-Wouldn't Elthlead be a suitable next trophy to claim?<$FFFC>
-HahaWahahah!<$FFFE>
-Lord Altemuller...you have changed...<$FFFE>
+Emerick <$FFFF>
+Rag <$FFFF>
+Rag <$FFFF>
+ Scenario <$0236> 32 "The  Insanity of King Wilder"<$FFFE>
+ Thanks to <$F600><$0000>'s wholeheartedly attempt, Freya was convinced to  put down arms. Together  they set out to cure King Wilder of his madness.<$FFFE>
+ <$F600><$0000> attempt to  persuade Freya fails. The same loses her life  in the ongoing meaningless battle.<$FFFE>
+ At last <$F600><$0000>'s company arrives in the heart of the Barral  Kingdom. Here they expect to find out what  the cause for King Wilder's insanity really is.<$FFFE>
+ <$01E9> Victory condition Defeat Wilder <$01E9> Defeat  condition Death of <$F600><$0000><$FFFE>
+Varna's Grave <$0236> Near the  Velzerian Castle<$FFFF>
+ …Varna. The one responsible for your death paid the ultimate  price, as did the  murderer of my father.<$FFFD>Now the Riguler Empire and Velzeria are my  hands. Even so…<$FFFE>
+ This sword seems to grow in power with every  further battle.<$FFFE>
+ Yes, it was created to be this way to accustom the wielder to its power gradually.<$FFFE>
+ Lord Altemuller…no, you are my lord Bozel  now.<$FFFE>
+ Bozel?<$FFFE>
+ Yes. Being Bozel the ruler over Velzeria, is  the destiny of the wielder of Alhazard.<$FFFE>
+ The prince of darkness. So, lastly I became Bozel myself.<$FFFE>
+ With Alhazard you wield  powers greater than any  other, nothing is  impossible for you now.<$FFFE>
+ …If that is the case, let me try this.<$FFFE>
+ Huh!<$FFFE>
+ …Altemuller…<$FFFE>
+ T…that can't be!<$FFFE>
+ So Alhazard can even return the dead to the living.<$FFFE>
+ This magnificent power is yours to command. Lord Bozel.<$FFFE>
+ But summoning the undead like this…<$FFFE>
+ She is not undead. With  Bozel's powers flesh can  be constructed anew to be a vessel for the  soul.<$FFFD>She is completely  different from the mindless zombies Grove uses.<$FFFD>This woman is truly  alive once more. Even  though binded to the dark magic. Should it fade the flesh will  eventually fall back into ruin.<$FFFE>
+ …Hmph. Evidently this  is a godlike power.<$FFFE>
+ I have fully become that women, Varna and right now I am bursting with sense of pleasure.<$FFFE>
+ Let us join in this  happiness you made possible.<$FFFE>
+ Ah…<$FFFE>
+ …Varna. I am so glad  to have you back… To  be able to meet with you once again…<$FFFE>
+ Altemuller…<$FFFE>
+ As the new Bozel there won't be anything left for you to desire, and Alhazard's powers shall  never fail you.<$FFFE>
+ Now I truly realize. With Alhazard's Power  there is no end to my  possibilities.<$FFFE>
+ The Empire and Velzeria are already in my hands. Wouldn't Elthlead be a suitable next trophy to  claim? HahaWahahah!<$FFFE>
+ Lord Altemuller…you  have changed…<$FFFE>

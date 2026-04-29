@@ -1,95 +1,64 @@
-Langrisser III dumper [0x252d66 to 0x253527]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General Bortz<$FFFF>
+Emerick <$FFFF>
+General Bortz <$FFFF>
 Viscount Raymond<$FFFF>
-Rig...er Commander<$FFFF>
-General Geier<$FFFF>
+Riguler Commander <$FFFF>
+General Geier <$FFFF>
 Adjutant Gates<$FFFF>
 Colcia Commander<$FFFF>
 Field Marshal Altemuller<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Ruud<$FFFF>
 Barral Commander<$FFFF>
-<$FFFC>
-Scenario ~ 12<$FFFC>
-"The Wise Sage Fauvel"<$FFFE>
-Now that [diehardt's name] and company have defeated Ferakia,<$FFFC>
-Demon General of Velzeria, their path leads directly to<$FFFC>
-the eastern gate, the providence of Sage Fauvel.<$FFFE>
-But right when the party comes into sight of the eastern<$FFFC>
-gate, the Imperial soldiers begin their invasion.<$FFFE>
-*Condition for Victory<$FFFC>
- -Destroy all enemies in 14 turns<$FFFE>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of Fauvel<$FFFC>
- -Time Up<$FFFE>
-Plains Near the North Gate<$FFFF>
-Bring it on!<$FFFC>
-Don't come near unless you're resigned to death!<$FFFE>
-Isn't that General Bortz!?<$FFFC>
-Don't let him escape - the main enemy force will be here shortly!<$FFFE>
-Don't waste the General's sacrifice!<$FFFC>
-All units, move out!<$FFFC>
-Head the opposite way and break through!<$FFFE>
-All right, if I'm the only one they capture, my plan will have worked.<$FFFC>
-....Now it's all up to me.<$FFFE>
-Hmph,<$FFFC>
-Uoooo!<$FFFE>
-City of Laffel ~ Currently Occupied by Barral<$FFFF>
-Ugh!<$FFFE>
-Gwah!<$FFFE>
-What are those four ships doing!<$FFFB>
-<$FFFC>
-They should have retreated some time ago!<$FFFE>
-Sir, since they were covered with oil, they probably fear to descend any lower because of the threat of those fire arrows!<$FFFE>
-Bah!<$FFFD>
-Eh, why!?<$FFFC>
-Why aren't they attacking!?<$FFFE>
-We ruled the battlefield only up until the point that fiend came....<$FFFD>
-So this is the power of the Dark Knight!<$FFFE>
-Border between Colcia and the Rigüler Empire<$FFFF>
-The Empire currently has their hands full fighting both Barral and the remnants of Larcuss.<$FFFD>
-For now the Empire can't retaliate with their full strength!!<$FFFD>
-Let's go!<$FFFE>
-Here they come!<$FFFC>
-Prepare to defend!<$FFFE>
-They have too few to defend a national border of this size.<$FFFC>
-We can break through with one strike!<$FFFE>
-Nimrods!<$FFFD>
-You imbeciles would recklessly attack the Empire's border when I'm around, would you...<$FFFE>
-Ugh!<$FFFC>
-Him....it can't be!<$FFFE>
-His Excellency, the Field Marshal!<$FFFE>
-Your unclean feet won't be allowed to soil the holy land of the Empire!<$FFFE>
-Blasted!<$FFFC>
-With him leading the army, we're in for a rough time!<$FFFE>
-Lushiris Gate ~ West Gate<$FFFF>
-!?<$FFFB>
-<$FFFC>
-Grrrr....!?<$FFFE>
-.....Gr!!<$FFFE>
-We've finally found it.<$FFFC>
-This is the temple of that guardian beast.<$FFFD>
-All of you, spread out and search the vicinity  of the temple!<$FFFE>
-Yes, sir!<$FFFE>
+ Scenario <$0236> 12 "The Wise Sage Fauvel"<$FFFE>
+ But right when the party comes into sight of the  eastern gate, the Imperial soldiers begin  their invasion.<$FFFE>
+ And what the party saw at the eastern gate was  a force of Imperial  soldiers just about to launch their attack.<$FFFE>
+ <$01E9>Condition for Victory  Destroy all enemies in 14 turns<$FFFE>
+ <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Fauvel Time Up<$FFFE>
+Plains Near the North  Gate<$FFFF>
+ Bring it on! Don't come  near unless you're resigned to death!<$FFFE>
+ Isn't that General Bortz!? Don't let him escape the main enemy  force will be here shortly!<$FFFE>
+ Don't waste the  General's sacrifice! All units, move out! Head  the opposite way and break through!<$FFFE>
+ All right, if I am the only one they capture, my plan will have  worked. …Now it's all up to me.<$FFFE>
+ Hmph, Uoooo!<$FFFE>
+ City of Laffel <$0236> Currently Occupied by  Barral<$FFFF>
+ Ugh!<$FFFE>
+ Gwah!<$FFFE>
+ What are those four  ships doing!<$FFFB>They should have retreated some time ago!<$FFFE>
+ Sir, since they were covered with oil, they  probably fear to descend any lower because of the threat of those fire arrows!<$FFFE>
+ Bah!<$FFFD>Eh, why!? Why aren't  they attacking!?<$FFFE>
+ We ruled the battlefield only up until the point  that fiend came…<$FFFD>So this is the power of  the Dark Knight!<$FFFE>
+Border between Colcia and the Riguler Empire<$FFFF>
+ The Empire currently has their hands full fighting both Barral and the remnants of Larcuss.<$FFFD>For now the Empire can't retaliate with their full strength!!<$FFFD>Let's go!<$FFFE>
+ Here they come! Prepare to defend!<$FFFE>
+ They have too few to defend a national border of this size. We can  break through with one strike!<$FFFE>
+ Nimrods!<$FFFD>You imbeciles would  recklessly attack the  Empire's border when I am around, would you…<$FFFE>
+ Ugh! Him…it can't be!<$FFFE>
+ His Excellency, the Field Marshal!<$FFFE>
+ Your unclean feet won't  be allowed to soil the holy land of the Empire!<$FFFE>
+ Blasted! With him leading the army, we're  in for a rough time!<$FFFE>
+Lushiris Gate <$0236> West  Gate<$FFFF>
+ !?<$FFFB>Grrrr…!?<$FFFE>
+ …Gr!!<$FFFE>
+ We've finally found it. This is the temple of  that guardian beast.<$FFFD>All of you, spread out  and search the vicinity  of the temple!<$FFFE>
+ Yes, sir!<$FFFE>

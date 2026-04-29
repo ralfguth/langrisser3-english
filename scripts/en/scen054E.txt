@@ -1,66 +1,50 @@
-Langrisser III dumper [0x20557a to 0x205c7f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Larcussian Commander<$FFFF>
 Layla<$FFFF>
-<$FFFC>
-Scenario ~ 07<$FFFC>
-"Mountain Pass Reunion"<$FFFE>
-The strategy succeeded, inflaming hostilities between the<$FFFC>
-armies of the Rigüler Empire and Barral Kingdom,<$FFFC>
-which as hoped bought the party enough time to slip by the boarder.<$FFFE>
-[diehardt's name] and company had begun to move to Lushiris Gate,<$FFFC>
-their first destination, passing through the Railym Mountains.<$FFFE>
-But there, a precious yet sorrowful reunion was awaiting [diehardt's name].<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of Freya<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-Highway Leading to the Central Lushiris Gate<$FFFF>
-A messenger from Lord Raymond has arrived.<$FFFE>
-I see, send him in.<$FFFE>
-Miss Layla!?<$FFFE>
-Miss Layla, why are you here?<$FFFE>
-Is me being the wife of a knight not enough of a reason?<$FFFE>
-I get so irritated that I can do nothing, while Gerold remains in Laffel....<$FFFE>
-Miss Layla......Gerold...<$FFFE>
-At least this way I can be of some service to everyone.<$FFFE>
-My heart won't rest until Gerold has returned!<$FFFE>
-.......<$FFFE>
-Anyhow, Lord Raymond has asked that you all work to liberate two of the four gates, the one to the south and to the east.<$FFFD>
-Do you have any questions?.....<$FFFE>
-What are they?<$FFFB>
-<$FFFC>
-I mean, these so-called four gates?<$FFFE>
-My, you don't know about them, Pierre?<$FFFD>
-The four gates are holy gates which power the Lushiris Gate and convey the divine protection of Lady Lushiris to the Kingdom of Larcuss.<$FFFE>
-You mean that in order to renew the Lushiris Gate, we need to liberate these four gates?<$FFFE>
-Exactly.<$FFFD>
-If we don't, it looks like we would risk to be attacked by the demons from Velzeria.<$FFFE>
-And, we certainly have no desire to face yet another opponent.<$FFFD>
-We must do all we can to ward our land against evil and halt the invasions of our blessed land.<$FFFE>
-Indeed.<$FFFE>
-Well then, for now let's go and liberate the southern gate.<$FFFE>
-Inform all our troops!<$FFFB>
-<$FFFC>
-Then, let's get moving!<$FFFE>
-Everyone, please do your best.<$FFFE>
+ Scenario <$0236> 07 "Mountain Pass Reunion"<$FFFE>
+ The strategy succeeded, inflaming hostilities  between the armies of  the Riguler Empire and Barral Kingdom, which as  hoped bought the party enough time to slip by the boarder.<$FFFE>
+ But there, a precious  yet sorrowful reunion  was awaiting <$F600><$0000>.<$FFFE>
+ There, a reunion both  nostalgic and sorrowful  awaited him.<$FFFE>
+ <$01E9>Condition for Victory  Defeat of Freya <$01E9>Condition for Defeat Death of <$F600><$0000><$FFFE>
+Highway Leading to the Central Lushiris Gate <$FFFF>
+ A messenger from Lord  Raymond has arrived.<$FFFE>
+ I see, send him in.<$FFFE>
+ Miss Layla!?<$FFFE>
+ Miss Layla, why are you here?<$FFFE>
+ Is me being the wife of  a knight not enough of a reason?<$FFFE>
+ I get so irritated that  I can do nothing, while Gerold remains in Laffel…<$FFFE>
+ Miss Layla…Gerold…<$FFFE>
+ At least this way I can  be of some service to  everyone.<$FFFE>
+ My heart won't rest  until Gerold has  returned!<$FFFE>
+…<$FFFE>
+ Anyhow, Lord Raymond has  asked that you all work  to liberate two of the four gates, the one to  the south and to the east.<$FFFD>Do you have any  questions?…<$FFFE>
+ What are they?<$FFFB>I mean, these so called four gates?<$FFFE>
+ My, you don't know about  them, Pierre?<$FFFD>The four gates are holy  gates which power the  Lushiris Gate and convey the divine protection of Lady Lushiris to the Kingdom of Larcuss.<$FFFE>
+ You mean that in order to renew the Lushiris  Gate, we need to  liberate these four  gates?<$FFFE>
+ Exactly.<$FFFD>If we don't, it looks  like we would risk to be attacked by the demons from Velzeria.<$FFFE>
+ And, we certainly have no desire to face yet  another opponent.<$FFFD>We must do all we can to ward our land against  evil and halt the  invasions of our blessed land.<$FFFE>
+ Indeed.<$FFFE>
+ Well then, for now let's go and liberate the  southern gate.<$FFFE>
+ Inform all our troops!<$FFFB>Then, let's get moving!<$FFFE>
+ Everyone, please do your  best.<$FFFE>

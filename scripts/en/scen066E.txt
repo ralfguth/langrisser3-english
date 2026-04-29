@@ -1,73 +1,49 @@
-Langrisser III dumper [0x2617e8 to 0x261e33]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Adjutant Gates<$FFFF>
-General Geier<$FFFF>
+General Geier <$FFFF>
 Viscount Raymond<$FFFF>
 Priest<$FFFF>
-<$FFFC>
-Scenario ~ 13<$FFFC>
-"To Hunt a Holy Beast"<$FFFE>
-[diehardt's name]'s force, now joined by Sage Fauvel,<$FFFC>
-Sophia's father and eastern gate warden,<$FFFC>
-heads for the western gate, leaving the northern<$FFFC>
-gate's liberation to Raymond's army.<$FFFE>
-The warden of this gate is not human. But by the time<$FFFC>
-the party arrives, Ruud and the Barral army,<$FFFC>
-on orders from the Dark Knight, have already<$FFFC>
-laid siege to it.<$FFFE>
-*Condition for Victory<$FFFC>
- -Complete annihilation of enemies<$FFFC>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of Jügler<$FFFE>
-City of Laffel - Currently Occupied by Barral<$FFFF>
-Lord Geier!<$FFFC>
-Four ships, now six, now seven shot down!<$FFFC>
-If this keeps up....<$FFFE>
-Grrrrrr......<$FFFC>
-..<$fe><$28>..<$fe><$f>Re<$fe><$f..<$fe><$f>treat<$fe><$f>.....<$FFFE>
-Signal the remaining ships!<$FFFC>
-All units, retreat!<$FFFE>
-Yes, sir!<$FFFE>
-Shit!<$FFFC>
-Damn you, Dark Knight!<$FFFC>
-Try to sink MY ship will you!<$FFFE>
-....I'll remember this day!<$FFFC>
-You'll rue the day you humiliated me, I swear it!<$FFFE>
-Lushiris Gate ~ Northern Gate<$FFFF>
-That general Bortz was quite admirable, despite being our enemy.<$FFFE>
-Indeed.<$FFFD>
-True heroism, facing us alone so his men could escape.<$FFFD>
-I'd welcome a chance to fight him again.<$FFFE>
-....I've opened the gate, but the demon ward hasn't been restored!<$FFFE>
-Isn't that because only three gates have been opened?<$FFFE>
-It must be so.<$FFFD>
-I've received word that [diehardt's name] and company headed to the western gate.<$FFFE>
-Then, how shall we proceed?<$FFFE>
-Hmm.<$FFFE>
-Once Dieharte's group opens the last gate, we should find Lady Jessica so we can finalize the Lushiris Gate renewal.<$FFFE>
-As you wish.<$FFFC>
-I shall go and inform the soldiers.<$FFFE>
-If you will pardon me.<$FFFE>
-Lewin and [diehardt's name] have done more than I thought possible.<$FFFD>
-.....They've become quite a force.<$FFFE>
+ Scenario <$0236> 13 "To Hunt a Holy Beast"<$FFFE>
+ <$F600><$0000> and the separate force, now joined by the sage Farbel, Sophia's father  and keeper of the  eastern gate, headed  west in place of Raymond's force, which was struggling to free the northern gate.<$FFFE>
+ It turns out that the  warden of this gate is not human. However, by  the time the party arrives at the western gate, Ruud and the  Barral army, following the orders of the Dark Knight, have already  laid siege to it.<$FFFE>
+ <$01E9>Condition for Victory  Complete annihilation of enemies <$01E9>Conditions for Defeat Death of  <$F600><$0000> Death of Jugler<$FFFE>
+City of Laffel Currently Occupied by Barral<$FFFF>
+ Lord Geier! Four ships, now six, now seven have  been shot out the sky! If things continue like  this…<$FFFE>
+ Grrrghhh… …<$FE28>…<$FE0F>ret <$FE0F>…<$FE0F>reat<$FE0F>…<$FFFE>
+ Send a message to the  remaining ships! All units are to retreat!<$FFFE>
+ Yes, sir!<$FFFE>
+ Shit! Damn you, Dark  Knight! Try to sink MY ship will you!<$FFFE>
+ …I will remember this day! You will come to rue the day you humiliated me so, I swear it!<$FFFE>
+Lushiris Gate <$0236> Northern  Gate<$FFFF>
+ That general called  Bortz was quite an admirable man, in spite  of being our enemy.<$FFFE>
+ Indeed.<$FFFD>Such true heroism, to  come against us, alone so that his subordinates could escape.<$FFFD>I would welcome a chance to fight against him again somewhere.<$FFFE>
+ …I've opened the gate, but the power to  ward away demons hasn't  been revived!<$FFFE>
+ Oh, is that not because only three of the gates  have been opened?<$FFFE>
+It must be so.<$FFFD>Speaking of which, I've  received a report that <$F600><$0000> and company have headed to the western gate.<$FFFE>
+ Then, how shall we  proceed?<$FFFE>
+ Hmm.<$FFFE>
+ Once <$F600><$0000> and company have opened the  final gate, we should seek Lady Jessica out  again, so we can quickly finalize the renewal of  the Lushiris Gate.<$FFFE>
+ As you wish. I shall go  and inform the soldiers.<$FFFE>
+ If you will pardon me.<$FFFE>
+ Lewin and <$F600><$0000> have  done far more than I had thought possible.<$FFFD>…They've become quite a potent force.<$FFFE> 

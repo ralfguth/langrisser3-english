@@ -1,45 +1,37 @@
-Langrisser III dumper [0x30b334 to 0x30b77b]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Kaiser Paul<$FFFF>
-Rigüler Commander<$FFFF>
-<$FFFC>
-Scenario ~ 28<$FFFC>
-"Demon Defense Force"<$FFFE>
-[diehardt's name] and company have defeated one of<$FFFC>
-the three demon generals, Shapeshiftress Ferakia,<$FFFC>
-and headed on towards Velzeria Castle.<$FFFE>
-However, at the gates of that castle, Necromancer<$FFFC>
-Grove awaits them with a potent defense force.<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of Grove<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-New Kaiser Paul's Coronation Ceremony<$FFFF>
-Alas, my father, Heinrich Kleist IV, fought his illness valiantly, but to our great sorrow, he succumbed.<$FFFE>
-Now that I am Kaiser, in my father's place, I dedicate all my power to the Empire and its citizens!<$FFFE>
-Long live the new Lord Paul!<$FFFE>
-Long live the new Kaiser Paul!<$FFFE>
-I have one more important announcement.<$FFFE>
-It pains me, but I fear someone has poisoned Altemuller, who served the Imperial army with great merit.<$FFFE>
-I think that everyone held him in great esteem.<$FFFE>
-His successor as Field Marshal shall be Geier.<$FFFE>
+Emerick <$FFFF>
+Kaiser Paul <$FFFF>
+Rig uler Commander<$FFFF>
+ Scenario <$0236> 28 "Demon  Defense Force"<$FFFE>
+ After defeating Felakia, the shape shifting one and one of the Three Demon Generals, <$F600><$0000> and the others  finally reached Castle Velzeria.<$FFFE>
+ <$F600><$0000> and company have defeated one of the three demon generals, Feraquea, and headed on towards  Velzeria Castle.<$FFFE>
+ <$01E9>Condition for Victory  Defeat of Grove  <$01E9>Condition for Defeat Death of <$F600><$0000><$FFFE>
+New Kaiser Paul's Coronation Ceremony <$FFFF>
+ Alas, my father, Heinrich Kleist IV, struggled valiantly  against his illness for  a long time, but to our  great sorrow, he finally  succumbed.<$FFFE>
+ However, now that I have become the Kaiser, in my fallen father's place, I dedicate all of my power towards the defense of the Empire and the Empire's citizens!<$FFFE>
+ Long live the new Lord Paul!<$FFFE>
+ Long live the new Kaiser Paul!<$FFFE>
+ Furthermore, I have one  additional important announcement to make.<$FFFE>
+ It pains me to speak of, but I fear that someone  has poisoned Altemuller, who has served in the  Imperial army with great merit up to the present.<$FFFE>
+ I think that everyone  held him in great  esteem.<$FFFE>
+ His successor as Field Marshal shall be Geier.<$FFFE> 

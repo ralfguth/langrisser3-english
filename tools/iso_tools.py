@@ -307,17 +307,143 @@ def patch_file_in_iso(image: bytearray, entry: ISOEntry, new_data: bytes) -> int
         return new_sectors
 
 
+def _make_sector(sector_num: int, user_data: bytes) -> bytearray:
+    """Create a Mode 1/2352 sector with sync, MSF header, user data, EDC/ECC."""
+    sector = bytearray(SECTOR_SIZE)
+    sector[0:12] = b'\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00'
+    abs_sector = sector_num + 150  # 2-second lead-in offset
+    m = abs_sector // (75 * 60)
+    s = (abs_sector // 75) % 60
+    f = abs_sector % 75
+    sector[12] = (m // 10) * 16 + (m % 10)  # BCD
+    sector[13] = (s // 10) * 16 + (s % 10)
+    sector[14] = (f // 10) * 16 + (f % 10)
+    sector[15] = 1  # Mode 1
+    sector[USER_OFFSET:USER_OFFSET + len(user_data)] = user_data
+    rewrite_sector_edc_ecc(sector)
+    return sector
+
+
+def rebuild_iso_inorder(image: bytearray, file_index: dict,
+                        target_path: str, new_data: bytes) -> bytearray:
+    """Rebuild ISO with a larger file in its original position.
+
+    Single-file convenience wrapper around rebuild_iso_batch.
+    """
+    return rebuild_iso_batch(image, file_index, [(target_path, new_data)])
+
+
+def rebuild_iso_batch(image: bytearray, file_index: dict,
+                      patches: list) -> bytearray:
+    """Rebuild ISO applying multiple patches, shifting subsequent files as
+    needed per grown file.
+
+    patches: list of (path, new_data) tuples. Processed in ascending extent
+    order; after each grown file, downstream extents are recomputed and the
+    in-memory file_index is updated.
+
+    For each target:
+      - if new_data <= old sectors: patched in place, no shift
+      - if new_data > old sectors: inserted at original extent, all sectors
+        beyond it shifted +delta, MSF headers rewritten, dir records updated
+
+    This works because (per audit): no SH-2 binary in Langrisser 3 has
+    hardcoded file LBAs. All file access is via ISO9660 directory lookup,
+    so updating dir records is sufficient.
+
+    Returns a new image bytearray.
+    """
+    result = bytearray(image)
+    # Working copy of file_index we mutate as shifts accumulate
+    work_index = {p: ISOEntry(e.path, e.extent, e.size, e.is_dir, e.record_offset)
+                  for p, e in file_index.items()}
+
+    # Sort targets by current (possibly-shifted) extent ascending
+    def current_extent(path):
+        return work_index[path].extent
+
+    pending = sorted(patches, key=lambda p: current_extent(p[0]))
+    total_delta = 0
+    shifted_total = 0
+
+    for target_path, new_data in pending:
+        target = work_index[target_path]
+        old_sectors = math.ceil(target.size / USER_SIZE)
+        new_sectors = math.ceil(len(new_data) / USER_SIZE)
+        delta = new_sectors - old_sectors
+
+        if delta <= 0:
+            # Fits in place
+            write_file_data(result, target.extent, new_data, target.size)
+            update_dir_record_size(result, target.record_offset, len(new_data))
+            target.size = len(new_data)
+            continue
+
+        shift_start = target.extent + old_sectors
+        total_old_sectors = len(result) // SECTOR_SIZE
+
+        # Rebuild: keep sectors [0..target.extent-1], write new data at
+        # target.extent, then shift sectors [shift_start..end] by +delta
+        prefix = bytes(result[:target.extent * SECTOR_SIZE])
+        new_result = bytearray(prefix)
+
+        for s in range(new_sectors):
+            chunk_start = s * USER_SIZE
+            chunk_end = min(chunk_start + USER_SIZE, len(new_data))
+            new_result.extend(_make_sector(
+                target.extent + s, new_data[chunk_start:chunk_end]))
+
+        for old_idx in range(shift_start, total_old_sectors):
+            old_start = old_idx * SECTOR_SIZE
+            sector = bytearray(result[old_start:old_start + SECTOR_SIZE])
+            new_idx = old_idx + delta
+            abs_sector = new_idx + 150
+            m = abs_sector // (75 * 60)
+            s = (abs_sector // 75) % 60
+            f = abs_sector % 75
+            sector[12] = (m // 10) * 16 + (m % 10)
+            sector[13] = (s // 10) * 16 + (s % 10)
+            sector[14] = (f // 10) * 16 + (f % 10)
+            rewrite_sector_edc_ecc(sector)
+            new_result.extend(sector)
+
+        # Update target dir record: size only (extent unchanged)
+        update_dir_record_size(new_result, target.record_offset, len(new_data))
+        target.size = len(new_data)
+
+        # All entries with extent >= shift_start: shift +delta.
+        # Includes Track 2 ADPCM dir records (Track 1/2 LBA coupling).
+        shifted = 0
+        for path, entry in work_index.items():
+            if entry.extent >= shift_start:
+                entry.extent += delta
+                update_dir_record_extent(
+                    new_result, entry.record_offset, entry.extent, entry.size)
+                shifted += 1
+
+        result = new_result
+        total_delta += delta
+        shifted_total += shifted
+        print(f'  +{delta}s shift for {target_path}: '
+              f'{shifted} entries repointed')
+
+    if total_delta:
+        print(f'  ISO rebuild batch: +{total_delta} total sectors, '
+              f'{shifted_total} cumulative entry updates')
+    return result
+
+
 def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> None:
     """Assemble final CD image: patched track01 + audio tracks from JP source."""
     output_dir = output_cue.parent
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    tracks_dir = output_dir / 'tracks'
-    tracks_dir.mkdir(exist_ok=True)
-
-    # Copy patched track 01 (skip if already in place)
+    # Flat layout (cue + all track*.bin in same directory). Beetle Saturn
+    # (libretro) does not follow subdirectories in cue FILE entries, so
+    # keeping everything sibling-level is what works across Ymir, Mednafen,
+    # SSF, Yabause and Beetle Saturn alike.
     import shutil
-    dst_track01 = tracks_dir / 'track01.bin'
+    dst_track01 = output_dir / 'track01.bin'
     if track01_path.resolve() != dst_track01.resolve():
         shutil.copy2(track01_path, dst_track01)
 
@@ -325,28 +451,24 @@ def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> Non
     for i in range(2, 23):
         jp_track = jp_dir / f'Langrisser III (Japan) (3M) (Track {i:02d}).bin'
         if jp_track.exists():
-            shutil.copy2(jp_track, tracks_dir / f'track{i:02d}.bin')
+            shutil.copy2(jp_track, output_dir / f'track{i:02d}.bin')
 
-    # Generate CUE sheet matching original JP disc layout
-    cue_lines = []
-    cue_lines.append('CATALOG 0000000000000')
-
-    # Track 01: MODE1/2352, INDEX 01 only (no INDEX 00, no pregap)
-    cue_lines.append('FILE "tracks/track01.bin" BINARY')
+    # Generate CUE sheet matching original JP disc layout, with FILE
+    # entries pointing to siblings of the .cue (no subdirectory).
+    cue_lines = ['CATALOG 0000000000000']
+    cue_lines.append('FILE "track01.bin" BINARY')
     cue_lines.append('  TRACK 01 MODE1/2352')
     cue_lines.append('    INDEX 01 00:00:00')
 
-    # Track 02: MODE2/2352 with INDEX 00 and INDEX 01
-    if (tracks_dir / 'track02.bin').exists():
-        cue_lines.append('FILE "tracks/track02.bin" BINARY')
+    if (output_dir / 'track02.bin').exists():
+        cue_lines.append('FILE "track02.bin" BINARY')
         cue_lines.append('  TRACK 02 MODE2/2352')
         cue_lines.append('    INDEX 00 00:00:00')
         cue_lines.append('    INDEX 01 00:03:00')
 
-    # Tracks 03-22: AUDIO with INDEX 00 and INDEX 01
     for i in range(3, 23):
-        if (tracks_dir / f'track{i:02d}.bin').exists():
-            cue_lines.append(f'FILE "tracks/track{i:02d}.bin" BINARY')
+        if (output_dir / f'track{i:02d}.bin').exists():
+            cue_lines.append(f'FILE "track{i:02d}.bin" BINARY')
             cue_lines.append(f'  TRACK {i:02d} AUDIO')
             cue_lines.append('    INDEX 00 00:00:00')
             cue_lines.append('    INDEX 01 00:02:00')

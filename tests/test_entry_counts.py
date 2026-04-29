@@ -28,78 +28,35 @@ from d00_tools import parse_d00, parse_script_file
 # Each entry is scen_num -> (expected_en_count, expected_jp_count).
 # Remove an entry only after the underlying file is fixed to match JP.
 ENTRY_COUNT_XFAIL: dict[int, tuple[int, int]] = {
-    3: (222, 226),
-    4: (174, 179),
+    4: (175, 179),
     5: (238, 250),
-    6: (205, 206),
-    7: (179, 207),
-    9: (111, 112),
+    7: (180, 207),
     11: (243, 249),
-    12: (147, 148),
     14: (161, 166),
     17: (171, 173),
     18: (210, 214),
-    19: (129, 130),
     21: (91, 97),
-    23: (177, 184),
+    23: (176, 184),
     27: (159, 169),
     28: (146, 148),
     29: (147, 148),
-    31: (228, 229),
     32: (173, 175),
     33: (330, 334),
-    34: (257, 270),
-    35: (272, 278),
-    36: (159, 160),
+    34: (256, 270),
+    35: (274, 278),
     37: (222, 225),
-    39: (294, 304),
-    44: (67, 68),
-    50: (22, 23),
-    52: (31, 32),
-    60: (64, 65),
-    73: (40, 41),
-    80: (37, 38),
-    86: (59, 80),
-    122: (18, 24),
-    123: (54, 56),
-    124: (168, 192),
+    39: (296, 304),
 }
 
-JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega saturn/Langrisser III (Japan)'
-JP_TRACK01 = JP_DIR / 'Langrisser III (Japan) (3M) (Track 01).bin'
+JP_D00 = PROJ / 'build' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
-
-SECTOR_SIZE = 2352
-USER_OFFSET = 16
-USER_SIZE = 2048
-
-
-def _extract_d00():
-    """Extract D00.DAT from JP ISO and parse sections."""
-    import math, struct
-    image = JP_TRACK01.read_bytes()
-
-    # Quick ISO9660 parse to find D00.DAT
-    pvd = image[16 * SECTOR_SIZE + USER_OFFSET:16 * SECTOR_SIZE + USER_OFFSET + USER_SIZE]
-    root_len = pvd[156]
-    root = pvd[156:156 + root_len]
-    root_extent = struct.unpack_from('<I', root, 2)[0]
-    root_size = struct.unpack_from('<I', root, 10)[0]
-
-    # Import iso_tools for proper parsing
-    from iso_tools import build_file_index, extract_file_data
-    file_index = build_file_index(bytearray(image))
-    d00_entry = file_index.get('LANG/SCEN/D00.DAT')
-    assert d00_entry is not None, "D00.DAT not found in ISO"
-    d00_data = extract_file_data(image, d00_entry.extent, d00_entry.size)
-    return parse_d00(d00_data)
 
 
 @pytest.fixture(scope='module')
 def jp_sections():
-    if not JP_TRACK01.exists():
-        pytest.skip('JP ISO not available')
-    return _extract_d00()
+    if not JP_D00.exists():
+        pytest.skip('build/d00_jp.dat not found (run build.py first)')
+    return parse_d00(JP_D00.read_bytes())
 
 
 def test_all_sections_have_scripts(jp_sections):
@@ -238,9 +195,9 @@ def test_scen001_lushiris_prologue_order():
     anchors = [
         'my name is lushiris',
         'goddess of light',
-        'tell me your name',
-        'please push the c button',
-        'what is the key quality of a great unit',
+        'please tell me',
+        'gift for you',
+        'what is the essential quality',
     ]
 
     found: dict[str, int] = {}
@@ -267,19 +224,115 @@ def test_scen001_lushiris_prologue_order():
         )
 
     # Specific invariants for the character-creation questionnaire flow.
-    name_idx = found['tell me your name']
-    push_idx = found['please push the c button']
-    q1_idx = found['what is the key quality of a great unit']
+    name_idx = found['please tell me']
+    push_idx = found['gift for you']
+    q1_idx = found['what is the essential quality']
 
     if name_idx >= q1_idx:
         pytest.fail(
-            f"Lushiris canary: 'tell me your name' (entry {name_idx}) must "
-            f"appear BEFORE 'what is the key quality' (entry {q1_idx}) — "
+            f"Lushiris canary: 'please tell me' (entry {name_idx}) must "
+            f"appear BEFORE 'what is the essential quality' (entry {q1_idx}) — "
             f"the questionnaire indices are misordered"
         )
     if push_idx >= q1_idx:
         pytest.fail(
-            f"Lushiris canary: 'please push the C button' (entry {push_idx}) "
+            f"Lushiris canary: 'gift for you' (entry {push_idx}) "
             f"must appear BEFORE the first questionnaire question "
-            f"'what is the key quality' (entry {q1_idx})"
+            f"'what is the essential quality' (entry {q1_idx})"
+        )
+
+
+def test_scen043_post_floating_castle_anchors():
+    """Canary: scen043 (cutscene after Floating Castle) anchors and titles.
+
+    scen043 plays between in-game scenarios 01 (Floating Castle) and 02
+    (Laffel escape). It is one of the two pilots for the JP-aligned
+    retranslation pass — counts already match JP (52 vs 52), so this
+    canary locks in the post-revision state of titles and key dialogue.
+    See ``archive/docs/session_2026-04-27_scen003_audit.md``.
+    """
+    entries = parse_script_file(SCRIPTS_DIR / 'scen043E.txt')
+
+    # Honorific titles restored from JP (剣豪/賢者/聖獣/大魔術師/勇者).
+    required_titles = [
+        'Swordmaster Gilbert',
+        'Sage Fauvel',
+        'Holy Beast Jugler',
+        'Archmage Jessica',
+        'Hero Do Kahni',
+        'Marshal Altemuller',
+    ]
+    full_text = '\n'.join(entries)
+    missing_titles = [t for t in required_titles if t not in full_text]
+    if missing_titles:
+        pytest.fail(
+            f'scen043 honorific titles dropped: {missing_titles}. JP source '
+            f'has these prefixes (e.g. 剣豪, 賢者) — restore in name table.'
+        )
+
+    # Narrative anchors in expected order.
+    anchors = [
+        'varna!',
+        'leave me be',
+        'mountains near the floating castle',
+        'gerold stay strong',
+        "imperial pursuers",
+        'left behind',
+        'show me your',
+        'goodbye',
+    ]
+    found = {}
+    for anchor in anchors:
+        matches = [i for i, e in enumerate(entries) if anchor in e.lower()]
+        if not matches:
+            pytest.fail(
+                f'scen043 anchor {anchor!r} not found — cutscene may have '
+                f'been rewritten, update the anchor list'
+            )
+        found[anchor] = matches[0]
+    indices = [found[a] for a in anchors]
+    if indices != sorted(indices):
+        locs = ', '.join(f'{a!r}@{found[a]}' for a in anchors)
+        pytest.fail(f'scen043 anchors out of order: {locs}')
+
+
+def test_scen003_laffel_escape_order():
+    """Canary: Laffel escape (in-game scenario 02) anchor strings in order.
+
+    scen003 had two identical tail-merge bugs (lines 118-120 and 227-229
+    in the Akari Dawn dump): voice-cue-only entries `<$F702>/<$F703>`
+    lost their `<$FFFE>` terminators and were folded as a prefix into
+    the following dialogue entry. Each occurrence cost two real entries,
+    accounting for the -4 count delta vs JP. Fixed 2026-04-27 by
+    splitting both merges; alignment now 1:1 with JP across all 226
+    entries. See ``archive/docs/session_2026-04-27_scen003_audit.md``
+    and ``archive/docs/engine/jp-structural-mirroring.md``.
+    """
+    entries = parse_script_file(SCRIPTS_DIR / 'scen003E.txt')
+
+    anchors = [
+        'vice capital',                  # location header near top
+        "dios's troops",                 # mid-section (Wilder observing)
+        'humble apologies, king wilder', # Dios pleading
+        "that's king wilder",            # Tiaris/Wolf shock
+        'angel ring',                    # item received
+        'viscount raymond',              # next destination plan
+        'meet again',                    # Silver Wolf farewell (final entry)
+    ]
+
+    found: dict[str, int] = {}
+    for anchor in anchors:
+        matches = [i for i, e in enumerate(entries) if anchor in e.lower()]
+        if not matches:
+            pytest.fail(
+                f"scen003 canary: anchor {anchor!r} not found — Laffel escape "
+                f"may have been rewritten, update the anchor list"
+            )
+        found[anchor] = matches[0]
+
+    indices = [found[a] for a in anchors]
+    if indices != sorted(indices):
+        locs = ', '.join(f'{a!r}@{found[a]}' for a in anchors)
+        pytest.fail(
+            f"scen003 canary: Laffel escape anchors out of order: {locs}"
         )

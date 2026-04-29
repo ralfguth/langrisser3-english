@@ -1,343 +1,223 @@
-Langrisser III dumper [0x1ab9cc to 0x1ad8fb]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Valan<$FFFF>
+Emerick <$FFFF>
+Valan <$FFFF>
 Adon<$FFFF>
 Samson<$FFFF>
-Big Brother<$FFFF>
+Big Brother <$FFFF>
 Queen Jessica<$FFFF>
--That's a secret!<$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of any Female PC<$FFFE>
+ That's a secret!<$FFFE>
+<$01E9>Conditions for Defeat Death of <$F600><$0000> Death of any Female PC<$FFFE>
 Aniki Training Facilities<$FFFF>
-Haah!<$FFFE>
-Huff!<$FFFE>
-Hyaah!<$FFFE>
-Samson!<$FFFC>
-You have to do better than that!<$FFFE>
-Sorry, Big Brother!<$FFFE>
-This place....<$FFFE>
-NOT AGAIN!<$FFFC>
-This place is even weirder than the last two!<$FFFE>
-We should head to Castle Velzeria, but...<$FFFD>
-this flying doll had to be investigated too.<$FFFE>
-We've put quite some distance from Castle Velzeria...<$FFFE>
-Normally I wouldn't bother coming here.<$FFFD>
-But last night I had a strange dream...<$FFFE>
-A dream, you say...?<$FFFE>
-Yes.<$FFFC>
-The doll waved its hands, as if inviting me to follow...<$FFFC>
-So I thought...<$FFFD>
-I'm sorry, everyone.<$FFFE>
-Little Brothers.<$FFFC>
-Someone has come to visit our glorious gym.<$FFFD>
-What's their reason for coming?<$FFFE>
-Surely to expose the secrets of our unearthly beauty!<$FFFE>
-Yep...<$FFFC>
-The only explanation.<$FFFE>
-We should unleash our bodily powers to teach them a lesson.<$FFFE>
-Yep.<$FFFC>
-That's the way.<$FFFE>
-What!? Those pompous muscleheads want to fight us up close!?<$FFFE>
-A troublesome matter, indeed.<$FFFC>
-We shouldn't waste ourselves in pointless battle. Let's ignore them and move on...<$FFFE>
-It's decided then.<$FFFC>
-We must defeat them!<$FFFE>
-Aaaand...off into his own world again.<$FFFC>
-No use talking to him now.<$FFFE>
-Alright, move out!<$FFFE>
-Oh!?<$FFFC>
-That's the Queen!<$FFFD>
-Queen!<$FFFC>
-Please grace us and take a seat!<$FFFE>
-Do you realize how awkward this is for me?<$FFFE>
-It's fine!<$FFFE>
-Who is this Queen you mean?<$FFFE>
-I refuse!<$FFFE>
-It's fine!<$FFFE>
-I'm a humble worshipper of your greatness!<$FFFC>
-I'd never make fun of you!<$FFFE>
-Who is this Queen you mean?<$FFFE>
-You don't recognize her!?<$FFFC>
-She's right there!<$FFFE>
-I refuse!<$FFFE>
-This is way too suspicious.<$FFFD>
-I beg you, Queen!<$FFFC>
-Please have a seat!<$FFFE>
-Another great day to pump those muscles.<$FFFE>
-Coming to the Gym makes me happy!<$FFFE>
-?<$FFFC>
-Who are they, newcomers?<$FFFE>
-Big Brother!<$FFFC>
-Are those weaklings novices in the way of the body?<$FFFE>
-Far from it! They are spies!<$FFFC>
-Come to steal our secrets of the ultimate body!<$FFFE>
-Then they must be disciplined!<$FFFE>
-Yes, go right ahead.<$FFFC>
-But the queen is with them, so it'll be hard.<$FFFE>
-You're right.<$FFFE>
-We failed again!<$FFFE>
-Our bodies can't endure the strain!<$FFFE>
-What have we here!?<$FFFE>
-Brrr...<$FFFC>
-A cold shiver ran down my spine....<$FFFE>
-You there, Boy!<$FFFC>
-You're too wimpy! Start forging your body now!<$FFFD>
-First, 500 push-ups!<$FFFC>
-Then, 300 sit-ups!<$FFFD>
-And lastly, undress and redress 4 times!<$FFFE>
-.....<$FFFC>
-I'd refuse even if it wasn't from a half-naked weirdo.<$FFFE>
-My, what a cute little brat!<$FFFC>
-We must strain our muscles more to be a role model!<$FFFE>
-Adon!<$FFFC>
-Samson!<$FFFE>
-Are the troops ready?<$FFFE>
-Everyone is ready.<$FFFE>
-Good.<$FFFC>
-I'm counting on you all!<$FFFE>
-Big Brother, Valan.<$FFFC>
-I feel kinda plain today...<$FFFE>
-Yep.<$FFFC>
-We can't go to battle like this.<$FFFE>
-Silence!<$FFFC>
-What are you saying!?<$FFFD>
-We're the world's leading organisation of manly beauty.<$FFFC>
-Our top weapon is our bewitching charm!<$FFFE>
-That's right!<$FFFC>
-How could I forget my pride!?<$FFFE>
-You're too awesome Big Brother, Valan!<$FFFE>
-And as long as we stay brothers in slips, we cannot fail!<$FFFD>
-Now, let the sweat flow like rivers!<$FFFE>
-Yuchee!<$FFFC>
-Let's do this!<$FFFE>
-There's always a chair for the Queen.<$FFFC>
-Please make yourself at home!<$FFFE>
-Uuuh...<$FFFC>
-Almost too intense...<$FFFE>
-We get closer to it!<$FFFE>
-Our hard work will pay off!<$FFFE>
-M..my face is turning red!<$FFFE>
-Uwwaaahh!<$FFFE>
-The blood is rushing to my head!<$FFFE>
-Beauty level still rising...<$FFFE>
-I can feel the power within!<$FFFD>
-Huuwaaahh!<$FFFE>
-Time to test our ultimate weapon.<$FFFD>
-Adon, Samson, get ready!<$FFFE>
-Sultry!<$FFFE>
-Steamy!<$FFFE>
-Sexy!<$FFFE>
-Time to test our ultimate weapon.<$FFFD>
-Here I go!<$FFFC>
-Arrghh!<$FFFE>
-Men are not allowed in here.<$FFFC>
-Your intrusion will be punished...<$FFFE>
-Eeh!?<$FFFE>
-A noise can be heard from the inner left part of the building.<$FFFE>
-Men are not allowed to enter from here.<$FFFC>
-Your intrusion will be punished...<$FFFE>
-What!?<$FFFE>
-A noise can be heard from the inner left part of the building.<$FFFE>
-Women aren't allowed in here...<$FFFC>
-What's this about?<$FFFE>
-...<$FFFC>
-Someone, explain.<$FFFE>
-No comparison!<$FFFC>
-The queen is more mature!<$FFFE>
-As if!<$FFFC>
-Tia's grown enough to hit you badly!<$FFFE>
-That's not it!<$FFFC>
-The Queen outclasses you all!<$FFFE>
-Her sex-appeal is beyond measure.<$FFFE>
-That's not it!<$FFFC>
-The Queen is mightiest of all!<$FFFE>
-Um, if you say so...<$FFFE>
-That's not it!<$FFFC>
-The Queen is more gallant!<$FFFE>
-You have a fixation problem.<$FFFE>
-Her greatness almost outshines ours!<$FFFC>
-Oops, shouldn't have said that!<$FFFD>
-I'm in for severe punishment!<$FFFE>
-<$FFFC>
-Game Over<$FFFE>
-Damn!<$FFFC>
-Why's a game over even possible in such a silly scenario?<$FFFD>
-Just our luck...<$FFFE>
-Ah...<$FFFC>
-What's this thing doing here!?<$FFFE>
-Queen!<$FFFC>
-It's been a long time!<$FFFE>
-As far as I recall, we're meeting for the first time.<$FFFC>
-I advise you to keep a respectful distance!<$FFFE>
-That's cold.<$FFFC>
-Please remember us!<$FFFE>
-I vaguely recall an incident with people resembling you.<$FFFC>
-But that was long ago. No human could live that long.<$FFFE>
-Don't worry about the details!<$FFFC>
-You're an inspiration to us all!<$FFFC>
-I could cry from joy!<$FFFD>
-We'll behave and treat you all as honored guests.<$FFFE>
-Well then, [diehardt's name].<$FFFC>
-This concludes matters here.<$FFFD>
-Let's not exploit their hospitality. On to Castle Velzeria.<$FFFE>
-Okay.<$FFFD>
-...I don't quite get this, but oh well.<$FFFE>
-Jessica can now hire sailors!<$FFFE>
-Alright, everyone!<$FFFC>
-On to Castle Velzeria!<$FFFE>
-You found an anger mark on the floor. The center bears many cracks.<$FFFE>
-What do you do?<$FFFE>
+ Haah!<$FFFE>
+ Huff!<$FFFE>
+ Hyaah!<$FFFE>
+ Samson! You have to do  better than that!<$FFFE>
+ Sorry, Big Brother!<$FFFE>
+ This place…<$FFFE>
+ NOT AGAIN! This place  looks even weirder than  the last two!<$FFFE>
+ I know we should be  heading to Castle  Velzeria, but…<$FFFD>This doll flying over  here, was a matter that had to be investigated as well…<$FFFE>
+ One thing I can say for  sure is that we have put quiet some distance  between ourselves and  Castle Velzeria…<$FFFE>
+ Under normal circumstances, I wouldn't have bothered coming here.<$FFFD>But last night I had a strange dream…<$FFFE>
+ A dream, you say…?<$FFFE>
+ Yes. The doll was in that dream, waving its  hands as if it wanted to invite me to follow… So I thought…<$FFFD>I am sorry, everyone.<$FFFE>
+ Little Brothers. It  seems like someone has come to visit our  glorious gym.<$FFFD>What do you think? What  are their reasons for  coming?<$FFFE>
+ I am sure they want to expose the secrets of  our unearthly beauty!<$FFFE>
+Yep… That's the only possible explanation.<$FFFE>
+ We should release all  our bodily powers to teach them a lesson.<$FFFE>
+ Yep. That's the way to do it.<$FFFE>
+ What!? Don't tell me those pompous  muscleheads want to  fight us, like getting  physically close!?<$FFFE>
+ This is growing into a troublesome matter, indeed. We shouldn't  exhaust ourselves in such a pointless battle. I suggest to ignore them and move on…<$FFFE>
+ It's decided then. We  simply have to defeat  them!<$FFFE>
+ Aaaand…he's off into  his own world again. I guess it's no use  talking to him at this point.<$FFFE>
+ Arlight, move out!<$FFFE>
+ Oh!? That's the Queen!<$FFFD>Queen! Please grace us with a visit and take a seat!<$FFFE>
+ Are you aware how  awkward this situation is for me?<$FFFE>
+ It's fine!<$FFFE>
+ Who is that Queen you're talking about?<$FFFE>
+ I refuse!<$FFFE>
+ It's fine!<$FFFE>
+ I am but a humble  worshipper of your greatness! Never would I dare to make fun you!<$FFFE>
+ Who is that Queen you're talking about?<$FFFE>
+ What, you don't recognize her!? She's standing right there!<$FFFE>
+ I refuse!<$FFFE>
+ This is way too  suspicious.<$FFFD>I beg of you, Queen! Please have a seat!<$FFFE>
+ Another great day to get those muscles pumping.<$FFFE>
+ Coming to the Gym everyday makes me happy!<$FFFE>
+ ? Who are they, maybe newcomers?<$FFFE>
+ Big Brother! Are those weak looking figures novices in the way of  the body?<$FFFE>
+ Far from it! They are  nothing but spies! They  have come to steal the secrets of forging the ultimate body!<$FFFE>
+ Then they need to be disciplined!<$FFFE>
+ Yes, please go right ahead. However, the queen is accompanying  them, so we will have a hard time.<$FFFE>
+ You're right.<$FFFE>
+ We have failed again!<$FFFE>
+ Our bodies still can't endure the strain!<$FFFE>
+So what have we got  here!?<$FFFE>
+ Brrr… Somehow a cold  shiver just ran down my  spine…<$FFFE>
+ You there, Boy! You're  too wimpy, start forging your body this instant!<$FFFD>First, 500 push ups! Second, <$0619>0 sit ups!<$FFFD>And lastly, undress and redress 4 times in a row!<$FFFE>
+ … I would even  refuse that request if it wasn't coming from a giant, half naked  weirdo.<$FFFE>
+ My, what a cute little  brat! We will have to strain our muscles even  more to be a good role model for him!<$FFFE>
+ Adon! Samson!<$FFFE>
+ Are the troops ready to  head out?<$FFFE>
+ Everyone is ready.<$FFFE>
+ That's good. I am counting on all of you!<$FFFE>
+ Big Brother, Valan. I feel kinda plain looking today…<$FFFE>
+ Yep. We can't go to  battle like this.<$FFFE>
+ Silence! What are you  talking about!?<$FFFD>We are the world's leading organisation of  manly beauty. Our number  one weapon is our  bewitching charm!<$FFFE>
+ That's right! How could I forget about my pride  like that!?<$FFFE>
+ You're just too awesome  Big Brother, Valan!<$FFFE>
+ And remember, as long as  we stay together like  brothers in slips, we  cannot fail!<$FFFD>Now, let's make that sweat flow like rivers!<$FFFE>
+ Yuchee! Let's do this!<$FFFE>
+ There's always a chair  reserved for the Queen. Please come over and make yourself at home!<$FFFE>
+ Uuuh… This is almost  too intense…<$FFFE>
+ We get closer and closer to it!<$FFFE>
+ Now all our hard work  will pay off!<$FFFE>
+ M…my face is turning all red!<$FFFE>
+ Uwwaaahh!<$FFFE>
+ All the blood keeps on rushing in my head!<$FFFE>
+Beauty level is still  rising…<$FFFE>
+ I can feel the power rise from within!<$FFFD>Huuwaaahh!<$FFFE>
+ Finally, the time has  come to put our ultimate secret weapon to test.<$FFFD>Adon, Samson, get ready!<$FFFE>
+ Sultry!<$FFFE>
+ Steamy!<$FFFE>
+ Sexy!<$FFFE>
+ Finally, the time has  come to put our ultimate secret weapon to test.<$FFFD>Here I go! Arrghh!<$FFFE>
+ Men are not allowed to enter from here. Your  intrusion will be  punished…<$FFFE>
+ Eeh!?<$FFFE>
+ A noise can be heard from the inner left part of the building.<$FFFE>
+ Men are not allowed to enter from here. Your  intrusion will be  punished…<$FFFE>
+ What!?<$FFFE>
+ A noise can be heard from the inner left part of the building.<$FFFE>
+ Women aren't allowed in  here… What's this all about?<$FFFE>
+… Someone, explain this.<$FFFE>
+ You can't compare! The queen is much more mature!<$FFFE>
+ As if! Tia is grown up enough to hit you badly!<$FFFE>
+ That's not it! The Queen outclasses any of you!<$FFFE>
+ Her Sex appeal really is beyond measuring.<$FFFE>
+ That's not it! The Queen is the mightiest of them all!<$FFFE>
+ Um, if you say so…<$FFFE>
+ That's not it! The Queen is much more gallant!<$FFFE>
+ You really have a problem of fixation.<$FFFE>
+ Her greatness almost outshines ours! Oops I shouldn't have said  that!<$FFFD>Uh, I am in for severe  punishment now!<$FFFE>
+Game Over <$FFFE>
+ Damn! Why's it even possible to trigger a game over during such a silly scenario?<$FFFD>That's just our luck…<$FFFE>
+ Ah… What's this kind  of thing doing here!?<$FFFE>
+ Queen! It has been a long time!<$FFFE>
+ As far as I can  remember, we are meeting  for the first time. And I would highly advice  you to keep a respectful distance!<$FFFE>
+ That's cold. Please try  to remember us!<$FFFE>
+ I vaguely remember an  incident involving people resembling you  somewhat. But this was a very long time ago, no  mere human could live  that long.<$FFFE>
+ You don't have worry about the details! Fact  is that you're an  inspiration to all of  us! I am so happy I could cry!<$FFFD>I promise, we will behave from now on and treat all of you as our  honored guests.<$FFFE>
+Well then, <$F600><$0000>. I think this concludes matters around here.<$FFFD>We really shouldn't  exploit  their…hospitality. Instead, let us be on  our way to Castle  Velzeria.<$FFFE>
+ Okay.<$FFFD>…I don't quiet get  what this was all about, but oh well.<$FFFE>
+ Jessica can now hire sailors!<$FFFE>
+ Alright, everyone! It's  time to move on to Castle Velzeria!<$FFFE>
+ You discovered an anger  mark painted on the  floor. In its centre the floor bears many cracks.<$FFFE>
+ What do you want to do?<$FFFE>
 Hit it<$FFFE>
-Shout at it<$FFFE>
-Put your ear to the ground<$FFFE>
-You hit it, and a huge hole opens in the floor.<$FFFC>
-Inside, a huge blue face of a weird creature.<$FFFD>
-Suddenly it speaks.<$FFFC>
-"What's my name?"<$FFFE>
-What do you reply?<$FFFE>
-Aniki<$FFFE>
-Umini<$FFFE>
-Ramen<$FFFE>
-"Nope, those are the leaders...<$FFFC>
-...I hate you..."<$FFFD>
-The creature vanished into thin air.<$FFFE>
-The creature jumped out of the hole.<$FFFC>
-It opens its mouth. An object drops, hitting the ground loudly.<$FFFD>
-"Lift this."<$FFFE>
-Iron Dumbbell was obtained!<$FFFE>
-"Nope, not right...<$FFFC>
-...I hate you."<$FFFD>
-The creature vanished into thin air.<$FFFE>
-Nothing happened.<$FFFE>
-Nothing happened.<$FFFE>
-Suddenly a voice speaks.<$FFFE>
-You've done well so far.<$FFFC>
-I have a present for you...<$FFFD>
-But only if you're 18 or older!<$FFFE>
-Do you qualify?<$FFFE>
-Great! Use it wisely!<$FFFE>
-Vaseline was obtained!<$FFFE>
-Regrettable.<$FFFC>
-Take this instead.<$FFFE>
-Magic Herb was obtained!<$FFFE>
-Open me!<$FFFC>
-Is written on a floor hatch.<$FFFE>
-Open it?<$FFFE>
-You don't have the key!<$FFFC>
-You couldn't open it...<$FFFE>
-NO!<$FFFC>
-We just finished warming up!<$FFFD>
-Too late...<$FFFE>
-Nice body.<$FFFC>
-Why not join us?<$FFFE>
-Me!?<$FFFE>
-Of course you.<$FFFC>
-It'd be a waste not to forge a body with such potential.<$FFFD>
-I don't know.<$FFFC>
-What's on your mind?<$FFFE>
-It's impossible for me...<$FFFD>
-[diehardt's name].<$FFFC>
-You must decide. How about it?<$FFFE>
-What do you reply?<$FFFE>
-I'd love to<$FFFE>
+Shout at it <$FFFE>
+Put your ear to the ground to listen<$FFFE>
+ When you hit it, a huge  whole opens up in the  floor. Inside you beheld a huge blue face of a weird looking creature.<$FFFD>Suddenly the creature  begins to speak. "What's my name?"<$FFFE>
+ What do you reply?<$FFFE>
+Aniki <$FFFE>
+Umini <$FFFE>
+Ramen <$FFFE>
+ "Nope, those are the leaders… …I hate you…"<$FFFD>The strange creature vanished into thin air.<$FFFE>
+ The creature jumped out  of the whole. It opens  its mouth. An object drops out, making a loud noise as it hits the ground.<$FFFD>"Lift this."<$FFFE>
+ Iron Dumbbell was  obtained!<$FFFE>
+ "Nope that's not  right… …I hate you."<$FFFD>The strange creature vanished into thin air.<$FFFE>
+ Nothing happened.<$FFFE>
+ Nothing happened.<$FFFE>
+ Suddenly a voice speaks  to you.<$FFFE>
+You have done well this  far. I've got a present  for you…<$FFFD>But only if you're at  least 18 years old!<$FFFE>
+ Do you fulfill this  requirement?<$FFFE>
+ Great! Use it wisely!<$FFFE>
+ Vaseline was obtained!<$FFFE>
+ Most regrettable. Takes this as a substitute.<$FFFE>
+ Magic Herb was obtained!<$FFFE>
+ Open me! Is written on a hatch in the floor.<$FFFE>
+ Do you want to open it?<$FFFE>
+ You don't have the key! You couldn't open it…<$FFFE>
+ NO! We just finished the  warm up!<$FFFD>Too late…<$FFFE>
+ Nice body. Why don't you join us?<$FFFE>
+ Me!?<$FFFE>
+ Of course you. It would  be a waste not to forge  your body, with all that potential you've got.<$FFFD>I don't know. What's on your mind?<$FFFE>
+ I am afraid it's impossible for me…<$FFFD><$F600><$0000>. You've gotta make a decision. So, how about it?<$FFFE>
+ What do you reply?<$FFFE>
+I would love to <$FFFE>
 Refuse<$FFFE>
-If you're okay with it,<$FFFC>
-I suggest Dios join in my stead.<$FFFE>
-I see...<$FFFC>
-It'll be hard at first.<$FFFE>
-Ohh!<$FFFC>
-Being popular is a curse...<$FFFE>
-King!<$FFFE>
-Bring me that treacherous leader now!<$FFFE>
-Understood!<$FFFD>
-Hah!!<$FFFE>
-Beautiful...<$FFFC>
-We've lost...<$FFFD>
-We must train harder...<$FFFE>
-Next time, you'll join us.<$FFFE>
-I...I see...<$FFFC>
-You refuse...<$FFFE>
-Sailors....<$FFFC>
-That's fine...<$FFFE>
-The dream of omnipotent muscle....<$FFFE>
-This battle went well...<$FFFE>
-What an exquisite rush of blood....<$FFFE>
-Awww....<$FFFC>
-Just too scary...<$FFFE>
-Hmmm....<$FFFE>
-What a battle...<$FFFE>
-Lushiris keeps me safe...<$FFFE>
-As a kid, I wanted to be like them...gross...<$FFFE>
-Guu...<$FFFE>
-Tell me the secrets of forging the body!<$FFFE>
-This didn't went as planned...<$FFFE>
-Ah, the blue sky welcomes me...<$FFFE>
-Queen!<$FFFC>
-OH NO!<$FFFC>
-That's a bit odd...<$FFFE>
-OH!<$FFFC>
-I'm dehydrating!<$FFFE>
-Queen!<$FFFC>
-More!<$FFFE>
-Get up, shape up!<$FFFE>
-The people of this continent are fearsome enemies...<$FFFE>
-Nice, body....<$FFFE>
-Extreme-Deadly Magnum-Punch of Ultimate Destruction!<$FFFE>
-My heart burns as hot as the sun....for YOU...<$FFFE>
-Atomic Adon's Super-Dangerous-Bomber-Headbutt!<$FFFE>
-We have to go on training no matter what...<$FFFC>
-It's our destiny...<$FFFE>
-Look at me!<$FFFE>
-Señorita!<$FFFE>
-Please, no more push-ups!<$FFFE>
+ If that's okay with you, I would like to suggest  Dios to join in my stead.<$FFFE>
+ I see… It will be hard and painful at first.<$FFFE>
+ Ohh! Being popular can be a curse…<$FFFE>
+ King!<$FFFE>
+ Get me that treacherous  leader over here right away!<$FFFE>
+ Understood!<$FFFD>Hah!!<$FFFE>
+ Beautiful… Seems like  we have lost…<$FFFD>We have to to train  harder from now on…<$FFFE>
+ So when we meet again, you will definitely join us.<$FFFE>
+ I…I see… You refuse…<$FFFE>
+ Sailors… That's  fine…<$FFFE>
+ The dream of the omnipotent muscle…<$FFFE>
+ Considering the  circumstances this battle went well…<$FFFE>
+ What an exquisite rush of blood…<$FFFE>
+ Awww… Their just too  scary…<$FFFE>
+ Hmmm…<$FFFE>
+ What a battle…<$FFFE>
+ Lushiris keeps me  safe…<$FFFE>
+ When I was a kid, I wanted to be like those  guys…gross…<$FFFE>
+ Guu…<$FFFE>
+ Tell me the secrets of forging the body!<$FFFE>
+ This didn't went as  planned…<$FFFE>
+ Ah, the blue sky  welcomes me…<$FFFE>
+ Queen! OH NO! That's a bit odd…<$FFFE>
+ OH! I am dehydrating!<$FFFE>
+ Queen! More!<$FFFE>
+ Get up, shape up!<$FFFE>
+ The people of this continent are fearsome enemies…<$FFFE>
+ Nice, body…<$FFFE>
+ Extreme Deadly Magnum Punch of Ultimate  Destruction!<$FFFE>
+ My heart burns as hot as the sun…for YOU…<$FFFE>
+ Atomic Adon's Super  Dangerous Bomber Headbutt!<$FFFE>
+ We have to go on training no matter what… It's our  destiny…<$FFFE>
+ Look at me!<$FFFE>
+ Senorita!<$FFFE>
+ Please, no more push  ups!<$FFFE>
 ANIKI!<$FFFE>
-I'm too beautiful for this world...<$FFFE>
-This can't beeee!<$FFFE>
-To think I just joined up recently...<$FFFE>
-I can't let you go further!<$FFFC>
-If it's opened, we're doomed!<$FFFE>
-Oopsy!<$FFFC>
-Startled by my own glamour...<$FFFE>
-Nice punch!<$FFFE>
-I'll keep forging my spiritual body in the afterlife...<$FFFE>
-The end of a fulfilled life....<$FFFE>
-What's your secret training method...<$FFFE>
-Explosion!<$FFFE>
-Whose dead!?<$FFFE>
-This feels good...<$FFFE>
-Je t'aime!<$FFFE>
-The heads of the Gym are defeated!<$FFFC>
-Dispersion!<$FFFE>
-That takes care of them all.<$FFFE>
-What a ridiculous, pointless waste of time!<$FFFC>
-If we stay another minute, something horrible will happen to the one who brought us here!<$FFFE>
-Alright, everyone!<$FFFC>
-Time to head to Castle Velzeria!<$FFFE>
-Poor souls, they were still too inexperienced in the way of the body.<$FFFC>
-But it's also my fault. I've been spoiling them.<$FFFE>
-....Hm, this one's not even human.<$FFFC>
-But he still looks dazzling with that fur, no?<$FFFE>
-Gurr!<$FFFE>
-What was that all about!?<$FFFC>
-Oh well.<$FFFD>
-Now, on to Castle Velzeria at once!<$FFFE>
+ I am too beautiful for this world…<$FFFE>
+ This can't beeee!<$FFFE>
+ To think I just joined up recently…<$FFFE>
+ I can't allow you to go  any further! If it is  opened, we will all be  doomed!<$FFFE>
+ Oopsy! I was startled by my own glamour a little  too much…<$FFFE>
+ Nice punch!<$FFFE>
+ I will keep forging my spiritual body in the  afterlife…<$FFFE>
+ The end of a fulfilled life…<$FFFE>
+ What's your secret training method…<$FFFE>
+ Explosion!<$FFFE>
+ Whose dead!?<$FFFE>
+ This feels good…<$FFFE>
+ Je t aime!<$FFFE>
+ The heads of the Gym have been defeated! Dispersion!<$FFFE>
+ There, that takes care of all of them.<$FFFE>
+ This was the most  ridiculous, pointless and unnerving waste of time ever! If we stay  any other minute, I swear something horrible will happen to the guy that made us come here!<$FFFE>
+ Alright, everyone! I think it's high time for us to be on our way to Castle Velzeria!<$FFFE>
+Poor souls, they were still too inexperienced  in the way of the body. But its also my fault, I've been spoiling them.<$FFFE>
+ …Hm this one's not human. But he still  looks dazzling with that fur, no?<$FFFE>
+ Gurr!<$FFFE>
+ What the heck was that all about!? Oh well.<$FFFD>Now that's been taken  care of, let us head towards Castle Velzeria at once!<$FFFE>  

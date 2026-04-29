@@ -1,226 +1,155 @@
-Langrisser III dumper [0x2f5e18 to 0x2f7763]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-King Sieghart<$FFFF>
-Olver<$FFFF>
+Emerick <$FFFF>
+King Sieghart <$FFFF>
+Olver <$FFFF>
 Goddess Lushiris<$FFFF>
-Great Sage Fauvel<$FFFF>
+Great Sage Fauvel <$FFFF>
 Elthlead Soldier<$FFFF>
 General Varna<$FFFF>
-Vampire Bat<$FFFF>
+Vampire Bat <$FFFF>
 Center of the Lushiris Gate<$FFFF>
-Sorry for the wait.<$FFFE>
-Ah, you're back.<$FFFE>
-Good to see you, Lady Jessica.<$FFFE>
-Good to see you too, Master Olver.<$FFFD>
-Forgive the haste, but we need your help.<$FFFE>
-No worries.<$FFFD>
-They've explained the situation.<$FFFC>
-We must head to Heaven at once.<$FFFE>
-To Heaven?<$FFFE>
-That's right.<$FFFD>
-To make the sword holy, we need Lushiris's power in Heaven.<$FFFE>
-Very well, let's use the Gate to teleport there.<$FFFE>
-Please do.<$FFFE>
-Kesle Kehanitos, Kesle Kehanitos.<$FFFD>
-Break the Goddess's seal that we may enter her demesne.<$FFFE>
-Heaven, Home of the Goddess Lushiris<$FFFF>
-So this is Heaven....<$FFFE>
-Lady Lushiris.<$FFFE>
-We bring King Sieghart of Elthlead.<$FFFE>
-Good work, Jessica.<$FFFE>
-An honor, Lady Lushiris.<$FFFE>
-I've watched your actions from here.<$FFFC>
-You've done well dispelling the chaos.<$FFFE>
-I have no words for such praise.<$FFFE>
-But beware Velzeria's current actions.<$FFFE>
-Demons have always plotted to rule humans.<$FFFC>
-So they manipulate humans to fight.<$FFFE>
-Then this war is their doing!?<$FFFE>
-I'm not certain.<$FFFC>
-Even I can't track every demon move.<$FFFE>
-As I guard humans, a god guards demons.<$FFFE>
-We must oppose them ourselves.<$FFFE>
-Now, let's begin the reforging ceremony.<$FFFE>
-Place the Haja no Ken here.<$FFFE>
-Yes, milady.<$FFFE>
-One last time I must ask.<$FFFD>
-King Sieghart.<$FFFB>
-<$FFFC>
-Will you give your life for this world's peace?<$FFFE>
-....Yes.<$FFFE>
+ Sorry to keep you  waiting.<$FFFE>
+ Ah, you're back.<$FFFE>
+ Good to see you again, Lady Jessica.<$FFFE>
+ Good to see you too, Master Olver.<$FFFD>My apologies for the haste, but we really need your help.<$FFFE>
+ No worries.<$FFFD>These people have given  me the specifics. We  will need to head to Heaven right away.<$FFFE>
+ To Heaven?<$FFFE>
+ That's right.<$FFFD>To make the Haja no Ken  into a holy blade, we  need to infuse it with Lady Lushiris's power in Heaven.<$FFFE>
+ Very well, let's use the power of the Gate to teleport to Heaven.<$FFFE>
+ Please do.<$FFFE>
+ Kesle Kehanitos, Kesle Kehanitos.<$FFFD>Let the seal on the gate of the Goddess be broken so that we might be led  to the Goddess's demesne.<$FFFE>
+ Heaven, Home of the Goddess Lushiris<$FFFF>
+ So this is Heaven…<$FFFE>
+ Lady Lushiris.<$FFFE>
+ We have brought King Sieghart of the Elthlead Kingdom.<$FFFE>
+ Good work, Jessica.<$FFFE>
+ It is an honor to meet you in person, Lady  Lushiris.<$FFFE>
+ I have watched over your actions from here. You have done an excellent job in dispelling the  internal chaos that has  plagued the land.<$FFFE>
+ I have no words to express my gratitude for such praise.<$FFFE>
+ However, you must be wary of Velzeria's current actions.<$FFFE>
+ The demons have always planned to rule over the world of humans. That's  why humans are often manipulated into fighting each other.<$FFFE>
+ Then, this war was their  doing, too!?<$FFFE>
+ I am not completely  certain. No matter what  might be said of my  powers, I don't know  everything about the demon movements.<$FFFE>
+ Just as I watch over humanity, so is there a god who watches over the demons.<$FFFE>
+ So we have to be the ones who directly oppose these foes.<$FFFE>
+ Now, let's begin the ceremony of reforging  the Haja no Ken.<$FFFE>
+ Place the Haja no Ken  here.<$FFFE>
+ Yes, milady.<$FFFE>
+ Now, I must ask this one last time.<$FFFD>King Sieghart.<$FFFB>Are you willing to give  up your life for the peace of this world?<$FFFE>
+ …Yes.<$FFFE>
 !?<$FFFE>
-Very well.<$FFFC>
-The ceremony shall begin.<$FFFE>
-....Become the eternal vessel for this soul, with limitless power.....<$FFFE>
-....Become the eternal vessel for this soul, bearing peace's hope.....<$FFFE>
-The world shall bow to your eternal wish.<$FFFD>
-Der Suuld ist Langrisser....<$FFFE>
-Father!?<$FFFE>
-Lewin, don't worry.<$FFFE>
-Father, where are you?<$FFFE>
-The ceremony joined a soul to the Haja no Ken.<$FFFE>
-That sword is now King Sieghart.<$FFFE>
-The sword!?<$FFFE>
-....King Sieghart is in the sword?<$FFFE>
-....The Langrisser.<$FFFC>
-It seems we've succeeded.<$FFFE>
-The Langrisser?<$FFFE>
-In Heaven's tongue: the sanctified sword.<$FFFE>
-The Langrisser.....<$FFFE>
-....Father.<$FFFE>
-Lewin.<$FFFC>
-The Langrisser and I are one.<$FFFC>
-I'll always be at your side.<$FFFE>
-And I shall live to keep this world's peace.<$FFFE>
-I see.<$FFFE>
-....The Masayan Sword.<$FFFC>
-It seems we've succeeded.<$FFFE>
-The Masayan Sword?<$FFFD>
-Not the Langrisser?<$FFFE>
-You no longer possess the Langrisser.<$FFFE>
-Ah....<$FFFC>
-Now I see the difference.<$FFFD>
-But what does it mean.....<$FFFE>
-In Heaven's tongue.....<$FFFD>
-"The sword of one who coughs blood rather than curse fate, failing at worst times"<$FFFD>
-....is its meaning.<$FFFE>
-Quite a mouthful.....<$FFFB>
-<$FFFC>
-In short, "the worst sword."<$FFFC>
-So that's the Masayan Sword.....<$FFFE>
-....Father.<$FFFC>
-I'm ashamed.....<$FFFE>
-Lewin.<$FFFD>
-Though I'm in this shape now,<$FFFC>
-I'll always be with you.<$FFFD>
-And I'll live to better mankind forever.<$FFFE>
-R..right.....<$FFFE>
-[diehardt's name].<$FFFD>
-You should take Elthlead's throne....<$FFFE>
-.....<$FFFE>
-What's wrong?<$FFFE>
-I'm not suited to be King.<$FFFC>
-I appreciate the honor, but must decline.<$FFFD>
-Lewin should become King.<$FFFC>
-If he agrees, that is.<$FFFE>
-I see.<$FFFB>
-<$FFFC>
-....I guess that might work.<$FFFE>
-Very well, Lady Lushiris.<$FFFD>
-We must return to stop Velzeria.<$FFFE>
-I leave it to you, my daughter.<$FFFE>
-Lady Jessica is Lushiris's daughter!?<$FFFE>
-Haha.<$FFFC>
-Not in the way you think.<$FFFE>
-Jessica is my avatar there, since I can't act directly.<$FFFD>
-But she's truly human, like any other.<$FFFD>
-She uses her judgment to act for humanity's good.<$FFFE>
-While we linger, Velzeria stirs more mischief.<$FFFD>
-We'd best return at once.<$FFFE>
-Farewell, Lady Lushiris.<$FFFC>
-With this gift, we shall counter Velzeria.<$FFFE>
-I wish you all success.<$FFFE>
-...........<$FFFE>
-<$fe><$78><$FFFC>
-   Big<$fe><$78><$FFFC>
-       mis..<$fe><$78><$FFFC>
-               ..take<$fe><$3c><$FFFC>
-                     !<$FFFE>
-<$FFFC>
-Gahhhhhhh!<$FFFE>
-What kind of crazy trick is this?<$FFFE>
-<$FFFC>
-<$FFFC>
-....Sigh.<$FFFE>
-Center of Lushiris Gate<$FFFF>
-Oh!<$FFFC>
-Back already!<$FFFE>
-How did it go?<$FFFC>
-Were you able to strengthen the sword?<$FFFE>
-Huh?<$FFFC>
-I don't see the King......<$FFFE>
-This is Father now.<$FFFE>
-This is no time for jokes....<$FFFE>
-You can't mean this,<$FFFC>
-this pathetic sword.....<$FFFE>
-He wasn't joking.<$FFFC>
-Peace changed my form, but I'm with you always.<$FFFE>
-The sword spoke!<$FFFE>
-Sieghart's soul joined the sword; it's now the Masayan Sword.<$FFFE>
-Sieghart's soul joined the sword; it's now the Langrisser.<$FFFE>
-So Lewin shall become King of Elthlead.<$FFFD>
-But first we must fight Velzeria and all foes.<$FFFE>
-Forgive my request, but pledge yourselves to Lewin.<$FFFE>
-If that is your wish, King Sieghart, so be it.<$FFFE>
-I'd heard rumors, but never thought I'd see a soul in a sword.<$FFFE>
-This is no time for tears.<$FFFD>
-Let's celebrate our new king!<$FFFE>
-That's right.<$FFFE>
-..........<$FFFE>
-What's wrong, [diehardt's name]-san?<$FFFC>
-You don't look cheerful.<$FFFE>
-Tell us, don't hide your feelings.....<$FFFE>
-It feels wrong to use him like this!<$FFFC>
-It's no better than what villains do!<$FFFE>
-How could something so harsh be just?<$FFFF>
-Ugh.....<$FFFE>
-You're being too negative.<$FFFE>
-Bad news!<$FFFE>
-What's wrong?<$FFFE>
-A Larcuss royal claimant has appeared at the castle!<$FFFE>
-Impossible!<$FFFD>
-Didn't the captured nobles confirm them all slain?<$FFFE>
-That's right.<$FFFC>
-We saw it with our own eyes.<$FFFE>
-That's what the message said.<$FFFD>
-We have our rightful successor.<$FFFC>
-Sieghart supporters, return to the capital!<$FFFE>
-What's happening?<$FFFE>
-Let's hurry back to the castle.<$FFFE>
-I have a bad feeling.<$FFFE>
-Lady Jessica.....<$FFFE>
-I'll return with you.<$FFFD>
-If needed, I'll fight at your side.<$FFFE>
-<$FFFC>
-Jessica joined the party!<$FFFE>
-Thank you.<$FFFE>
-I'll come as well.<$FFFE>
-Very well.<$FFFC>
-Let's head to the castle.<$FFFE>
-Rigüler - Elthlead Border ~ Outside Imperial Base<$FFFF>
-So we have a ceasefire with Elthlead.<$FFFC>
-But Velzeria....<$FFFE>
-A vampire bat....?<$FFFE>
-Stop that jabbering, Varna.<$FFFE>
-A monster!?<$FFFE>
-Don't forget we hold your sister Anna.<$FFFD>
-Kill Altemuller, or her life is forfeit.<$FFFE>
-Grrr, ....you underhanded scum!<$FFFE>
-Hohoho!<$FFFC>
-Value your sister's life? Then kill him.<$FFFD>
-Use this poison......<$FFFC>
-Tasteless, odorless, quick to kill.<$FFFD>
-Mix it in sake; he won't notice.....<$FFFE>
-Anna and Lord Altemuller are both precious......<$FFFE>
-I....<$FFFC>
-I don't know what to do.....<$FFFE>
+ Very well. With that settled, the ceremony  can begin.<$FFFE>
+ …Become the eternal vessel for this  righteous soul, with  limitless power…<$FFFE>
+ …Become the eternal vessel for this  righteous soul, instilled with the hope  for peace…<$FFFE>
+ From now on, the entire  world shall be subject to the power of your wish throughout your limitless existence.<$FFFD>Der Suuld ist  Langrisser…<$FFFE>
+ Father!?<$FFFE>
+ Lewin, don't worry.<$FFFE>
+ Father, where are you?<$FFFE>
+ This ceremony was the  secret joining of a human soul and the Haja no Ken.<$FFFE>
+ That sword is now King Sieghart.<$FFFE>
+ The sword!?<$FFFE>
+ …King Sieghart is in  the sword?<$FFFE>
+ …The Langrisser. It  looks like it is a success.<$FFFE>
+ The Langrisser?<$FFFE>
+ In the language of Heaven, it means the  sanctified sword.<$FFFE>
+ The Langrisser…<$FFFE>
+ …Father.<$FFFE>
+ Lewin. The Langrisser  and I are one. I will  always be at your side.<$FFFE>
+ And, I shall lived for all eternity to maintain the peace for this world.<$FFFE>
+ I see.<$FFFE>
+ …The Masayan Sword. It looks like it is a success.<$FFFE>
+ The Masayan Sword?<$FFFD>It's not the Langrisser?<$FFFE>
+ You all no longer  possess the Langrisser.<$FFFE>
+ Ah… Now that you  mention it, I see the difference.<$FFFD>But, what does that  mean…<$FFFE>
+ In the language of Heaven…<$FFFD>"The sword that was forged from the essence  of he who is more likely to cough up blood than curse at adversity, which fails at the worst times"<$FFFD>…is its meaning.<$FFFE>
+ Quite a mouthful…<$FFFB>In short, "the worst  sword." So that's the Masayan Sword…<$FFFE>
+ …Father. Somehow, I am ashamed…<$FFFE>
+ Lewin.<$FFFD>Even though I am in this shape now, I will always be with you.<$FFFD>And, I shall live to better mankind for all eternity.<$FFFE>
+ <$064F>.right…<$FFFE>
+ <$F600><$0000>.<$FFFD>I think you should take  the throne of  Elthlead…<$FFFE>
+…<$FFFE>
+ What's wrong?<$FFFE>
+ I am not suited to being a King. I appreciate the  honor, but I must  decline.<$FFFD>I think it would be best if Lewin became the King of Elthlead. That is, if  Lewin agrees.<$FFFE>
+ I see.<$FFFB>…I guess that might work.<$FFFE>
+ Very well, Lady  Lushiris.<$FFFD>We must return to the  land and work to stop the plans of Velzeria.<$FFFE>
+ I leave it to you, my  daughter.<$FFFE>
+ Lady Jessica is Lady Lushiris's daughter!?<$FFFE>
+ Haha. I am not her  daughter in the way  you're thinking.<$FFFE>
+ Jessica serves as my avatar, watching and  warding the human world  in my stead, since I cannot directly act  there.<$FFFD>However, she really is human, no different from the rest of humanity.<$FFFD>She uses her own judgement to supporting  the human worldview and  decide what is best to do at any given time.<$FFFE>
+ But while we're all  here, Velzeria is likely  trying to stir up more mischief.<$FFFD>We would best return to  the earth right away.<$FFFE>
+ Fare well, Lady  Lushiris. Using this  gift on the earth, we  shall work to counter  Velzeria.<$FFFE>
+ I shall wish for everyone's success.<$FFFE>
+…<$FFFE>
+ <$FE78>Big <$FE78>Fail<$FE78>ure <$FE3C>!<$FFFE>
+ Gahhhhhhh!<$FFFE>
+ What kind of crazy trick is this?<$FFFE>
+ …Sigh.<$FFFE>
+Center of Lushiris Gate <$FFFF>
+ Oh! Back already!<$FFFE>
+ How did it go? Were you  able to strengthen the Haja no Ken?<$FFFE>
+ Huh? I don't see the King…<$FFFE>
+ This is Father now.<$FFFE>
+ Hey now, this is hardly  a good time to be  telling jokes…<$FFFE>
+ You can't mean this, this pathetic sword…<$FFFE>
+ He wasn't joking. Because of my desire for peace, my form has changed, but I will  always be with you.<$FFFE>
+ The sword spoke!<$FFFE>
+ Because King Sieghart  has given his soul to  the Haja no Ken, it has  become the Masayan Sword.<$FFFE>
+ Because King Sieghart  has given his soul to  the Haja no Ken, it has  become the Langrisser.<$FFFE>
+ So, Lewin shall now become the King of Elthlead.<$FFFD>But, for Lewin to become king, we all must fight against Velzeria and any other foes.<$FFFE>
+ Forgive my selfish request, but I ask that  you all give Lewin your  allegiance from now on.<$FFFE>
+ If that is your wish, King Sieghart, so shall  it be.<$FFFE>
+ I would heard rumors, but I never thought I would see the mystery of a human soul merged with a sword with my own  eyes.<$FFFE>
+ Anyhow, this isn't a time for tears.<$FFFD>It's time to celebrate the ascension of a new king!<$FFFE>
+ That's right.<$FFFE>
+…<$FFFE>
+ My, what's wrong, <$F600><$0000> san? You don't look all that cheerful.<$FFFE>
+ You can tell us, no need to mask your feelings…<$FFFE>
+ Somehow, it feels wrong  to use him like this! It's no different from what the bad guys do!<$FFFE>
+ How could something so harsh be just?<$FFFF>
+ Ugh…<$FFFE>
+ You're just being overlynegative.<$FFFE>
+ Bad news!<$FFFE>
+ What is the matter?<$FFFE>
+ Someone who claims to be of the Larcuss royal bloodline has appeared at the castle!<$FFFE>
+ Impossible!<$FFFD>Didn't the captured  nobles testify that  every member of the  royal family was slain?<$FFFE>
+ That's right. We all  witnessed this, too, with our own eyes.<$FFFE>
+ Well, that was what the message said.<$FFFD>We have our own  legitimate successor to  this country's rule. Everyone who supports  Sieghart needs to return to the royal capitol immediately!<$FFFE>
+ What in the world could  be happening?<$FFFE>
+ Well, let's hurry back  to the castle.<$FFFE>
+ Somehow, I have a bad  feeling about this.<$FFFE>
+ Lady Jessica…<$FFFE>
+ I will return with you.<$FFFD>Depending on the circumstances, I will  stand with you in  battle.<$FFFE>
+ Jessica joined the party!<$FFFE>
+ Thank you very much.<$FFFE>
+ I will come as well.<$FFFE>
+ Very well. Anyhow, let's be on our way to the castle.<$FFFE>
+Riguler Elthlead Border  <$0236> Outside Imperial Base<$FFFF>
+ So we've entered into a ceasefire agreement with Elthlead. But, Velzeria…<$FFFE>
+ A vampire bat…?<$FFFE>
+ Stop that jabbering, Varna.<$FFFE>
+ A monster!?<$FFFE>
+ Better not forget that we have your younger sister, Anna.<$FFFD>If you don't kill  Altemuller, her life  will be in danger.<$FFFE>
+ Grrr, …you  underhanded scumbag!<$FFFE>
+ Hohoho! If you value  your younger sister's life, you would better hurry up and kill him.<$FFFD>Use this poison… It  has no distinctive taste or smell, and will kill him quickly.<$FFFD>Just mix it in with some sake, it should be  undetectable…<$FFFE>
+ Anna and Lord Altemuller both are precious to me…<$FFFE>
+ I… I, I don't know  what to do…<$FFFE> 

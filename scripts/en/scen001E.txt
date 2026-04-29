@@ -1,224 +1,179 @@
-Langrisser III dumper [0x1418 to 0x3b93]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
+
+
+
+
+
+
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
-Jessica<$FFFF>
+Jugler<$FFFF>
+Jessica <$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
-Varna<$FFFF>
-...Young man who wishes to be a knight.<$FFFC>
-...Child destined to alter history.<$FFFC>
-Wake up, open your eyes.<$FFFE>
-My name is Lushiris.<$FFFC>
-On earth I am the goddess of light.<$FFFE>
-Under my protection Larcuss enjoyed a long peace and grew prosperous.<$FFFE>
-But now darkness rises throughout the world.<$FFFE>
-I fear peace will end and an age of unrest is dawning.<$FFFE>
-Those who live under my providence are not helpless, nor mere pawns.<$FFFC>
-I only help by opening possible paths.<$FFFE>
-It is your heart's desire that shapes the world. Peace can only endure if many wish for it.<$FFFE>
-To see if you have the potential to save this world, I need you to answer some questions.<$FFFE>
-First of all, tell me your name.<$FFFE>
-Shall I start from the beginning?<$FFFE>
-That ends my lessons. Remember to hire mercenaries.<$FFFC>
-I shall expect great deeds from you.<$FFFE>
-I shall expect great deeds from you.<$FFFE>
-Answer my questions truthfully.<$FFFE>
-Before we begin, I have a gift for you.<$FFFC>
-Please push the C button.<$FFFE>
-What is the key quality of a great unit?<$FFFE>
+Varna <$FFFF>
+Emerick <$FFFF>
+…Youth aspiring to knighthood.<$FFFC>…Youth who weaves history.<$FFFC>Open your eyes.<$FFFE>
+My name is Lushiris.On earth I'm<$FFFC>known as the goddess of light.<$FFFE>
+Under my protection,Larcuss has known long years of peace and <$FFFC>prosperity.<$FFFE>
+Even now, darkness has begun to<$FFFC>rise throughout the kingdom.<$FFFE>
+I fear that peace will come to a<$FFFC>close and an age of unrest will begin.<$FFFE>
+However, those who live under my<$FFFC>providence are not helpless, nor<$FFFC>are they pawns. I only offer my<$FFFC>guidance.<$FFFE>
+If you desire peace, that wish<$FFFC>will move the hearts of others<$FFFC>and bring peace to this world <$FFFC>once more.<$FFFE>
+To test whether you can save the<$FFFC>world, I shall now ask you some <$FFFC>questions.<$FFFE>
+First, please tell me your name.<$FFFE>
+Do you want me to start from the<$FFFC>beginning?<$FFFE>
+And so, my explanation is over.<$FFFC>Do not forget to hire soldiers.<$FFFC>I expect great deeds from you.<$FFFE>
+I expect great deeds from you.<$FFFE>
+Now, please answer my questions truthfully.<$FFFE>
+I have a gift for you before it begins.Push the C button.<$FFFE>
+What is the essential quality of<$FFFC>a matchless unit?<$FFFE>
 Leadership<$FFFE>
 Mobility<$FFFE>
-Destructive power<$FFFE>
-What is required to become a hero?<$FFFE>
-Courage<$FFFE>
+Destructive power <$FFFE>
+What do you believe is required <$FFFC>in order to become a hero?<$FFFE>
+Courage <$FFFE>
 Charisma<$FFFE>
-An indomitable mind<$FFFE>
-What is required to become a hero?<$FFFE>
+An indomitable mind <$FFFE>
+What do you believe is required <$FFFC>in order to become a hero?<$FFFE>
 Kindness<$FFFE>
-Courage<$FFFE>
-An indomitable mind<$FFFE>
-What is required to become a hero?<$FFFE>
+Courage <$FFFE>
+An indomitable mind <$FFFE>
+What do you believe is required <$FFFC>in order to become a hero?<$FFFE>
 Kindness<$FFFE>
 Charisma<$FFFE>
-An indomitable mind<$FFFE>
-Which of these do you enjoy the most?<$FFFE>
-The calm before a storm<$FFFE>
-Salty sea air<$FFFE>
-Autumn gusts and leaves<$FFFE>
-Which of these do you enjoy the most?<$FFFE>
-Salty sea air<$FFFE>
-Autumn gusts and leaves<$FFFE>
-A summer breeze across the plains<$FFFE>
-Which of these do you enjoy the most?<$FFFE>
-A refreshing breeze<$FFFE>
-Autumn gusts and leaves<$FFFE>
-Salty sea air<$FFFE>
-Which of these do you enjoy the most?<$FFFE>
-The calm before a storm<$FFFE>
-A summer breeze across the plains<$FFFE>
-Salty sea air<$FFFE>
-Which of these do you enjoy the most?<$FFFE>
-A summer breeze across the plains<$FFFE>
-A refreshing breeze<$FFFE>
-Salty sea air<$FFFE>
-Which of these do you enjoy the most?<$FFFE>
-The calm before a storm<$FFFE>
-A refreshing breeze<$FFFE>
-Salty sea air<$FFFE>
-Where do you believe God resides?<$FFFE>
+An indomitable mind <$FFFE>
+Which of these do you enjoy the <$FFFC>most?<$FFFE>
+The calm before a storm <$FFFE>
+The briny scent of sea air<$FFFE>
+Autumn gusts,fallen leaves <$FFFE>
+Which of these do you enjoy the <$FFFC>most?<$FFFE>
+The briny scent of sea air<$FFFE>
+Autumn gusts,fallen leaves <$FFFE>
+A summer breeze on the plains <$FFFE>
+Which of these do you enjoy the <$FFFC>most?<$FFFE>
+A refreshing breeze <$FFFE>
+Autumn gusts,fallen leaves <$FFFE>
+The briny scent of sea air<$FFFE>
+Which of these do you enjoy the <$FFFC>most?<$FFFE>
+The calm before a storm <$FFFE>
+A summer breeze on the plains <$FFFE>
+The briny scent of sea air<$FFFE>
+Which of these do you enjoy the <$FFFC>most?<$FFFE>
+A summer breeze on the plains <$FFFE>
+A refreshing breeze <$FFFE>
+The briny scent of sea air<$FFFE>
+Which of these do you enjoy the <$FFFC>most?<$FFFE>
+The calm before a storm <$FFFE>
+A refreshing breeze <$FFFE>
+The briny scent of sea air<$FFFE>
+Where do you believe God dwells?<$FFFE>
 In the heavens above<$FFFE>
 God does not exist<$FFFE>
-In all things<$FFFE>
-If the world falls to ruin, what will save it?<$FFFE>
-Great and powerful gods<$FFFE>
-A wealth of knowledge<$FFFE>
-My own strength<$FFFE>
-If you commanded a new unit, what would you want?<$FFFE>
-More soldiers<$FFFE>
-High morale<$FFFE>
-Perfect control<$FFFE>
-What should a great army possess?<$FFFE>
-A commander's own might<$FFFE>
+In all things <$FFFE>
+If this world falls into crisis <$FFFC>and ruin,what will save it?<$FFFE>
+Great and powerful gods <$FFFE>
+A wealth of knowledge <$FFFE>
+My own strength <$FFFE>
+What do you demand of the troops<$FFFC>you command?<$FFFE>
+More soldiers <$FFFE>
+High morale <$FFFE>
+Perfect control <$FFFE>
+What trait do you value most in <$FFFC>an ideal army?<$FFFE>
+A powerful commander<$FFFE>
 Impenetrable defense<$FFFE>
 Power to smash and destroy<$FFFE>
 What do you seek most in life?<$FFFE>
-Power<$FFFE>
+Power <$FFFE>
 Wealth<$FFFE>
-Knowledge<$FFFE>
-To what cause will you devote your life?<$FFFE>
+Knowledge <$FFFE>
+To what cause do you devote your<$FFFC>life?<$FFFE>
 To protect the ones I love<$FFFE>
 To strengthen myself<$FFFE>
 To fulfill my dreams<$FFFE>
-While resupplying, the enemy launches a surprise attack.<$FFFC>
-What will you do?<$FFFE>
-Retreat<$FFFE>
+While resupplying, the enemy has<$FFFC>launched a surprise attack.What<$FFFC>will you do?<$FFFE>
+Retreat <$FFFE>
 Counterattack <$FFFE>
-Defend <$FFFE>
-An ally is surrounded, but you are also in danger.<$FFFE>
-What is your command?<$FFFE>
-Order a retreat<$FFFE>
-Hold for reinforcements<$FFFE>
-Rush to their aid<$FFFE>
-If you gained great power, how would you use it?<$FFFE>
+Defend<$FFFE>
+An ally unit is surrouded, but<$FFFC>yours is also in danger.<$FFFE>
+What would be your command?<$FFFE>
+Order a retreat <$FFFE>
+Hold out for reinforcements <$FFFE>
+Rush to their aid <$FFFE>
+If you gained a great power, how<$FFFC>would you use it for?<$FFFE>
 To protect my people<$FFFE>
 To rule over all<$FFFE>
 To promote justice<$FFFE>
-What kind of thing is love to you?<$FFFE>
+What does love mean to you?<$FFFE>
 Something given mutually<$FFFE>
 Something one receives<$FFFE>
 A source of infinite power<$FFFE>
-What is it you expect from this world?<$FFFE>
-Love, hope and courage<$FFFE>
-Freedom to live as I please<$FFFE>
-Order and unity<$FFFE>
-What must a ruler possess?<$FFFE>
+What do you wish of this world?<$FFFE>
+Love,hope and courage<$FFFE>
+Freedom to live as I please <$FFFE>
+Order and unity <$FFFE>
+What ability must the ruler of<$FFFC>a nation possess?<$FFFE>
 Charisma<$FFFE>
 Decisiveness<$FFFE>
 Power to take action<$FFFE>
-Before battle, you must say farewell to your lover.<$FFFC>
-What do you do?<$FFFE>
+You must bid your lover farewell<$FFFC>before battle. What do you do?<$FFFE>
 Dispel her fears<$FFFE>
 Hold her in a gentle embrace<$FFFE>
-Leave without saying anything<$FFFE>
-What defines a man?<$FFFE>
-Love that embraces all<$FFFE>
+Leave, saying nothing <$FFFE>
+What does it mean to be a man?<$FFFE>
+A love that embraces all<$FFFE>
 A burning soul<$FFFE>
-A body like steel<$FFFE>
-At the start of battle, what do you need most?<$FFFE>
-Vast tactical knowledge<$FFFE>
-Calm judgment<$FFFE>
+A body like steel <$FFFE>
+When battle begins,what skill <$FFFC>do you demand of yourself?<$FFFE>
+Vast tactical knowledge <$FFFE>
+Calm judgment <$FFFE>
 Mighty power<$FFFE>
-What do you seek in a unit?<$FFFE>
+What do you look for in an ideal<$FFFC>company?<$FFFE>
 A select few<$FFFE>
-Strength in numbers<$FFFE>
-I alone am enough<$FFFE>
-Lastly, for what purpose do you fight?<$FFFE>
-To obtain glory and honor<$FFFE>
+Strength in numbers <$FFFE>
+I alone am enough <$FFFE>
+Lastly,for what purpose do you <$FFFC>fight?<$FFFE>
+To obtain glory and honor <$FFFE>
 To protect my homeland<$FFFE>
 To protect my loved ones<$FFFE>
-Do you need an explanation of the rules of this world?<$FFFE>
-Shall I explain the flow of battle?<$FFFE>
-Each battle has a prologue, then a preparation screen where you hire troops, buy items, equip and change class.<$FFFD>
-Deploy your commanders and choose Begin Battle.<$FFFD>
-Watch the battlefield and enemy positions when placing units.<$FFFD>
-Battles occur on the map and in Battle mode.<$FFFD>
-Each scenario has victory and defeat conditions.<$FFFC>
-Meet the victory conditions to advance the story. Defeat means game over.<$FFFD>
-Conditions are shown in the prologue and can change mid-scenario. Check them via the main menu.<$FFFE>
-Want to learn about hiring troops?<$FFFE>
-One troop type per hire. Troops improve along with their commander.<$FFFD>
-Press L and R to cycle commanders on the recruit screen.<$FFFD>
-Hold L on the map to see HP. Press Start or Z to open the menu.<$FFFE>
-Want to learn about the battle system?<$FFFE>
-This game has a new battle system. Orders go to commanders only, not individual soldiers.<$FFFD>
-Commands are not carried out immediately. Press Start and select Execute Turn to have all units act at once.<$FFFE>
-Shall I explain the commands?<$FFFE>
-[Move] Move units on the map. A highlighted area shows movement range. You can set a route.<$FFFD>
-[Recover] Recover HP. The unit cannot move or attack that turn.<$FFFD>
-[Magic] Cast spells using MP. Stronger spells take longer. Unit cannot act otherwise.<$FFFD>
-[Item] Equip or use items. Only one per turn, unit cannot act otherwise.<$FFFD>
-[Use] Activate special item effects. Some items may break.<$FFFD>
-[Summon] Spend MP to call an ally creature. One summon per character. Treat it like a commander.<$FFFE>
-[Skill] Some skills are passive, others can be activated in battle.<$FFFD>
-Combine commands to cover weaknesses and boost strengths.<$FFFC>
-Mode and Formation are explained next.<$FFFD>
-You can change commands freely until you select Execute Turn.<$FFFE>
-Want to learn about unit modes?<$FFFE>
-Three modes: Normal, High Mobility, and Defense.<$FFFD>
-Normal is balanced. High Mobility moves farther but lowers attack and defense.<$FFFD>
-Defense stops movement but raises defense. Units must move to change formation.<$FFFE>
-Want to learn about formations?<$FFFE>
-Formations set how soldiers line up around their commander. Changes apply after moving.<$FFFD>
-Square: soldiers ring the commander.<$FFFD>
-Spear: reach distant enemies in a line.<$FFFD>
-Wall: block front and back.<$FFFD>
-Slant: two variants for flexible angles.<$FFFD>
-Pick formations to control which units engage.<$FFFE>
-Want to learn about battle mode?<$FFFE>
-Battle starts when units make contact or are in range. Even one soldier connecting brings the whole unit into battle.<$FFFD>
-Mind your formation to avoid exposing weak units.<$FFFD>
-As the attacker, you choose which enemy to strike, or do nothing.<$FFFE>
-Use the D-pad to cycle targets. A 3D battle scene plays when units clash.<$FFFD>
-You can give orders to commanders and squads in this scene.<$FFFD>
-To skip it, set Battle Scenes to off in Game Options. Results are then calculated automatically.<$FFFE>
-Want to learn about affinities?<$FFFE>
-Each troop type has its own affinities.<$FFFD>
-Infantry beats Spearmen. Spearmen beat Cavalry. Cavalry beats Infantry.<$FFFD>
-Bowmen beat flyers. Monks beat undead and demons.<$FFFD>
-Some flyers specialize in anti-air or anti-ground.<$FFFD>
-Sailors excel on water, else fight as infantry.<$FFFD>
-Choose your troops wisely.<$FFFE>
-Want to learn about class changes?<$FFFE>
-Want more detail on classes?<$FFFE>
-Class affects stat growth, skills, magic, and hireable troops.<$FFFD>
-Use Class Change on the preparation screen. New classes open at levels 10, 30, and 50.<$FFFD>
-Class level is separate from character level. A new class starts at level 1.<$FFFD>
-Switching classes mid-game has no penalty. Use it strategically.<$FFFE>
-Want to learn about upgrading classes?<$FFFE>
-Upgraded classes unlock unique spells and better units.<$FFFD>
-Two ways to upgrade: use a Divine Blessing item,<$FFFC>
-or gain 15 levels in that class.<$FFFD>
-For example<$FFFC>
-15 levels as Lord upgrades to High Lord.<$FFFE>
-Want to learn about gaining experience?<$FFFE>
-Defeating a commander removes all his soldiers.<$FFFD>
-Aim for the commander for a quick win, or defeat all soldiers first for max experience.<$FFFE>
-Want to learn useful shortcuts?<$FFFE>
-Press Y to jump between your commanders.<$FFFD>
-Press A during range display to lock cursor to that range.<$FFFD>
-Hold X to speed up the cursor. Avoid B as it may cancel actions.<$FFFE>
+Shall I explain the basic rules <$FFFC>of this world?<$FFFE>
+Would you like me to explain how<$FFFC>combat works?<$FFFE>
+A prologue begins each stage.<$FFFC>After that you'll be directed to<$FFFC>the battle preparation screen.<$FFFD>During battle preparation you <$FFFC>can hire soldiers, buy and sell <$FFFC>items, equip your commanders <$FFFC>and change their class.<$FFFD>Once all commanders are deployed<$FFFC>choose"Begin battle" to start.<$FFFD>Always watch the battlefield and<$FFFC>enemy deployment while placing<$FFFC>your commanders.<$FFFD>Battles takes place on the map <$FFFC>and in Battle mode.<$FFFD>Both have been overhauled.<$FFFD>Clear each scenario by meeting<$FFFC>its Victory Conditions. If the<$FFFC>Defeat Conditions are met,<$FFFC>it is game over.<$FFFD>The conditions for victory and <$FFFC>defeat are displayed during the<$FFFC>prologue before the scenario but<$FFFC>can change throughout the course<$FFFC>of a scenario.<$FFFD>Those conditions also can be <$FFFC>locked up in battle through the <$FFFC>main menu.<$FFFE>
+Do you wish for a more detailed <$FFFC>explanation about hiring troops?<$FFFE>
+Only one type of troops can be<$FFFC>hired at a time. Troops only<$FFFC>grow stronger along with their<$FFFC>commander.<$FFFD>Press L and R on the recruit <$FFFC>screen to cycle through your <$FFFC>commanders.<$FFFD>Hold L on the map to see the HP<$FFFC>of commanders and their units.<$FFFC>Pressing start or Z during <$FFFC>battle will open the main menu.<$FFFE>
+Do you want to be informed about<$FFFC>the battle system in greater<$FFFC>detail?<$FFFE>
+In this game,units act together<$FFFC>under their commander.<$FFFD>Orders go to commanders only,<$FFFC>not to individual soldiers.<$FFFD>Commanders do not act right away<$FFFC>after receiving orders.<$FFFD>Once all orders are given, press<$FFFC>Start and select Execute Turn.<$FFFC>All units will then act at once.<$FFFE>
+Do you want me to explain every <$FFFC>command?<$FFFE>
+<$035C>Move<$035D>Sets a destination for<$FFFC>your units. You can set up to 4<$FFFC>waypoints within its max<$FFFC>movement range.<$FFFD><$035C>Recover<$035D>Your commander and <$FFFC>Soldiers will recover some HP.<$FFFC>Recovering units cannot move or <$FFFC>attack during that turn.<$FFFD><$035C>Magic<$035D>Use your MP to invoke<$FFFC>mighty spells. Casting units can't do anything else that turn.<$FFFD>Note that spells need time to be<$FFFC>cast.More powerful spells take <$FFFC>longer to cast than easy ones.<$FFFD><$035C>Item<$035D>Items can either be <$FFFC>equipped or used during battle.<$FFFD>Only one item can be used at a <$FFFC>time and the unit becomes unable<$FFFC>to do anything else.<$FFFD><$035C>Use<$035D>Use items and invoke <$FFFC>special effect of certain items.<$FFFC>Beware though, there are items <$FFFC>that could break upon using.<$FFFD><$035C>Summon<$035D>Use your MP to call <$FFFC>a creature. Summoned creatures <$FFFC>act just as other commanders.<$FFFE>
+<$035C>Skill <$035D>There are skills with <$FFFC>permanent effect and skills that<$FFFC>can be activated manually.<$FFFC>In battle only skills that can<$FFFC>be activated will show up.<$FFFD>Master the use of those commands<$FFFC>and success will be certain.<$FFFD>Normally, you can only choose <$FFFC>one command at a time. However,<$035C>Mode<$035D> and <$035C>Formation <$035D> can<$FFFC>be combined with other commands.<$FFFD>Until you press Start or Z and <$FFFC>select Execute Turn you are free<$FFFC>to change given commands.<$FFFE>
+Do you want me explain a unit's <$FFFC>mode more accurately?<$FFFE>
+There are three possible modes <$FFFC>a unit can be set to: Defense,<$FFFC>Normal and High Mobility.<$FFFD>Normal is the default and most <$FFFC>balanced mode. Choosing High <$FFFC>Mobility will increase the area a unit can move, but will lower <$FFFC>the attack and defense values.<$FFFD>When choosing Defense, movement <$FFFC>is no longer possible, but <$FFFC>defensive power rises. Note that your soldiers have to move in  order to change formation.<$FFFE>
+Do you desire to know more about the unit's formations?<$FFFE>
+The formation decides how unit's will place themselves in relation to their commander.<$FFFD>A change in formation only applies after a commander moves.<$FFFD>The Square is the default  formation placing soldiers all around the commander.<$FFFD>The Spear can help to reach far  away enemies.<$FFFD>The Wall is useful to intercept  enemies coming from the back and the front.<$FFFD>The Slant comes in two variations and can be handy in various situations.<$FFFD>In battle it is of utmost  importance to determine which  units should make contact to the enemy. Use formations for  precise maneuvers.<$FFFE>
+Next, do you want me to explain battle mode?<$FFFE>
+Battle mode will be triggered if two units soldiers or commanders have contact to another or are in proximity of ranged attack. Even if only one Soldier connects, the whole unit will partake in battle <$FFFD>Be mindful of your unit's  formation to avoid having weak units getting caught in melee.<$FFFD>When entering battle mode two  pictures will show up, one unit  defends and one attacks. If you  are the attacker you can choose  which unit you want to attack or if you would rather do nothing.<$FFFE>
+To cycle through use the directional buttons. By default  you will enter a Battle scene  once two units engage in battle. You will be presented by a 3D simulation of the battle.<$FFFD>Here you can give specific orders to your Commander and Soldier Squads.<$FFFD>If you would prefer not to watch the Battle scene, go to the main  menu choose Game Options and set Battle Scenes to off. If the  battle scene is turned off, the battle results will be calculated automatically.<$FFFE>
+Do you want to learn more about  affinities?<$FFFE>
+Affinities mean the s <$FFFD>For example infantry units are strong against spearmen, but weak against cavalry. Spearmen  are strong against cavalry, but weak against infantry. Cavalry is strong against infantry, but weak against spearmen.<$FFFD>Bowmen are strong against flying units. Monks and clerics are strong against demons, gels and  the Undead. There are also  specialized Anti air and Anti  ground flying units.<$FFFD>Sailors are very powerful in water but otherwise are of the same affinity as infantry.<$FFFD>Choosing your troops wisely is a must to do battle effectively.<$FFFE>
+Do you wish to know more about<$FFFC>the flexible class change?<$FFFE>
+So you want to gain further <$FFFC>knowledge about classes?<$FFFE>
+Changing the class of a commander will result in a change of stat growth. Skills, magic and units that can be  hired, depend on the class of a character.<$FFFD>Select Class Changes at the  battle preparation screen.<$FFFD>At the levels 10, <$0619> and 50 a new class will become  accessible, depending on the  character.<$FFFD>Note that the level count of the class is independent of the  characters level.<$FFFD>A newly acquired class will  start out at level 1 while the character remains at his current level.<$FFFD>Doing a class change mid way won't result in any further  disadvantages.<$FFFD>Switching classes depending on the situation at hand is a key element for claiming victory.<$FFFE>
+Do you wish to learn more about  how to level up a class?<$FFFE>
+While upgraded classes have the  same stat growth as the basic  classes, unique spells and better units become available.<$FFFD>There are two ways to rise the level of a class. You can use the divine blessing item, or  gain <$0613> levels with the appropriate class.<$FFFD>For example When you gain <$0613> levels as a Lord your class will automatically upgrade to High  Lord.<$FFFE>
+Do you want to learn more about<$FFFC> the amount of experience<$FFFC>gained?<$FFFE>
+When a commander is defeated all his soldiers will vanish along with him.<$FFFD>If you want to make short work of your enemies, aim for the commander. Defeating all soldiers first will net you the  maximal amount of experience points.<$FFFE>
+Do you want to learn about<$FFFC>special inputs?<$FFFE>
+Listen well for those hints  could safe you a lot of time in  battle. Press the Y button to move the cursor to the next  commander. Pushing Y again will  cycle through your commanders.<$FFFD>Pushing the A button while a range indicator shows up, will  limit the cursor's movement to the displayed range.<$FFFD>You can speed up the cursor's speed by holding down either B or X, but X is recommended since  you could accidentally cancel an action pressing B in some situations.<$FFFE>    

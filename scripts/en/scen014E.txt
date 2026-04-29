@@ -1,222 +1,170 @@
-Langrisser III dumper [0x83842 to 0x84acf]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
+Emerick <$FFFF>
 Barral Soldier<$FFFF>
 Ruud<$FFFF>
 Barral Commander<$FFFF>
-Sage Fauvel<$FFFF>
--Defeat all enemies<$FFFE>
--Death of [diehardt's name]<$FFFC>
--Death of Jügler<$FFFE>
-Lushiris Western Gate<$FFFF>
-There's nothing outside sir!<$FFFE>
-Expand the search.<$FFFC>
-Split up and search the interior for the sacred beast!<$FFFE>
-Barral Soldiers!?<$FFFC>
-So the enemy has come to this place as well.<$FFFE>
-I just hope that warden Jügler is still safe...<$FFFE>
-Jügler?<$FFFE>
-Yes.<$FFFC>
-But unlike us Jügler is not a human being.<$FFFE>
-Ehh?<$FFFC>
-But if he's not human, just what is he?<$FFFE>
-Jügler is a saintly animal that serves the goddess.<$FFFE>
-My, I can't wait to meet such a intriguing creature.<$FFFE>
-First we must repel the Barral troops.<$FFFC>
-Fortunately they have just arrived.<$FFFE>
-Surely Jügler has hid himself somewhere in the temple.<$FFFE>
-Ugh, so they really did show up.<$FFFC>
-We have to locate the beast before they do!<$FFFE>
-Yes sir!<$FFFE>
-All spare troops take care of those nuisances!<$FFFE>
-Understood!<$FFFE>
-Saintly animal Jügler....<$FFFD>
-What kind of animal is he exactly?<$FFFE>
-Jügler has the ability of metamorphosis, allowing him to take various shapes.<$FFFE>
-Jügler has the ability of metamorphosis, allowing him to take various shapes.<$FFFE>
-Dammit!<$FFFC>
-What a persistent prey!<$FFFE>
-Damn!<$FFFD>
-The sacred beast still haven't been found yet?<$FFFE>
-The search continues!<$FFFE>
-Hurry up!<$FFFC>
-With utmost haste!<$FFFE>
-Dammit!<$FFFD>
-Where on earth could that beast be!?<$FFFE>
-The enemy is targeting Jügler!<$FFFC>
-Everyone, protecting Jügler takes first priority!<$FFFE>
-Of course.<$FFFC>
-We mustn't allow them to kill him!<$FFFE>
-That's right.<$FFFE>
-If we fail here, Larcuss can never be restored!<$FFFD>
-We must win!<$FFFE>
-That's the spirit!<$FFFE>
-Are you alright Jügler!?<$FFFC>
-Just hold out a little while longer!<$FFFE>
-Grrr...<$FFFE>
-Maybe here?<$FFFE>
-Damn!<$FFFC>
-Just where could it be?<$FFFE>
+Sage Fauvel <$FFFF>
+Defeat all enemies<$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Jugler <$FFFE>
+Lushiris Western Gate <$FFFF>
+ There's nothing outside sir!<$FFFE>
+ In that case we will expand the search. Split up into groups and search the interiors for the sacred beast!<$FFFE>
+ Barral Soldiers!? So the  enemy has come to this place as well.<$FFFE>
+ I just hope that warden  Jugler is still safe…<$FFFE>
+ Jugler?<$FFFE>
+ Yes. But unlike us Jugler is not a human  being.<$FFFE>
+ Ehh? But if he's not human, just what is he?<$FFFE>
+ Jugler is a saintly  animal that serves the goddess.<$FFFE>
+ My, I can't wait to meet  such a intriguing  creature.<$FFFE>
+ First the Barral troops  have to be repelled, don't you think? It is fortunate that they have just arrived.<$FFFE>
+ Surely Jugler has hid  himself somewhere in the temple.<$FFFE>
+ Ugh, so they really did  show up. We have to  locate the beast before  they do!<$FFFE>
+ Yes sir!<$FFFE>
+ All spare troops take  care of those nuisances!<$FFFE>
+ Understood!<$FFFE>
+ Saintly animal Jugler…<$FFFD>What kind of animal is he exactly?<$FFFE>
+ Jugler has the ability of metamorphosis, allowing him to take various shapes.<$FFFE>
+ Jugler has the ability of metamorphosis, allowing him to take various shapes.<$FFFE>
+ Dammit! What a persistent prey!<$FFFE>
+ Damn!<$FFFD>The sacred beast still haven't been found yet?<$FFFE>
+ The search continues!<$FFFE>
+ Hurry up! With utmost haste!<$FFFE>
+ Dammit!<$FFFD>Where on earth could that beast be!?<$FFFE>
+ The enemy is targeting Jugler! Everyone, protecting Jugler takes  first priority!<$FFFE>
+ Of course. We mustn't  allow them to kill him!<$FFFE>
+ That's right.<$FFFE>
+ If we fail here against  Barral, the restoration of Larcuss will be utterly impossible!<$FFFD>We simply must win!<$FFFE>
+ That's the spirit!<$FFFE>
+ Are you alright Jugler!? Just hold out a little while longer!<$FFFE>
+ Grrr…<$FFFE>
+ Maybe here?<$FFFE>
+ Damn! Just where could  it be?<$FFFE>
 !<$FFFE>
-<$F702>Nope, he's not here.<$FFFE>
+<$F702>
+ <$F702>Nope, he's not here.<$FFFE>
 !<$FFFE>
-<$F702>He must be in a different room.<$FFFE>
+<$F702>
+ <$F702>He must be in a different room.<$FFFE>
 !<$FFFE>
-<$F702>Sigh...nothing.<$FFFE>
-Keep at it, he has to be somewhere!<$FFFE>
+<$F702>
+ <$F702>Sigh…nothing.<$FFFE>
+ Keep at it, he has to be  somewhere!<$FFFE>
 !<$FFFE>
-<$F702>Guess what...<$FFFE>
-He's not here....<$FFFE>
+<$F702>
+ <$F702>Guess what…<$FFFE>
+ He's not here…<$FFFE>
 !<$FFFE>
-<$F702>Damn it all!<$FFFE>
+<$F702>
+ <$F702>Damn it all!<$FFFE>
 Search the whole place!<$FFFE>
-Just where is he?<$FFFE>
-A treasure box was found!<$FFFD>
-Divine Blessing was obtained!<$FFFE>
-The treasure box was opened!<$FFFE>
-The treasure box was a fake...<$FFFE>
-A treasure box was found!<$FFFD>
-The treasure box was opened!<$FFFE>
-Ambrosia was obtained!<$FFFE>
-The treasure box was a fake...<$FFFE>
-Don't murder Jügler!<$FFFE>
-You must be their commander!<$FFFE>
-Damn this!<$FFFE>
-Tia, is unbeatable!<$FFFE>
+ Just where is he?<$FFFE>
+ A treasure box was found!<$FFFD>Divine Blessing was  obtained!<$FFFE>
+ The treasure box was opened!<$FFFE>
+ The treasure box was a fake…<$FFFE>
+ A treasure box was found!<$FFFD>The treasure box was opened!<$FFFE>
+ Ambrosia was obtained!<$FFFE>
+ The treasure box was a fake…<$FFFE>
+ Don't murder Jugler!<$FFFE>
+ You must be their  commander!<$FFFE>
+ Damn this!<$FFFE>
+ Tia, is unbeatable!<$FFFE>
 Defeat is not an option!<$FFFE>
-Hihihi!<$FFFC>
-You shouldn't have come here!<$FFFE>
-I wish it wouldn't have to come to this!<$FFFE>
-Don't you dare to set foot onto this holy ground...<$FFFE>
-Going to battle is such barbarism.<$FFFC>
-You will not desecrate this holy site.<$FFFE>
-Jüggler fight graaa!<$FFFC>
-You cannot simply defeat!<$FFFE>
-I hold no grudge against you, but I'm afraid you'll have to die!<$FFFE>
-The sacred beast is aware of the danger it's in!<$FFFE>
-Don't let it get away!<$FFFE>
-It is unfortunate but your life ends now!<$FFFE>
-Die, die, die!<$FFFE>
-Your luck has run out, having me as your opponent!<$FFFE>
-I can still...<$FFFC>
-You have to do it...<$FFFE>
-Papa...<$FFFE>
-Everyone, I'm sorry...<$FFFE>
-That's the extent of my power...<$FFFE>
-I'm useless...<$FFFE>
-Oh?<$FFFE>
-My apologies...<$FFFE>
-Lushiris...<$FFFE>
-Gua...<$FFFC>
-No please, don't...<$FFFE>
-Grrr...<$FFFC>
-Stop it...<$FFFE>
-Jügler!?<$FFFE>
-We did it!<$FFFC>
-Brace yourself Dark Knight!<$FFFC>
-The sacred beast is no more!<$FFFE>
-Curses!<$FFFC>
-The Sacred beast...<$FFFE>
-Never could I be beaten like this...General Dios...<$FFFE>
-Captain Ruud please retreat...<$FFFE>
-...Forgive me.<$FFFE>
-General Dios...if only you had been in command...<$FFFD>
-Damn!<$FFFE>
-Guaaaa!<$FFFE>
-I wanted to see my son...once more...<$FFFE>
-What folly!<$FFFE>
-That's not how..it..should..be...<$FFFE>
-Where are all my friends now...<$FFFE>
-UUwaaa!<$FFFE>
-Fo...Fools...<$FFFE>
-Captain Ruud...!<$FFFE>
-I like dying...<$FFFE>
-Never!<$FFFE>
-My horsemanship was...<$FFFE>
-Wh..What?<$FFFC>
-I can't be defeated like this...<$FFFE>
-Next time I want to be born in a world without war...<$FFFE>
-General...where are..you...<$FFFE>
-I couldn't...hurt an animal...<$FFFE>
-Not in a place like this...!<$FFFE>
-All my troops have been defeated!?<$FFFC>
-How could such a thing...<$FFFD>
-But no matter I'll even fight on alone!<$FFFC>
-And I will prove my worth to that conceited Dark Knight!<$FFFE>
-Phew.<$FFFC>
-Somehow we made it through.<$FFFE>
-[diehardt's name], well done commanding.<$FFFE>
-Sir [diehardt's name]...<$FFFC>
-Bluntly you suck as a commander...<$FFFD>
-Please consider a change of vocation...<$FFFE>
-Grrrr....<$FFFE>
-!!<$FFFD>
-Gururu....!<$FFFE>
-Jügler it is me!<$FFFC>
-Sophia.<$FFFE>
-...Furuu my lady...<$FFFE>
-Come here, Jügler.<$FFFC>
-Have you forgotten my face?<$FFFE>
-...Furuu my lady...<$FFFE>
-That's Jügler isn't it?<$FFFC>
-Jügler, are you alrigt!?<$FFFE>
-Gur...<$FFFC>
-Jügler is not hurt.<$FFFE>
-Jügler, are you alrigt!?<$FFFE>
-Gur...<$FFFC>
-Jügler is not hurt.<$FFFE>
-We are in time, what a great relief.<$FFFE>
-Well Jügler, let us re-establish the gate then.<$FFFE>
-U..uuu...<$FFFE>
-Jügler!<$FFFE>
-Oh no!<$FFFC>
-Jügler is being attacked...<$FFFE>
-Hold out, Jügler!<$FFFC>
-We'll be right there to help you!<$FFFE>
-...Absurd.<$FFFE>
+ Hihihi! You shouldn't have come here!<$FFFE>
+ I wish it wouldn't have  to come to this!<$FFFE>
+ Don't you dare to set  foot onto this holy  ground…<$FFFE>
+ Going to battle is such  barbarism. However you will not be permitted to desecrate this holy  site.<$FFFE>
+ Juggler fight graaa! You cannot simply defeat!<$FFFE>
+ I hold no grudge against you, but I am afraid you will have to die!<$FFFE>
+ The sacred beast is  aware of the danger it's in!<$FFFE>
+ Don't let it get away!<$FFFE>
+ It is unfortunate but  your life ends now!<$FFFE>
+ Die, die, die!<$FFFE>
+ Your luck has run out, having me as your  opponent!<$FFFE>
+ I can still… You have  to do it…<$FFFE>
+ Papa…<$FFFE>
+ Everyone, I am sorry…<$FFFE>
+ That's the extent of my  power…<$FFFE>
+ I am useless…<$FFFE>
+ Oh?<$FFFE>
+ My apologies…<$FFFE>
+ Lushiris…<$FFFE>
+ Gua… No please, don't…<$FFFE>
+ Grrr… Stop it…<$FFFE>
+ Jugler!?<$FFFE>
+ We did it! Brace yourself Dark Knight! The sacred beast is no more!<$FFFE>
+ Curses! The Sacred  beast…<$FFFE>
+ Never could I be beaten  like this…General  Dios…<$FFFE>
+ Captain Ruud please  retreat…<$FFFE>
+ …Forgive me.<$FFFE>
+ …General Dios…if only…you would have been in  command…instead of that heinous Dark  Knight…<$FFFD>Damn!<$FFFE>
+ Guaaaa!<$FFFE>
+ I wanted to see my son…once more…<$FFFE>
+ What folly!<$FFFE>
+ That's not how…it…should…be…<$FFFE>
+ Where are all my friends now…<$FFFE>
+ UUwaaa!<$FFFE>
+ Fo…Fools…<$FFFE>
+ Captain Ruud…!<$FFFE>
+ I like dying…<$FFFE>
+ Never!<$FFFE>
+ My horsemanship was…<$FFFE>
+ Wh…What? I can't be  defeated like this…<$FFFE>
+ Next time I want to be born in a world without  war…<$FFFE>
+ General…where  are…you…<$FFFE>
+ I couldn't…hurt an  animal…<$FFFE>
+ Not in a place like  this…!<$FFFE>
+ All my troops have been  defeated!? How could such a thing…<$FFFD>But no matter I will even fight on alone! And I will prove my worth to that conceited Dark  Knight!<$FFFE>
+ Phew. Somehow we made it  through.<$FFFE>
+ Sir <$F600><$0000>, I can only  applaud you for your fine commanding.<$FFFE>
+ Sir <$F600><$0000>… Bluntly you suck as a commander…<$FFFD>Please consider a change of vocation…<$FFFE>
+ Grrrr…<$FFFE>
+ !!<$FFFD>Gururu…!<$FFFE>
+ Jugler it is me! Sophia.<$FFFE>
+ …Furuu my lady…<$FFFE>
+ Come here, Jugler. Have  you forgotten my face?<$FFFE>
+ …Furuu my lady…<$FFFE>
+ That's Jugler isn't it? Jugler, are you alrigt!?<$FFFE>
+ Gur… Jugler is not hurt.<$FFFE>
+ Jugler, are you alrigt!?<$FFFE>
+ Gur… Jugler is not hurt.<$FFFE>
+ We are in time, what a great relief.<$FFFE>
+ Well Jugler, let us re establish the gate then.<$FFFE>
+ U…uuu…<$FFFE>
+ Jugler!<$FFFE>
+ Oh no! Jugler is being attacked…<$FFFE>
+Hold out, Jugler! We  will be right there to help you!<$FFFE>
+ …Absurd.<$FFFE>
 !<$FFFE>
-Blasted!<$FFFC>
-They found it!<$FFFE>
-!!<$FFFD>
-Grrrr....!<$FFFE>
-Jügler it is me!<$FFFC>
-Sophia.<$FFFE>
-...Fuuu my lady...<$FFFE>
-Come here, Jügler.<$FFFC>
-Have you forgotten my face?<$FFFE>
-...Fuuu my lady...<$FFFE>
-You can relax.<$FFFC>
-We've come to help you.<$FFFE>
-Gururu....<$FFFC>
-Jüügler fight!<$FFFE>
-The search is over.<$FFFC>
-Bring me that animal no matter what!<$FFFE>
-Good!<$FFFC>
-Cease searching the other rooms.<$FFFC>
-Search party focus on killing the beast!<$FFFD>
-Our mission is almost complete!<$FFFE>
-Wow.<$FFFC>
-Such an ability sounds like fun.<$FFFE>
-Well.<$FFFC>
-Let us make great haste to meet such a fabulous creature.<$FFFE>
-Captain!<$FFFC>
-We discovered the beast!<$FFFE>
+ Blasted! They found it!<$FFFE>
+ !!<$FFFD>Grrrr…!<$FFFE>
+ Jugler it is me! Sophia.<$FFFE>
+ …Fuuu my lady…<$FFFE>
+ Come here, Jugler. Have  you forgotten my face?<$FFFE>
+ …Fuuu my lady…<$FFFE>
+ You can relax. We've  come to help you.<$FFFE>
+ Gururu… Juugler fight!<$FFFE>
+ The search is over. Bring me that animal no  matter what!<$FFFE>
+ Good! Cease searching the other rooms. Search  party focus on killing the beast!<$FFFD>Now it's only a matter of minutes until our mission is complete!<$FFFE>
+ Wow. Such an ability sounds like fun.<$FFFE>
+ Well. Let us make great haste to meet such a fabulous creature.<$FFFE>
+ Captain! We discovered the beast!<$FFFE>  

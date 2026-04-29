@@ -1,41 +1,36 @@
-Langrisser III dumper [0x307196 to 0x307513]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Plains of Luon ~ Marshlands<$FFFF>
-You did it, Kirikaze.<$FFFE>
-Thanks to everyone's help, I was able to defeat that witch.<$FFFE>
-I don't know how best to express my gratitude......<$FFFE>
-No need to worry about that.<$FFFC>
-We're all friends, after all.<$FFFE>
-Speaking of which, Kirikaze,<$FFFC>
-what do you plan to do now?<$FFFE>
-Since you were able to avenge your lord, will you return now?<$FFFE>
-No.<$FFFC>
-We may have defeated Ferakia, but the puppeteer pulling her strings, Bosel, remains.<$FFFE>
-Unless Bosel is defeated, other monsters will eventually attack again.<$FFFE>
-Until Bosel is overthrown, I will travel together with you all.<$FFFE>
-I see.<$FFFE>
-In that case, we have to defeat Bosel and end this matter once and for all.<$FFFE>
-I shall make it my new duty.<$FFFC>
-Come, let's move on!<$FFFE>
-All right, everyone.<$FFFC>
-None of us can rest until Bosel is defeated!<$FFFE>
+Emerick <$FFFF>
+Plains of Luon <$0236> Marshlands<$FFFF>
+ You did it, Kirikaze.<$FFFE>
+ Thanks to everyone's help, I was able to defeat that witch.<$FFFE>
+ I don't know how best to express my gratitude…<$FFFE>
+ No need to worry about that. We're all friends, after all.<$FFFE>
+ Speaking of which, Kirikaze, what do you plan to do now?<$FFFE>
+ Since you were able to avenge your lord, will  you return now?<$FFFE>
+ No. We may have defeated  Feraquea, but the puppeteer pulling her  strings, Bozel, remains.<$FFFE>
+ Unless Bozel is  defeated, other monsters  will eventually attack again.<$FFFE>
+ Until Bozel is overthrown, I will  travel together with you all.<$FFFE>
+ I see.<$FFFE>
+ In that case, we have to  defeat Bozel and end this matter once and for all.<$FFFE>
+ I shall make it my new duty. Come, let's move  on!<$FFFE>
+ All right, everyone. None of us can rest  until Bozel is defeated!<$FFFE> 

@@ -1,42 +1,26 @@
-Langrisser III dumper [0x3720ae to 0x37235b]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
- <$FFFC>
-Scenario ~ 36<$FFFC>
-"The Birth of a Legend"<$FFFE>
-After the division strikes down Demon General Geier<$FFFC>
-and begins descending into the deeper parts of Castle Velzeria,<$FFFC>
-the companions are welcomed by an eerie light bearing ill omen undoubtedly.<$FFFC>
-From the inner part Paul's voice can be heard,<$FFFC>
-offering up ceremonial chants to the God of Chaos. <$FFFE>
-Should the ceremony be completed,<$FFFC>
-not only would the Demonic God terrorize the world again<$FFFC>
-but also would her soul fall into eternal darkness.<$FFFC>
-And so the battle for [diehardt's name]'s beloved<$FFFC>
-and the fate of all mankind unfolds.<$FFFE>
-
-
-*Condition for Victory<$FFFC>
-  Defeat Bosel within 17 turns<$FFFC>
-* Conditions for Defeat<$FFFC>
-  Death of [diehardt's name]<$FFFC>
-  Death of the Hostage<$FFFE>
+Emerick <$FFFF>
+ Scenario <$0236> 36 "The Birth  of a Legend"<$FFFE>
+ After the division strikes down Demon General Geier and begins descending into the  deeper parts of Castle Velzeria, the companions  are welcomed by an eerie light bearing ill omen undoubtedly. From the  inner part Paul's voice can be heard, offering  up ceremonial chants to  the God of Chaos.<$FFFE>
+ Should the ceremony be completed, not only  would the Demonic God  terrorize the world  again but also would her soul fall into eternal darkness. And so the  battle for <$F600><$0000>'s beloved and the fate of  all mankind unfolds.<$FFFE>
+ <$01E9>Condition for Victory  Defeat Bozel within 17 turns <$01E9> Conditions for  Defeat Death of  <$F600><$0000> Death of the  Hostage <$FFFE> 

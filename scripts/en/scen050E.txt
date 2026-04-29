@@ -1,40 +1,27 @@
-Langrisser III dumper [0x1ecac8 to 0x1ecd83]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-<$FFFC>
-Scenario ~ 05<$FFFC>
-"Wily General Emerick"<$FFFE>
-Altemuller, Field Marshal of the Imperial Army, received the<$FFFC>
-information from Geier and sent General Emerick to the<$FFFC>
-mansion of Baron Torrand, to strike before [diehardt's name] and<$FFFC>
-company make contact.<$FFFE>
-But, through the guidance of the Baron's daughter, Luna,<$FFFC>
-[diehardt's name] and company arrived at the Baron's mansion<$FFFC>
-more quickly than thought possible, only to find a battle<$FFFC>
-already raging between the Baron and Emerick.<$FFFE>
-*Conditions for Victory<$FFFC>
- -Defeat of Emerick<$FFFC>
- -Annihilation of all invading enemy units<$FFFC>
- -Arrival of the PCs inside the mansion<$FFFC>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of Torrand<$FFFE>
+Emerick <$FFFF>
+ Scenario <$0236> 05 "Wily General Emerick"<$FFFE>
+Altemuller, Field Marshal of the Imperial  Army, received the  information from Geier and sent General Emerick to the mansion of Baron Torrand, to  strike before  <$F600><$0000> and company make contact.<$FFFE>
+But guided by the  baron's daughter Luna, <$F600><$0000> and his party reached the mansion  sooner than expected and arrived in time to witness the baron's  battle with Emerlink.<$FFFE>
+ But, through the guidance of the Baron's  daughter, Luna, <$F600><$0000> and company arrived at the Baron's mansion more quickly than thought possible, only to find a battle  already raging between the Baron and Emerick.<$FFFE>
+ <$01E9>Defeat Conditions  <$F600><$0000> falls in battle Torland falls in battle <$FFFE> 

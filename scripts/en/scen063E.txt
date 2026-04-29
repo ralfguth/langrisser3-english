@@ -1,58 +1,50 @@
-Langrisser III dumper [0x24919a to 0x24975f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Ferakia<$FFFF>
-Bosel<$FFFF>
-General Bortz<$FFFF>
-Rigüler Commander<$FFFF>
-Velzeria Castle<$FFFF>
-Master Bosel....<$FFFE>
-....What is it, Ferakia?<$FFFE>
-My apologies!<$FFFC>
-An unforeseen intrusion; I couldn't kill the sorceress.<$FFFE>
-Even without the Gate, Lushiris's vile power lingers.<$FFFE>
-Can't be helped, since I didn't grant you full power.<$FFFE>
-But for you to lose, they must've been quite strong.<$FFFE>
-...Shame I couldn't enjoy it fully.<$FFFE>
-No need to brood, plenty of battles await.<$FFFC>
-Hmm, what should our next move be...<$FFFE>
+Emerick <$FFFF>
+Feraquea the Doppelganger<$FFFF>
+Bozel <$FFFF>
+General Bortz <$FFFF>
+Riguler Commander <$FFFF>
+Velzeria Castle <$FFFF>
+ Master Bozel…<$FFFE>
+ …What is it, Feraquea?<$FFFE>
+ My apologies! On the  way, there was an  unforseen intrusion, and I was unable to murder the sorceress.<$FFFE>
+ Even without the functionality of the Gate, some of Lushiris  loathsome power remains.<$FFFE>
+ It couldn't be helped, since I didn't grant you your original power.<$FFFE>
+ But, for you to have lost like this, it must have been quite a powerful party.<$FFFE>
+ …It's just a shame I couldn't enjoy myself to the fullest.<$FFFE>
+ No need to brood over  it, there will be plentiful battles in the future. Hmmm, but I do  wonder what our next move should be…<$FFFE>
 Plains Near the Northern Gate<$FFFF>
-We're in deep trouble, totally surrounded.<$FFFE>
-General Bortz, what do we do?<$FFFC>
-It's only a matter of time before we're wiped out.<$FFFE>
-There's only one escape route.<$FFFC>
-I'll be the decoy on one end; you break through the other.<$FFFE>
+ We're in deep shit now, being totally  surrounded.<$FFFE>
+ General Bortz, what  should we do? Right now, it's only a matter of  time before we're all  wiped out.<$FFFE>
+ There's only one way you  can escape the enemy surrounding us. Let me  serve as a distraction at one end, and break through the other end to escape.<$FFFE>
 !!<$FFFE>
-As General, it makes sense I'd stay and fight.<$FFFE>
-If they see me alone, they'll think the main force left and swarm me.<$FFFE>
-With their army on me, you break through the weak side.<$FFFC>
-Use that opening and get out.<$FFFE>
-But, General!<$FFFC>
-If we do that.....!<$FFFE>
-A horseman brought word that Varna's sending reinforcements.<$FFFE>
-Join Varna's army and Raymond won't be able to keep chasing you.<$FFFE>
-General Bortz!<$FFFC>
-Don't risk yourself like that!<$FFFE>
-As things stand, staying with me means you'll all die.<$FFFE>
-You must live and meet Varna!<$FFFC>
-That's an order!<$FFFE>
-....I'll leave the rest to you.<$FFFE>
+ I am the General of our  main troops, it only makes sense I would stay here and fight.<$FFFE>
+ Yet, if they see me, and think the main troops  have started to move away from me, they will gather their troops in one place to crush me.<$FFFE>
+ But, with their army all concentrated in one  place, you will definitely  be able to break through the weakened perimeter. All of you, use that  opening and get out of here.<$FFFE>
+ But, General! If we do  that…!<$FFFE>
+ That fast horseman who came earlier brought me  word that General Varna is sending a relief  army.<$FFFE>
+ If you join up with  Varna's army, Raymond's army won't be able to  keep chasing you.<$FFFE>
+ General Bortz! Please  don't place yourself in  such danger!<$FFFE>
+ But, as things stand, if  you stay with me any longer you will all be  wiped out.<$FFFE>
+ All of you must live to  meet up with Varna! That's an order!<$FFFE>
+ …I will leave the rest to you.<$FFFE>

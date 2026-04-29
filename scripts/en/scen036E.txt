@@ -1,225 +1,164 @@
-Langrisser III dumper [0x189bfa to 0x18b29f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Demon General Geier<$FFFF>
-Gilbert<$FFFF>
-Demon<$FFFF>
-Velzerian Commander<$FFFF>
-Geier<$FFFF>
--Defeat Demon General Geier<$FFFC>
--Death of [diehardt's name]<$FFFE>
+Emerick <$FFFF>
+Demon General Geier <$FFFF>
+Gilbert <$FFFF>
+Demon <$FFFF>
+Velzerian Commander <$FFFF>
+Geier <$FFFF>
+<$01E9>Conditions for Victory Defeat Demon General Gaiel <$FFFE>
+<$01E9>Conditions for Defeat Death of <$F600><$0000><$FFFE>
 Velzerian Castle<$FFFF>
-Hurry!<$FFFC>
-To the inner part!<$FFFE>
-So this is Velzeria, land of the Demon Tribe...<$FFFE>
-Here again, this place gets on my nerves.<$FFFE>
-This time we'd better finish it for good.<$FFFE>
-I wonder if Tiaris is alright.<$FFFE>
-I wonder if Liffany is alright.<$FFFE>
-I wonder if Luna is alright.<$FFFE>
-We must hurry, Sophia's in great danger!<$FFFE>
-Stop babbling, if we don't hurry Freya's in real danger!<$FFFE>
-...It appears that she is save, still.<$FFFE>
-If the sacrifice was complete, I'd have sensed a dark energy surge.<$FFFE>
-How can you be sure, Varna?<$FFFE>
-When Altemuller was Bosel he used Al Hazard's dark power to revive her.<$FFFB>
-<$FFFE>
-She has a strong connection to darkness.<$FFFC>
-So what she says is likely the truth.<$FFFE>
-Every minute we waste could be her last.<$FFFC>
-Let's hurry!<$FFFE>
-Not so fast!<$FFFE>
-Oh, it's Geier!<$FFFE>
-I won't let you disturb master Bosel.<$FFFE>
-Soon lord Chaos will rise and we'll rule all.<$FFFE>
-But first, I'll dispose of you all right here!<$FFFC>
-Especially you, Altemuller!<$FFFC>
-You'll get special treatment!<$FFFE>
-This is taking too long!<$FFFC>
-Begin the attack!<$FFFE>
-If we focus our attacks on Geier, we can win.<$FFFE>
-You said it!<$FFFC>
-Let's do this!<$FFFE>
-You think you can kill me that easily, how conceited of you.<$FFFD>
-Let me show you the powers lord Chaos bestowed upon me!<$FFFE>
-Well then, let us end this fast!<$FFFC>
-We have come to far to back down now!<$FFFE>
-Geier...!<$FFFE>
-Chaos's revival draws closer each minute...<$FFFD>
-Hahaha!<$FFFC>
-You might as well give up hope already!<$FFFE>
-Just a little further everyone.<$FFFC>
-Once we finish Geier, only Paul remains!<$FFFD>
-Let us fight for our comrade and for the future of this world!<$FFFE>
-Just you wait Geier!<$FFFC>
-This time my blade will put an end to you for good!<$FFFE>
-With lord Chaos's power, I've nothing to fear from your swordplay.<$FFFE>
+ Hurry! To the inner  part!<$FFFE>
+ We're here again, this  place is getting on my nerves.<$FFFE>
+ This time we would better finish it once  and for all.<$FFFE>
+ I wonder if Tiaris is  alright.<$FFFE>
+ I wonder if Liffany is alright.<$FFFE>
+ I wonder if Luna is  alright.<$FFFE>
+ Unless we hurry Sophia will be in great danger!<$FFFE>
+ Quit babbling, if we don't hurry Freya will  be in real danger!<$FFFE>
+ …It appears that she  is save, still.<$FFFE>
+ If she had been  sacrificed and the ceremony to summon Chaos would have been  completed, I would have  noticed an immense surge of dark energy.<$FFFE>
+ How can you be sure, Varna?<$FFFE>
+ You can sense it, Fauna?<$FFFE>
+ When Altemuller was  Bozel he used the dark power of Al Hazard to  resurrect her.<$FFFB><$FFFE>
+ Anyhow any minute that we do nothing could be her last. Let's make  great haste!<$FFFE>
+ In any case, the longer  this takes, the more  danger she's in. We must hurry.<$FFFE>
+ Oh, it's Geier!<$FFFE>
+ I can not allow you to disturb master Bozel.<$FFFE>
+ Soon lord Chaos will rise and we shall rule over all.<$FFFE>
+ I will revive Lord Chaos, god of  destruction, and rule  over every last being in this world.<$FFFE>
+ But before that, I will  dispose of you all right here right now! Especially you Altemuller! You will get my special treatment!<$FFFE>
+ This is taking far too long already! Commence  the attack!<$FFFE>
+ If we concentrate our  attacks on Geier we  should be able to win  with relative ease.<$FFFE>
+ You said it! Let's do  this!<$FFFE>
+ You think you can kill me that easily, how conceited of you.<$FFFD>Let me demonstrate some  of the powers lord Chaos has bestowed upon me!<$FFFE>
+ Well then, let us end  this fast! We have come  to far to back down now!<$FFFE>
+ Geier…!<$FFFE>
+ Chaos's revival draws  closer with every  elapsing minute…<$FFFD>Hahaha! You might as  well give up hope  already!<$FFFE>
+ Just a little further  everyone. Once we finish  Geier, only Paul remains!<$FFFD>Let us fight for our comrade and for the  future of this world!<$FFFE>
+ Just you wait Geier! This time my blade will  put an end to you for  good!<$FFFE>
 GYAAAA!<$FFFE>
 SYAAA!<$FFFE>
-Yessir!<$FFFE>
+ Yessir!<$FFFE>
+ Yessir!<$FFFE>
 GA!<$FFFE>
-You are but small fry compared to our lord!<$FFFD>
-The revival of lord Chaos is nigh!<$FFFC>
-Soon this world will be enveloped in perfect darkness!<$FFFE>
-Hehehe...<$FFFC>
-So you made it this far.<$FFFD>
-From here on every step you take will be a countdown for death!<$FFFE>
-Oh yes,...<$FFFC>
-Yours!<$FFFE>
-We'll see about that!<$FFFC>
-Come at me with all you got!<$FFFE>
-How troublesome!<$FFFC>
-Die already!<$FFFE>
-There is a crack in the floor, beneath it bear earth can be seen.<$FFFD>
-A long an narrow pole is sticking out from it.<$FFFE>
-What do you do?<$FFFE>
-Pull it out<$FFFE>
+ You are but small fry  compared to our lord!<$FFFD>The revival of lord  Chaos is nigh! Soon this world will be enveloped  in perfect darkness!<$FFFE>
+ Hehehe… So you made it  this far.<$FFFD>From here on every step you take will be a countdown for death!<$FFFE>
+ We will see about that! Come at me with all you  got!<$FFFE>
+ How troublesome! Die already!<$FFFE>
+ Shut up! You're the one  who's going to die!<$FFFE>
+ There is a crack in the  floor, beneath it bear earth can be seen.<$FFFD>A long an narrow pole is sticking out from it.<$FFFE>
+ What do you do?<$FFFE>
 Break it<$FFFE>
-Try using water to soften up the earth<$FFFE>
-While trying to pull it out is got stuck.<$FFFE>
-What do you do?<$FFFE>
-Pull with all your strength<$FFFE>
-Push it back into the earth<$FFFE>
-Pull gently<$FFFE>
-The stick broke with a sluggish sound.<$FFFE>
-You decide to give up on pulling and instead push the stick and<$FFFD>
-the stick disappears into the earth...<$FFFE>
-As you pull the stick gently, it comes out with ease.<$FFFD>
-Before you wonder as to what happened the stick changed into a spear.<$FFFE>
-Gungnir was obtained!<$FFFE>
-The stick broke with a sluggish sound.<$FFFE>
-When the water was the soil becomes slushy.<$FFFD>
-Thereupon the stick sinks down into the mud and disappears...<$FFFE>
-Return Tiaris this instant!<$FFFE>
-Return Liffany this instant!<$FFFE>
-Return Luna this instant!<$FFFE>
-Return Sophia this instant!<$FFFE>
-Return Freya this instant!<$FFFE>
-Hehehe!<$FFFC>
-About now she's being sacrificed to lord Chaos. Don't worry, you'll join her shortly!<$FFFE>
-Bastard!<$FFFE>
-G..Geier...<$FFFC>
-Return..her...<$FFFE>
-You are too late!<$FFFC>
-Lord Chaos will come and our supreme rule begins!<$FFFE>
-I'm sorry, [diehardt's name].<$FFFC>
-Tia, hang in there...<$FFFE>
-I'm sorry,[diehardt's name].<$FFFC>
-How faint-hearted...<$FFFE>
-It is painful to have the one you love most being threatened.<$FFFC>
-You mustn't give up on her...<$FFFE>
-UUuu...,<$FFFC>
-Just a little longer...<$FFFE>
-Diehärte.....,<$FFFC>
-we have to hurry and safe her...<$FFFE>
-She is in mortal danger....<$FFFE>
-We have to rescue her and thwart the revival of Chaos...<$FFFD>
-I cannot fight anymore....<$FFFE>
-No...I can't abandon everyone like this...<$FFFE>
-Grrr!<$FFFC>
-The power of the demon kind has grown excessively...<$FFFE>
-I'm afraid...I can't help you to rescue her....<$FFFE>
-Damn...this!<$FFFC>
-There's still so much to fight for!<$FFFC>
-Diehärte!<$FFFE>
-Don't ever abandon the ones you love...<$FFFC>
-You must carry on in my stead....<$FFFE>
-Chaos mustn't be allowed to soil this world...<$FFFE>
-Never let them go....Diehärte....<$FFFE>
-Cripes.<$FFFC>
-To be able to fight Altemuller openly is such an uplifting sensation.<$FFFE>
-I just wonder if Paul has completed the preparations by now....<$FFFE>
-Anyway, playtime is over.<$FFFC>
-From now this is serious!<$FFFE>
-Forgive me, Diehärte...<$FFFC>
-I wasn't able to repay my debt...<$FFFE>
-Hohoho!<$FFFC>
-How delicious!<$FFFC>
-At last Altemuller is no more!<$FFFD>
-You others have lived long enough as well.<$FFFC>
-Ah what a wonderful bloodbath this will be, slaughter them all!<$FFFD>
-Hehehe!<$FFFE>
-What is this?<$FFFC>
-I can no longer see my hands...<$FFFE>
-...Dammit!<$FFFE>
-Are you alright, Altemuller!?<$FFFE>
-Don't mind me.<$FFFC>
-My death holds no significance.<$FFFD>
-Just focus on finishing off Geier.<$FFFE>
-Uuuu!<$FFFE>
-Are you ok, Varna?<$FFFE>
-I'd choose death over standing by while a battle needs to be fought..<$FFFD>
-Forgive me...<$FFFE>
-It is alright.<$FFFC>
-I did what needed to be done.<$FFFC>
-You can rest now...<$FFFE>
-May your spilled blood strengthen lord Chaos!<$FFFE>
-Ua..rgh..how could...I...<$FFFE>
-No matter,...when lord Chaos arises..he will bring me back...<$FFFE>
-I had...hoped for a festival of slaughter...most regrettable...Uarrgh!<$FFFE>
-We've got no time to waste.<$FFFC>
-Let's hurry onwards!<$FFFE>
+Try using water tosoften up the earth <$FFFE>
+While trying to pull it  out is got stuck.<$FFFE>
+ What do you do?<$FFFE>
+Pull with all yourstrength<$FFFE>
+Push it back into the earth <$FFFE>
+Pull gently <$FFFE>
+ The stick broke with asluggish sound.<$FFFE>
+ Return Tiaris this instant!<$FFFE>
+ As you pull the stick  gently, it comes out  with ease.<$FFFD>Before you wonder as to  what happened the stick  changed into a spear.<$FFFE>
+ When you tried pulling it out gently, it came free at once.<$FFFD>Before you knew it, the thin twig like rod had changed into a magnificent spear.<$FFFE>
+ The stick broke with a sluggish sound.<$FFFE>
+ Return Tiaris this instant!<$FFFE>
+ When you poured water on it, the soil grew soft  and muddy.<$FFFD>Then the rod sank away into the earth as though disappearing into  water…<$FFFE>
+ Return Liffany this  instant!<$FFFE>
+ Return Luna this instant!<$FFFE>
+ Return Sophia this instant!<$FFFE>
+ Return Freya this instant!<$FFFE>
+ Bastard!<$FFFE>
+ G…Geier… Return…her…<$FFFE>
+ Y You bastard!<$FFFE>
+ You are too late! Now lord Chaos will come to  this world and our supreme rule will be established!<$FFFE>
+ I am sorry, <$F600><$0000>. Tia, hang in there…<$FFFE>
+ I am sorry,<$F600><$0000>. How faint hearted…<$FFFE>
+ It is painful to have  the one you love most  being threatened. You mustn't give up on her…<$FFFE>
+ UUuu…, Just a little longer…<$FFFE>
+ <$F600><$0000>…, we have to hurry and safe her…<$FFFE>
+ <$F600><$0000>… I am sorry I couldn't be of any help.<$FFFE>
+ She is in mortal danger…<$FFFE>
+ We have to rescue her  and thwart the revival of Chaos…<$FFFD>I cannot fight anymore…<$FFFE>
+ No…I can't abandon  everyone like this…<$FFFE>
+ Grrr! The power of the  demon kind has grown excessively…<$FFFE>
+ I am afraid…I can't  help you to rescue her…<$FFFE>
+ Damn…this! There's still so much to fight for! <$F600><$0000>!<$FFFE>
+ Don't ever abandon the ones you love… You must carry on in my  stead…<$FFFE>
+ Never let them go…<$F600><$0000>…<$FFFE>
+ I just wonder if Paul  has completed the  preparations by now…<$FFFE>
+ Anyway, playtime is over. From now this is  serious!<$FFFE>
+ Aren't you Paul's lackey  yourself?<$FFFE>
+ Forgive me, <$F600><$0000>… I wasn't able to repay my debt…<$FFFE>
+ I am sorry, <$F600><$0000>. It  seems I failed to repay  my debt…<$FFFE>
+ Hohoho! How delicious! At last Altemuller is no more!<$FFFD>You others have lived  long enough as well. Ah  what a wonderful bloodbath this will be, slaughter them all!<$FFFD>Hehehe!<$FFFE>
+ What is this? I can no  longer see my hands…<$FFFE>
+ Are you alright, Altemuller!?<$FFFE>
+ Uuuu!<$FFFE>
+ Don't worry about me. This won't kill me.<$FFFD>More importantly, focus only on defeating Gaiel  now.<$FFFE>
+ Are you ok, Varna?<$FFFE>
+ Are you all right, Fauna!?<$FFFE>
+ I would choose death over standing by while a battle needs to be fought…<$FFFD>Forgive me…<$FFFE>
+ It is alright. I did what needed to be done. You can rest now…<$FFFE>
+ Ua…rgh…how  could…I…<$FFFE>
+ No matter,…when lord  Chaos arises…he will  bring me back…<$FFFE>
+ I had…hoped for a festival of  slaughter…most regrettable…Uarrgh!<$FFFE>
+ It's a shame… that I couldn't slaughter you all… guh!<$FFFE>
+We've got no time to waste. Let's hurry onwards!<$FFFE>
 GOOOON!<$FFFE>
 GUGAAAAA!<$FFFE>
 GYAOOON!<$FFFE>
 GYAOOON!<$FFFE>
 GUGAAAAA!<$FFFE>
-GUAAA....<$FFFE>
-GUAAA....<$FFFE>
-GUAAA....<$FFFE>
-GUAAA....<$FFFE>
-My body crumbles away...<$FFFE>
+GUAA<$0650>…<$FFFE>
+GUAA<$0650>…<$FFFE>
+GUAA<$0650>…<$FFFE>
+GUAA<$0650>…<$FFFE>
 GOOOON!<$FFFE>
-Guargh!<$FFFE>
+ Guargh!<$FFFE>
 ZKYAAAA!<$FFFE>
 GAHAA!<$FFFE>
 GAHAA!<$FFFE>
-WOOO...<$FFFE>
-Curse you...<$FFFE>
+WOOO…<$FFFE>
+ Curse you…<$FFFE>
 GOOOON!<$FFFE>
-You will follow me shortly...<$FFFE>
+ You will follow me shortly…<$FFFE>
 ZKYAAAA!<$FFFE>
 GAHAA!<$FFFE>
 GAHAA!<$FFFE>
-WOOO...<$FFFE>
-What strength...<$FFFE>
-Lord Chaos....!<$FFFE>
-Disgusting humans....<$FFFE>
-Wh..What!?<$FFFC>
-The power of that sword is...inhuman....<$FFFE>
+WOOO…<$FFFE>
+ What strength…<$FFFE>
+ Lord Chaos…!<$FFFE>
+ Disgusting humans…<$FFFE>
+ Humans are…mean…<$FFFE>
+ Wh…What!? The power of  that sword is…inhuman…<$FFFE>
 GYAOOON!<$FFFE>
 GOOOON!<$FFFE>
 GOOOON!<$FFFE>
 GYAOOON!<$FFFE>
-Come to our side Varna, come to your creator lord Chaos!<$FFFE>
-Never!<$FFFC>
-As long as I live I will stay by Altemuller's side!<$FFFE>
-If that's so, you'll die along with all of them!<$FFFE>
-Hehehe, now you'll pay for what you did to me that time!<$FFFC>
-Today you'll die at my very own hands!<$FFFE>
-Hmph!<$FFFC>
-So I'll have to kill you again, how tedious.<$FFFE>
-Lord Chaos will revive shortly.<$FFFC>
-Delay the enemie's advance!<$FFFC>
-Yessir!<$FFFE>
-The age of darkness is dawning!<$FFFC>
-Everything in this world shall be ours!<$FFFE>
+ Come to our side Varna, come to your creator lord Chaos!<$FFFE>
+ Never! As long as I live I will stay by Altemuller's side!<$FFFE>
+ If that's so, you will die along with all of them!<$FFFE>
+ Hmph! So I will have to kill you again, how tedious.<$FFFE>
+ Hmph! Did you come back to life just to be killed again?<$FFFE>
+ Lord Chaos will revive shortly. Delay the enemie's advance! Yessir!<$FFFE>
+ The age of darkness is dawning! Everything in this world shall be  ours!<$FFFE>  

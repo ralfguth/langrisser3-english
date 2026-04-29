@@ -36,7 +36,7 @@ Morningstar<$FFFF>
 Iron Dumbbell<$FFFF>
 Mithril Hammer<$FFFF>
 Dagda Club<$FFFF>
-Mjöllnir<$FFFF>
+Mjollnir<$FFFF>
 Cypress Staff<$FFFF>
 Staff<$FFFF>
 Wand<$FFFF>
@@ -127,7 +127,7 @@ Power Ring<$FFFF>
 Star Coin<$FFFF>
 Angel Ring<$FFFF>
 Ring of the Stone Spirit<$FFFF>
-Megingjöro<$FFFF>
+Megingjoro<$FFFF>
 Draupnir<$FFFF>
 Ring of Lauren<$FFFF>
 Necklace of the Hegemon<$FFFF>

@@ -1,110 +1,73 @@
-Langrisser III dumper [0x305b54 to 0x306b54]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JEler<$FFFF>
+J Eler <$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Liegelord<$FFFF>
-Shapeshiftress Ferakia<$FFFF>
-<$FFFC>
-Scenario ~ 27<$FFFC>
-"Shapeshiftress Ferakia"<$FFFE>
-Ferakia's attempt to throw Elthlead into chaos by taking<$FFFC>
-the form of a royal claimant was easily seen through<$FFFC>
-thanks to the power of the holy sword, the Langrisser.<$FFFE>
-[diehardt's name] and company have taken this<$FFFC>
-chance to start their journey to Velzeria to overthrow<$FFFC>
-the leader of the demons, Bosel.<$FFFE>
-However, in a swamp on the way, the Shapeshiftress<$FFFC>
-Ferakia lay in wait, hoping for a chance to get<$FFFC>
-bloody revenge, for the shameful defeat suffered.<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of Ferakia<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-Fort Hakusan ~ 15 Years Ago<$FFFF>
-Grr!<$FFFE>
-Opposition is futile!<$FFFE>
-Eeii!<$FFFB>
-<$FFFC>
-Secret sword technique, Shitsufuuzan! (Rapid Wind Death)<$FFFE>
-Milord!<$FFFD>
-Milord!<$FFFC>
-Answer me!<$FFFE>
-Ugh......<$FFFC>
-Gu..guhuu!<$FFFE>
-Ahaha!<$FFFB>
-<$FFFC>
-Now this country is finished!<$FFFE>
-H..how vexing....<$FFFE>
-Milord!<$FFFE>
-You're too late.<$FFFC>
-You arrived too late to protect your lord!<$FFFE>
-You!<$FFFC>
-Demonic wretch!<$FFFE>
-Bah!<$FFFC>
-You actually managed to wound me.....<$FFFE>
-But, whatever.<$FFFC>
-This country is finished. One miserable human matters not!<$FFFE>
-Milord.....my humble apologies!<$FFFE>
-My lord, I failed to protect your wife, your son Shoutarou, and you.....<$FFFE>
-..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>Milord,<$fe><$3c><$FFFC>
-I, the dishonored Kirikaze, wish to postpone committing honorable suicide for a little while longer.<$FFFE>
-Please, let me live in shame until I defeat Your enemy, that cursed witch!<$FFFE>
+Emerick <$FFFF>
+Liegelord <$FFFF>
+Feraquea<$FFFF>
+ Scenario <$0236> 27 "Feraquea"<$FFFE>
+Felakia's plan to disguise herself as  royalty and throw  Elthlead into confusion  was exposed with surprising ease by the power of the holy sword  Langrisser.<$FFFE>
+ <$F600><$0000> and his companions seized this chance to strike down  Bozel, lord of the fiends, and set out at  last for Velzeria.<$FFFE>
+ However, in a swamp on the way, the Feraquea lay in wait, hoping for  a chance to get bloody revenge, for the shameful defeat  suffered.<$FFFE>
+ <$01E9>Condition for Victory  Defeat of Feraquea <$01E9>Condition for Defeat Death of <$F600><$0000><$FFFE>
+Fort Hakusan <$0236> <$0613> Years Ago <$FFFF>
+ Grr!<$FFFE>
+ Opposition is futile!<$FFFE>
+ Eeii!<$FFFB>Secret sword technique, Shitsufuuzan! Rapid Wind  Death <$FFFE>
+ Milord!<$FFFD>Milord! Answer me!<$FFFE>
+ Ugh… Gu…guhuu!<$FFFE>
+ Ahaha!<$FFFB>Now this country is  finished!<$FFFE>
+ H…how vexing…<$FFFE>
+ Milord!<$FFFE>
+ You're too late. Since you only reached here  now, you were too slow to protect your ward!<$FFFE>
+ You! Demonic wretch!<$FFFE>
+ Bah! You actually  managed to wound me…<$FFFE>
+ But, whatever. Since this country is finished anyway, it doesn't  matter if I let go one miserable human!<$FFFE>
+ Milord…my humble  apologies!<$FFFE>
+ My lord, you kept me in  your service for so  long, yet I failed to protect not only your  wife and only son, Shoutarou, but also  you…<$FFFE>
+ …<$FE3C>…<$FE3C>…<$FE3C>my lord,<$FE3C>grant this Kirikaze a little more time before  he cuts open his belly.<$FFFE>
+ Please, let me live in  shame until I defeat Your enemy, that cursed witch!<$FFFE>
 Road to Velzeria<$FFFF>
-..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>.<$FFFE>
-What's wrong, Kirikaze?<$FFFE>
-..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>Sir,<$FFFC>
-It's nothing, nothing at all.<$FFFD>
-I was just recalling the days of yore.<$FFFD>
-....Anyhow, it seems to have gotten colder.<$FFFC>
-Velzeria must be only a little farther.<$FFFE>
-Our scouts have returned.<$FFFE>
-I see.<$FFFC>
-So, what's the word?<$FFFE>
-They report sightings of monsters in the marshland ahead.<$FFFD>
-The marshland is covered with snow.<$FFFC>
-It's the perfect place for an ambush.<$FFFE>
-They'll probably take advantage of that.<$FFFC>
-Apparently we haven't defeated them enough times to route them yet.<$FFFE>
-On the contrary, they must be desperate. This is their last chance.<$FFFE>
-They're frantically trying to keep us away from Velzeria.<$FFFE>
-Hmm......<$FFFE>
-What do you say?<$FFFE>
-But, it'll be fine.<$FFFE>
-We need to be careful.<$FFFE>
-We might be in over our heads.<$FFFE>
-But, we'll be fine.<$FFFC>
-Everyone, cheer up!<$FFFE>
-Right.<$FFFE>
-Yeah!<$FFFC>
-Tia will also do her best!<$FFFE>
-As will I.<$FFFE>
-We'll be fighting on a battleground of their choosing.<$FFFC>
-We need to be very careful.<$FFFE>
-Indeed.<$FFFE>
-I agree.<$FFFE>
-This time, it looks like we might be in over our heads.....<$FFFE>
-No way, [diehardt's name]!<$FFFC>
-What are you saying!?<$FFFE>
-That's right.<$FFFC>
-Aren't you our commander?<$FFFE>
-Really!<$FFFC>
-This isn't like you at all, [diehardt's name]!<$FFFE>
-....S..sorry......<$FFFE>
+…<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>.<$FFFE>
+ What's wrong, Kirikaze?<$FFFE>
+ …<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>ah, no, it is nothing.<$FFFD>I was merely recalling the past a little.<$FFFD>…Still, it has grown  cold. Velzeria must be  close now.<$FFFE>
+ Our scouts have  returned.<$FFFE>
+ I see. So, what's the  word?<$FFFE>
+ They report sightings of monsters in the  marshland ahead.<$FFFD>The marshland is covered with snow. It's the  perfect place for an ambush.<$FFFE>
+ They will probably take advantage of that. Apparently we haven't  defeated them enough times to route them yet.<$FFFE>
+ Au contraire, the facts would suggest that they  are desperate, as this is their last chance.<$FFFE>
+ They're frantically  trying to keep us away from Velzeria.<$FFFE>
+ Hmm…<$FFFE>
+ What do you say?<$FFFE>
+ But, it'll be fine.<$FFFE>
+ We need to be careful.<$FFFE>
+ We might be in over our heads.<$FFFE>
+ But, we will be fine. Everyone, cheer up!<$FFFE>
+ Right.<$FFFE>
+ Yeah! Tia will also do  her best!<$FFFE>
+ As will I.<$FFFE>
+ We will be fighting on a battleground of their  choosing. We need to be very careful.<$FFFE>
+ Indeed.<$FFFE>
+ I agree.<$FFFE>
+ This time, it looks like we might be in over our  heads…<$FFFE>
+ No way, <$F600><$0000>! What  are you saying!?<$FFFE>
+ That's right. Aren't you  our commander?<$FFFE>
+ Really! This isn't like you at all, <$F600><$0000>!<$FFFE>
+ …S…sorry…<$FFFE> 

@@ -6,12 +6,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Master Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Holy Beast Jügler<$FFFF>
-High Sorceress Jessica<$FFFF>
+Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemuller<$FFFF>
@@ -33,8 +33,8 @@ Prince Paul<$FFFF>
 Altemuller<$FFFF>
 General Geier<$FFFF>
 Bosel<$FFFF>
-Necromancer Grove<$FFFF>
-Shapeshiftress Ferakia<$FFFF>
+Reaper Grove<$FFFF>
+Feraquea<$FFFF>
 Worm Master Rag<$FFFF>
 Richard<$FFFF>
 Coty<$FFFF>
@@ -57,47 +57,47 @@ Sieghart<$FFFF>
 Gilbert<$FFFF>
 Coty<$FFFF>
 Adjutant Ruud<$FFFF>
-Chaos, Lord of Mayhem<$FFFF>
+Lord Chaos<$FFFF>
 Altemuller<$FFFF>
 General Varna<$FFFF>
-Lushiris, Goddess of Light<$FFFF>
+Goddess Lushiris<$FFFF>
 Supreme Commander<$FFFF>
 Priest<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
-Rigüler Imperial Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
+Riguler Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
@@ -272,12 +272,12 @@ Pierre<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
-Rigüler Imperial Captain<$FFFF>
+Riguler Captain<$FFFF>
 Head Highwayman<$FFFF>
 Gal Shok<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
-Rigüler Imperial Commander<$FFFF>
+Riguler Commander<$FFFF>
 Lewin<$FFFF>
 Wilder<$FFFF>
 Elthlead Soldier<$FFFF>
@@ -312,7 +312,7 @@ Elthlead Soldier<$FFFF>
 Elthlead Soldier<$FFFF>
 Elthlead Soldier<$FFFF>
 Elthlead Soldier<$FFFF>
-Ferakia<$FFFF>
+Feraquea<$FFFF>
 Ledin<$FFFF>
 Chris<$FFFF>
 Namu<$FFFF>
@@ -355,7 +355,7 @@ Kirikaze<$FFFF>
 True Bosel<$FFFF>
 Gilbert<$FFFF>
 Fauvel<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Do Kahni<$FFFF>
 Bortz<$FFFF>
@@ -372,7 +372,7 @@ Rag<$FFFF>
 Ruud<$FFFF>
 Chaos<$FFFF>
 Lushiris<$FFFF>
-Rigüler<$FFFF>
+Riguler<$FFFF>
 Barral<$FFFF>
 Shika<$FFFF>
 Larcuss<$FFFF>

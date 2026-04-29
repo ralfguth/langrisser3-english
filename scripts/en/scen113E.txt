@@ -1,113 +1,84 @@
-Langrisser III dumper [0x378b42 to 0x3795ab]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Silver Wolf<$FFFF>
-Velzeria Castle ~ Underground<$FFFF>
-Tiaris...<$FFFE>
-...Uhm, I'm alright.<$FFFC>
-I was a tiny bit scared...,<$FFFE>
-but I always believed you'd come for me.<$FFFE>
-...It's alright now.<$FFFC>
-I won't leave your side again.<$FFFE>
-Liffany...<$FFFE>
-You came for me after all.<$FFFE>
-Didn't I promise?<$FFFC>
-No matter what, I'll always protect you.<$FFFE>
-I never stopped believing in you.<$FFFE>
-I'm sorry for putting you through that.<$FFFE>
-I don't mind now. As long as we're like this, I could forget the world.<$FFFE>
-Luna...<$FFFE>
-There is no excuse.<$FFFC>
-My thoughtlessness caused this...<$FFFE>
-Ah...<$FFFE>
-Umm...<$FFFE>
-Just a little while, let's stay like this.<$FFFE>
-..Yes..<$FFFE>
-...I'm so glad.<$FFFC>
-To feel your heart next to mine once more.<$FFFE>
-I beg your forgiveness.<$FFFE>
-Because of me, everyone was put in such danger...<$FFFE>
-Ah...<$FFFE>
-It's alright.<$FFFC>
-Our struggles have finally ended.<$FFFE>
-Righty!<$FFFC>
-All villains got punished and Lady Sophia was saved too!<$FFFE>
-Everyone wanted to help you.<$FFFC>
-Besides, it's one's duty to help a friend in need.<$FFFE>
-Everyone...<$FFFC>
-Thank you so much.<$FFFE>
-I'm just glad you're back safely,<$FFFC>
-right here in my arms.<$FFFE>
-...Forgive me.<$FFFC>
-I should've been more dependable.<$FFFE>
-...What are you saying?<$FFFC>
-You did come very dependently.<$FFFE>
-You beat Bosel and stopped Chaos from reviving.<$FFFC>
-You should be proud!<$FFFE>
-Weren't you scared, Freya...?<$FFFE>
-*giggle*...<$FFFE>
-I believe in you, so there's nothing in this world I'd be scared of.<$FFFE>
-Uuuuh!<$FFFC>
-By the way you two.<$FFFC>
-How long do you plan to hold each other like that?<$FFFE>
-Really now.<$FFFC>
-I'm getting dizzy from all the heat you two emit!<$FFFE>
-...Emm...<$FFFE>
-Anyhow, I'm glad everyone's safe.<$FFFE>
-...But, Varna.<$FFFC>
-You...<$FFFE>
-Stop worrying, Altemuller.<$FFFC>
-My body isn't dead yet.<$FFFE>
-When Chaos was sealed the dark surges stopped, so maybe there's hope.<$FFFE>
-...Varna.<$FFFE>
-Emerick.<$FFFE>
-Yes, what is it, your Excellency?<$FFFE>
-Will you lend me your ear?<$FFFE>
-What is troubling you...?<$FFFE>
-I'll go on a journey with Varna.<$FFFC>
-I don't intend to return to the capitol.<$FFFE>
-Altemuller!<$FFFE>
-Perhaps somewhere in this world, there's a way to restore Varna to a true human.<$FFFE>
-This I have to find out.<$FFFE>
-Your Excellency...<$FFFC>
-However, that is...<$FFFE>
-I know.<$FFFC>
-Varna likely has little time left.<$FFFC>
-It may be doomed to fail from the start.<$FFFE>
-But I'll do anything for the one I love beyond words.<$FFFC>
-My mind is set.<$FFFE>
-Handle state affairs in my absence.<$FFFE>
-...Understood.<$FFFE>
-Your loyal Emerick will guard the Capitol til your return; do visit sometime.<$FFFE>
-Thank you...<$FFFE>
-Well then, let's be on our way, Varna.<$FFFE>
-...,<$FFFE>
-....Yes!<$FFFE>
-Thus the revival of Chaos was prevented,<$FFFC>
-King Sieghart founded Elthlead<$FFFC>
-and the holy sword Langrisser became legend.<$FFFE>
-<$FFFC>
-Yet this was but a prologue to the grand tale<$FFFC>
-surrounding the sword.<$FFFE>
-<$FFFC>
-And in some distant day,<$FFFC>
-the wheel of fate would eventually start turning once again...<$FFFE>
+Emerick <$FFFF>
+Silver Wolf <$FFFF>
+Velzeria Castle <$0236> Underground <$FFFF>
+ Tiaris…<$FFFE>
+ …Uhm, I am alright. I was scared just a tiny bit…,<$FFFE>
+ because I always believed in you to come  for me.<$FFFE>
+ …Everything's alright now. I won't ever leave  your side again.<$FFFE>
+ Liffany…<$FFFE>
+ You came for me after  all.<$FFFE>
+ Didn't I promise? No  matter what, I will  protect you, always.<$FFFE>
+ I never stopped  believing in you.<$FFFE>
+I am sorry to have put you through such an  awful experience.<$FFFE>
+ I don't mind anymore, as  long as we stay like this, I could forget the  world around us.<$FFFE>
+ Luna…<$FFFE>
+ There is no excuse. Only  because of my  thoughtlessness could  this…<$FFFE>
+ Ah…<$FFFE>
+ Umm…<$FFFE>
+ Just for little while, let's stay like this.<$FFFE>
+ …Yes…<$FFFE>
+ …I am so glad. To be able to feel your heart  next to mine once again.<$FFFE>
+ I beg your forgiveness.<$FFFE>
+ Just because of me, everyone was put in such terrible danger…<$FFFE>
+ Ah…<$FFFE>
+ It's alright. Our struggles have come to an end finally.<$FFFE>
+ Righty! All villains  were punished and the  damsel in distress, Lady  Sophia, was saved too!<$FFFE>
+ Everyone wanted to help you. Besides, it is ones  obligation to help a fellow human and friend  in need.<$FFFE>
+ Everyone… Thank you so  much.<$FFFE>
+ I am just glad your back to safety, right here in my arms.<$FFFE>
+ …Forgive me. I should  have been more dependable.<$FFFE>
+ …What are you saying? You did come very  dependently.<$FFFE>
+ You defeated Bozel and prevented Chaos from being revived. You have  reason to be proud of  yourself!<$FFFE>
+ Weren't you scared, Freya…?<$FFFE>
+ <$01E9>giggle<$01E9>…<$FFFE>
+ I believe in you, so  there is nothing in the  whole wide world I have  to be scared of.<$FFFE>
+ Uuuuh! By the way you  two. Just how long are you planning on holding  on to each other like  that?<$FFFE>
+ Really now. I am already  getting dizzy from all the heat you two are emitting!<$FFFE>
+ …Emm…<$FFFE>
+ Anyhow, I am just glad  that everyone is safe.<$FFFE>
+ …But, Varna. You…<$FFFE>
+ Please stop your worrying, Altemuller. My  body isn't dead just yet.<$FFFE>
+ Besides, when Chaos was  sealed the dark surges stopped instantly, so  maybe there's still hope.<$FFFE>
+ …Varna.<$FFFE>
+ Emerick.<$FFFE>
+ Yes, what is it, your  Excellency?<$FFFE>
+ Will you lend me your  ear?<$FFFE>
+ What is troubling  you…?<$FFFE>
+ I will go on a journey with Varna. I do not  intend to return to the  imperial capitol.<$FFFE>
+ Altemuller!<$FFFE>
+ Perhaps somewhere in this world, there is a method that can restore  Varna to a genuine human.<$FFFE>
+ This I have to find out.<$FFFE>
+ Your Excellency… However, that is…<$FFFE>
+ I know. Probably Varna has only a short time  left. It may be an  undertaking doomed to  fail from the start.<$FFFE>
+ But I am ready to do everything for the person I love more than  mere words could express. Know that I have set my mind on  this.<$FFFE>
+ Please take care of the  stately affairs in my  absence.<$FFFE>
+ …Understood.<$FFFE>
+ Your loyal subject, Emerick, will look after the Royal Capitol  until your Excellency  returns, please try to visit sometime.<$FFFE>
+ Thank you…<$FFFE>
+ Well then. let us be on  our way, Varna.<$FFFE>
+…,<$FFFE>
+ …Yes!<$FFFE>
+ And this is how it came  to be, that the revival  of Chaos was prevented, King Sieghart founded  the Elthlead Kingdom and the holy sword Langrisser became a legend.<$FFFE>
+ However, this should only be a prologue to  the magnificent story  which goes around the  sword.<$FFFE>
+ And in some distant day, the wheel of fate would  eventually start turning once again…<$FFFE> 

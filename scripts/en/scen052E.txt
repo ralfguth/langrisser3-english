@@ -1,57 +1,36 @@
-Langrisser III dumper [0x1f98c2 to 0x1f9dc3]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-<$FFFC>
-Scenario ~ 06<$FFFC>
-"Enemies on all Sides"<$FFFE>
-Now that Luna, daughter of the genius tactician Baron Torrand,<$FFFC>
-has joined [diehardt's name] and company, the mobile division<$FFFC>
-has come between the forces of the Rig...er Empire and Barral<$FFFC>
-Kingdom in order to execute the Baron's cunning plan.<$FFFE>
-Fighting between both countries there would deflect notice from<$FFFC>
-the Larcussians' plans, buying some time to realize their goal.<$FFFE>
-*Conditions for Victory<$FFFC>
- -Complete annihilation of enemies<$FFFC>
- -Successfully retreating with all allies to the opposite shore<$FFFC>
-  after initiating combat between the Imperial and Barral forces<$FFFC>
-*Condition for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFE>
-Near the Borderline between Barral and the Rigüler Empire<$FFFF>
-Sir [diehardt's name]<$FFFB>
-<$FFFC>
-An enemy base is just a little farther.<$FFFE>
-Understood.<$FFFD>
-Let's execute the first part of the Baron's plan.<$FFFD>
-That will buy us enough time to sneak past and visit the sorceress, Jessica, at the Lushiris Gate.<$FFFE>
-You're talking about getting our enemies to fight each other, right?<$FFFE>
-Indeed.<$FFFD>
-Lord Raymond is still fighting against Colcia.<$FFFD>
-If we can trick the Empire into fighting against Barral, we'll be in a much better position.<$FFFE>
-But, how can we get them to fight each other?<$FFFE>
-Ahead of us is a borderline manned by the Imperial and the Barral armies.<$FFFD>
-If we attack both of their armies simultaneously there, and quickly retreat, they'll fight amongst themselves.<$FFFE>
-Now I get it!<$FFFB>
-<$FFFC>
-Each will think the other has tried to invade, and we can move on in the aftermath!<$FFFE>
-Precisely.<$FFFB>
-<$FFFC>
-Let's go, everyone!<$FFFE>
+Emerick <$FFFF>
+ Scenario <$0236> 06 "Enemies  on all Sides"<$FFFE>
+ With Luna, daughter of the brilliant strategist Baron Torland, now among his allies, <$F600><$0000> headed for the border  where the Ligurian Empire and the Kingdom of Baral stood facing  off. There he intended to carry out the baron's daring plan.<$FFFE>
+ Here they meant to make  the two nations fight  each other, draw  attention away from themselves if only a little, and buy as much time as they could.<$FFFE>
+ Now that Luna, daughter  of the genius tactician  Baron Torrand, has joined <$F600><$0000> and company, the mobile  division has come  between the forces of  the Riguler Empire and Barral Kingdom in order  to execute the Baron's cunning plan.<$FFFE>
+ Fighting between both  countries there would  deflect notice from the  Larcussian plans, buying some time to  realize their goal.<$FFFE>
+ Near the Borderline  between Barral and the Riguler Empire<$FFFF>
+ Sir <$F600><$0000><$FFFB>An enemy base is just a little farther.<$FFFE>
+ Understood.<$FFFD>Let's execute the first  part of the Baron's  plan.<$FFFD>That will buy us enough  time to sneak past and visit the sorceress, Jessica, at the Lushiris Gate.<$FFFE>
+ You're talking about getting our enemies to fight each other, right?<$FFFE>
+ Indeed.<$FFFD>Lord Raymond is still  fighting against Colcia.<$FFFD>If we can trick the  Empire into fighting against Barral, we will be in a much better  position.<$FFFE>
+ But, how can we get them to fight each other?<$FFFE>
+ Ahead of us is a borderline manned by the Imperial and the Barral  armies.<$FFFD>If we attack both of their armies simultaneously there, and quickly retreat, they will fight amongst themselves.<$FFFE>
+ Precisely.<$FFFB>Let's go, everyone!<$FFFE>
+ That's right.<$FFFB>Come on, everyone!<$FFFE>

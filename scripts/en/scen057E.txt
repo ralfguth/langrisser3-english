@@ -1,68 +1,57 @@
-Langrisser III dumper [0x221140 to 0x22177f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Larcuss Commander<$FFFF>
+Emerick <$FFFF>
+Larcuss Commander <$FFFF>
 Viscount Raymond<$FFFF>
-General Bortz<$FFFF>
+General Bortz <$FFFF>
 Barral Commander<$FFFF>
 Adjutant Gates<$FFFF>
-General Geier<$FFFF>
-Do Kahni, Champion<$FFFC>
-I can't...lose....<$FFFE>
-What did you do to Sophia?<$FFFE>
-We took her.<$FFFC>
-She'll be sacrifice for ceremony...<$FFFE>
-Oh, no!<$FFFE>
-A sacrifice!?<$FFFC>
-Has it already happened!?<$FFFE>
-Sacrifice will be at next full moon.<$FFFE>
-The next full moon is in three nights.<$FFFC>
-Let's hurry.<$FFFE>
-Without the gate wardens, their power can't be used properly.<$FFFE>
-Excuse me!<$FFFC>
-Sir [diehardt's name]?<$FFFE>
-What is it?<$FFFE>
-Lord Raymond sent us to guard the south gate!<$FFFE>
-We must hurry to the Shika Tribe's base.<$FFFC>
-We'll leave this gate's defense to you!<$FFFE>
-Yes, sir!<$FFFE>
-No time to waste.<$FFFC>
-Everyone, let's move out!<$FFFE>
-Plains Near the Lushiris North Gate<$FFFF>
-Any news from the front?<$FFFE>
-The enemy's stronger than expected. We can't advance.<$FFFE>
-General Bortz is impressive indeed.<$FFFE>
-Worry not.<$FFFC>
-He's a minor headache we'll crush on return.<$FFFE>
-It'll just be a matter of time.<$FFFE>
-The Larcuss remnants seem weak, but Lord Raymond is formidable.<$FFFE>
-When he returns, we're in trouble.<$FFFC>
-What to do....<$FFFE>
-City of Laffel - Barral Territory<$FFFF>
-S..so this is the Empire's airship fleet, the Grim Reaper...<$FFFE>
-Those foolish Barral soldiers all scattered.<$FFFE>
-Hmmph!<$FFFC>
-Without the Dark Knight, they're no match for us.<$FFFE>
-I didn't expect the Dark Knight away.<$FFFE>
-With Lord Geier, even the Dark Knight's no match...<$FFFE>
-Seems I didn't need that plan.<$FFFC>
-Hohohoho!<$FFFE>
+General Geier <$FFFF>
+ Do Kahni, Champion I can't…lose…<$FFFE>
+ What have you done to  the woman called Sophia, who used to live here?<$FFFE>
+ We took her. She's to be sacrifice for  ceremony…<$FFFE>
+ Oh, no!<$FFFE>
+ A sacrifice!? Has it  already happened!?<$FFFE>
+ Sacrifice will be at next full moon.<$FFFE>
+ The next full moon will  occur in three nights. Let's hurry.<$FFFE>
+ Without the wardens of the gates, it will be  impossible to properly make use of their power.<$FFFE>
+ Excuse me! Sir <$F600><$0000>?<$FFFE>
+ What is it?<$FFFE>
+ Lord Raymond dispatched  us from the main force to come guard the  southern gate!<$FFFE>
+ We need to hurry and reach the headquarters of the Shika Tribe. We  will entrust the defense of this gate to you!<$FFFE>
+ Yes, sir!<$FFFE>
+All right, we've got no time to waste. Everyone, let's hurry on out!<$FFFE>
+ Plains Near the North  Gate of the Lushiris Gate<$FFFF>
+ Do we have any news from the frontlines?<$FFFE>
+ The enemy seems a bit  stronger than we thought, superior to our regular army, preventing  us from making any progress.<$FFFE>
+ This brave general Bortz of the Empire is most  impressive indeed.<$FFFE>
+ Worry not. He's just a minor headache we can  crush when we return with our own army.<$FFFE>
+ It will only be a matter of time, after we come back.<$FFFE>
+ While these remnants of  the Larcuss army seem fairly weak, that damned Lord Raymond is a force  to be reckoned with.<$FFFE>
+ When he returns, we will be in trouble. What to do…<$FFFE>
+ City of Laffel Now Part  of the Barral Kingdom<$FFFF>
+ S…so this is that so called Grim Reaper, the Empire's airship fleet…<$FFFE>
+ Those foolish Barral soldiers have all  scattered in disarray.<$FFFE>
+ Hmmph! As long as the  Dark Knight stays  absent, they have little  true might to muster against us.<$FFFE>
+I hadn't expected the  Dark Knight to really  stay absent.<$FFFE>
+ With Lord Geier leading  us, we could take on  even the Dark Knight…<$FFFE>
+ Looks like I didn't need that plan for him after  all. Hohohoho!<$FFFE> 

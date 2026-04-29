@@ -1,133 +1,101 @@
-Langrisser III dumper [0xc3ffc to 0xc4bd7]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Rigüler Commander<$FFFF>
-Rigüler General<$FFFF>
--Defeat the enemy commander<$FFFC>
- within 19 turns<$FFFE>
--Death of Diehärte<$FFFC>
--29 turns elapse<$FFFE>
-Captured Airship vs. Raymond's Escort Airship<$FFFF>
-Commander, the enemy has made preparations to board our ship!<$FFFE>
-How did they get one of our airships!?<$FFFD>
-Bah what do I care, we'll have to deal with them anyway!<$FFFC>
-Without a doubt they are here to rescue the prisoner.<$FFFE>
-Let's be off to the other side then.<$FFFC>
-But don't look down or you'll get dizzy.<$FFFE>
-Please try to end this fast, I don't feel too well.<$FFFE>
-To end this quickly, target their commander.<$FFFE>
-Sir Diehärte.<$FFFC>
-Let us commence the invasion of the enemy ship now.<$FFFC>
-We shouldn't let time pass wastefully.<$FFFE>
-Of course.<$FFFC>
-I'll see to it right away.<$FFFE>
-We have to hurry up.<$FFFC>
-The boarding planks won't last forever.<$FFFE>
-Oh my, I think I just heard one of the planks cracking.<$FFFC>
-They won't last that much longer.<$FFFE>
-We have already taken too much time.<$FFFD>
-If we don't finish soon, we'll face enemy reinforcements.<$FFFC>
-...That would be unpleasant...to say the least.<$FFFE>
-The boarding plank is aching?<$FFFC>
-It will come off any minute now.<$FFFE>
-The enemy reinforcements are probably on their way by now.<$FFFC>
-We have to fulfil our mission quickly and get out of here.<$FFFE>
-The enemy will send airships from Teito if we waste more time.<$FFFD>
-If those reinforcements arrive we will be done for!<$FFFE>
-The boarding planks came off!?<$FFFE>
-Hahaha!<$FFFC>
-Now there's no escape for you.<$FFFD>
-You came to free a prisoner and now you'll be captives!<$FFFC>
-Ahahahaha!<$FFFE>
-I'm sorry everyone...<$FFFC>
-I have failed you...<$FFFE>
-I'm sorry everyone...<$FFFC>
-I have failed you...<$FFFE>
-Prow corpse reporting!<$FFFC>
-They broke through our lines!<$FFFE>
-<$F702><$F702>Central corpse reporting!<$FFFC>
-The enemy is invading!<$FFFE>
-What are you doing!?<$FFFC>
-Stop them somehow!<$FFFE>
-<$F703><$F703>Stern corpse reporting!<$FFFC>
-The enemy has crossed our defensive lines!<$FFFE>
-<$F704><$F704>Commence the counter-offensive.<$FFFC>
-Invade the enemy's vessel!<$FFFE>
-Inspecting the door, you notice a strange symbol on it.<$FFFE>
-Do you want to take it?<$FFFE>
-Magic Symbol was obtained!<$FFFE>
-The symbol vanished...<$FFFE>
-I can still...fight...<$FFFC>
-You must continue...<$FFFE>
-Papa....<$FFFE>
-Here's what you get for messing with my friends family!<$FFFE>
-I'm sorry, everyone...<$FFFE>
-I gotta take a rest...<$FFFE>
-It's hopeless...<$FFFE>
-You tink you can win like this?<$FFFE>
-Huh?<$FFFE>
-Sorry...<$FFFE>
-Lushiris...<$FFFE>
-Guargh...<$FFFC>
-Please carry on...<$FFFE>
-Urgh...<$FFFE>
-It should've been differently...<$FFFE>
-Guargh!<$FFFC>
-I won't die like this!<$FFFE>
-How...laughable...<$FFFC>
-...happening...on a simple escort mission...<$FFFE>
-Your Commander has fallen!<$FFFC>
-Put down your weapons and surrender quietly!<$FFFE>
-Understood.<$FFFC>
-We surrender...<$FFFE>
-Way to go, Sir Diehärte.<$FFFE>
-The battle is over...<$FFFD>
-Now then, search the ship for Raymond!<$FFFE>
-I still can....<$FFFE>
-Gaurgh...<$FFFE>
-My strength was not enough...<$FFFE>
-Guarghh!<$FFFE>
-I'm falling!<$FFFE>
-Goodbye...<$FFFE>
-They are too fast...<$FFFE>
-If only the circumstances would've been different!<$FFFC>
-But it doesn't matter anymore...<$FFFE>
-Fighting is futile...if only I knew before...<$FFFE>
-So this is it...<$FFFE>
-Mother...I won't be coming home...<$FFFE>
-My magic wasn't enough...<$FFFE>
-Help me, God!<$FFFE>
-Kyaaah!<$FFFE>
-After I just got promoted...<$FFFE>
-It's hopeless...<$FFFE>
-Dying in mid-air, how poetic...<$FFFC>
-I would not like to die!<$FFFE>
-W..What!?<$FFFC>
-All my troops have been wiped out!?<$FFFE>
-It would have been more than enough to take out their commander.<$FFFC>
-What is all this destruction good for...<$FFFE>
-Keep the enemy at bay.<$FFFC>
-Buy some time for our reinforcements to arrive!<$FFFE>
-The Prow corpse is no more...<$FFFE>
-The center corpse has been overthrown...<$FFFE>
-Stern corpse...<$FFFC>
-This has to be a nightmare!<$FFFE>
+Emerick <$FFFF>
+Riguler Commander <$FFFF>
+Riguler General <$FFFF>
+<$01E9>Conditions for Victory Defeat the enemy commander within 19 turns <$FFFE>
+<$01E9>Conditions for Defeat  Death of <$F600><$0000> 19 turns elapse <$FFFE>
+ Battle between the Captured Airship and the Airship escorting Lord Raymond <$FFFF>
+ Commander, the enemy has made preparations to board our ship!<$FFFE>
+ How on earth did they  manage to get their  hands on one of our  airships!?<$FFFD>Bah what do I care, we  will have to deal with them anyway! Without a doubt they are here to rescue the prisoner.<$FFFE>
+ Let's be off to the  other side then. But don't look down or you will get funny feelings inside the  belly.<$FFFE>
+ Please try to end this fast, I don't feel too  well.<$FFFE>
+ If you wish to conclude  this battle quickly, target the enemy commander.<$FFFE>
+ Sir <$F600><$0000>. Let us  commence the invasion of the enemy ship now. We  shouldn't let time pass  wastefully.<$FFFE>
+ Of course. I will see to it right away.<$FFFE>
+ We have to hurry up. The boarding planks won't  last forever.<$FFFE>
+ Oh my, I think I just  heard one of the planks  cracking. They won't  last that much longer.<$FFFE>
+ We have already taken  too much time.<$FFFD>If we don't finish this  soon, we will also have to deal with enemy reinforcements. …That would be unpleasant…to say the least.<$FFFE>
+ The boarding plank is  aching? It will come off  any minute now.<$FFFE>
+ The enemy reinforcements are probably on their  way by now. We have to  fulfil our mission quickly and get out of here.<$FFFE>
+ The enemy will send  airships from the base in Teito if we continue  to waste so much time.<$FFFD>If those reinforcements  arrive we will be done for!<$FFFE>
+ The boarding planks came off!?<$FFFE>
+ Hahaha! Now there's no  chance for you to escape any more.<$FFFD>You came all the way here to free a prisoner  and now you will become  captives yourself! Ahahahaha!<$FFFE>
+ I am sorry everyone… I have failed you…<$FFFE>
+ I am sorry everyone… I have failed you…<$FFFE>
+ Prow corpse reporting! They broke through our lines!<$FFFE>
+<$F702>
+<$F702>
+ <$F702><$F702>Central corpse reporting! The enemy is  invading!<$FFFE>
+ What are you doing!? Stop them somehow!<$FFFE>
+<$F703>
+<$F703>
+ <$F703><$F703>Stern corpse reporting!The enemy has crossed our defensive lines!<$FFFE>
+<$F704>
+<$F704>
+ <$F704><$F704>Commence the counter offensive. Invade the  enemy's vessel!<$FFFE>
+ Upon inspecting the door thoroughly you notice a strange symbol attached  to it.<$FFFE>
+ Do you want to take it?<$FFFE>
+ Magic Symbol was obtained!<$FFFE>
+ The symbol vanished…<$FFFE>
+ I can still…fight… You must continue…<$FFFE>
+ Papa…<$FFFE>
+ Here's what you get for  messing with my friends  family!<$FFFE>
+ I am sorry, everyone…<$FFFE>
+ I gotta take a rest…<$FFFE>
+ It's hopeless…<$FFFE>
+ You tink you can win like this?<$FFFE>
+ Huh?<$FFFE>
+ Sorry…<$FFFE>
+ Lushiris…<$FFFE>
+ Guargh… Please carry  on…<$FFFE>
+ Urgh…<$FFFE>
+ It should've been  differently…<$FFFE>
+ Guargh! I won't die like  this!<$FFFE>
+ How…laughable… …happening…on a simple escort mission…<$FFFE>
+ Your Commander has fallen! Put down your weapons and surrender  quietly!<$FFFE>
+ Understood. We  surrender…<$FFFE>
+ Way to go, Sir <$F600><$0000>.<$FFFE>
+ The battle is over…<$FFFD>Now then, search the  ship for Raymond!<$FFFE>
+ I still can…<$FFFE>
+ Gaurgh…<$FFFE>
+ My strength was not  enough…<$FFFE>
+ Guarghh!<$FFFE>
+ I am falling!<$FFFE>
+ Goodbye…<$FFFE>
+ They are too fast…<$FFFE>
+ If only the  circumstances would've been different! But it  doesn't matter anymore…<$FFFE>
+ Fighting is futile…if only I knew before…<$FFFE>
+ So this is it…<$FFFE>
+ Mother…I won't be coming home…<$FFFE>
+ My magic wasn't  enough…<$FFFE>
+ Help me, God!<$FFFE>
+ Kyaaah!<$FFFE>
+ After I just got promoted…<$FFFE>
+ It's hopeless…<$FFFE>
+ Dying in mid air, how poetic… I would not like to die!<$FFFE>
+ W…What!? All my troops have been wiped out!?<$FFFE>
+ It would have been more  than enough to take out  their commander. What is all this destruction good for…<$FFFE>
+ Keep the enemy at bay. Buy some time for our  reinforcements to  arrive!<$FFFE>
+ The Prow corpse is no  more…<$FFFE>
+ The center corpse has  been overthrown…<$FFFE>
+ Stern corpse… This has  to be a nightmare!<$FFFE>   

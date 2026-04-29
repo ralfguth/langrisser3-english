@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-test_font.py - Tests for bigram font system.
+test_font.py - Tests for bigram font system (VD font alignment).
 
 Verifies:
 1. CHAR_TILE_MAP has correct tile indices
-2. BIGRAM_TILE_MAP entries are consistent
-3. All generated tiles have correct pixel content
-4. Patched FONT.BIN preserves size
-5. No regressions in tile mapping
+2. BIGRAM_TILE_MAP entries are consistent and aligned with VD font
+3. Glyph reference data is well-formed
+4. VD font file has correct size and key tiles have pixels
+5. Tile maps only reference tiles that exist in VD's font
 """
 
 import sys
@@ -19,35 +19,15 @@ sys.path.insert(0, str(PROJECT_DIR / 'tools'))
 
 from font_tools import (
     CHAR_TILE_MAP, BIGRAM_TILE_MAP, TILE_CHAR_MAP,
-    _LC_STARTS, _LC_RIGHT_FULL, _LC_UI_OFFSETS,
+    _LC_STARTS, _LC_RIGHT_FULL, _LC_UI_OFFSETS, _LC_MISSING_CHARS,
     _UC_GROUPS, _UC_UI_OFFSETS,
     _LETTER_GLYPHS, _DIGIT_TILES, _PUNCT_GLYPHS,
-    _SPACE_BIGRAM_BASE, _UC_MISSING_SPACE,
-    generate_all_tiles, patch_font_bin,
-    I_APOSTROPHE_TILE, APOSTROPHE_TILE, APOS_S_TILE, ELLIPSIS_TILE,
-    _compose_tile, _glyph,
+    _CWX_SPECIAL_BIGRAMS,
+    _VD_APOSTROPHE_BIGRAMS, _VD_SPACE_LETTER_BIGRAMS, _VD_PUNCT_BIGRAMS,
+    ELLIPSIS_TILE, DQUOTE_TILE,
 )
 
-JP_TRACK01 = Path.home() / 'Jogos/emulacao/romsets/sega saturn/Langrisser III (Japan)/Langrisser III (Japan) (3M) (Track 01).bin'
-
-
-def get_jp_font():
-    """Extract FONT.BIN from JP ISO."""
-    from iso_tools import build_file_index, extract_file_data
-    image = JP_TRACK01.read_bytes()
-    idx = build_file_index(image)
-    entry = idx['LANG/FONT.BIN']
-    return extract_file_data(image, entry.extent, entry.size)
-
-
-def extract_left_half(tile_data, tile_idx):
-    tile = tile_data[tile_idx * 32:(tile_idx + 1) * 32]
-    return tuple(tile[r * 2] for r in range(16))
-
-
-def extract_right_half(tile_data, tile_idx):
-    tile = tile_data[tile_idx * 32:(tile_idx + 1) * 32]
-    return tuple(tile[r * 2 + 1] for r in range(16))
+VD_FONT_PATH = PROJECT_DIR / 'patches' / 'vd_font.bin'
 
 
 class TestCharTileMap(unittest.TestCase):
@@ -60,10 +40,32 @@ class TestCharTileMap(unittest.TestCase):
         self.assertEqual(CHAR_TILE_MAP['.'], 4)
         self.assertEqual(CHAR_TILE_MAP['?'], 5)
         self.assertEqual(CHAR_TILE_MAP['!'], 6)
-        self.assertEqual(CHAR_TILE_MAP["'"], APOSTROPHE_TILE)
         self.assertEqual(CHAR_TILE_MAP['…'], ELLIPSIS_TILE)
-        self.assertNotIn('-', CHAR_TILE_MAP)
-        self.assertNotIn('"', CHAR_TILE_MAP)
+        self.assertEqual(CHAR_TILE_MAP['"'], DQUOTE_TILE)
+
+    def test_extended_punctuation_in_kanji_area(self):
+        """Extended punctuation (-, +, (, ), /, *, %, [, ], ', &) installed in
+        the kanji area (tiles 1627-1638) after coverage audit found these chars
+        appeared in scripts but lacked tiles."""
+        expected = {
+            '-': 1627, '+': 1628, '(': 1629, ')': 1631,
+            '/': 1632, '*': 1633, '%': 1634, '[': 1635,
+            ']': 1636, "'": 1637, '&': 1638,
+        }
+        for ch, tile in expected.items():
+            self.assertEqual(CHAR_TILE_MAP[ch], tile,
+                             f"Extended punct {ch!r} should be at tile {tile}")
+
+    def test_chars_absent_from_map(self):
+        """Characters not supported by the font should still be absent."""
+        for ch in ['~', '⅓', 'ñ', '@', '#', '^', '`']:
+            self.assertNotIn(ch, CHAR_TILE_MAP,
+                             f"'{ch}' should not be in CHAR_TILE_MAP")
+
+    def test_dquote_at_tile_1470(self):
+        """VD's double-quote is at tile 1470, not 1439."""
+        self.assertEqual(DQUOTE_TILE, 1470)
+        self.assertEqual(CHAR_TILE_MAP['"'], 1470)
 
     def test_digits_are_tiles_7_to_16(self):
         for i in range(10):
@@ -85,26 +87,11 @@ class TestCharTileMap(unittest.TestCase):
 
 class TestBigramTileMap(unittest.TestCase):
 
-    def test_bigram_count(self):
-        lc_count = sum(1 for k in BIGRAM_TILE_MAP if k[0].islower())
-        uc_count = sum(1 for k in BIGRAM_TILE_MAP if k[0].isupper())
-        space_count = sum(1 for k in BIGRAM_TILE_MAP if k[0] == ' ')
-        apos_count = sum(1 for k in BIGRAM_TILE_MAP if k[0] == "'")
-        self.assertEqual(lc_count, 801)
-        self.assertEqual(uc_count, 519 + 22)  # original UC + missing UC+space
-        self.assertEqual(space_count, 52)      # 26 LC + 26 UC
-        self.assertEqual(apos_count, 1)        # 's
-
     def test_ui_tiles_not_in_bigram_map(self):
         mapped = set(BIGRAM_TILE_MAP.values())
         for ch, ui_set in _LC_UI_OFFSETS.items():
             for offset in ui_set:
                 tile_idx = _LC_STARTS[ch] + offset
-                self.assertNotIn(tile_idx, mapped,
-                                 f"UI tile {tile_idx} ({ch}+{offset}) in bigram map")
-        for ch, ui_set in _UC_UI_OFFSETS.items():
-            for offset in ui_set:
-                tile_idx = _UC_GROUPS[ch][0] + offset
                 self.assertNotIn(tile_idx, mapped,
                                  f"UI tile {tile_idx} ({ch}+{offset}) in bigram map")
 
@@ -114,19 +101,61 @@ class TestBigramTileMap(unittest.TestCase):
             self.assertIn((left, right), BIGRAM_TILE_MAP,
                           f"Bigram ('{left}','{right}') missing")
 
-    def test_custom_bigrams_exist(self):
-        self.assertIn(('I', "'"), BIGRAM_TILE_MAP)
-        self.assertEqual(BIGRAM_TILE_MAP[('I', "'")], I_APOSTROPHE_TILE)
-        self.assertIn(("'", 's'), BIGRAM_TILE_MAP)
-        self.assertEqual(BIGRAM_TILE_MAP[("'", 's')], APOS_S_TILE)
+    def test_lc_period_at_position_27(self):
+        """VD has period at LC position 27, not apostrophe."""
+        self.assertEqual(_LC_RIGHT_FULL[27], '.')
+        # Verify 'a.' bigram exists (a-group, position 27)
+        self.assertIn(('a', '.'), BIGRAM_TILE_MAP)
+        # Apostrophe should NOT be in LC right chars
+        self.assertNotIn("'", _LC_RIGHT_FULL)
 
-    def test_space_bigrams_exist(self):
-        for ch in 'abcdefghijklmnopqrstuvwxyz':
-            self.assertIn((' ', ch), BIGRAM_TILE_MAP, f"(' ','{ch}') missing")
-        for ch in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
-            self.assertIn((' ', ch), BIGRAM_TILE_MAP, f"(' ','{ch}') missing")
-        for ch in _UC_MISSING_SPACE:
-            self.assertIn((ch, ' '), BIGRAM_TILE_MAP, f"('{ch}',' ') missing")
+    def test_lc_groups_fully_mapped(self):
+        """Each LC group should have all available right chars mapped."""
+        for left in _LC_STARTS:
+            missing = _LC_MISSING_CHARS.get(left, set())
+            expected_rights = [c for c in _LC_RIGHT_FULL if c not in missing]
+            actual = len([1 for (l, r) in BIGRAM_TILE_MAP
+                         if l == left and r in expected_rights])
+            self.assertEqual(actual, len(expected_rights),
+                             f"LC group '{left}': expected {len(expected_rights)} right chars, got {actual}")
+
+    def test_vd_apostrophe_bigrams_exist(self):
+        """VD's 10 apostrophe bigrams should all be in the map."""
+        for pair, tile_idx in _VD_APOSTROPHE_BIGRAMS.items():
+            self.assertIn(pair, BIGRAM_TILE_MAP, f"VD apostrophe bigram {pair} missing")
+            self.assertEqual(BIGRAM_TILE_MAP[pair], tile_idx)
+        # 'v at 1500
+        self.assertIn(("'", 'v'), BIGRAM_TILE_MAP)
+        self.assertEqual(BIGRAM_TILE_MAP[("'", 'v')], 1500)
+
+    def test_vd_space_letter_bigrams_exist(self):
+        """VD's space+letter bigrams should all be in the map."""
+        for pair, tile_idx in _VD_SPACE_LETTER_BIGRAMS.items():
+            self.assertIn(pair, BIGRAM_TILE_MAP, f"VD space+letter {pair} missing")
+            self.assertEqual(BIGRAM_TILE_MAP[pair], tile_idx)
+
+    def test_vd_punct_bigrams_exist(self):
+        """VD's punctuation double-bigrams should be in the map."""
+        for pair, tile_idx in _VD_PUNCT_BIGRAMS.items():
+            self.assertIn(pair, BIGRAM_TILE_MAP, f"VD punct bigram {pair} missing")
+            self.assertEqual(BIGRAM_TILE_MAP[pair], tile_idx)
+
+    def test_no_conflicting_custom_bigrams(self):
+        """Custom bigrams that conflict with VD tiles should not exist."""
+        # Tiles 43-45 should not be mapped (VD has a/m/p there)
+        mapped_tiles = set(BIGRAM_TILE_MAP.values())
+        for tile in [43, 44, 45]:
+            self.assertNotIn(tile, mapped_tiles,
+                             f"Tile {tile} should not be in bigram map (VD uses it for a/m/p)")
+        # No hyphen, colon, semicolon, enye bigrams
+        for pair in BIGRAM_TILE_MAP:
+            self.assertNotIn('-', pair, f"Hyphen bigram {pair} found (VD has no hyphen tiles)")
+            self.assertNotIn('ñ', pair, f"Enye bigram {pair} found (VD has no enye tiles)")
+
+    def test_cwx_special_bigrams_exist(self):
+        for pair, tile_idx in _CWX_SPECIAL_BIGRAMS.items():
+            self.assertIn(pair, BIGRAM_TILE_MAP, f"CWX bigram {pair} missing")
+            self.assertEqual(BIGRAM_TILE_MAP[pair], tile_idx)
 
     def test_all_tiles_within_font_range(self):
         max_tile = 1691
@@ -136,6 +165,7 @@ class TestBigramTileMap(unittest.TestCase):
 
 
 class TestGlyphData(unittest.TestCase):
+    """Reference glyph data integrity checks."""
 
     def test_all_letter_glyphs_are_16_bytes(self):
         for ch, data in _LETTER_GLYPHS.items():
@@ -170,89 +200,91 @@ class TestGlyphData(unittest.TestCase):
             self.assertIn(d, _DIGIT_TILES)
 
 
-class TestTileGeneration(unittest.TestCase):
+class TestVDFont(unittest.TestCase):
+    """Tests for VermillionDesserts' English font file."""
 
     @classmethod
     def setUpClass(cls):
-        cls.tiles = generate_all_tiles()
+        if not VD_FONT_PATH.exists():
+            raise unittest.SkipTest("VD font not found")
+        cls.font_data = VD_FONT_PATH.read_bytes()
 
-    def test_all_generated_tiles_are_32_bytes(self):
-        for idx, data in self.tiles.items():
-            self.assertEqual(len(data), 32,
-                             f"Tile {idx} is {len(data)} bytes, expected 32")
+    def _tile_pixels(self, idx):
+        tile = self.font_data[idx*32:(idx+1)*32]
+        return sum(bin(b).count('1') for b in tile)
 
-    def test_generates_all_bigram_tiles(self):
-        for pair, idx in BIGRAM_TILE_MAP.items():
-            self.assertIn(idx, self.tiles,
-                          f"Bigram {pair} tile {idx} not generated")
+    def test_font_size(self):
+        self.assertEqual(len(self.font_data), 54112)
 
-    def test_generates_standalone_tiles(self):
-        for idx in [0, 3, 4, 5, 6]:  # space, comma, period, ?, !
-            self.assertIn(idx, self.tiles)
-        for i in range(10):  # digits
-            self.assertIn(7 + i, self.tiles)
-        for i in range(26):  # A-Z standalone
-            self.assertIn(17 + i, self.tiles)
-
-    def test_bigram_tiles_match_glyph_composition(self):
-        """Every bigram tile should equal compose(left_glyph, right_glyph)."""
-        for (left, right), idx in BIGRAM_TILE_MAP.items():
-            expected = _compose_tile(_glyph(left), _glyph(right))
-            actual = self.tiles[idx]
-            self.assertEqual(actual, expected,
-                             f"Bigram ('{left}','{right}') tile {idx} doesn't match composition")
-
-    def test_space_tile_is_blank(self):
-        self.assertEqual(self.tiles[0], b'\x00' * 32)
-
-    def test_ellipsis_has_three_dots(self):
-        ell = self.tiles[ELLIPSIS_TILE]
-        # Row 12 and 13 should have pixels, others blank
-        for row in range(16):
-            word = (ell[row*2] << 8) | ell[row*2+1]
-            if row in (12, 13):
-                self.assertGreater(word, 0, f"Ellipsis row {row} is blank")
-            else:
-                self.assertEqual(word, 0, f"Ellipsis row {row} should be blank")
-
-    def test_max_tile_index_within_font(self):
-        max_idx = max(self.tiles.keys())
-        self.assertLess(max_idx, 1691)
-
-
-class TestFontPatching(unittest.TestCase):
-
-    @classmethod
-    def setUpClass(cls):
-        if not JP_TRACK01.exists():
-            raise unittest.SkipTest("JP ISO not found")
-        cls.jp_font = get_jp_font()
-        cls.tiles = generate_all_tiles()
-        cls.patched = patch_font_bin(cls.jp_font, cls.tiles)
-
-    def test_patched_size_matches_original(self):
-        self.assertEqual(len(self.patched), len(self.jp_font))
-        self.assertEqual(len(self.patched), 54112)
-
-    def test_patched_tiles_are_applied(self):
-        for idx, expected in self.tiles.items():
-            actual = self.patched[idx*32:(idx+1)*32]
-            self.assertEqual(actual, expected,
-                             f"Tile {idx} not correctly patched")
+    def test_font_tile_count(self):
+        self.assertEqual(len(self.font_data) // 32, 1691)
 
     def test_uppercase_tiles_have_pixels(self):
-        for ch in 'ABCMXYZ':
-            idx = CHAR_TILE_MAP[ch]
-            tile = self.patched[idx*32:(idx+1)*32]
-            pixels = sum(bin(b).count('1') for b in tile)
-            self.assertGreater(pixels, 10, f"'{ch}' tile looks blank")
+        """Tiles 17-42 (A-Z) should have visible glyph data."""
+        for i, ch in enumerate('ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
+            idx = 17 + i
+            self.assertGreater(self._tile_pixels(idx), 10,
+                               f"'{ch}' tile {idx} looks blank")
 
-    def test_lowercase_bigram_left_half_has_pixels(self):
-        for ch in 'abcmxyz':
-            idx = CHAR_TILE_MAP[ch]
-            tile = self.patched[idx*32:(idx+1)*32]
-            left_pixels = sum(bin(tile[r*2]).count('1') for r in range(16))
-            self.assertGreater(left_pixels, 5, f"'{ch}' left half looks blank")
+    def test_key_bigram_tiles_have_pixels(self):
+        """Common bigram tiles should have visible glyph data."""
+        key_bigrams = [('t','h'), ('h','e'), ('i','n'), ('e','r')]
+        for left, right in key_bigrams:
+            idx = BIGRAM_TILE_MAP[(left, right)]
+            self.assertGreater(self._tile_pixels(idx), 10,
+                               f"Bigram '{left}{right}' tile {idx} looks blank")
+
+    def test_space_tile_is_blank(self):
+        tile = self.font_data[0:32]
+        self.assertEqual(tile, b'\x00' * 32)
+
+    def test_digit_tiles_have_pixels(self):
+        for d in range(10):
+            idx = 7 + d
+            self.assertGreater(self._tile_pixels(idx), 5,
+                               f"Digit {d} tile {idx} looks blank")
+
+    def test_vd_apostrophe_tiles_have_pixels(self):
+        """VD's apostrophe bigram tiles should have visible glyph data."""
+        for pair, idx in _VD_APOSTROPHE_BIGRAMS.items():
+            self.assertGreater(self._tile_pixels(idx), 5,
+                               f"Apostrophe bigram {pair} tile {idx} looks blank")
+
+    def test_vd_space_letter_sample_tiles_have_pixels(self):
+        """Sample VD space+letter tiles should have visible glyph data."""
+        samples = [(' ','a'), (' ','e'), (' ','t'), (' ','A'), (' ','T')]
+        for pair in samples:
+            idx = BIGRAM_TILE_MAP[pair]
+            self.assertGreater(self._tile_pixels(idx), 3,
+                               f"Space+letter {pair} tile {idx} looks blank")
+
+    def test_ellipsis_tile_has_pixels(self):
+        self.assertGreater(self._tile_pixels(ELLIPSIS_TILE), 2,
+                           "Ellipsis tile looks blank")
+
+    def test_dquote_tile_has_pixels(self):
+        self.assertGreater(self._tile_pixels(DQUOTE_TILE), 2,
+                           "Double-quote tile looks blank")
+
+    def test_bigram_map_tiles_match_vd_font(self):
+        """Every tile in BIGRAM_TILE_MAP should have pixels in VD's font.
+
+        This catches misalignments where font_tools maps a bigram to a tile
+        index that has a blank or wrong glyph in VD's font.
+        """
+        blank_tiles = []
+        for pair, idx in BIGRAM_TILE_MAP.items():
+            left, right = pair
+            # Space bigrams (X + ' ') have left-half content only
+            if right == ' ' and left != ' ':
+                continue
+            if self._tile_pixels(idx) == 0:
+                blank_tiles.append((pair, idx))
+        if blank_tiles:
+            examples = blank_tiles[:10]
+            msg = (f"{len(blank_tiles)} bigram tiles are blank in VD font:\n"
+                   + '\n'.join(f"  {p} -> tile {i}" for p, i in examples))
+            self.fail(msg)
 
 
 if __name__ == '__main__':

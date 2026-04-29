@@ -50,7 +50,7 @@ Although being painful, [diehardt's name] takes up arms knowing Freya wouldn't h
 In the end the company is victorious but Freya who refuses to surrender is rescued by the Dark Knight.<$FFFD>
 Freya who is just following the orders of her father is also unable to give an explanation for her father's madness.<$FFFD>
 Altemuller who is still recovering, is baffled to hear that the Dark Knight had occupied LAffel and orders General Geier to take the city with the fleet of airships.<$FFFD>
-Meanwhile Lord Raymond does battle against the Rigüler General Bortz.<$FFFE>
+Meanwhile Lord Raymond does battle against the Riguler General Bortz.<$FFFE>
 <$FFF80008>  Scenario - 08<$FFFD>
 Upon arriving at the southern gate it becomes clear that the gate has been occupied by members of the Shika Tribe.<$FFFD>
 In the end Do Kahni is defeated, but Sophia the gate's guardian has already been abducted to be sacrificed.<$FFFD>
@@ -72,7 +72,7 @@ Sophia who joins the division, suggests to move on the eastern gate next.<$FFFD>
 The Barral troops stationed in Laffel being at the brink of defeat, are reinforced by the Dark Knight who takes over command determinately.<$FFFD>
 Altemuller who has recovered from his injury moves out to the Colcian border to repel their troops almost singe handedly.<$FFFE>
 <$FFF8000B>  Scenraio - 11<$FFFD>
-Moving on the eastern gate, the division is ambushed by Ferakia another Demon General, who was planning the assassination of lady JEssica.<$FFFD>
+Moving on the eastern gate, the division is ambushed by Feraquea another Demon General, who was planning the assassination of lady JEssica.<$FFFD>
 The time before the demons would start their invasion, according to the Demon's overlord Bosel, grew short.<$FFFD>
 At the same time General Bortz plans to use himself as a decoy to enable his troops to retreat safely.<$FFFE>
 <$FFF8000C>  Scenraio - 12<$FFFD>
@@ -87,7 +87,7 @@ Upon doing so his troops are able to withdraw and meet up with Varna's reinforce
 Furthermore General Geier has a hard time fighting against the Dark Knight.<$FFFC>
 Having troops to spare Barral attempts to invade the western Lushiris gate.<$FFFE>
 <$FFF8000D>  Scenraio - 13<$FFFD>
-With their new companion Fauvel, the division makes its way to western gate to protect its warden, the saintly animal Jügler.<$FFFD>
+With their new companion Fauvel, the division makes its way to western gate to protect its warden, the saintly animal Jugler.<$FFFD>
 At last all gates are reinstated and Lushiris gate regains its warding powers.<$FFFC>
 Since powerful demons could still break through, lady Jessica recommends to get a hold of the Haja no Ken, a sword with holy powers to fight demon kind.<$FFFD>
 The battle between Geier and the Black Knights comes to an end resulting in Geier's defeat.<$FFFD>
@@ -172,13 +172,13 @@ But hadn't all members of the royal family been executed by the Empire?<$FFFC>
 Ill-at-ease the division makes its way back to the Capitol.<$FFFD>
 At the same time a messenger from Velzeria visits Varna and demands of her to kill Altemuller, while threatening the life of Varna's kidnapped sister Anna.<$FFFE>
 <$FFF8001A>  Scenario - 26<$FFFD>
-Being bathed in the light of Langrisser the royal survivor turns out to be Ferakia the demon Shapeshiftress.<$FFFD>
-Kirikaze, whose homeland had been brought to ruin by Ferakia, joins the fight against the demons to avenge his Lord and his family.<$FFFD>
+Being bathed in the light of Langrisser the royal survivor turns out to be the demon Feraquea.<$FFFD>
+Kirikaze, whose homeland had been brought to ruin by Feraquea, joins the fight against the demons to avenge his Lord and his family.<$FFFD>
 Furthermore news of Altemuller's death come to the ears of our protagonists.<$FFFC>
 Paul rejoices at those news, for the Empire would be his alone at last.<$FFFE>
 <$FFF8001B>  Scenario - 27<$FFFD>
-Ferakia failed to ambushed the party which was making their way to Velzeria and was delivered to justice by Kirikaze.<$FFFC>
-With Rag and Ferakia out of the way only one of the demon generals remained.<$FFFD>
+Feraquea failed to ambushed the party which was making their way to Velzeria and was delivered to justice by Kirikaze.<$FFFC>
+With Rag and Feraquea out of the way only one of the demon generals remained.<$FFFD>
 Although Kirikaze had his revenge, he continues to follow [diehardt's name] to defeat the true mastermind, Bosel.<$FFFE>
 <$FFF8001C>  Scenario - 28<$FFFD>
 When [diehardt's name]and company pushed down Grove the last of the demon generals only Bosel remained as the last enemy standing.<$FFFD>

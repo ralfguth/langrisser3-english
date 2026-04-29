@@ -1,102 +1,59 @@
-Langrisser III dumper [0x24315c to 0x24397f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-General Geier<$FFFF>
-Rigüler Commander<$FFFF>
+Emerick <$FFFF>
+General Geier <$FFFF>
+Riguler Commander <$FFFF>
 Adjutant Gates<$FFFF>
-Dark Knight<$FFFF>
+Dark Knight <$FFFF>
 Barral Commander<$FFFF>
-Shapeshiftress Ferakia<$FFFF>
-Monster<$FFFF>
-<$FFFC>
-Scenario ~ 11<$FFFC>
-"Deception"<$FFFE>
-Sophia, rescued from being sacrificed by the Shika Tribe, has<$FFFC>
-now joined the party which now is heading towards the eastern gate.<$FFFE>
-However, in the forest ahead, there is a suspicious-looking<$FFFC>
-shadow which always follows them yet shies away from<$FFFC>
-human contact, awaiting its opportunity to strike.<$FFFE>
-*Condition for Victory<$FFFC>
- -Rescue of NPC<$FFFC>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Death of NPC<$FFFE>
-Geier and the Airship Fleet vs. the Dark Knight<$FFFF>
-Hmmph.<$FFFC>
-Now that fiend has come, will our dominance of the battlefield shift....<$FFFD>
-Is this Dark Knight as strong as the rumors say.....<$FFFE>
-I've received a report, sir!<$FFFD>
-Several Barral aerial units have taken to flight!<$FFFE>
-A full warship?<$FFFE>
-No, sir!<$FFFC>
-2 or 3 smaller units!<$FFFE>
-Strengthen our anti-aircraft fire.<$FFFC>
-Sink them like we did the others.<$FFFD>
-Let's see how many times they try before they realize the futility of such attacks.<$FFFE>
-Signal flares.....<$FFFB>
-<$FFFC>
-....Hmmm.....<$FFFD>
-Wh..what...!?<$FFFC>
-"Oil.....been defeated".......<$FFFC>
-What could they mean......<$FFFE>
-Oh, no!<$FFFC>
-Hurry out of range!<$FFFE>
-Just a little longer.....<$FFFC>
-Soon they won't be able to escape.<$FFFB>
-<$FFFC>
-Now!<$FFFC>
-Shoot the fire arrows!<$FFFE>
-Archers!<$FFFC>
-Attack all at once, to keep the element of surprise!<$FFFB>
-<$FFFC>
-Fiiiiiirrreeeeeeeee!!<$FFFE>
-Sir!<$FFFC>
-3 ships have been lit on fire!<$FFFC>
-Is oil how they burned them so quickly!?<$FFFD>
-W..what should we do!?<$FFFE>
-Have the 2 ships on the left<$FFFC>
-block the enemy aerial units.<$FFFD>
-If we get their allies in the line of fire, they won't be able to attack as strongly.<$FFFE>
-A message!<$FFFD>
-Move two ships to the left!<$FFFC>
-Engage in evasive action and bring us behind the enemy aerial units!<$FFFE>
-Yes, sir!<$FFFE>
-....Hmmph.<$FFFC>
-....Hohoho!<$FFFD>
-Damn you, Dark Knight, you and your taunting mockeries....<$FFFC>
-Then again, if you didn't offer such insolence, things wouldn't be any fun!<$FFFE>
+Feraquea<$FFFF>
+Monster <$FFFF>
+ Scenario <$0236> 11 "Deception"<$FFFE>
+ Sophia, rescued from being sacrificed by the  Shika Tribe, has now joined the party which now is heading towards the eastern gate.<$FFFE>
+ However, in the forest ahead, there is a suspicious looking shadow which always  follows them yet shies away from human contact, awaiting its opportunity to strike.<$FFFE>
+ <$01E9>Condition for Victory  Rescue of NPC <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of NPC<$FFFE>
+ Geier and the Airship Fleet vs. the Dark  Knight<$FFFF>
+ Hmmph. Now that fiend  has come, will our  dominance of the battlefield shift…<$FFFD>Is this Dark Knight as strong as the rumors say…<$FFFE>
+I've received a report, sir!<$FFFD>Several Barral aerial  units have taken to  flight!<$FFFE>
+ A full warship?<$FFFE>
+ No, sir! 2 or 3 smaller units!<$FFFE>
+ Strengthen our anti  aircraft fire. Sink them like we did the others.<$FFFD>Let's see how many times they try before they realize the futility of  such attacks.<$FFFE>
+ Signal flares…<$FFFB>…Hmmm…<$FFFD>Wh…what…!? "Oil…been defeated"… What  could they mean…<$FFFE>
+ Oh, no! Hurry out of  range!<$FFFE>
+ Just a little  longer… Soon they won't be able to escape.<$FFFB>Now! Shoot the fire  arrows!<$FFFE>
+ Archers! Attack all at once, to keep the element of surprise!<$FFFB>Fiiiiiirrreeeeeeeee!!<$FFFE>
+ Sir! 3 ships have been lit on fire! Is oil how  they burned them so  quickly!?<$FFFD>W…what should we do!?<$FFFE>
+ Have the 2 ships on the  left block the enemy aerial units.<$FFFD>If we get their allies in the line of fire, they won't be able to  attack as strongly.<$FFFE>
+ A message!<$FFFD>Move two ships to the  left! Engage in evasive action and bring us  behind the enemy aerial  units!<$FFFE>
+ Yes, sir!<$FFFE>
+ …Hmmph. …Hohoho!<$FFFD>Damn you, Dark Knight, you and your taunting  mockeries… Then  again, if you didn't offer such insolence, things wouldn't be any fun!<$FFFE>
 Mountains Near the Central Gate<$FFFF>
-Everyone, there's no need to run away now.<$FFFC>
-The power of that old hag Lushiris has disappeared.<$FFFE>
-Gohhhhhh!<$FFFE>
-We're striking against the Lushiris Gate to ensure the victory of Velzeria.<$FFFE>
-That's why we're going to kill that sorceress said to guard the central Gate, Jessica.<$FFFE>
-Then Master Bosel's dream, a world ruled by monsters, can be realized.<$FFFC>
-Kyahahahaha!<$FFFE>
-!?<$FFFD>
-Worrr......!!<$FFFE>
-What, humans, you say!?<$FFFE>
-....Hmmph!<$FFFC>
-How could we lose to such feeble creatures.<$FFFE>
-What a perfect opportunity for some exercise!<$FFFC>
-So, everyone, its time to bloody our nails to the heart's content!<$FFFE>
-Gohhhhhh!<$FFFE>
+ Everyone, there's no  need to run away now. The power of that old  hag Lushiris has disappeared.<$FFFE>
+ Gohhhhhh!<$FFFE>
+ We're striking against the Lushiris Gate to ensure the victory of  Velzeria.<$FFFE>
+ That's why we're going  to kill that sorceress said to guard the  central Gate, Jessica.<$FFFE>
+ Then Master Bozel's dream, a world ruled by  monsters, can be  realized. Kyahahahaha!<$FFFE>
+ !?<$FFFD>Worrr…!!<$FFFE>
+ What, humans, you say!?<$FFFE>
+ …Hmmph! How could we  lose to such feeble  creatures.<$FFFE>
+ What a perfect opportunity for some exercise! So, everyone, its time to bloody our nails to the heart's content!<$FFFE>
+ Gohhhhhh!<$FFFE> 

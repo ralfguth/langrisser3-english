@@ -1,87 +1,73 @@
-Langrisser III dumper [0x2ce2b0 to 0x2ceb6f]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Diehärte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-King Sieghart<$FFFF>
+Emerick <$FFFF>
+King Sieghart <$FFFF>
 Field Marshal Altemuller<$FFFF>
 General Varna<$FFFF>
 Elthlead Soldier<$FFFF>
-General Emerick<$FFFF>
-Before the Ramparts of the Elthlead Royal Capitol, Larcussia<$FFFF>
-So that's the power of the aerial fortress I've heard from the rumors.....<$FFFE>
-It is quite dangerous because it can attack from the sky.<$FFFC>
-Even our aerial units are sorely pressed.<$FFFE>
-They just don't match the mettle of the mobile division.<$FFFE>
-At that time, if this aerial fortress had made it in time, we would have been saved a lot of unnecessary trouble.<$FFFE>
-Ah well.<$FFFC>
-Now, just a little longer.<$FFFC>
-Their attacks are already starting to lose momentum!<$FFFE>
-L..lord Altemuller!<$FFFE>
-What's wrong, Varna?<$FFFE>
-Monsters!?<$FFFC>
-Gah, at this kind of time!<$FFFE>
-King Sieghart!<$FFFC>
-Monsters......<$FFFE>
-Monsters?<$FFFE>
-While it looks like they're still far enough away.....this is bad!<$FFFE>
-No, in this situation it looks like our army will profit.<$FFFE>
-Because of the monsters, the Empire's aerial fortress will reduce the number of attacks it makes on us.<$FFFE>
-The aerial fortress.......<$FFFE>
-At this rate, the fortress might be sunk!<$FFFE>
-.....But we came this far!<$FFFE>
-Cease and withdraw!<$FFFC>
-We'll recoup our losses, and return again!<$FFFE>
-Elthlead Royal Capitol, Larcussia - Audience Hall<$FFFF>
-Somehow they seem to have been driven off.<$FFFE>
-Indeed.<$FFFC>
-I wouldn't have thought they could come this quickly with the Lushiris Gate standing.<$FFFE>
+General Emerick <$FFFF>
+ Before the Ramparts of the Elthlead Royal Capitol, Larcussia<$FFFF>
+ So that's the power of the aerial fortress I've  heard from the rumors…<$FFFE>
+ It is quite dangerous  because it can attack  from the sky. Even our  aerial units are sorely  pressed.<$FFFE>
+ They just don't match  the mettle of the mobile division.<$FFFE>
+ At that time, if this aerial fortress had made it in time, we would  have been saved a lot of unnecessary trouble.<$FFFE>
+ Ah well. Now, just a little longer. Their attacks are already  starting to lose momentum!<$FFFE>
+ L…lord Altemuller!<$FFFE>
+ What's wrong, Varna?<$FFFE>
+ Monsters!? Gah, at this kind of time!<$FFFE>
+ King Sieghart! Monsters…<$FFFE>
+ Monsters?<$FFFE>
+ While it looks like  they're still far enough away…this is bad!<$FFFE>
+ No, in this situation it  looks like our army will profit.<$FFFE>
+ Because of the monsters, the Empire's aerial  fortress will reduce the number of attacks it makes on us.<$FFFE>
+ The aerial fortress…<$FFFE>
+ At this rate, the fortress might be sunk!<$FFFE>
+ …But we came this far!<$FFFE>
+ Cease and withdraw! We  will recoup our losses, and return again!<$FFFE>
+ Elthlead Royal Capitol, Larcussia Audience Hall <$FFFF>
+ Somehow they seem to have been driven off.<$FFFE>
+ Indeed. I wouldn't have thought they could come  this quickly with the  Lushiris Gate standing.<$FFFE>
 We've got a problem, King Sieghart!<$FFFE>
-What's the matter?<$FFFE>
-Countless monsters have infested the border region, causing damage everywhere!<$FFFE>
-In that case, let's send out our mobile division.<$FFFC>
-We must stop them before the damage gets out of hand!<$FFFE>
-Yes, sir!<$FFFC>
-It shall be as you command.<$FFFE>
-Sir Kirikaze, I have a favor to ask.<$FFFE>
-What might you ask of me?<$FFFE>
-I'd like you to go to Lady Jessica and discover how the monsters have been able to invade this deeply.<$FFFE>
-As you command.<$FFFE>
-Imperial Base along the Rigüler ~ Elthlead Borderline<$FFFF>
-I can't believe these monsters came....  I didn't think that Velzeria would start a war.<$FFFE>
-Velzeria, the Kingdom of Demons.<$FFFC>
-Do they plan on ending the age of man?<$FFFE>
-Foul news, Your Excellency!<$FFFE>
-What's happened?  Your face has become grim.<$FFFE>
-It's imperative that we return to the capitol!<$FFFC>
-The Kaiser, the Kaiser has passed away!<$FFFE>
-Kleist IV....dead!?<$FFFE>
-The national funeral rites are being held the day after tomorrow.<$FFFC>
-Please, let us return to the Imperial capitol with all haste.<$FFFE>
-Uncle.......<$FFFC>
-This happened much too quickly......<$FFFE>
-Your Excellency, you think he was poisoned after all?<$FFFE>
-I can't say for certain.<$FFFC>
-But if so, I'll never forgive that damnable Paul.....<$FFFE>
-Very well, Varna, let's return to the Imperial capitol!<$FFFE>
-Yes, sir!<$FFFE>
-Emerick, I'll trust you and Geier to manage things in our absence.<$FFFE>
-It seems that, once again, the monsters have managed to leave the confines of Velzeria.<$FFFE>
-I'll see that they stay on the other side of our border!<$FFFE>
+ What's the matter?<$FFFE>
+ Countless monsters have  infested the border  region, causing damage  everywhere!<$FFFE>
+ In that case, let's send  out our mobile division. We must stop them before the damage gets out of hand!<$FFFE>
+ Yes, sir! It shall be as  you command.<$FFFE>
+ Sir Kirikaze, I have a favor to ask.<$FFFE>
+ What might you ask of  me?<$FFFE>
+ I would like you to go to Lady Jessica and  discover how the monsters have been able  to invade this deeply.<$FFFE>
+ As you command.<$FFFE>
+ Imperial Base along the  Riguler <$0236> Elthlead  Borderline<$FFFF>
+ I can't believe these  monsters came… I didn't think that  Velzeria would start a war.<$FFFE>
+ Velzeria, the Kingdom of  Demons. Do they plan on ending the age of man?<$FFFE>
+ Foul news, Your  Excellency!<$FFFE>
+ What's happened? Your  face has become grim.<$FFFE>
+ It's imperative that we  return to the capitol! The Kaiser, the Kaiser  has passed away!<$FFFE>
+ Kleist IV…dead!?<$FFFE>
+ The national funeral rites are being held the day after tomorrow. Please, let us return to  the Imperial capitol with all haste.<$FFFE>
+ Uncle… This  happened much too  quickly…<$FFFE>
+ Your Excellency, you think he was poisoned  after all?<$FFFE>
+ I can't say for certain. But if so, I will never  forgive that damnable  Paul…<$FFFE>
+ Very well, Varna, let's return to the Imperial capitol!<$FFFE>
+ Yes, sir!<$FFFE>
+ Emerick, I will trust  you and Geier to manage  things in our absence.<$FFFE>
+ It seems that, once  again, the monsters have managed to leave the confines of Velzeria.<$FFFE>
+ I will see that they stay on the other side of our border!<$FFFE>

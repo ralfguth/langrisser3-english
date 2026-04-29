@@ -1,100 +1,75 @@
-Langrisser III dumper [0x265e3c to 0x2668cf]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-Jügler<$FFFF>
+Emerick <$FFFF>
+Jugler<$FFFF>
 Fauvel<$FFFF>
 Jessica<$FFFF>
 Viscount Raymond<$FFFF>
-Bosel<$FFFF>
-Necromancer Grove<$FFFF>
-Lushiris Gate ~ Western Gate<$FFFF>
-Thank you.<$FFFC>
-Your help was much appreciated.<$FFFE>
-Wow!<$FFFC>
-He's so fluffy-fluffy!<$FFFE>
-You wouldn't mind if I'd touched you too right?<$FFFE>
-My, you really are fluffy, aren't you.<$FFFE>
-.....Guu.<$FFFE>
-Good to see you again, Jügler.<$FFFE>
-Master Fauvel, Mistress Sophia.<$FFFD>
-I am very glad to see both of you are well.<$FFFE>
-Both of us were also surrounded by enemies, until Sir [diehardt's name] and company came and saved us.<$FFFE>
-The demons of Velzeria are beginning to invade Larcuss.<$FFFD>
-We've got to renew the Lushiris Gate as soon as possible.<$FFFE>
-....I see.<$FFFC>
-I shall open the gate immediately.<$FFFE>
-Please do.<$FFFE>
-Holy light of Lady Lushiris, grant me the power to open this gate, to drive back the powers of darkness.<$FFFE>
-Wonderful.....<$FFFE>
-A pillar of light is shining in the northern sky, too!<$FFFE>
-Somehow, the northern gate must have been liberated, as well.<$FFFE>
-Guess so.<$FFFB>
-<$FFFC>
-Lord Raymond must have been successful.<$FFFE>
-Right now, this country faces troublesome times.<$FFFC>
-I Jügler, will help you too!<$FFFE>
-Jügler joined the part!<$FFFE>
-My, even Mr. Fluffy-fluffy is coming with us!<$FFFE>
-Nice to have you with us, Jügler.<$FFFE>
-Gr....<$FFFE>
-Lushiris Gate ~ Center<$FFFF>
-I have been waiting for your return, Lord Raymond.<$FFFD>
-The gates in all four directions have been opened.<$FFFE>
-Oh, so [diehardt's name] and company succeeded after all.<$FFFE>
-I shall open the Lushiris Gate, so that the power of Lady Lushiris shall ward against demons from now on.<$FFFE>
-Shigna Noik Rahji.<$FFFE>
-Grant the divine protection of Lady Lushiris to this land.<$FFFC>
-Protect it against the aggression of all who are turned to evil. <$FFFE>
-Shigna Noik Rahji Di Lushiris!<$FFFE>
-Ohhh!<$FFFE>
-Now we should be protected against the invasions of the demons.<$FFFE>
-We should not take too much comfort from this.<$FFFD>
-It is true that this light shall ward against ordinary demons.<$FFFD>
-However, among the demons there are those with great strength that can act even in the face of this holy light.<$FFFD>
-Soon we will likely find some of them attacking us.<$FFFD>
-At that time, we must have the power to overcome such demons.<$FFFE>
+Bozel <$FFFF>
+Reaper Grove <$FFFF>
+Lushiris Gate <$0236> Western Gate<$FFFF>
+ Thank you. Your help was much appreciated.<$FFFE>
+ Wow! He's so fluffy fluffy!<$FFFE>
+ You wouldn't mind if I would touched you too  right?<$FFFE>
+ My, you really are  fluffy, aren't you.<$FFFE>
+ …Guu.<$FFFE>
+ Good to see you again, Jugler.<$FFFE>
+ Master Fauvel, Mistress  Sophia.<$FFFD>I am very glad to see  both of you are well.<$FFFE>
+ Both of us were also surrounded by enemies, until Sir <$F600><$0000> and company came and saved us.<$FFFE>
+The demons of Velzeria are beginning to invade  Larcuss.<$FFFD>We've got to renew the Lushiris Gate as soon as possible.<$FFFE>
+ …I see. I shall open  the gate immediately.<$FFFE>
+ Please do.<$FFFE>
+ Holy light of Lady Lushiris, grant me the  power to open this gate, to drive back the powers of darkness.<$FFFE>
+ Wonderful…<$FFFE>
+ A pillar of light is shining in the northern  sky, too!<$FFFE>
+ Somehow, the northern  gate must have been  liberated, as well.<$FFFE>
+ Guess so.<$FFFB>Lord Raymond must have been successful.<$FFFE>
+ Right now, this country  faces troublesome times. I Jugler, will help you too!<$FFFE>
+ Jugler joined the part!<$FFFE>
+ My, even Mr. Fluffy  fluffy is coming with  us!<$FFFE>
+ Nice to have you with  us, Jugler.<$FFFE>
+ Gr…<$FFFE>
+Lushiris Gate <$0236> Center <$FFFF>
+ I have been waiting for  your return, Lord  Raymond.<$FFFD>The gates in all four  directions have been opened.<$FFFE>
+ Oh, so <$F600><$0000> and company succeeded after  all.<$FFFE>
+ I shall open the Lushiris Gate, so that the power of Lady  Lushiris shall ward  against demons from now  on.<$FFFE>
+ Shigna Noik Rahji.<$FFFE>
+ Grant the divine protection of Lady Lushiris to this land. Protect it against the aggression of all who  are turned to evil.<$FFFE>
+ Shigna Noik Rahji Di Lushiris!<$FFFE>
+ Ohhh!<$FFFE>
+ Now we should be protected against the  invasions of the demons.<$FFFE>
+ We should not take too much comfort from this.<$FFFD>It is true that this light shall ward against ordinary demons.<$FFFD>However, among the demons there are those with great strength that can act even in the face of this holy light.<$FFFD>Soon we will likely find some of them attacking us.<$FFFD>At that time, we must have the power to  overcome such demons.<$FFFE>
 If that's the case, we've got to make some kind of preparations.<$FFFE>
-Are you familiar with the Haja no Ken?<$FFFD>
-It is a sword shrouded in legend, said to hold the power to vanquish those sworn to evil.<$FFFD>
-It would be best if we could get ahold of it.<$FFFE>
-The Haja no Ken, eh......<$FFFB>
-<$FFFC>
-But, our main forces still have to fight against the Empire.<$FFFE>
-And so, I guess....<$FFFE>
-Yes.<$FFFC>
-I'll have to entrust this task to [diehardt's name] and company.<$FFFD>
-This will be a much better use of [diehardt's name];s mobile division; it would be a waste to squander them in the fight with the Empire.<$FFFE>
-So, let's dispatch a messenger.<$FFFE>
-Velzeria Castle<$FFFF>
-So the Lushiris Gate has been revived....<$FFFE>
-Now none but our strongest demons can enter that country.<$FFFC>
-Now we'll need a new plan.<$FFFE>
-All of the countries haven't been worn out from the fighting.<$FFFC>
-Indeed, the Empire is still much too strong.<$FFFE>
-If that's the case, I know a human who will suit our needs well.<$FFFC>
-If we use him, we should be able to assassinate the Field Marshal.....<$FFFE>
-Kill Altemuller...?<$FFFC>
-Intriguing, go ahead and try!<$FFFE>
-Yes, Master.<$FFFE>
-In all likelihood, if the ever-popular Altemuller is killed and replaced by that idiot Imperial prince, the Empire will be embroiled in the chaos of the succession.<$FFFE>
-That chaos will create a gap for us to enter....<$FFFC>
-Hohoho!<$FFFE>
+ Are you familiar with  the Haja no Ken?<$FFFD>It is a sword shrouded in legend, said to hold  the power to vanquish  those sworn to evil.<$FFFD>It would be best if we could get ahold of it.<$FFFE>
+ The Haja no Ken, eh…<$FFFB>But, our main forces still have to fight  against the Empire.<$FFFE>
+ And so, I guess…<$FFFE>
+ Yes. I will have to  entrust this task to <$F600><$0000> and company.<$FFFD>This will be a much  better use of  <$F600><$0000>,s mobile division, it would be a waste to squander them in the fight with the  Empire.<$FFFE>
+ So, let's dispatch a messenger.<$FFFE>
+Velzeria Castle <$FFFF>
+ So the Lushiris Gate has been revived…<$FFFE>
+ Now none but our strongest demons can enter that country. Now we will need a new plan.<$FFFE>
+ All of the countries haven't been worn out  from the fighting. Indeed, the Empire is still much too strong.<$FFFE>
+ If that's the case, I know a human who will  suit our needs well. If  we use him, we should be  able to assassinate the  Field Marshal…<$FFFE>
+ Kill Altemuller…? Intriguing, go ahead and  try!<$FFFE>
+ Yes, Master.<$FFFE>
+ In all likelihood, if  the ever popular Altemuller is killed and replaced by that idiot Imperial prince, the Empire will be embroiled in the chaos of the  succession.<$FFFE>
+ That chaos will create a gap for us to enter… Hohoho!<$FFFE>

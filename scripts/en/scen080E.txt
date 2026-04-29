@@ -1,57 +1,42 @@
-Langrisser III dumper [0x2aa112 to 0x2aa5d7]
+Langrisser III dumper [0x0000 to 0x0000]
 
 Cyber Warrior X
 
-Dieharte<$FFFF>
 Tiaris<$FFFF>
-Liffany<$FFFF>
+Liffany <$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin<$FFFF>
-Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Lewin <$FFFF>
+Silver Wolf <$FFFF>
+Gilbert <$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-Jügler<$FFFF>
+Jugler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemuller<$FFFF>
 Varna<$FFFF>
-<$FFFC>
-Scenario ~ 20<$FFFC>
-"Skirmish in the Vast Skies"<$FFFE>
-Since General Bortz fought to his last breath to let the majority<$FFFC>
-of his subordinates escape, he gave a fierce accounting of
-himself. During that battle, he showed that even to his death,<$FFFC>
-he was a true man.<$FFFE>
-Having defeated Bortz and captured the airship,<$FFFC>
-[diehardt's name] quickly set sail to rescue Lord Raymond<$FFFC>
-from his convoy to the Empire.<$FFFE>
-And now, a fierce battle was about to ensue in the vast skies.<$FFFE>
-*Condition for Victory<$FFFC>
- -Defeat of the Commander in 29 turns<$FFFC>
-*Conditions for Defeat<$FFFC>
- -Death of [diehardt's name]<$FFFC>
- -Time up<$FFFE>
+Emerick <$FFFF>
+ Scenario <$0236> <$05ED> "Skirmish in the Vast Skies"<$FFFE>
+ General Boltz of the Ligurian Empire fought to the very end so that  most of his men could  escape, and met a fierce  death. Even in battle, it was the death of a man who remained true to himself until the end.<$FFFE>
+ After defeating Boltz  and obtaining a small  airship, <$F600><$0000> set out to rescue Lord Raymond, who was being taken to the imperial  capital.<$FFFE>
+ Now, a fierce battle in  the open sky was about to begin.<$FFFE>
+ Since General Bortz  fought to his last breath to let the  majority of his  subordinates escape, he  gave a fierce accounting ofhimself. During that battle, he showed that  even to his death, he  was a true man.<$FFFE>
+ Having defeated Bortz  and captured the airship, <$F600><$0000> quickly set sail to  rescue Lord Raymond from his convoy to the  Empire.<$FFFE>
 Captured Airship<$FFFF>
-Wow, it's fast, soo fast!<$FFFE>
-After seeing the strength of this airship and that magically-propelled giant soldier, I'm worried about what the Empire might use next.<$FFFE>
+ After seeing the strength of this airship and that magically propelled giant soldier, I am worried about what  the Empire might use next.<$FFFE>
 !!<$FFFE>
-Sir [diehardt's name]!<$FFFC>
-There's an Imperial airship up ahead!<$FFFE>
-So we've caught up to it!<$FFFE>
-Father's in there......<$FFFE>
-Prepare the boarding planks.<$FFFC>
-As soon as we touch their gunwale, we'll board them.<$FFFE>
-Eh?!<$FFFC>
-That's pretty reckless!<$FFFE>
-Very much so.<$FFFC>
-What if the ships should jostle apart while we're on the boarding plank....<$FFFE>
-It's dangerous, but there's no other way.<$FFFC>
-At this rate, if we let them into the Empire proper, we'll never be able to perform the rescue.<$FFFE>
-Since this is an aerial battle, it would be wise to prepare aerial troops.<$FFFE>
-That's right.<$FFFE>
-Match speeds and move alongside them!<$FFFE>
+ So we've caught up to it!<$FFFE>
+ Lord <$F600><$0000>! An  Imperial airship straight ahead!<$FFFE>
+ Father's in there…<$FFFE>
+ Father is on that  ship…<$FFFE>
+ Eh?! That's pretty reckless!<$FFFE>
+ Very much so. What if the ships should jostle  apart while we're on the boarding plank…<$FFFE>
+ It's dangerous, but there's no other way. At  this rate, if we let them into the Empire proper, we will never be  able to perform the  rescue.<$FFFE>
+ It's dangerous, but there's no other way. If  he's taken deeper into the Empire, we may never  be able to rescue him.<$FFFE>
+ That's right.<$FFFE>
+ Match speeds and move  alongside them!<$FFFE>
+ Match speed and bring us alongside!<$FFFE> 
