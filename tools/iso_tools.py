@@ -433,8 +433,56 @@ def rebuild_iso_batch(image: bytearray, file_index: dict,
     return result
 
 
+JP_TRACK01_SECTORS = 32780  # Original JP Track 1 size; Track 2 starts here.
+
+
+def _shift_track2_msf(jp_track2: bytes, new_start_sector: int) -> bytes:
+    """Rewrite the in-sector MSF (BCD bytes 12-14) of every Track 2 MODE 2
+    sector so it matches the new physical disc position.
+
+    Required when Track 1 grows: Track 2 shifts forward on disc, but the
+    MSF baked into each sector still claims the original LBA. Beetle
+    Saturn's CD block (cdb.cpp) uses that in-sector MSF to filter XA
+    streams (function TestFilterCond), so a stale MSF makes voice clips
+    fail to play. Ymir/mednafen/Kronos resolve XA via dir record + cue
+    TOC and don't notice; real hardware behaves like Beetle.
+
+    JP Track 2 MSF starts at JP_TRACK01_SECTORS (32780). After shift the
+    delta to apply is (new_start_sector - JP_TRACK01_SECTORS).
+    """
+    delta = new_start_sector - JP_TRACK01_SECTORS
+    if delta == 0:
+        return jp_track2
+
+    SS = SECTOR_SIZE
+    out = bytearray(jp_track2)
+    num_sectors = len(out) // SS
+
+    for s in range(num_sectors):
+        base = s * SS + 12
+        # Read original MSF (BCD)
+        m_old = (out[base] >> 4) * 10 + (out[base] & 0xF)
+        s_old = (out[base + 1] >> 4) * 10 + (out[base + 1] & 0xF)
+        f_old = (out[base + 2] >> 4) * 10 + (out[base + 2] & 0xF)
+        # Convert to absolute LBA + 150 lead-in, apply delta, write back
+        abs_lba = m_old * 60 * 75 + s_old * 75 + f_old + delta
+        m = abs_lba // (75 * 60)
+        sec = (abs_lba // 75) % 60
+        f = abs_lba % 75
+        out[base]     = (m // 10) * 16 + (m % 10)
+        out[base + 1] = (sec // 10) * 16 + (sec % 10)
+        out[base + 2] = (f // 10) * 16 + (f % 10)
+    return bytes(out)
+
+
 def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> None:
-    """Assemble final CD image: patched track01 + audio tracks from JP source."""
+    """Assemble final CD image: patched track01 + audio tracks from JP source.
+
+    Track 2 (MODE 2 ADPCM) gets its in-sector MSF headers rewritten to
+    match the new physical position when Track 1 has grown. Without this
+    fix Beetle Saturn refuses to stream XA voice clips. See
+    `_shift_track2_msf` for details.
+    """
     output_dir = output_cue.parent
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -447,8 +495,18 @@ def assemble_cd_image(track01_path: Path, jp_dir: Path, output_cue: Path) -> Non
     if track01_path.resolve() != dst_track01.resolve():
         shutil.copy2(track01_path, dst_track01)
 
-    # Copy audio tracks from Japanese source
-    for i in range(2, 23):
+    track01_sectors = dst_track01.stat().st_size // SECTOR_SIZE
+
+    # Track 2: MODE 2 ADPCM voice streams. Rewrite in-sector MSF so it
+    # matches the post-shift physical position on disc.
+    jp_track2 = jp_dir / 'Langrisser III (Japan) (3M) (Track 02).bin'
+    if jp_track2.exists():
+        track2_data = jp_track2.read_bytes()
+        track2_data = _shift_track2_msf(track2_data, track01_sectors)
+        (output_dir / 'track02.bin').write_bytes(track2_data)
+
+    # Audio tracks 03..22: raw CDDA, no MSF headers to rewrite
+    for i in range(3, 23):
         jp_track = jp_dir / f'Langrisser III (Japan) (3M) (Track {i:02d}).bin'
         if jp_track.exists():
             shutil.copy2(jp_track, output_dir / f'track{i:02d}.bin')
