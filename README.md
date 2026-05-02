@@ -55,7 +55,7 @@ python3 build.py --jp-iso "..." --chd
 
 The build writes to `build/`:
 
-- `Langrisser_III_English.cue` — load in **Ymir** or **mednafen**
+- `Langrisser_III_English.cue` — load in **Ymir** or **RetroArch + Beetle Saturn**
 - `Langrisser_III_English.chd` — load in **RetroArch + Beetle Saturn**
   (only present if you passed `--chd`)
 
