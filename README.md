@@ -75,10 +75,7 @@ Beetle Saturn voice playback was broken in v0.5 and earlier; v0.5.1
 fixes it by rewriting the in-sector MSF headers of Track 2 (XA voice
 streams) so they match the post-shift physical position on disc.
 Beetle's CD block uses the in-sector MSF to filter incoming sectors,
-and a stale value made it reject every voice sector. Other tested
-fan-translation builds of Langrisser III (CWX 0.2, VermillionDesserts)
-and discs rebuilt with `cd-replace` carry the same bug; CWX 0.2's
-own build pipeline is the only prior work that handled it correctly.
+and a stale value made it reject every voice sector.
 
 ## Repository layout
 
