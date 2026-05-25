@@ -1,4 +1,4 @@
-# Langrisser III : English Translation Patch (Sega Saturn)
+# Langrisser III : English Patch (Sega Saturn)
 
 A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, Japan), built from the original Japanese disc image.
 
