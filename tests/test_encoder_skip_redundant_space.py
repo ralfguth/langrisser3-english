@@ -147,6 +147,75 @@ class TestSkipDoesNotApply:
             f"got {len(bytes_with_space)} vs {len(bytes_without_space)}"
         )
 
+    # ---------- Rule scope: positive coverage (every standalone right-blank punct) ----------
+
+    @pytest.mark.parametrize("punct", list(',.?!:;'))
+    def test_every_standalone_right_blank_punct_before_F600_skips_space(self, punct):
+        """The skip rule must fire for EVERY standalone right-blank punct
+        char ahead of F600. Source forces standalone encoding by using a
+        single uppercase letter (no UC-letter+punct bigram exists), so
+        the punct is guaranteed to come out as its standalone tile.
+
+        Rule (user-stated 2026-05-25): "the rule is that you don't need
+        to put space if the tile before the space is a standalone with
+        space on the right." Standalone right-blank puncts ARE such tiles."""
+        text_with    = f"X{punct} <$F600><$0000>!"
+        text_without = f"X{punct}<$F600><$0000>!"
+        a = encode_text_to_entry(text_with,    CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        b = encode_text_to_entry(text_without, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        assert a == b, (
+            f"standalone '{punct}' before space+F600: skip rule must fire."
+            f"\n  with    space: {a.hex()}"
+            f"\n  without space: {b.hex()}"
+        )
+
+    # ---------- Rule scope: negative coverage (bigrams MUST keep the space) ----------
+
+    @pytest.mark.parametrize("text", [
+        "Hello, <$F600><$0000>.",   # 'o,' bigram — NOT standalone
+        "Yes, <$F600><$0000>.",     # 's,' bigram
+        "Sir? <$F600><$0000>!",     # 'r?' bigram
+    ])
+    def test_bigram_with_right_blank_punct_BEFORE_F600_keeps_space(self, text):
+        """Negative coverage: when the punct is part of a bigram (e.g.
+        'o,' tile, not standalone ','), the skip rule MUST NOT fire.
+        Per user (2026-05-25): "it's not any punctuation, it has to be
+        standalone punctuation." Bigram tiles don't carry the right-blank
+        property even if their right half is a small punct glyph — the
+        space tile after them must be preserved so the rendered glyphs
+        don't collide visually with the F600 substitution."""
+        without_space = text.replace(" <$F600>", "<$F600>")
+        a = encode_text_to_entry(text, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        b = encode_text_to_entry(without_space, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        assert a != b and len(a) > len(b), (
+            f"bigram-ending-in-punct before F600: space must be KEPT."
+            f"\n  with    space: {a.hex()}"
+            f"\n  without space: {b.hex()}"
+        )
+
+    # ---------- Rule scope: negative coverage (non-right-blank chars MUST keep the space) ----------
+
+    @pytest.mark.parametrize("text", [
+        "Z <$F600><$0000>!",        # bare UC letter — not right-blank
+        "X- <$F600><$0000>!",       # hyphen — explicitly excluded from right-blank set
+        "•<$F600><$0000>!",         # bullet — explicitly excluded
+    ])
+    def test_non_right_blank_tile_before_F600_keeps_space(self, text):
+        """Negative coverage: only the chars in the documented right-blank
+        standalone set may trigger the skip. UC letters and the explicitly
+        full-width '-' and '•' chars must NOT trigger it."""
+        without_space = text.replace(" <$F600>", "<$F600>")
+        a = encode_text_to_entry(text, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        b = encode_text_to_entry(without_space, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        # Either lengths differ (skip didn't fire) OR there was no space to skip
+        if ' <$F600>' in text:
+            assert len(a) > len(b), (
+                f"non-right-blank tile before F600: space must be KEPT."
+                f"\n  with    space: {a.hex()}"
+                f"\n  without space: {b.hex()}"
+            )
+
+
     def test_no_space_means_no_skip(self):
         """'X.<$FFFC>Y' — no space at all; encoder behavior unchanged."""
         tiles_a = _tile_ids("X.<$FFFC>Y")
