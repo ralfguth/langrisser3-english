@@ -1,3 +1,4 @@
+
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -27,8 +28,8 @@ Colcian General<$FFFF>
 Colcian Soldier<$FFFF>
 In front of the Royal capital Larcussia<$FFFF>
 The prosperous Larcuss trusted<$FFFC>too much in the Magical Cannon<$FFFC>of its Floating Castle and kept <$FFFC>only a small army.<$FFFE>
-After Field Marshal Altemüller<$FFFC>shot down the Floating Castle,<$FFFC>Larcussia, the capital, lay<$FFFC>utterly defenseless before<$FFFC>the Empire's mighty advance.<$FFFE>
-Within mere months, the capital<$FFFC>and most of the kingdom had<$FFFC>fallen under Imperial control,<$FFFC>bending to the Empire's rule.<$FFFE>
+After Field Marshal Altemüller<$FFFC>shot down the Floating Castle,<$FFFC>Larcussia, the capital, lay<$FFFC>utterly defenseless before<$FFFC>the Empire's mighty advance.<$FFFB><$FFFB><$FFFD><$0000><$FFFE>
+Within mere months, the capital<$FFFC>and most of the kingdom had<$FFFC>fallen under Imperial control,<$FFFC>bending to the Empire's rule.<$FFFB><$0000><$FFFB><$0000><$FFFD><$0000><$FFFE>
 Hearing of the castle's fall,<$FFFC>nearby nations rose in revolt.<$FFFC>Barral seized the Vice Capital,<$FFFC>while Colcia claimed the west.<$FFFC>                <$FFFD><$FFFC><$FFFE>
 Imperial Castle- Audience Hall<$FFFF>
 Field Marshal Altemüller<$FFFC>The Larcussian campaign<$FFFC>was a complete triumph.<$FFFD>Larcussia is ours now,<$FFFC>and Rigüler's people<$FFFC>shall share its bounty…<$FFFE>
