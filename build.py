@@ -105,6 +105,7 @@ def main():
 
     print('=' * 60)
     print('  Langrisser III - English Translation Build')
+    print('  by Ralf Guth - https://github.com/ralfguth/langrisser3-english')
     print('=' * 60)
     print()
 
@@ -262,7 +263,10 @@ def main():
     print(f'  Build time:   {elapsed:.1f}s')
     print()
     print('  To play:')
-    print(f'    Ymir / mednafen: load {OUTPUT_CUE.name}')
+    print(f'    load {OUTPUT_CUE.name}')
+    print()
+    print('  Patch by Ralf Guth')
+    print('  https://github.com/ralfguth/langrisser3-english')
 
     return 0
 

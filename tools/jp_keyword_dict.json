@@ -41,7 +41,7 @@
   "バーラル": ["barral"],
   "浮遊城": ["floating castle"],
 
-  "剣豪": ["swordmaster"],
+  "剣豪": ["blademaster", "swordmaster"],
   "賢者": ["sage"],
   "聖獣": ["holy beast"],
   "大魔術師": ["archmage"],
@@ -59,7 +59,7 @@
   "撤退": ["retreat", "pull"],
   "大変だ": ["emergency", "terrible", "trouble"],
   "怪我": ["wound", "injur"],
-  "助け": ["help", "save"],
+  "助け": ["help", "save", "rescue"],
   "急": ["hurry", "fast", "quick"],
   "頼む": ["beg", "ask", "please", "count"],
   "感謝": ["thanks", "grateful", "thank"],
