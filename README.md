@@ -2,6 +2,7 @@
 
 A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, Japan), built from the original Japanese disc image.
 
+<div align="center">
 <table>
   <tr>
     <td><img src="assets/screenshots/01.png" width="320" /></td>
@@ -20,6 +21,7 @@ A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, 
     <td><img src="assets/screenshots/08.png" width="320" /></td>
   </tr>
 </table>
+</div>
 
 ## About this patch
 
@@ -77,9 +79,9 @@ This produces `build/Langrisser_III_English.cue` and all track `.bin` files — 
 
 3. **Load in your emulator** — open `build/Langrisser_III_English.cue` and play.
 
-### Emulator compatibility
+### Compatibility
 
-| Target                              | Music | Text | Character voices |
+|                                     | Music | Text | Character voices |
 | ----------------------------------- | :---: | :--: | :--------------: |
 | **Real Saturn hardware (Saroo)**    |  ✅   |  ✅  |        ✅        |
 | **Ymir** (standalone emulator)      |  ✅   |  ✅  |        ✅        |
