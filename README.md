@@ -1,4 +1,4 @@
-# Langrisser III — English Translation Patch (Sega Saturn)
+# Langrisser III : English Translation Patch (Sega Saturn)
 
 A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, Japan), built from the original Japanese disc image.
 
@@ -29,11 +29,11 @@ A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, 
 
 Character and place names broadly follow the spellings used in *Langrisser Mobile*, the modern English release of the series.
 
-## Status — v0.6 (work in progress)
+## Status : v0.6 (work in progress)
 
 This is an unfinished translation. The story can be followed from start to finish, but expect rough edges:
 
-- Some dialogue lines are still being polished against the original Japanese — phrasing may feel awkward in places, and a few lines may not yet match the speaker's intent perfectly.
+- Some dialogue lines are still being polished against the original Japanese : phrasing may feel awkward in places, and a few lines may not yet match the speaker's intent perfectly.
 - Several menus, item descriptions, and other UI text are still untranslated and will appear as garbled characters in-game.
 
 Future releases will continue to polish the dialogue and replace the remaining Japanese UI text.
@@ -43,7 +43,7 @@ Future releases will continue to polish the dialogue and replace the remaining J
 You need:
 
 - **Python 3.10+** (check with `python3 --version`)
-- **Your own Japanese *Langrisser III* disc image** — a folder with a `.cue` file, the Track 01 data `.bin`, and the audio track `.bin` files. This patch requires the original disc; no game data is distributed here.
+- **Your own Japanese *Langrisser III* disc image** : a folder with a `.cue` file, the Track 01 data `.bin`, and the audio track `.bin` files. This patch requires the original disc; no game data is distributed here.
 
 ### Source ISO
 
@@ -75,9 +75,9 @@ python3 build.py --jp-iso "/path/to/Langrisser III (Japan)"
 
 The folder you point to should contain the `.cue` plus the Track 01 data `.bin` and all audio track `.bin` files.
 
-This produces `build/Langrisser_III_English.cue` and all track `.bin` files — ready to play.
+This produces `build/Langrisser_III_English.cue` and all track `.bin` files : ready to play.
 
-3. **Load in your emulator** — open `build/Langrisser_III_English.cue` and play.
+3. **Load in your emulator** : open `build/Langrisser_III_English.cue` and play.
 
 ### Compatibility
 
@@ -89,10 +89,10 @@ This produces `build/Langrisser_III_English.cue` and all track `.bin` files — 
 
 ## Credits
 
-- **CyberWarriorX (Theo Berkau)** — Saturn reverse engineering, the original v0.2 patch, bigram font system, menu translations.
-- **Akari Dawn, ElfShadow, Oogami** — original English translation scripts (used as a draft baseline; revised against the Japanese source).
-- **VermillionDesserts** — independent translation build, D00.DAT research.
-- **Ralf Guth** — current build pipeline, JP-aligned translation pass, font and engine work.
+- **CyberWarriorX (Theo Berkau)** : Saturn reverse engineering, the original v0.2 patch, bigram font system, menu translations.
+- **Akari Dawn, ElfShadow, Oogami** : original English translation scripts (used as a draft baseline; revised against the Japanese source).
+- **VermillionDesserts** : independent translation build, D00.DAT research.
+- **Ralf Guth** : current build pipeline, JP-aligned translation pass, font and engine work.
 
 ## Legal
 
