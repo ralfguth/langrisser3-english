@@ -42,13 +42,13 @@ The holy sword crafted by a legendary smith<$FFFF>
 to combat evil.  Forged using a layered metal<$FFFF>
 called Orihalcon.<$FFFF>
 (AT +7)<$FFFF>
-The Haja no Ken, enfused with Sieghart's soul.<$FFFF>
- Drawing on the divine protection of the Goddess<$FFFF>
+The Sword of Decimation, enfused with Sieghart's soul.<$FFFF>
+Drawing on the divine protection of the Goddess<$FFFF>
 of Light, Lushiris, it has the power to face the Al Hazard.<$FFFF>
 (AT +11, DF +1, bonus magic resistance)<$FFFF>
 The demon blade of darkness created by Chaos,<$FFFF>
 the god of mayhem.  Its wielder draws on the<$FFFF>
-dark power of Chaos.  (AT +13, DF +1, <$FFFF>
+dark power of Chaos.  (AT +13, DF +1,<$FFFF>
 bonus magic resistance, uses HP Drain)<$FFFF>
 A small, one-handed axe.  A handy size, easy<$FFFF>
 to use, and good for hunting.  It can even<$FFFF>
@@ -93,7 +93,7 @@ instantly kill enemies.  (AT +4)<$FFFF>
 A spear made of bamboo.  Cheap, light, and<$FFFF>
 easy to use.<$FFFF>
 (AT +3)<$FFFF>
- <$FFFF>
+<$FFFF>
 Spear made of robust steel.  Because of the<$FFFF>
 steel, it is better at piercing and killing, and<$FFFF>
 excellent for fighting cavalry.<$FFFF>
@@ -165,7 +165,7 @@ enhancing spell-casting prowess.<$FFFF>
 A rod adorned with a magic crystal on its tip,<$FFFF>
 this device also augments efficacy of magic<$FFFF>
 cast by its wielder.<$FFFF>
-(AT +1, Magic Range +4, Int +10) <$FFFF>
+(AT +1, Magic Range +4, Int +10)<$FFFF>
 A rod said to be used by the greatest mages.<$FFFF>
 Mages who use it gain numerous benefits.<$FFFF>
 (AT +1, Magic Range +5, Int +10, Resist +5)<$FFFF>
@@ -319,7 +319,7 @@ a little heavier, it also does a better job of blocking<$FFFF>
 blows.<$FFFF>
 (DF +3)<$FFFF>
 Special garments worn by the Oriential shinobi.<$FFFF>
-While it was made for movement, it is also <$FFFF>
+While it was made for movement, it is also<$FFFF>
 good for defense.<$FFFF>
 (DF +4)<$FFFF>
 Being ordinary clothes, don't expect them to offer<$FFFF>
@@ -396,7 +396,7 @@ bears the god's blessing, invoking Protection1.<$FFFF>
 (DF +3, HP +5)<$FFFF>
 It isn't all that effective as a defensive accessory.<$FFFF>
 However, because it calms the soul, it increases<$FFFF>
-one's magic resistance. <$FFFF>
+one's magic resistance.<$FFFF>
 <$FFFF>
 A cap fashioned from leather.  Since it has no<$FFFF>
 reinforcement, its defense is weak, but it's still<$FFFF>

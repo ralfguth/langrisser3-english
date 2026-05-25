@@ -1,61 +1,57 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Elthlead Soldier<$FFFF>
-First Imperial Prince  Paul<$FFFF>
-General Geier <$FFFF>
-Reaper Grove <$FFFF>
-Bozel <$FFFF>
+First Imperial Prince Paul<$FFFF>
+General Geier<$FFFF>
+Reaper Grove<$FFFF>
+Böser<$FFFF>
 Feraquea<$FFFF>
-During <$F600><$0000>'s Division's Preparations <$FFFF>
+During <$F600><$0000>'s Division's Preparations<$FFFF>
  How are the preparations for this campaign going, Luna?<$FFFE>
- Well. Pretty soon, most  of our preparations will be complete.<$FFFD>The clock's ticking, so  we would best leave as soon as we can.<$FFFE>
- At long last we will be  attacking Velzeria.<$FFFE>
+ Yes. Most of the preparations are already complete.<$FFFD>We should be able to depart very soon.<$FFFE>
+ At long last we will be attacking Velzeria.<$FFFE>
  I wonder if victory will be ours…<$FFFE>
- Hey now, the King  shouldn't worry about  this kind of thing.<$FFFD>It will all work out. After all, King Sieghart will be with us as the Langrisser.<$FFFD>And I will be there too.<$FFFE>
+ Hey now, the King shouldn't worry about this kind of thing.<$FFFD>It will all work out. After all, King Sieghart will be with us as the Langrisser.<$FFFD>And we will be there too.<$FFFE>
  That's right. Lewin, we're all here for you!<$FFFE>
  Thanks a lot, everyone.<$FFFE>
- Bad news!<$FFFD>Someone has poisoned the Imperial Field Marshal, Sir Altemuller!<$FFFE>
+ Bad news!<$FFFD>Someone has poisoned the Imperial Field Marshal, Sir Altemüller!<$FFFE>
  Say what!<$FFFE>
- It seems they haven't  been able to catch the murderer yet…<$FFFE>
- Altemuller…<$FFFB>That man…<$FFFE>
-Riguler Imperial Castle  Audience Room<$FFFF>
- I see, so someone's killed that damned Altemuller, eh.<$FFFE>
- Yes, milord.<$FFFE>
+ It seems they haven't been able to catch the murderer yet…<$FFFE>
+ Altemüller…<$FFFB>That man…<$FFFE>
+Rigüler Imperial Castle Audience Room<$FFFF>
+ I see, so someone's killed that damned Altemüller, eh.<$FFFE>
+ Yes.<$FFFE>
  How kind of someone to spare us all the trouble of doing it ourselves.<$FFFE>
- First Father died before his time, and now that  pesky Altemuller is out  of the way too. That  means the Empire is  mine!<$FFFE>
+ First Father died before his time, and now that pesky Altemüller is out of the way too. That means the Empire is mine!<$FFFE>
  Hohohohoho…!<$FFFE>
-Velzeria Castle <$FFFF>
- The assassination of Altemuller went off  without a hitch.<$FFFE>
+Velzeria Castle<$FFFF>
+ The assassination of Altemüller went off without a hitch.<$FFFE>
  Hmm, I see. Well done.<$FFFE>
- My humble apologies, Lord Bozel. My attempted  conquest of Elthlead has failed.<$FFFE>
-Since the Haja no Ken  turned out to have more  power against demons than I would expected, our power was…<$FFFE>
- …That's fine. Now that  Rag is dead, you will need  to work harder, though.<$FFFE>
- Now that the Field Marshal who was  responsible for much of  the military strength of the Empire is gone, things should be easier.<$FFFE>
- Altemuller!?<$FFFE>
+ My humble apologies, Lord Böser. My attempted conquest of Elthlead has failed.<$FFFE>
+Since the Sword of Decimation turned out to have more demon-banishing power than I had expected, our strength was…<$FFFE>
+ …That's fine. Now that Rag is dead, you will need to work harder, though.<$FFFE>
+ Now that the Field Marshal who was responsible for much of the military strength of the Empire is gone, things should be easier.<$FFFE>
+ Altemüller!?<$FFFE>
  Then, that Varna woman…?<$FFFE>
- Exactly. It seems that threatening her beloved  younger sister was enough to decide the issue for her.<$FFFE>
- It's such sentiment  which make humans the  most foolish living  things.<$FFFE>
- Such an interesting  strategy Grove thought up, to use that against her.<$FFFE>
- Speaking of Varna, how shall we dispose of her  younger sister?<$FFFE>
- Interesting question. We  can still use that Varna woman.<$FFFE>
- So, we will let the younger sister live a little longer, to  further our ambitions.<$FFFE> 
+ Yes. After much anguish, she chose her sister's life over her lover's.<$FFFE>
+ It's such sentiment which make humans the most foolish living things.<$FFFE>
+ Such an interesting strategy Grove thought up, to use that against her.<$FFFE>
+ Speaking of Varna, how shall we dispose of her younger sister?<$FFFE>
+ Interesting question. We can still use that Varna woman.<$FFFE>
+ So, we will let the younger sister live a little longer, to further our ambitions.<$FFFE> 

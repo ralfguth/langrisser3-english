@@ -1,27 +1,23 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario <$0236> 05 "Wily General Emerick"<$FFFE>
-Altemuller, Field Marshal of the Imperial  Army, received the  information from Geier and sent General Emerick to the mansion of Baron Torrand, to  strike before  <$F600><$0000> and company make contact.<$FFFE>
-But guided by the  baron's daughter Luna, <$F600><$0000> and his party reached the mansion  sooner than expected and arrived in time to witness the baron's  battle with Emerlink.<$FFFE>
- But, through the guidance of the Baron's  daughter, Luna, <$F600><$0000> and company arrived at the Baron's mansion more quickly than thought possible, only to find a battle  already raging between the Baron and Emerick.<$FFFE>
- <$01E9>Defeat Conditions  <$F600><$0000> falls in battle Torland falls in battle <$FFFE> 
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-05<$FFFC><$0000><$0000><$0000>Wily General Emerick<$0000><$0000><$0000><$FFFE>
+Altemüller, Field Marshal of the Imperial Army, received the information from Geier and sent General Emerick to the mansion of Baron Torrand, to strike before <$F600><$0000> and company make contact.<$FFFE>
+But guided by the baron's daughter Luna, <$F600><$0000> and his party reached the mansion sooner than expected and arrived in time to witness the baron's battle with Emerick.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat Emerick<$FFFC>•Defeat all enemy intercept troops<$FFFC>•PC reaches the mansion<$FFFE>
+ *Defeat Conditions<$FFFC>•<$F600><$0000> falls in battle<$FFFC>•Torrand falls in battle<$FFFE> 

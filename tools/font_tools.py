@@ -126,6 +126,29 @@ _VD_PUNCT_BIGRAMS = {
 # CWX special bigrams (already in VD/CWX font at these tile indices)
 _CWX_SPECIAL_BIGRAMS = {
     ("'", 'v'): 1500,
+    # CWX-area name-input umlaut bigrams. Tiles pre-rendered in the
+    # original font for the name-input grid screen — reused by the
+    # encoder for character/place names that carry diaeresis.
+}
+
+# Custom umlaut bigrams in the kanji area (slots 1659-1664). Built by
+# interleaving our letter glyphs with our umlaut half-glyphs. Placed
+# outside the CWX range (1500-1620) because the engine renders CWX-area
+# tiles with name-input-grid spacing (visible gap between adjacent
+# tiles) which is wrong for dialogue text. The CWX slots themselves
+# remain available for menu/UI usage (Eagle-modified glyphs).
+_CUSTOM_UMLAUT_BIGRAMS = {
+    ('m', 'ü'): 1659,   # "Altemüller"
+    ('g', 'ü'): 1660,   # "Rigüler"
+    ('h', 'ä'): 1661,   # "Diehärte"
+    ('ä', 'r'): 1662,   # "härte" tail
+    ('B', 'ö'): 1663,   # "Böser"
+    ('ö', 's'): 1664,   # "Böser" tail
+    # Umlaut-LEFT bigrams — needed when text leading parity shifts the
+    # umlaut to an odd position and the encoder picks (prev, umlaut)
+    # FROM the right side, leaving the umlaut orphan. Greedy then has
+    # no choice but standalone tile 1658 → in-game "Rigü ler" gap.
+    ('ü', 'l'): 1665,   # "Rigüler" / "Altemüller" tail (orphan ü + l)
 }
 
 # All CWX pre-existing tile indices — the 1500-1620 range is used by CWX menu
@@ -150,98 +173,147 @@ _CUSTOM_APOSTROPHE_BIGRAMS = {
 # ---------------------------------------------------------------------------
 
 _LETTER_GLYPHS = {
-    'a': bytes.fromhex('0000000000007804047c84848c720000'),
-    'b': bytes.fromhex('808080808080b8c482828282c4b80000'),
-    'c': bytes.fromhex('00000000000038448280808244380000'),
-    'd': bytes.fromhex('0202020202023a4682828282463a0000'),
-    'e': bytes.fromhex('000000000000384482fe808244380000'),
-    'f': bytes.fromhex('182420202020f8202020202020200000'),
-    'g': bytes.fromhex('000000000000344c8484844c34844830'),
-    'h': bytes.fromhex('808080808080b8c48282828282820000'),
-    'i': bytes.fromhex('00000000100030101010101010380000'),
-    'j': bytes.fromhex('00000000040004040404040404044438'),
-    'k': bytes.fromhex('8080808080808890a0c0a09088840000'),
-    'l': bytes.fromhex('30101010101010101010101010380000'),
-    'm': bytes.fromhex('0000000000006c929292929292820000'),
-    'n': bytes.fromhex('000000000000cc724242424242420000'),
-    'o': bytes.fromhex('00000000000038448282828244380000'),
-    'p': bytes.fromhex('000000000000b0c8848484c8b0808080'),
-    'q': bytes.fromhex('000000000000344c8484844c34040604'),
-    'r': bytes.fromhex('000000000000b8444040404040e00000'),
-    's': bytes.fromhex('00000000000078848060180484780000'),
-    't': bytes.fromhex('1010101010107c1010101010100c0000'),
-    'u': bytes.fromhex('000000000000848484848484847a0000'),
-    'v': bytes.fromhex('00000000000082824444282810100000'),
-    'w': bytes.fromhex('000000000000829292929292926c0000'),
-    'x': bytes.fromhex('00000000000082442810102844820000'),
-    'y': bytes.fromhex('0000000000008282828282827e02027c'),
-    'z': bytes.fromhex('000000000000fc040810204080fc0000'),
-    'A': bytes.fromhex('38448282828282fe8282828282820000'),
-    'B': bytes.fromhex('f88482828284f8848282828284f80000'),
-    'C': bytes.fromhex('38448282808080808080828244380000'),
-    'D': bytes.fromhex('f8848282828282828282828284f80000'),
-    'E': bytes.fromhex('fe42404040447c444040404042fe0000'),
-    'F': bytes.fromhex('fe42404040447c444040404040e00000'),
-    'G': bytes.fromhex('384482808080808e8282828244380000'),
-    'H': bytes.fromhex('ee4444444444447c4444444444ee0000'),
-    'I': bytes.fromhex('fe101010101010101010101010fe0000'),
-    'J': bytes.fromhex('3e080808080808080808088888700000'),
-    'K': bytes.fromhex('ee444848505060605050484844ee0000'),
-    'L': bytes.fromhex('e0404040404040404040404242fe0000'),
-    'M': bytes.fromhex('c66c6c6c545454444444444444ee0000'),
-    'N': bytes.fromhex('ce446464645454544c4c4c4444c40000'),
-    'O': bytes.fromhex('38448282828282828282828244380000'),
-    'P': bytes.fromhex('f8444242424244784040404040e00000'),
-    'Q': bytes.fromhex('38448282828282828282828a443a0000'),
-    'R': bytes.fromhex('f8848282828284f88888848482820000'),
-    'S': bytes.fromhex('38448280804020180402028244380000'),
-    'T': bytes.fromhex('fe929210101010101010101010380000'),
-    'U': bytes.fromhex('ee444444444444444444444444380000'),
-    'V': bytes.fromhex('82828282444444282828281010100000'),
-    'W': bytes.fromhex('8282828282929292aaaaaa4444440000'),
-    'X': bytes.fromhex('ee444428282810102828284444ee0000'),
-    'Y': bytes.fromhex('ee444428282810101010101010380000'),
-    'Z': bytes.fromhex('fe840408080810102020204042fe0000'),
+    'a': bytes.fromhex('000000000000780c7ccccccc76000000'),
+    'b': bytes.fromhex('000000e060607c6666666676dc000000'),
+    'c': bytes.fromhex('0000000000007cc6c0c0c0c67c000000'),
+    'd': bytes.fromhex('0000001c0c0c7cccccccccdc76000000'),
+    'e': bytes.fromhex('0000000000007cc6c6fec0c67c000000'),
+    'f': bytes.fromhex('0000001c363230783030303078000000'),
+    'g': bytes.fromhex('00000000000076cccccccccc7c0ccc78'),
+    'h': bytes.fromhex('000000e060607c6666666666e6000000'),
+    'i': bytes.fromhex('0000001818003818181818183c000000'),
+    'j': bytes.fromhex('0000000606000e06060606060666663c'),
+    'k': bytes.fromhex('000000e0606066666c786c66e6000000'),
+    'l': bytes.fromhex('0000003818181818181818183c000000'),
+    'm': bytes.fromhex('000000000000ecfed6d6d6c6c6000000'),
+    'n': bytes.fromhex('000000000000dc666666666666000000'),
+    'o': bytes.fromhex('0000000000007cc6c6c6c6c67c000000'),
+    'p': bytes.fromhex('000000000000dc66666666667c6060f0'),
+    'q': bytes.fromhex('00000000000076cccccccccc7c0c0c1e'),
+    'r': bytes.fromhex('000000000000dc7666606060f0000000'),
+    's': bytes.fromhex('0000000000007cc6c07c06c67c000000'),
+    't': bytes.fromhex('000000103030fc30303030361c000000'),
+    'u': bytes.fromhex('000000000000cccccccccccc76000000'),
+    'v': bytes.fromhex('000000000000c6c6c6c66c3810000000'),
+    'w': bytes.fromhex('000000000000c6c6d6d6d6fe6c000000'),
+    'x': bytes.fromhex('000000000000c6ee7c387ceec6000000'),
+    'y': bytes.fromhex('000000000000c6c6c6c6c6c67e0c1870'),
+    'z': bytes.fromhex('000000000000fe8c183060c2fe000000'),
+    'A': bytes.fromhex('00000010387ceec6c6c6fec6c6000000'),
+    'B': bytes.fromhex('000000fc6666667c66666666fc000000'),
+    'C': bytes.fromhex('0000003c66c2c0c0c0c0c2663c000000'),
+    'D': bytes.fromhex('000000f86c6666666666666cf8000000'),
+    'E': bytes.fromhex('000000fe6662687868606266fe000000'),
+    'F': bytes.fromhex('000000fe6662687868606060f0000000'),
+    'G': bytes.fromhex('0000003c66c2c0c0cec6c66e3a000000'),
+    'H': bytes.fromhex('000000c6c6c6c6fec6c6c6c6c6000000'),
+    'I': bytes.fromhex('0000003c18181818181818183c000000'),
+    'J': bytes.fromhex('0000001e0c0c0c0c0ccccccc78000000'),
+    'K': bytes.fromhex('000000e6666c6c786c6c6666e6000000'),
+    'L': bytes.fromhex('000000f06060606060606266fe000000'),
+    'M': bytes.fromhex('000000c6eefefed6d6d6c6c6c6000000'),
+    'N': bytes.fromhex('000000c6e6e6f6f6dedececec6000000'),
+    'O': bytes.fromhex('0000007cc6c6c6c6c6c6c6c67c000000'),
+    'P': bytes.fromhex('000000fc666666667c606060f0000000'),
+    'Q': bytes.fromhex('000000386cc6c6c6c6c6de7e3c0c0e00'),
+    'R': bytes.fromhex('000000fc666666667c6c6666f6000000'),
+    'S': bytes.fromhex('0000007cc6c6c0701c06c6c67c000000'),
+    'T': bytes.fromhex('0000007e7e5a1818181818183c000000'),
+    'U': bytes.fromhex('000000c6c6c6c6c6c6c6c6c67c000000'),
+    'V': bytes.fromhex('000000c6c6c6c6c6c6c67c3810000000'),
+    'W': bytes.fromhex('000000c6c6c6d6d6d6d6fe6c6c000000'),
+    'X': bytes.fromhex('000000c6c66c6c38386c6cc6c6000000'),
+    'Y': bytes.fromhex('000000666666667e3c1818183c000000'),
+    'Z': bytes.fromhex('000000fec6860c183060c2c6fe000000'),
 }
 
 # Full 32-byte tiles for digits (they span the full 16px width)
 _DIGIT_TILES = {
-    '0': bytes.fromhex('000007e008101008100810081008100810081008100810081008081007e00000'),
-    '1': bytes.fromhex('0000008001800280008000800080008000800080008000800080008003e00000'),
-    '2': bytes.fromhex('000007e00810100810080008001000600180060008001000100010001ff80000'),
-    '3': bytes.fromhex('000007e00810100810080008001003e000100008000810081008081007e00000'),
-    '4': bytes.fromhex('0000006000a001200220042008201020102010201ff800200020002000f80000'),
-    '5': bytes.fromhex('00001ff8100010001000100017e0181010080008000810081008081007e00000'),
-    '6': bytes.fromhex('000007e00810100810081000100017e018101008100810081008081007e00000'),
-    '7': bytes.fromhex('00001ff810081010101000200020004000400080008001000100020002000000'),
-    '8': bytes.fromhex('000007e00810100810081008081007e008101008100810081008081007e00000'),
-    '9': bytes.fromhex('000007e008101008100810081008081807e80008000810081008081007e00000'),
+    '0': bytes.fromhex('000000000000038006c00c600ce00de00f600e600c6006c00380000000000000'),
+    '1': bytes.fromhex('00000000000001800380078001800180018001800180018003c0000000000000'),
+    '2': bytes.fromhex('00000000000007c00c60006000c00180030006000c600c600fe0000000000000'),
+    '3': bytes.fromhex('00000000000007e0046000c0018003c0006000600060066003c0000000000000'),
+    '4': bytes.fromhex('00000000000001c001c003c003c006c006c00cc00fe000c001e0000000000000'),
+    '5': bytes.fromhex('0000000000000fc00c000c000f800cc00060006008600cc00780000000000000'),
+    '6': bytes.fromhex('00000000000003c006000c000f800ec00c600c600c6006c00380000000000000'),
+    '7': bytes.fromhex('0000000000000fe00c60006000c000c001800180030003000300000000000000'),
+    '8': bytes.fromhex('00000000000007c00c600c600c6007c00c600c600c600c6007c0000000000000'),
+    '9': bytes.fromhex('000000000000038006c00c600c600c6006e003e0006000c00780000000000000'),
+}
+
+# 8w half-glyphs of digits — used by CWX-range bigram overrides for tiles
+# like (' ', '2'), ('+', '8'), ('1', '5'), etc. that pair a digit with
+# another half-glyph in a 16x16 cell.
+_DIGIT_HALF_GLYPHS = {
+    '0': bytes.fromhex('000000386cc6cedef6e6c66c38000000'),
+    '1': bytes.fromhex('0000001838781818181818183c000000'),
+    '2': bytes.fromhex('0000007cc6060c183060c6c6fe000000'),
+    '3': bytes.fromhex('0000007e460c183c060606663c000000'),
+    '4': bytes.fromhex('0000001c1c3c3c6c6cccfe0c1e000000'),
+    '5': bytes.fromhex('000000fcc0c0f8cc060686cc78000000'),
+    '6': bytes.fromhex('0000003c60c0f8ecc6c6c66c38000000'),
+    '7': bytes.fromhex('000000fec6060c0c1818303030000000'),
+    '8': bytes.fromhex('0000007cc6c6c67cc6c6c6c67c000000'),
+    '9': bytes.fromhex('000000386cc6c6c66e3e060c78000000'),
+}
+
+# Lowercase umlauts (a/o/u-diaeresis) — appear in CWX-range bigrams.
+_UMLAUT_HALF_GLYPHS = {
+    'ä': bytes.fromhex('000000cccc00780c7ccccccc76000000'),
+    'ö': bytes.fromhex('000000c6c6007cc6c6c6c6c67c000000'),
+    'ü': bytes.fromhex('000000cccc00cccccccccccc76000000'),
 }
 
 _PUNCT_GLYPHS = {
-    ':': bytes.fromhex('00000000000000303000003030000000'),
-    ';': bytes.fromhex('00000000000000303000000030301020'),
-    ',': bytes.fromhex('00000000000000000000000030301020'),
-    '.': bytes.fromhex('00000000000000000000000030300000'),
-    '?': bytes.fromhex('38448202020204081010100010100000'),
-    '!': bytes.fromhex('10101010101010101010100010100000'),
+    ':': bytes.fromhex('00000000000018180000001818000000'),
+    ';': bytes.fromhex('00000000000018180000001818300000'),
+    ',': bytes.fromhex('00000000000000000000001818300000'),
+    '.': bytes.fromhex('00000000000000000000001818000000'),
+    '?': bytes.fromhex('0000007cc6c60c0c1818001818000000'),
+    '!': bytes.fromhex('000000183c3c3c181818001818000000'),
 }
 
 # Extended half-width punctuation glyphs (8px left, blank right).
 # Script coverage audit showed these chars appear in scripts but had no tile.
 # Installed at tile slots 1627+ (kanji area, previously JP glyphs).
 _EXTRA_PUNCT_GLYPHS = {
-    '-': bytes.fromhex('0000000000000000003c3c0000000000'),   # hyphen
-    '+': bytes.fromhex('0000000000101010fe10101000000000'),   # plus
-    '(': bytes.fromhex('08102020204040404040402020201008'),   # left paren
-    ')': bytes.fromhex('40201010100808080808081010102040'),   # right paren
-    '/': bytes.fromhex('00020404080810102020404080800000'),   # slash
-    '*': bytes.fromhex('00001092543854921000000000000000'),   # asterisk
-    '%': bytes.fromhex('60929264081026492600000000000000'),   # percent
-    '[': bytes.fromhex('78404040404040404040404040780000'),   # left bracket
-    ']': bytes.fromhex('1e0202020202020202020202021e0000'),   # right bracket
-    "'": bytes.fromhex('00303010200000000000000000000000'),   # apostrophe standalone
-    '&': bytes.fromhex('304848483060928a8466260000000000'),   # ampersand
+    '-': bytes.fromhex('00000000000000007e7e000000000000'),
+    '+': bytes.fromhex('00000000000018187e7e181800000000'),
+    '(': bytes.fromhex('00000c181830303030303018180c0000'),
+    ')': bytes.fromhex('00003018180c0c0c0c0c0c1818300000'),
+    '/': bytes.fromhex('00000006060c0c181830306060000000'),
+    '*': bytes.fromhex('00001092543854921000000000000000'),  # JP-derived hand-drawn override (kept)
+    '%': bytes.fromhex('000000e6a6ec0c181830376567000000'),
+    '[': bytes.fromhex('0000003c30303030303030303c000000'),
+    ']': bytes.fromhex('0000003c0c0c0c0c0c0c0c0c3c000000'),
+    "'": bytes.fromhex('00000018183000000000000000000000'),
+    '&': bytes.fromhex('000000386c6c3876dcdccccc76000000'),
+    # Bullet for ・-style bullet points. Glyph mirrors the right-half
+    # bullet used in the (" ", "•") bigram at tile 1656.
+    '•': bytes.fromhex('00000000000000183c3c180000000000'),
+}
+
+# Full-width punctuation glyphs (32 bytes = full 16x16 tile, not interleaved
+# with a blank half). Used when a char must span the entire tile cell to
+# match JP visual width — e.g. '-' in "SCENARIO-NN" must mirror JP ‐ which
+# centers the hyphen across the full 16-pixel cell.
+_FULL_WIDTH_PUNCT_GLYPHS = {
+    # 8-pixel horizontal bar centered on rows 7-8 (cols 4-11). Mirrors JP
+    # ‐ at tile 0x0174 (single-row hyphen) but doubled for stroke weight.
+    '-': bytes.fromhex(
+        '00000000000000000000000000000000'   # rows 0-7
+        '0FF0'                               # row 8: cols 4-11
+        '0FF0'                               # row 9: cols 4-11 (double thickness)
+        '000000000000000000000000'           # rows 10-15
+    ),
+    # 2x2 dot centered at cols 7-8, rows 7-8. Mirrors JP ・ at tile 0x00D9
+    # exactly (same pixel positions). Standalone left-half glyph was off-
+    # center; full-width version sits where the eye expects it.
+    '•': bytes.fromhex(
+        '0000000000000000000000000000'       # rows 0-6 (14 bytes)
+        '01800180'                           # rows 7-8: cols 7-8 (4 bytes)
+        '0000000000000000000000000000'       # rows 9-15 (14 bytes)
+    ),
 }
 
 # Tile slot assignments for extended punctuation (kanji area, safe to overwrite)
@@ -257,6 +329,8 @@ _EXTRA_PUNCT_TILES = {
     ']': 1636,
     "'": 1637,
     '&': 1638,
+    '•': 1657,   # standalone bullet (kanji slot at font tail)
+    'ü': 1658,   # standalone u-diaeresis (Rigüler in non-"gü" contexts)
 }
 
 # Extra bigram tiles — top frequency pairs missing from VD/CWX font.
@@ -286,47 +360,54 @@ _EXTRA_BIGRAM_TILES = {
     # Quote + space bigrams — eliminates visual gap that standalone " leaves
     (' ', '"'): 1654,   # space+dquote — opening quote in " quoted text"
     ('"', ' '): 1655,   # dquote+space — closing quote before whitespace
+    # Bullet for win/lose condition bullet points (・ in JP scripts)
+    (' ', '•'): 1656,   # space+bullet — used as " •Death of <$F600>"
 }
 
 # Comma glyph used in bigram right-halves (same shape as standalone)
-_COMMA_GLYPH_BIGRAM = bytes.fromhex('00000000000000000000000030301020')
+_COMMA_GLYPH_BIGRAM = bytes.fromhex('00000000000000000000001818300000')
 
-_APOSTROPHE_GLYPH = bytes.fromhex('00303010200000000000000000000000')
+_APOSTROPHE_GLYPH = bytes.fromhex('00000018183000000000000000000000')
+
+# Small centered bullet (4x4 filled square) used as right-half of " •" bigram.
+_BULLET_GLYPH_BIGRAM = bytes.fromhex('00000000000000183c3c180000000000')
 
 _BLANK_GLYPH = b'\x00' * 16
 
 # Full 32-byte standalone uppercase tiles (tiles 17-42)
 _UC_STANDALONE_TILES = {
-    'A': bytes.fromhex('0000000001000380028006c004400c6008200fe01830101030182008f83e0000'),
-    'B': bytes.fromhex('000000003fe0081008080808080808100fe0081808040804080408083ff00000'),
-    'C': bytes.fromhex('0000000003c80c281818100830082000200020003000100818180c3003c00000'),
-    'D': bytes.fromhex('000000003fc0083008180808080c080408040804080c0808081808303fc00000'),
-    'E': bytes.fromhex('000000003ff8080808040800084008400fc0084008400800080408083ff80000'),
-    'F': bytes.fromhex('000000001ffc0404040404000420042007e0042004200400040004001f000000'),
-    'G': bytes.fromhex('0000000003c80c3818081008300020002000203e3008100818180c2803c80000'),
-    'H': bytes.fromhex('000000007c3e100810081008100810081ff8100810081008100810087c3e0000'),
-    'I': bytes.fromhex('0000000007c00100010001000100010001000100010001000100010007c00000'),
-    'J': bytes.fromhex('0000000000f8002000200020002000200020002000200020102018400f800000'),
-    'K': bytes.fromhex('000000003e7c0830086008c009800b000f00098008c00860083008183e3e0000'),
-    'L': bytes.fromhex('000000001f00040004000400040004000400040004000404040404041ffc0000'),
-    'M': bytes.fromhex('00000000f01e30183838282828282c682448244826c8228823882108f11e0000'),
-    'N': bytes.fromhex('00000000783e1c081408160813081108118810c8104810681038101878080000'),
-    'O': bytes.fromhex('0000000003c00c3018181008300c200420042004300c100818180c3003c00000'),
-    'P': bytes.fromhex('000000001ff00408040404040404040807f0040004000400040004001f000000'),
-    'Q': bytes.fromhex('0000000003c00c3018181008300c200420042004300c11881a580c3003d2000c'),
-    'R': bytes.fromhex('000000003fe0081008080808080808100fe0082008300810081808083e3e0000'),
-    'S': bytes.fromhex('0000000007c808281018100810080c0003c00030100810081808141013e00000'),
-    'T': bytes.fromhex('000000007ffc4104410401000100010001000100010001000100010007c00000'),
-    'U': bytes.fromhex('000000007c3e10081008100810081008100810081008100818180c3003c00000'),
-    'V': bytes.fromhex('000000007c3e10081818081008300c2004200460064002c00280038001000000'),
-    'W': bytes.fromhex('00000000f99f2184218423c4324c12481668142814281c380c30081008100000'),
-    'X': bytes.fromhex('00000000f83e301818300c6006c003800100038006c00c6018303018f83e0000'),
-    'Y': bytes.fromhex('000000007c7c1010183008200c60044006c00380010001000100010007c00000'),
-    'Z': bytes.fromhex('000000001ff810301060004000c0018001000300060004000c0818083ff80000'),
+    'A': bytes.fromhex('0000000000000100038007c00ee00c600c600c600fe00c600c60000000000000'),
+    'B': bytes.fromhex('0000000000000fc006600660066007c006600660066006600fc0000000000000'),
+    'C': bytes.fromhex('00000000000003c006600c200c000c000c000c000c20066003c0000000000000'),
+    'D': bytes.fromhex('0000000000000f8006c006600660066006600660066006c00f80000000000000'),
+    'E': bytes.fromhex('0000000000000fe0066006200680078006800600062006600fe0000000000000'),
+    'F': bytes.fromhex('0000000000000fe0066006200680078006800600060006000f00000000000000'),
+    'G': bytes.fromhex('00000000000003c006600c200c000c000ce00c600c6006e003a0000000000000'),
+    'H': bytes.fromhex('0000000000000c600c600c600c600fe00c600c600c600c600c60000000000000'),
+    'I': bytes.fromhex('00000000000003c00180018001800180018001800180018003c0000000000000'),
+    'J': bytes.fromhex('00000000000001e000c000c000c000c000c00cc00cc00cc00780000000000000'),
+    'K': bytes.fromhex('0000000000000e60066006c006c0078006c006c0066006600e60000000000000'),
+    'L': bytes.fromhex('0000000000000f00060006000600060006000600062006600fe0000000000000'),
+    'M': bytes.fromhex('0000000000000c600ee00fe00fe00d600d600d600c600c600c60000000000000'),
+    'N': bytes.fromhex('0000000000000c600e600e600f600f600de00de00ce00ce00c60000000000000'),
+    'O': bytes.fromhex('00000000000007c00c600c600c600c600c600c600c600c6007c0000000000000'),
+    'P': bytes.fromhex('0000000000000fc0066006600660066007c00600060006000f00000000000000'),
+    'Q': bytes.fromhex('000000000000038006c00c600c600c600c600c600de007e003c000c000e00000'),
+    'R': bytes.fromhex('0000000000000fc0066006600660066007c006c0066006600f60000000000000'),
+    'S': bytes.fromhex('00000000000007c00c600c600c00070001c000600c600c6007c0000000000000'),
+    'T': bytes.fromhex('00000000000007e007e005a001800180018001800180018003c0000000000000'),
+    'U': bytes.fromhex('0000000000000c600c600c600c600c600c600c600c600c6007c0000000000000'),
+    'V': bytes.fromhex('0000000000000c600c600c600c600c600c600c6007c003800100000000000000'),
+    'W': bytes.fromhex('0000000000000c600c600c600d600d600d600d600fe006c006c0000000000000'),
+    'X': bytes.fromhex('0000000000000c600c6006c006c00380038006c006c00c600c60000000000000'),
+    'Y': bytes.fromhex('000000000000066006600660066007e003c001800180018003c0000000000000'),
+    'Z': bytes.fromhex('0000000000000fe00c60086000c00180030006000c200c600fe0000000000000'),
 }
 
 _ELLIPSIS_TILE_DATA = bytes.fromhex(
-    '000000000000000000000000000000000000000000000000318c318c00000000'
+    # Three dots at rows 11-12 to align with period glyph baseline.
+    # Previously at rows 12-13 — visibly below the text baseline.
+    '00000000000000000000000000000000000000000000318c318c000000000000'
 )
 _DQUOTE_TILE_DATA = bytes.fromhex(
     '0000360036001200240000000000000000000000000000000000000000000000'
@@ -560,6 +641,9 @@ def build_bigram_tile_map() -> dict:
     # Extra bigram tiles (SFX pairs, stat labels, quote+space) in kanji area
     m.update(_EXTRA_BIGRAM_TILES)
 
+    # Custom umlaut bigrams (slots 1659-1664, kanji area)
+    m.update(_CUSTOM_UMLAUT_BIGRAMS)
+
     # Validate no tile index collisions (two pairs sharing a slot)
     seen = {}
     for pair, tile_idx in m.items():
@@ -611,6 +695,174 @@ def _interleave(left_glyph: bytes, right_glyph: bytes) -> bytes:
     return bytes(result)
 
 
+def _render_glyph_centered(glyph: bytes) -> bytes:
+    """Render an 8x16 glyph in cols 4-11 of a 16x16 tile (centered).
+
+    Used for the CWX menu range (1500-1620), where each hand-drawn tile
+    held a single char positioned roughly mid-cell. Mirroring that
+    position with Eagle III keeps in-game tabular layout intact —
+    binaries reference tile_code expecting the char to occupy the
+    centred slot, not the standard bigram left half.
+    """
+    tile = bytearray(32)
+    for r in range(16):
+        b = glyph[r]
+        tile[r * 2]     = (b >> 4) & 0x0F
+        tile[r * 2 + 1] = (b << 4) & 0xF0
+    return bytes(tile)
+
+
+def _render_tight_bigram(left_glyph: bytes, right_glyph: bytes,
+                          shift: int = 2) -> bytes:
+    """Render two 8x16 glyphs side-by-side with tight kerning.
+
+    Eagle III glyphs have natural 1-2 pixel right padding for legibility.
+    Standard `_interleave` puts left in cols 0-7, right in cols 8-15 —
+    leaving 2-3 visible pixels of whitespace between them, which makes
+    "Sc" in [Sc]enario read as "S cenario" in-game.
+
+    `_render_tight_bigram` shifts the right glyph LEFT by `shift` pixels
+    (default 2), bitwise-OR'ing into the left half when they touch.
+    """
+    tile = bytearray(32)
+    for r in range(16):
+        combined = (left_glyph[r] << 8) | (right_glyph[r] << shift)
+        tile[r * 2] = (combined >> 8) & 0xFF
+        tile[r * 2 + 1] = combined & 0xFF
+    return bytes(tile)
+
+
+# CWX tile range overrides — when populated, these tile slots get
+# Eagle III re-rasterized at build time instead of CWX hand-drawn bytes.
+# Format:
+#   tile_idx → ('center', 'a')           single char centred (cols 4-11)
+#   tile_idx → ('left',   'X')           single char on left half (cols 0-7)
+#   tile_idx → ('bigram', 'P', 'C')      8x16 bigram (cols 0-7 + 8-15)
+#   tile_idx → ('bigram', 'S', 'c'[, shift])  tight-kerned bigram
+#
+# LC alphabet (1585-1610): identified by visual inspection — each CWX
+# tile centres its char in cols 4-9; we use 'center' mode to match.
+# UC range (1501-1574) is partially identified; remaining slots fall
+# back to CWX hand-drawn bytes via _CWX_MENU_TILES until audited.
+# Composite slots (1488-1490, 1611-1620) are 3-diagonal stat-icon
+# composites that have no Eagle III equivalent — left as CWX art.
+_CWX_TILE_OVERRIDES: dict[int, tuple] = {}
+for _i, _ch in enumerate('abcdefghijklmnopqrstuvwxyz'):
+    _CWX_TILE_OVERRIDES[1585 + _i] = ('center', _ch)
+
+# UC range identifications — multi-context evidence in
+# build/cwx_decode_context.txt (regenerable via tools/cwx_tile_audit.py).
+# Bigram pairs use tight_bigram so adjacent Eagle III glyphs touch
+# without the natural 1-2 px padding that vanilla _interleave leaves.
+_CWX_TILE_OVERRIDES.update({
+    # 'v ligature for "You've" / "I've" / etc.
+    1500: ('bigram', "'", 'v'),
+
+    # Audio menu (PCM/BGM)
+    1501: ('bigram', 'P', 'C'),   # "[PC][M ]" PCM
+    1502: ('bigram', 'B', 'G'),   # "[BG][M ]" BGM
+    1503: ('left', 'M'),                # "M " left half (PCM/BGM/RAM)
+
+    # Misc bigrams from menus
+    1504: ('bigram', 'S', 'c'),   # Scenario / Screen
+    1505: ('bigram', 'T', 'u'),   # Turn
+
+    # Name-input grid composites 1506-1512 (UC + lc-umlaut for name screen)
+    1506: ('bigram', 'J', 'ü'),
+    1507: ('bigram', 'm', 'ü'),
+    1508: ('bigram', 'g', 'ü'),
+    1509: ('bigram', 'T', 'ü'),
+    1510: ('bigram', 'T', 'ü'),
+    1511: ('bigram', 'T', 'ü'),
+    1512: ('bigram', 'T', 'ü'),   # 1509-1512 byte-identical in CWX
+
+    1513: ('bigram', 'P', '!'),         # "Insufficient M[P!]" — image shows P with !
+
+    1514: ('bigram', 'R', 'A'),   # Backup [RA][M ] = RAM (all caps)
+
+    # Stat-name menu bigrams 1515-1523
+    1515: ('bigram', '(', 'A'),
+    1516: ('bigram', 'T', '+'),
+    1517: ('bigram', '2', '0'),
+    1518: ('bigram', '%', ','),
+    1519: ('bigram', 'F', '-'),
+    1520: ('bigram', '4', '0'),
+    1521: ('bigram', '%', ')'),
+    1522: ('bigram', 'A', '+'),
+    1523: ('bigram', 'D', '+'),
+
+    # Stat labels 1524-1532
+    1524: ('bigram', 'A', 'T'),   # ATK
+    1525: ('bigram', 'D', 'F'),   # DEF
+    1526: ('bigram', 'I', 'N'),
+    1527: ('left', 'T'),                # "T "
+    1528: ('bigram', 'L', 'V'),
+    1529: ('bigram', 'H', 'P'),
+    1530: ('bigram', 'M', 'P'),
+    1531: ('bigram', 'S', 'T'),
+    1532: ('left', 'R'),                # "R "
+
+    # 1533-1540 linear from entry 19 of user's list.
+    1533: ('bigram', 'J', 'ä'),
+    1534: ('bigram', 'j', 'ä'),
+    1535: ('bigram', 'ä', 'l'),
+    1536: ('bigram', 'ö', 'l'),
+    1537: ('bigram', ' ', '2'),
+    1538: ('bigram', '-', '3'),
+    1539: ('bigram', '-', 'b'),
+    1540: ('bigram', '-', 'd'),
+    # 1541 was missing from user's list but the audit PNG clearly shows
+    # "-h" here (between "-d" at 1540 and "-m" at 1542). Adding it.
+    1541: ('bigram', '-', 'h'),
+    1542: ('bigram', '-', 'm'),
+    1543: ('bigram', '-', 's'),
+    1544: ('bigram', 'd', '-'),
+    1545: ('bigram', 'i', '-'),
+    1546: ('bigram', 'l', '-'),
+    1547: ('bigram', 'n', '-'),
+    1548: ('bigram', 'r', '-'),
+    1549: ('bigram', 'w', '-'),
+    1550: ('bigram', ' ', '7'),
+    1551: ('bigram', '5', '%'),
+    1552: ('bigram', ' ', '/'),
+    1553: ('bigram', '/', ' '),
+    1554: ('bigram', ' ', '-'),
+    1555: ('bigram', '1', '5'),
+    1556: ('bigram', '+', '8'),
+    1557: ('bigram', '+', '1'),
+    1558: ('bigram', '2', ' '),
+    1559: ('bigram', ' ', '+'),
+    1560: ('bigram', '5', ' '),
+    1561: ('bigram', '3', '0'),
+    1562: ('bigram', '-', '5'),
+    1563: ('bigram', '0', ' '),
+    1564: ('bigram', '%', ' '),
+    1565: ('bigram', '1', ' '),
+
+    # 1566 left V (audit dist=0 vs ('V',' '), user-confirmed)
+    1566: ('left', 'V'),
+
+    # 1567-1574
+    1567: ('bigram', ' ', '5'),
+    1568: ('bigram', '0', '%'),
+    1569: ('bigram', ' ', '1'),
+    1570: ('bigram', '*', '*'),
+    1571: ('bigram', 'n', '*'),
+    1572: ('bigram', '*', ' '),
+    1573: ('bigram', 'e', '-'),
+    1574: ('bigram', 'a', '-'),
+
+    # 1611-1616 from user's separate list
+    1611: ('bigram', 'h', 'ä'),
+    1612: ('bigram', 'ä', 'r'),
+    1613: ('bigram', 'B', 'ö'),
+    1614: ('bigram', 'ö', 's'),
+    1615: ('bigram', 'R', '.'),
+    1616: ('bigram', 'A', '.'),
+    # 1617-1620: user has no audit.png; left as CWX hand-drawn
+})
+
+
 def generate_english_font(jp_font: bytes) -> bytes:
     """Generate English font by overwriting tiles in the JP FONT.BIN.
 
@@ -639,6 +891,9 @@ def generate_english_font(jp_font: bytes) -> bytes:
     half_glyphs[' '] = _BLANK_GLYPH
     half_glyphs.update({ch: g for ch, g in _LETTER_GLYPHS.items()})
     half_glyphs.update({ch: g for ch, g in _PUNCT_GLYPHS.items()})
+    half_glyphs.update({ch: g for ch, g in _EXTRA_PUNCT_GLYPHS.items()})
+    half_glyphs.update({ch: g for ch, g in _DIGIT_HALF_GLYPHS.items()})
+    half_glyphs.update({ch: g for ch, g in _UMLAUT_HALF_GLYPHS.items()})
     half_glyphs["'"] = _APOSTROPHE_GLYPH
 
     # Bigram comma uses a shifted-up variant
@@ -728,6 +983,13 @@ def generate_english_font(jp_font: bytes) -> bytes:
     for (left, right), idx in _CWX_SPECIAL_BIGRAMS.items():
         write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
 
+    # --- Tiles 1659-1664: custom umlaut bigrams (kanji area) ---
+    # Same composition as the regular (X, u/a/o) bigrams + umlaut dots.
+    # Lives outside CWX range (1500-1620) where the engine renders with
+    # name-input-grid spacing that produces visible gaps in dialogue.
+    for (left, right), idx in _CUSTOM_UMLAUT_BIGRAMS.items():
+        write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
+
     # --- Tiles 1621-1626: custom apostrophe bigrams ---
     for (left, right), idx in _CUSTOM_APOSTROPHE_BIGRAMS.items():
         left_g = half_glyphs[left]
@@ -736,8 +998,15 @@ def generate_english_font(jp_font: bytes) -> bytes:
 
     # --- Tiles 1627-1638: extended punctuation (installed in kanji area) ---
     # 11 chars that appeared in scripts but had no glyph: - + ( ) / * % [ ] ' &
+    # Chars listed in _FULL_WIDTH_PUNCT_GLYPHS get the full 32-byte tile
+    # directly (no interleave with blank half) so they span the full cell.
     for ch, idx in _EXTRA_PUNCT_TILES.items():
-        write_tile(idx, _interleave(_EXTRA_PUNCT_GLYPHS[ch], _BLANK_GLYPH))
+        if ch in _FULL_WIDTH_PUNCT_GLYPHS:
+            write_tile(idx, _FULL_WIDTH_PUNCT_GLYPHS[ch])
+        elif ch in _UMLAUT_HALF_GLYPHS:
+            write_tile(idx, _interleave(_UMLAUT_HALF_GLYPHS[ch], _BLANK_GLYPH))
+        else:
+            write_tile(idx, _interleave(_EXTRA_PUNCT_GLYPHS[ch], _BLANK_GLYPH))
 
     # --- Tiles 1639-1655: extra bigrams (SFX + stat abbrevs + quote pairs) ---
     # Half-width double-quote glyph extracted from _DQUOTE_TILE_DATA (rows 1-4).
@@ -765,6 +1034,8 @@ def generate_english_font(jp_font: bytes) -> bytes:
         # quote+space pairs (same dquote glyph, different half)
         (' ', '"'): (_BLANK_GLYPH, dquote_half),
         ('"', ' '): (dquote_half, _BLANK_GLYPH),
+        # Bullet bigram for ・ -style bullet points (e.g. " •Death of <$F600>")
+        (' ', '•'): (_BLANK_GLYPH, _BULLET_GLYPH_BIGRAM),
     }
     for pair, idx in _EXTRA_BIGRAM_TILES.items():
         left_g, right_g = extra_bigram_glyphs[pair]
@@ -785,6 +1056,28 @@ def generate_english_font(jp_font: bytes) -> bytes:
     # --- Blank gap tiles (remove kanji from unused slots) ---
     for idx in _BLANK_GAP_TILES:
         write_tile(idx, b'\x00' * TILE_SIZE)
+
+    # --- CWX range overrides ---
+    # Applied LAST so they take precedence over _CWX_MENU_TILES /
+    # _CWX_BETWEEN_TILES (CWX hand-drawn bytes) at the same slots.
+    for idx, spec in _CWX_TILE_OVERRIDES.items():
+        mode = spec[0]
+        if mode == 'center':
+            ch = spec[1]
+            write_tile(idx, _render_glyph_centered(half_glyphs[ch]))
+        elif mode == 'left':
+            ch = spec[1]
+            write_tile(idx, _interleave(half_glyphs[ch], _BLANK_GLYPH))
+        elif mode == 'bigram':
+            l, r = spec[1], spec[2]
+            write_tile(idx, _interleave(half_glyphs[l], bigram_right_glyphs[r]))
+        elif mode == 'bigram':
+            l, r = spec[1], spec[2]
+            shift = spec[3] if len(spec) >= 4 else 2
+            write_tile(idx, _render_tight_bigram(
+                half_glyphs[l], bigram_right_glyphs[r], shift))
+        else:
+            raise ValueError(f'unknown CWX override mode {mode!r}')
 
     return bytes(font)
 

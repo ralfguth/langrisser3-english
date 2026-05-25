@@ -1,39 +1,35 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Riguler Commander <$FFFF>
-Field Marshal Altemuller<$FFFF>
+Emerick<$FFFF>
+Rigüler Commander<$FFFF>
+Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
-General Emerick <$FFFF>
- Scenario <$0236> 22 "To a New Battle"<$FFFE>
- Since the time Field Marshal Altemuller had to withdraw his troops due to a shortage of supplies, he has  steadily made  preparations for the recapture of Larcuss.<$FFFE>
- Field Marshal Altemuller had once withdrawn his troops due to shortages, but preparations to  retake Larcus were steadily advancing.<$FFFE>
- In contrast, the Elthlead army's first  move has been to use the speed and power of the mobile attack force to capture an Imperial base along the national border.<$FFFE>
- <$01E9>Condition for Victory  Destruction of all enemies <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE>
- Imperial Base along the  Riguler <$0236> Elthlead  National Border <$FFFF>
- Your Excellency  Altemuller. The attack  preparations have been completed.<$FFFE>
-Good work. Mustering new troops took longer than  I had expected.<$FFFD>Now, the army of Larcuss…no, Elthlead, has likely  been bolstered as well.<$FFFE>
+General Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-22<$FFFC><$0000><$0000><$0000><$0000>To a New Battle<$0000><$0000><$0000><$0000><$FFFE>
+ About a year after rallying under Viscount Raymond, <$F600><$0000> and his allies finally retook the royal capital. Raymond became King Sieghart, and the kingdom became Elthlead.<$FFFE>
+ Field Marshal Altemüller had once withdrawn his troops due to shortages, but preparations to retake Larcuss were steadily advancing.<$FFFE>
+ In contrast, the Elthlead army's first move has been to use the speed and power of the mobile attack force to capture an Imperial base along the national border.<$FFFE>
+ *Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFE>
+Imperial Base along the Rigüler - Elthlead National Border<$FFFF>
+ Your Excellency Altemüller. The attack preparations have been completed.<$FFFE>
+Good work. Mustering new troops took longer than I had expected.<$FFFD>Now, the army of Larcuss…no, Elthlead, has likely been bolstered as well.<$FFFE>
  It looks like it won't be an easy war to win.<$FFFE>
- Easy victories are hollow ones. This should be the perfect challenge.<$FFFD>Emerick, look after  things in my absence!<$FFFE>
- Yes, sir, just leave  everything else to me! Your Excellency should only need to concentrate on the fighting with Elthlead.<$FFFE>
+ Easy victories are hollow ones. This should be the perfect challenge.<$FFFD>Emerick, look after things in my absence!<$FFFE>
+ Yes, sir, just leave everything else to me! Your Excellency should only need to concentrate on the fighting with Elthlead.<$FFFE>
  Geier's aerial fortress should arrive at our destination soon enough.<$FFFD>Very well, let's sally forth.<$FFFE>
  Yeahhhh!<$FFFE>

@@ -1,0 +1,5 @@
+Langrisser III CN dump — A0LANG
+# JP size: 158288 CN size: 158288 (same)
+# diff regions: 7; with text: 0; entries: 0
+# tiles: 0; unmapped: 0 (0.0% mapped)
+

@@ -1,0 +1,40 @@
+Langrisser III CN dump — scen059
+# 36 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+法娜将军<$FFFF>
+阿鲁迪缪拉元帅<$FFFF>
+利古里亚军指挥官<$FFFF>
+旧拉卡西亚王城・现帝国军军营<$FFFF>
+阁下！<$FFFC>您再勉强自己的话，会对身体不利的。<$FFFE>
+不用担心。<$FFFD>在你[?2130][?2131]的护理下，[?2034]，伤口已经大[?1893]上[?1044]合了。<$FFFE>
+但是，阁下……<$FFFE>
+打[?1536]一下！<$FFFE>
+怎么了？<$FFFE>
+来自波鲁瑟将军的报告。<$FFFD>雷蒙德卿所率领的拉卡斯[?0248][?1552]部队，实力出乎意[?0958]，波鲁瑟将军的部队，已经出现[?1834]势！<$FFFE>
+那个波鲁瑟竟然会被！？<$FFFE>
+呵……。<$FFFC>雷蒙德卿这家伙，似乎倒是[?1416]让我[?1667][?2132]的啊。<$FFFE>
+怎么办？<$FFFE>
+法娜，<$FFFC>你前去援救波鲁瑟。<$FFFE>
+是！<$FFFC>…但是，阁下……<$FFFE>
+如果是担心我，那就不必了。<$FFFC>快去吧。<$FFFE>
+……遵命。<$FFFE>
+呵……。<$FFFD>不这样的话，倒还反而没意思了。<$FFFE> 

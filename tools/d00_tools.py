@@ -211,26 +211,77 @@ def encode_text_to_entry(text: str, char_tile_map: dict,
     # Now encode each segment
     result = bytearray()
 
-    for seg_type, seg_data in segments:
+    # Chars whose standalone tile has built-in 8px right-half blank
+    # (left content + blank right). After emitting such a tile, an
+    # ASCII space mid-segment is redundant — the right-blank already
+    # provides the inter-letter gap. Skipping the space avoids:
+    #   - standalone space tile (16px blank)
+    #   - (' ', X) leading-blank bigram (8px wasted in left half)
+    # Either would render as visible double-spacing after the punct.
+    # Excludes '-' and '•' which are painted full-width (no right-blank).
+    _RIGHT_BLANK_STANDALONE_CHARS = frozenset(
+        'abcdefghijklmnopqrstuvwxyz'   # LC standalones = (lc, ' ') bigram tile
+        ',.?!:;'                        # punctuation interleaved with blank
+        'äöü'                            # umlaut standalones
+        "+()/*%[]'&"                    # extra punct (excludes - and •)
+    )
+
+    # Control codes that behave as INLINE TEXT (continue the visible
+    # word stream). Skip-space-after-right-blank rule should reach across
+    # these — they're not structural breaks.
+    # Currently only F600 (player-name expansion). Structural codes like
+    # FFFC (newline), FFFD (scroll), FFFE (entry terminator) preserve
+    # the trailing space.
+    _INLINE_TEXT_CTRL_PREFIXES = (b'\xf6\x00',)   # F600
+
+    def _next_seg_is_inline_text(idx):
+        if idx + 1 >= len(segments):
+            return False
+        nxt = segments[idx + 1]
+        if nxt[0] != 'ctrl':
+            return False
+        return any(nxt[1].startswith(p) for p in _INLINE_TEXT_CTRL_PREFIXES)
+
+    for seg_idx, (seg_type, seg_data) in enumerate(segments):
         if seg_type == 'ctrl':
             result.extend(seg_data)
         else:
             # Encode regular text segment
             s = seg_data.replace('...', '…')
             j = 0
+            last_was_right_blank = False
+            next_seg_inline = _next_seg_is_inline_text(seg_idx)
             while j < len(s):
+                # Skip redundant ASCII space when previous tile has
+                # built-in right-half blank AND either:
+                #   - there's more text in this segment, OR
+                #   - the next segment is an inline-text control code
+                #     like F600 (player-name expansion)
+                # Structural ctrl codes (FFFC/FFFD/FFFE) end the visible
+                # word stream — preserve trailing space before them.
+                if last_was_right_blank and s[j] == ' ':
+                    not_last = (j + 1 < len(s))
+                    if not_last or next_seg_inline:
+                        j += 1
+                        last_was_right_blank = False
+                        continue
+
                 # Try bigram if available and there's a next character
                 if bigram_tile_map is not None and j + 1 < len(s):
                     pair = (s[j], s[j+1])
                     if pair in bigram_tile_map:
                         result.extend(struct.pack('>H', bigram_tile_map[pair]))
+                        # Bigrams whose right half is space carry the
+                        # right-blank property forward (e.g. (x, ' ') tile).
+                        last_was_right_blank = (pair[1] == ' ')
                         j += 2
                         continue
 
                 # Single character fallback
                 if s[j] in char_tile_map:
                     result.extend(struct.pack('>H', char_tile_map[s[j]]))
-                # Skip unmapped chars
+                    last_was_right_blank = s[j] in _RIGHT_BLANK_STANDALONE_CHARS
+                # else: unmapped char dropped; do NOT update last_was_right_blank
                 j += 1
 
     return bytes(result)
@@ -240,6 +291,32 @@ def encode_text_to_entry(text: str, char_tile_map: dict,
 # Script file parsing
 # ---------------------------------------------------------------------------
 
+_INLINE_TERMINATORS = ('<$FFFE>', '<$FFFF>')
+
+
+def _strip_inline_comment(line: str) -> str:
+    """Drop any text after the last entry terminator on the line.
+
+    Translators may annotate JP nuance, tone, or context as a free-form
+    comment after ``<$FFFE>``/``<$FFFF>`` on the same line. The encoder
+    treats everything past the terminator as a comment and ignores it.
+
+    Uses ``rfind`` (latest terminator) so structural patterns like
+    ``Right!<$FFFE><$FFFF>`` are preserved — only text after the *final*
+    terminator on the line is treated as a comment.
+    """
+    latest = -1
+    latest_term = ''
+    for term in _INLINE_TERMINATORS:
+        idx = line.rfind(term)
+        if idx > latest:
+            latest = idx
+            latest_term = term
+    if latest == -1:
+        return line
+    return line[:latest + len(latest_term)]
+
+
 def parse_script_file(path: Path) -> list:
     """Parse an Akari Dawn format script file into list of text entries.
 
@@ -248,6 +325,8 @@ def parse_script_file(path: Path) -> list:
     and get joined with the following line.
 
     Header lines (starting with 'Langrisser' or 'Cyber') are skipped.
+    Any text on the same line after a ``<$FFFE>``/``<$FFFF>`` terminator is
+    treated as a translator comment and discarded.
     """
     text = path.read_text(encoding='utf-8')
     entries = []
@@ -257,9 +336,15 @@ def parse_script_file(path: Path) -> list:
         line = line.strip()
         if not line:
             continue
-        if line.startswith('Langrisser') or line.startswith('Cyber'):
+        # Header lines have no terminator codes; content lines always
+        # contain at least one ``<$XXXX>`` (terminator or formatting).
+        # This avoids dropping content entries like the "Langrisser"
+        # choice in scen029 (a player-spoken sword name).
+        if (line.startswith('Langrisser') or line.startswith('Cyber')) \
+                and '<$' not in line:
             continue
 
+        line = _strip_inline_comment(line)
         current_parts.append(line)
 
         # Entry terminators: FFFF or FFFE

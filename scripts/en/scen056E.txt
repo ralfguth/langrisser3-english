@@ -1,28 +1,24 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario <$0236> 08 "The  Southern Lushiris Gate"<$FFFE>
- Long ago, the Lucilis Gate was built to  prevent the invasion of  monsters. On all four sides stood supporting gates to reinforce the power of the main gate.<$FFFE>
- The moment when the  protection of Lushiris was needed, to avert the  coming demonic offensive, was quickly approaching. Therefore, the party has traveled to the southern gate in  order to meet its  warden, Sophia.<$FFFE>
- With monsters that could attack at any time, the Lucilis Gate had to be reactivated as quickly as possible. The party headed to the gate to  meet Sophia, the keeper  of the southern gate.<$FFFE>
- But enemies are also seeking her and have made preparations  against the arrival of <$F600><$0000> and company.<$FFFE>
- <$01E9>Condition for Victory  Defeat of Do Kahni <$01E9>Condition for Defeat Death of <$F600><$0000><$FFFE> 
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-08<$FFFC><$0000> The Southern Lushiris Gate <$0000><$FFFE>
+ Long ago, the Lucilis Gate was built to prevent the invasion of monsters. On all four sides stood supporting gates to reinforce the power of the main gate.<$FFFE>
+ But now that war has begun, the gate's function has stopped... the barrier that holds back the monsters has vanished, or so it is said.<$FFFE>
+ With monsters that could attack at any time, the Lucilis Gate had to be reactivated as quickly as possible. The party headed to the gate to meet Sophia, the keeper of the southern gate.<$FFFE>
+ But there, an unexpected enemy lay in wait for them.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat of Do Kahni<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE> 

@@ -1,36 +1,32 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Plains of Luon <$0236> Marshlands<$FFFF>
+Emerick<$FFFF>
+Plains of Luon - Marshlands<$FFFF>
  You did it, Kirikaze.<$FFFE>
  Thanks to everyone's help, I was able to defeat that witch.<$FFFE>
  I don't know how best to express my gratitude…<$FFFE>
  No need to worry about that. We're all friends, after all.<$FFFE>
  Speaking of which, Kirikaze, what do you plan to do now?<$FFFE>
- Since you were able to avenge your lord, will  you return now?<$FFFE>
- No. We may have defeated  Feraquea, but the puppeteer pulling her  strings, Bozel, remains.<$FFFE>
- Unless Bozel is  defeated, other monsters  will eventually attack again.<$FFFE>
- Until Bozel is overthrown, I will  travel together with you all.<$FFFE>
+ Since you were able to avenge your lord, will you return now?<$FFFE>
+ No. We may have defeated Feraquea, but the puppeteer pulling her strings, Böser, remains.<$FFFE>
+ Unless Böser is defeated, other monsters will eventually attack again.<$FFFE>
+ Until Böser is overthrown, I will travel together with you all.<$FFFE>
  I see.<$FFFE>
- In that case, we have to  defeat Bozel and end this matter once and for all.<$FFFE>
- I shall make it my new duty. Come, let's move  on!<$FFFE>
- All right, everyone. None of us can rest  until Bozel is defeated!<$FFFE> 
+ In that case, we have to defeat Böser and end this matter once and for all.<$FFFE>
+ I shall make it my new duty. Come, let's move on!<$FFFE>
+ All right, everyone. None of us can rest until Böser is defeated!<$FFFE> 

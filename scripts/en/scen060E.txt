@@ -1,69 +1,65 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-General in charge <$FFFF>
-Dark Knight <$FFFF>
+Emerick<$FFFF>
+General in charge<$FFFF>
+Dark Knight<$FFFF>
 Ruud<$FFFF>
 Barral Commander<$FFFF>
-Riguler Commander <$FFFF>
+Rigüler Commander<$FFFF>
 Adjutant Gates<$FFFF>
-General Geier <$FFFF>
- Scenario <$0236> 10 "Ceremony of Scorching Heat"<$FFFE>
- While Lord Raymond and General Bortz engage in  battle, General Geier sets out to conquer the  City of Laffel, which still is occupied by the Barral Kingdom.<$FFFE>
- At the same time, Dho Kahni and Kha Shind  vainly try to stop the advance of <$F600><$0000>'s division, which at last sets foot into the Shika Tribe's capitol grotto.<$FFFE>
- As the evening turns to  night and the full moon  rises, a gruesome  ceremony begins.<$FFFE>
- <$01E9> Conditions of Victory Rescue Sophia in 19 turns Defeat Keh Shikairo<$FFFE>
- <$01E9>Defeat Conditions  <$F600><$0000> falls in battle Sophia falls in battle<$FFFE>
-Laffel <$0236> Currently occupied by the Barral Kingdom<$FFFF>
+General Geier<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-10<$FFFC><$0000>Ceremony of Scorching Heat<$0000><$FFFE>
+ While Lord Raymond and General Bortz engage in battle, General Geier sets out to conquer the City of Laffel, which still is occupied by the Barral Kingdom.<$FFFE>
+ At the same time, having defeated Do Kahni and Kah Shind, <$F600><$0000>'s division at last sets foot into the cavern that is the Shika Tribe's home.<$FFFE>
+ As the evening turns to night and the full moon rises, a gruesome ceremony begins.<$FFFE>
+Within 19 turns,<$FFFC> defeat Keh Shikairo<$FFFE>
+Death of <$F600><$0000><$FFFC>Death of Sophia<$FFFE>
+Laffel - Currently occupied by the Barral Kingdom<$FFFF>
  Uuuuuuh,hick! It's no use, no use…<$FFFE>
- Hick!…I am as good as  dead.<$FFFD>I knew it, I should've listened to my mum, be a farmer she said…damn that airship…<$FFFE>
- To make things worse that Dark Knight character isn't exactly  known for his  forgiveness!<$FFFD>Shit!<$FFFB>What is the world coming too…<$FFFE>
- Yes, Sir Dark Knight.<$FFFE>
- …Who is in charge here?<$FFFE>
+ Hick!…I am as good as dead.<$FFFD>From the start, it was hopeless to fight against an airship fleet…<$FFFE>
+ To make things worse that Dark Knight character isn't exactly known for his forgiveness!<$FFFD>Shit!<$FFFB>What is the world coming too…<$FFFE>
+ …Hey.<$FFFE>
+ Yes, Sir Dark Knight…<$FFFE>
  …Where is the keeper?<$FFFE>
  Hick!<$FFFB>…Yeaas.<$FFFE>
  Hey, you drunken bastard.<$FFFD>What the hell is going on here?<$FFFE>
- It's no use, riight? We  hick stand no chance against that airship…<$FFFD>We…we have been defeated…<$FFFB>Hick!<$FFFE>
- Guaarghh!<$FFFE>
- Ahh!<$FFFE>
- He just butchered  him…<$FFFE>
- T To kill her…?<$FFFE>
+ It's no use, riight? We hick stand no chance against that airship…<$FFFD>We…we have been defeated…<$FFFB>Hick!<$FFFE>
+ So that's why you've been drinking…<$FFFE>
+ Guhah!<$FFFE>
+ Hick!<$FFFE>
+ T, to think you'd kill him…<$FFFE>
  …Such incompetence is intolerable. I am in command from now on.<$FFFE>
 …<$FFFE>
- Prepare the ballistas  and some oil, after that  assemble the remaining soldiers.<$FFFE>
+ Prepare the ballistas and some oil, after that assemble the remaining soldiers.<$FFFE>
  Y…yessir!<$FFFE>
- So you are the Aide de camp of that deserted  coward Dios. …I have a special mission for you.<$FFFE>
- East of here lives a sacred beast, you will  get a hold of that creature and present it  to his majesty.<$FFFE>
- Am I leaving right now? I would rather protect the town…<$FFFE>
- Who do you think your  talking back to, runt? You should be thankful to be of use.<$FFFE>
-No one expects anything  from the likes of you. Be grateful you were given a mission at all.<$FFFE>
- Now get some oil and ropes over here this instant!<$FFFE>
- …Those eyes.<$FFFE>
- At times like this I do  miss General Dios  sorely…<$FFFE>
+ So you are the Aide de camp of that deserted coward Dios. …I have a special mission for you.<$FFFE>
+ East of here is a shrine that enshrines a sacred beast with unusual powers.<$FFFE>
+ If that beast joins forces with the Larcuss remnants, it will be troublesome. Find and kill it before they do.<$FFFE>
+ R, right now? But the defense of this place…<$FFFE>
+No one expects anything from the likes of you. Be grateful you were given a mission at all.<$FFFE>
+ ……<$FFFE>
+ The rest of you, take bows and ropes and follow me!<$FFFE>
+ …That Dark Knight!<$FFFE>
  If only General Dios were here at a time like this…<$FFFE>
-Deck of the Riguler  Airship<$FFFF>
- Adjutant!<$FFFD>He has come! The Dark  Knight has taken command over the enemy's forces!<$FFFE>
+Deck of the Rigüler Airship<$FFFF>
+ Adjutant!<$FFFD>He has come! The Dark Knight has taken command over the enemy's forces!<$FFFE>
+ Well done.<$FFFE>
  Sir Geier…<$FFFE>
- Grrr, I am getting tired  of this.<$FFFE>
  Heh heh heh… I've been waiting far too long.<$FFFE>
- Commence an all out  attack!<$FFFD>Those fools are just prolonging the inevitable, victory is  as good as ours!<$FFFE>
+ Commence an all out attack!<$FFFD>Those fools are just prolonging the inevitable, victory is as good as ours!<$FFFE>
  Yeaahhh!<$FFFE>

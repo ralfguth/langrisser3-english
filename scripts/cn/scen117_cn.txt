@@ -1,0 +1,28 @@
+Langrisser III CN dump — scen117
+# 24 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+ <$FFFC>   SCENARIO-？2<$FFFC>    『历代的英雄们』<$FFFE>
+一行人从西卡族的大酋长那里，得到<$FFFC>了能[?1623]越时空的石头。<$FFFE>
+[?1478]然想起了这块石头的<$F600 0000>，想马上试一下石头的功效。<$FFFE>
+但是，因为没有问过石头的使用方法，所以<$F600 0000>试着随意地发送了心中的意念。<$FFFE>
+随着一[?1719][?1714]眼的光[?1137]，<$FFFC>等回过神来后，<$F600 0000>他们已经[?1716]在了一片[?2249]生的土地上。<$FFFE>
+※胜利条件<$FFFC>・击败雷丁、以及艾尔温<$FFFC>※败北条件<$FFFC>・<$F600 0000>死亡<$FFFE>

@@ -1,26 +1,22 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario <$0236> 09 "Shaman Attack"<$FFFE>
- Sophia, keeper of the southern gate, had been  abducted by the Shika tribe. Worse, they meant  to use her as a sacrifice in a ritual.<$FFFE>
- At this rate, not only  would they fail to restore the gate, her life itself was in danger. The party set foot in the desolate mountains, heading for the Shika tribe's stronghold.<$FFFE>
- <$01E9>Condition for Victory  Complete annihilation of enemies <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE>
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-09<$FFFC><$0000><$0000><$0000><$0000> Shaman Attack <$0000><$0000><$0000><$0000><$FFFE>
+ Sophia, keeper of the southern gate, had been abducted by the Shika tribe. Worse, they meant to use her as a sacrifice in a ritual.<$FFFE>
+ At this rate, not only would they fail to restore the gate, her life itself was in danger. The party set foot in the desolate mountains, heading for the Shika tribe's stronghold.<$FFFE>
+ *Victory Conditions<$FFFC>•Complete annihilation of enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>

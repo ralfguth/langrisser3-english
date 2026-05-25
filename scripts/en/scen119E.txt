@@ -1,27 +1,23 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario ?3 "The Queen  and Aesthetic Men"<$FFFE>
- On the way to Castle Velzeria during the  battle with Feraquea, <$F600><$0000> comes into the  possession of a strange  living doll made of  clay.<$FFFE>
- When the said doll flies off, <$F600><$0000> orders the  reluctant division to  follow it.<$FFFE>
- After a lengthy chase  they find themselves in  front of a quirky  looking temple…<$FFFE>
- Conditions of Victory  That's a secret! Conditions of Defeat Death of <$F600><$0000> Death of any Female PC<$FFFE>
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-?3<$FFFC><$0000>The Queen and Aesthetic Men<$0000><$FFFE>
+ Though they had decided<$FFFC>to head for Castle Velzeria,<$FFFC>the whereabouts of the strange clay doll<$FFFC>found during the fight with Feraquea<$FFFC>still weighed on their minds.<$FFFE>
+ When the said doll flies off, <$F600><$0000> orders the reluctant division to follow it.<$FFFE>
+ After a lengthy chase they find themselves in front of a quirky looking temple…<$FFFE>
+ *Victory Conditions<$FFFC>•That's a secret!<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of any Female PC<$FFFE>

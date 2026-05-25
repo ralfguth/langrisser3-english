@@ -50,40 +50,77 @@ CTRL_RE = re.compile(r'<\$([0-9A-Fa-f]{4})>')
 # scen_num -> max number of entries allowed to have mismatched control sequences.
 # Frozen at the audit snapshot of 2026-04-27. Lower the count when retranslating.
 CTRL_PARITY_XFAIL: dict[int, int] = {
-    # Frozen baseline at 2026-04-28 (rule: F600/F7xx/FFFB/FFFD must
-    # match JP; FFFC excluded since EN line wrapping is language-
-    # dependent). Lower the count whenever a section is retranslated.
-    4: 28, 5: 32, 6: 3, 7: 78, 8: 4, 11: 26, 12: 5, 13: 1, 14: 28,
-    17: 5, 18: 26, 19: 1, 20: 1, 21: 18, 23: 22, 24: 1, 27: 29, 28: 22,
-    29: 14, 30: 1, 31: 7, 32: 22, 33: 43, 34: 37, 35: 40, 36: 6, 37: 38,
-    38: 6, 39: 73, 41: 3, 42: 5, 45: 4, 50: 1, 51: 5, 52: 2, 54: 1,
-    55: 6, 56: 1, 64: 1, 72: 1, 76: 1, 78: 1, 84: 1, 89: 1, 96: 1, 107: 1,
-    112: 1, 118: 1, 119: 1, 120: 2, 121: 2, 124: 33, 125: 2,
+    # Frozen baseline at 2026-05-15 (revised). Rule: F7xx/FFFB/FFFD
+    # inline codes AND per-index FFFE/FFFF terminator type must match
+    # JP. Excluded: F600 (player-name token — inclusion depends on EN
+    # adaptation per project policy), FFFC (wrap is language-dependent).
+    # Voice-only JP entries (no inline terminator) are exempt from
+    # the terminator check. Lower the count whenever a section is
+    # retranslated.
+    4: 1, 6: 1, 8: 1, 13: 1, 14: 1,
+    20: 1, 21: 1, 22: 1, 25: 1, 26: 1, 27: 1, 28: 1, 29: 1,
+    30: 1, 31: 1, 33: 1, 36: 1, 37: 1, 39: 1,
+    # CN-pattern cutscene subtitle fills — JP placeholders intentionally
+    # filled with English narration during v0.6 cutscene-subtitle work.
+    # scen123 entry 32 carries an FFFD added by the user to clear the
+    # balloon between subtitle frames; entry 36 uses FFFD for a dying
+    # cough beat where JP uses FFFC.
+    123: 2,
+    41: 1, 45: 1, 48: 1, 50: 1, 51: 1, 52: 1, 56: 1, 57: 1, 58: 1,
+    59: 1, 61: 1, 62: 1, 67: 1, 68: 1, 70: 1, 72: 1, 73: 1, 74: 1,
+    75: 1, 76: 1, 80: 1, 86: 1, 87: 1, 89: 1, 91: 1, 92: 1, 97: 1,
+    98: 1, 100: 1, 101: 1, 103: 1, 104: 1, 106: 1, 107: 1, 109: 1, 110: 1,
+    116: 1, 117: 1, 120: 1, 121: 1, 125: 1,
 }
 
 
 def _is_structural_code(word: int) -> bool:
-    """Codes that must match JP per-entry between JP and EN.
+    """Inline codes that must match JP per-entry between JP and EN.
 
     Includes:
-    - `<$F600>` (with parameter) — name marker; slot index must match.
     - `<$F7xx>` — voice cues; embedded position triggers an audio clip.
     - `<$FFFB>` — wait; pacing must match JP.
     - `<$FFFD>` — scroll; must match JP.
 
     Excludes:
+    - `<$F600>` (player-name token) — inclusion depends on EN
+      adaptation (narrations drop for word wrap; dialogue may add or
+      remove). Not a structural invariant per project policy.
     - `<$FFFC>` — newline within a balloon. Line wrapping is
-      language-dependent (English word lengths differ from Japanese);
-      validated visually with the balloon viewer instead.
-    - `<$FFFE>` / `<$FFFF>` — entry terminators, already enforced by
-      `test_entry_counts.py`.
+      language-dependent.
+    - `<$FFFE>` / `<$FFFF>` — entry terminators, checked separately
+      via `_jp_entry_terminator` so that name-slot vs dialogue parity
+      is enforced per-index.
     """
     return (
-        word == 0xF600
-        or 0xF700 <= word <= 0xF7FF
+        0xF700 <= word <= 0xF7FF
         or word == 0xFFFB
         or word == 0xFFFD
     )
+
+
+def _jp_entry_terminator(entry_bytes: bytes) -> str | None:
+    """Return 'FFFE', 'FFFF', or None for a raw JP entry.
+
+    Returns None for voice-only entries (e.g. body is just `<$F702>`)
+    where the JP D00.DAT relies on the offset table for boundaries and
+    there is no inline terminator word.
+    """
+    if len(entry_bytes) >= 2:
+        word = struct.unpack_from('>H', entry_bytes, len(entry_bytes) - 2)[0]
+        if word == 0xFFFE:
+            return 'FFFE'
+        if word == 0xFFFF:
+            return 'FFFF'
+    return None
+
+
+def _en_entry_terminator(text: str) -> str | None:
+    if text.endswith('<$FFFE>'):
+        return 'FFFE'
+    if text.endswith('<$FFFF>'):
+        return 'FFFF'
+    return None
 
 
 def _extract_jp_ctrl_codes(entry_bytes: bytes) -> tuple[str, ...]:
@@ -94,15 +131,11 @@ def _extract_jp_ctrl_codes(entry_bytes: bytes) -> tuple[str, ...]:
         word = struct.unpack_from('>H', entry_bytes, i)[0]
         i += 2
         if word == 0xF600:
-            # F600 is followed by a name-id parameter word; capture both
-            # so a misassigned name (different parameter) also fails.
+            # Player-name token: skip parameter, do not record in signature.
             if i < len(entry_bytes) - 1:
-                param = struct.unpack_from('>H', entry_bytes, i)[0]
-                codes.append(f'<$F600:{param:04X}>')
                 i += 2
-            else:
-                codes.append('<$F600>')
-        elif _is_structural_code(word):
+            continue
+        if _is_structural_code(word):
             codes.append(f'<${word:04X}>')
     return tuple(codes)
 
@@ -115,15 +148,10 @@ def _extract_en_ctrl_codes(text: str) -> tuple[str, ...]:
     while i < len(matches):
         val = int(matches[i].group(1), 16)
         if val == 0xF600:
-            param = None
-            if i + 1 < len(matches):
-                param = int(matches[i + 1].group(1), 16)
-            if param is not None:
-                codes.append(f'<$F600:{param:04X}>')
-                i += 2
-                continue
-            codes.append('<$F600>')
-        elif _is_structural_code(val):
+            # Player-name token: skip following parameter, do not record.
+            i += 2 if i + 1 < len(matches) else 1
+            continue
+        if _is_structural_code(val):
             codes.append(f'<${val:04X}>')
         i += 1
     return tuple(codes)
@@ -160,7 +188,13 @@ def _section_diff_count(jp_section, scen_num: int) -> int:
     for i in range(overlap):
         jp_codes = _extract_jp_ctrl_codes(jp_section.entries[i])
         en_codes = _extract_en_ctrl_codes(en_entries[i])
-        if jp_codes != en_codes:
+        jp_term = _jp_entry_terminator(jp_section.entries[i])
+        en_term = _en_entry_terminator(en_entries[i])
+        inline_mismatch = jp_codes != en_codes
+        # Voice-only JP entries (jp_term is None) have no inline terminator;
+        # EN must add <$FFFE> for the parser. Exempt those from the check.
+        term_mismatch = jp_term is not None and jp_term != en_term
+        if inline_mismatch or term_mismatch:
             diffs += 1
     # Entries that exist in only one side count as mismatches too — they
     # signal a structural gap the count test will already flag.

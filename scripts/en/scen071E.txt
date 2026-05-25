@@ -1,71 +1,67 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Layla<$FFFF>
-General Emerick <$FFFF>
-Field Marshal Altemuller<$FFFF>
+General Emerick<$FFFF>
+Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
 Estool Ruins<$FFFF>
  Hmm, where should we head next?<$FFFE>
  The royal capital of Larcussia? Or, maybe the city of Laffel?<$FFFE>
- Since Lord Raymond is  working towards the  liberation of Larcussia, he will likely be moving his troops there.<$FFFE>
+ Since Lord Raymond is working towards the liberation of Larcussia, he will likely be moving his troops there.<$FFFE>
  So, why don't we make a return trip to Laffel?<$FFFE>
- But, isn't that where  the Dark Knight is?<$FFFE>
- You think the Haja no  Ken won't be enough to take him on?<$FFFE>
- The Haja no Ken does possess extraordinary  powers against demons.<$FFFE>
-But, we shouldn't expect it to have many  additional powers  against foes such as him.<$FFFE>
- Do we have the power to  defeat the Dark Knight right now?<$FFFE>
- Just because we plan on  returning to Laffel  doesn't mean we have to  fight the Dark Knight.<$FFFE>
- We might be able to get  him to leave Laffel.<$FFFE>
- Of course! If we can get that fiend to leave, we  won't have to fight him!<$FFFE>
- Even though it sounds  too simple, we just need  to drive the Dark Knight off elsewhere since we aren't strong enough to  beat him!<$FFFE>
+ But, isn't that where the Dark Knight is?<$FFFE>
+ You think the Sword of Decimation won't be enough to take him on?<$FFFE>
+ Certainly, the Sword of Decimation can be expected to have some effect even on non-demons.<$FFFE>
+But we shouldn't lean on it too heavily.<$FFFE>
+ Do we have the power to defeat the Dark Knight right now?<$FFFE>
+ Just because we plan on returning to Laffel doesn't mean we have to fight the Dark Knight.<$FFFE>
+ We might be able to get him to leave Laffel.<$FFFE>
+ Of course! If we can get that fiend to leave, we won't have to fight him!<$FFFE>
+ Easy for you to say! We don't have the strength to beat the Dark Knight, so how the heck do we drive him out!<$FFFE>
  Hmm, I wonder…<$FFFE>
- No, instead of driving  him out, we should try to lure him out.<$FFFE>
- If the Kingdom of Barral is invaded first, the Dark Knight will be  called from his station  at Laffel to assist.<$FFFE>
- Then, once we receive confirmation that the  Dark Knight has left Laffel, we can march out  and reclaim Laffel.<$FFFE>
+ No, instead of driving him out, we should try to lure him out.<$FFFE>
+ If the Kingdom of Barral is invaded first, the Dark Knight will be called from his station at Laffel to assist.<$FFFE>
+ Then, once we receive confirmation that the Dark Knight has left Laffel, we can march out and reclaim Laffel.<$FFFE>
 …<$FFFE>
  How do you respond?<$FFFE>
  I see.<$FFFE>
  I think I understand.<$FFFE>
  You're incredible.<$FFFE>
- I see, what a strategy. Such a profoundly  thought out plan.<$FFFE>
+ I see, what a strategy. Such a profoundly thought out plan.<$FFFE>
  Right, I think I understand.<$FFFE>
  You're incredible, Luna. Such an inspiration.<$FFFE>
- However, we will need  someone to keep close  watch on Laffel for this to work.<$FFFE>
- But, if we're attacking  the Kingdom of Barral, we won't have the troops to spare for watch duty…<$FFFE>
-Leave that to me. I've  got friends who can keep an eye on Laffel.<$FFFE>
- I will head to Laffel  immediately.<$FFFE>
+ However, we will need someone to keep close watch on Laffel for this to work.<$FFFE>
+ But, if we're attacking the Kingdom of Barral, we won't have the troops to spare for watch duty…<$FFFE>
+Leave that to me. I've got friends who can keep an eye on Laffel.<$FFFE>
+ I will head to Laffel immediately.<$FFFE>
  Wait, let me come too!<$FFFE>
- No, it will be easier for me alone to elude  the notice of our  enemies. I promise not to make a mistake and  get caught.<$FFFE>
- I made a promise to  Gerold, after all. I promised to restore his  home town, Laffel…<$FFFE>
-Former Larcussia Royal Castle Currently Imperial Headquarters <$FFFF>
- You must be weary, Your  Excellency.<$FFFE>
+ No, it will be easier for me alone to elude the notice of our enemies. I promise not to make a mistake and get caught.<$FFFE>
+ I made a promise to Gerold, after all. I promised to restore his home town, Laffel…<$FFFE>
+Former Larcussia Royal Castle Currently Imperial Headquarters<$FFFF>
+ You must be weary, Your Excellency.<$FFFE>
  Indeed.<$FFFD>What happened on the war front while I was gone?<$FFFE>
- The strength of Lord Raymond's Larcuss  patriots has grown.<$FFFD>At present, General Bortz is ready to make an attack…<$FFFE>
- So good old Bortz wants  to reclaim his honor, eh.<$FFFE>
- But, he doesn't have many soldiers with which to attack. General Bortz will probably be hard  pressed in the fighting.<$FFFE>
- Hmm, the magically propelled giant soldier, Galshook, has just  arrived.<$FFFD>There's no need to have Bortz squander his few troops in such fighting.<$FFFE>
+ The strength of Lord Raymond's Larcuss patriots has grown.<$FFFD>At present, General Bortz is ready to make an attack…<$FFFE>
+ So good old Bortz wants to reclaim his honor, eh.<$FFFE>
+ But, he doesn't have many soldiers with which to attack. General Bortz will probably be hard pressed in the fighting.<$FFFE>
+ Hmph, only until the giant magic-driven Galshook arrives.<$FFFD>With Bortz's tactics, he won't waste the few troops he has.<$FFFE>
  …I've always thought this city looked lovely.<$FFFE>
  Verily, it is so.<$FFFE>
- I've talked it over with  everyone, and all agree that this city is a perfect addition to the  Empire.<$FFFD>Such an abundant land  would greatly invigorate the lives of the Empire's citizens…<$FFFE>
- That's why we will go  wherever we must and endure whatever we must.<$FFFE>
+ We'll strike them down and make this city wholly the Empire's.<$FFFD>With such an abundant land, the lives of the Empire's people will flourish…<$FFFE>
+ That's why we will go wherever we must and endure whatever we must.<$FFFE>
  Indeed. Everyone's counting on our success.<$FFFE>

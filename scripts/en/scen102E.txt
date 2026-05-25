@@ -1,39 +1,35 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Riguler Commander <$FFFF>
-Velzerian Commander <$FFFF>
- Scenario <$0236> 31 "Threads  between People"<$FFFE>
- The Dark Knight shows  his true face, being the familiar one of the  thought dead Gerold. When finding out about it, <$F600><$0000>'s heart becomes enshrouded in  sadness.<$FFFE>
- Furthermore, the malicious influence of Velzeria could still be  felt in the air  surrounding Gerold. Could this all be  Velzeria's doing? And is  this the source of King  Wilder's insanity as well?<$FFFE>
- To uncover the truth the division makes its way to the Kingdom of  Barral.<$FFFE>
- <$01E9> Victory condition Defeat or persuade Freya <$01E9> Victory condition Death of <$F600><$0000><$FFFE>
- Aerial Fortress <$0236> Skies above the Riguler  Capitol <$FFFF>
- You have nowhere to  run… Your miserable  life ends here!<$FFFE>
+Emerick<$FFFF>
+Rigüler Commander<$FFFF>
+Velzerian Commander<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-31<$FFFC><$0000><$0000> Threads between People <$0000><$0000><$FFFE>
+ The Dark Knight shows his true face, being the familiar one of the thought dead Gerold. When finding out about it, <$F600><$0000>'s heart becomes enshrouded in sadness.<$FFFE>
+ Furthermore, the malicious influence of Velzeria could still be felt in the air surrounding Gerold. Could this all be Velzeria's doing? And is this the source of King Wilder's insanity as well?<$FFFE>
+ To uncover the truth the division makes its way to the Kingdom of Barral.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat or persuade Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Aerial Fortress - Skies above the Rigüler capital<$FFFF>
+ We have nowhere to retreat… Stop them here!<$FFFE>
 GYAA<$0650>…!<$FFFE>
- If we let them beat us here they will surge into the capitol. You won't get past this very spot!<$FFFE>
+ If we let them beat us here they will surge into the capital. You won't get past this very spot!<$FFFE>
  Uoohhh! Charge!<$FFFE>
  …Rest in peace.<$FFFE>
- You're getting lax Emerick. Look closely  how it is done.<$FFFE>
+ You're getting lax Emerick. Look closely how it is done.<$FFFE>
  Hmph, after all their just numbers.<$FFFE>
  However, it saddens me to think that we fight our own kind.<$FFFE>
  What nonsense. Those who dare resist me have no place in the new Empire. They are only good for dulling my blade.<$FFFE>

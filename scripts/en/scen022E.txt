@@ -1,125 +1,121 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-General Emerick <$FFFF>
-Riguler Commander <$FFFF>
-<$01E9>Conditions for Victory Defeat all enemies<$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
-Ruins of the Larcussian  Castle<$FFFF>
- Listen up!<$FFFD>The aerial fortress  hasn't arrived yet. Furthermore we are running low on supplies  and replenishment.<$FFFD>To put it plainly, the circumstances for this battle aren't ideal.<$FFFD>But let none of that bother you and head into battle with all your heart! I have high expectations for you!<$FFFE>
+Emerick<$FFFF>
+General Emerick<$FFFF>
+Rigüler Commander<$FFFF>
+Destroy all enemies<$FFFE>
+Death of <$F600><$0000><$FFFE>
+Old Larcussian Royal Castle - Before the Walls<$FFFF>
+ Listen up!<$FFFD>The aerial fortress hasn't arrived yet. Furthermore we are running low on supplies and replenishment.<$FFFD>To put it plainly, the circumstances for this battle aren't ideal.<$FFFD>But let none of that bother you and head into battle with all your heart! I have high expectations for you!<$FFFE>
  Since we are waiting for the aerial fortress, wouldn't it be advisable to delay the enemy's advance with defensive tactics?<$FFFE>
- Such tactics would require strong defensive capabilities.<$FFFD>However, our mobile  units would do rather  poorly defending.<$FFFD>They are much better suited to rush the enemy and trample them in one  charge.<$FFFE>
+ Such tactics would require strong defensive capabilities.<$FFFD>However, our mobile units would do rather poorly defending.<$FFFD>They are much better suited to rush the enemy and trample them in one charge.<$FFFE>
  Indeed. This battle formation will give us an advantage.<$FFFE>
  The enemy! The enemy has come into sight!<$FFFE>
  We're finally back!<$FFFE>
  Although it has been only one year it feels like a very long time.<$FFFE>
- You should contain that  feelings for later.<$FFFE>
- You will have to defeat me if you wish to set foot  into Larcussia.<$FFFE>
+ If you would indulge in nostalgia,<$FFFE>
+ You will have to defeat me if you wish to set foot into Larcussia.<$FFFE>
  Emerick!?<$FFFE>
- You honestly believe you could stop us with so  few troops?<$FFFE>
- It's funny that you are  telling me that one  couldn't win with small  numbers.<$FFFE>
- Don't waste our time with chatter! Let us  through, I must see my parents!<$FFFE>
- So that's why. Not long  ago Geier was chasing  after the daughter of a noble family, that  couldn't have been you?<$FFFE>
+ You honestly believe you could stop us with so few troops?<$FFFE>
+ It's funny that you are telling me that one couldn't win with small numbers.<$FFFE>
+ Don't waste our time with chatter! Let us through, I must see my parents!<$FFFE>
+ So that's why. Not long ago Geier was chasing after the daughter of a noble family, that couldn't have been you?<$FFFE>
  Anyhow, I am afraid you won't be seeing your parents any time soon, your road ends right here!!<$FFFE>
- If we let ourselves  being defeated, Larcussia's fertile lands will be lost.<$FFFD>Let's give it our all  today!<$FFFE>
+ If we let ourselves being defeated, Larcussia's fertile lands will be lost.<$FFFD>Let's give it our all today!<$FFFE>
  Is there still no report concerning Geier's arrival?<$FFFE>
  I am afraid not.<$FFFE>
  …I see.<$FFFE>
- You there, is there  still no report of the aerial fortresses's  arrival!?<$FFFE>
+ You there, is there still no report of the aerial fortresses's arrival!?<$FFFE>
  My apologies, Sir!<$FFFE>
  Curses, just how long are they planning to keep us waiting…<$FFFE>
- Very well, begin the maneuver! Cavalry and Aerial units advance to  disturb the enemy!<$FFFE>
+ Very well, begin the maneuver! Cavalry and Aerial units advance to disturb the enemy!<$FFFE>
  Understood!<$FFFE>
- Archers and Mages cover  their advance!<$FFFE>
+ Archers and Mages cover their advance!<$FFFE>
  Leave it to us.<$FFFE>
 Move out! Charge at them all at once!<$FFFE>
- <$F600><$0000>. Is it true  that you killed Bortz?<$FFFE>
+ <$F600><$0000>. Is it true that you killed Bortz?<$FFFE>
  What do you reply?<$FFFE>
 He died an honorabledeath <$FFFE>
 Say nothing <$FFFE>
 He was no match for me<$FFFE>
- His last moments where those of a true soldier. He was one of many good  men we lost in this war.<$FFFE>
- Well said.<$FFFD>I am sure he had no  regrets having you as  his opponent…<$FFFE>
+ His last moments where those of a true soldier. He was one of many good men we lost in this war.<$FFFE>
+ Well said.<$FFFD>I am sure he had no regrets having you as his opponent…<$FFFE>
 …<$FFFE>
- It was not my intention  to drag personal emotions on the field of battle, but Bortz's killer must be punished.<$FFFE>
- He was no match for me. It's laughable he was  one of the four great  generals.<$FFFE>
+ It was not my intention to drag personal emotions on the field of battle, but Bortz's killer must be punished.<$FFFE>
+ He was no match for me. It's laughable he was one of the four great generals.<$FFFE>
  Bastard… You can insult me as much as you want, but I won't let you soil Bortz's name!<$FFFD>In his name I will strike you lot down!<$FFFE>
- There's a spot with no  vegetation. It comes to your mind, that this could be a landmark of sorts.<$FFFE>
+ There's a spot with no vegetation. It comes to your mind, that this could be a landmark of sorts.<$FFFE>
  What do you do?<$FFFE>
 Dig <$FFFE>
 Pour water on the spot<$FFFE>
 Thrust your sword intothe ground<$FFFE>
  Book of white magic was obtained!<$FFFE>
- Suddenly a bush springs  forth from the ground. It almost instantly  bears one large fruit  which splits up and  gives birth to a rune  like object.<$FFFE>
- The forest rune was  obtained!<$FFFE>
- A breaking sound can be  heard from underground.<$FFFE>
- I couldn't… win…<$FFFE>
- Father…<$FFFE>
+ Suddenly a bush springs forth from the ground. It almost instantly bears one large fruit which splits up and gives birth to a rune like object.<$FFFE>
+ The forest rune was obtained!<$FFFE>
+ A breaking sound can be heard from underground.<$FFFE>
+ I still… have things I must do…<$FFFE>
+ Papa…<$FFFE>
  I am sorry everyone…<$FFFE>
- I am so sorry…<$FFFE>
- Don't spoil my good  mood!<$FFFE>
+ Sorry, this is my limit…<$FFFE>
+ Don't underestimate me!<$FFFE>
  It's hopeless…<$FFFE>
  Huh?<$FFFE>
- Not again…<$FFFE>
- Lushiris…<$FFFE>
- Gurgh… Beware…the  Jabberwock<$FFFE>
+ I'm sorry…<$FFFE>
+ Lady Lushir…is…<$FFFE>
+ Urgh…<$FFFC>The rest is up to you…<$FFFE>
  Grrr…<$FFFE>
- I could have evaded if I wanted…<$FFFE>
- Guargh! You will go no further!<$FFFE>
- Kuh, so that's it…<$FFFD>This should have given the aerial fortress  enough time to arrive…<$FFFD>Fare well, <$F600><$0000>! This will be the last  time you claim victory over me!<$FFFE>
+ How pathetic…<$FFFE>
+ Ugh! I blew it!<$FFFE>
+ Kuh, so that's it…<$FFFD>This should have given the aerial fortress enough time to arrive…<$FFFD>Fare well, <$F600><$0000>! This will be the last time you claim victory over me!<$FFFE>
  Blasted…it seems I underestimated you…<$FFFE>
- General Emerick. Leave the rest to us.<$FFFD>We will try to buy enough time for the  aerial fortress to arrive.<$FFFE>
- …That would be good, thank you. I am counting on  you!<$FFFE>
+ General Emerick. Leave the rest to us.<$FFFD>We will try to buy enough time for the aerial fortress to arrive.<$FFFE>
+ …That would be good, thank you. I am counting on you!<$FFFE>
  Yes sir!<$FFFE>
- Unconditionally we will  win.<$FFFD>Larcussia is essential for the flourishing of the Empire. Now leave these lands and return nevermore!<$FFFE>
- You're an eyesore to the Empire. You will die  with me!<$FFFE>
+ I will definitely win!<$FFFD>The Empire needs Larcussia's wealth. We cannot lose this place!<$FFFE>
+ You're an eyesore to the Empire. Die!<$FFFE>
  Guaaww!<$FFFE>
  Uuuuhh!<$FFFE>
- Not now…<$FFFE>
+ So it ends…<$FFFE>
  Lord Emerick…<$FFFE>
  Charge!<$FFFE>
  Uarrgh!<$FFFE>
  Aaargh!<$FFFE>
- Uuuh…<$FFFD>Forgive  me…general…Email…li nk…<$FFFE>
+ Uuuh…<$FFFD>Lord Emerick, forgive me…<$FFFE>
  Kuh!<$FFFE>
- This shouldn't be  possible…<$FFFD>Guhuu!<$FFFE>
- Glory for the Riguler  Empire!<$FFFE>
+ This shouldn't be possible…<$FFFD>Guhuu!<$FFFE>
+ Glory for the Rigüler Empire!<$FFFE>
  Not like this!<$FFFE>
  Why had it come to this…<$FFFE>
- You can kill my body, but my ideals live on!<$FFFE>
+ Am I to lose to the likes of you!?<$FFFE>
  Guaarr!<$FFFE>
- I…wanted…to propose…tomorrow…<$FFFE>
- To fly one more time…<$FFFE>
+ So it ends…<$FFFE>
+ No more strength to fly…<$FFFE>
  All my strength is leaving me…<$FFFE>
  Uuugh!<$FFFE>
  Chew on this!<$FFFE>
  I am powerless…<$FFFE>
  Kyaaahh!<$FFFE>
  Ouch…<$FFFE>
-I wonder if one man  could beat an army if  his mind was truly set on it…<$FFFD>…Hmph. I almost  expected this outcome.<$FFFD>Even so, Geier will have to take responsibility for this!<$FFFE>
+I wonder if one man could beat an army if his mind was truly set on it…<$FFFD>…Hmph. I almost expected this outcome.<$FFFD>Even so, Geier will have to take responsibility for this!<$FFFE>
  The game is on, <$F600><$0000>! This time you won't be so lucky!<$FFFE>
  This battle is won…<$FFFE>
  You have yet to fail us, <$F600><$0000>.<$FFFE>
  Well then, it is time to retake the castle.<$FFFE>
- Sir <$F600><$0000>… That was  pretty slow, we might be in trouble,<$FFFD>because of you slacking  off…<$FFFE>
- Understood. We will hurry onward to the  castle.<$FFFE>
- It's over… Well then, it is time to retake the castle.<$FFFE>   
+ Sir <$F600><$0000>…<$FFFC>A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
+ Understood. We will hurry onward to the castle.<$FFFE>
+ It's over… Well then, it is time to retake the castle.<$FFFE> 

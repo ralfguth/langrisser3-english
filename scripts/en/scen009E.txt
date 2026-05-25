@@ -1,116 +1,112 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Shika Tribe Commander <$FFFF>
-Defeat Do Kahni <$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
+Emerick<$FFFF>
+Shika Tribe Commander<$FFFF>
+•Defeat Do Kahni <$FFFE>
+•Death of <$F600><$0000><$FFFE>
 Southern Lushiris Gate<$FFFF>
  Shika! Shika!<$FFFE>
  Do Kahni Champion! Someone coming!<$FFFE>
- Shika! Who're you? What  you coming for?<$FFFE>
- Wow, who are those guys!?<$FFFE>
- They must be the native  people from the south  that lived there since the old days.<$FFFE>
- This is odd. Usually they don't come to this  area.<$FFFE>
- But it seems like the  southern gate has been occupied by these  people.<$FFFE>
+ Shika! Who're you? What you coming for?<$FFFE>
+ What in the world, who are those guys!?<$FFFE>
+ They must be the native people from the south that lived there since the old days.<$FFFE>
+ This is odd. Usually they don't come to this area.<$FFFE>
+ But it seems like the southern gate has been occupied by these people.<$FFFE>
  Shika! This holy place of Shika tribe! You not allowed at holy place!<$FFFE>
  This place is their holy place?<$FFFE>
- It seems as if this area is an excellent spot for hunting.<$FFFD>Long ago there even were some minor battles between Larcuss and the  native people.<$FFFD>They must have taken the opportunity to occupy  this land while the main forces are busy  defending against the  Empire and the Barral  Kingdom.<$FFFE>
+ The Shika tribe hunt in this area and revere this place as holy ground.<$FFFD>Long ago there even were some minor battles between Larcuss and the native people.<$FFFD>They must have taken the opportunity to occupy this land while the main forces are busy defending against the Empire and Barral.<$FFFE>
  Kill all intruders!<$FFFE>
- Shika!<$FFFE>
- It is a good thing that  we came to see if  everything was in order.<$FFFE>
- The person in charge of  this gate is a shrine  maiden called Sophia, or  so I've heard. I wonder  what has happened to her.<$FFFE>
- Crap! You think they  captured her?<$FFFE>
- Whatever the case is, we  won't accomplish anything by simply standing here. First of  all let us drive out those nuisances!<$FFFE>
+ Shikaaa!<$FFFE>
+ It does not seem they view our coming here with much favor.<$FFFE>
+ The person in charge of this gate is a shrine maiden called Sophia, or so I've heard. I wonder what has happened to her.<$FFFE>
+ Crap! You think they captured her?<$FFFE>
+ Whatever the case is, we won't accomplish anything by simply standing here. First of all let us drive out those nuisances!<$FFFE>
  Rise, Flame! Burn them all!<$FFFE>
  Shikaaa!<$FFFE>
  We are surrounded by flames!?<$FFFE>
  Have you lost your mind!? At this rate we will all be burnt to death!<$FFFE>
- Do Kahni is Champion! We  not fear fire!<$FFFE>
+ Do Kahni is Champion! We not fear fire!<$FFFE>
  But I am mighty scared right now!<$FFFE>
- Sir <$F600><$0000>, we should make our way to the  center.<$FFFE>
- The central structure is surrounded by a moat. If  we can make it to that area, the flames can't  threaten us any longer.<$FFFE>
- Throwing down all the  enemies should also  extinguish the fire, since it is of magical nature<$FFFE>
- Either way will take time, we will just have to rush forward and hope for the best.<$FFFE>
+ Sir <$F600><$0000>, we should make our way to the center.<$FFFE>
+ The central structure is surrounded by a moat. If we can make it to that area, the flames can't threaten us any longer.<$FFFE>
+ Or we can defeat all the enemies and put out the fire that way.<$FFFE>
+ Either way, one thing's certain. We have no time to spare.<$FFFE>
 The fire is expanding, we have to get away from it fast. Everyone, throw down any resistance with utmost haste!<$FFFE>
  Understood.<$FFFE>
-The fire is still  expanding. It could  prove dangerous to try to throw down all the  enemies.<$FFFE>
+The fire is still expanding. It could prove dangerous to try to throw down all the enemies.<$FFFE>
  Understood.<$FFFD>Everyone, break through the enemy lines and make your way to the gate! The flames won't reach us once we are there!<$FFFE>
  Shika Shika! Scary! Scary!<$FFFE>
- Powerful they are! But Do Kahni more powerful! Do Kahni never be  defeated!<$FFFE>
- The poor thing just  doesn't know when to give up…<$FFFE>
+ Powerful they are! But Do Kahni more powerful! Do Kahni never be defeated!<$FFFE>
+ The poor thing just doesn't know when to give up…<$FFFE>
  Kill all, Shika!<$FFFE>
  Shika Shika!<$FFFD>God of Shika! Arekaschi curse all invaders! Shikashika!<$FFFE>
  Shika shika!<$FFFE>
- At the spot where the  moon is being reflected  in the water, something is sparkling in the  water.<$FFFE>
+ At the spot where the moon is being reflected in the water, something is sparkling in the water.<$FFFE>
  What will you do?<$FFFE>
-Jump into the water <$FFFE>
 Reach out with your hand<$FFFE>
+Jump into the water<$FFFE>
 Throw 10P into the water <$FFFE>
- Nothing special could befound.<$FFFE>
+ Nothing special could be found.<$FFFE>
  Nothing special could be found.<$FFFE>
  There was no money…<$FFFE>
- The water fairy  appeared, asking you the  following <$01E2><$FFFD>"Did you just threw those jewels inside my lake?"<$FFFE>
+ The water fairy appeared, asking you the following <$01E2><$FFFD>"Did you just throw those jewels into my lake?"<$FFFE>
  Will you claim to have thrown the jewels?<$FFFE>
  "Is that so? In that case you shall have them back."<$FFFE>
- Brilliant Jewels were  obtained!<$FFFD>However, the jewels turn to simple stones right in front of your eyes…you liar…<$FFFE>
- "You are an honest  person, take this as a reward."<$FFFE>
- Feathered Robe of the  Goddess was obtained!<$FFFE>
+ Brilliant Jewels were obtained!<$FFFD>However, the jewels turn to simple stones right in front of your eyes…you liar…<$FFFE>
+ "You are an honest person, take this as a reward."<$FFFE>
+ Feathered Robe of the Goddess was obtained!<$FFFE>
  Blasted! The flames…<$FFFE>
- Here… would be good place to die for a knight…<$FFFE>
+ Here… would be a fitting place for a knight to die…<$FFFE>
  It's hot, so hot!<$FFFE>
  What a shock! To be defeated like this…<$FFFE>
  This certainly took me by surprise…<$FFFE>
  Oh no!<$FFFE>
- I fell into the enemies  trap…<$FFFE>
+ I fell into the enemy's trap…<$FFFE>
 The enemy got the better of me… My skill must have started to decay…<$FFFE>
- Yaaaa! I cannot fight  like this!<$FFFE>
+ Yaaaa! I cannot fight like this!<$FFFE>
  Guaa!<$FFFE>
- Oh my? My body is  growing so hot…<$FFFE>
- Oh my? My vision is  growing dark…<$FFFE>
+ Oh my? My body is growing so hot…<$FFFE>
+ Oh my? My vision is growing dark…<$FFFE>
  I…I am so…sorry…<$FFFE>
  Forgive me…<$FFFE>
  Guuuaaarrgg!<$FFFE>
  Shika Shika!<$FFFE>
  I applaud you for your splendid commanding, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>. Your  commanding was something else… and I mean  horrible…<$FFFD>This will have negative  effects for the next mission…<$FFFE>
+ Sir <$F600><$0000>. A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
  The battle is over! The fire has extinguished as well, so let's get some information concerning the shrine maiden out of that fellow.<$FFFE>
- Do Kahni is Champion of  Shika tribe! I can not be defeated!<$FFFE>
- Shika!<$FFFE>
- Shiikaa!<$FFFE>
- Shi…kaa…<$FFFE>
- Sheeeshh…<$FFFE>
- shikashikashikatsu!<$FFFE>
+ Do Kahni is Champion of Shika tribe! I can not be defeated!<$FFFE>
+ Shika…<$FFFE>
+ Shikaa!<$FFFE>
+ Shi-shika!<$FFFE>
+ Sh-shika…<$FFFE>
+ Shi…<$FFFE>
+ Shikashikashikaa!<$FFFE>
  Shishishi…<$FFFE>
- Shikashikatsu!<$FFFE>
- Shikaareyashinatsu!<$FFFE>
- Shikashikatsu!<$FFFE>
- Shi…kaaa!<$FFFE>
- Shitsushikatsu!<$FFFE>
- Sshikaaaa!<$FFFE>
- Shikashikaaaa…<$FFFE>
- Shikashi!<$FFFE>
+ Shikashika!<$FFFE>
+ Shikaareyashina!<$FFFE>
+ Shikashikaa!<$FFFE>
+ Sh, shika!<$FFFE>
+ Shshika!<$FFFE>
+ Shikaaaa!<$FFFE>
+ Shikashikaaa<$FFFE>
+ Shikashika!<$FFFE>
  Shikaaaaa!<$FFFE>
-Shiiiikaaaaa<$FFFE>
+ Shiiiikaaaaa!<$FFFE>
  Shika!<$FFFE>
- Shikshika!<$FFFE>
- Shitsuu!<$FFFE>
- Sikkaaah!<$FFFE>  
+ Shika shika!<$FFFE>
+ Shikaaah!<$FFFE>

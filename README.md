@@ -1,10 +1,11 @@
 # Langrisser III — English Translation Patch (Sega Saturn)
 
 A work-in-progress English translation patch for Langrisser III (Sega
-Saturn, Japan), built from the original Japanese disc image. All 125
-dialogue sections, menus, UI, and font are translated; the project is
-in a JP-aligned revision pass to fix legacy issues from the draft
-translation source.
+Saturn, Japan), built from the original Japanese disc image. The patch
+covers all 125 dialogue sections (using the Akari Dawn draft as a
+base), a thicker and more readable font optimised for CRT TVs, and select menu/UI overlays.
+A JP-aligned revision pass is ongoing to fix misaligned entries and
+wordy phrasing from the draft.
 
 ## Status
 
@@ -14,11 +15,26 @@ encoded.
 
 Audited entry-by-entry against the JP binary so far: Lushiris
 prologue, Scenario 01 Floating Castle, the inter-scenario cutscene,
-Scenario 02 Insane in Laffel, and Scenario 03 Laufel. Later chapters
-still inherit the original draft translation and may show occasional
-misaligned dialogue or wordy phrasing — tracked in `tests/` as XFAIL
-lists (17 sections still short of JP entry count, 54 still drifting
-on control-code parity).
+Scenario 02 Insane in Laffel, and Scenario 03 Laufel. All other
+chapters inherit the original draft translation.
+
+### Known issues
+
+The unaudited chapters carry structural problems inherited from the
+draft source: 17 scenario sections have the wrong number of dialogue
+entries (misaligned with the JP binary), and 54 sections have
+incorrect control-code parity. These issues can cause dialogue boxes
+to display the wrong text, skip lines, or behave erratically. The
+ongoing revision pass works through these chapter by chapter.
+
+**Menu / UI translation is partial.** The CWX patch translated 1,424
+of 2,518 JP UI strings (56.6%); 728 are still raw JP bytes that
+render as gibberish in-game (most notably **all 701 item
+descriptions**), and CWX dropped 366 entries entirely from tables
+that didn't fit the English tile budget (e.g. fntsys11 lost 256
+entries, fntsys4 lost 96). UI strings are currently shipped from
+CWX's binary patch, not from the script tree; replacing that pipeline
+with a script-driven UI is on the roadmap.
 
 Character and place names follow Langrisser Mobile's English
 localization where available (Dieharte, Liffany, Freya, Emerick,
@@ -38,17 +54,22 @@ Steps:
 ```bash
 git clone https://github.com/ralfguth/langrisser3-english
 cd langrisser3-english
-python3 build.py --jp-iso "/path/to/Langrisser III (Japan)"
+
+# Configure the JP disc directory once (add to ~/.bashrc to persist):
+export LANG3_JP_DIR="/path/to/Langrisser III (Japan)"
+
+python3 build.py
 ```
 
-The directory passed to `--jp-iso` should contain the `.cue` plus the
-Track 01 data `.bin` and audio track `.bin` files.
+The configured directory should contain the `.cue` plus the Track 01
+data `.bin` and audio track `.bin` files. You can also override per
+invocation with `--jp-iso "/other/path"`.
 
 Add `--chd` to also produce a single-file CHD (recommended for
 RetroArch + Beetle Saturn):
 
 ```bash
-python3 build.py --jp-iso "..." --chd
+python3 build.py --chd
 ```
 
 ## Playing
@@ -86,23 +107,10 @@ and a stale value made it reject every voice sector.
   - `d00_tools.py` — D00.DAT script container parser/encoder.
   - `font_tools.py` — bigram tile map, EN font generator.
   - `translation_audit.py` — per-scenario JP↔EN parity report.
-  - `balloon_opcodes.py` — D00 balloon-type classifier.
-  - `list_named_entries.py`, `fix_wrap.py`, `font_diff.py`,
-    `migrate_cwx_bins.py` — focused helpers.
-- `tests/` — pytest suite (currently 113 passed, 11 skipped).
+  - `font_diff.py`, `migrate_cwx_bins.py` — focused helpers.
 - `scripts/en/` — 125 EN scenario scripts plus menu/font references.
 - `patches/` — same-size menu/UI binary overlays (font, skill names,
   battle UI).
-
-## Tests
-
-```bash
-python3 -m pytest tests/
-```
-
-Coverage spans D00 round-trip, encoder coverage, font tile inventory,
-per-scenario entry-count parity with JP, and JP↔EN control-code
-parity.
 
 ## Credits
 

@@ -1,65 +1,61 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Barral Commander<$FFFF>
-Dark Knight <$FFFF>
+Dark Knight<$FFFF>
 Larcussian Commander<$FFFF>
 Viscount Raymond<$FFFF>
-General Bortz <$FFFF>
+General Bortz<$FFFF>
 Galshook<$FFFF>
 Adjutant Gates<$FFFF>
-General Geier <$FFFF>
- Scenario <$0236> 17 "Operation<$01E2> Recapture Laffel"<$FFFE>
- Having struck Roguil Fort and successfully  drawn Dark Knight away from Laffel, <$F600><$0000> and the separate force turned their course  toward Laffel, just as originally planned.<$FFFE>
- However, while the mobile division makes  way to Laffel, the war situation on Lord  Raymond's front has  taken a serious turn for the worse.<$FFFE>
- <$01E9>Condition for Victory  Defeat of Freya <$01E9>Condition for Defeat Death of <$F600><$0000><$FFFE>
-Barral Territory <$0236> Fort  Rogier<$FFFF>
- What's going on here? The fort was captured, but isn't occupied? What  the hell…<$FFFE>
- …Hurry on back.<$FFFE>
+General Geier<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-17<$FFFC> Operation<$01E2> Recapture Laffel<$0000><$FFFE>
+ Having struck Roguil Fort and successfully drawn Dark Knight away from Laffel, <$F600><$0000> and the separate force turned their course toward Laffel, just as originally planned.<$FFFE>
+ However, while the mobile division makes way to Laffel, the war situation on Lord Raymond's front has taken a serious turn for the worse.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat of Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Barral Territory - Fort Rogier<$FFFF>
+ What's going on here? The fort was captured, but isn't occupied? What the hell…<$FFFE>
+ …We turn back at once.<$FFFE>
  Sir?<$FFFE>
  Don't you see? It's a diversion.<$FFFE>
-Outskirts of Larcussia <$0236> Currently Imperial Territory <$FFFF>
+Outskirts of Larcussia - Currently Imperial Territory<$FFFF>
  Whoah! Just a little more!<$FFFE>
- Perfect! Now, victory is  ours!<$FFFE>
- Sir Kirikaze, you have  done well.<$FFFE>
- No, no, I've done little  at all.<$FFFE>
- It was more the high spirits of the soldiers. That's the real reason we've won.<$FFFE>
- W…what the! What's  that!?<$FFFE>
+ Perfect! Now, victory is ours!<$FFFE>
+ Sir Kirikaze, you have done well.<$FFFE>
+ No, no, I've done little at all.<$FFFE>
+ The soldiers' spirits are high. At this rate, it seems we will win.<$FFFE>
+ W…what the! What's that!?<$FFFE>
  What's going on!?<$FFFE>
- I didn't want to have to rely on this kind of thing, since I find the  amount of damage it lets loose excessive.<$FFFE>
+ I didn't want to rely on something like this, but we can't afford to take any more casualties.<$FFFE>
  Don't think too badly of me.<$FFFE>
  What is that strange contraption?<$FFFE>
- I don't know. I've never  heard of anything that resembles that!<$FFFE>
- Go for it, magically propelled giant soldier  Galshook! Show them the magical might of the ancients!<$FFFE>
+ I don't know. A monster like that... I've never seen or heard of such a thing!<$FFFE>
+ Go, demonic giant Galshook! Show them the magical might of the ancients!<$FFFE>
  Target acquisition…complete d. Powering up generator.<$FFFE>
- …Magic power  replenished. Ready to  fire magic cannon.<$FFFE>
+ …Magic power replenished. Ready to fire demonic cannon.<$FFFE>
  Attaaaaaack!<$FFFE>
  Uwaa!<$FFFE>
  What the hell was that!?<$FFFE>
  This is very bad! All troops, retreat!<$FFFE>
  Too late for that!<$FFFE>
-Airship Fleet <$0236> Deck of the Flagship<$FFFF>
- General Geier. It seems  the Galshook made it in  time.<$FFFE>
- Hmmph, of course it did. Because we had the airship fleet, I knew we would be able to transport even that  giant monster in two days.<$FFFE>
- And you were right as  always.<$FFFE>
+Airship Fleet - Deck of the Flagship<$FFFF>
+ General Geier. It seems the Galshook made it in time.<$FFFE>
+ Hmmph, of course it did. Because we had the airship fleet, I knew we would be able to transport even that giant monster in two days.<$FFFE>
+ And you were right as always.<$FFFE>
  Now, let's begin our own attack.<$FFFE>
  Yes, sir!<$FFFE> 

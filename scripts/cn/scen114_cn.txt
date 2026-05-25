@@ -1,0 +1,26 @@
+Langrisser III CN dump — scen114
+# 22 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+ <$FFFC>   SCENARIO-？1<$FFFC>  『真说・[?0331][?0332][?0425][?0538]盖[?2027]店』<$FFFE>
+隐[?0226]自己方向白[?1556]的[?0726][?2107]，<$FFFC>并且坚持己见的<$F600 0000>，[?2013]同一行人前往特兰德男爵的公馆。<$FFFE>
+但是，不知不觉<$FFFC>却来到了[?2249]生的[?0331][?0332]深处，<$FFFC>并[?0704]失在里头……。<$FFFE>
+※胜利条件<$FFFC>・[?0660][?0879]<$FFFC>※败北条件<$FFFC>・PC的任何一人都不能死<$FFFC>・20回合以内不点菜<$FFFE>

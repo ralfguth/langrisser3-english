@@ -1,38 +1,34 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-J ler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller <$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-King Sieghart <$FFFF>
- Scenario <$0236> 29 "Bozel, Master of the Demon  Blade"<$FFFE>
- In the deepest chamber of Castle Velzeria, Bozel sat waiting  patiently for his prey to arrive. "I wonder what kind of human Lucilis has chosen. I look forward to  seeing…"<$FFFE>
- Now, the fight for the world of humans shall  begin in earnest…<$FFFE>
- <$01E9>Condition for Victory  Defeat of Bozel  <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Varna's sister, Anna<$FFFE>
-Velzeria Castle <$0236> Before  the Castle Gates<$FFFF>
- So Bozel awaits up ahead…<$FFFE>
+Emerick<$FFFF>
+King Sieghart<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-29<$FFFC>Böser, Master of the Demon Blade<$FFFE>
+ In the deepest chamber of Castle Velzeria, Böser sat waiting patiently for his prey to arrive. "I wonder what kind of human Lushiris has chosen. I look forward to seeing…"<$FFFE>
+ Now, the fight for the world of humans shall begin in earnest…<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat of Böser<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Varna's sister, Anna<$FFFE>
+Velzeria Castle - Before the Castle Gates<$FFFF>
+ So Böser awaits up ahead…<$FFFE>
  This will be the final showdown with the Lord of evil.<$FFFE>
  If we lose here, the entire world of humans is sure to fall to the demons.<$FFFE>
- Oh please. Do excuse me  for not indulging in such poignant pessimism!<$FFFE>
- Father. We've finally  arrived here. Please  lend us your power!<$FFFE>
- Have a little faith… In your own power… In  your friends' power…<$FFFE>
- Let's go, everyone. It's  time to take down Bozel!<$FFFE>
+ Oh please. Do excuse me for not indulging in such poignant pessimism!<$FFFE>
+ Father. We've finally arrived here. Please lend us your power!<$FFFE>
+ Have a little faith… In your own power… In your friends' power…<$FFFE>
+ Let's go, everyone. It's time to take down Böser!<$FFFE>
  Excuse me… <$F600><$0000> san…<$FFFE>
  ? What's wrong, Liffany?<$FFFE>
  With the weight of humanity's future on our shoulders, I…<$FFFE>
@@ -41,31 +37,31 @@ Velzeria Castle <$0236> Before  the Castle Gates<$FFFF>
  It's a serious matter.<$FFFE>
  Cheer up!<$FFFE>
  This isn't like you!<$FFFE>
- Yes. It's a heavy  responsibility…<$FFFE>
+ Yes. It's a heavy responsibility…<$FFFE>
  Yeah, I feel really overwhelmed by all the pressure to succeed…<$FFFE>
-You're not the only one  worried, though. Everyone's ill at ease.<$FFFD>But, we have no other  choice. We've got to do  this.<$FFFE>
+You're not the only one worried, though. Everyone's ill at ease.<$FFFD>But, we have no other choice. We've got to do this.<$FFFE>
  You're right. I…I will do my best!<$FFFE>
  You don't need to look at this so seriously. Cheer up.<$FFFE>
- Oh my, you're not  worried at all?<$FFFE>
- There's no reason to get  all worked up over this. If we mess up, we will worry about it when it happens.<$FFFE>
+ Oh my, you're not worried at all?<$FFFE>
+ There's no reason to get all worked up over this. If we mess up, we will worry about it when it happens.<$FFFE>
  I…I see…<$FFFE>
  So, let's go.<$FFFE>
 …<$FFFE>
  What's the matter, Liffany? This isn't like you at all.<$FFFE>
- Well! What are you  trying to say?<$FFFD>For sure, I…<$FFFE>
+ My! What is that supposed to mean?<$FFFD>It's as if I…<$FFFE>
  What do you reply?<$FFFE>
  I was too flippant.<$FFFE>
  Sorry, sorry.<$FFFE>
  The truth.<$FFFE>
  Forgive me, I was too flippant. I am also worried about it…<$FFFE>
 …<$FFFE>
- So doubts have started to plague you, eh.<$FFFE>
+ So that was your way of showing concern, wasn't it.<$FFFE>
  Liffany…<$FFFE>
- Oh my. Where's that  confident voice you  always use to calm our doubts?<$FFFD>Come on, we will win for sure, right?<$FFFE>
+ Phew. Shouting that out cleared my head.<$FFFD>Let's definitely win, alright?<$FFFE>
  Right.<$FFFE>
- Sorry, sorry. I didn't  mean it, I just wanted to see you smile.<$FFFD>I don't know if you've realized it yet, but your smile is what dispels my doubts and  sets me at ease.<$FFFE>
+ Sorry, sorry. I didn't mean it, I just wanted to see you smile.<$FFFD>I don't know if you've realized it yet, but your smile is what dispels my doubts and sets me at ease.<$FFFE>
  Y…you can't mean…<$FFFE>
  Don't worry. We will win for sure.<$FFFE>
  <$064F>.right…<$FFFE>
- Haven't I always told  the plain truth before?<$FFFE>
+ Haven't I always told the plain truth before?<$FFFE>
  H…how insensitive!<$FFFE> 

@@ -1,68 +1,64 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Sage Fauvel <$FFFF>
+Emerick<$FFFF>
+Great Sage Fauvel<$FFFF>
 Do Kahni<$FFFF>
- Scenario <$0236> 34 "The Shape  of a Heart"<$FFFE>
- As the chosen of the Demon Sword Alhazard, Altemuller ascended to be the sovereign ruler of the Demon Tribe. Sitting on the throne of the Riguler Empire, he  patiently awaits the arrival of <$F600><$0000> and his companions.<$FFFE>
- The upcoming battle  would be the last chance to prevent Altemuller  from becoming Bozel  irrevocable. Now, only  the Holy Sword Langrisser carries onward the flame of  hope, as it moves toward  the Imperial Capitol.<$FFFE>
- <$01E9>Conditions of Victory  Defeat of Altemuller <$01E9>Conditions of Defeat Death of <$F600><$0000><$FFFE>
-Riguler Royal Castle<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-34<$FFFC><$0000><$0000><$0000>The Shape of a Heart<$0000><$0000><$0000><$FFFE>
+ As the chosen of the Demon Sword Alhazard, Altemüller ascended to be the sovereign ruler of the Demon Tribe. Sitting on the throne of the Rigüler Empire, he patiently awaits the arrival of the young knight and his companions.<$FFFE>
+ At last, to defeat Altemüller who had become Böser, the party set out for the Rigüler Imperial Castle bearing the Holy Sword Langrisser.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat Altemüller<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Rigüler Royal Castle<$FFFF>
  …Hmm?<$FFFE>
- What is the matter lord  Bozel?<$FFFE>
- Rag's life force has  diminished completely. It seems that he is dead for good.<$FFFE>
+ What is the matter lord Böser?<$FFFE>
+ Rag's life force has diminished completely. It seems that he is dead for good.<$FFFE>
  After all he was all bark and no bite.<$FFFE>
- Well then, Lord Bozel. What will be our next  step?<$FFFE>
+ Well then, Lord Böser. What will be our next step?<$FFFE>
  We needn't trouble ourselves with plans for an attack. They will come here without a doubt.<$FFFE>
- With Alhazard in my  hands, there is nothing  that could possibly  threaten me. And I have  you by my side too, Varna.<$FFFE>
- Alte…lord Bozel. My  devotion to you knows no limit, I will follow you to all ends.<$FFFE>
+ With Alhazard in my hands, there is nothing that could possibly threaten me. And I have you by my side too, Varna.<$FFFE>
+ Alte…lord Böser. My devotion to you knows no limit, I will follow you to all ends.<$FFFE>
  Gladly would I give my very life, if it was for you…<$FFFE>
-In front of the Riguler  Castle Walls<$FFFF>
+In front of the Rigüler Castle Walls<$FFFF>
  At last, we have made it here.<$FFFE>
- It was only possible with the Langrisser and  everyone clinging  together…<$FFFE>
+ It was only possible with the Langrisser and everyone clinging together…<$FFFE>
  It seems like an eternity since the floating castle fell.<$FFFE>
- When the Empire suddenly invaded Laffel, for one moment I thought all hope was lost.<$FFFE>
- Now now, Pierre. I am just glad that everyone  was alright in the end.<$FFFE>
- Before I met you I thought I would never  use a blade again.<$FFFD>I was overwhelmed by regret, doing nothing while slowly decaying  from the inside, looking back I am ashamed of myself.<$FFFD>You however cleared away my doubts and gave me a new purpose, for that  you have my sincerest  gratitude.<$FFFE>
- Also, when father was in  danger it was thanks to  everyone's help that he  was saved…<$FFFE>
+ When the Empire suddenly invaded Larcussia, for one moment I thought all hope was lost.<$FFFE>
+ Oh come on, Pierre.<$FFFC>You used to say you'd be fine no matter what.<$FFFE>
+ Before I met you I thought I would never use a blade again.<$FFFD>I was overwhelmed by regret, doing nothing while slowly decaying from the inside, looking back I am ashamed of myself.<$FFFD>You however cleared away my doubts and gave me a new purpose, for that you have my sincerest gratitude.<$FFFE>
+ Also, when father was in danger it was thanks to everyone's help that he was saved…<$FFFE>
  That's true.<$FFFE>
  Gurur…Jug…Jugler…<$FFFE>
- Damn right, the sole  reason for thinking of others as our enemies <$FFFD>is that we don't understand each others perspective, don't you think?<$FFFE>
+ You really never know how the world turns out.<$FFFD>We used to be enemies ourselves, didn't we?<$FFFE>
  Exactly.<$FFFE>
- Whooah hold it there!<$FFFD>Are you telling me that  once we restore peace I can't act troublesome  and violently any more, that's my profession as  a thief!<$FFFE>
- So you're planning to  continue to be a thief afterwards?<$FFFE>
+ Whooah hold it there!<$FFFD>Are you telling me that once we restore peace I can't act troublesome and violently any more, that's my profession as a thief!<$FFFE>
+ So you're planning to continue to be a thief afterwards?<$FFFE>
  Well…<$FFFD>Maybe Elthlead has use for someone of my trade. I wonder if there will be need for a spy.<$FFFE>
- Anyhow, this will be the  decisive battle for the  Demon Sword Alhazard.<$FFFD>Whoever can claim it will have the power to shape the world. Once  this task is complete I will return to my home country.<$FFFE>
+ Well then, at last comes the decisive battle with Alhazard, the symbol of the demon tribe.<$FFFD>I've been in all your care this whole time. Once this matter is settled, I shall return to my homeland.<$FFFE>
  Kirikaze…<$FFFE>
- What soothing thought. Once this matter is  concluded, I am sure father will rejoice with us from above.<$FFFE>
- Well then, shall we? Nothing less than the  future of mankind  depends on this next battle.<$FFFE>
+ What soothing thought. Once this matter is concluded, I am sure father will rejoice with us from above.<$FFFE>
+ Well then, shall we? Nothing less than the future of mankind depends on this next battle.<$FFFE>
  True enough. …King Lewin, please give the word.<$FFFE>
- Ehm…that… With  Langrisser on our side we will not falter. Everyone, if we give it our all, we are bound to emerge victorious!<$FFFE>
+ Ehm…that… With Langrisser on our side we will not falter. Everyone, if we give it our all, we are bound to emerge victorious!<$FFFE>
  Shiikaaa!<$FFFE>
 Move out everyone!<$FFFE>
  Yeahh!<$FFFE>
 …<$FFFE>
  Something on your mind, Tiaris?<$FFFE>
- We just have to win  this!<$FFFE>
+ We just have to win this!<$FFFE>
  Of course!<$FFFE>
 …<$FFFE>
  Something on your mind, Liffany?<$FFFE>
@@ -70,14 +66,14 @@ Move out everyone!<$FFFE>
  Of course!<$FFFE>
 …<$FFFE>
  Something on your mind, Luna?<$FFFE>
- Just make extra sure we  win this one!<$FFFE>
+ Just make extra sure we win this one!<$FFFE>
  Leave it to me!<$FFFE>
 …<$FFFE>
  Something on your mind, Sophia?<$FFFE>
- I am sure the goddess  will grant us victory.<$FFFE>
+ I am sure the goddess will grant us victory.<$FFFE>
  Of course!<$FFFE>
 …<$FFFE>
  Something on your mind, Freya?<$FFFE>
- Just don't forget what you promised!<$FFFE>
+ We have to win this, no matter what!<$FFFE>
  Of course!<$FFFE>
- …Father. Please watch  over us.<$FFFB>We will win for sure!<$FFFE>
+ …Father. Please watch over us.<$FFFB>We will win for sure!<$FFFE>

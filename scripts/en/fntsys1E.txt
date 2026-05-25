@@ -75,7 +75,7 @@ Status<$FFFF>
 Equipping<$FFFF>
 Confused and unable to give orders.<$FFFF>
 Sound asleep and unable to give orders.<$FFFF>
-Enemy <$FFFF>
+Enemy<$FFFF>
 Shop<$FFFF>
 Silenced<$FFFF>
 Command summoned creature<$FFFF>
@@ -127,7 +127,7 @@ Increase<$FFFF>
 Decrease<$FFFF>
 Enemy Unit<$FFFF>
 NPC Unit<$FFFF>
-NPC <$FFFF>
+NPC<$FFFF>
 Already equipped.<$FFFF>
 Continue without saving?<$FFFF>
 Perspective<$FFFF>
@@ -136,10 +136,10 @@ Conditions for Victory<$FFFF>
 Conditions for Defeat<$FFFF>
 (AT+20%, DF-40%)<$FFFF>
 Suicidal explosion!<$FFFF>
- <$FFFF>
- <$FFFF>
- <$FFFF>
- <$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
 will be the new class.<$FFFF>
 Reselect items and troops<$FFFF>
 Attribute Growth<$FFFF>
@@ -151,7 +151,7 @@ Movement and actions cancelled<$FFFF>
 Move and cancel Defense Mode?<$FFFF>
 may be selected<$FFFF>
 map arrangement<$FFFF>
-Dieharte   <$FFFF>
+Diehärte<$FFFF>
 Your name is?<$FFFF>
 Finished?<$FFFF>
 Enemies<$FFFF>
@@ -190,7 +190,7 @@ STR<$FFFF>
 INT<$FFFF>
 LV<$FFFF>
 Real<$FFFF>
- <$FFFF>
+<$FFFF>
 A+<$FFFF>
 D+<$FFFF>
 Troop Recovery Bonus<$FFFF>
@@ -230,7 +230,7 @@ No attack<$FFFF>
 Select Active Skill to use<$FFFF>
 Cancel the spell?<$FFFF>
 Troop Deployment<$FFFF>
- was destroyed!<$FFFF>
+was destroyed!<$FFFF>
 Item may be used!<$FFFF>
 Cancel use of item?<$FFFF>
 Final Level<$FFFF>

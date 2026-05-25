@@ -1,0 +1,26 @@
+Langrisser III CN dump — scen058
+# 22 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+ <$FFFC>   SCENARIO-09<$FFFC>    『萨满祭司的攻击』<$FFFE>
+南门的负责人[?0762][?0763]亚被西卡族给[?1950]持去了。并且，据说将被作为仪式的供品。<$FFFE>
+这样下去的话，不用说恢复大门了，就连她的性命也危在[?1183][?2128]。<$FFFC>一行人，[?0110]着西卡族的根据地进发，[?1471]入了人迹[?2129]至的山中。<$FFFE>
+※胜利条件<$FFFC> ・全灭敌人<$FFFC>※败北条件<$FFFC> ・<$F600 0000>死亡<$FFFE>

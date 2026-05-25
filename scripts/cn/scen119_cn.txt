@@ -1,0 +1,27 @@
+Langrisser III CN dump — scen119
+# 23 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+ <$FFFC>   SCENARIO-？3<$FFFC>   『男人的美[?0169]和女王陛下』<$FFFE>
+虽然决定前往[?1706]尔[?1118]利亚城<$FFFC>但是，在和[?0763]拉[?0786]娅的战斗中，<$FFFC>偶然得到了一个奇怪的[?1935][?1936]，<$FFFC>但之后，那[?1935][?1936]却一飞而去，<$FFFC><$F600 0000>对它的下落很感兴趣。<$FFFE>
+因此，他[?1430]不在意地把同伴们带往[?1935][?1936]飞去的方向。<$FFFE>
+随后，在那里，发现了一个风格奇特的神殿……。<$FFFE>
+※胜利条件<$FFFC>・[?0660][?0879]<$FFFC>※败北条件<$FFFC>・<$F600 0000>死亡<$FFFC>・PC的女性死亡<$FFFE>

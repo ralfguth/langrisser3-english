@@ -1,26 +1,22 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario <$0236> 36 "The Birth  of a Legend"<$FFFE>
- After the division strikes down Demon General Geier and begins descending into the  deeper parts of Castle Velzeria, the companions  are welcomed by an eerie light bearing ill omen undoubtedly. From the  inner part Paul's voice can be heard, offering  up ceremonial chants to  the God of Chaos.<$FFFE>
- Should the ceremony be completed, not only  would the Demonic God  terrorize the world  again but also would her soul fall into eternal darkness. And so the  battle for <$F600><$0000>'s beloved and the fate of  all mankind unfolds.<$FFFE>
- <$01E9>Condition for Victory  Defeat Bozel within 17 turns <$01E9> Conditions for  Defeat Death of  <$F600><$0000> Death of the  Hostage <$FFFE> 
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-36<$FFFC><$0000><$0000> The Birth of a Legend <$0000><$0000><$FFFE>
+ After the division strikes down Demon General Geier and begins descending into the deeper parts of Castle Velzeria, the companions are welcomed by an eerie light bearing ill omen undoubtedly. From the inner part Paul's voice can be heard, offering up ceremonial chants to the God of Chaos.<$FFFE>
+ Unless she is rescued before<$FFFC>the ceremony ends, the Chaos<$FFFC>god will be resurrected.<$FFFC>And her soul will fall into<$FFFC>eternal darkness with no salvation.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat Böser within 17 turns<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of the Hostage<$FFFE> 

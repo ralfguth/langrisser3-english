@@ -1,0 +1,5 @@
+Langrisser III CN dump — PROG_7
+# JP size: 134648 CN size: 134648 (same)
+# diff regions: 6; with text: 0; entries: 0
+# tiles: 0; unmapped: 0 (0.0% mapped)
+

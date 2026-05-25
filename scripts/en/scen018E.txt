@@ -1,115 +1,111 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Princess Freya <$FFFF>
+Emerick<$FFFF>
+Princess Freya<$FFFF>
 Barral Soldier<$FFFF>
 Barral Commander<$FFFF>
-Defeat Freya <$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
-Laffel <$0236> Currently occupied by the Barral Kingdom<$FFFF>
- <$01E9>Sigh<$01E9>… It doesn't  bode well, for the Dark  Knight being called off  like that.<$FFFE>
- The ones attempting to capture Rogier must be pretty bold. That  fortress alone is enough to withstand an army.<$FFFE>
- I bet the Dark Knight  has sent them all off to the Netherworld by now.<$FFFE>
- I am well aware of what  the Dark Knight is capable of. But growing overly confident could easily be ones downfall, don't you think?<$FFFE>
- Please excuse my rudeness! I was just  thinking out loud.<$FFFE>
- …It's alright. Speaking ones mind is  something more people  should be capable of.<$FFFE>
+•Defeat Freya<$FFFE>
+•Death of <$F600><$0000><$FFFE>
+Laffel - Currently occupied by the Barral Kingdom<$FFFF>
+ Phew…<$FFFC>It's calmer when the Dark Knight isn't around.<$FFFE>
+ What a foolish bunch they were. Charging Rogier Fortress like that.<$FFFE>
+ I bet the Dark Knight has sent them all off to the Netherworld by now.<$FFFE>
+ I acknowledge the Dark Knight's strength. But don't you find it shameful that we rely on a man of unknown origins?<$FFFE>
+ Please excuse my rudeness! That was out of line.<$FFFE>
+ …It's fine. I just dislike how he doesn't have a shred of humanity.<$FFFE>
  The enemy! The enemy has come!<$FFFE>
 !?<$FFFE>
- At long last we are  back…<$FFFE>
+ At long last we are back…<$FFFE>
  Yeah. We have returned.<$FFFE>
- Now I will prove worthy  of the oath I made to  Gerold!<$FFFE>
- Breaking through the gates will be no easy  task. But we can't turn back after coming so far.<$FFFE>
- Yo! What's all this racket all about!?<$FFFE>
+ Now I will prove worthy of the oath I made to Gerold!<$FFFE>
+ Breaking through the gates will be no easy task. But we can't turn back after coming so far.<$FFFE>
+ Yo! I'll fight too!<$FFFE>
  Wolf!?<$FFFE>
- You know, I am drawn to wherever the action is. Besides I couldn't tolerate any battle in my town that I am not  involved in <$FFFE>
- Rejoice, the legendary Silver Wolf is here to save the day! Just give me some orders.<$FFFE>
- Have you come to be  atone for your crimes? Traitor, Dios…<$FFFE>
- Now that's a good one. Even just thinking about going back to Barral as  it is now makes me sick. I am ashamed of what has become of you.<$FFFD>I do what I do for my  sake as well as the king I served. But this king has gone completely mad  and now treats human lives as if it was nothing!<$FFFE>
- That's enough insulting  my father! You will  return if you want to or not!<$FFFE>
- The western gate is  under attack…<$FFFD>1st rear guard unit! Reinforce the western  gate!<$FFFE>
- The enemy is making its  move on the northwest  gate. Attention!<$FFFE>
- They will come through the  southwest gate…<$FFFD>1st rear guard unit! Support the southwest  gate!<$FFFE>
- They are trying to breach the eastern gate…<$FFFD>2nd rear guard unit! Reinforce the eastern  gate!<$FFFE>
+ Leaving things to others doesn't suit me.<$FFFC>We've got to defend our own town!<$FFFE>
+ I'll follow your orders too! Give me lots of commands!<$FFFE>
+ Have you come here to be killed? Traitor, Dios…<$FFFE>
+ You can't be serious. I'm furious with what Barral has become.<$FFFC>That attitude, looking down on people like worms.<$FFFD>Your father has gone mad.<$FFFC>This stomach of mine won't settle until I take a swing at that lunatic king!<$FFFE>
+ How dare you insult my father! I won't let you leave here alive!<$FFFE>
+ The western gate is under attack…<$FFFD>1st rear guard unit! Reinforce the western gate!<$FFFE>
+ The enemy is making its move on the northwest gate. Attention!<$FFFE>
+ They will come through the southwest gate…<$FFFD>1st rear guard unit! Support the southwest gate!<$FFFE>
+ They are trying to breach the eastern gate…<$FFFD>2nd rear guard unit! Reinforce the eastern gate!<$FFFE>
  The enemy assaults the northern gate! Attention!<$FFFE>
  The southern gate is under attack…<$FFFD>2nd rear guard unit! Reinforce the southern gate!<$FFFE>
- … So once again I have  to fight <$F600><$0000>…<$FFFE>
- All troops prepare for battle! Defend the town until the Dark Knight  returns with our main  force!<$FFFE>
- This battle is already decided, Freya. I don't want any more harm to  come to you.<$FFFD>Please stand down!<$FFFE>
+ … So once again I have to fight <$F600><$0000>…<$FFFE>
+ All troops prepare for battle! Defend the town until the Dark Knight returns with our main force!<$FFFE>
+ This battle is already decided, Freya. I don't want any more harm to come to you.<$FFFD>Please stand down!<$FFFE>
 I am afraid that isn't possible! I've got my own position to live up to!<$FFFE>
  What do you reply?<$FFFE>
 Throw it away <$FFFE>
 I don't understand<$FFFE>
 I know something is troubling you <$FFFE>
- If that position binds you and puts you into  harms way you should give up on it!<$FFFD>Before you are the Princess of Barral you are an independent woman!<$FFFE>
- You don't understand me  at all!<$FFFD>I have no choice but to  obey father!<$FFFE>
- King Wilder has gone mad. Doing his biding  any longer is madness by itself!<$FFFE>
- It's true that father  has changed. But his change is also my  responsibility!<$FFFD>That's why I will never  abandon him!<$FFFE>
+ If that position binds you and puts you into harms way you should give up on it!<$FFFD>Before you are the Princess of Barral you are an independent woman!<$FFFE>
+ You don't understand me at all!<$FFFD>I have no choice but to obey father!<$FFFE>
+ King Wilder has gone mad. Doing his biding any longer is madness by itself!<$FFFE>
+ It's true that father has changed. But his change is also my responsibility!<$FFFD>That's why I will never abandon him!<$FFFE>
  Freya…<$FFFE>
  I don't understand you! Why are you being so repellent even though I spoke gently?<$FFFE>
- That's because I am not  the kind of person that  gives up on her own  believes in the wink of  an eye.<$FFFD>But you're right <$F600><$0000>. You really  don't understand me at all!<$FFFE>
- Just what is troubling you?<$FFFD>We always had a good relationship, right Freya? So if something is worrying you, just  tell me!<$FFFE>
+ That's because I am not the kind of person that gives up on her own believes in the wink of an eye.<$FFFD>But you're right <$F600><$0000>. You really don't understand me at all!<$FFFE>
+ Just what is troubling you?<$FFFD>We always had a good relationship, right Freya? So if something is worrying you, just tell me!<$FFFE>
  Thank you, <$F600><$0000>…<$FFFD>But it's complicated. Right now I don't know how to feel about all of this.<$FFFE>
- You are worried about  King Wilder, are you not?<$FFFD>You are the person who should know best just  how much he changed as of late.<$FFFE>
- Father's current change  is my responsibility.<$FFFD>And that's why I can't abandon him. That's why  I have to stay at  fathers side no matter what.<$FFFE>
+ You are worried about King Wilder, are you not?<$FFFD>You are the person who should know best just how much he changed as of late.<$FFFE>
+ Father's current change is my responsibility.<$FFFD>And that's why I can't abandon him. That's why I have to stay at fathers side no matter what.<$FFFE>
  Freya…<$FFFE>
  I won't tell you anything!<$FFFE>
  I won't tell you anything!<$FFFE>
- A little girl opens the  door for you.<$FFFE>
- How do you speak with  her?<$FFFE>
-Joking<$FFFE>
-Strict<$FFFE>
-Gentle<$FFFE>
+ A little girl opens the door for you.<$FFFE>
+ How do you speak with her?<$FFFE>
+What a cute child<$FFFE>
+She's hiding in the back<$FFFE>
+Give her candy<$FFFE>
  The girl smiled and went back to the inner part of the building.<$FFFE>
- The girl was surprised and went back to the inner part of the  building.<$FFFE>
+ The girl was surprised and went back to the inner part of the building.<$FFFE>
  The girl handed a beautiful ring to you.<$FFFE>
  Ring of the Stone Spirit was obtained!<$FFFE>
- A beautiful woman opens  the door for you.<$FFFE>
- How do you speak with  her?<$FFFE>
+ A beautiful woman opens the door for you.<$FFFE>
+ How do you speak with her?<$FFFE>
 Promise to liberate Laffel<$FFFE>
 Glance flirtatiously<$FFFE>
 Propose marriage<$FFFE>
- The woman smiles at you  and hands over a beautiful piece of fabric.<$FFFE>
- Veil of Light was  obtained!<$FFFE>
- The woman yawns and  closes the door.<$FFFE>
- The woman laughs, shakes  her head, shuts the door  and you feel like an idiot.<$FFFE>
- It looks like something  was buried here not long ago.<$FFFE>
- Do you want to dig a whole?<$FFFE>
- While digging you come across a strongbox, containing a skilfully crafted accessory.<$FFFE>
- Star Coin was obtained!<$FFFE>
- Don't tell me… You would let me die like  this…<$FFFE>
+ The woman smiles at you and hands over a beautiful piece of fabric.<$FFFE>
+ Veil of Light was obtained!<$FFFE>
+ The woman smiles coldly and disappears into the back of the house.<$FFFE>
+ The woman is stunned for a moment, then disappears into the back of the house.<$FFFE>
+ It looks like something was buried here not long ago.<$FFFE>
+ Do you want to dig a hole?<$FFFE>
+ A beautifully sparkling earring was buried there!<$FFFE>
+ Star Earring was obtained!<$FFFE>
+ I still… have things I must do…<$FFFE>
  Papa…<$FFFE>
  I am sorry, everyone…<$FFFE>
- I reached my limit…<$FFFE>
- It's hopeless…<$FFFE>
- Huh?<$FFFE>
- Excuse me…<$FFFE>
- Lushiris…where are you  now…<$FFFE>
- Guargh… Please carry  on…<$FFFE>
+ Sorry, this is my limit…<$FFFE>
+ Sorry, it's no good…<$FFFE>
+ Oh?<$FFFE>
+ I'm sorry…<$FFFE>
+ Lady Lushir…is…<$FFFE>
+ Guargh… Please carry on…<$FFFE>
  Urgh…<$FFFE>
- How sad…<$FFFE>
- Crap! Why is there a gap at the place my heart  should be…<$FFFE>
- Cheer up, Wolf. We  depend on you.<$FFFE>
- I will finish this. I will show my friends what I am capable of…<$FFFE>
- If I am defeated Barral  will…<$FFFE>
+ How pathetic…<$FFFE>
+ Damn! And I came out trying to look cool…<$FFFE>
+ Don't worry about it, Wolf.<$FFFC>Leave the rest to us.<$FFFE>
+ Sorry. Looks like I showed you an unsightly side of me…<$FFFE>
+ If I am defeated Barral will…<$FFFE>
  Freya…<$FFFE>
  What do you say?<$FFFE>
  We have won.<$FFFE>
@@ -118,85 +114,85 @@ Wasted efforts<$FFFE>
  We have won.<$FFFE>
  Surely I…<$FFFE>
  Your efforts are wasted.<$FFFE>
- You think this battle  was in vain? I give up on hoping you will ever  understand how I feel.<$FFFE>
- Why are you doing  this…?<$FFFE>
- It's something only I can understand… If I wouldn't, Father  would…<$FFFE>
+ You think this battle was in vain? I give up on hoping you will ever understand how I feel.<$FFFE>
+ Why are you doing this…?<$FFFE>
+ It's something only I can understand… If I wouldn't, Father would…<$FFFE>
  Freya…<$FFFE>
  This battle seems lost.<$FFFE>
  We can't take any more losses…dammit! All troops retreat!<$FFFE>
  Freya!<$FFFE>
  …There she goes…<$FFFE>
  You led us magnificently during this battle, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>… I am worried about your mental health…<$FFFD>Please contact a doctor  as soon as possible…<$FFFE>
-<$F702>
-<$F703>
- <$F702><$F703>Leave it to me! There's nothing we can't handle  with our skills combined skills!<$FFFE>
-<$F702>
-<$F703>
- <$F702><$F703>Leave it to me! There's nothing we can't handle  with our skills combined skills!<$FFFE>
- Hey hey! I just thought  about joining the fun, but it seems you already cleared the plate  yourself, no?<$FFFE>
- Yeah. I guess our strategy worked out  pretty well.<$FFFE>
- I see! Anyway I think I owe you one.<$FFFD>It's settled! From now  on I will fight  alongside you!<$FFFD>Laffel is free once  again.<$FFFE>
- …The town of Laffel. I finally fulfilled my promise to Gerold. Well  then, release the townspeople!<$FFFE>
+ Sir <$F600><$0000>…<$FFFC>A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+ Leave it to me! I'll be of use!<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+ Leave it to me! I'll be of use!<$FFFE>
+  Hey hey! I was just thinking about joining the fight… but you've already beaten the Barral army?<$FFFE>
+ Yeah. With our strength, it was easy.<$FFFE>
+ I see! Anyway I think I owe you one.<$FFFD>It's settled! From now on I will fight alongside you!<$FFFD>Taking back Larcuss wouldn't be so bad either.<$FFFE>
+ …The town of Laffel. I finally fulfilled my promise to Gerold. Well then, release the townspeople!<$FFFE>
  Prepare yourself, Freya!<$FFFE>
- Mind yourself!<$FFFE>
- For all those who losttheir lives today, Iwill carry on!<$FFFE>
- I won't give in to deathjust yet!<$FFFE>
+ Same to you!<$FFFE>
+ For the sake of my fallen soldiers, I won't lose!<$FFFE>
+ Sorry, but you'll have to die!<$FFFE>
  <$F600><$0000>… It may looks grim for me,<$FFFD>but I won't give in until my last breath!<$FFFE>
  What do you say?<$FFFE>
-Hold back <$FFFE>
-I have no desire to  fight <$FFFE>
+Don't give up<$FFFE>
+I have no desire to fight <$FFFE>
 Stop it <$FFFE>
- Don't worry. I will try  to hold back somewhat.<$FFFE>
- Don't you ever mock me like this!<$FFFD>I won't stand that kind  of attitude!<$FFFE>
+ That's right. Don't give up until the very end.<$FFFE>
+ Don't you ever mock me like this!<$FFFD>I won't stand that kind of attitude!<$FFFE>
  Please stop! You know I don't want to fight you!<$FFFE>
- Oh but I am itching to cross swords with you to repay you for last time!<$FFFD>Prepare yourself!<$FFFE>
- Stop this pointless  struggle! This battle is  already decided!<$FFFE>
- Is that so! My strategy wasn't flawless and many soldiers had to die.<$FFFD>But don't you dare calling what they fought for a pointless thing!<$FFFE>
+ Even if you don't want to fight, I must!<$FFFD>Prepare yourself!<$FFFE>
+ Stop this pointless struggle! This battle is already decided!<$FFFE>
+ That's right! Because my strategy was poor, this is the result.<$FFFD>If I retreat now, I couldn't face my fallen soldiers!<$FFFE>
  N…No!<$FFFE>
 !<$FFFE>
  Prin…cess…<$FFFE>
  No way I go down like…this…<$FFFE>
  T.That's…<$FFFE>
 They got me!<$FFFE>
- …I died on a foreign  field…<$FFFE>
- Laffel has fallen…<$FFFE>
- Over my dead body you  tread… Victory to our  glorious kingdom!<$FFFE>
- The Barral Kingdom will  be victorious!<$FFFE>
- Wind, carry my soul back  to where my homeland is…<$FFFE>
+ …I died on a foreign field…<$FFFE>
+ To lose to Larcuss…<$FFFE>
+ Over my dead body you tread… Victory to our glorious kingdom!<$FFFE>
+ The Barral Kingdom will be victorious!<$FFFE>
+ Wind, carry my soul back to where my homeland is…<$FFFE>
  Our corpses shall form an impenetrable wall…<$FFFE>
  Remnants of Larcuss…<$FFFE>
- Stop…their…advance! At  all…cost…<$FFFE>
+ Stop…their…advance! At all…cost…<$FFFE>
  Just try it! You won't leave here alive!<$FFFE>
  It's over so soon…<$FFFE>
 !!<$FFFE>
- Oh Wind, grant us  victory!<$FFFE>
- Your Majesty!<$FFFE>
+ Oh Wind, grant us victory!<$FFFE>
+ Princess!<$FFFE>
  I…can't move…<$FFFE>
  How… …could such a ragtag division defeat us…<$FFFE>
- Idiot me! You mustn't yield, no matter what  comes through that gate!<$FFFE>
+ Fools! Like some ragtag army could ever defeat us!<$FFFE>
  Now you did it!<$FFFE>
- To be defeated like  this…<$FFFE>
+ To be defeated like this…<$FFFE>
  I can hear the wind…<$FFFE>
- I was already dead inside…<$FFFE>
-…<$FFFE>
+ Am I dying…<$FFFE>
+ My son…<$FFFE>
  M…mother…<$FFFE>
  Uuuuhh…<$FFFE>
  Such impudence!<$FFFE>
  Not again…<$FFFE>
- Urgh! What's that?<$FFFE>
+ Hmph! Is that all!<$FFFE>
  Be…careful…<$FFFE>
- Those guys are cowards!<$FFFD>Fighting is horrible…<$FFFE>
+ These guys aren't your ordinary cowards!<$FFFD>They're battle-hardened…<$FFFE>
  W…What!<$FFFE>
- Dammit, my body just  won't move…<$FFFE>
+ Ugh, tough opponent!<$FFFE>
  Power of the wind…<$FFFE>
- I give up!<$FFFE>
- Oh, all this pointless  killing… May Lushiris  forgive you…<$FFFE>
- Forgive me everyone. I was a poor leader to you…<$FFFD>I wonder if things would have been different if the Dark Knight would  have been here instead…<$FFFE>
- …<$FFFD>You have grown strong, <$F600><$0000>…and brutal no  less…<$FFFE>
- <$F600><$0000>! I will take my  leave now. However, this  is not the conclusion of our story!<$FFFE>
- Silver Wolf joined the fun!<$FFFE>
- Thanks, Wolf. You really  know how to show up at the right moment.<$FFFE>
+ I won't lose!<$FFFE>
+ Oh, all this pointless killing… May Lushiris forgive you…<$FFFE>
+ Forgive me everyone. I was a poor leader to you…<$FFFD>I wonder if things would have been different if the Dark Knight would have been here instead…<$FFFE>
+ …<$FFFD>You have grown strong, <$F600><$0000>…and brutal no less…<$FFFE>
+ <$F600><$0000>! I will take my leave now. However, this is not the conclusion of our story!<$FFFE>
+ Silver Wolf joined the party!<$FFFE>
+ Thanks, Wolf. You really know how to show up at the right moment.<$FFFE>
  Thanks. Your assistance is highly appreciated.<$FFFE>
  Yessir!<$FFFE>
  Mobile units intercept the enemy!<$FFFE>
@@ -204,15 +200,15 @@ They got me!<$FFFE>
  Encircle the enemy! Advance!<$FFFE>
  All troops to the west have been defeated…<$FFFD>I feared as much, <$F600><$0000>. Such flawless strategy…<$FFFD>But this battle is still far from being decided!<$FFFE>
  Princess! The eastern gate has fallen!<$FFFE>
- If that is the case, abandon your post and  incorporate with our main body!<$FFFE>
+ If that is the case, abandon your post and incorporate with our main body!<$FFFE>
  Understood!<$FFFE>
-Take cover!<$FFFE>
-Take cover!<$FFFE>
- Relief troops are on their way!<$FFFE>
- Relief troops are on their way!<$FFFE>
- They have entered the  town! Charge!<$FFFE>
- They have entered the  town! Charge!<$FFFE>
- Show them what we're  made of!<$FFFE>
- Show them what we're  made of!<$FFFE>
- …That's taken care of, sure feels good to know  them gone.<$FFFE>
-Hey now! Of course I want to express my gratitude. After all you went through all that to liberated Laffel, that's  no small feat.<$FFFD>I have to repay you  somehow!<$FFFD>I know! From now on I will personally fight  alongside you! All that's left now is to  recapture the capitol, Larcussia.<$FFFE> 
+We'll provide support!<$FFFE>
+We'll provide support!<$FFFE>
+ Now that we've come, you can rest easy!<$FFFE>
+ Now that we've come, you can rest easy!<$FFFE>
+ Don't let them into the town! Charge!<$FFFE>
+ Don't let them into the town! Charge!<$FFFE>
+ Show them what we're made of!<$FFFE>
+ Show them what we're made of!<$FFFE>
+ …That's taken care of, sure feels good to know them gone.<$FFFE>
+Hey now! Of course I want to express my gratitude. After all you went through all that to liberated Laffel, that's no small feat.<$FFFD>I have to repay you somehow!<$FFFD>I know! From now on I will personally fight alongside you! All that's left now is to recapture the capital, Larcussia.<$FFFE>

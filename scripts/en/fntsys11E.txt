@@ -1,4 +1,4 @@
-Dieharte<$FFFF>
+Diehärte<$FFFF>
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -14,7 +14,7 @@ Beast Jugler<$FFFF>
 Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 General Bortz<$FFFF>
@@ -30,7 +30,7 @@ Sir Gerold<$FFFF>
 Layla<$FFFF>
 Olver<$FFFF>
 Prince Paul<$FFFF>
-Altemuller<$FFFF>
+Altemüller<$FFFF>
 General Geier<$FFFF>
 Bosel<$FFFF>
 Reaper Grove<$FFFF>
@@ -38,7 +38,7 @@ Feraquea<$FFFF>
 Worm Master Rag<$FFFF>
 Richard<$FFFF>
 Coty<$FFFF>
-Dieharte<$FFFF>
+Diehärte<$FFFF>
 Princess Freya<$FFFF>
 Anna<$FFFF>
 Prince<$FFFF>
@@ -46,9 +46,9 @@ Street Hawker<$FFFF>
 Shopkeeper<$FFFF>
 Bat<$FFFF>
 Serpent<$FFFF>
-Dieharte<$FFFF>
+Diehärte<$FFFF>
 General Dios<$FFFF>
-Altemuller<$FFFF>
+Altemüller<$FFFF>
 General Varna<$FFFF>
 General Emerick<$FFFF>
 Princess Freya<$FFFF>
@@ -58,7 +58,7 @@ Gilbert<$FFFF>
 Coty<$FFFF>
 Adjutant Ruud<$FFFF>
 Lord Chaos<$FFFF>
-Altemuller<$FFFF>
+Altemüller<$FFFF>
 General Varna<$FFFF>
 Goddess Lushiris<$FFFF>
 Supreme Commander<$FFFF>
@@ -66,38 +66,38 @@ Priest<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
-Riguler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
+Rigüler Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
@@ -272,12 +272,12 @@ Pierre<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
-Riguler Captain<$FFFF>
+Rigüler Captain<$FFFF>
 Head Highwayman<$FFFF>
 Gal Shok<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
-Riguler Commander<$FFFF>
+Rigüler Commander<$FFFF>
 Lewin<$FFFF>
 Wilder<$FFFF>
 Elthlead Soldier<$FFFF>
@@ -372,7 +372,7 @@ Rag<$FFFF>
 Ruud<$FFFF>
 Chaos<$FFFF>
 Lushiris<$FFFF>
-Riguler<$FFFF>
+Rigüler<$FFFF>
 Barral<$FFFF>
 Shika<$FFFF>
 Larcuss<$FFFF>

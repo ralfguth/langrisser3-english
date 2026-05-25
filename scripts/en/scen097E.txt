@@ -1,29 +1,25 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Kaiser Paul <$FFFF>
-Field Marshal Geier <$FFFF>
-Riguler Imperial Castle  <$0236> Audience Hall<$FFFF>
- Uhahaha!<$FFFD>I can't stop laughing in joy! Now the Empire is mine in both name and  truth!<$FFFD>Speaking of which, Geier.<$FFFB>Wouldn't you agree that  it would be best for you to start acting as Field Marshal soon?<$FFFD>You must quickly take  down Elthlead.<$FFFE>
- Before I do that, I ask for a little bit of  time.<$FFFD>There is a small matter  that I would like to look into first.<$FFFE>
- …Hmmm. Then, as soon as this matter is dealt  with, return to headquarters.<$FFFD>I shall muster additional troops. After all, no matter what it takes, we must crush Elthlead!<$FFFE>
- As you command, Kaiser  Paul.<$FFFE> 
+Emerick<$FFFF>
+Kaiser Paul<$FFFF>
+Field Marshal Geier<$FFFF>
+Rigüler Imperial Castle - Audience Hall<$FFFF>
+ Uhahaha!<$FFFD>I can't stop laughing in joy! Now the Empire is mine in both name and truth!<$FFFD>Speaking of which, Geier.<$FFFB>Wouldn't you agree that it would be best for you to start acting as Field Marshal soon?<$FFFD>You must quickly take down Elthlead.<$FFFE>
+ Before I do that, I ask for a little bit of time.<$FFFD>There is a small matter that I would like to look into first.<$FFFE>
+ …Hmm. Then, as soon as that is done, return to the main camp.<$FFFD>I shall send you reinforcements. So no matter what it takes, take Elthlead back!<$FFFE>
+ As you command, Kaiser Paul.<$FFFE> 

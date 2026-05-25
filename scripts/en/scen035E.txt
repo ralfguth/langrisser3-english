@@ -1,7 +1,3 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -9,31 +5,31 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Gilbert<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 Demon<$FFFF>
 Velzerian Commander<$FFFF>
 Do Kahni<$FFFF>
-Defeat Altemuller<$FFFE>
-Death of <$F600><$0000><$FFFE>
-Riguler Castle<$FFFF>
+•Defeat Altemüller<$FFFE>
+•Death of <$F600><$0000><$FFFE>
+Rigüler Castle<$FFFF>
 It is too quiet…<$FFFE>
 Be on guard. The Demon Tribe is all around us.<$FFFE>
 The throne room is farther in. He should be there.<$FFFE>
 Muhahaha! How kind of you to visit.<$FFFE>
 And you brought the traitor Emerick.<$FFFE>
-Show yourself! Altemuller!<$FFFE>
+Show yourself! Altemüller!<$FFFE>
 I will not run or hide. Do not rush. Death will claim you soon!<$FFFE>
-Stay where you are, Altemuller!<$FFFE>
+Stay where you are, Altemüller!<$FFFE>
 By the way, is it important in which way we strike him down?<$FFFE>
 What do you mean, just hit him hard!<$FFFE>
 No! He is possessed by Alhazard.<$FFFD>We must restore him, or he may die.<$FFFD>…If we can reach what remains of his heart, we may still have a chance.<$FFFE>
@@ -48,20 +44,20 @@ The problem is how we can reach his original heart.<$FFFD>If he can recover his 
 Emerick!?<$FFFE>
 If any of us can reach him it would be me.<$FFFE>
 He is right. He is our best choice.<$FFFE>
-Alright. Emerick, I leave the persuasion to you.<$FFFD>Once Altemuller regains his heart, I will face him with Langrisser!<$FFFE>
+Alright. Emerick, I leave the persuasion to you.<$FFFD>Once Altemüller regains his heart, I will face him with Langrisser!<$FFFE>
 That is a bold plan. What if it fails?<$FFFE>
 But, if we fail…<$FFFE>
-…If we fail and Bozel fully awakens, we can only end his suffering!<$FFFE>
+…If we fail and Böser fully awakens, we can only end his suffering!<$FFFE>
 Emerick…<$FFFE>
 Hope is not lost. Let us do our best…<$FFFE>
 Now that's the spirit!<$FFFE>
 Your Excellency…<$FFFE>
 You dare show your face after betraying me.<$FFFD>After all I did for you, you befriend my enemies.<$FFFE>
 Do not mistake me. You are possessed by this cursed sword.<$FFFE>
-But soon your true shape will be Altemuller!<$FFFE>
+But soon your true shape will be Altemüller!<$FFFE>
 For the first time I take arms against you. Let us see what comes of it.<$FFFE>
 I never thought even you would betray me, Varna!<$FFFE>
-Forgive me, Lord Altemuller. I do this only for him.<$FFFE>
+Forgive me, Lord Altemüller. I do this only for him.<$FFFE>
 You echo Emerick's nonsense!<$FFFD>If that is your wish, then die!<$FFFE>
 <$F600><$0000>! Both Emerick and Varna fell to your lies.<$FFFD>Now face my wrath as I tear you apart! Prepare!<$FFFE>
 Both Emerick and Varna betrayed me.<$FFFD>You are skilled at corrupting hearts, <$F600><$0000>. Varna's death weighs on me.<$FFFD>You will know my wrath when these halls run with your blood! Prepare!<$FFFE>
@@ -70,12 +66,12 @@ Dammit!<$FFFE>
 Okay.<$FFFE>
 Both Emerick and Varna betrayed me.<$FFFD>Your skill at corrupting hearts is praiseworthy, <$F600><$0000>.<$FFFE>
 What!?<$FFFE>
-Langrisser will save Altemuller once I sever the wicked heart!<$FFFE>
+Langrisser will save Altemüller once I sever the wicked heart!<$FFFE>
 Langrisser, lend me your power!<$FFFE>
 Be gone!<$FFFD>Heed my call Langrisser!<$FFFE>
 Lend me strength!<$FFFD>Father, give me strength!<$FFFE>
 Alright! Take Cover!<$FFFE>
-OK! Draw the enemy from Altemuller!<$FFFE>
+OK! Draw the enemy from Altemüller!<$FFFE>
 Gotcha. Try to hold your ground!<$FFFE>
 We count on you, Sir <$F600><$0000>!<$FFFE>
 Understood.<$FFFD>Lushiris…Langrisser… Lend me your power!<$FFFE>
@@ -87,22 +83,22 @@ Understood. I leave Langrisser to you!<$FFFE>
 Understood!<$FFFE>
 Alright. I will pray for your success!<$FFFE>
 With Langrisser we need not fear. Please grant us your power!<$FFFE>
-No, we failed! No one is left to wield Langrisser…<$FFFD>Now saving Altemuller is impossible…<$FFFE>
-We must do our best… Maybe Altemuller can recover himself…<$FFFE>
+No, we failed! No one is left to wield Langrisser…<$FFFD>Now saving Altemüller is impossible…<$FFFE>
+We must do our best… Maybe Altemüller can recover himself…<$FFFE>
 They won't be satisfied until everyone is dead… Kill them all!<$FFFE>
 GUOOOO!<$FFFE>
 Move out! Don't let them get past here!<$FFFE>
 GAAAAAA!<$FFFE>
 Yessir!<$FFFE>
 Move out!<$FFFE>
-Here they come!! Guard lord Bozel to the end!<$FFFE>
+Here they come!! Guard lord Böser to the end!<$FFFE>
 …<$FE14>…<$FE14>…<$FFFE>
 What's the matter, Emerick?<$FFFE>
 That girl…<$FE14>…<$FE14>…<$FE14>… so Varna is the key…?<$FFFE>
 You came far! As your reward, witness Alhazard's power!<$FFFD>Come, my servants!<$FFFE>
 Well then, come to me now. And die at my own hand. Hahahaha…<$FFFE>
 Stop, Emerick!<$FFFE>
-If you make one more step towards lord Bozel I won't hesitate to cut you down.<$FFFE>
+If you make one more step towards lord Böser I won't hesitate to cut you down.<$FFFE>
 Please hear me out Varna.<$FFFE>
 I support Elthlead only to save him.<$FFFE>
 To save…him?<$FFFE>
@@ -114,9 +110,9 @@ There is no way I could ever betray his Excellency!<$FFFE>
 You must not! If you truly love him, do not leave him like this!<$FFFE>
 His mad love for you drove him to this, and only your love can restore him!<$FFFE>
 Varna, I beg you! Only you can bring him back!<$FFFE>
-You are Bozel's greatest foe! So I will end you now!<$FFFE>
+You are Böser's greatest foe! So I will end you now!<$FFFE>
 Wait, please listen to me!<$FFFE>
-Altemuller's heart is currently under the control of Alhazard!<$FFFE>
+Altemüller's heart is currently under the control of Alhazard!<$FFFE>
 He took up Alhazard only because he raged over your death!<$FFFE>
 I am very much aware of that!<$FFFE>
 So you must see that only you can restore him!<$FFFE>
@@ -126,8 +122,8 @@ Your Excellency…<$FFFE>
 Your Excellency! Please hear me!<$FFFE>
 I have no use for your babbling!<$FFFE>
 Yeah…<$FFFE>
-We have to save Altemuller! Out of my way!<$FFFE>
-<$0650>.Altemuller…<$FFFE>
+We have to save Altemüller! Out of my way!<$FFFE>
+<$0650>.Altemüller…<$FFFE>
 The world of darkness awaits you! Hahahaha!<$FFFE>
 Why are you staring at me like this!<$FFFE>
 I raise my blade to protect Coty's world!<$FFFE>
@@ -150,12 +146,12 @@ Pana Pureho Guna, Kaparapa Buu… …Shika…<$FFFE>
 Shikashikatsuu! …hm?<$FFFB> Shikaaaa!<$FFFE>
 Varna…<$FFFE>
 …Say no more.<$FFFE>
-Please return quickly! Your Excellency Altemuller!<$FFFE>
-<$F600><$0000>…he is lost…<$FFFE>
+Please return quickly! Your Excellency Altemüller!<$FFFE>
+<$F600><$0000>… take care of His Excellency…<$FFFE>
 Emerick…<$FFFE>
-At least <$FFFE>
+At least rest in peace, Altemüller!<$FFFE>
 Do that, and I can die content!!<$FFFE>
-Altemuller! Wake up from this nightmare!<$FFFE>
+Altemüller! Wake up from this nightmare!<$FFFE>
 Ah, my favorite traitor! I repay your service with death!<$FFFE>
 I once looked up to you. That is why I will end your misery. This is my last service.<$FFFE>
 Your Excellency! Please remember.<$FFFD>You were proud and noble once.<$FFFE>
@@ -166,16 +162,16 @@ Guargh!?<$FFFE>
 Did we do it!?<$FFFE>
 The power of Alhazard…fades away… …how did…<$FFFE>
 …this is…my end… Uuarrrghh!<$FFFE>
-Yes…you are free of Bozel's curse now, Altemuller. I shall join you in death.<$FFFE>
+Yes…you are free of Böser's curse now, Altemüller. I shall join you in death.<$FFFE>
 W…Wait!<$FFFE>
 We will be together again.<$FFFE>
 …Dammit!<$FFFE>
 …<$FFFE>
-Your Excellency Altemuller, please rest in peace…<$FFFE>
+Your Excellency Altemüller, please rest in peace…<$FFFE>
 …There will be time to mourn the dead. But now we must seal Alhazard…<$FFFE>
 …You are right. Prepare the ceremony…<$FFFE>
 …There will be time to mourn later. For now we must seal Alhazard.<$FFFE>
-For opposing master Bozel, you will die!<$FFFE>
+For opposing master Böser, you will die!<$FFFE>
 Damn this! What a bother!<$FFFE>
 Ur…arrgh! …My body is breaking apart…<$FFFE>
 It looks bad, Varna.<$FFFD>But do not worry. Once I crush this rabble I will revive you again…<$FFFE>
@@ -184,7 +180,7 @@ Varna!<$FFFB> …I will not allow it! Not you, <$F600><$0000>!<$FFFD>You took Em
 Varna!? Be strong Varna!<$FFFE>
 …My time has come. I must endure the pain to say farewell again…<$FFFE>
 Varnaa!<$FFFB> You made me watch my beloved die twice…<$FFFD>…But she will live again soon!<$FFFD>…She will not die! I will not be alone!<$FFFD>I will destroy the world if I must! And I will start with you!<$FFFE>
-For master Bozel!<$FFFE>
+For master Böser!<$FFFE>
 GRRR<$064F>…<$FFFE>
 GRRR<$064F>…<$FFFE>
 Guaah!<$FFFE>
@@ -219,8 +215,8 @@ ZUUUUU…<$FFFE>
 …No, Alhazard only possesses him.<$FFFD>If its power fades, he will return to himself.<$FFFE>
 Now I see! Langrisser was made to oppose Alhazard's dark power!<$FFFE>
 …<$FE14>…<$FE14>…<$FE14>…<$FFFE>
-…His true self. His Excellency's true self. The tender Altemuller of once.<$FFFE>
-If that came true, I would regret nothing! I want only to save Altemuller before this body decays again!<$FFFE>
+…His true self. His Excellency's true self. The tender Altemüller of once.<$FFFE>
+If that came true, I would regret nothing! I want only to save Altemüller before this body decays again!<$FFFE>
 Thank you, Varna.<$FFFE>
 After I try to persuade him, you should take over, Varna.<$FFFE>
 Alright.<$FFFD>But if you try to harm him, I will turn on you.<$FFFE>
@@ -233,15 +229,15 @@ You do not understand this sword's power. Only it could bring Varna back to me.<
 Think. If not for that sword, Varna would never have fallen in with Velzeria!<$FFFE>
 Then your sorrow would not have come to this. Everything Alhazard does drives you mad.<$FFFE>
 …If this sword did not exist…<$FFFE>
-Exactly! Please realize! Your Excellency, Altemuller!<$FFFE>
+Exactly! Please realize! Your Excellency, Altemüller!<$FFFE>
 That is right… If Alhazard did not exist…Varna would not have…<$FFFE>
 And Varna's return…Uarrgh! What is this…my head…!<$FFFE>
 Your Excellency! Please hold on!<$FFFE>
-Altemuller!<$FFFE>
+Altemüller!<$FFFE>
 Yes, Varna…I…<$FFFE>
 Please remember! Your noble heart!<$FFFE>
-That you're Altemuller!<$FFFE>
-…Indeed, I am Altemuller… not Bozel, Prince of Darkness…Uaargh!<$FFFE>
+That you're Altemüller!<$FFFE>
+…Indeed, I am Altemüller… not Böser, Prince of Darkness…Uaargh!<$FFFE>
 What is happening to him!?<$FFFE>
 It seems like his original heart and Alhazard are fighting.<$FFFE>
 It seems like his original heart and Alhazard are fighting.<$FFFE>
@@ -254,9 +250,9 @@ Even in death there is life. If I die, a flower will bloom on my grave!<$FFFE>
 As long as Alhazard exists it threatens this world. We cannot risk the same mistake again!<$FFFE>
 …It's hopeless…<$FFFE>
 …Emerick?<$FFFE>
-<$F702>
-<$F702>
-<$F702><$F702>…I understand.<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+…I understand.<$FFFE>
 Please don't let his Excellency suffer! Deliver him to death!<$FFFE>
 Uh…my…body…<$FFFE>
 Huh, Varna!? How is this? But Geier killed you…<$FFFE>
@@ -273,10 +269,10 @@ Do you have enough?<$FFFE>
 Gurghuu… I am not done yet.<$FFFE>
 Your struggle is futile! We failed to restore him…<$FFFE>
 Uuurrrhg! Alhazard! Grant me your power!<$FFFE>
-It is useless, Altemuller! You can no longer draw on Alhazard!<$FFFE>
+It is useless, Altemüller! You can no longer draw on Alhazard!<$FFFE>
 Your Excellency!<$FFFE>
 Are you yourself again?<$FFFE>
 I… I only remember taking Alhazard to avenge Varna…<$FFFE>
-Altemuller…<$FFFE>
+Altemüller…<$FFFE>
 Impressive, <$F600><$0000>.<$FFFD>Go. Stop him!<$FFFE>
-…Nothing can be done. I cannot bear to look at him any longer. End it now…<$FFFE> 
+…Nothing can be done. I cannot bear to look at him any longer. End it now…<$FFFE>

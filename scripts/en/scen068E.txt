@@ -1,69 +1,65 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-General Bortz <$FFFF>
-Field Marshal Altemuller<$FFFF>
-General Geier <$FFFF>
+Emerick<$FFFF>
+General Bortz<$FFFF>
+Field Marshal Altemüller<$FFFF>
+General Geier<$FFFF>
 General Varna<$FFFF>
-General Emerick <$FFFF>
-Larcuss Commander <$FFFF>
+General Emerick<$FFFF>
+Larcuss Commander<$FFFF>
 Layla<$FFFF>
-Former Castle of Larcussia <$0236> Currently Imperial Headquarters <$FFFF>
- My humble apologies, Your Excellency  Altemuller.<$FFFE>
- I am so ashamed that I have survived  ignominiously after my attack of Lord Raymond.<$FFFE>
- No, Bortz. I've heard  the rumors.<$FFFE>
- You chose your course of action to prevent our  invaluable troops from being completely annihilated.<$FFFE>
- Furthermore, your own  troops have come to  petition on your behalf. You don't need to fear me, just because I am the Field Marshal.<$FFFE>
- …I would like it best if you retained your position, Bortz.<$FFFE>
+Former Castle of Larcussia - Currently Imperial Headquarters<$FFFF>
+ My humble apologies, Your Excellency Altemüller.<$FFFE>
+ I am so ashamed that I have survived ignominiously after my attack of Lord Raymond.<$FFFE>
+ No, Bortz. I've heard the rumors.<$FFFE>
+ You chose your course of action to prevent our invaluable troops from being completely annihilated.<$FFFE>
+ Furthermore, direct petitions have come from your own soldiers, unafraid to face me as Field Marshal.<$FFFE>
+ …You have good subordinates, Bortz.<$FFFE>
  Yes, sir!<$FFFE>
 …<$FFFE>
  What is it, Geier? How have you found the conquest of Laffel?<$FFFE>
- …At first we were winning…B…But, when  the Dark Knight  destroyed a number of  our airships, I was devastated and ordered a retreat…<$FFFE>
+ …At first we were winning…B…But, when the Dark Knight destroyed a number of our airships, I was devastated and ordered a retreat…<$FFFE>
  …I see. So it was the Dark Knight, eh.<$FFFE>
  On top of that, Geier. He managed to defeat even you.<$FFFE>
  …I am at a loss for words.<$FFFE>
- He couldn't be beaten  even with the power of the airship fleet… This Dark Knight is a most formidable foe.<$FFFE>
+ He couldn't be beaten even with the power of the airship fleet… This Dark Knight is a most formidable foe.<$FFFE>
 …<$FFFE>
- It seems we will need  more military might than I would initially  suspected.<$FFFE>
- I will return to the Imperial capitol to  report the situation and request additional troops.<$FFFE>
- If it is not too late, I would that I could begin the preparations for your entourage.<$FFFE>
+ We lost more troops than I had expected.<$FFFE>
+ I will return to the Imperial capital to report the situation and request additional troops.<$FFFE>
+ The preparations for departure are already complete.<$FFFE>
  That would be excellent, Varna.<$FFFE>
- Geier, Bortz, Emerick. I am counting on you to  watch over things in my  absence!<$FFFE>
+ Geier, Bortz, Emerick. I am counting on you to watch over things in my absence!<$FFFE>
  Yes, sir!<$FFFE>
 Mountains Near the Western Gate<$FFFF>
  Sir <$F600><$0000>! A messenger has come!<$FFFE>
- All right, have the  messenger enter.<$FFFE>
+ All right, have the messenger enter.<$FFFE>
  Yes, sir!<$FFFE>
  Ah, it's Miss Layla!<$FFFE>
  It's been a while, <$F600><$0000>.<$FFFE>
  It's good to see you again.<$FFFE>
  I bring a message from Lord Raymond.<$FFFE>
- Lord Raymond's main  troops plan to fight against the Empire to  keep them busy, while your mobile division searches for and then  acquires the Haja no Ken.<$FFFE>
- The Haja no Ken!?<$FFFE>
+ Lord Raymond's main troops plan to fight against the Empire to keep them busy, while your mobile division searches for and then acquires the Sword of Decimation.<$FFFE>
+ The Sword of Decimation!?<$FFFE>
  You've heard of it?<$FFFE>
- Legend has it that in  times long past, this  sword was crafted in a foreign country far from here and instilled with  the holy power to  overcome evil.<$FFFE>
- Even though the Lushiris Gate has been opened now, it seems that the strongest demons will  still be able to enter.<$FFFE>
- When they do, we need to  have an effective way to defeat these demons, so…<$FFFE>
- The Haja no Ken…<$FFFE>
+ Legend has it that in times long past, this sword was crafted in a foreign country far from here and instilled with the holy power to overcome evil.<$FFFE>
+ Even though the Lushiris Gate has been opened now, it seems that the strongest demons will still be able to enter.<$FFFE>
+ When they do, we need to have an effective way to defeat these demons, so…<$FFFE>
+ The Sword of Decimation…<$FFFE>
  Who do you ask?<$FFFE>
 Tiaris<$FFFE>
 Liffany <$FFFE>
@@ -71,24 +67,24 @@ Luna<$FFFE>
 Sophia<$FFFE>
 Layla<$FFFE>
  What do you think, Tiaris?<$FFFE>
- Eh? What I think, let's see…<$FFFD>There's no way around this, right? So, let's hurry up and get that  thingie!<$FFFE>
+ Eh? What I think, let's see…<$FFFD>There's no way around this, right? So, let's hurry up and get that thingie!<$FFFE>
  Gotcha.<$FFFE>
  What do you think, Liffany?<$FFFE>
- What's the matter, Sir <$F600><$0000>? You don't look  all that eager to follow through with this…<$FFFE>
+ What's the matter, Sir <$F600><$0000>? You don't look all that eager to follow through with this…<$FFFE>
  No, that's not it…<$FFFD>I was just taken aback a little…by the demon power…<$FFFE>
  What do you think, Luna?<$FFFE>
- The Haja no Ken will become necessary to  fight against the  demons. That's why we must get ahold of it as  quickly as possible.<$FFFE>
+ The Sword of Decimation will become necessary to fight against the demons. That's why we must get ahold of it as quickly as possible.<$FFFE>
  I see. Thanks, Luna.<$FFFE>
  What do you think, Sophia?<$FFFE>
- If unchecked, the demons  will probably change our world into an even more  terrible place. That's  why we must do whatever  we can to avert their  victory.<$FFFD>But, to do so, we must have the Haja no Ken.<$FFFE>
- It's the only guaranteed way to defeat  demons…<$FFFE>
- What do you think, Miss  Layla?<$FFFE>
- Me? Well, Lord Raymond  asked me to come tell  you to go and find the Haja no Ken, so…<$FFFD>Since the battle with  the Empire is going to begin in earnest, and times are going to be  hard, doesn't it seem necessary to get ahold of this thing?<$FFFE>
- So, if we don't get ahold of it, we will all be facing even bigger  troubles… That's how  it seems, doesn't it? Certainly. Well, let's head out.<$FFFE>
- We should go and seek  the Haja no Ken without  further delay.<$FFFE>
- All right, I will trust  your guidance!<$FFFE>
- Scenario <$0236> 14 "Dios on  the Run"<$FFFE>
- Thanks to the efforts of <$F600><$0000>, the power of  the four gates has been  restored. Furthermore, the Lushiris Gate now  functions properly, radiating its holy light.<$FFFE>
- This would keep many monsters at bay, but it  could not stop the high  ranking fiends. So, in  order to gain power  against the demons, the separate force was ordered to search for  the Sword of Evil's Bane.<$FFFE>
- Acting on those orders, the party hastened onward and spotted General Dios being pursued by the Baral army.<$FFFE>
- <$01E9>Condition for Victory  Defeat of Freya <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Dios <$FFFE> 
+ If unchecked, the demons will probably change our world into an even more terrible place. That's why we must do whatever we can to avert their victory.<$FFFD>But, to do so, we must have the Sword of Decimation.<$FFFE>
+ It's the only guaranteed way to defeat demons…<$FFFE>
+ What do you think, Miss Layla?<$FFFE>
+ Me? Well, Lord Raymond asked me to come tell you to go and find the Sword of Decimation, so…<$FFFD>Since the battle with the Empire is going to begin in earnest, and times are going to be hard, doesn't it seem necessary to get ahold of this thing?<$FFFE>
+ Forewarned is forearmed, then… You're right. Understood, let's head out.<$FFFE>
+ We should go and seek the Sword of Decimation without further delay.<$FFFE>
+ All right, I will trust your guidance!<$FFFE>
+<$0000><$FFFC>  <$0000>SCENARIO-14<$FFFC><$0000><$0000><$0000><$0000>Dios on the Run<$0000><$0000><$0000><$0000><$FFFE>
+ Thanks to the young knight and his party, the power of the four gates has been restored. Furthermore, the Lushiris Gate now functions properly, radiating its holy light.<$FFFE>
+ This would keep many monsters at bay, but it could not stop the high ranking fiends. So, in order to gain power against the demons, the separate force was ordered to search for the Sword of Decimation.<$FFFE>
+ Acting on those orders, the party hastened onward and spotted General Dios being pursued by the Barral army.<$FFFE>
+ *Victory Conditions<$FFFC>  •Defeat Freya<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Death of Dios<$FFFE> 

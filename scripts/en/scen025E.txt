@@ -1,129 +1,125 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 General Varna<$FFFF>
-King Sieghart <$FFFF>
-Riguler Commander <$FFFF>
+King Sieghart<$FFFF>
+Rigüler Commander<$FFFF>
 Elthlead Commander<$FFFF>
-Rag <$FFFF>
-Monster <$FFFF>
-<$01E9>Conditions for Victory Defeat all enemies<$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Sieghart <$FFFE>
- In front of Elthlead's Capitol, Larcussia<$FFFF>
- So I've returned, this  time I won't falter…<$FFFD>The downfall of Elthlead is already inevitable. Now there's just one  more thing to do…<$FFFE>
- Your Excellency, the line up of our troops  has been completed.<$FFFE>
+Rag<$FFFF>
+Monster<$FFFF>
+*Victory Conditions<$FFFC>•Defeat all enemies<$FFFE>
+*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Sieghart <$FFFE>
+In front of Elthlead's capital, Larcussia<$FFFF>
+ To think we'd lose this many soldiers…<$FFFD>But Elthlead is as good as fallen. There's just one matter remaining…<$FFFE>
+ Your Excellency, the line up of our troops has been completed.<$FFFE>
  Good.<$FFFE>
- Lord Raymond, no King Sieghart. It is time to make up for the  humiliation I suffered the last time.<$FFFE>
- I assume you are well  prepared for the following?<$FFFE>
+ Lord Raymond, no King Sieghart. It is time to make up for the humiliation I suffered the last time.<$FFFE>
+ I assume you are well prepared for the following?<$FFFE>
  Tell me, what is it that makes the Empire craving for our lands so much?<$FFFE>
- King Sieghart. I assume  you can't know the situation the Empire faces?<$FFFE>
- We are proud of the size the Empire has grown into. Within our borders  people can live safely and peacefully.<$FFFE>
- However, the majority of our land is frozen wasteland on which no  crop will grow.<$FFFE>
- And peace alone cannot quench the hunger of so  many.<$FFFE>
- That's why, for the well  being of our own people, we have to claim more  fertile lands.<$FFFE>
- If that is the case, wouldn't it be possible  to trade in food with  the mineral resources of your country?<$FFFE>
- Sooner or later such as  mineral resources run  out.<$FFFE>
- We would have food for a short period but the population soon would  increase to its maximum and the stocks dwindle.<$FFFE>
- Invading your fertile  lands is the only  substantial way to solve this dilemma.<$FFFE>
- While what you say sounds reasonable, incinerating war always  is something horrible.<$FFFE>
- You who live in these  rich lands couldn't  fully understand.<$FFFE>
- You and me both don't  wish to wage war.<$FFFE>
+ King Sieghart. I assume you can't know the situation the Empire faces?<$FFFE>
+ Our Empire boasts the largest territory of all. Naturally, it has more people than any other nation.<$FFFE>
+ However, the majority of our land is frozen wasteland on which no crop will grow.<$FFFE>
+ At this rate, many of our people will starve to death.<$FFFE>
+ That's why, for the well being of our own people, we have to claim more fertile lands.<$FFFE>
+ If that is the case, wouldn't it be possible to trade in food with the mineral resources of your country?<$FFFE>
+ Sooner or later, mineral resources run out.<$FFFE>
+ Even if we filled the bellies for a time, the land left to house our growing population is finite.<$FFFE>
+ Public order would decay, and other nations would seize the opening to strike.<$FFFE>
+ Even so, a war of invasion is still a foolish path.<$FFFE>
+ You who live in these rich lands couldn't fully understand.<$FFFE>
+ I too have no wish to wage a war of invasion.<$FFFE>
  But I cannot abandon the people of the country my father build and protected with his own hands.<$FFFE>
- This may be the death of both of us.<$FFFE>
- But I am the king of this country. Protecting  those who live in it is  my foremost duty.<$FFFE>
- To an honorable end!<$FFFE>
- I couldn't have said it  better.<$FFFE>
+ I sympathize with how you feel.<$FFFE>
+ But I am the king of this country. Protecting those who live in it is my foremost duty.<$FFFE>
+ Come at me, then!<$FFFE>
+ I couldn't have said it better.<$FFFE>
  We're in time!<$FFFE>
- Your Excellency, enemy reinforcements have  arrived!<$FFFE>
-Those most be units  returning from an  expedition.<$FFFE>
+ Your Excellency, enemy reinforcements have arrived!<$FFFE>
+Those must be units returning from an expedition.<$FFFE>
  I suppose they are still fatigued from their last mission. We will carry out our strategy according to plan.<$FFFE>
  Varna, you will take some troops and smite the ones that just arrived.<$FFFE>
  Understood.<$FFFE>
- Sir <$F600><$0000>, it seems  like the enemy has split their troops in two.<$FFFE>
- Meaning that we took some pressure from the ongoing siege. If we hurry, I think we could  actually win this.<$FFFE>
- But if the enemy manages to cross that bridge surely the capitol will  fall.<$FFFE>
- Yeah, simply because we were in time doesn't mean that you can relax  just now!<$FFFE>
+ Sir <$F600><$0000>, it seems like the enemy has split their troops in two.<$FFFE>
+ Meaning that we took some pressure from the ongoing siege. If we hurry, I think we could actually win this.<$FFFE>
+ But if the enemy manages to cross that bridge surely the capital will fall.<$FFFE>
+ Yeah, simply because we were in time doesn't mean that you can relax just now!<$FFFE>
  That's right.<$FFFE>
- Everyone, I know your tired but let's give it  our all!<$FFFE>
+ Everyone, I know you're tired but let's give it our all!<$FFFE>
  Now our victory over Elthlead is just one step ahead…<$FFFE>
- Isn't that the much  rumored about  <$F600><$0000>? As you know Bortz and Emerick had  a hard time dealing with him, do be careful.<$FFFD>That <$F600><$0000>. His timing is pretty good.<$FFFE>
- Cavalry move out to  crush the enemy at the rear. Flying units back us up.<$FFFE>
+ Isn't that the much rumored about <$F600><$0000>? As you know Bortz and Emerick had a hard time dealing with him, do be careful.<$FFFD>That <$F600><$0000>. His timing is pretty good.<$FFFE>
+ Cavalry move out to crush the enemy at the rear. Flying units back us up.<$FFFE>
  Understood.<$FFFE>
  Affirmative.<$FFFE>
- Well then, let's get rid of those nuisances. Commence the attack on the abominations of  Velzerian!<$FFFE>
- All troops, follow his  Excellency into battle!<$FFFE>
+ Well then, let's get rid of those nuisances. Commence the attack on the abominations of Velzerian!<$FFFE>
+ All troops, follow his Excellency into battle!<$FFFE>
  This is not the time for petty quarrels! Protect this world which is home to all humans alike!<$FFFE>
- Everyone drive back the  demons!<$FFFE>
+ Everyone drive back the demons!<$FFFE>
 Move out, Varna!<$FFFE>
  Yessir!<$FFFE>
- Attack! Concentrate on  throwing down Sieghart!<$FFFE>
+ Attack! Concentrate on throwing down Sieghart!<$FFFE>
  The enemy is trying to break through! Hold your ground!<$FFFE>
  Prepare yourself, Sieghart! Today nothing will stand in the way of my victory!<$FFFE>
  Don't think you can take me out that easily!<$FFFE>
- On top of a mountain a plateau with a small forest was situated.<$FFFD>One of the trees was much larger than the others. An arrow was  stuck deeply within it.<$FFFE>
+ On top of a mountain a plateau with a small forest was situated.<$FFFD>One of the trees was much larger than the others. An arrow was stuck deeply within it.<$FFFE>
  What do you do?<$FFFE>
 Cut out the arrow <$FFFE>
 Pull out the arrow<$FFFE>
 Break off the arrow <$FFFE>
- Using an edged tool, you cut out the arrow  carefully.<$FFFE>
+ Using an edged tool, you cut out the arrow carefully.<$FFFE>
  Obtained Destiny Arrow!<$FFFE>
  Upon trying to pull it out, the arrow broke midway.<$FFFE>
  With a sluggish sound, the arrow broke.<$FFFE>
- We were… So close…<$FFFE>
- Sir <$F600><$0000>? Don't die, your powers are still  needed!<$FFFE>
- Sir <$F600><$0000>? Don't die, your powers are still  needed!<$FFFE>
+ I still… have things I must do…<$FFFE>
+ So you're <$F600><$0000>. I'll repay all the debts my subordinates owe you at once!<$FFFE>
+ So you're <$F600><$0000>. I'll repay all the debts my subordinates owe you at once!<$FFFE>
  Father…<$FFFE>
  Everyone I am sorry…<$FFFE>
-…<$FFFE>
- Resistance is futile…<$FFFE>
- Huch?<$FFFE>
+Sorry, I'm at my limit…<$FFFE>
+ Forgive me, no good…<$FFFE>
+ Huh?<$FFFE>
  Sorry…<$FFFE>
  Lushiris…<$FFFE>
- Guu… Fare well…<$FFFE>
+ Ugh… The rest is on you…<$FFFE>
  Urgh!<$FFFE>
- What are you doing…<$FFFE>
- Keh! I can't fail now!<$FFFE>
- Uuhg! If…I…can't  protect…this country…<$FFFE>
+ How pathetic…<$FFFE>
+ Damn! I screwed up!<$FFFE>
+ Uuhg! If…I…can't protect…this country…<$FFFE>
  Father…<$FFFE>
  King Sieghart…<$FFFE>
  Don't let a single demon set foot onto Elthlead soil!<$FFFE>
  Kyah!<$FFFE>
  We have to protect…<$FFFE>
- W…What!? I couldn't be defeated by lowly  demons…<$FFFE>
- Your Excellency! Please  withdraw from battle! Leave the rest to me!<$FFFE>
+ W…What!? I couldn't be defeated by lowly demons…<$FFFE>
+ Your Excellency! Please withdraw from battle! Leave the rest to me!<$FFFE>
  Forgive me, Varna.<$FFFE>
- <$F600><$0000>'s company… Here I come!<$FFFE>
+ <$F600><$0000>'s army… Not bad at all!<$FFFE>
  Death is upon you!<$FFFE>
- Taking me lightly  because I am a woman will be your last  mistake!<$FFFE>
+ Taking me lightly because I am a woman will be your last mistake!<$FFFE>
  Laughable…<$FFFE>
- I will not permit you to do with humanity as you  please!<$FFFE>
+ I will not permit you to do with humanity as you please!<$FFFE>
  Uh…Uh…<$FFFE>
  Varna! You must retreat!<$FFFE>
  B…But your Excellency…<$FFFE>
- With that injury you can't fight effectively. Head to the sickbay and  get those wounds treated.<$FFFD>This is an order, Varna. I will not allow you to  put yourself in such danger.<$FFFE>
- Forgive me, YOur  Excellency…<$FFFE>
+ With that injury you can't fight effectively. Head to the sickbay and get those wounds treated.<$FFFD>This is an order, Varna. I will not allow you to put yourself in such danger.<$FFFE>
+ Forgive me, Your Excellency…<$FFFE>
  You shall feel the wrath of the Empire!<$FFFE>
  Such might…<$FFFE>
- For the Empire!<$FFFE>
+ The glory will be mine!<$FFFE>
  Your Excellency…<$FFFE>
  Uuhh!<$FFFE>
  Kyaaa!<$FFFE>
@@ -132,10 +128,10 @@ Break off the arrow <$FFFE>
  W…Why did this…<$FFFE>
  Urgh…<$FFFE>
  Am I defeated!?<$FFFE>
-Interesting. Who would ever thought that the  Empire and Elthlead  would team up like this.<$FFFD>In any case, I've got to report this to Master  Bozel post haste…<$FFFE>
- Come human, groan a little bit for me.<$FFFE>
+Mmgh. As I thought, against the Empire and Elthlead together, things don't come easily.<$FFFD>In any case, I must report this to Master Böser post haste…<$FFFE>
+ Suffer through and die!<$FFFE>
  Such impudence!<$FFFE>
- If only I was born a bird…<$FFFE>
+ Unforgivable…<$FFFE>
 GOOOOON!<$FFFE>
 GOOOOON!<$FFFE>
 GOOOOON!<$FFFE>
@@ -144,23 +140,23 @@ GYAAAA!<$FFFE>
 GYAAAA!<$FFFE>
 GUGAA!<$FFFE>
 GUGAA!<$FFFE>
- Never could humans!?<$FFFE>
+ T…this can't be!?<$FFFE>
 SUUUUUUU!<$FFFE>
 SUUUUUUU!<$FFFE>
 SUUUUUUU!<$FFFE>
 GOOOOON!<$FFFE>
- What, all my troops were  wiped out!? Seems like  even those insects got something to sting with.<$FFFE>
+ What, all my troops wiped out!? I underestimated those mere humans, it seems…<$FFFE>
  Alright, all demons have been taken care of.<$FFFE>
- Your strategy was truly  inspiring, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>… …<$FFFD>…I hate you<$FFFE>
- If we humans cling together we mustn't be afraid of anything. And yet, I wonder if the senseless fighting will  begin anew…<$FFFE>
- True, but I don't think we will have to worry  about the Empire for now.<$FFFE>
- That guy…Altemuller…our  ally…<$FFFE>
- That guy…Altemuller…our  ally…<$FFFE>
- Come on, he's not the worst there is.<$FFFE>
- He's undoubtedly a skilled man and could  proof to be of great assistance against the demons.<$FFFE>
+ Your strategy was truly inspiring, Sir <$F600><$0000>.<$FFFE>
+ Sir <$F600><$0000>…<$FFFC>You shouldn't take too long in battle.<$FFFD>It affects the next move…<$FFFE>
+ If we humans cling together we mustn't be afraid of anything. And yet, I wonder if the senseless fighting will begin anew…<$FFFE>
+ True, but I don't think we will have to worry about the Empire for now.<$FFFE>
+ That man…Altemüller…our ally…<$FFFE>
+ To think that Altemüller is on our side…<$FFFE>
+ Well, it'll probably be brief, though.<$FFFE>
+ In any case, reducing the number of enemies is always the best strategy.<$FFFE>
  King Sieghart, I appreciate your goodwill shown by agreeing to the truce.<$FFFE>
- Those demons are a threat to all of us. Now let us move on to the  formalities of signing the truce.<$FFFE>
+ Those demons are a threat to all of us. Now let us move on to the formalities of signing the truce.<$FFFE>
  W…What!?<$FFFE>
  The demons of Velzeria in such a place!?<$FFFE>
  Hm? It's not just Elthlead's but the Empire's troops too?<$FFFD>He, that's fine. We will just kill all of them.<$FFFE>
@@ -170,32 +166,32 @@ GOOOOON!<$FFFE>
  What is it?<$FFFE>
  We would like to suggest a truce.<$FFFE>
  Your Excellency!?<$FFFE>
- The demons of Velzeria aren't just any other  fiend. We can continue our own dispute after we have dealt with them.<$FFFE>
- What do you say? Will  you agree to the truce?<$FFFE>
- I need some time to  consider.<$FFFE>
- Do you wish to convey  your opinion?<$FFFE>
+ The demons of Velzeria aren't just any other fiend. We can continue our own dispute after we have dealt with them.<$FFFE>
+ What do you say? Will you agree to the truce?<$FFFE>
+ I need some time to consider.<$FFFE>
+ Do you wish to convey your opinion?<$FFFE>
 Agree to the truce<$FFFE>
 Resist to the bitter end<$FFFE>
 Say nothing <$FFFE>
- I consent to his suggestion.<$FFFD>For now we should  cooperate and focus on driving away those demons!<$FFFE>
+ I consent to his suggestion.<$FFFD>For now we should cooperate and focus on driving away those demons!<$FFFE>
  …Certainly.<$FFFE>
- This is not the time to  fight amongst ourselves. I consent to your  proposal.<$FFFE>
- Surely, this isn't the  best time for humans to  compete with another.<$FFFD>However, we cannot trust the people of the  Riguler Empire!<$FFFE>
+ This is not the time to fight amongst ourselves. I consent to your proposal.<$FFFE>
+ Surely, this isn't the best time for humans to fight one another.<$FFFD>However, we cannot trust the people of the Rigüler Empire!<$FFFE>
  Sir <$F600><$0000>!?<$FFFE>
- …I disagree, this  truce is a welcome concession. We shouldn't  be the ones prolonging meaningless fighting, no?<$FFFD>While Elthlead and the Empire wage war on each  other, Velzeria gets the perfect chance to  strike.<$FFFD>If we allow that, this  whole world could fall under the rule of the  demons. Such a risk cannot be taken for any  reason.<$FFFE>
- Sir <$F600><$0000>. It is as  King Sieghart says.<$FFFD>Now is not the time for  humans to be at each others throat.<$FFFE>
- Field Marshal  Altemuller. I consent to  your proposal.<$FFFE>
+ …No, on second thought, let us accept the truce. Do you know what would happen if we fought here?<$FFFD>If Elthlead and Rigüler weaken each other, it gives Velzeria the perfect opening.<$FFFD>This world would then fall under the rule of the demons. Such a risk cannot be taken.<$FFFE>
+ Sir <$F600><$0000>. It is as King Sieghart says.<$FFFD>Now is not the time for humans to be at each other's throats.<$FFFE>
+ Field Marshal Altemüller. I consent to your proposal.<$FFFE>
  …Certainly.<$FFFE>
- This is not the time to  fight amongst ourselves. I consent to your  proposal.<$FFFE>
+ This is not the time to fight amongst ourselves. I consent to your proposal.<$FFFE>
  Heh, that was quick.<$FFFE>
  You heard him. All units, cease hostilities towards Elthlead.<$FFFE>
- For now we will  cooperate with Elthlead  and purge those demons!<$FFFE>
+ For now we will cooperate with Elthlead and purge those demons!<$FFFE>
  Yessir!<$FFFE>
  Cooperate with the Empire!?<$FFFE>
- To think we would  cooperate with the Empire after all that  has happened… But, I guess it was the more  reasonable choice.<$FFFE>
- Please do. Our real  enemy were the demons  all along.<$FFFE>
+ To think we would cooperate with the Empire after all that has happened… But, I guess it was the more reasonable choice.<$FFFE>
+ Indeed. The forces of darkness are our common enemy.<$FFFE>
  Humans fighting each other is such a pointless and tragic thing to do.<$FFFE>
- Considering the strength and numbers of our enemies, cooperating at  this point is the most advisable strategy.<$FFFE>
- You can flock together as much as you want and  still you're just  insects before us. The triumph of darkness is set in stone.<$FFFE>
+ Considering the strength and numbers of our enemies, cooperating at this point is the most advisable strategy.<$FFFE>
+ You can flock together as much as you want and still you're just insects before us. The triumph of darkness is set in stone.<$FFFE>
  <$F600><$0000> I am afraid this is the end of the road for you!<$FFFE>
- You will find me a worthy opponent!<$FFFE>  
+ You will find me a worthy opponent!<$FFFE> 

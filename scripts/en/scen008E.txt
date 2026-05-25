@@ -1,111 +1,107 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Barral Commander<$FFFF>
-Princess Freya <$FFFF>
-Defeat Princess Freya<$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
-Railym presently under Barral's rule <$FFFF>
- If we pass through here  it won't be far to the southern Lushiris Gate.<$FFFE>
+Princess Freya<$FFFF>
+•Defeat Freya<$FFFE>
+•Death of <$F600><$0000><$FFFE>
+Railym Pass Town - now under Barral<$FFFF>
+ If we pass through here it won't be far to the southern Lushiris Gate.<$FFFE>
  Please wait! There are troops stationed in this town!<$FFFE>
  Those are!?<$FFFE>
  Barral troops…<$FFFE>
- What of it!<$FFFE>
- If we can't get through  here, we can't make it  to the southern gate so  let's just force our way through!<$FFFE>
+ What is this, what is this!<$FFFE>
+ We can't reach the southern gate without passing through here, and now they've occupied it!<$FFFE>
  Hmm!? Princess, the enemy has appeared!<$FFFE>
  Are they remnants of the Larcussian army?<$FFFE>
-We got word that Lord  Raymond has gathered troops around him, maybe they belong to him?<$FFFE>
- Perhaps… It seems as if they are planning to  pass through the Raylim Mountains.<$FFFE>
- This must mean that they plan to conduct further  operations inside our  country. Make all due  preparations to  intercept them!<$FFFE>
- That women seems to be the enemy's commander.<$FFFE>
- It couldn't  be…Princess Freya!?<$FFFE>
+We got word that Lord Raymond has gathered troops around him, maybe they belong to him?<$FFFE>
+ Perhaps… It seems as if they are planning to pass through the Raylim Mountains.<$FFFE>
+ For the sake of our nation's future campaigns, we mustn't let this place fall. Prepare to intercept them!<$FFFE>
+ That woman seems to be the enemy's commander.<$FFFE>
+ It couldn't be…Princess Freya!?<$FFFE>
  We don't have spare time for a detour.<$FFFE>
  A battle is inevitable.<$FFFE>
 …<$FFFE>
  Hey, <$F600><$0000>! Stop just standing there looking silly!<$FFFE>
  Y…Yeah…<$FFFE>
- 2nd division here, the southwest gate has been  secured.<$FFFE>
- 1st division reporting  in, the western gate has  been secured.<$FFFE>
- 3rd division here, the northwest gate has been  secured.<$FFFE>
- Archers, advance!<$FFFD>Support the frontline!<$FFFE>
+ 2nd division here, the southwest gate has been secured.<$FFFE>
+ 1st division reporting in, the western gate has been secured.<$FFFE>
+ 3rd division here, the northwest gate has been secured.<$FFFE>
+ Archers, advance!<$FFFD>Support the Blockade unit!<$FFFE>
  Yessir!<$FFFE>
- The enemy has made it  into the city…<$FFFD>All troops commence an all out attack! Exterminate the  intruders!<$FFFE>
+ The enemy has made it into the city…<$FFFD>All troops commence an all out attack! Exterminate the intruders!<$FFFE>
  Freya…<$FFFE>
- All my guards have been  defeated…<$FFFD>No matter how grim it  looks, I will fight to my last breath!<$FFFE>
+ All my guards have been defeated…<$FFFD>No matter how grim it looks, I will fight to my last breath!<$FFFE>
  Sir <$F600><$0000>. The enemy employs Archers.<$FFFD>Please pay attention.<$FFFE>
- They're dangerous  because they can strike  from a distance, without giving the chance to retaliate.<$FFFD>Furthermore they are most effective against flying units.<$FFFE>
- I see you are in the know. Provided that you can close in on them and force them into melee, even flying units can  take them out with ease.<$FFFE>
- I see.<$FFFD>So the best way would be to stay out of range and close in on them in one  fell swoop.<$FFFE>
+ They're dangerous because they can strike from a distance, without giving the chance to retaliate.<$FFFD>Furthermore they are most effective against flying units.<$FFFE>
+ I see you are in the know. Provided that you can close in on them and force them into melee, even flying units can take them out with ease.<$FFFE>
+ I see.<$FFFD>So the best way would be to stay out of range and close in on them in one fell swoop.<$FFFE>
  Correct.<$FFFE>
-Move out! Don't give  them a chance to make up ground.<$FFFE>
- To ensure the prosperity of the Barral Kingdom, we have to deal with those remnants of  Larcuss. Eveyone, I rely  on you!<$FFFE>
- …There's no doubt  about it. It really is  Freya!<$FFFE>
+Move out! Don't give them a chance to make up ground.<$FFFE>
+ To ensure the prosperity of the Barral Kingdom, we have to deal with those remnants of Larcuss. Everyone, I'm counting on you!<$FFFE>
+ …There's no doubt about it. It really is Freya!<$FFFE>
  What is the matter, <$F600><$0000>?<$FFFE>
- If my eyes aren't  playing a trick on me  the enemy commander is Princess Freya.<$FFFE>
+ If my eyes aren't playing a trick on me the enemy commander is Princess Freya.<$FFFE>
  Eeehh!? You mean she is your childhood friend, <$F600><$0000>?<$FFFE>
  Princess Freya!<$FFFE>
  Who is calling me!?<$FFFE>
- It's me, <$F600><$0000>! You couldn't have forgotten  about me, right?<$FFFE>
- <$F600><$0000>…? …I know no one who goes by that  name!<$FFFE>
+ It's me, Diehärte! You couldn't have forgotten about me, right?<$FFFE>
+ Diehärte…? …I know no one who goes by that name!<$FFFE>
  Freya!?<$FFFE>
- When it comes to the enemy I have no such thing as a memory!<$FFFD>My sole mission is to  defeat you. It's  unfortunate, but if you  insist on attacking, you will have to die!<$FFFE>
- Set up blockades at the  entrances of the town!<$FFFE>
+ I don't recall letting any enemy call me so familiarly!<$FFFD>My sole mission is to defeat you.<$FFFC>I'm sorry, but you'll have to die!<$FFFE>
+ Set up blockades at the entrances of the town!<$FFFE>
  As you wish!<$FFFE>
  Infantry corps, advance!<$FFFE>
  Well then, what would be the best way to take the city…?<$FFFE>
- Sir <$F600><$0000>. Instead of  trying to break through  all the gates, we should concentrate our efforts  on one of them.<$FFFE>
+ Sir <$F600><$0000>. Instead of trying to break through all the gates, we should concentrate our efforts on one of them.<$FFFE>
  What's your opinion on the matter?<$FFFE>
 There's no need for that <$FFFE>
 My plan exactly <$FFFE>
 You're right<$FFFE>
- There's no need for that. We should be able breaking all the gates.<$FFFE>
- Surely it would be possible for us to do  so, but we would suffer unnecessary damage that  way. Please consider my  advice and concentrate our forces.<$FFFE>
+ There's no need for that. We should be able to break through even with divided forces.<$FFFE>
+ Surely it would be possible for us to do so, but we would suffer unnecessary damage that way. Please consider my advice and concentrate our forces.<$FFFE>
  I will think about it.<$FFFE>
  Don't worry. That's what I was planning as well.<$FFFE>
  In that case excuse me for imposing with my unneeded commentary.<$FFFE>
- There's no need for an  apology. Your opinion is much cared about, so  please continue to always speak your mind openly.<$FFFE>
+ There's no need for an apology. Your opinion is much cared about, so please continue to always speak your mind openly.<$FFFE>
  I…I will…<$FFFE>
- …You're right. It  would be unprofitable to divide our troops to attack all gates at  once.<$FFFE>
+ …You're right. It would be unprofitable to divide our troops to attack all gates at once.<$FFFE>
  Yes.<$FFFE>
- Freya, it is me, <$F600><$0000>!<$FFFE>
- …It has been a long time, <$F600><$0000>.<$FFFE>
+ Freya, it is me, Diehärte!<$FFFE>
+ …It has been a long time, Diehärte.<$FFFE>
  So, have you become a knight by now?<$FFFE>
  Yeah.<$FFFE>
- Yeah. It seems like you are doing honor to your  familie's name, <$F600><$0000>.<$FFFE>
- I see. In that case, let me offer my  congratulations.<$FFFE>
- I never would have thought it possible to meet you under such  circumstances…<$FFFE>
- Why did Barral…why did  King Wilder tore apart the alliance and started an invasion on Larcuss!?<$FFFE>
- Half a year back, I met King Wilder in the City  of Laffel but there was  nothing left of the once kind King I knew!<$FFFE>
+ Yeah. I was granted the name <$F600><$0000>.<$FFFE>
+ I see. In that case, let me offer my congratulations.<$FFFE>
+ I never would have thought it possible to meet you under such circumstances…<$FFFE>
+ Why did Barral… why did King Wilder tear up the alliance and invade Larcuss!?<$FFFE>
+ Half a year back, I met King Wilder in the City of Laffel but there was nothing left of the once kind King I knew!<$FFFE>
  Humans change with the flow of time.<$FFFE>
- But you haven't changed  Freya, have you!?<$FFFE>
- I have no desire to  fight you…<$FFFE>
- You're just going easy on me for being a woman!<$FFFE>
- As matters now stand, we  are mutual enemies. I won't hold back  anything!<$FFFE>
- Upon getting close to  the waterfall, the hilt  of a swords comes into sight.<$FFFE>
+ Don't tell me you've changed too, Freya!?<$FFFE>
+ To think even you would take the field…<$FFFE>
+ Don't go easy on me just because I'm a woman!<$FFFE>
+ As matters now stand, we are mutual enemies. I won't hold back anything!<$FFFE>
+ Upon getting close to the waterfall, the hilt of a swords comes into sight.<$FFFE>
  Do you want to pull it out?<$FFFE>
- The Lawnmower was  obtained!<$FFFE>
- The sword flows away to  the inner waterways…<$FFFE>
+ Kusanagi Sword was obtained!<$FFFE>
+ The sword flows away to the inner waterways…<$FFFE>
  Uuwwaa!!<$FFFE>
- I am sorry, <$F600><$0000>. Please carry battle on in my stead…<$FFFE>
+ I'm sorry, <$F600><$0000>. I have no choice but to do this…<$FFFE>
  Iaaa!<$FFFE>
  Khe!<$FFFE>
  Ow!<$FFFE>
@@ -114,46 +110,46 @@ You're right<$FFFE>
  Forgive me, Sir<$F600><$0000>. Retreat seems most advisable!<$FFFE>
  Aaaahh! …I.Impossible…<$FFFE>
  Sir <$F600><$0000>, you commanded us magnificently.<$FFFE>
- Sir <$F600><$0000>… We took way too long fighting…<$FFFD>This will have negative  effects on the next  battle…<$FFFE>
- I hate to have to do this,<$F600><$0000>! Tell me, why did it have to come  to this…?<$FFFE>
- I don't know. I really  don't know, Freya.<$FFFD>The only thing I do know is that if it wasn't for Barral's invasion, there would be no reason for us to fight each other like this!<$FFFE>
- I am the princess of Barral! If the King decides to invade  Larcuss I have no choice but to follow,<$FFFD>even if it makes us  enemies… We cannot go  back to those merry  days. Now there is  nothing left to do but to fight!<$FFFE>
- Freya… I wanted to avoid hurting you, but it seems that it cannot  be helped.<$FFFD>Please prepare yourself.<$FFFE>
+ Sir <$F600><$0000>… We took way too long fighting…<$FFFD>This will have negative effects on the next battle…<$FFFE>
+ It's your fault, <$F600><$0000>!<$FFFC>For coming out in front of me…<$FFFE>
+ I don't know. I really don't know, Freya.<$FFFD>The only thing I do know is that if it wasn't for Barral's invasion, there would be no reason for us to fight each other like this!<$FFFE>
+ I am the princess of Barral! If the King decides to invade Larcuss I have no choice but to follow,<$FFFD>even if it makes us enemies… We cannot go back to those merry days. Now there is nothing left to do but to fight!<$FFFE>
+ Freya… I wanted to avoid hurting you, but it seems that it cannot be helped.<$FFFD>Please prepare yourself.<$FFFE>
  Spare me the pitiful look. Come at me with all your might!<$FFFE>
  Guuaarg!<$FFFE>
  Arrggg!<$FFFE>
  Ahhh!<$FFFE>
  Uuu!<$FFFE>
-I've got to protect…the  princess…<$FFFD>Guuaa!<$FFFE>
+I've got to protect…the princess…<$FFFD>Guuaa!<$FFFE>
  Guuu!<$FFFE>
  Farewell, Princess…<$FFFE>
  You shall not pass! The gate must hold…<$FFFE>
- I couldn't protect…<$FFFE>
- Run…fools…<$FFFD>Guaa!<$FFFE>
+ That I… that I should…<$FFFE>
+ I leave the rest to you…<$FFFD>Guhaa!<$FFFE>
  Curse you!<$FFFE>
- I won't lose to the  likes of you!<$FFFE>
+ Why am I the one losing!?<$FFFE>
  Fuuu!<$FFFE>
  How careless of me…<$FFFE>
  Forgive me, Princess…<$FFFE>
  Never would I have expected…<$FFFE>
  No way!?<$FFFE>
  Uwaaa!<$FFFE>
- I thought we would win…<$FFFE>
+ C, can't win…<$FFFE>
  That's not true…<$FFFE>
  Urg…<$FFFE>
- Damn! So many things  left undone…<$FFFE>
+ Damn! I messed up…<$FFFE>
  P…Princess…<$FFFE>
  G.Guuuarg!<$FFFE>
- Both the Archers and the infantry have been crushed!?<$FFFD>The remnants of Larcuss  wield great power…<$FFFE>
- The troops that defended the gates are no more… Now it's up to the Infantry and Archers to  hold them off…<$FFFE>
- The Archers have been  routed too…<$FFFE>
- Both the Archers and the infantry have been crushed!?<$FFFE>
- Survivors of Larcuss! Turn back now or suffer  the consequences!<$FFFE>
- You won't pass through this gate!<$FFFE>
- Not over my  dead…body…<$FFFE>
- Never will you make  it…<$FFFD>You won't lay as much as finger on the princess!<$FFFE>
- You had your chance to run! Now, prepare to  breath your last breath!<$FFFE>
+ Both the Archers and the Blockade unit have been crushed!?<$FFFD>The remnants of Larcuss wield such power…?<$FFFE>
+ The troops that defended the gates are no more… Now it's up to the Infantry and Archers to hold them off…<$FFFE>
+ The Archers have been routed too…<$FFFE>
+ The Archers wiped out before the Blockade!?<$FFFE>
+ Larcuss survivors! You should have stayed quietly at the borderlands, but you've come here to die!<$FFFE>
+ If you want to pass this gate, you'll have to defeat me first!<$FFFE>
+ Not over my dead…body…<$FFFE>
+ Never thought we'd be pushed this far…<$FFFD>But I won't let you lay a finger on the princess!<$FFFE>
+ There's no more retreating! I cannot lose here!<$FFFE>
  I must take full responsibility for all the soldiers that died today!<$FFFE>
- The enemy has made their move, prepare countermeasures!<$FFFE>
+ We're moving out now!<$FFFE>
  Be careful out there!<$FFFE>
  Yessir!<$FFFE> 

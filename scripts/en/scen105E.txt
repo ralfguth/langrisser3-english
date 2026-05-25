@@ -1,34 +1,30 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Worm<$FFFF>
-Gerold <$FFFF>
-Barral Castle <$FFFF>
- …I call upon thee Lushiris, oh holy goddess of light, please  lend me your restoring powers.<$FFFD>Holy light purify this one from the wicked evil that robs his freedom.<$FFFD>Less Ibiru Dasu Remu!<$FFFE>
+Gerold<$FFFF>
+Barral Castle<$FFFF>
+ …I call upon thee Lushiris, oh holy goddess of light, please lend me your restoring powers.<$FFFD>Holy light purify this one from the wicked evil that robs his freedom.<$FFFD>Less Ibiru Dasu Remu!<$FFFE>
  Kikikii!<$FFFE>
-…<$FFFE>
+…Guh!<$FFFE>
  Are you alright Gerold?<$FFFE>
- …Yes. So this is the  pain I have to endure  for my crimes as the Dark Knight…<$FFFD>Uuh…<$FFFE>
- We have to set out for Laffel immediately. But you should take it easy  and try to rest up for now.<$FFFE>
- …I will do no such  thing.<$FFFB>I must go as well, to  see Layla once more.<$FFFE>
- We will take our leave immediately. Everyone, let's hurry back to  Laffel!<$FFFE>
+ …Yes. So this is the pain I have to endure for my crimes as the Dark Knight…<$FFFD>Uuh…<$FFFE>
+ We will head for Laffel right away. Gerold, you should rest a while.<$FFFE>
+ …Forgive me.<$FFFB>But I will surely follow. Until then, please look after Layla.<$FFFE>
+ Leave it to us. Everyone, let's hurry back to Laffel!<$FFFE>
  Farewell, Father. Sleep tight…sleep peacefully…<$FFFE> 

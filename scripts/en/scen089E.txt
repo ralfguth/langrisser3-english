@@ -1,66 +1,62 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-King Sieghart <$FFFF>
-Field Marshal Altemuller<$FFFF>
+Emerick<$FFFF>
+King Sieghart<$FFFF>
+Field Marshal Altemüller<$FFFF>
 Elthlead Soldier<$FFFF>
-Bozel <$FFFF>
-Reaper Grove <$FFFF>
+Böser<$FFFF>
+Reaper Grove<$FFFF>
 Feraquea<$FFFF>
- Elthlead's Royal Capitol, Larcussia <$0236> Audience Hall <$FFFF>
- For now, we of Elthlead  and the Riguler Empire shall agree to a cease fire until the defeat of Velzeria.<$FFFE>
- Elthlead has barely even been established as a country. Right now we  would rather focus our efforts on settling our  internal affairs than on fighting.<$FFFE>
- We of the Empire are in  the same boat. These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
- And with the recent  death of our Kaiser, the administration is in a state of instability. So, neither of us have  the luxury of ignoring this mutual problem posed by Velzeria.<$FFFE>
- As things stand now, it  is mutually beneficial to formalize this truce.<$FFFE>
+Elthlead's Royal capital, Larcussia - Audience Hall<$FFFF>
+ For now, we of Elthlead and the Rigüler Empire shall agree to a cease fire until the defeat of Velzeria.<$FFFE>
+ Elthlead has barely even been established as a country. Right now we would rather focus our efforts on settling our internal affairs than on fighting.<$FFFE>
+ We of the Empire are in the same boat. These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
+ And with the recent death of our Kaiser, the administration is in a state of instability. So, neither of us have the luxury of ignoring this mutual problem posed by Velzeria.<$FFFE>
+ As things stand now, it is mutually beneficial to formalize this truce.<$FFFE>
  With that done, I bid you farewell.<$FFFE>
 …<$FFFE>
  What's wrong, Tiaris?<$FFFE>
  Say, <$F600><$0000>.<$FFFE>
- Do you approve of  allying with that guy?<$FFFE>
+ Do you approve of allying with that guy?<$FFFE>
  Oh, that's what's bothering you.<$FFFE>
- I think it's a good  thing that we don't have to fight both Velzeria and the Empire at the  same time.<$FFFE>
+ I think it's a good thing that we don't have to fight both Velzeria and the Empire at the same time.<$FFFE>
  …I guess so.<$FFFE>
- If it's okay for you, I think I can live with it too.<$FFFE>
+ If <$F600><$0000> agrees, then I agree too.<$FFFE>
  Tiaris…<$FFFE>
  …I just can't believe it. That guy…killed Father…<$FFFE>
  Tiaris…<$FFFE>
- King Sieghart, Lady  Jessica has arrived.<$FFFE>
+ King Sieghart, Lady Jessica has arrived.<$FFFE>
  Lady Jessica?<$FFFD>Send her right in.<$FFFE>
  Yes, sir!<$FFFE>
- My, my, Lady Jessica. You are quite a sight  for sore eyes.<$FFFE>
- I have thought of a plan to strike against  Velzeria.<$FFFE>
+ My, my, Lady Jessica. You are quite a sight for sore eyes.<$FFFE>
+ I have thought of a plan to strike against Velzeria.<$FFFE>
  Many thanks for your efforts.<$FFFE>
- By using the power of  the demon sword, the Alhazard, Bozel has amplified his powers of  darkness and been able to negate the power of the Lushiris Gate.<$FFFD>We must obtain the power to overcome the demon  blade, the Alhazard.<$FFFE>
- Is the Haja no Ken not sufficient?<$FFFE>
- Of course, the Haja no Ken is important.<$FFFD>However, we can't  overcome the Alhazard  with just the power of the Haja no Ken.<$FFFE>
- So the Alhazard is that  powerful…<$FFFE>
- To strengthen the power  of the Haja no Ken, we  need to secure the cooperation of a certain person.<$FFFD>Please, help me escort  this person to the center of the Lushiris Gate.<$FFFE>
+ By using the power of the demon sword, the Alhazard, Böser has amplified his powers of darkness and been able to negate the power of the Lushiris Gate.<$FFFD>We must obtain the power to overcome the demon blade, the Alhazard.<$FFFE>
+ Is the Sword of Decimation not sufficient?<$FFFE>
+ Of course, the Sword of Decimation is important.<$FFFD>However, we can't overcome the Alhazard with just the power of the Sword of Decimation.<$FFFE>
+ So the Alhazard is that powerful…<$FFFE>
+ To strengthen the power of the Sword of Decimation, we need to secure the cooperation of a certain person.<$FFFD>Please, help me escort this person to the center of the Lushiris Gate.<$FFFE>
  I hate to ask this, but could I once more depend on you all?<$FFFE>
  Of course.<$FFFE>
-Velzeria Castle <$FFFF>
- I can't believe this turn of events. Altemuller's very  existence has become a hindrance to our plans.<$FFFE>
- Grove! Hurry up the  assassination of this  pest!<$FFFE>
+Velzeria Castle<$FFFF>
+ I can't believe this turn of events. Altemüller's very existence has become a hindrance to our plans.<$FFFE>
+ Grove! Hurry up the assassination of this pest!<$FFFE>
  Yes, my lord!<$FFFE>
- Now, what to do about  Elthlead…<$FFFE>
- Lord Bozel, please let  me deal with Elthlead.<$FFFE>
+ Now, what to do about Elthlead…<$FFFE>
+ Lord Böser, please let me deal with Elthlead.<$FFFE>
  Feraquea… Very well, I shall leave it to you.<$FFFE> 

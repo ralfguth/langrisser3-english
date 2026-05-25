@@ -1,49 +1,45 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Viscount Raymond<$FFFF>
-Field Marshal Altemuller<$FFFF>
+Field Marshal Altemüller<$FFFF>
 Healer<$FFFF>
-Riguler Commander <$FFFF>
-General Bortz <$FFFF>
- Scenario <$0236> 18 "Ultimate Military Device of Antiquity"<$FFFE>
- Without a doubt, they  now had to defeat the  Empire's magically propelled giant soldier  and rescue Lord Raymond.<$FFFE>
- They had to rescue Lord  Raymond, who had been  defeated by the Empire's magical war machine and  taken prisoner.<$FFFE>
- <$01E9>Condition for Victory  Defeat both General  Bortz and the magically  propelled giant soldier, Galshook <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE>
+Rigüler Commander<$FFFF>
+General Bortz<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-18<$FFFC><$0000><$0000>Ultimate Military Device<$0000><$0000><$FFFC><$0000><$0000><$0000><$0000><$0000>of Antiquity<$0000><$0000><$0000><$0000><$0000><$FFFE>
+ After defeating Princess Freya and reclaiming the city of Laffel, the young knight's mobile division received grim news: the main force had been destroyed.<$FFFE>
+ They had to rescue Lord Raymond, who had been defeated by the Empire's magical war machine and taken prisoner.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat both General Bortz and the magically propelled giant soldier, Galshook<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
 Field of Battle Near Larcussia Castle<$FFFF>
  U…ugh…<$FFFE>
- How's Lord Raymond's  condition?<$FFFE>
- Your Excellency  Altemuller, as you can  see,<$FFFD>Lord Raymond yet clings  to life. However, it  would be dangerous to  move him right now.<$FFFE>
- You're just as hardy as  I've heard, Lord  Raymond. When you've recovered from your  wound, we will take you  to the Empire.<$FFFD>Of course, you won't come as a guest, but rather as a prisoner.<$FFFE>
+ How's Lord Raymond's condition?<$FFFE>
+ Your Excellency Altemüller, as you can see,<$FFFD>Lord Raymond yet clings to life. However, it would be dangerous to move him right now.<$FFFE>
+ You're just as hardy as I've heard, Lord Raymond. When you've recovered from your wound, we will take you to the Empire.<$FFFD>Of course, you won't come as a guest, but rather as a prisoner.<$FFFE>
  U…gh…<$FFFE>
- Your Excellency!<$FFFD>It looks like Laffel, previously occupied by Barral, has been  captured by Larcuss  forces.<$FFFE>
- …The independent  forces commanded by that <$F600><$0000> fellow, I see.<$FFFD>They will probably head here and try to rescue Lord Raymond.<$FFFD>Send a message to Bortz. Tell him to use the  magically propelled  giant soldier to end the threat of this force.<$FFFE>
+ Your Excellency!<$FFFD>It looks like Laffel, previously occupied by Barral, has been captured by Larcuss forces.<$FFFE>
+ …The independent forces commanded by that <$F600><$0000> fellow, I see.<$FFFD>They will probably head here and try to rescue Lord Raymond.<$FFFD>Send a message to Bortz. Tell him to use the magically propelled giant soldier to end the threat of this force.<$FFFE>
  Yes, sir!<$FFFE>
- It's about time for me to return as well. Bring word to our main headquarters as soon as  Lord Raymond's condition stabilizes.<$FFFE>
+ It's about time for me to return as well. Bring word to our main headquarters as soon as Lord Raymond's condition stabilizes.<$FFFE>
  As you wish.<$FFFE>
-Larcussia Defense  Perimeter <$0236> Imperial  Front Line Base <$FFFF>
-General Bortz! We've  received orders from His Excellency Altemuller.<$FFFE>
+Larcussia Defense Perimeter - Imperial Front Line Base<$FFFF>
+General Bortz! We've received orders from His Excellency Altemüller.<$FFFE>
  Great, what do they say?<$FFFE>
- We are to intercept and  destroy the surviving  rebel army which is  headed here, using the Galshook.<$FFFE>
- There's a remaining military force headed  here!?<$FFFD>Very well. Tell him I shall accept this  mission.<$FFFE>
+ We are to intercept and destroy the surviving rebel army which is headed here, using the Galshook.<$FFFE>
+ There's a remaining military force headed here!?<$FFFD>Very well. Tell him I shall accept this mission.<$FFFE>
  Yes, sir!<$FFFE>
  If possible, I would rather not use the Galshook…<$FFFD>But if they were able to retake Laffel, I might not have that luxury.<$FFFE> 

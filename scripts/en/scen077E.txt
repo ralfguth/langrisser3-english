@@ -1,64 +1,60 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-General Bortz <$FFFF>
-Riguler Commander <$FFFF>
-Thief <$FFFF>
+Emerick<$FFFF>
+General Bortz<$FFFF>
+Rigüler Commander<$FFFF>
+Thief<$FFFF>
 Verdant Plains Distant from the Battlefield<$FFFF>
- …Looks like we've  managed to lose our  pursuers.<$FFFE>
- However, to have defeated the Galshook  was no mean task…<$FFFE>
- Whatever, even if it was  crafted using incredibly ancient technology, it  was still made by  humans. And whatever is made is destined to be broken sometime.<$FFFD>Nonetheless, it did a good job of cutting down our foe's soldiers.<$FFFE>
+ …Looks like we've managed to lose our pursuers.<$FFFE>
+ However, to have defeated the Galshook was no mean task…<$FFFE>
+ Whatever, even if it was crafted using incredibly ancient technology, it was still made by humans. And whatever is made is destined to be broken sometime.<$FFFD>Nonetheless, it did a good job of cutting down our foe's soldiers.<$FFFE>
  What shall we do from here on out, General Bortz?<$FFFE>
- We would better get the  hell out of here.<$FFFD>For now, we need to  evacuate our soldiers  and carry off our  equipment to the airship base. The time has come to return to headquarters.<$FFFD>No point in taking further casualties here. We can counterattack after we've managed an orderly retreat.<$FFFE>
- Roger that.<$FFFD>With you commanding us, General, I am certain we will run into no difficulties in our  retreat.<$FFFE>
+ We would better get the hell out of here.<$FFFD>For now, we need to evacuate our soldiers and carry off our equipment to the airship base. The time has come to return to headquarters.<$FFFD>No point in taking further casualties here. We can counterattack after we've managed an orderly retreat.<$FFFE>
+ Roger that.<$FFFD>With you commanding us, General, I am certain we will run into no difficulties in our retreat.<$FFFE>
  Hey now, don't think that flattery will get you promoted any faster!<$FFFE>
-Of course not, surely  you jest, sir.<$FFFD>I simply meant to  express the pride I've  learned by serving in  General Bortz's army!<$FFFE>
- …<$FFFD>I've been damned  fortunate to have  subordinates like you, too.<$FFFD>Alright! Now that's been decided, make  preparations for the withdrawal!<$FFFE>
+Of course not, surely you jest, sir.<$FFFD>I simply meant to express the pride I've learned by serving in General Bortz's army!<$FFFE>
+ …<$FFFD>I've been damned fortunate to have subordinates like you, too.<$FFFD>Alright! Now that's been decided, make preparations for the withdrawal!<$FFFE>
  Yes, sir!<$FFFE>
-Larcussia Defense  Perimeter <$0236> Imperial  Frontline Base<$FFFF>
- General Bortz… He was  a formidable opponent.<$FFFE>
- Boss, we've just gotten  some news!<$FFFE>
+Larcussia Defense Perimeter - Imperial Frontline Base<$FFFF>
+ General Bortz… He was a formidable opponent.<$FFFE>
+ Boss, we've just gotten some news!<$FFFE>
  Well done.<$FFFD>So, what's the story?<$FFFE>
- Listen to this.<$FFFD>We found out that Lord Raymond was wounded  grievously and captured  with ease by the Empire.<$FFFE>
- Well, I am glad that  he's at least safe…<$FFFE>
- Also, it looks like they  plan on sending him to the Imperial capitol by  airship once he's recuperated.<$FFFE>
- In that case, we don't  have any time to waste.<$FFFE>
- Well, for now I think we  should continue to pursue the routed  General Bortz.<$FFFD>He wasn't a weak foe this last battle, and I am afraid what he will try next after that  attack using the magically propelled  giant soldier.<$FFFD>If we let him regather his scattered troops, we  will be in trouble.<$FFFE>
+ Listen to this.<$FFFD>We found out that Lord Raymond was wounded grievously and captured with ease by the Empire.<$FFFE>
+ Well, I am glad that he's at least safe…<$FFFE>
+ Also, it looks like they plan on sending him to the Imperial capital by airship once he's recuperated.<$FFFE>
+ Then we still have a little time.<$FFFE>
+ Well, for now I think we should continue to pursue the routed General Bortz.<$FFFD>He wasn't a weak foe this last battle, and I am afraid what he will try next after that attack using the magically propelled giant soldier.<$FFFD>If we let him regather his scattered troops, we will be in trouble.<$FFFE>
  I was going to say the same thing.<$FFFE>
- I feel badly for Lewin, but I think it would be  best if we would hurry and continue our pursuit.<$FFFE>
+ I feel badly for Lewin, but I think it would be best if we would hurry and continue our pursuit.<$FFFE>
 …<$FFFE>
  What do you say?<$FFFE>
- We should considerLewin's feelings.<$FFFE>
+ We should consider Lewin's feelings.<$FFFE>
  We've no choice…<$FFFE>
  That's right.<$FFFE>
- Why don't we offer a little more  consideration for  Lewin's feelings?<$FFFE>
- I hate to say it, but we  really don't have time for skittishness or  dickering around.<$FFFD>We're at war, are we  not? And you've said yourself that we're  working to restore our former homeland.<$FFFE>
- If it were just me, I would be strongly  against abandoning someone who seems in such dire straits.<$FFFD>But, if the Empire's power returns to its peak, many more people…<$FFFE>
+ Why don't we offer a little more consideration for Lewin's feelings?<$FFFE>
+ I hate to say it, but we really don't have time for skittishness or dickering around.<$FFFD>We're at war, are we not? And you've said yourself that we're working to restore our former homeland.<$FFFE>
+ If it were just me, I would be strongly against abandoning someone who seems in such dire straits.<$FFFD>But, if the Empire's power returns to its peak, many more people…<$FFFE>
  …So this is war…<$FFFE>
  …Yes.<$FFFE>
- Hmm…<$FFFB>I think if we move quickly enough, we  should be able to  overtake General Bortz.<$FFFD>But, Lewin. Don't let it  get you down.<$FFFE>
- We will definitely give  our best shot at rescuing Lord Raymond. And after that, we will work to restore this country!<$FFFE>
- The two of you have it right. We will stick to  our earlier plan and chase down General Bortz for now.<$FFFE>
+ Hmm…<$FFFB>I think if we move quickly enough, we should be able to overtake General Bortz.<$FFFD>But, Lewin. Don't let it get you down.<$FFFE>
+ We will definitely give our best shot at rescuing Lord Raymond. And after that, we will work to restore this country!<$FFFE>
+ The two of you have it right. We will stick to our earlier plan and chase down General Bortz for now.<$FFFE>
 …<$FE28>…<$FE0F>…<$FE0F>…<$FE0F><$FFFE>
- Well then, I will trust  you to keep watch until  they start moving Lord Raymond to the Imperial  capitol.<$FFFE>
+ Well then, I will trust you to keep watch until they start moving Lord Raymond to the Imperial capital.<$FFFE>
  No problem. If anything changes, I will get word to you ASAP.<$FFFD>Farewell.<$FFFE>
- Alright, time for us to  head out, too!<$FFFE> 
+ Alright, time for us to head out, too!<$FFFE> 

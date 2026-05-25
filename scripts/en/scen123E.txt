@@ -1,60 +1,56 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Kaiser Kleist <$FFFF>
-Field Marshal Altemuller<$FFFF>
-First prince Paul <$FFFF>
+Emerick<$FFFF>
+Kaiser Kleist<$FFFF>
+Field Marshal Altemüller<$FFFF>
+First Prince Paul<$FFFF>
 Barral Commander<$FFFF>
-King Wilder <$FFFF>
-Princess Freya <$FFFF>
-Mysterious man<$FFFF>
-Colcian General <$FFFF>
-Colcian Soldier <$FFFF>
-In front of the Royal  Capitol Larcussia<$FFFF>
- TEST 1<$FFFE>
- TEST 2<$FFFE>
- TEST 3<$FFFE>
- TEST 4<$FFFE>
-Riguler Imperial castle  <$0236> Audience Hall<$FFFF>
- Field Marshal  Altemuller… The invasion of Larcussia was a splendid success, thanks to your efforts.<$FFFD>If we were to conquer  the Vice Capitol Laffel  next, it surely would benefit the whole  Empire…<$FFFE>
- Understood! It shall be as you wish.<$FFFE>
- The future of the Empire depends… …Aghh!<$FFFE>
- Father…<$FFFE>
- Don't worry yourself… As of late, I don't feel…<$FFFD>…Ugh!<$FFFE>
- Your Majesty!?<$FFFE>
-Vice Capitol Laffel <$FFFF>
- Sir, the princess has  arrived.<$FFFE>
- Good.<$FFFE>
- Father, it has been a while.<$FFFE>
- Oh, Freya. How do you  like Laffel? I guess if  you compare it to the  Royal Capitol Larcussia it isn't much though…<$FFFD>But no matter, sooner or later we will conquer  the royal capitol as well.<$FFFE>
- It seems like Larcussia has fallen into the  hands of the Riguler Empire…<$FFFE>
- Father, don't tell me you are planning to go against the Empire!?<$FFFE>
- There's no need to be concerned. With General  Dios and our newest  associate even the Empire will bow down before us…<$FFFE>
+King Wilder<$FFFF>
+Princess Freya<$FFFF>
+Mysterious Man<$FFFF>
+Colcian General<$FFFF>
+Colcian Soldier<$FFFF>
+In front of the Royal capital Larcussia<$FFFF>
+The prosperous Larcuss trusted<$FFFC>too much in the Magical Cannon<$FFFC>of its Floating Castle and kept <$FFFC>only a small army.<$FFFE>
+After Field Marshal Altemüller<$FFFC>shot down the Floating Castle,<$FFFC>Larcussia, the capital, lay<$FFFC>utterly defenseless before<$FFFC>the Empire's mighty advance.<$FFFE>
+Within mere months, the capital<$FFFC>and most of the kingdom had<$FFFC>fallen under Imperial control,<$FFFC>bending to the Empire's rule.<$FFFE>
+Hearing of the castle's fall,<$FFFC>nearby nations rose in revolt.<$FFFC>Barral seized the Vice Capital,<$FFFC>while Colcia claimed the west.<$FFFC>                <$FFFD><$FFFC><$FFFE>
+Imperial Castle- Audience Hall<$FFFF>
+Field Marshal Altemüller<$FFFC>The Larcussian campaign<$FFFC>was a complete triumph.<$FFFD>Larcussia is ours now,<$FFFC>and Rigüler's people<$FFFC>shall share its bounty…<$FFFE>
+Yes, sire! I am humbled<$FFFC>by your gracious words.<$FFFE>
+From this day forth,<$FFFC>the Empire shall...<$FFFD>...*cough*!!<$FFFE>
+Father…<$FFFE>
+Do not be troubled...<$FFFC>It is but a passing...<$FFFD>...Ugh!<$FFFE>
+Your Majesty!?<$FFFE>
+City of Laffel<$FFFF>
+The princess is here.<$FFFE>
+Good.<$FFFE>
+Father, after so long.<$FFFE>
+Oh, Freya. How do you<$FFFC>find Laffel? It pales<$FFFC>beside royal capital<$FFFC>Larcussia, I suppose…<$FFFD>But no matter. In time<$FFFC>we shall conquer the<$FFFC>royal capital as well.<$FFFE>
+It seems Larcussia has<$FFFC>fallen into the hands <$FFFC>of the Rigüler Empire…<$FFFE>
+Father, don't tell me<$FFFC>you'll defy the Empire!?<$FFFE>
+Don't worry. With Dios<$FFFC>and this fellow here,<$FFFC>the Empire is no match.<$FFFE>
 …<$FFFE>
- Who is he…?<$FFFE>
- A man with a heart as  black as the night…Dark Knight, would be a suitable  name, no? He will act as  Barral's new supreme commander.<$FFFD>I can't wait to put him to test against the  Empire… Hohohoho!<$FFFE>
-<$FFFE>
- The Imperials already  have made their move, now it's our turn to take our slice of the  cake.<$FFFD>Glory for the Kingdom of Colcia! All troops  advance!<$FFFE>
- Oohhh!<$FFFE>
-Half a year later <$0236> Raymond's mansion <$FFFF>
-<$FFFE>
-<$FFFE>
+Who is he?<$FFFE>
+Black Knight… no, now<$FFFC>he is the Dark Knight,<$FFFC>Barral Army's supreme <$FFFC>commander.<$FFFD>With the Dark Knight,<$FFFC>the Empire is nothing …<$FFFC>Bwahahaha!<$FFFE>
+Now within Larcuss, the armies <$FFFC>of many nations clash, while<$FFFC>old prosperity fades away.<$FFFE>
+We saw Rigüler's move <$FFFC>and meant to strike at<$FFFC>once, but fell behind.<$FFFD>Yet Colcia shall have<$FFFC>the last laugh. <$FFFC>Advance!<$FFFE>
+Oohhh!<$FFFE>
+Half year later<$FFFF>
+Narrowly escaping the castle,<$FFFC>the group reached Viscount<$FFFC>Raymond, border lord and<$FFFC>uncle of <$F600><$0000>,<$FFFC>and plotted to reclaim home.<$FFFE>
+Half a year passed swiftly,<$FFFC>a sizeable force had gathered <$FFFC>at Viscount Raymond's side.<$FFFE>

@@ -1,70 +1,70 @@
 Footmen with stronger attack power than Soldiers.<$FFFF>
 Because they wear light armor, their movement rate is high.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 They are the foundation foot soldier unit.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
- <$FFFF>
+<$FFFF>
 Footmen with stronger defense than Soldiers.<$FFFF>
 Their magic resistance is also a bit higher.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Puzzling apparitions which have come from another universe.<$FFFF>
 Since they are akin to footmen.<$FFFF>
 they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 The strongest footmen and pride of Rig??er Empire.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
- <$FFFF>
+<$FFFF>
 A lesser breed of werewolves.  Faster than<$FFFF>
 ordinary footmen, but weaker against magic.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Dark Guards' statistics have been boosted beyond<$FFFF>
 the level of ordinary footmen by dark magic.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Carnivorous giants 2-3 meters in stature.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
- <$FFFF>
+<$FFFF>
 Mad warriors of the Shika Tribe.  They have higher<$FFFF>
 attack power at the expense of their defense.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Ordinary Shika Tribe footmen.  Because of<$FFFF>
 poor equipment, their power is a bit lacking.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Warriors of the Shika Tribe whose gigantic<$FFFF>
 shields grant a large defensive bonus.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 As a product of their studies, they are stronger<$FFFF>
 than Guardsmen against Demons and Undead.<$FFFF>
-Like footmen, they can overpower pikemen with ease, <$FFFF>
+Like footmen, they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 A breed of footmen who have long fought against<$FFFF>
 Demons and Undead with the power of the gods.<$FFFF>
-Like footmen, they can overpower pikemen with ease, <$FFFF>
+Like footmen, they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Holy warriors stronger against humans than<$FFFF>
 against Demons and the Undead.<$FFFF>
-Like footmen, they can overpower pikemen with ease, <$FFFF>
+Like footmen, they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 A breed of footmen who have long fought against<$FFFF>
 Demons and Undead with the power of the gods.<$FFFF>
-Like footmen, they can overpower pikemen with ease, <$FFFF>
+Like footmen, they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 As a product of their studies, they are stronger<$FFFF>
 than Fanatics against Demons and Undead.<$FFFF>
-Like footmen, they can overpower pikemen with ease, <$FFFF>
+Like footmen, they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Unholy warriors who are stronger against<$FFFF>
 humans than against Demons or Undead.<$FFFF>
-Like footmen, they can overpower pikemen with ease, <$FFFF>
+Like footmen, they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 This force can make ranged attacks with bows.<$FFFF>
 Their defense ability is stronger than<$FFFF>
@@ -85,12 +85,12 @@ Strongest against aerial units.<$FFFF>
 Experts in fighting aerial units.  Their base<$FFFF>
 stats might be worse than normal archers,<$FFFF>
 but they are by far the strongest against aerial units.<$FFFF>
- <$FFFF>
+<$FFFF>
 Elves who follow the dark gods, and can<$FFFF>
 make ranged attacks like elves.  They possess<$FFFF>
 stronger magic resistance than normal elves.<$FFFF>
 Strongest against aerial units.<$FFFF>
-As sorceresses who follow the dark gods, <$FFFF>
+As sorceresses who follow the dark gods,<$FFFF>
 they can make ranged magic attacks.<$FFFF>
 They also have strong magic resistance.<$FFFF>
 Strongest against aerial units.<$FFFF>
@@ -105,7 +105,7 @@ Strongest against aerial units.<$FFFF>
 Half-man, half-horse archers.  Able to make<$FFFF>
 both ranged and direct attacks effectively.<$FFFF>
 Strongest against aerial units.<$FFFF>
- <$FFFF>
+<$FFFF>
 Half-man, half-horse archers with magic tails.<$FFFF>
 They have stronger attacks and more mobility,<$FFFF>
 but less defense, than Centauros units.<$FFFF>
@@ -113,10 +113,10 @@ Strongest against aerial units.<$FFFF>
 These water spirits with human form have<$FFFF>
 excellent aquatic mobility.  But, they can't perform<$FFFF>
 well on land.  They can overpower pikemen with<$FFFF>
-ease, but are plowed down by cavalry.  <$FFFF>
+ease, but are plowed down by cavalry.<$FFFF>
 Mermen are stronger and faster than ordinary<$FFFF>
 footmen when in an aquatic area.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 This aquatic unit is ill-suited to conflict on land.<$FFFF>
 But, in the water its mobility and power are<$FFFF>
@@ -132,23 +132,23 @@ brawn but no brains.  Can overpower pikemen,<$FFFF>
 but they are plowed down by cavalry.<$FFFF>
 These berserk, oversized lobsters are well-suited<$FFFF>
 to moving and fighting in the sea.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 These berserk, oversized lobsters are supreme<$FFFF>
 in aquatic warfare.  But, they are quite poor on land.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 These giant frogs trained by the Shika Tribe<$FFFF>
 are excellent at aquatic warfare.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 These man-eating sharks trained by the Shika Tribe<$FFFF>
 are quite powerful in aquatic warfare.<$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 These killer whales trained by the Shika Tribe<$FFFF>
-are even stronger than the Shika sharks in the water. <$FFFF>
-They can overpower pikemen with ease, <$FFFF>
+are even stronger than the Shika sharks in the water.<$FFFF>
+They can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Assault cavalry stronger than Troopers at offense.<$FFFF>
 Their defense is lower, but mobility is also higher.<$FFFF>
@@ -244,11 +244,11 @@ strong against all ground units.<$FFFF>
 Archers can shoot them out of the sky.<$FFFF>
 Aerial units prided for their strong defense and<$FFFF>
 magic resistance.  A good unit all-around:<$FFFF>
-effective against both aerial and ground units. <$FFFF>
+effective against both aerial and ground units.<$FFFF>
 Archers can shoot them out of the sky.<$FFFF>
 Giant bats which have trained to fight against<$FFFF>
 aerial units.<$FFFF>
- <$FFFF>
+<$FFFF>
 Archers can shoot them out of the sky.<$FFFF>
 Evil faeries who specialize against ground units.<$FFFF>
 Their mobility suffers, but they are exceptionally<$FFFF>
@@ -318,16 +318,16 @@ They fight extraordinarily well.  Strong against<$FFFF>
 pikes, weak against cavalry and holy units.<$FFFF>
 Dragons with more furious attacks than the<$FFFF>
 Red Dragons.  Covered in black scales which<$FFFF>
-are thinner than other dragonscales.  <$FFFF>
- <$FFFF>
+are thinner than other dragonscales.<$FFFF>
+<$FFFF>
 These red-scaled dragons are a bit dull.<$FFFF>
 They make up for this with the berserk fury<$FFFF>
 of their powerful attacks.<$FFFF>
- <$FFFF>
+<$FFFF>
 Living in the high northern mountains, these dragons<$FFFF>
 are relatively docile.  However, their white scaled<$FFFF>
 armor is the strongest of the lesser dragons.<$FFFF>
- <$FFFF>
+<$FFFF>
 Liquid creatures with malleable shape.<$FFFF>
 They survive by engulfing and dissolving others.<$FFFF>
 They are very resistant to most attacks, but<$FFFF>
@@ -343,7 +343,7 @@ They can absorb wind-based attacks.<$FFFF>
 Being ordinary citizens, they aren't trained<$FFFF>
 for war and can't fight at all.<$FFFF>
 They are especially weak against cavalry.<$FFFF>
- <$FFFF>
- <$FFFF>
- <$FFFF>
- <$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>
+<$FFFF>

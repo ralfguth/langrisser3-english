@@ -1,0 +1,36 @@
+Langrisser III CN dump — scen092
+# 32 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+艾[?0775][?0332][?0445]将军<$FFFF>
+法娜将军<$FFFF>
+加艾鲁将军<$FFFF>
+ <$FFFC>   SCENARIO-26<$FFFC>      『[?1666][?1997]』<$FFFE>
+拉卡斯王族的幸存者要坚持自己的<$FFFC>王位权？<$FFFC>王族不是应该全都被帝国军给处死了<$FFFC>吗？这、尤居是……？<$FFFE>
+在不停[?1228]现的[?1666][?1997]之中，别动队一路<$FFFC>向着王都赶去。<$FFFC>但是，每个人的心中，都出现了动乱<$FFFC>的预感。<$FFFE>
+※胜利条件<$FFFC> ・击败王族理查德<$FFFC>※败北条件<$FFFC> ・<$F600 0000>死亡<$FFFE>
+帝国军军营～早[?0110]～<$FFFF>
+阿、阿鲁迪缪拉阁下……。<$FFFE>
+到、到底是谁，把阁下给！<$FFFE>
+………唉……<$FFFE>
+……是有人、把[?0051]混在[?1188]里了吗？<$FFFC>是谁、谁把阁下给……。该死！<$FFFE>
+我一定要找出[?1723]人！<$FFFC>而且，要亲手把他给血祭了！<$FFFE>
+呵呵呵！<$FFFC>虽然不知道是谁干的，但这下倒[?2199]了我功[?0592]……。<$FFFE>

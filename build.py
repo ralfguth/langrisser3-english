@@ -41,6 +41,9 @@ from d00_tools import (
 from font_tools import (
     CHAR_TILE_MAP, BIGRAM_TILE_MAP, generate_english_font,
 )
+from plot_tools import (
+    encode_plot_script, parse_plot, round_trip_test as plot_round_trip,
+)
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -63,25 +66,33 @@ MENU_PATCHES = {
     'LANG/BATTLE/SYSWIN.BIN': 'syswin.bin',         # Battle window UI
 }
 
-# Default JP disc location (can be overridden with --jp-iso)
-_DEFAULT_JP_DIR = Path.home() / 'Jogos/emulacao/romsets/sega-saturn/Langrisser III (Japan)'
+# JP disc location is contributor-specific. Set the LANG3_JP_DIR env
+# var in your shell config to avoid passing --jp-iso every run.
+_JP_DIR_ENV = 'LANG3_JP_DIR'
 
 
 def main():
-    import argparse
+    import argparse, os
     parser = argparse.ArgumentParser(description='Build Langrisser III English Translation')
-    parser.add_argument('--jp-iso', type=Path, default=None,
-                        help='Path to Japanese disc directory (containing .cue and Track 01 .bin)')
-    parser.add_argument('--chd', action='store_true',
-                        help='Also produce a single-file CHD via chdman (RetroArch-friendly)')
+    parser.add_argument(
+        '--jp-iso', type=Path, default=None,
+        help='Path to Japanese disc directory (containing .cue and Track 01 .bin). '
+             f'Falls back to ${_JP_DIR_ENV} env var if not given.',
+    )
     args = parser.parse_args()
 
-    # Resolve JP disc location
-    jp_dir = args.jp_iso or _DEFAULT_JP_DIR
+    # Resolve JP disc location: CLI flag → env var → error
+    env_path = os.environ.get(_JP_DIR_ENV)
+    jp_dir = args.jp_iso or (Path(env_path) if env_path else None)
+    if jp_dir is None:
+        print(f'ERROR: JP disc directory not configured.')
+        print(f'  Either pass --jp-iso /path/to/disc/directory')
+        print(f'  or set the {_JP_DIR_ENV} env var (e.g. in ~/.bashrc):')
+        print(f'    export {_JP_DIR_ENV}="/path/to/Langrisser III (Japan)"')
+        return 1
     jp_dir = Path(jp_dir)
     if not jp_dir.exists():
-        print(f'ERROR: Japanese disc directory not found: {jp_dir}')
-        print(f'  Use --jp-iso /path/to/disc/directory')
+        print(f'ERROR: JP disc directory not found: {jp_dir}')
         return 1
 
     # Find Track 01 .bin (the data track)
@@ -120,6 +131,7 @@ def main():
 
     font_entry = file_index.get('LANG/FONT.BIN')
     d00_entry = file_index.get('LANG/SCEN/D00.DAT')
+    plot_entry = file_index.get('LANG/PLOT.DAT')
 
     if not font_entry or not d00_entry:
         print('ERROR: Could not find FONT.BIN or D00.DAT in ISO')
@@ -130,8 +142,15 @@ def main():
     print(f'  FONT.BIN: {len(font_data):,} bytes ({len(font_data) // 32} tiles)')
     print(f'  D00.DAT:  {len(d00_data):,} bytes')
 
-    # Save JP D00.DAT for tests
+    plot_data = None
+    if plot_entry:
+        plot_data = extract_file_data(image, plot_entry.extent, plot_entry.size)
+        print(f'  PLOT.DAT: {len(plot_data):,} bytes')
+
+    # Save JP D00.DAT and PLOT.DAT for tests
     (BUILD_DIR / 'd00_jp.dat').write_bytes(d00_data)
+    if plot_data is not None:
+        (BUILD_DIR / 'plot_jp.dat').write_bytes(plot_data)
 
     # -- Step 3: Generate English font --
     print('[3/7] Generating English font...')
@@ -196,6 +215,23 @@ def main():
     print(f'  D00.DAT: {len(d00_data):,} -> {len(new_d00):,} bytes')
     grown_patches.append(('LANG/SCEN/D00.DAT', new_d00))
 
+    # Rebuild PLOT.DAT from scripts/en/plotE.txt (battle prep screens).
+    # Without this, the JP-encoded PLOT.DAT is read through the EN font
+    # mapping → mojibake on every battle prep narration.
+    plot_script = SCRIPTS_DIR / 'plotE.txt'
+    if plot_entry and plot_script.exists():
+        # Sanity: JP PLOT.DAT must round-trip cleanly through our parser
+        plot_round_trip(plot_data)
+        new_plot = encode_plot_script(plot_script, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        print(f'  PLOT.DAT: {len(plot_data):,} -> {len(new_plot):,} bytes')
+        if len(new_plot) == plot_entry.size:
+            patch_file_in_iso(image, plot_entry, new_plot)
+            print(f'    patched in place')
+        else:
+            grown_patches.append(('LANG/PLOT.DAT', new_plot))
+    elif plot_entry:
+        print(f'  PLOT.DAT: scripts/en/plotE.txt missing - leaving JP version (mojibake!)')
+
     # Batch: apply all grown patches (D00.DAT + any grown MENU_PATCHES) in
     # ascending extent order. Shifts downstream sectors and updates dir records.
     image = rebuild_iso_batch(image, file_index, grown_patches)
@@ -214,24 +250,6 @@ def main():
     tracks = list(BUILD_DIR.glob('track*.bin'))
     audio_tracks = len(tracks) - 1
 
-    chd_path = None
-    if args.chd:
-        import shutil
-        import subprocess
-        if shutil.which('chdman') is None:
-            print('  WARN: --chd requested but chdman not found in PATH; skipping')
-        else:
-            chd_path = BUILD_DIR / OUTPUT_CUE.with_suffix('.chd').name
-            if chd_path.exists():
-                chd_path.unlink()
-            cmd = ['chdman', 'createcd', '-i', str(OUTPUT_CUE), '-o', str(chd_path)]
-            print(f'  Generating CHD via chdman...')
-            r = subprocess.run(cmd, capture_output=True, text=True)
-            if r.returncode != 0:
-                print(f'  WARN: chdman failed (exit {r.returncode}); see stderr')
-                print(r.stderr.strip()[-400:])
-                chd_path = None
-
     elapsed = time.time() - start_time
 
     print()
@@ -239,18 +257,12 @@ def main():
     print('  BUILD COMPLETE')
     print('=' * 60)
     print(f'  Cue:          {OUTPUT_CUE}')
-    if chd_path and chd_path.exists():
-        print(f'  CHD:          {chd_path} ({chd_path.stat().st_size:,} bytes)')
     print(f'  Track 01:     {track01_path.stat().st_size:,} bytes')
     print(f'  Audio tracks: {audio_tracks}')
     print(f'  Build time:   {elapsed:.1f}s')
     print()
     print('  To play:')
     print(f'    Ymir / mednafen: load {OUTPUT_CUE.name}')
-    if chd_path and chd_path.exists():
-        print(f'    RetroArch+Beetle: load {chd_path.name}')
-    elif args.chd is False:
-        print(f'    RetroArch+Beetle: rerun with --chd to also produce a CHD')
 
     return 0
 

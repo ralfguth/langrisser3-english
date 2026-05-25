@@ -1,0 +1,36 @@
+Langrisser III CN dump — scen095
+# 32 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+鲁[?1927]平原・[?1928]地地带<$FFFF>
+成功了啊，雾风。<$FFFE>
+多亏了有大家的帮忙才能打倒那女[?0480]术师。<$FFFE>
+我该怎么表示感谢啊……。<$FFFE>
+不用介意，<$FFFC>我们不是同伴嘛。<$FFFE>
+比起这个，雾风先生。<$FFFC>今后你有什么打算？<$FFFE>
+报仇也已经完成了，是要回去了吗？<$FFFE>
+不。<$FFFC>虽然打倒了[?0763]拉[?0786]娅，但是她幕后的波赞鲁还留着。<$FFFE>
+如果不打倒波赞鲁，结果，还是会有其它魔物袭击过来的吧。<$FFFE>
+在消灭波赞鲁之前，在下就和各位一起行动吧。<$FFFE>
+是啊。<$FFFE>
+要是不打倒波赞鲁，那问题就还不算解决。<$FFFE>
+现在在下还有了新的目的。<$FFFC>那么，我们快赶路吧！<$FFFE>
+好，各位。<$FFFC>在打倒波赞鲁之前，不要松懈了！<$FFFE> 

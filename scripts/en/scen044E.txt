@@ -1,74 +1,68 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
-
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Swordmaster Gilbert<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
 Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Hero Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-High Priest <$FFFF>
+Emerick<$FFFF>
+High Priest<$FFFF>
 Layla<$FFFF>
-Soldier <$FFFF>
+Soldier<$FFFF>
 Sir Gerold<$FFFF>
- Scenario<$0236>02<$FFFC>"Insane in Laffel"<$FFFE>
-Imperial Marshal Altemuller's<$FFFC>stratagem brought down the <$FFFC>Floating Castle. <$F600><$0000> and <$FFFC>his companions narrowly escaped and fled to the city of Laffel.<$FFFE>
-Now their only hope for <$FFFC>striking back at the Empire is <$FFFC>to contact Larcuss's ally, the <$FFFC>nearby Barral Kingdom. However,<$FFFC>short was the time for such <$FFFC>thoughts, since the flames of <$FFFC>war were about to engulf Laffel <$FFFC>as well, sparkled by someone <$FFFC>no one had suspected…<$FFFE>
-<$01E9> Conditions for Victory <$FFFC>  Annihilation of all enemies.<$FFFC> <$F600><$0000>, Layla, Tiaris <$FFFC>  reach the bottom of the map.<$FFFE>
-<$01E9> Conditions for Defeat<$FFFC>  Death of <$F600><$0000> <$FFFC>  Death of Layla <$FFFE>
+<$0000><$FFFC>  <$0000>SCENARIO-02<$FFFC><$0000><$0000><$0000><$0000>Madness in Laffel<$0000><$0000><$0000><$0000><$FFFE>
+By Marshal Altemüller's scheme,<$FFFC>the Floating Castle fell.<$FFFC>The young knight and his party<$FFFC>barely escaped, fleeing to the <$FFFC>city of Laffel.<$FFFE>
+If they could secure aid from<$FFFC>their ally, Barral Kingdom,<$FFFC>fighting the Empire might<$FFFC>still be possible. Yet war<$FFFC>had already reached Laffel too.<$FFFE>
+*Victory Conditions<$FFFC>•Destroy all enemies.<$FFFC>•Layla and Tiaris must reach <$FFFC><$0000>the south edge with <$FFFC> <$F600><$0000>.<$FFFE>
+*Defeat Conditions<$FFFC>•Death of <$F600><$0000>.<$FFFC>•Death of Layla.<$FFFE>
 Church of Laffel<$FFFF>
 Whew…<$FFFC>That should settle it.<$FFFE>
- Your Reverence. <$FFFC>Thank you very much.<$FFFE>
- High Priest.<$FFFB><$FFFC>Will Gerold be able to <$FFFC>recover from his injury?<$FFFE>
- …That which lies in my  power I have done for  him.<$FFFD>Truthfully speaking it is a miracle that he is  alive, even now he is  still in a critical  state.<$FFFE>
- In a few days we will  know what is to become of him.<$FFFE>
- I see…<$FFFE>
-…No way…<$FFFE>
- Emergency!<$FFFE>
- It is terrible!<$FFFE>
- What!? Then I can't  stand here any longer!<$FFFE>
- The enemy has come here!?<$FFFB>The Empire has caught to up to us fast…<$FFFE>
- We have an emergency! Enemy troops are threatening to invade  Laffel!<$FFFE>
- Oh no!<$FFFE>
-We must hurry to make <$FFFC>preparations for leaving<$FFFC>here as soon as possible!<$FFFE>
-Yes!<$FFFB> Tiaris we <$FFFC>must do our part too!<$FFFE>
-…Okay…<$FFFC><$F600><$0000>,please hurry too.<$FFFE>
- …Wait, <$FFFC><$F600><$0000>.<$FFFE>
-Gerold!? <$FFFC>How are you feeling?<$FFFE>
+Your Reverence.<$FFFC>Thank you very much.<$FFFE>
+Your Reverence.<$FFFB><$FFFC>How is Gerold doing?<$FFFE>
+I have done all that I<$FFFC>could…<$FFFD>Truthfully,<$FFFC>it is a miracle that he<$FFFC>is still alive at all.<$FFFE>
+But he'll live…?<$FFFE>
+He has, at most, but <$FFFC>days to live.<$FFFE>
+He'll pull through…<$FFFC>I know he will.<$FFFE>
+Emergency!<$FFFE>
+The enemy! An attack!<$FFFC>Citizens, evacuate at<$FFFC>once!<$FFFE>
+What?<$FFFC>Then I can't stand here<$FFFC>any longer!<$FFFE>
+The enemy is here?<$FFFB><$FFFC>The Empire has caught up<$FFFC>to us fast…<$FFFE>
+We have an emergency!<$FFFC>Enemy troops are about<$FFFC>to invade Laffel!<$FFFE>
+Oh no!<$FFFE>
+We must hurry to make <$FFFC>preparations for leaving<$FFFC>as soon as we can!<$FFFE>
+Yes!<$FFFB><$FFFC>Tiaris we must do our <$FFFC>part too!<$FFFE>
+Okay…<$FFFC><$F600><$0000>,please<$FFFC>hurry too.<$FFFE>
+Wait… <$F600><$0000>.<$FFFE>
+Gerold!?<$FFFC>How are you feeling?<$FFFE>
 Did the enemy attack?<$FFFE>
 Yes.<$FFFE>
 You have to leave me and<$FFFC>get away from here…<$FFFE>
-What are you <$FFFC>saying, Gerold!?<$FFFE>
-I know my own state.<$FFFC>This wound… I won't <$FFFC>last long …<$FFFE>
+What are you saying,<$FFFC>Gerold!?<$FFFE>
+I know my own state.<$FFFC>This wound…<$FFFC>I won't last long…<$FFFE>
 I won't be a burden.<$FFFC>Leave me here and go.<$FFFE>
-Larcuss's forces may not hold here. Flee before it falls.<$FFFE>
+Larcuss's forces may not<$FFFC>hold here.<$FFFC>Flee before it falls.<$FFFE>
 Gerold!<$FFFE>
-<$F600><$0000>…<$FFFC>Become a great knight.<$FFFC>The greatest, most <$FFFC>honored knight in the <$FFFC>land.<$FFFE>
-Consider that your way <$FFFC>of repaying me.<$FFFC>And then… take <$FFFC>Laffel back.<$FFFE>
-…Understood, Gerold.<$FFFC>I'll become a great <$FFFC>knight, and return <$FFFC>here.<$FFFE>
-I'll gather troops and <$FFFC>return.<$FFFC>Then reclaim Laffel,<$FFFC>your and Layla's home.<$FFFE>
-…Take care of Layla.<$FFFE>
+<$F600><$0000>…<$FFFC>Become a great knight.<$FFFC>The greatest, knight <$FFFC>in the land.<$FFFE>
+Consider that your way <$FFFC>of repaying me.<$FFFC>And then…<$FFFC>Take Laffel back.<$FFFE>
+Understood, Gerold…<$FFFC>I'll become a great <$FFFC>knight and return here.<$FFFE>
+I'll gather troops and<$FFFC>return to take back<$FFFC>Laffel for you and<$FFFC>Layla.<$FFFE>
+Take care of Layla…<$FFFE>
 Miss Layla!?<$FFFE>
-……<$FFFB><$FFFC>Were you listening?<$FFFE>
+…<$FFFB>Were you listening?<$FFFE>
 Gerold, I…<$FFFE>
-I beg you, Layla.<$FFFB>You <$FFFC>who would be a knight's wife.<$FFFD>You must have this  resolve…<$FFFD>my last request … so <$FFFC>I won't worry, escape <$FFFC>with <$F600><$0000>.<$FFFE>
- …Yes.<$FFFB><$FFFC>Then I have a request for you too.<$FFFD>Live, and come meet me again …<$FFFE>
-Yes …<$FFFE>
+I beg you, Layla.<$FFFB><$FFFC>You were to be my wife.<$FFFD>You must be strong…<$FFFD>This is my last wish…<$FFFC>Flee with <$F600><$0000>, so <$FFFC>I may rest easy.<$FFFE>
+Yeah…<$FFFB><$FFFC>Grant me one wish too.<$FFFD>You must live, Gerold.<$FFFC>You have to come<$FFFC>back to me…<$FFFE>
+I will…<$FFFE>
 …<$FFFE>
- Hmph…<$FFFC>Now go,<$F600><$0000>,<$FFFC>there's no time.<$FFFE>
- I'm counting<$FFFC>on you, <$F600><$0000>…<$FFFE> 
+Hmph…<$FFFC>There's no time. Now go,<$FFFC><$F600><$0000>.<$FFFE>
+I'm counting on you,<$FFFC><$F600><$0000>…<$FFFE> 

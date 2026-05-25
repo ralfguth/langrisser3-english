@@ -1,35 +1,31 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-Imperial First Prince  Paul<$FFFF>
-Advisor <$FFFF>
- Scenario <$0236> 24 "The Field  Marshal's Determination"<$FFFE>
- Velzeria, the land of monsters, had begun its full invasion. The separate force that  saved the border village was immediately ordered  back to the royal  capital, which was under attack by the Imperial Army, with no time to rest.<$FFFE>
-Velzeria, country of the  demon kind, has begun a full scale invasion. The mobile division was  defending the border villages but got a high  priority recall because  of the Empire's attack  on the royal capitol.<$FFFE>
- <$01E9>Condition for Victory  Defeat of all enemies  <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of Sieghart <$FFFE>
-Riguler Imperial Castle  <$0236> Paul's Personal Room<$FFFF>
+Emerick<$FFFF>
+Imperial First Prince Paul<$FFFF>
+Advisor<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-24<$FFFC><$0000><$0000><$0000>The Field Marshal's<$0000><$0000><$0000><$FFFC><$0000><$0000><$0000><$0000> Determination <$0000><$0000><$0000><$0000><$FFFE>
+ Velzeria, the land of monsters, had begun its full invasion. The separate force that saved the border village was immediately ordered back to the royal capital, which was under attack by the Imperial Army, with no time to rest.<$FFFE>
+ In this three-way battle against both the Imperial Army and Velzeria's forces, who will seize victory…?<$FFFE>
+ *Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Death of Sieghart<$FFFE>
+Rigüler Imperial Castle - Paul's Personal Room<$FFFF>
  So, now that my father's died, it's my turn to take the throne.<$FFFE>
- But, Altemuller seems  more popular within the  court here.<$FFFE>
-How shall we deal with those fools expected to  oppose us?<$FFFE>
- Let's just give  Altemuller no margin for error if he blunders again.<$FFFE>
- And when he does…I will call for his death.<$FFFE>
- This plan might take some time before it can  be hatched. But, it  gives me such a rush. Hahahaha!<$FFFE> 
+ But, Altemüller seems more popular within the court here.<$FFFE>
+How shall we deal with those fools expected to oppose us?<$FFFE>
+ Let's just give Altemüller no margin for error if he blunders again.<$FFFE>
+ Or…shall we just have him killed instead?<$FFFE>
+ I have no shortage of schemes ready. So no need to rush. Hahahaha!<$FFFE> 

@@ -1,28 +1,24 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario ?4 "The  Mightiest Foe"<$FFFE>
- Altemuller has been  saved and Alhazard has been sealed again.<$FFFE>
- Following those events, Altemuller invites <$F600><$0000> to an unimaginable tough challenge.<$FFFE>
- One that should make everything that came before look like mere  child's play.<$FFFE>
- And thus a battle that should push the whole  division to its limit  erupted…<$FFFE>
- Conditions of Victory  Defeat Altemuller  Conditions of Defeat Death of a PC<$FFFE> 
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-?4<$FFFC><$0000><$0000><$0000> The Mightiest Foe <$0000><$0000><$0000><$FFFE>
+Altemüller has been saved and Alhazard has been sealed again.<$FFFE>
+Following those events, Altemüller invites <$F600><$0000> to an unimaginable tough challenge.<$FFFE>
+One that should make everything that came before look like mere child's play.<$FFFE>
+And so at last, the party set out for the battlefield Altemüller had designated…<$FFFE>
+*Victory Conditions<$FFFC>•Defeat Altemüller<$FFFC>*Defeat Conditions<$FFFC>•Death of a PC<$FFFE> 

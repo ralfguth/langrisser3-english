@@ -1,87 +1,83 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Prince Richard<$FFFF>
 Feraquea<$FFFF>
-Monster <$FFFF>
-Velzerian Commander <$FFFF>
-<$01E9>Conditions for Victory Defeat Richard<$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000><$FFFE>
-Richard's Residence <$FFFF>
+Monster<$FFFF>
+Velzerian Commander<$FFFF>
+*Victory Conditions<$FFFC>•Defeat Richard<$FFFE>
+*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Richard's Residence<$FFFF>
  I am Lewin, Prince of the Elthlead Kingdom. I am here on behalf of a messenger you sent to my father, King Sieghart.<$FFFE>
- Go back whence you came, your attempt to usurp the throne has failed. And you will better be grateful if I don't  charge you for the full  extent of your crimes.<$FFFE>
- Oh my? Everyone thought  he was killed during the attack of the Empire.<$FFFE>
+ So you've returned, you usurpers. To think you'd do as you please without me here…<$FFFE>
+ Oh my? Everyone thought he was killed during the attack of the Empire.<$FFFE>
  But here he stands before us all healthily. And with an even snottier attitude than before.<$FFFE>
- Right! But that's  preposterous! I watched him die with my very own eyes!<$FFFE>
+ Right! But that's preposterous! I watched him die with my very own eyes!<$FFFE>
  Then who on earth is this guy!?<$FFFE>
- The Langrisser is  shedding it's light!?<$FFFE>
+ The Langrisser is shedding it's light!?<$FFFE>
  Hmphh, it seems my cover has been blown.<$FFFE>
- But no matter, it was my intention to dispose of  you anyway, so we might as well apply the direct method.<$FFFE>
+ But no matter, it was my intention to dispose of you anyway, so we might as well apply the direct method.<$FFFE>
  You!?<$FFFE>
  I finally found you! Cursed Witch!<$FFFE>
  Kirikaze!?<$FFFE>
  Huh? Do we know each other?<$FFFE>
- Never could I forget your visage! I hail from a country way to the east!<$FFFE>
- A country that has fallen into ruin and oblivion due to your malicious doings!<$FFFE>
- Ahahahaha! Now I remember, what divine nostalgia!<$FFFE>
- I get it, you must be the lonesome survivor  from back then.<$FFFE>
-So you remember too, we've got so much in common! That means  you're the man who ultimately failed to save his own lord's  life.<$FFFE>
- You poor thing, what an awful thing to live  through. And now you're  all fired up to return the favor to me, is that right?<$FFFE>
- Only if I kill you with  my own sword, will my chagrin clear away!<$FFFE>
- Ruin, we have placed  ourselves in a dangerous spot. We have to  consolidate with the others as soon as  possible!<$FFFE>
+ Have you forgotten my face! I am Kirikaze, samurai of the eastern Wa Kingdom!<$FFFE>
+ The grudge of my homeland, destroyed by your hand… I will not let it go unavenged!<$FFFE>
+ Ahahahaha! Now that takes me back!<$FFFE>
+ I see, so you must be the lone survivor of that country!<$FFFE>
+That's right, I remember now! You chased me all the way to that point, yet in the end you couldn't save your lord's life.<$FFFE>
+ That fight was quite the sting back then. Let me return that favor to you now!<$FFFE>
+ Only if I kill you with my own sword, will my chagrin clear away!<$FFFE>
+ Lewin, we have placed ourselves in a dangerous spot. We have to consolidate with the others as soon as possible!<$FFFE>
  Yes!<$FFFE>
- How rude! Leaving without even saying  goodbye!<$FFFE>
- Blasted! We have been  surrounded.<$FFFE>
+ How rude! Leaving without even saying goodbye!<$FFFE>
+ Blasted! We have been surrounded.<$FFFE>
  Sir <$F600><$0000>!<$FFFE>
- No use complaining. We  will just have to fight  our ways out of this!<$FFFE>
+ No use complaining. We will just have to fight our ways out of this!<$FFFE>
 Defeat Feraquea<$FFFE>
 Death of <$F600><$0000><$FFFE>
- Ahahahaha! What  enjoyment!<$FFFD>How about you, does  shedding blood pleases you? Is the rush of  battle making your heart race?<$FFFE>
- Silence! I won't let my  mind be clouded by anger!<$FFFE>
- Sir <$F600><$0000>.<$FFFD>I fear for Sir Kirikaze's calmness. If  he continues like this his life could be in danger.<$FFFD>I suggest that you take  him under your command, Sir <$F600><$0000>.<$FFFE>
- Do you want to pass out  orders for Kirikaze?<$FFFE>
- You're right. It's  probably better to coordinate our efforts.<$FFFE>
- Listen, Kirikaze! Wouldn't it be beneficial if I would  coordinate your  movements on the battlefield as well?<$FFFE>
- Sir <$F600><$0000>? Very well.<$FFFD>My only wish is to fight that person.<$FFFE>
- Kirikaze has joined the  division!<$FFFE>
+ Ahahahaha! Quite a fine show!<$FFFD>How about it? Are you enjoying my little encirclement?<$FFFE>
+ Damn you! As if I'd let you go on like that!<$FFFE>
+ Sir <$F600><$0000>.<$FFFD>I fear for Sir Kirikaze's calmness. If he continues like this his life could be in danger.<$FFFD>I suggest that you take him under your command, Sir <$F600><$0000>.<$FFFE>
+ Do you want to pass out orders for Kirikaze?<$FFFE>
+ You're right. It's probably better to coordinate our efforts.<$FFFE>
+ Listen, Kirikaze! Wouldn't it be beneficial if I would coordinate your movements on the battlefield as well?<$FFFE>
+ Sir <$F600><$0000>'s order? Understood.<$FFFD>However, leave the killing blow on that one to me.<$FFFE>
+ Kirikaze has joined the division!<$FFFE>
  No, he's doing fine. I don't think it's necessary just yet.<$FFFE>
  I see.<$FFFE>
- Lewin, that's the  perfect opportunity to try out the Langrisser!<$FFFE>
- Right! Father, please  lend us strength.<$FFFE>
- There is a pattern that  looks somewhat misplaced.<$FFFE>
+ Lewin, that's the perfect opportunity to try out the Langrisser!<$FFFE>
+ Right! Father, please lend us strength.<$FFFE>
+ There is a pattern that looks somewhat misplaced.<$FFFE>
  Do you want to inspect it more closely?<$FFFE>
- A beautifully sparkling  stone is situated in the center of the pattern.<$FFFE>
+ A beautifully sparkling stone is situated in the center of the pattern.<$FFFE>
  Do you want to take it?<$FFFE>
  Secret Stone of the Hero was obtained!<$FFFE>
- A crackling sound can be heard coming from the  southeast…<$FFFE>
+ A crackling sound can be heard coming from the southeast…<$FFFE>
  After watching the stone for a while, it suddenly shatters…<$FFFE>
- There is a pattern that  looks somewhat misplaced.<$FFFE>
+ There is a pattern that looks somewhat misplaced.<$FFFE>
  Do you want to inspect it more closely?<$FFFE>
- A stone which shines in  seven colors is situated in the center of the pattern.<$FFFE>
+ A stone which shines in seven colors is situated in the center of the pattern.<$FFFE>
  Do you want to take it?<$FFFE>
  Runestone was obtained!<$FFFE>
- A crackling sound can be heard coming from the  northwest…<$FFFE>
- I can't lay down just  yet…<$FFFE>
- I don't want to… Sir…<$F600><$0000>…<$FFFE>
+ A crackling sound can be heard coming from the northwest…<$FFFE>
+ I can't lay down just yet…<$FFFE>
+ It hurts… <$F600><$0000>, sa…ve…me…<$FFFE>
  Father…<$FFFE>
  Coty…<$FFFE>
  Farewell everyone… I am so tired…<$FFFE>
@@ -92,49 +88,49 @@ Death of <$F600><$0000><$FFFE>
 GRRRRHH!!<$FFFE>
  Grrr…<$FFFE>
  Dammit, I failed!<$FFFE>
- This could have been avoided…<$FFFE>
- This is not, what's  supposed to happen. But still, you leave me no choice.<$FFFE>
+ Tch, how pathetic…<$FFFE>
+ Heh, not bad at all. But you've still got a long way to go.<$FFFE>
  Aaaahh, the blue sky…<$FFFE>
-I've got no regrets…<$FFFE>
- Sir <$F600><$0000>… The enemy is targeting Kirikaze…<$FFFE>
- I Samurai Kirikaze of  the Yamato Kingdom, head  into battle!<$FFFE>
- W…What's that power  emitting from that sword!?<$FFFE>
- …This must be the reason for Rag's demise! Anyhow, I need to report  this to Lord Bozel…<$FFFE>
+S, such regret…<$FFFE>
+ Sir <$F600><$0000>.<$FFFC>We should have let Sir Kirikaze deal the killing blow…<$FFFE>
+ I Samurai Kirikaze of the Yamato Kingdom, head into battle!<$FFFE>
+ W…What's that power emitting from that sword!?<$FFFE>
+ …This must be the reason for Rag's demise! Anyhow, I need to report this to Lord Böser…<$FFFE>
 Hold it! Our battle is yet to be decided!<$FFFE>
 Tch, she got away!?<$FFFE>
- …That woman!<$FFFE>
- …That woman!<$FFFE>
+ …Damn her!<$FFFE>
+ …… Damn her!<$FFFE>
  Kirikaze.<$FFFE>
-<$F704>
-<$F705>
-<$F706>
-<$F704>
-<$F705>
-<$F706>
- <$F704><$F705><$F706><$F704><$F705><$F706>So this is not even the  first kingdom that's being attacked by  Velzeria.<$FFFE>
-<$F707>
-<$F708>
-<$F707>
-<$F708>
- <$F707><$F708><$F707><$F708>All right. We will help too.<$FFFE>
-There are no words to  express my gratitude!<$FFFE>
-There are no words to  express my gratitude!<$FFFE>
- Kirikaze joined the  demon hunters!<$FFFE>
+<$F704><$FFFE>
+<$F705><$FFFE>
+<$F706><$FFFE>
+<$F704><$FFFE>
+<$F705><$FFFE>
+<$F706><$FFFE>
+ So this is not even the first kingdom that's being attacked by Velzeria.<$FFFE>
+<$F707><$FFFE>
+<$F708><$FFFE>
+<$F707><$FFFE>
+<$F708><$FFFE>
+ All right. We will help too.<$FFFE>
+There are no words to express my gratitude!<$FFFE>
+There are no words to express my gratitude!<$FFFE>
+ Kirikaze joined the demon hunters!<$FFFE>
  You did splendidly, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>… …<$FFFD>…<$FFFE>
+ Sir <$F600><$0000>…<$FFFC>You shouldn't take too long in battle.<$FFFD>It affects the next move…<$FFFE>
  Everyone.<$FFFE>
- We have to hurry, or  Velzeria might come up with new atrocities.<$FFFE>
+ We have to hurry, or Velzeria might come up with new atrocities.<$FFFE>
  Right! Let's take up the pursuit immediately!<$FFFE>
- We should hurry. Unless  we act quickly, the enemy will have the  chance to regroup. Everyone, let's take up the pursuit!<$FFFE>
- Come cheeky humans, show  me what you're capable of!<$FFFE>
- Yes, let's immerse in  the bloodstained dance!<$FFFE>
+ We should hurry. Unless we act quickly, the enemy will have the chance to regroup. Everyone, let's take up the pursuit!<$FFFE>
+ Damn cheeky humans!<$FFFE>
+ Yes, let's immerse in the bloodstained dance!<$FFFE>
 GYAAAAAH!<$FFFE>
- My physical body is  broken…<$FFFE>
- Is it due to that magic  sword, that we fall  before them!? Whatever  it is…I am dead…anyway<$FFFD>Guarh!<$FFFE>
+ My physical body is broken…<$FFFE>
+ Is it due to that magic sword, that we fall before them!? Whatever it is…I am dead…anyway<$FFFD>Guarh!<$FFFE>
 GYAAAAAH!<$FFFE>
  Lord help us…<$FFFE>
  May great disaster strike you!<$FFFE>
- Darkness shall rule over all!<$FFFE>
+ So my dark magic is no match for them!?<$FFFE>
  I am a goner…<$FFFE>
 GOOON!<$FFFE>
 GOOON!<$FFFE>
@@ -150,24 +146,24 @@ FUH!<$FFFE>
  Opposing darkness is futile, you will soon be as dead as me! Ahahahaha…<$FFFD>Guargh!<$FFFE>
  Why is…<$FFFE>
 FUH!<$FFFE>
- My calculations say  that's impossible…<$FFFE>
- Avada Kedavra…why  didn't it work…<$FFFE>
+ To think they had this much power…<$FFFE>
+ May ruin come upon you!<$FFFE>
  Guwaah!<$FFFE>
- What is the source of  their power!? No mere human could have it…<$FFFE>
+ What is the source of their power!? No mere human could have it…<$FFFE>
  Uugh…<$FFFE>
  Damn you!<$FFFE>
- My, how worrisome! You've already killed  all my little darlings!<$FFFD>And after I put so much  love into putting up this trap, shame on you!<$FFFE>
- You are the last one standing. Prepare yourself for your  judgement!<$FFFE>
-Do you honestly think  you've got what it takes to handle me? No puny human could ever defeat  me.<$FFFE>
+ My, how worrisome! You've already killed all my little darlings!<$FFFD>And after I put so much love into putting up this trap, shame on you!<$FFFE>
+ You are the last one standing. Prepare yourself for your judgement!<$FFFE>
+Do you honestly think you've got what it takes to handle me? No puny human could ever defeat me.<$FFFE>
  Prepare yourself, witch!<$FFFE>
- So you came all the way  from the east just to  see me?<$FFFE>
+ So you came all the way from the east just to see me?<$FFFE>
  You're quiet an untiring man, aren't you?<$FFFE>
- This is hardly the time  for frivolous talk.<$FFFE>
- My only purpose for  entering this scene of carnage is to bring you  down!<$FFFE>
- My! Such rampant  passion!<$FFFE>
- Let's see if you, although you're just a human, can live up to my expectations?<$FFFE>
+ This is hardly the time for frivolous talk.<$FFFE>
+ My only purpose for entering this scene of carnage is to bring you down!<$FFFE>
+ Hah! If you can, then try it!<$FFFE>
+ A mere human thinks to beat a demon!?<$FFFE>
  Once upon a time I was attached to a kingdom far to the east.<$FFFE>
- But one day an army of demons led by that woman invaded and our country  was devoured by flames.<$FFFE>
- Back then I wasn't able  to protect my Lord…nor  his wife and only son…<$FFFE>
- Lord <$F600><$0000>! If you  still plan on marching against Velzeria, please  allow me to offer my services!<$FFFE>
- My utmost desire is to bring an end to the  witch that is  responsible for  murdering my Lord!<$FFFE>   
+ But one day an army of demons led by that woman invaded and our country was devoured by flames.<$FFFE>
+ Back then I could not save my Lord, nor my family…my wife and only son…<$FFFE>
+ Lord <$F600><$0000>! If you still plan on marching against Velzeria, please allow me to offer my services!<$FFFE>
+ My utmost desire is to bring an end to the witch that is responsible for murdering my Lord!<$FFFE> 

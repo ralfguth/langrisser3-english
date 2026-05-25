@@ -1,0 +1,29 @@
+Langrisser III CN dump — scen097
+# 25 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+[?0784][?0736]鲁皇帝<$FFFF>
+加艾鲁元帅<$FFFF>
+利古里亚王城・谒见之间<$FFFF>
+哇哈哈哈！<$FFFD>太高心了，笑的都停不下来了！<$FFFC>这下帝国就名副其实的成为朕的了！<$FFFD>对了，加艾鲁。<$FFFB><$FFFC>你差不多该去做作为元帅的第一项工作了吧？<$FFFD>赶快去攻击艾尔斯立特。<$FFFE>
+在那之前，请再给我点时间。<$FFFD>属下还有些无法理解的地方要前去[?0866]查一下。<$FFFE>
+……嗯。<$FFFC>那么，等[?0866]查一结束，就马上返回军营。<$FFFD>朕会为你把士兵增加好。<$FFFC>所以，这次你无论如何都要夺回艾尔斯立特！<$FFFE>
+遵命，[?0784][?0736]鲁皇帝陛下。<$FFFE>

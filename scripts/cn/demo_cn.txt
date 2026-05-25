@@ -1,0 +1,5 @@
+Langrisser III CN dump — DEMO
+# JP size: 150470 CN size: 150470 (same)
+# diff regions: 9; with text: 0; entries: 0
+# tiles: 0; unmapped: 0 (0.0% mapped)
+

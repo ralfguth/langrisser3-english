@@ -1,0 +1,34 @@
+Langrisser III CN dump — scen105
+# 30 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+虫<$FFFF>
+杰利奥鲁<$FFFF>
+巴拉尔城<$FFFF>
+……神圣的光之神露希莉丝的治[?1044]之力啊，借给我力量。<$FFFD>以您的光之力，[?1700]除[?2006]夺那个人自由的邪恶之物吧。<$FFFD>雷斯・[?0528]比尔・达斯・雷姆！<$FFFE>
+嗯啊啊啊！<$FFFE>
+…唉！<$FFFE>
+不要紧吧，杰利奥鲁先生。<$FFFE>
+……嗯。<$FFFC>这种程度的[?1930]痛，和我[?0413]今为止做的坏事相比……。<$FFFD>哼唉…。<$FFFE>
+我们马上前往拉斐尔。<$FFFC>杰利奥鲁，你还是稍微休息一下比较好吧。<$FFFE>
+……[?1335][?1409]。<$FFFB><$FFFC>不过，我一定会去的。<$FFFC>在此之前，蕾拉就拜托你了。<$FFFE>
+放心吧。<$FFFC>各位，现在我们立刻返回拉斐尔！<$FFFE>
+永别了，父王。<$FFFC>请您……安心地眠吧。<$FFFE> 

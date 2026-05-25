@@ -1,26 +1,22 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario <$0236> 04 "The Despicable  General Geier"<$FFFE>
- Having gained Gilbert  the master swordsman as  a powerful new ally, <$F600><$0000> headed for  Baron Torland and along  a mountain path saw  civilians pursued by General Gaiel's Imperial  troops.<$FFFE>
- In order to rescue the citizens from the  Imperial Army, <$F600><$0000> makes a stand against General Geier.<$FFFE>
- <$01E9>Condition for Victory  Annihilation of all  enemies but Geier <$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of all NPCs <$FFFE>  
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-04<$FFFC><$0000>The Despicable General Geier<$0000><$FFFE>
+ Having gained Blademaster Gilbert as a powerful new ally, the young knight headed for Baron Torrand and along a mountain path saw civilians pursued by General Geier's Imperial troops.<$FFFE>
+ In order to rescue the citizens from the Imperial Army, the young knight makes a stand against General Geier.<$FFFE>
+ *Victory Conditions<$FFFC>•Annihilation of all enemies but Geier<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of all NPCs <$FFFE> 

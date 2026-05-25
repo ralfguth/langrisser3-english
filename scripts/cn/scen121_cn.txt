@@ -1,0 +1,28 @@
+Langrisser III CN dump — scen121
+# 24 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+ <$FFFC>   SCENARIO-？4<$FFFC>     『最强之敌』<$FFFE>
+<$F600 0000>他们拯救了阿鲁迪缪拉，并解开了他的[?0055][?0207]。<$FFFE>
+这时，<$F600 0000>接受了阿鲁迪缪拉所提出的一个请求。<$FFFE>
+那就是，双方拼尽全力进行较量。<$FFFE>
+然后终于，<$F600 0000>他们，前往了阿鲁迪缪拉所指定的战场……。<$FFFE>
+※胜利条件<$FFFC>・击败阿鲁迪缪拉<$FFFC>※败北条件<$FFFC>・我方任何人都不能被击退<$FFFE>

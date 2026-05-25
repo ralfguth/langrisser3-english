@@ -1,0 +1,43 @@
+Langrisser III CN dump — LANG/PROG_4.BIN
+# CN-modified FFFF-delimited entries from data/cn/prog/prog_4.bin
+# vs data/jp/prog/prog_4.bin. Unmapped tiles render as [?NNNN]
+# (decimal id; bitmap at data/cn/font_cn_decoded.bin offset id*32).
+# Format: @0xOFFSET (NN bytes): "<rendered text>"
+# diff regions: 81; regions with text: 1; entries: 34
+# tiles: 104; unmapped: 7 (93.3% mapped)
+
+--- diff region 0x007f78..0x00808c (276 bytes) ---
+@0x007f78 (  4): "火[?0609]"
+@0x007f7e (  6): "火[?0609][?0610]"
+@0x007f86 (  4): "冰冻"
+@0x007f8c (  6): "暴风雪"
+@0x007f94 (  4): "落雷"
+@0x007f9a (  8): "雷电风暴"
+@0x007fa4 (  4): "风[?0616]"
+@0x007faa (  4): "旋风"
+@0x007fb0 (  6): "大地震"
+@0x007fb8 (  4): "陨石"
+@0x007fbe (  8): "神圣之[?0305]"
+@0x007fc8 (  8): "亡灵送返"
+@0x007fd2 (  8): "HP吸收"
+@0x007fdc (  8): "MP吸收"
+@0x007fe6 (  6): "冲击波"
+@0x007fee (  4): "[?0623][?0054]"
+@0x007ff4 (  4): "混乱"
+@0x007ffa (  4): "模糊"
+@0x008000 (  4): "沉默"
+@0x008006 (  4): "衰落"
+@0x00800c (  6): "防护1"
+@0x008014 (  6): "防护2"
+@0x00801c ( 10): "攻击强化1"
+@0x008028 ( 10): "攻击强化2"
+@0x008034 (  4): "快速"
+@0x00803a (  4): "抗魔"
+@0x008040 (  6): "治疗1"
+@0x008048 (  6): "治疗2"
+@0x008050 (  6): "治疗3"
+@0x008058 ( 10): "部队治疗1"
+@0x008064 ( 10): "部队治疗2"
+@0x008070 ( 10): "部队治疗3"
+@0x00807c (  8): "瞬间移动"
+@0x008086 (  4): "随机"

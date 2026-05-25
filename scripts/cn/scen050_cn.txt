@@ -1,0 +1,27 @@
+Langrisser III CN dump — scen050
+# 23 entries from data/cn/d00_cn.dat
+# Unmapped tiles render as [?NNNN] (decimal tile id; look up in data/cn/font_cn_decoded.bin at offset NNNN*32).
+
+提娅丽丝<$FFFF>
+莉法妮<$FFFF>
+露娜<$FFFF>
+[?0762][?0763]亚<$FFFF>
+芙莱娅<$FFFF>
+鲁因<$FFFF>
+银狼<$FFFF>
+剑[?0765][?0722]尔[?0766]特<$FFFF>
+[?0698][?0695]尔<$FFFF>
+贤者法贝尔<$FFFF>
+迪奥斯<$FFFF>
+圣兽尤古拉<$FFFF>
+大魔法师杰茜卡<$FFFF>
+雾风<$FFFF>
+勇者德・卡尼<$FFFF>
+阿鲁迪缪拉<$FFFF>
+法娜<$FFFF>
+艾[?0775][?0332][?0445]<$FFFF>
+ <$FFFC>   SCENARIO-05<$FFFC>    『[?0320]将艾[?0775][?0332][?0445]』<$FFFE>
+从加艾鲁那里得到了情报的帝国军元<$FFFC>帅阿鲁迪缪拉，[?1627][?1860]艾[?0775][?0332][?0445]将军前<$FFFC>往特兰德男爵的公馆，打算在<$FFFC><$F600 0000>他们接触之前就加以击[?1239]。<$FFFE>
+但是，由于男爵的女儿—露娜的带路，<$F600 0000>他们比预计的更早到达了男爵的公馆，一行人将在那里看到男爵和艾[?0775][?0332][?0445]的战斗。<$FFFE>
+※胜利条件<$FFFC> ・击败艾[?0775][?0332][?0445]<$FFFC> ・全灭敌迎击部队<$FFFC> ・PC到达公馆<$FFFE>
+※败北条件<$FFFC> ・<$F600 0000>死亡<$FFFC> ・特兰德死亡<$FFFE> 

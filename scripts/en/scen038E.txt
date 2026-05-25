@@ -1,70 +1,66 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Shopkeeper<$FFFF>
-General Bortz <$FFFF>
+General Bortz<$FFFF>
 General Varna<$FFFF>
 Waitress<$FFFF>
-General Geier <$FFFF>
-Field Marshal Altemuller<$FFFF>
-Monster <$FFFF>
- Get something tasty for  everyone!<$FFFE>
-<$01E9>Conditions for Defeat Death of any PC Fail to reach the restaurant within <$05ED> turns<$FFFE>
-Gyudon's Restaurant <$FFFF>
+General Geier<$FFFF>
+Field Marshal Altemüller<$FFFF>
+Monster<$FFFF>
+ •It's a secret<$FFFE>
+ •Death of any PC<$FFFC>•Fail to order within 20 turns<$FFFE>
+Gyudon Restaurant<$FFFF>
  Welcome!<$FFFE>
- Phew… I am pretty worn  out.<$FFFE>
- It seems to be your turn to treat, your  Excellency.<$FFFE>
- Just as I planned.<$FFFD>We will take three extra large portions of the  usual.<$FFFE>
+ Phew… I am pretty worn out.<$FFFE>
+ It seems to be your turn to treat, your Excellency.<$FFFE>
+ Don't mention it.<$FFFD>We'll take three extra large portions.<$FFFE>
  Roger, three extra large portions coming up!<$FFFE>
- When Geier and Emerick find out about this, they will regret not  tagging along.<$FFFE>
- Well, it couldn't be  helped.<$FFFD>Geier is still chasing those refugees and Emerick headed out to  lead the assault on  Baron Torrand.<$FFFE>
- Anyway, it's been way to  long since we came here. Let's enjoy this!<$FFFE>
- Say, <$F600><$0000>! It  couldn't be that we've  lost the way thanks to you making a fuss about  leading the way  yourself, right!?<$FFFE>
- W…What are you saying!? You're just imagining  things.<$FFFE>
- Sir, <$F600><$0000>. I know I said it before, but the mansion is actually  located in this  direction…<$FFFE>
- Not you too, Luna. Really, you can trust me  on this.<$FFFE>
- …My? Is it just me or  is there a nice scent in the air around here?<$FFFE>
+ When Geier and Emerick find out about this, they will regret not tagging along.<$FFFE>
+ Well, it couldn't be helped.<$FFFD>Geier is still chasing those refugees and Emerick headed out to lead the assault on Baron Torrand.<$FFFE>
+ Anyway, it's been way too long since we came here. Let's enjoy this!<$FFFE>
+ Say, <$F600><$0000>! It couldn't be that we've lost the way thanks to you making a fuss about leading the way yourself, right!?<$FFFE>
+ W…What are you saying!? You're just imagining things.<$FFFE>
+ Sir, <$F600><$0000>. I know I said it before, but the mansion is actually located in this direction…<$FFFE>
+ Not you too, Luna. Really, you can trust me on this.<$FFFE>
+ …My? Is it just me or is there a nice scent in the air around here?<$FFFE>
  …Sniff sniff <$FE28>. It's true!<$FFFE>
- …what's a place like  this doing in the middle of the forest!?<$FFFE>
- Welcome, Welcome.<$FFFD>Enjoy the homy atmosphere and only the  finest of the eastern  cuisine.<$FFFD>Just come right in, I am sure you will love it if  you give it a try.<$FFFE>
- Sounds worthwhile. Tell  me, what would be the name that establishment  of yours goes by?<$FFFE>
- It's called "Hidden Gyudon Restaurant".<$FFFE>
+ …what's a place like this doing in the middle of the forest!?<$FFFE>
+ Welcome, Welcome.<$FFFD>Enjoy the homy atmosphere and only the finest of the eastern cuisine.<$FFFD>Just come right in, I am sure you will love it if you give it a try.<$FFFE>
+ I see. So what do you have?<$FFFE>
+ Our specialty here is Gyudon, and we also offer…<$FFFE>
  Let's eat, EAT!<$FFFD>Hey, <$F600><$0000>. You don't mind, right?<$FFFE>
-Fine. I guess we've got  some time to spare.<$FFFE>
+Fine. I guess we've got some time to spare.<$FFFE>
  Yay!<$FFFE>
- Unfortunately this forest is also being haunted by evil spirits  and there probably will  be monsters lurking  around, so please be  careful.<$FFFE>
- No biggie, we're used to  this kind of stuff.<$FFFE>
+ Unfortunately this forest is also being haunted by evil spirits and there probably will be monsters lurking around, so please be careful.<$FFFE>
+ No biggie, we're used to this kind of stuff.<$FFFE>
  Alright everyone, let's go!<$FFFE>
- That reminds me, sir.<$FFFD>If you do not get the  joke here, I hear that buying the Langrisser I mini drama CD makes this  even more fun.<$FFFE>
- What? What is that  supposed to mean?<$FFFE>
- Is that not just an  advertisement?<$FFFE>
+ That reminds me, sir.<$FFFD>If you do not get the joke here, I hear that buying the Langrisser I mini drama CD makes this even more fun.<$FFFE>
+ What? What is that supposed to mean?<$FFFE>
+ Is that not just an advertisement?<$FFFE>
  Why would they use a reference that deep?<$FFFE>
  Even if you do not get it, I think it is still possible to enjoy this well enough…<$FFFE>
- I suppose so. Let us  believe that and move  on!<$FFFE>
+ I suppose so. Let us believe that and move on!<$FFFE>
  Sir <$F600><$0000>!<$FFFD>Th…The enemy had extra large portions!<$FFFE>
  Wh…What!? Extra large portions, this is bad…<$FFFE>
- <$F600><$0000>! They make us  look like dejected losers!<$FFFE>
+ <$F600><$0000>! They make us look like dejected losers!<$FFFE>
  Damn…<$FFFE>
- I have to come up with something fast. Alright, there's only one way to turn the tables now…<$FFFD>Excuse me, I would like  to order an egg!<$FFFE>
+ I have to come up with something fast. Alright, there's only one way to turn the tables now…<$FFFD>Excuse me, I would like to order an egg!<$FFFE>
  Egg!<$FFFE>
  Egg!<$FFFE>
  Egg!<$FFFE>
@@ -73,28 +69,28 @@ Fine. I guess we've got  some time to spare.<$FFFE>
  Egg!<$FFFE>
  Second gear, seven eggs, here you go.<$FFFE>
  That's it for today, we're closing.<$FFFE>
- Damn! SWe have failed to  get ourselves some Gyudon…<$FFFE>
- You're nothing but a COLOSSAL FAILURE! F.<$0650>I.L.U.<$064F>E!!<$FFFE>
+ Damn! We failed to get our Gyudon…<$FFFE>
+ <$F600><$0000>, you idiot, idiot, idiot!<$FFFE>
  Gyudon, Gyudon! Ready up some tasty food for me, Lalalala!<$FFFE>
- They said eastern  cuisine, I wonder if they refer to the  cooking methods of the Yamato Kingdom.<$FFFE>
- What's the Yamato  Kingdom?<$FFFE>
- It's a kingdom very far  to the east. A swordsman who currently serves father hails from those  lands.<$FFFE>
- Soo, that Gyudon stuff comes from that far away place too? Will our  tummies be ok?<$FFFE>
- Since he's owning a restaurant in these  parts, I am confident  they will, but we will just have to try it to be sure.<$FFFE>
+ They said eastern cuisine, I wonder if they refer to the cooking methods of the Yamato Kingdom.<$FFFE>
+ What's the Yamato Kingdom?<$FFFE>
+ It's a kingdom very far to the east. A swordsman who currently serves father hails from those lands.<$FFFE>
+ Soo, that Gyudon stuff comes from that far away place too? Will our tummies be ok?<$FFFE>
+ Since he's owning a restaurant in these parts, I am confident they will, but we will just have to try it to be sure.<$FFFE>
  Guess so.<$FFFE>
- Please prepare one more  portion for General  Geier.<$FFFE>
+ Please prepare one more portion for General Geier.<$FFFE>
  I would be glad to.<$FFFE>
- You are too kind, your  Excellency.<$FFFE>
+ You are too kind, your Excellency.<$FFFE>
  Hey.<$FFFE>
- Yes, is there anything else I can help you  with?<$FFFE>
+ Yes, is there anything else I can help you with?<$FFFE>
  We would like to order another four portions of Asazuke and Miso Soup.<$FFFE>
- Certainly, four portions of mixed pickles and Miso Soup, coming right  up!<$FFFE>
- We would like to order another three portions of Asazuke and Miso  Soup.<$FFFE>
- Certainly, three portions of mixed  pickles and Miso Soup, coming right up!<$FFFE>
- <$01E9>Gasp<$01E9>! The enemy has ordered additional portions of mixed  pickles and Miso Soup!<$FFFE>
+ Certainly, four portions of mixed pickles and Miso Soup, coming right up!<$FFFE>
+ We would like to order another three portions of Asazuke and Miso Soup.<$FFFE>
+ Certainly, three portions of mixed pickles and Miso Soup, coming right up!<$FFFE>
+ *Gasp*! The enemy has ordered additional portions of mixed pickles and Miso Soup!<$FFFE>
  Wh…What!?<$FFFE>
- Mixed Pickles AND Miso  Soup!? …The enemy must be preparing for the final stroke.<$FFFE>
- It all depends on me now. But just what should I order next?<$FFFD>It has to be something outshining everything  that has been there  before!<$FFFE>
+ Mixed Pickles AND Miso Soup!? …The enemy must be preparing for the final stroke.<$FFFE>
+ It all depends on me now. But just what should I order next?<$FFFD>It has to be something outshining everything that has been there before!<$FFFE>
  <$F600><$0000>!<$FFFE>
  Sir <$F600><$0000>!<$FFFE>
  You have to make a decision!<$FFFE>
@@ -103,7 +99,7 @@ Beefsteak <$FFFE>
 Beefsteak <$FFFE>
 Beefsteak <$FFFE>
  Thank you for choosing us. The restaurant is this way.<$FFFE>
- Thanks.<$FFFD>By the way, what's  Gyudon?<$FFFE>
+ Thanks.<$FFFD>By the way, what's Gyudon?<$FFFE>
  Basically it's steamed rice with variable fixings.<$FFFE>
  What do you say?<$FFFE>
 How can you serve something like that <$FFFE>
@@ -112,90 +108,90 @@ Sounds delicious<$FFFE>
  T…That's…<$FFFE>
  Ill mannered savage!<$FFFE>
  Hmm. It certainly sounds like something I would like to try.<$FFFE>
- Oh, before I forget! We  will close soon so you will have to hurry a bit.<$FFFE>
- Well, that's good to  know! Let's hurry, everyone!<$FFFE>
- Say, Tiaris. Wouldn't  you agree that <$F600><$0000> is acting a bit weird today?<$FFFE>
+ Oh, before I forget! We will close soon so you will have to hurry a bit.<$FFFE>
+ Well, that's good to know! Let's hurry, everyone!<$FFFE>
+ Say, Tiaris. Wouldn't you agree that <$F600><$0000> is acting a bit weird today?<$FFFE>
  Nope. That's just the way he really is.<$FFFE>
  …<$FE32>…<$FE32>…<$FE32>…<$FE32>…<$FE32>. I Is that so.<$FFFE>
  Welcome! Please take seats to the right side.<$FFFE>
- We're saved. I felt like keeling over from hunger any minute now.<$FFFE>
+ We're saved, lord <$F600><$0000>.<$FFFC>I felt like keeling over from hunger any minute now.<$FFFE>
  Let's dig in!<$FFFE>
- Sir <$F600><$0000>, do you see  the same thing, or are  my eyes playing tricks on me?<$FFFE>
+ Sir <$F600><$0000>, do you see the same thing, or are my eyes playing tricks on me?<$FFFE>
  If you by chance are referring to the bulk of the Imperial Commanders, I am afraid that I see them too.<$FFFE>
  Dear Costumers. I would greatly appreciate it if you could take seats and make your order in the not so distant future.<$FFFD>You see, it's almost home time…<$FFFE>
  Oh, of course. Everyone, hurry up and get inside!<$FFFE>
- Everyone's inside now. All that's left to do  now is to get to our seats to the right and make our order!<$FFFE>
+ Everyone's inside now. All that's left to do now is to get to our seats to the right and make our order!<$FFFE>
  What can I do for you?<$FFFE>
- How much is that Gyoden  dish, we've heard so much about?<$FFFE>
+ How much is the Gyudon we've heard so much about?<$FFFE>
  250P each.<$FFFE>
- Who is going to get  something to eat?<$FFFE>
+ Who is going to get something to eat?<$FFFE>
 Only yourself <$FFFE>
 Just the girls<$FFFE>
 The whole crew<$FFFE>
- In that case, I will  take one dish.<$FFFE>
+ In that case, I will take one dish.<$FFFE>
  There you go, one portion of Gyudon.<$FFFE>
- You're the biggest jerk  ever!<$FFFE>
+ <$F600><$0000>, you jerk!<$FFFE>
  This is the epitome of cruelty.<$FFFE>
- In that case bring us  dishes equalling the number of girls in our group.<$FFFE>
- I appreciate the gesture but… It just wouldn't  feel right to eat while  everyone else comes away empty handed.<$FFFE>
+ In that case bring us dishes equalling the number of girls in our group.<$FFFE>
+ I appreciate the gesture but… It just wouldn't feel right to eat while everyone else comes away empty handed.<$FFFE>
  My thoughts exactly.<$FFFE>
- Same here…and don't  think we didn't notice the measly attempt to  kiss up to all the females at once.<$FFFE>
- Busted… My ulterior motives have been  revealed…<$FFFE>
- In that case, please  serve dishes for everyone.<$FFFE>
+ Same here…and don't think we didn't notice the measly attempt to kiss up to all the females at once.<$FFFE>
+ Busted… My ulterior motives have been revealed…<$FFFE>
+ In that case, please serve dishes for everyone.<$FFFE>
  Thank you kindly. That'll be 1750P.<$FFFE>
- There you go, 7 dishes  of Gyudon.<$FFFE>
+ There you go, 7 dishes of Gyudon.<$FFFE>
  This is awesome!<$FFFE>
-Pierre's strength rises  plus 1<$FFFE>
+Pierre's HP rose by 1!<$FFFE>
  Delicious, indeed.<$FFFE>
-Lewin's strength rises plus 1<$FFFE>
+Lewin's HP rose by 1!<$FFFE>
  Oho… So, this is the what the famed eastern cuisine tastes like.<$FFFE>
-Gilbert's strength rises plus 1<$FFFE>
+Gilbert's HP rose by 1!<$FFFE>
  Hmm… This is yummy.<$FFFE>
- Such a peculiar flavor. This was alone was well  worth the detour.<$FFFE>
+ Such a peculiar flavor. This was alone was well worth the detour.<$FFFE>
  Thank you for the treat.<$FFFE>
  Shouldn't we order something to eat by now?<$FFFE>
- How impolite! But it  certainly suits you.<$FFFE>
- Well at least I am not running around looking silly, while stuffing my face! Calm down, one shouldn't eat while  being upset.<$FFFE>
+ How impolite! But it certainly suits you.<$FFFE>
+ Don't go wandering around behind us while we're eating! I can't enjoy my meal in peace!<$FFFE>
  If I am such an eyesore, I will leave!<$FFFE>
  Here it is. The rumored restaurant…<$FFFE>
  Welcome!<$FFFE>
  Hm? Well, if it isn't General Geier!<$FFFD>Got any results on the war front?<$FFFE>
  This certainly is no place for such matters.<$FFFD>Come in and have a seat.<$FFFE>
  Yessir…<$FFFE>
- Having some well made  Gyudon after a hard  battle, surely lifts the  spirits.<$FFFE>
+ Having some well made Gyudon after a hard battle, surely lifts the spirits.<$FFFE>
  Hmph.<$FFFE>
- You notice a small hole  inside the pillar of stone.<$FFFE>
+ You notice a small hole inside the pillar of stone.<$FFFE>
  What do you do?<$FFFE>
 Shoot at it <$FFFE>
 Put your hand in it <$FFFE>
 Just watch it <$FFFE>
  The hole gets buried underneath loosening rocks.<$FFFE>
- When you put your hand into it, something with  nasty little teeth bites it.<$FFFD>You pull out your hand, but the hole is being  buried by loosening  rocks.<$FFFE>
- After a while of staring at the hole, a voice can be heard from within <$01E2><$FFFD>"You shall be rewarded  for paying your respect  to my residence!"<$FFFE>
+ When you put your hand into it, something with nasty little teeth bites it.<$FFFD>You pull out your hand, but the hole is being buried by loosening rocks.<$FFFE>
+ After a while of staring at the hole, a voice can be heard from within <$01E2><$FFFD>"You shall be rewarded for paying your respect to my residence!"<$FFFE>
  <$F600><$05DA> attack modifier increased!<$FFFE>
  I am such an idiot…<$FFFE>
  Gyudon…<$FFFE>
  Impossible!<$FFFE>
- Dang! You're too  careless…<$FFFE>
+ Dang! You're too careless…<$FFFE>
  Aah…<$FFFE>
  I wanted to eat Gyudon with everyone…<$FFFE>
  How did it come to this…<$FFFE>
- I…finally… found a work…that suited me…<$FFFE>
+ I shouldn't have taken…this part-time job…<$FFFE>
  Bunny Suit was obtained!<$FFFB>Do you want to put it on right away?<$FFFE>
- I always dreamed<$FFFD>I just can't resist  it… I have to slip into this right away…<$FFFD>Not bad, a pretty tight  fit…<$FFFE>
- Groooss! Have you gone completely out of your mind!<$FFFE>
- Oh far from it, I just  changed equipment  somewhat…<$FFFE>
+ I always dreamed<$FFFD>I just can't resist it… I have to slip into this right away…<$FFFD>Not bad, a pretty tight fit…<$FFFE>
+ Eeeek!<$FFFC><$F600><$0000>, what are you doing!<$FFFE>
+ Oh far from it, I just changed equipment somewhat…<$FFFE>
  Despicable…<$FFFE>
- I absolutely refuse  having a sicko like  yourself anywhere near me or my father's mansion!<$FFFE>
+ I absolutely refuse having a sicko like yourself anywhere near me or my father's mansion!<$FFFE>
  Uurggh!<$FFFB>Such massive rejection…can't bear the pain…<$FFFE>
- <$F600><$0000>'s body  mineralized, turning him into a grotesque statue  of stone…<$FFFE>
- Kyaaahh! Do you even understand what you've done?<$FFFE>
- I lost control for a moment…no, someone took control…<$FFFE>
- Such cruelty… To think  you would be able to do  something so heartless…<$FFFE>
- I absolutely refuse  having a murderer like yourself anywhere near me or my father's mansion!<$FFFE>
+ <$F600><$0000> turned to stone!<$FFFE>
+ Kyaaahh!<$FFFC>What are you doing, <$F600><$0000>!<$FFFE>
+ No, my hand just slipped for a moment…<$FFFE>
+ Such cruelty… To think you would be able to do something so heartless…<$FFFE>
+ I absolutely refuse having a murderer like yourself anywhere near me or my father's mansion!<$FFFE>
  What…have I…<$FFFE>
  This is beyond words! Killing a fellow human purely on a whim!<$FFFE>
- So this is what the  remnants of Larcuss have come to.<$FFFD>I must have  overestimated them greatly…<$FFFE>
+ So this is what the remnants of Larcuss have come to.<$FFFD>I must have overestimated them greatly…<$FFFE>
 PUSYU!<$FFFE>
 PUSYU!<$FFFE>
 PUSYU!<$FFFE>
@@ -204,22 +200,22 @@ PUSYU!<$FFFE>
 PUSYU!<$FFFE>
 PUSYU!<$FFFE>
 PUSYU!<$FFFE>
- Exterminating all those  monsters took us quiet an amount of time.<$FFFE>
- I shall lead us to my  father's mansion without any further delay.<$FFFE>
- Now way… Tsk! What a letdown.<$FFFE>
- Sir, <$F600><$0000>. I will  take the lead from here  on out. You don't have  any objections, I presume?<$FFFE>
+ Exterminating all those monsters took us quite an amount of time.<$FFFE>
+ I shall lead us to my father's mansion without any further delay.<$FFFE>
+ Really… Tsk! What a letdown.<$FFFE>
+ Sir, <$F600><$0000>. I will take the lead from here on out. You don't have any objections, I presume?<$FFFE>
  What do you reply?<$FFFE>
 Not a chance<$FFFE>
 Understood<$FFFE>
  Not a chance!<$FFFE>
- This farce ends right  here. This is hardly the  time for prideful ado. If you insist on acting  like a stubborn child, we will simply leave you behind.<$FFFE>
- I get it alright. Please  show us the way to Lord  Torrano's mansion.<$FFFE>
- Understood. I will leave  it to you.<$FFFE>
- I am glad you see  reason. Everyone, please  follow me!<$FFFE>
+ This farce ends right here. This is hardly the time for prideful ado. If you insist on acting like a stubborn child, we will simply leave you behind.<$FFFE>
+ I get it alright. Please show us the way to Lord Torrand's mansion.<$FFFE>
+ Understood. I will leave it to you.<$FFFE>
+ I am glad you see reason. Everyone, please follow me!<$FFFE>
  Seven Beefsteaks please!<$FFFE>
  Sorry, that's not on the menu…<$FFFE>
- Hmph, the dire  overeagerness of youth claims another victim.<$FFFE>
- It's no use. We don't  have enough money!<$FFFE>
+ Hmph, so young.<$FFFE>
+ It's no use. We don't have enough money!<$FFFE>
  <$F600><$0000>, you idiot!<$FFFE>
- Thanks, this looks  really tasty!<$FFFE>
-<$F600><$0000>'s strength  rises plus 1<$FFFE> 
+ Thanks, this looks really tasty!<$FFFE>
+<$F600><$0000>'s HP rose by 1!<$FFFE>

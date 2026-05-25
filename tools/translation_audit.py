@@ -76,7 +76,7 @@ from d00_tools import parse_d00, parse_script_file
 
 JP_D00 = PROJ / 'build' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
-TILE_MAP_PATH = Path.home() / 'translation_analysis' / 'jp_tile_map.json'
+TILE_MAP_PATH = Path('/home/ralf/romhack/lang3_translation_analisis/jp_tile_map.json')
 KEYWORD_DICT_PATH = PROJ / 'tools' / 'jp_keyword_dict.json'
 
 CTRL_RE = re.compile(r'<\$([0-9A-Fa-f]{4})>')
@@ -143,12 +143,11 @@ def jp_all_codes(entry_bytes: bytes) -> tuple[str, ...]:
         word = struct.unpack_from('>H', entry_bytes, i)[0]
         i += 2
         if word == 0xF600:
+            # Player-name token: skip parameter, not part of parity
+            # (EN may add/remove per adaptation policy).
             if i < len(entry_bytes) - 1:
-                param = struct.unpack_from('>H', entry_bytes, i)[0]
-                codes.append(f'<$F600:{param:04X}>')
                 i += 2
-            else:
-                codes.append('<$F600>')
+            continue
         elif word in (0xFFFC, 0xFFFE, 0xFFFF):
             continue
         elif word >= 0xF000:
@@ -164,14 +163,9 @@ def en_all_codes(text: str) -> tuple[str, ...]:
     while i < len(matches):
         val = int(matches[i].group(1), 16)
         if val == 0xF600:
-            param = None
-            if i + 1 < len(matches):
-                param = int(matches[i + 1].group(1), 16)
-            if param is not None:
-                codes.append(f'<$F600:{param:04X}>')
-                i += 2
-                continue
-            codes.append('<$F600>')
+            # Player-name token: skip following parameter, not parity.
+            i += 2 if i + 1 < len(matches) else 1
+            continue
         elif val in (0xFFFC, 0xFFFE, 0xFFFF):
             i += 1
             continue
@@ -341,7 +335,7 @@ def audit_section(scen_num: int, length_tolerance: float = 3.0) -> SectionAudit:
             audits.append(EntryAudit(
                 entry=i + 1, jp=decode_jp_entry(jp_bytes), en='',
                 status='MISALIGNED', issues=['en_missing_entry'],
-                jp_codes=jp_structural_codes(jp_bytes), en_codes=(),
+                jp_codes=jp_all_codes(jp_bytes), en_codes=(),
                 jp_len=len(_strip_ctrl(decode_jp_entry(jp_bytes))), en_len=0,
             ))
         else:

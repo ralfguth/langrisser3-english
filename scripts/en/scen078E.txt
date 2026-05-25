@@ -1,47 +1,43 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-J ler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller <$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-General Bortz <$FFFF>
+Emerick<$FFFF>
+General Bortz<$FFFF>
 Rig er Commander<$FFFF>
 Imperial Soldier<$FFFF>
- Scenario <$0236> 19 "A man  called Bortz"<$FFFE>
- However, <$F600><$0000>'s mobile division refuses  to allow him this chance to escape. As soon as  they have reformed their troops, they continue their pursuit.<$FFFE>
- But for <$F600><$0000> and the separate force, this was  a chance they could not  afford to miss. They  immediately reorganized  and set off in pursuit of Boltz.<$FFFE>
- <$01E9>Condition for Victory  Defeat of Bortz  <$01E9>Conditions for Defeat  Death of <$F600><$0000> Bortz's arrival at the  airship<$FFFE>
- Boarding Pad for the airship, Near the  Larcussia Border Defense Base<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-19<$FFFC><$0000><$0000><$0000> A man called Bortz <$0000><$0000><$0000><$FFFE>
+ After losing Galshook, General Bortz<$FFFC>rallied his survivors and fell back<$FFFC>to spare them from annihilation. A decisive call, very Bortz-like.<$FFFE>
+ But for <$F600><$0000> and the separate force, this was a chance they could not afford to miss. They immediately reorganized and set off in pursuit of Bortz.<$FFFE>
+ *Victory Conditions<$FFFC>  •Defeat Bortz<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Bortz arrives at the airship<$FFFE>
+Boarding Pad for the airship, Near the Larcussia Border Defense Base<$FFFF>
  …<$FE28>…<$FE0F>…<$FE0F>. It will still take some time before everyone escapes.<$FFFE>
 That bunch will probably catch up with us soon. Somehow, we've got to buy more time.<$FFFE>
  …But, what strategy can I come up with.<$FFFE>
  Only one pattern comes to mind.<$FFFE>
  Never mind them, General.<$FFFE>
  All of us would follow you anywhere, General Bortz, even into Hell!<$FFFE>
- Us, too! Please feel free to make whatever  use of us you need!<$FFFE>
- Heck, I owe my life to  the General anyways. Now's the perfect time  for us to return the favor.<$FFFE>
+ Us, too! Please feel free to make whatever use of us you need!<$FFFE>
+ Heck, I owe my life to the General anyways. Now's the perfect time for us to return the favor.<$FFFE>
  Please, leave this to us. You should hurry up and escape, General.<$FFFE>
  You guys… I've sure got some good guys working under me.<$FFFE>
- But, we're all getting  out of here together this time.<$FFFE>
+ But, we're all getting out of here together this time.<$FFFE>
  General Bortz…<$FFFE>
- We will all do our damnedest to occupy them so our other soldiers  can escape. We will be  the last ones to board the ship.<$FFFE>
- …After all, you guys  have all become like sons to me. Just be sure  not to become war  orphans like me.<$FFFE>
+ We will all do our damnedest to occupy them so our other soldiers can escape. We will be the last ones to board the ship.<$FFFE>
+ …After all, you guys have all become like sons to me. Just be sure not to become war orphans like me.<$FFFE>
 Hold on, General! Don't say things like that!<$FFFE>
- Sorry about that. Alright, now listen up, every one of you damned  well better live to  return from this!<$FFFE>
+ Sorry about that. Alright, now listen up, every one of you damned well better live to return from this!<$FFFE>
  Yeahhhhhhhhhhhhhhhh!<$FFFE>

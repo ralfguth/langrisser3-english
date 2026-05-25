@@ -1,40 +1,36 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 General Varna<$FFFF>
-Field Marshal Altemuller<$FFFF>
-Riguler Commander <$FFFF>
- Former Royal Castle of Larcussia <$0236> Currently Imperial Headquarters <$FFFF>
- Your Excellency! It's  still dangerous to your  health to be very  active.<$FFFE>
- Don't worry about me.<$FFFD>Thanks to your extensive care, the wound has already closed over, as  you can see.<$FFFE>
- But, Your  Excellency…<$FFFE>
+Field Marshal Altemüller<$FFFF>
+Rigüler Commander<$FFFF>
+Former Royal Castle of Larcussia - Currently Imperial Headquarters<$FFFF>
+ Your Excellency! It's still dangerous to your health to be very active.<$FFFE>
+ Don't worry about me.<$FFFD>Thanks to your extensive care, the wound has already closed over, as you can see.<$FFFE>
+ But, Your Excellency…<$FFFE>
  Excuse me!<$FFFE>
  What is it?<$FFFE>
- General Bortz has sent a report.<$FFFD>General Bortz has a feeling that his main  force will be overcome by the Larcuss forces  led by Lord Raymond, which are stronger than  initially suspected!<$FFFE>
+ A report from General Bortz.<$FFFD>The Larcuss remnants under Lord Raymond are stronger than expected, and General Bortz's unit is being pushed back!<$FFFE>
  That Bortz!?<$FFFE>
  Ho… That Lord Raymond sure makes things much more exciting.<$FFFE>
- What course of action  would be best?<$FFFE>
+ What course of action would be best?<$FFFE>
  Varna. Go and help our Bortz.<$FFFE>
- Yessir! …But, Your  Excellency…<$FFFE>
+ Yessir! …But, Your Excellency…<$FFFE>
  No need to worry about me. Just go.<$FFFE>
- …Your wish is my  command.<$FFFE>
- Hmmm…<$FFFD>This should be very  interesting…<$FFFE> 
+ …Your wish is my command.<$FFFE>
+ Hmmm…<$FFFD>This should be very interesting…<$FFFE> 

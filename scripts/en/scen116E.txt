@@ -1,28 +1,24 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
- Scenario ?2 "Successive Heroes"<$FFFE>
- To honor the wish of Sophia, the chieftain of  the Shika Tribe handed over the Time and Space  Warping Stone to you.<$FFFE>
- Being curious about its  uses <$F600><$0000> wants to  test its powers right  away.<$FFFE>
- However, because <$F600><$0000> didn't get to know the exact method to use the stone,<$FFFE>
- he simply takes it between his hands and  mumbles a random incantation, hoping for  the best. Suddenly the  stone radiates a blinding light and when  <$F600><$0000> opens his eyes  again, he realizes that  he has been taken to a peculiar place.<$FFFE>
- Conditions of Victory  Defeat Ledin and Erwin Conditions of Defeat Death of <$F600><$0000><$FFFE> 
+Emerick<$FFFF>
+<$0000><$FFFC>  <$0000>SCENARIO-?2<$FFFC><$0000><$0000><$0000> Successive Heroes <$0000><$0000><$0000><$FFFE>
+ The Time and Space Warping Stone, received from the Great Chief of the Shika Tribe.<$FFFE>
+ Suddenly recalling the stone, <$F600><$0000> tries to use it right away.<$FFFE>
+ However, since he hadn't been told how to use the stone, <$F600><$0000> sent a random thought into it.<$FFFE>
+ A blinding light burst forth, and when they came to, <$F600><$0000> and the others were standing in an unknown land.<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat Ledin and Erwin<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE> 

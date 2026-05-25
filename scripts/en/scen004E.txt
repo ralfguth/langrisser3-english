@@ -1,139 +1,137 @@
-Langrisser III dumper [0x0000 to 0x0000]
 
-Cyber Warrior X
 
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Villager<$FFFF>
-Gilbert <$FFFF>
-Grove <$FFFF>
+Gilbert<$FFFF>
+Necromancer Grove<$FFFF>
 Coty<$FFFF>
-Monster <$FFFF>
-Defeat Necromancer Grove<$FFFE>
-<$01E9>Conditions for Defeat  Death of <$F600><$0000> Death of all Villagers<$FFFE>
-Ransch Village <$0236> Blademaster Gilbert's  house <$FFFF>
- I am sorry. After all the way we've come here…<$FFFE>
- It can't be helped. Don't worry about it.<$FFFE>
- !?<$FFFD>There are coming strange noises from the back of  the village.<$FFFE>
+Monster<$FFFF>
+•Defeat the Necromancer Grove<$FFFE>
+•Death of <$F600><$0000><$FFFC>•Death of all Villagers<$FFFE>
+Ransch Village<$FFFF>
+I am sorry.<$FFFC>After all the way we've<$FFFC>come here…<$FFFE>
+It can't be helped.<$FFFC>Don't worry about it.<$FFFE>
+!?<$FFFD>There are coming strange<$FFFC>noises from the back of the village.<$FFFE>
  H…help!<$FFFE>
  It is terrible!<$FFFE>
- What is the meaning of this!?<$FFFE>
- It's awful! The dead  from the graveyard have  risen and are heading  this way!<$FFFE>
- Iyaa! What is this!?<$FFFE>
- …It's, a zombie…?<$FFFE>
- There are still other  villagers back there! Huff<$01E9>, someone has to  warn them!<$FFFE>
- Lewin, Tiaris we have to step in!<$FFFE>
- Of course!<$FFFE>
- W…what!? Me too!?<$FFFE>
- Hehehe! Oh, there are more humans around, slay  them all!<$FFFE>
- Who's that oddball!? Is  he the one that controls the zombies?<$FFFE>
- It seems to be so. If we can take him out the zombies probably will  cease their rampage too.<$FFFE>
- I see. Anyway, we have no choice but to take up arms.<$FFFD>Let's go Tiaris!<$FFFE>
- Y…yes. I will give it  my all!<$FFFE>
- Abomination that dares to disturb the slumber of the deceased!<$FFFE>
- You shall feel the wrath of my blade!<$FFFE>
- Hehehe! Be my guest, you can come right over here and play with my little  friends!<$FFFE>
- <$F600><$0000>, I will do battle once more. I am at your command!<$FFFE>
- Gilbert joined the party.<$FFFE>
- Gilbert! …Alright, let's take care of those undead and their master!<$FFFE>
- Hehehe!<$FFFD>My unearthly powers  cannot be bested!<$FFFE>
- Damn you!<$FFFB>Let me refute that!<$FFFE>
- Not bad! You struggle on well for being such  worms!<$FFFD>And before I could take  on that sorcerers I needed some nice practice anyway!<$FFFE>
- What Sorceress?<$FFFD>…What are you talking about?<$FFFE>
- Now, my wonderful  servants! Show me the extend of your might!<$FFFE>
- Huh?<$FFFE>
- There's a grave over  there too? Let's see if  we have anything good  here!<$FFFE>
- Mihari Kushizekiki Hagujisoramu!<$FFFE>
- !? C…coty…<$FFFE>
+What is the meaning of <$FFFC>this!?<$FFFE>
+It's awful!The dead <$FFFC>from the graveyard have<$FFFC>risen and are heading<$FFFC>this way!<$FFFE>
+Iyaa! What is this!?<$FFFE>
+It's, an undead…?<$FFFE>
+There are still others <$FFFC>at the graveyard!<$FFFC>Ah, we have to warn the<$FFFC>rest of the village!<$FFFE>
+Lewin, Tiaris we have to<$FFFC>step in!<$FFFE>
+Of course!<$FFFE>
+Eeee...!?<$FFFC>Me too!?<$FFFE>
+Hehehe! Oh, there are <$FFFC>more humans around,<$FFFC>slay them all!<$FFFE>
+Who's that oddball!?<$FFFC>Is he the one that<$FFFC>controls the undead?<$FFFE>
+That seems to be true.<$FFFC>If we can defeat him,<$FFFC>the undead probably<$FFFC>will stop rampaging too.<$FFFE>
+ I see. Anyway, we have<$FFFC>no choice but to take up<$FFFC>arms.<$FFFD>Let's go Tiaris!<$FFFE>
+Y…yes.<$FFFC>I will give it my best!<$FFFE>
+Abomination that dares <$FFFC>to disturb the slumber <$FFFC>of the deceased!<$FFFE>
+You shall feel the wrath<$FFFC>of my blade!<$FFFE>
+Hehehe! Be my guest,<$FFFC>you can come right over<$FFFC>here and play with my<$FFFC>little friends!<$FFFE>
+<$F600><$0000>,<$FFFC>I will do battle once<$FFFC>more.<$FFFC>I am at your command!<$FFFE>
+Gilbert joined the party.<$FFFE>
+Gilbert!<$FFFC>…Alright, let's take <$FFFC>care of those undead and<$FFFC>their master!<$FFFE>
+Hehehe!<$FFFD>My unearthly powers<$FFFC>cannot be bested!<$FFFE>
+Damn you!<$FFFB><$FFFC>Let me refute that!<$FFFE>
+Argh! What is taking<$FFFC>so long!<$FFFD>If we waste time here,<$FFFC>I will run out of magic<$FFFC>before we go to defeat<$FFFC>that sorceress!<$FFFE>
+What Sorceress?<$FFFD>…What are you talking<$FFFC>about?<$FFFE>
+My wonderful servants!<$FFFC>Show me the extend of<$FFFC>your might!<$FFFE>
+Huh?<$FFFE>
+There's a grave over<$FFFC>there too? Let's see if<$FFFC>we have anything good<$FFFC>here!<$FFFE>
+Mihari Kushizekiki<$FFFC>Hagujisoramu!<$FFFE>
+C…coty!?<$FFFE>
 …<$FFFE>
- Huhuhu! Kill all you  want!<$FFFE>
- He surely doesn't belong to the Riguler Empire or the Barral Kingdom.<$FFFE>
- But no matter who he is, we cannot tolerate his evil ways.<$FFFE>
- On a grave in front of you, there is a potion.<$FFFE>
- Ugh, this is disgusting. Let's finish this  quickly!<$FFFE>
- Do you want to take it?<$FFFE>
-Take the potion with you?<$FFFE>
- There's a note attached to the potion. "Please accept this."<$FFFE>
- Nectar was obtained!<$FFFE>
- As you turn to leave the potion gives of a disgusting scent of  rotten skunk.<$FFFE>
- There is a weird looking helm inside the hut.<$FFFE>
- Do you take it?<$FFFE>
- Egil Helm was obtained!<$FFFE>
- There is a statue of thevillage's hero.<$FFFE>
- What do you want to do?<$FFFE>
+Huhuhu!<$FFFC>Kill all you want!<$FFFE>
+Who in the world is he?<$FFFE>
+He surely doesn't belong<$FFFC>to the Rigüler Empire<$FFFC>or the Barral Kingdom.<$FFFE>
+I don't know his goal,<$FFFC>but no doubt he is <$FFFC>plotting something<$FFFC>evil.<$FFFE>
+Ugh, this is disgusting.<$FFFC>Let's finish this<$FFFC>quickly!<$FFFE>
+Among the offerings lies<$FFFC>a strange potion.<$FFFE>
+Take it in your hand?<$FFFE>
+There's a note attached<$FFFC>to the potion.<$FFFC>"Please accept this"<$FFFE>
+Accept it?<$FFFE>
+Nectar was obtained!<$FFFE>
+The potion went rotten<$FFFC>and gave off a foul<$FFFC>stench…<$FFFE>
+Inside the building,<$FFFC>there is an eerie helm.<$FFFE>
+Take it?<$FFFE>
+Egil Helm was obtained!<$FFFE>
+ A stone statue stands, perhaps enshrining the village's hero.<$FFFE>
+ What do you do?<$FFFE>
 Offer up flowers<$FFFE>
 Offer up 100P<$FFFE>
-Offer up a prayer <$FFFE>
- When you place the flowers on the stone socket, the spear the figure was holding falls right before your feet.<$FFFE>
+Offer up a prayer<$FFFE>
+ When you offer the flowers, the spear the statue held slides down at your feet.<$FFFE>
  Bloody Lance was obtained!<$FFFE>
  Nothing happened…<$FFFE>
- Nothing happened…<$FFFE>
  Nothing happened.<$FFFE>
- What to say! What to do!<$FFFE>
+ Damn… if only I were stronger…<$FFFE>
  Owwww! What was that for!?<$FFFE>
  Don't come near me!<$FFFE>
  Don't come near me!<$FFFE>
  I am sorry. I can't fight anymore…<$FFFE>
- Your blasphemic doings will no longer go  unpunished!<$FFFE>
- No don't! Please stop, Coty!<$FFFE>
+ Your blasphemic doings will no longer go unpunished!<$FFFE>
+ What are you saying. I'll make you one of them too, soon enough.<$FFFE>
  Stop! Stop it, Coty!<$FFFE>
  Jahahaha!<$FFFD>Struggle all you want. There is nothing you can do.<$FFFE>
- C…coty…<$FFFE>
- C Coty…<$FFFE>
- Stop this, it is me! Don't you recognize me Coty?<$FFFE>
+ Damn…<$FFFE>
+ C, Coty…<$FFFE>
+ <$F600><$0000>… Poor Sir Gilbert!<$FFFE>
  Stop, it's me! Don't you recognize me, Coty!?<$FFFE>
- D…daddy…<$FFFE>
+ ……<$FFFE>
+ D…Daddy…<$FFFE>
  Coty!<$FFFE>
+ !? How dare you ignore my orders, you insolent girl! I will deal with you myself!<$FFFE>
  Kyaaaa!<$FFFE>
- !? How dare you ignore my orders, you insolent  girl! I will deal with  you myself!<$FFFE>
  Farewell, Coty…<$FFFE>
  Uuu…<$FFFE>
- Somebody heelp!<$FFFE>
  S Somebody help me!<$FFFE>
- Everyone, make your escape to Gilbert's  house! We will take care of them!<$FFFE>
- Everyone, run to  Gilbert's house! We will hold them off!<$FFFE>
+ Hang on! We'll come help you!<$FFFE>
+ Everyone, run to Gilbert's house! We will hold them off!<$FFFE>
+ Y…yes!<$FFFE>
  Help…me…<$FFFE>
- L…leave me be!<$FFFE>
- Sir Gilbert!<$FFFE>
- Someone help me!<$FFFE>
+ S…stop!<$FFFE>
+ Kyaaaa!<$FFFE>
  Someone, please help!<$FFFE>
- Rats, we have failed to protect the villagers! …If it wasn't so sad, it would be quiet a feat, being so patient.<$FFFE>
- Iiiiiihh!<$FFFD>Doing such to me, doing such a painful thing to  me… You're lucky I have to take care of that sorceress… I shall remember this  humiliation!<$FFFE>
+ Damn! We could not protect the villagers…<$FFFE>
+ Iiiiiihh!<$FFFD>Doing such to me, doing such a painful thing to me… You're lucky I have to take care of that sorceress… I shall remember this humiliation!<$FFFE>
  It's over… But I am concerned about how that lunatic managed to escape…<$FFFE>
-<$F702>
-<$F702>
- <$F702><$F702>We gratefully accept your assistance, Sir Gilbert.<$FFFE>
+ <$F702><$FFFE>
+ <$F702><$FFFE>
+ We gratefully accept your assistance, Sir Gilbert.<$FFFE>
  Just Gilbert is fine.<$FFFE>
  Just Gilbert is fine.<$FFFE>
- There is also need to  thank you properly. Due to your help everyone in the village was saved.<$FFFD>As a token of our  gratitude you shall have the village's secret  treasure.<$FFFE>
- Divine Blessing was  obtained!<$FFFE>
+ There is also need to thank you properly. Due to your help everyone in the village was saved.<$FFFD>As a token of our gratitude you shall have the village's secret treasure.<$FFFE>
+ Divine Blessing was obtained!<$FFFE>
+ They say this herb grants greater power when wielded by those brave enough to fight.<$FFFE>
  Thank you, everyone.<$FFFE>
- Thank you, everyone.<$FFFE>
- Use it well for the sake of the restoration of  the Larcuss Kingdom.<$FFFD>We are rooting for you. Please keep at it!<$FFFE>
-<$F703>
-<$F703>
- <$F703><$F703>Halt! Don't you dare  hurt my daughter!<$FFFE>
+ Use it well for the sake of the restoration of the Larcuss Kingdom.<$FFFD>We are rooting for you. Please keep at it!<$FFFE>
+ <$F703><$FFFE>
+ <$F703><$FFFE>
+ Halt! Don't you dare hurt my daughter!<$FFFE>
  Sir Gilbert…<$FFFE>
- Coty, please stop this!<$FFFD>If you must direct your  hate at someone, it  should be me!<$FFFE>
- Fool! Why did it have to  come to this…<$FFFE>
+ Coty, please stop this!<$FFFD>If you must direct your hate at someone, it should be me!<$FFFE>
+ Fool! Why did it have to come to this…<$FFFE>
  …Daddy…<$FFFE>
- You all have my thanks. You have saved me…<$FFFD>Please take care of  daddy for me.<$FFFE>
+ You all have my thanks. You have saved me…<$FFFD>Please take care of daddy for me.<$FFFE>
  Goodbye, Coty…<$FFFE>
 GUUUU…<$FFFE>
 GUUUU…<$FFFE>
@@ -155,29 +153,29 @@ GUUUU…<$FFFE>
 GUUUU…<$FFFE>
 ZAPP…<$FFFE>
 ZAPP…<$FFFE>
-I've got everything under control, you humans cannot hope to  even scratch the likes of me.<$FFFD>Now I am your opponent and you shall die at my  very own hands! Hihihihi!<$FFFE>
- Those measly humans are  doing quiet well.<$FFFD>Let's see how they like  this!<$FFFE>
- In such numbers they could be getting troublesome. I wonder if there is a way to make short work of them…<$FFFE>
- Undead creatures are vulnerable to holy powers. If you take your  companions affinity's  into consideration, you can do battle much more  effectively.<$FFFE>
- Undead are weak against  a cleric's holy power. If you think about unit  matchups, the battle  should go more smoothly.<$FFFE>
- Oh come on, I've had  enough of this!<$FFFE>
+I've got everything under control, you humans cannot hope to even scratch the likes of me.<$FFFD>Now I am your opponent and you shall die at my very own hands! Hihihihi!<$FFFE>
+ Those measly humans are doing quiet well.<$FFFD>Let's see how they like this!<$FFFE>
+ Kyaaa! More of them came out!<$FFFE>
+ Their numbers are too many… Isn't there a way to fight more effectively?<$FFFE>
+ Undead are weak against a cleric's holy power. If you think about unit matchups, the battle should go more smoothly.<$FFFE>
+ Sir <$F600><$0000>, they've appeared again!<$FFFE>
  Do their numbers know no end!?<$FFFE>
- So he's going to  overwhelm us with  numbers!?<$FFFE>
- Hihihi!<$FFFD>There are many more  that'd like to have fun with you, I can assure  you!<$FFFE>
- Khe, still more are  coming!<$FFFE>
- No longer will I permit  you to disturb the slumber of the dead! This I swear by Lushiris holy name!<$FFFE>
- Abomination! You will  pay for what you did to  Coty!<$FFFE>
- You bastard! How dare  you do this to Coty!<$FFFE>
- Hihihi! I was quiet surprised myself to find out that you were this poor girl's father.<$FFFD>But truly, you should be thanking me! After all, it was made possible solely by my hand that you could meet your  beloved daughter again!<$FFFE>
- Coty!<$FFFE>
- …Please, daddy…<$FFFE>
- But only because I lived by the sword you were  killed.<$FFFE>
- Please help those  people. Father's strength is needed now.<$FFFE>
- All that happened just because of my  thoughtlessness…<$FFFE>
+ So he's going to overwhelm us with numbers!?<$FFFE>
+ Hihihi!<$FFFD>There are many more that'd like to have fun with you, I can assure you!<$FFFE>
+ Khe, still more are coming!<$FFFE>
+ Giving up already? Hihihi!<$FFFE>
+ I will never forgive those who defile the slumber of the dead! By Lushiris' holy name!<$FFFE>
+ You bastard! How dare you do this to Coty!<$FFFE>
+ Hihihi! I was quiet surprised myself to find out that you were this poor girl's father.<$FFFD>But truly, you should be thanking me! After all, it was made possible solely by my hand that you could meet your beloved daughter again!<$FFFE>
+ Damn you! Unforgivable!<$FFFE>
+ C, Coty!<$FFFE>
+ …Please, father…<$FFFE>
+ Please help those people. Father's strength is needed now.<$FFFE>
+ But because I walked the path of the sword, I ended up cutting you down.<$FFFE>
  I never want to go through this again…<$FFFE>
- I am not sad any more  because I know that you  love me always. My one  wish is that no one has  to suffer any longer…<$FFFE>
- This pain has to end with just Father and me. Please… don't make  everyone suffer any more than they already  have…<$FFFE>
- …I understand. I lost  my way, but your  kindness showed me what  I must to do. Thank you.<$FFFE>
+ Many more people are suffering now. I don't want any more people to feel this pain.<$FFFE>
+ This pain has to end with just Father and me. Please… don't make everyone suffer any more than they already have…<$FFFE>
+ …I understand. I lost my way, but your kindness showed me what I must to do. Thank you.<$FFFE>
  Daddy…<$FFFE>
- Please watch over me, Coty.<$FFFD>From now on I will wield my sword for the sake of people's happiness. And one day we will restore  peace throughout all of  Larcuss, so make sure to watch closely.<$FFFE>
- Sir <$F600><$0000>. My path lies clearly before me.<$FFFD>For the sake of the  people of Larcuss, I will take up a sword once more. If I may, I will follow your lead  from here on out.<$FFFE>  
+ Please watch over me, Coty.<$FFFD>From now on I will wield my sword for the sake of people's happiness. And one day we will restore peace throughout all of Larcuss, so make sure to watch closely.<$FFFE>
+ Sir <$F600><$0000>. My path lies clearly before me.<$FFFD>For the sake of the people of Larcuss, I will take up a sword once more. If I may, I will follow your lead from here on out.<$FFFE> 

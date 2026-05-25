@@ -1,74 +1,70 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
+Kaiser Paul<$FFFF>
+Chaos<$FFFF>
 Paul<$FFFF>
-Chaos <$FFFF>
-Paul<$FFFF>
-True Bozel<$FFFF>
-Demon General Geier <$FFFF>
-Geier <$FFFF>
- Several weeks after  Alhazard was sealed by <$F600><$0000> and company…<$FFFE>
- Limbus <$0236> Between the Realms of the Living and the Dead<$FFFF>
- Uuuuh, where am I? I can't see anything. My  body, won't move.<$FFFE>
+True Böser<$FFFF>
+Demon General Geier<$FFFF>
+Geier<$FFFF>
+ Several weeks after Alhazard was sealed by <$F600><$0000> and company…<$FFFE>
+Limbus - Between the Realms of the Living and the Dead<$FFFF>
+ Uuuuh, where am I? I can't see anything. My body, won't move.<$FFFE>
  It was him! This is all because of him! How I despise him!<$FFFE>
- More than any word could express I despise him! And with him this whole  disgusting world!<$FFFE>
+ More than any word could express I despise him! And with him this whole disgusting world!<$FFFE>
  Paul…<$FE82><$FE82><$FE82><$FE82><$FE82>Paul…<$FFFE>
  Who is it, calling out to me?<$FFFE>
- My name is Chaos. I am the deity that governs disorder and renewal.<$FFFE>
- Isn't your hate for  Altemuller what hinders  you to pass on? Is it not your foremost desire to exact revenge on  Altemuller?<$FFFE>
- Re…venge…! …Yes. I will make him pay! Not only did he steal the  Empire from me, but also  the freedom of my body.<$FFFE>
- At the very thought of him, a sharp pain runs through my body  screaming for  retribution!<$FFFE>
- Look at you, you can't even walk. But he who  fell ones mustn't stay helpless.<$FFFE>
- …Power…, There isn't a being not craving for  it, do you want power?<$FFFE>
- Po…we.r… I want the  power to tear him apart! I want the power to make every living being in  existence crawl before me!<$FFFE>
- I see. Such anger, such  unrestrained will to dominate. You are much  more suitable to become  Bozel than Altemuller.<$FFFE>
- Only if certain  conditions are met, can I enter this world.<$FFFE>
- You will take the  necessary steps to prepare my arrival.<$FFFE>
+ My name is Chaos. The god of darkness, ruler of disorder.<$FFFE>
+ Isn't your hate for Altemüller what hinders you to pass on? Is it not your foremost desire to exact revenge on Altemüller?<$FFFE>
+ Re…venge…! …Yes. I will make him pay! Not only did he steal the Empire from me, but also the freedom of my body.<$FFFE>
+ Each time pain shoots through my body, my hatred for him grows stronger!<$FFFE>
+ But you cannot even walk. You could not inflict a single wound upon him.<$FFFE>
+ …Power…, the power to bow to no one. Do you not desire it?<$FFFE>
+ Po…we.r… I want the power to tear him apart! I want the power to make every living being in existence crawl before me!<$FFFE>
+ Yes. That anger and hatred. More than Altemüller, you are worthy of becoming Böser.<$FFFE>
+ I have gathered power until now in order to enter this world. But just one step away, my hopes were cut off.<$FFFE>
+ As things stand, I cannot even emerge into this world.<$FFFE>
  Paul. I will grant you a portion of my own power! Thus your life will last eternally!<$FFFE>
  Yeees! My Lord Chaos!<$FFFE>
- Worship me! Praise me! Henceforth your name shall be Bozel!<$FFFE>
- As my lord wishes! My  body is overflowing with power!<$FFFE>
- Magnificent… Such  limitless power…<$FFFE>
- Use this one as your subordinate! Envelope  this world in the  deepest darkness and herald my ascension!<$FFFE>
+ Worship me! Praise me! Henceforth your name shall be Böser!<$FFFE>
+ Oh! Lord Chaos!<$FFFE>
+ Magnificent… Such limitless power…<$FFFE>
+ I shall give you subordinates! You must surely call forth the power of darkness, Chaos, into this world!<$FFFE>
  Yes my lord!<$FFFE>
 Velzerian Castle<$FFFF>
  …Magnificent,<$FFFE>
  More and more power is rising up in me! My body almost feels like it's bursting!<$FFFE>
- Lord Bozel. Please give me commands.<$FFFE>
- Initially we have to make a sacrifice to Lord Chaos in order to  replenish his power.<$FFFE>
- In that case, I will  bring to you a suitable  sacrifice at once.<$FFFE>
+ Lord Böser. Please give me commands.<$FFFE>
+ Initially we have to make a sacrifice to Lord Chaos in order to replenish his power.<$FFFE>
+ In that case, I will bring to you a suitable sacrifice at once.<$FFFE>
  I leave it in your hands Demon General Geier!<$FFFE>
-Elthlead Royal Castle <$FFFF>
- Well, everyone. Let us  enjoy ourselves tonight.<$FFFE>
- The Riguler Empire, the Barral Kingdom, and the Kingdom of Elthlead have been restored, let us  raise our glasses in celebration, cheers!<$FFFE>
+Elthlead Royal Castle<$FFFF>
+ Well, everyone. Let us enjoy ourselves tonight.<$FFFE>
+ The Rigüler Empire, the Barral Kingdom, and the Kingdom of Elthlead have been restored, let us raise our glasses in celebration, cheers!<$FFFE>
  Yahuu! Cheers!<$FFFE>
- I am so glad everything  worked out.<$FFFE>
- Not only did the war end, but the relations between the three  kingdoms are better than ever also.<$FFFE>
- It most certainly seems  that way.<$FFFE>
+ I am so glad everything worked out.<$FFFE>
+ Not only did the war end, but the relations between the three kingdoms are better than ever also.<$FFFE>
+ It most certainly seems that way.<$FFFE>
  At last order has been established again.<$FFFE>
- Yes. We have to thank  your many efforts for  that.<$FFFE>
- Nah, that's not true. It  was mainly the cooperation of the three countries that made it possible.<$FFFE>
- I just hope that peace will remain and war  never breaks out again.<$FFFE>
- Ha, that's true. But if  it wasn't for the war we may never have come this far.<$FFFE>
+ Mm. My apologies for making even you help out.<$FFFE>
+ Don't worry about it. If our nations had cooperated, this war should never have happened.<$FFFE>
+ I just hope that peace will remain and war never breaks out again.<$FFFE>
+ Ha, that's true. But if it wasn't for the war we may never have come this far.<$FFFE>
  …What irony.<$FFFE>
  Kyaa!<$FFFE>
  Oh my, Aaahh…! Iaaaa!<$FFFE>
@@ -81,37 +77,37 @@ Elthlead Royal Castle <$FFFF>
  Luna!<$FFFE>
  Sophia!<$FFFE>
  Freya!<$FFFE>
-Hold it right there! …Geier you bastard!<$FFFE>
- Hahaha! This woman shall  be the sacrificed to revive lord chaos!<$FFFE>
+Wait! …You are Geier!<$FFFE>
+ Hahaha! This woman shall be the sacrificed to revive lord chaos!<$FFFE>
  You, but how…?<$FFFE>
- Hehehe, if it isn't Varna. Weren't you revived by the exact same dark magic?<$FFFE>
- Join us Varna. If lord chaos grows weak your  body will crumble to dust that moment!<$FFFE>
- Leave behind that sorry  excuse Altemuller and  come to Paul's side!<$FFFE>
- May lord Chaos rise  again! Muahahaha!<$FFFE>
+ Hehehe, Varna is it. Just like you, I was revived by the power of darkness!<$FFFE>
+ You should cooperate too, Varna. If Lord Chaos's power weakens, we shall all die!<$FFFE>
+ That Altemüller brat may have failed, but Lord Paul shall surely succeed!<$FFFE>
+ May lord Chaos rise again! Muahahaha!<$FFFE>
 Hold it! Let go of her!<$FFFE>
  Damn! Damn this! How could this happen!?<$FFFE>
-Varna, what was this all about? An explanation  would be appropriate.<$FFFE>
- Yes. Somehow it seems  that Paul and Geier were revived by the demon's god chaos.<$FFFE>
- Therefore we can assume  that Paul has become the next Bozel…<$FFFE>
- What? Paul became Bozel…<$FFFE>
- Paul now Bozel must have ordered to sacrifice her to revive chaos.<$FFFE>
- We have not a minute to  waste.<$FFFE>
- …Even if I must go by myself. I have to rescue  her!<$FFFE>
- We must make haste! Time  is of the essence!<$FFFE>
+Varna, what was this all about? An explanation would be appropriate.<$FFFE>
+ Yes. It seems that Paul and Geier have been revived by the power of the God of Chaos.<$FFFE>
+ Therefore we can assume that Paul has become the next Böser…<$FFFE>
+ What? Paul became Böser…<$FFFE>
+ Paul, now Böser, had her abducted to serve as a sacrifice for Chaos's revival.<$FFFE>
+ We have not a minute to waste.<$FFFE>
+ …Even if I must go by myself. I have to rescue her!<$FFFE>
+ We must make haste! Time is of the essence!<$FFFE>
  I am in!<$FFFE>
  I will lend you my blade too.<$FFFE>
- The one who dared to blow this party, soon  only will be a rubble of ashes!<$FFFE>
- Altemuller. Let us offer  our assistance too.<$FFFE>
- …But if we stop Bozel and prevent the revival  of chaos…, you could lose your life.<$FFFE>
- …Altemuller…<$FFFE>
- Please do not worry  about me. I have died already. That I live now already goes against the providence of nature.<$FFFE>
- Moreover, we cannot simply leave her to her  fate and allow chaos to  set foot in our world!<$FFFE>
+ Nobody here would oppose us.<$FFFE>
+ Altemüller. Let us offer our assistance too.<$FFFE>
+ …But if we defeat Böser and prevent Chaos's revival…, Varna, you will die.<$FFFE>
+ …Altemüller…<$FFFE>
+ Please do not worry about me. I have died already. That I live now already goes against the providence of nature.<$FFFE>
+ Moreover, we cannot simply leave her to her fate and allow chaos to set foot in our world!<$FFFE>
  Hm…<$FFFE>
- We shall lend to you our power as well. We cannot leave her alone nor can  the revival of Chaos be  tolerated.<$FFFE>
+ We shall lend to you our power as well. We cannot leave her alone nor can the revival of Chaos be tolerated.<$FFFE>
  …Thank you, everyone…<$FFFE>
- The only place that  applies for the ceremony is the Velzerian castle.<$FFFE>
+ The only place that applies for the ceremony is the Velzerian castle.<$FFFE>
  Alright! Move out to Velezeria castle!<$FFFE>
- Scenario <$0236> 35 "The True Enemy"<$FFFE>
- At the hands of the  demonic deity Chaos, Paul arises from the dead as the new Bozel. To serve as a ceremonial sacrifice for the  revival of Chaos, <$F600><$0000>'s beloved is  abducted by Demon  General Geier.<$FFFE>
- Having its lines bolstered up by  Altemuller and Varna, the division sets out  one more time towards  the Velzerian Castle, to  prevent the revival of the God of Chaos and to  rescue the abducted  dearest…<$FFFE>
- <$01E9>Condition for Victory  Defeat of Demon General  Geier <$01E9>Condition for  Defeat Death of  <$F600><$0000><$FFFE> 
+<$0000><$FFFC>  <$0000>SCENARIO-35<$FFFC><$0000><$0000><$0000><$0000> The True Enemy <$0000><$0000><$0000><$0000><$FFFE>
+ At the hands of the demonic deity Chaos, Paul arises from the dead as the new Böser. To serve as a ceremonial sacrifice for the revival of Chaos, <$F600><$0000>'s beloved is abducted by Demon General Geier.<$FFFE>
+ Having its lines bolstered up by Altemüller and Varna, the division sets out one more time towards the Velzerian Castle, to prevent the revival of the God of Chaos and to rescue the abducted dearest…<$FFFE>
+ *Victory Conditions<$FFFC>•Defeat of Demon General Geier<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE> 

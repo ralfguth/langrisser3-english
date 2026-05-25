@@ -1,28 +1,24 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
-<$FFFE>
-<$FFFE>
-<$FFFE>
-<$FFFE>
-<$FFFE>
-<$FFFE>
+Emerick<$FFFF>
+The prosperous realm of Larcuss <$FFFC>lay between Rigüler's Empire <$FFFC>to the north, and its ally <$FFFC>Barral to the south.<$FFFE>
+Northward, the Rigüler Empire<$FFFC>spanned vast reaches of land,<$FFFC>yet most of those lands were<$FFFC>frozen tundra, with harvests<$FFFC>too poor to end their poverty.<$FFFE>
+Southward lay Barral Kingdom,<$FFFC>poor but allied with Larcuss,<$FFFC>and the two kingdoms remained<$FFFC>bound by close friendship.<$FFFE>
+Beyond them, smaller nations<$FFFC>ringed the borders of Larcuss,<$FFFC>coveting its fertile lands and<$FFFC>its valuable strategic position.<$FFFE>
+Yet above Larcussia, Larcuss<$FFFC>kept an ancient relic aloft,<$FFFC>the Floating Castle, armed with<$FFFC>the Magical Cannon, repelling<$FFFC>invasion after invasion.<$FFFE>
+Free from war, peaceful Larcuss<$FFFC>prospered as a major trade hub,<$FFFC>blessed with fertile land and<$FFFC>rich mineral wealth, becoming<$FFFC>the richest of nearby nations.<$FFFE>

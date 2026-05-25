@@ -1,72 +1,68 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-J Eler <$FFFF>
-Jessica<$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
-Emerick <$FFFF>
+Emerick<$FFFF>
 Layla<$FFFF>
 Wolf<$FFFF>
 Barral Commander<$FFFF>
-Princess Freya <$FFFF>
-Dark Knight <$FFFF>
-Bozel <$FFFF>
+Princess Freya<$FFFF>
+Dark Knight<$FFFF>
+Böser<$FFFF>
 Feraquea<$FFFF>
 Worm Master Rag<$FFFF>
-Reaper Grove <$FFFF>
-Vice Capitol Laffel <$FFFF>
+Reaper Grove<$FFFF>
+Vice capital Laffel<$FFFF>
  Gerold…<$FFFE>
  Miss Layla…<$FFFE>
- Excuse me… I am going  to look for Gerold!<$FFFE>
+ Excuse me… I am going to look for Gerold!<$FFFE>
  Well, it looks like the strategy worked.<$FFFD>Now, if Lord Raymond…<$FFFE>
  Mr. Kirikaze!<$FFFE>
- …I have failed…<$FFFD>The Empire's mechanical  soldier somehow managed  to decimate our main troops.<$FFFE>
+ …I have failed…<$FFFD>The Empire's mechanical soldier somehow managed to decimate our main troops.<$FFFE>
  What about Father!?<$FFFE>
- My humble apologies. We  were separated on the  way back, and I don't know what happened to  him…<$FFFE>
+ My humble apologies. We were separated on the way back, and I don't know what happened to him…<$FFFE>
  He might have been captured by the enemy.<$FFFE>
- I will have my people  look into that possibility and find what news they can.<$FFFE>
+ I will have my people look into that possibility and find what news they can.<$FFFE>
  Thanks, Wolf.<$FFFD>Sophia, escort Kirikaze to the church.<$FFFE>
- Certainly.<$FFFE>
+ Yes.<$FFFE>
  I will come and help, too.<$FFFE>
- At any rate, these circumstances change things, we need to  finish up right away and hurry on to Larcussia!<$FFFE>
+ At any rate, as soon as battle preparations are ready, let us hurry on to Larcussia!<$FFFE>
 Near Fort Rogier<$FFFF>
  Are you all right, Princess?<$FFFE>
  …Huh? What happened?<$FFFE>
- My apologies. It seems  we weren't strong  enough, as always…<$FFFE>
- What are you talking about. You all did very  well.<$FFFD>I take full  responsibility for this  failure.<$FFFE>
+ My apologies. It seems we weren't strong enough, as always…<$FFFE>
+ What are you talking about. You all did very well.<$FFFD>I take full responsibility for this failure.<$FFFE>
  Princess…<$FFFE>
  Supreme Commander Dark Knight…<$FFFE>
- How could this be? What  is the meaning of this?<$FFFE>
- They retook Laffel…<$FFFD>If you must ask, it was  solely my weakness which has left us with only  these troops remaining.<$FFFD>It is entirely my fault.<$FFFE>
+ How could this be? What is the meaning of this?<$FFFE>
+ They retook Laffel…<$FFFD>If you must ask, it was solely my weakness which has left us with only these troops remaining.<$FFFD>It is entirely my fault.<$FFFE>
  Princess…<$FFFE>
- What do you say, Dark  Knight? Will you insult me and call me an  incompetent?<$FFFE>
- …Their power has  definitely grown.<$FFFD>There was nothing we could have done this time.<$FFFE>
- …<$FFFD>It was my fault that troops were sent away on the enemy's wild goose chase.<$FFFD>It would have been quite difficult to stop those  foes with the troops I had left behind.<$FFFE>
+ What do you say, Dark Knight? Will you insult me and call me an incompetent?<$FFFE>
+ …Their power has definitely grown.<$FFFD>There was nothing we could have done this time.<$FFFE>
+ …<$FFFD>It is also my fault for moving troops in response to the enemy's diversion.<$FFFD>It would have been difficult to stop them with only the troops that remained.<$FFFE>
  Dark Knight…<$FFFE>
- No matter who's at  fault, if this is all  the military might we  can muster at present, we will have to return to our homeland.<$FFFD>Until the soldiers are prepared, we won't be able to invade Larcuss…<$FFFE>
+ Either way, having lost this much military strength, we have no choice but to return to our homeland.<$FFFD>Until our soldiers are ready, we cannot invade Larcuss…<$FFFE>
  I see. All units, withdraw and return to our homeland.<$FFFE>
-Velzeria Castle <$FFFF>
- So Barral was defeated that quickly… This  is quite unexpected.<$FFFE>
- However, the main body of Larcuss troops was  annihilated by the Empire.<$FFFE>
- Our only remaining obstacle now is the  Empire. However, the Empire's power has further increased as a result.<$FFFE>
-…No, I wouldn't call them an obstacle, since I've got word that the  Empire's military might  has been exhausted as  well.<$FFFE>
- So all that remains of Larcuss is <$F600><$0000> and his mobile division, eh. I wonder if they will  fight against the  Empire.<$FFFE>
- But regardless, if the  two fight, their armies  will be even more  greatly diminished. So, when they've fought it out, that would be a perfect opportunity for  us…<$FFFE>
- Grove. How goes the  assassination of Altemuller?<$FFFE>
- We've captured the younger sister of one of the Imperial Generals. At present, we are using  her as leverage.<$FFFE>
+Velzeria Castle<$FFFF>
+ So Barral was defeated that quickly… This is quite unexpected.<$FFFE>
+ However, the main body of Larcuss troops was annihilated by the Empire.<$FFFE>
+ Our only remaining obstacle now is the Empire. However, the Empire's power has further increased as a result.<$FFFE>
+…No, the fact that they had to play their trump card proves the Empire's forces are nearing exhaustion.<$FFFE>
+ So all that remains of Larcuss is <$F600><$0000> and his mobile division, eh. I wonder if they will fight against the Empire.<$FFFE>
+ Either way, if the two sides fight, their armies will be greatly worn down. That moment will be our chance…<$FFFE>
+ Grove. How goes the assassination of Altemüller?<$FFFE>
+ We've captured the younger sister of one of the Imperial Generals. At present, we are using her as leverage.<$FFFE>
  I see… Wahahahahaha!<$FFFE> 

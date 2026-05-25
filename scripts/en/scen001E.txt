@@ -1,33 +1,23 @@
-Langrisser III dumper [0x0000 to 0x0000]
-
-Cyber Warrior X
-
-
-
-
-
-
-
 Tiaris<$FFFF>
-Liffany <$FFFF>
+Liffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Freya<$FFFF>
-Lewin <$FFFF>
-Silver Wolf <$FFFF>
-Gilbert <$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
-Fauvel<$FFFF>
+Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Jugler<$FFFF>
-Jessica <$FFFF>
+Holy Beast Jugler<$FFFF>
+Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
-Do Kahni<$FFFF>
-Altemuller<$FFFF>
-Varna <$FFFF>
-Emerick <$FFFF>
-…Youth aspiring to knighthood.<$FFFC>…Youth who weaves history.<$FFFC>Open your eyes.<$FFFE>
-My name is Lushiris.On earth I'm<$FFFC>known as the goddess of light.<$FFFE>
+Brave Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emerick<$FFFF>
+Youth aspiring to knighthood…<$FFFC>Youth who weaves history…<$FFFC>Open your eyes.<$FFFE>
+My name is Lushiris. <$FFFC>On earth I'm known as the <$FFFC>goddess of light.<$FFFE>
 Under my protection,Larcuss has known long years of peace and <$FFFC>prosperity.<$FFFE>
 Even now, darkness has begun to<$FFFC>rise throughout the kingdom.<$FFFE>
 I fear that peace will come to a<$FFFC>close and an age of unrest will begin.<$FFFE>
@@ -150,30 +140,30 @@ To obtain glory and honor <$FFFE>
 To protect my homeland<$FFFE>
 To protect my loved ones<$FFFE>
 Shall I explain the basic rules <$FFFC>of this world?<$FFFE>
-Would you like me to explain how<$FFFC>combat works?<$FFFE>
-A prologue begins each stage.<$FFFC>After that you'll be directed to<$FFFC>the battle preparation screen.<$FFFD>During battle preparation you <$FFFC>can hire soldiers, buy and sell <$FFFC>items, equip your commanders <$FFFC>and change their class.<$FFFD>Once all commanders are deployed<$FFFC>choose"Begin battle" to start.<$FFFD>Always watch the battlefield and<$FFFC>enemy deployment while placing<$FFFC>your commanders.<$FFFD>Battles takes place on the map <$FFFC>and in Battle mode.<$FFFD>Both have been overhauled.<$FFFD>Clear each scenario by meeting<$FFFC>its Victory Conditions. If the<$FFFC>Defeat Conditions are met,<$FFFC>it is game over.<$FFFD>The conditions for victory and <$FFFC>defeat are displayed during the<$FFFC>prologue before the scenario but<$FFFC>can change throughout the course<$FFFC>of a scenario.<$FFFD>Those conditions also can be <$FFFC>locked up in battle through the <$FFFC>main menu.<$FFFE>
-Do you wish for a more detailed <$FFFC>explanation about hiring troops?<$FFFE>
-Only one type of troops can be<$FFFC>hired at a time. Troops only<$FFFC>grow stronger along with their<$FFFC>commander.<$FFFD>Press L and R on the recruit <$FFFC>screen to cycle through your <$FFFC>commanders.<$FFFD>Hold L on the map to see the HP<$FFFC>of commanders and their units.<$FFFC>Pressing start or Z during <$FFFC>battle will open the main menu.<$FFFE>
+Would you like me to explain how<$FFFC>a stage plays out?<$FFFE>
+A prologue begins each stage.<$FFFC>After that you'll be directed to<$FFFC>the battle preparation screen.<$FFFD>During battle preparation you <$FFFC>can hire soldiers, buy and sell <$FFFC>items, equip your commanders <$FFFC>and change their class.<$FFFD>Once all commanders are deployed<$FFFC>choose"Begin battle" to start.<$FFFD>However, some stages have a<$FFFC>predetermined placement from<$FFFC>the start.<$FFFD>Battles takes place on the map <$FFFC>and in Battle mode.<$FFFD>Both have been overhauled.<$FFFD>Clear each scenario by meeting<$FFFC>its Victory Conditions. If the<$FFFC>Defeat Conditions are met,<$FFFC>it is game over.<$FFFD>The conditions for victory and <$FFFC>defeat are displayed during the<$FFFC>prologue before the scenario but<$FFFC>can change throughout the course<$FFFC>of a scenario.<$FFFD>Those conditions also can be <$FFFC>looked up in battle through the <$FFFC>main menu.<$FFFE>
+Do you wish for a more detailed <$FFFC>explanation about battle prep?<$FFFE>
+In battle preparation you can<$FFFC>hire soldiers and buy or<$FFFC>sell items.<$FFFD>Press L and R on the recruit <$FFFC>screen to cycle through your <$FFFC>commanders.<$FFFD>Press Start at the recruit screen<$FFFC>to see descriptions of items and<$FFFC>soldiers.<$FFFE>
 Do you want to be informed about<$FFFC>the battle system in greater<$FFFC>detail?<$FFFE>
 In this game,units act together<$FFFC>under their commander.<$FFFD>Orders go to commanders only,<$FFFC>not to individual soldiers.<$FFFD>Commanders do not act right away<$FFFC>after receiving orders.<$FFFD>Once all orders are given, press<$FFFC>Start and select Execute Turn.<$FFFC>All units will then act at once.<$FFFE>
 Do you want me to explain every <$FFFC>command?<$FFFE>
-<$035C>Move<$035D>Sets a destination for<$FFFC>your units. You can set up to 4<$FFFC>waypoints within its max<$FFFC>movement range.<$FFFD><$035C>Recover<$035D>Your commander and <$FFFC>Soldiers will recover some HP.<$FFFC>Recovering units cannot move or <$FFFC>attack during that turn.<$FFFD><$035C>Magic<$035D>Use your MP to invoke<$FFFC>mighty spells. Casting units can't do anything else that turn.<$FFFD>Note that spells need time to be<$FFFC>cast.More powerful spells take <$FFFC>longer to cast than easy ones.<$FFFD><$035C>Item<$035D>Items can either be <$FFFC>equipped or used during battle.<$FFFD>Only one item can be used at a <$FFFC>time and the unit becomes unable<$FFFC>to do anything else.<$FFFD><$035C>Use<$035D>Use items and invoke <$FFFC>special effect of certain items.<$FFFC>Beware though, there are items <$FFFC>that could break upon using.<$FFFD><$035C>Summon<$035D>Use your MP to call <$FFFC>a creature. Summoned creatures <$FFFC>act just as other commanders.<$FFFE>
-<$035C>Skill <$035D>There are skills with <$FFFC>permanent effect and skills that<$FFFC>can be activated manually.<$FFFC>In battle only skills that can<$FFFC>be activated will show up.<$FFFD>Master the use of those commands<$FFFC>and success will be certain.<$FFFD>Normally, you can only choose <$FFFC>one command at a time. However,<$035C>Mode<$035D> and <$035C>Formation <$035D> can<$FFFC>be combined with other commands.<$FFFD>Until you press Start or Z and <$FFFC>select Execute Turn you are free<$FFFC>to change given commands.<$FFFE>
-Do you want me explain a unit's <$FFFC>mode more accurately?<$FFFE>
-There are three possible modes <$FFFC>a unit can be set to: Defense,<$FFFC>Normal and High Mobility.<$FFFD>Normal is the default and most <$FFFC>balanced mode. Choosing High <$FFFC>Mobility will increase the area a unit can move, but will lower <$FFFC>the attack and defense values.<$FFFD>When choosing Defense, movement <$FFFC>is no longer possible, but <$FFFC>defensive power rises. Note that your soldiers have to move in  order to change formation.<$FFFE>
+<$035C>Move<$035D>Sets a destination for<$FFFC>your units. You can set up to 4<$FFFC>waypoints within its max<$FFFC>movement range.<$FFFD><$035C>Recover<$035D>Your commander and <$FFFC>Soldiers will recover some HP.<$FFFC>Recovering units cannot move or <$FFFC>attack during that turn.<$FFFD><$035C>Magic<$035D>Use your MP to invoke<$FFFC>mighty spells. Casting units can't do anything else that turn.<$FFFD>Note that spells need time to be<$FFFC>cast.More powerful spells take <$FFFC>longer to cast than easy ones.<$FFFD><$035C>Item<$035D>Items can either be <$FFFC>equipped or used during battle.<$FFFD>Equip and Use happen right after<$FFFC>both armies finish moving. Until<$FFFC>then, the unit waits in place.<$FFFD><$035C>Use<$035D>Use items and invoke <$FFFC>special effect of certain items.<$FFFC>Beware though, there are items <$FFFC>that could break upon using.<$FFFD><$035C>Summon<$035D>Use your MP to call <$FFFC>a creature. Summoned creatures <$FFFC>act just as other commanders.<$FFFE>
+<$035C>Skill <$035D>There are skills with <$FFFC>permanent effect and skills that<$FFFC>can be activated manually.<$FFFC>In battle only skills that can<$FFFC>be activated will show up.<$FFFD>Master the use of those skills<$FFFC>and success will be certain.<$FFFD>Normally, you can only choose <$FFFC>one command at a time. However,<$035C>Mode<$035D> and <$035C>Formation <$035D> can<$FFFC>be combined with other commands.<$FFFD>Until you press Start or Z and <$FFFC>select Execute Turn you are free<$FFFC>to change given commands.<$FFFE>
+Do you want me to explain a<$FFFC>unit's mode more accurately?<$FFFE>
+There are three possible modes <$FFFC>a unit can be set to: Defense,<$FFFC>Normal and High Mobility.<$FFFD>Normal is the default and most <$FFFC>balanced mode. Choosing High <$FFFC>Mobility will increase the area a unit can move, but will lower <$FFFC>the attack and defense values.<$FFFD>When choosing Defense, movement <$FFFC>is no longer possible, but <$FFFC>defensive power rises. Soldiers also stay in place, letting you hold a defensive line.<$FFFE>
 Do you desire to know more about the unit's formations?<$FFFE>
-The formation decides how unit's will place themselves in relation to their commander.<$FFFD>A change in formation only applies after a commander moves.<$FFFD>The Square is the default  formation placing soldiers all around the commander.<$FFFD>The Spear can help to reach far  away enemies.<$FFFD>The Wall is useful to intercept  enemies coming from the back and the front.<$FFFD>The Slant comes in two variations and can be handy in various situations.<$FFFD>In battle it is of utmost  importance to determine which  units should make contact to the enemy. Use formations for  precise maneuvers.<$FFFE>
+The formation decides how unit's will place themselves in relation to their commander.<$FFFD>While in Defense mode the formation is locked. Release Defense first to change formation.<$FFFD><$035C><$014A><$035D> is the default formation placing soldiers all around the commander.<$FFFD><$035C><$014B><$035D> blocks enemies from the sides and supplements vertical movement.<$FFFD><$035C><$014C><$035D> is useful to intercept enemies coming from the back and the front.<$FFFD><$035C><$014D><$035D><$035C><$014E><$035D> block enemies from diagonals and supplement diagonal movement.<$FFFD>In battle it is of utmost  importance to determine which  units should make contact to the enemy. Use formations for  precise maneuvers.<$FFFE>
 Next, do you want me to explain battle mode?<$FFFE>
-Battle mode will be triggered if two units soldiers or commanders have contact to another or are in proximity of ranged attack. Even if only one Soldier connects, the whole unit will partake in battle <$FFFD>Be mindful of your unit's  formation to avoid having weak units getting caught in melee.<$FFFD>When entering battle mode two  pictures will show up, one unit  defends and one attacks. If you  are the attacker you can choose  which unit you want to attack or if you would rather do nothing.<$FFFE>
-To cycle through use the directional buttons. By default  you will enter a Battle scene  once two units engage in battle. You will be presented by a 3D simulation of the battle.<$FFFD>Here you can give specific orders to your Commander and Soldier Squads.<$FFFD>If you would prefer not to watch the Battle scene, go to the main  menu choose Game Options and set Battle Scenes to off. If the  battle scene is turned off, the battle results will be calculated automatically.<$FFFE>
+Battle mode will be triggered if two units soldiers or commanders have contact to another or are in proximity of ranged attack. Even if only one Soldier connects, the whole unit will partake in battle <$FFFD>Be mindful of your unit's  formation to avoid having weak units getting caught in melee.<$FFFD>On the pre-battle screen you can set each unit's Attack Target, Escort Target and the like. Select the unit you wish to command.<$FFFE>
+When you're done giving orders, choose Execute Turn from the menu or press the Start button to begin battle.<$FFFD>If no orders are given, the unit moves on Auto.<$FFFD>Battle then follows the orders given on the pre-battle screen. If the commander falls, the whole unit is wiped out.<$FFFE>
 Do you want to learn more about  affinities?<$FFFE>
-Affinities mean the s <$FFFD>For example infantry units are strong against spearmen, but weak against cavalry. Spearmen  are strong against cavalry, but weak against infantry. Cavalry is strong against infantry, but weak against spearmen.<$FFFD>Bowmen are strong against flying units. Monks and clerics are strong against demons, gels and  the Undead. There are also  specialized Anti air and Anti  ground flying units.<$FFFD>Sailors are very powerful in water but otherwise are of the same affinity as infantry.<$FFFD>Choosing your troops wisely is a must to do battle effectively.<$FFFE>
+Each attribute has the following combat affinities.<$FFFD>For example infantry units are strong against spearmen, but weak against cavalry. Spearmen  are strong against cavalry, but weak against infantry. Cavalry is strong against infantry, but weak against spearmen.<$FFFD>Bowmen are strong against flying units. Monks and clerics are strong against demons, gels and  the Undead. There are also  specialized Anti air and Anti  ground flying units.<$FFFD>Some sailors are particularly powerful on water, while others simply move fast across it.<$FFFD>These features can be checked by pressing the Start button when selecting soldiers at the recruit shop.<$FFFE>
 Do you wish to know more about<$FFFC>the flexible class change?<$FFFE>
 So you want to gain further <$FFFC>knowledge about classes?<$FFFE>
-Changing the class of a commander will result in a change of stat growth. Skills, magic and units that can be  hired, depend on the class of a character.<$FFFD>Select Class Changes at the  battle preparation screen.<$FFFD>At the levels 10, <$0619> and 50 a new class will become  accessible, depending on the  character.<$FFFD>Note that the level count of the class is independent of the  characters level.<$FFFD>A newly acquired class will  start out at level 1 while the character remains at his current level.<$FFFD>Doing a class change mid way won't result in any further  disadvantages.<$FFFD>Switching classes depending on the situation at hand is a key element for claiming victory.<$FFFE>
+Changing the class of a commander will result in a change of stat growth. Skills, magic and units that can be  hired, depend on the class of a character.<$FFFD>Select Class Changes at the  battle preparation screen.<$FFFD>At the levels 10, <$0619> and 50 a new class will become  accessible, depending on the  character.<$FFFD>However, some characters do not  gain a new class at level 50.<$FFFD>A newly acquired class will  start out at level 1 while the character remains at his current level.<$FFFD>Doing a class change mid way won't result in any further  disadvantages.<$FFFD>Even when returning to a former  class, leveling continues from  where you left off.<$FFFE>
 Do you wish to learn more about  how to level up a class?<$FFFE>
-While upgraded classes have the  same stat growth as the basic  classes, unique spells and better units become available.<$FFFD>There are two ways to rise the level of a class. You can use the divine blessing item, or  gain <$0613> levels with the appropriate class.<$FFFD>For example When you gain <$0613> levels as a Lord your class will automatically upgrade to High  Lord.<$FFFE>
+Class-Up means changing class while staying within the same attribute.<$FFFD>There are two ways to rise the level of a class. You can use the divine blessing item, or  gain <$0613> levels with the appropriate class.<$FFFD>For example When you gain <$0613> levels as a Lord your class will automatically upgrade to High  Lord.<$FFFE>
 Do you want to learn more about<$FFFC> the amount of experience<$FFFC>gained?<$FFFE>
-When a commander is defeated all his soldiers will vanish along with him.<$FFFD>If you want to make short work of your enemies, aim for the commander. Defeating all soldiers first will net you the  maximal amount of experience points.<$FFFE>
+Even if you defeat the enemy commander while their soldiers remain, you still gain experience for the soldiers wiped out alongside.<$FFFD>For that reason, defeating the commander cleanly is ideal. Defeating just the soldiers will also net some experience, but only a small amount.<$FFFE>
 Do you want to learn about<$FFFC>special inputs?<$FFFE>
-Listen well for those hints  could safe you a lot of time in  battle. Press the Y button to move the cursor to the next  commander. Pushing Y again will  cycle through your commanders.<$FFFD>Pushing the A button while a range indicator shows up, will  limit the cursor's movement to the displayed range.<$FFFD>You can speed up the cursor's speed by holding down either B or X, but X is recommended since  you could accidentally cancel an action pressing B in some situations.<$FFFE>    
+Listen well for those hints  could save you a lot of time in  battle. Press the Y button to move the cursor to the next  commander. Pushing Y again will  cycle through your commanders.<$FFFD>Pushing the A button while a range indicator shows up, will  limit the cursor's movement to the displayed range.<$FFFD>You can speed up the cursor's speed by holding down either B or X, but X is recommended since  you could accidentally cancel an action pressing B in some situations.<$FFFE>    
