@@ -64,8 +64,10 @@ CTRL_PARITY_XFAIL: dict[int, int] = {
     # filled with English narration during v0.6 cutscene-subtitle work.
     # scen123 entry 32 carries an FFFD added by the user to clear the
     # balloon between subtitle frames; entry 36 uses FFFD for a dying
-    # cough beat where JP uses FFFC.
-    123: 2,
+    # cough beat where JP uses FFFC; entries 30/31 carry FFFB/FFFD/0000
+    # control sequences added 2026-05-25 to sync the Altemüller/Larcussia
+    # narration timing with the JP voice track.
+    123: 4,
     41: 1, 45: 1, 48: 1, 50: 1, 51: 1, 52: 1, 56: 1, 57: 1, 58: 1,
     59: 1, 61: 1, 62: 1, 67: 1, 68: 1, 70: 1, 72: 1, 73: 1, 74: 1,
     75: 1, 76: 1, 80: 1, 86: 1, 87: 1, 89: 1, 91: 1, 92: 1, 97: 1,
