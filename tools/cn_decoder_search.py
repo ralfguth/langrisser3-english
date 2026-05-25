@@ -18,7 +18,7 @@ NOTO = "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"
 
 
 def load_font_bin():
-    return Path(PROJ.parent / "lang3_english_translation_project"
+    return Path(PROJ.parent / "langrisser3-english"
                 / "data" / "cn" / "font_cn.bin").read_bytes()
 
 

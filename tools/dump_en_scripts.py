@@ -43,7 +43,7 @@ from plot_tools import parse_plot
 from font_tools import CHAR_TILE_MAP, BIGRAM_TILE_MAP
 
 PATCHED_ISO = PROJ / 'build' / 'track01.bin'
-DEFAULT_OUT = Path('/home/ralf/romhack/lang3_english_translation_project/scripts/wip')
+DEFAULT_OUT = Path('/home/ralf/romhack/langrisser3-english/scripts/wip')
 
 # Files inside the patched ISO
 ISO_D00 = 'LANG/SCEN/D00.DAT'

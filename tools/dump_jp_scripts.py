@@ -46,7 +46,7 @@ JP_ISO_TRACK = Path('/home/ralf/Jogos/emulacao/romsets/sega-saturn/cue-bin'
                     '/Langrisser III (Japan)'
                     '/Langrisser III (Japan) (3M) (Track 01).bin')
 TILE_MAP_PATH = Path('/home/ralf/Jogos/emulacao/tools/lang3_translation_analisis/jp_tile_map.json')
-DEFAULT_OUT = Path('/home/ralf/romhack/lang3_english_translation_project/scripts/jp')
+DEFAULT_OUT = Path('/home/ralf/romhack/langrisser3-english/scripts/jp')
 
 HEADER = ''
 
