@@ -8,8 +8,9 @@ The build pipeline produces two kinds of output filenames:
       (release-candidate naming, '+' = uncommitted work past the tag).
 
   - Canary (--canary):
-      "Langrisser ({Language} {branch-name}).cue"
-      NOTE: no "III" — intentional, distinguishes WIP from canonical at a glance.
+      "Langrisser III ({Language} {branch-name}).cue"
+      The game name "Langrisser III" is constant; canary differs from canonical
+      by carrying the branch name (e.g. 'new-ui-patch') instead of a tag version.
 
 This test pins those conventions so accidental edits to build.py can't
 silently change the output filename shape (which would break release
@@ -90,33 +91,69 @@ def test_canonical_strips_leading_v_from_tag_once():
     assert ' vv' not in name
 
 
-def test_canonical_falls_back_when_git_unavailable():
-    """If git invocation raises, name must still be safe (no version part)."""
+def test_canonical_falls_back_to_version_artifact_when_git_unavailable(tmp_path):
+    """No git (release archive) but a stamped VERSION → versioned name."""
+    (tmp_path / 'VERSION').write_text('0.6.1\n', encoding='utf-8')
+
     def boom(*a, **kw):
         raise RuntimeError('no git')
-    with patch('subprocess.check_output', side_effect=boom):
+    with patch('subprocess.check_output', side_effect=boom), \
+            patch.object(build, 'SCRIPT_DIR', tmp_path):
         name = build._resolve_canonical_cue_name('English')
-    # No version means no 'v', but the language must still appear.
+    assert name == 'Langrisser III (English v0.6.1).cue'
+
+
+def test_canonical_version_artifact_strips_leading_v(tmp_path):
+    """A VERSION file that itself starts with 'v' must not double the 'v'."""
+    (tmp_path / 'VERSION').write_text('v0.6.2\n', encoding='utf-8')
+
+    def boom(*a, **kw):
+        raise RuntimeError('no git')
+    with patch('subprocess.check_output', side_effect=boom), \
+            patch.object(build, 'SCRIPT_DIR', tmp_path):
+        name = build._resolve_canonical_cue_name('English')
+    assert name == 'Langrisser III (English v0.6.2).cue'
+    assert ' vv' not in name
+
+
+def test_canonical_bare_fallback_when_no_git_and_no_version(tmp_path):
+    """No git AND no VERSION artifact → safe bare name (no version part)."""
+    def boom(*a, **kw):
+        raise RuntimeError('no git')
+    with patch('subprocess.check_output', side_effect=boom), \
+            patch.object(build, 'SCRIPT_DIR', tmp_path):  # tmp has no VERSION
+        name = build._resolve_canonical_cue_name('English')
     assert name == 'Langrisser III (English).cue'
+
+
+def test_git_takes_precedence_over_version_artifact(tmp_path):
+    """When git resolves, the tag wins even if a VERSION file is present."""
+    (tmp_path / 'VERSION').write_text('9.9.9\n', encoding='utf-8')
+    stub = _fake_check_output(latest_tag='v0.6.1', head_tags=['v0.6.1'])
+    with patch('subprocess.check_output', side_effect=stub), \
+            patch.object(build, 'SCRIPT_DIR', tmp_path):
+        name = build._resolve_canonical_cue_name('English')
+    assert name == 'Langrisser III (English v0.6.1).cue'
 
 
 # ---------------------------------------------------------------------------
 # _resolve_canary_cue_name
 # ---------------------------------------------------------------------------
 
-def test_canary_uses_branch_name_and_drops_III():
-    """Canary keeps no 'III' (visual distinction from canonical)."""
+def test_canary_uses_branch_name_and_keeps_III():
+    """Canary keeps 'Langrisser III' — the game name is constant. The
+    distinction from canonical is branch-name vs tag-version."""
     with patch('subprocess.check_output',
                return_value=b'feature/foo\n'):
         name = build._resolve_canary_cue_name('English')
-    assert name == 'Langrisser (English feature/foo).cue'
-    assert 'III' not in name
+    assert name == 'Langrisser III (English feature/foo).cue'
+    assert 'III' in name
 
 
 def test_canary_uses_language_display_name():
     with patch('subprocess.check_output', return_value=b'main\n'):
         assert (build._resolve_canary_cue_name('Italian')
-                == 'Langrisser (Italian main).cue')
+                == 'Langrisser III (Italian main).cue')
 
 
 def test_canary_falls_back_when_git_unavailable():
@@ -124,7 +161,7 @@ def test_canary_falls_back_when_git_unavailable():
         raise RuntimeError('no git')
     with patch('subprocess.check_output', side_effect=boom):
         name = build._resolve_canary_cue_name('English')
-    assert name == 'Langrisser (English canary).cue'
+    assert name == 'Langrisser III (English canary).cue'
 
 
 # ---------------------------------------------------------------------------
@@ -133,11 +170,56 @@ def test_canary_falls_back_when_git_unavailable():
 # ---------------------------------------------------------------------------
 
 def test_canonical_and_canary_filenames_differ():
-    """For any state, canonical has 'III' and canary doesn't."""
+    """For any state, canonical and canary produce distinct filenames so
+    they can sit side-by-side in build/. Both carry 'Langrisser III' — the
+    difference is the version-tag suffix (canonical) vs branch-name
+    suffix (canary)."""
     canonical_stub = _fake_check_output(latest_tag='v0.6.1', head_tags=['v0.6.1'])
     with patch('subprocess.check_output', side_effect=canonical_stub):
         canonical = build._resolve_canonical_cue_name('English')
     with patch('subprocess.check_output', return_value=b'main\n'):
         canary = build._resolve_canary_cue_name('English')
     assert canonical != canary
-    assert 'III' in canonical and 'III' not in canary
+    assert 'III' in canonical
+    assert 'III' in canary
+    assert 'v0.6.1' in canonical and 'v0.6.1' not in canary
+    assert 'main' in canary and 'main' not in canonical
+
+
+# ---------------------------------------------------------------------------
+# stamp_version — the release artifact injector
+# ---------------------------------------------------------------------------
+
+import importlib.util  # noqa: E402
+
+_STAMP_PATH = PROJECT / 'tools' / 'stamp_version.py'
+_spec = importlib.util.spec_from_file_location('stamp_version', _STAMP_PATH)
+stamp_version = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(stamp_version)
+
+
+def test_stamp_writes_normalised_version(tmp_path):
+    target = tmp_path / 'VERSION'
+    with patch.object(stamp_version, 'VERSION_FILE', target):
+        written = stamp_version.stamp('v0.6.2')
+    assert written == '0.6.2'              # leading 'v' stripped
+    assert target.read_text(encoding='utf-8') == '0.6.2\n'
+
+
+def test_stamp_rejects_empty_version(tmp_path):
+    with patch.object(stamp_version, 'VERSION_FILE', tmp_path / 'VERSION'):
+        with pytest.raises(ValueError):
+            stamp_version.stamp('v')
+
+
+def test_stamp_roundtrips_into_build_naming(tmp_path):
+    """End to end: stamp writes VERSION, build reads it when git is absent."""
+    with patch.object(stamp_version, 'VERSION_FILE', tmp_path / 'VERSION'):
+        stamp_version.stamp('0.7.0')
+
+    def boom(*a, **kw):
+        raise RuntimeError('no git')
+    with patch('subprocess.check_output', side_effect=boom), \
+            patch.object(build, 'SCRIPT_DIR', tmp_path):
+        name = build._resolve_canonical_cue_name('English')
+    assert name == 'Langrisser III (English v0.7.0).cue'

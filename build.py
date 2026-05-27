@@ -68,9 +68,10 @@ DEFAULT_LANG = 'en'
 
 
 def _resolve_canary_cue_name(lang_display: str) -> str:
-    """Canary build filename = "Langrisser ({lang} {branch-name}).cue".
-    Note: NO "III" in canary names (intentional — distinguishes WIP from
-    canonical at a glance). Branch name comes from git; falls back to
+    """Canary build filename = "Langrisser III ({lang} {branch-name}).cue".
+    The game name is always "Langrisser III"; canary differs from canonical
+    by carrying the branch name instead of a version tag (e.g. 'new-ui-patch'
+    instead of 'v0.6.1'). Branch name comes from git; falls back to
     "canary" if git is unavailable.
     """
     import subprocess
@@ -81,16 +82,33 @@ def _resolve_canary_cue_name(lang_display: str) -> str:
         ).decode().strip()
     except Exception:
         branch = 'canary'
-    return f'Langrisser ({lang_display} {branch}).cue'
+    return f'Langrisser III ({lang_display} {branch}).cue'
+
+
+def _read_version_artifact() -> str | None:
+    """Return the version string stamped in the tracked VERSION file, or None.
+
+    VERSION is the release artifact (written by tools/stamp_version.py at
+    release time) that carries the version into builds with no `.git` —
+    e.g. a GitHub source archive, where `git describe` cannot run.
+    """
+    try:
+        ver = (SCRIPT_DIR / 'VERSION').read_text(encoding='utf-8').strip().lstrip('v')
+        return ver or None
+    except Exception:
+        return None
 
 
 def _resolve_canonical_cue_name(lang_display: str) -> str:
-    """Canonical filename derived from the current git state.
+    """Canonical filename derived from git state, then the VERSION artifact.
 
     If HEAD == latest tag → "Langrisser III ({lang} v<TAG>).cue".
     Else → "Langrisser III ({lang} v<TAG>+).cue" (release-candidate
     naming for uncommitted/unreleased work past the tag).
-    Falls back to "Langrisser III ({lang}).cue" if git is unavailable.
+    If git is unavailable (e.g. a release source archive with no `.git`),
+    fall back to the stamped VERSION file →
+        "Langrisser III ({lang} v<VERSION>).cue".
+    If neither git nor VERSION resolves → "Langrisser III ({lang}).cue".
 
     To produce the v0.6.1 stable build from the official commit:
         git checkout v0.6.1 && python3 build.py
@@ -110,7 +128,12 @@ def _resolve_canonical_cue_name(lang_display: str) -> str:
             return f'Langrisser III ({lang_display} v{ver}).cue'
         return f'Langrisser III ({lang_display} v{ver}+).cue'
     except Exception:
-        return f'Langrisser III ({lang_display}).cue'
+        pass
+    # git unavailable — use the release-stamped VERSION artifact.
+    ver = _read_version_artifact()
+    if ver:
+        return f'Langrisser III ({lang_display} v{ver}).cue'
+    return f'Langrisser III ({lang_display}).cue'
 
 # Menu/UI patch files (same-size overlays onto JP originals)
 MENU_PATCHES = {
