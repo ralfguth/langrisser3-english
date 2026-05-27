@@ -1,6 +1,10 @@
 # Build artifacts
 build/
 
+# JP baseline cache (extracted by build.py from the JP ISO; consumed
+# by tests + audit tools; regenerable; never committed)
+cache/
+
 # Japanese disc image (user must provide their own)
 *.iso
 *.cue

@@ -25,7 +25,7 @@ from d00_tools import (
 )
 from font_tools import CHAR_TILE_MAP, TILE_CHAR_MAP
 
-JP_D00 = PROJECT_DIR / 'build' / 'd00_jp.dat'
+JP_D00 = PROJECT_DIR / 'cache' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJECT_DIR / 'scripts' / 'en'
 
 class TestD00Parsing(unittest.TestCase):

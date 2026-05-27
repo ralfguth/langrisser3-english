@@ -10,10 +10,10 @@ map, writing one Akari-Dawn-style script file per artifact to
 - PLOT.DAT          → ``plotJ.txt``    (35 chapter recap blocks)
 - FNT_SYS.BIN       → ``fntsysNJ.txt`` (15 menu/UI string tables)
 
-D00 source: ``build/d00_jp.dat``. PLOT source: ``build/plot_jp.dat``.
+D00 source: ``cache/d00_jp.dat``. PLOT source: ``cache/plot_jp.dat``.
 FNT_SYS source: extracted from the JP ISO at
 ``~/Jogos/emulacao/romsets/sega-saturn/cue-bin/Langrisser III (Japan)/``
-(also cached to ``build/fnt_sys_jp.bin``).
+(also cached to ``cache/fnt_sys_jp.bin``).
 
 Usage::
 
@@ -39,9 +39,9 @@ from d00_tools import parse_d00
 from iso_tools import build_file_index, extract_file_data
 from plot_tools import parse_plot
 
-JP_D00 = PROJ / 'build' / 'd00_jp.dat'
-JP_PLOT = PROJ / 'build' / 'plot_jp.dat'
-JP_FNT_SYS_CACHE = PROJ / 'build' / 'fnt_sys_jp.bin'
+JP_D00 = PROJ / 'cache' / 'd00_jp.dat'
+JP_PLOT = PROJ / 'cache' / 'plot_jp.dat'
+JP_FNT_SYS_CACHE = PROJ / 'cache' / 'fnt_sys_jp.bin'
 JP_ISO_TRACK = Path('/home/ralf/Jogos/emulacao/romsets/sega-saturn/cue-bin'
                     '/Langrisser III (Japan)'
                     '/Langrisser III (Japan) (3M) (Track 01).bin')

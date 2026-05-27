@@ -30,7 +30,7 @@ sys.path.insert(0, str(PROJ / 'tools'))
 
 from d00_tools import parse_d00, parse_script_file
 
-JP_D00 = PROJ / 'build' / 'd00_jp.dat'
+JP_D00 = PROJ / 'cache' / 'd00_jp.dat'
 CN_D00 = PROJ / 'data' / 'cn' / 'd00_cn.dat'
 EN_DIR = PROJ / 'scripts' / 'en'
 

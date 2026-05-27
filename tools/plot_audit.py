@@ -3,7 +3,7 @@
 plot_audit.py — JP↔EN per-paragraph audit for LANG/PLOT.DAT.
 
 Companion to translation_audit.py, but for the 35 chapter-recap blocks
-in PLOT.DAT (loaded from build/plot_jp.dat after the first build.py
+in PLOT.DAT (loaded from cache/plot_jp.dat after the first build.py
 run).
 
 PLOT.DAT block structure:
@@ -48,7 +48,7 @@ from translation_audit import (
     decode_jp_entry, _strip_ctrl, keyword_misses, CTRL_RE,
 )
 
-JP_PLOT = PROJ / 'build' / 'plot_jp.dat'
+JP_PLOT = PROJ / 'cache' / 'plot_jp.dat'
 EN_PLOT_SCRIPT = PROJ / 'scripts' / 'en' / 'plotE.txt'
 
 

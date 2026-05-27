@@ -59,7 +59,7 @@ from translation_audit import (
     decode_jp_entry, _strip_ctrl, CTRL_RE, _KEYWORD_DICT as KEYWORDS,
 )
 
-JP_D00 = PROJ / 'build' / 'd00_jp.dat'
+JP_D00 = PROJ / 'cache' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
 
 

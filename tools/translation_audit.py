@@ -12,7 +12,7 @@ This is the **translation routine**, not a unit test. Workflow:
      when the section is fully OK or the remaining issues are
      conscious editorial choices.
 
-The audit reads JP from ``build/d00_jp.dat`` (authoritative) and EN
+The audit reads JP from ``cache/d00_jp.dat`` (authoritative) and EN
 from ``scripts/en/scenNNNE.txt``. Per entry it checks:
 
 1. **Strict control-code parity.** Every control code in the JP
@@ -74,7 +74,7 @@ sys.path.insert(0, str(PROJ / 'tools'))
 
 from d00_tools import parse_d00, parse_script_file
 
-JP_D00 = PROJ / 'build' / 'd00_jp.dat'
+JP_D00 = PROJ / 'cache' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
 TILE_MAP_PATH = Path('/home/ralf/romhack/lang3_translation_analisis/jp_tile_map.json')
 KEYWORD_DICT_PATH = PROJ / 'tools' / 'jp_keyword_dict.json'

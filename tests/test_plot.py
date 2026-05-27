@@ -6,7 +6,7 @@ patch v0.5+):
 - Each block opens with `0xFFF8 BLOCK_ID`, ends with `0xFFFE`.
 - Same tile encoding as D00.DAT (bigram + char fallback).
 
-If `build/plot_jp.dat` is present (produced by `build.py`), this also
+If `cache/plot_jp.dat` is present (produced by `build.py`), this also
 verifies that the EN compilation of `scripts/en/plotE.txt` is byte-
 parseable and contains 35 blocks.
 """
@@ -25,7 +25,7 @@ from plot_tools import (
 )
 
 CN_PLOT = PROJECT / "data" / "cn" / "plot_cn.dat"
-JP_PLOT = PROJECT / "build" / "plot_jp.dat"
+JP_PLOT = PROJECT / "cache" / "plot_jp.dat"
 PLOT_SCRIPT = PROJECT / "scripts" / "en" / "plotE.txt"
 
 

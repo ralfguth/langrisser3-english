@@ -51,6 +51,7 @@ from plot_tools import (
 
 SCRIPTS_DIR = SCRIPT_DIR / 'scripts' / 'en'
 BUILD_DIR = SCRIPT_DIR / 'build'
+CACHE_DIR = SCRIPT_DIR / 'cache'   # JP baseline cache (gitignored)
 PATCHES_DIR = SCRIPT_DIR / 'patches'  # Menu/UI translation patches
 
 OUTPUT_CUE = BUILD_DIR / 'Langrisser_III_English.cue'
@@ -148,10 +149,15 @@ def main():
         plot_data = extract_file_data(image, plot_entry.extent, plot_entry.size)
         print(f'  PLOT.DAT: {len(plot_data):,} bytes')
 
-    # Save JP D00.DAT and PLOT.DAT for tests
-    (BUILD_DIR / 'd00_jp.dat').write_bytes(d00_data)
+    # Save JP D00.DAT and PLOT.DAT baselines to cache/ for consumption by
+    # tests (test_d00, test_plot, test_entry_counts, test_control_code_parity)
+    # and audit tools (translation_audit, semantic_audit, plot_audit,
+    # signature_compare, dump_jp_scripts). cache/ is gitignored — keeps
+    # build/ for release artifacts only.
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    (CACHE_DIR / 'd00_jp.dat').write_bytes(d00_data)
     if plot_data is not None:
-        (BUILD_DIR / 'plot_jp.dat').write_bytes(plot_data)
+        (CACHE_DIR / 'plot_jp.dat').write_bytes(plot_data)
 
     # -- Step 3: Generate English font --
     print('[3/7] Generating English font...')

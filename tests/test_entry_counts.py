@@ -29,14 +29,14 @@ from d00_tools import parse_d00, parse_script_file
 # Remove an entry only after the underlying file is fixed to match JP.
 ENTRY_COUNT_XFAIL: dict[int, tuple[int, int]] = {}
 
-JP_D00 = PROJ / 'build' / 'd00_jp.dat'
+JP_D00 = PROJ / 'cache' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
 
 
 @pytest.fixture(scope='module')
 def jp_sections():
     if not JP_D00.exists():
-        pytest.skip('build/d00_jp.dat not found (run build.py first)')
+        pytest.skip('cache/d00_jp.dat not found (run build.py first)')
     return parse_d00(JP_D00.read_bytes())
 
 

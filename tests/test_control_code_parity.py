@@ -42,7 +42,7 @@ sys.path.insert(0, str(PROJ / 'tools'))
 
 from d00_tools import parse_d00, parse_script_file
 
-JP_D00 = PROJ / 'build' / 'd00_jp.dat'
+JP_D00 = PROJ / 'cache' / 'd00_jp.dat'
 SCRIPTS_DIR = PROJ / 'scripts' / 'en'
 
 CTRL_RE = re.compile(r'<\$([0-9A-Fa-f]{4})>')
@@ -162,7 +162,7 @@ def _extract_en_ctrl_codes(text: str) -> tuple[str, ...]:
 @pytest.fixture(scope='module')
 def jp_sections():
     if not JP_D00.exists():
-        pytest.skip('build/d00_jp.dat not found (run build.py first)')
+        pytest.skip('cache/d00_jp.dat not found (run build.py first)')
     return parse_d00(JP_D00.read_bytes())
 
 
