@@ -68,9 +68,10 @@ DEFAULT_LANG = 'en'
 
 
 def _resolve_canary_cue_name(lang_display: str) -> str:
-    """Canary build filename = "Langrisser ({lang} {branch-name}).cue".
-    Note: NO "III" in canary names (intentional — distinguishes WIP from
-    canonical at a glance). Branch name comes from git; falls back to
+    """Canary build filename = "Langrisser III ({lang} {branch-name}).cue".
+    The game name is always "Langrisser III"; canary differs from canonical
+    by carrying the branch name instead of a version tag (e.g. 'new-ui-patch'
+    instead of 'v0.6.1'). Branch name comes from git; falls back to
     "canary" if git is unavailable.
     """
     import subprocess
@@ -81,7 +82,7 @@ def _resolve_canary_cue_name(lang_display: str) -> str:
         ).decode().strip()
     except Exception:
         branch = 'canary'
-    return f'Langrisser ({lang_display} {branch}).cue'
+    return f'Langrisser III ({lang_display} {branch}).cue'
 
 
 def _resolve_canonical_cue_name(lang_display: str) -> str:

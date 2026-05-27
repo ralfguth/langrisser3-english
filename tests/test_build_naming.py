@@ -8,8 +8,9 @@ The build pipeline produces two kinds of output filenames:
       (release-candidate naming, '+' = uncommitted work past the tag).
 
   - Canary (--canary):
-      "Langrisser ({Language} {branch-name}).cue"
-      NOTE: no "III" — intentional, distinguishes WIP from canonical at a glance.
+      "Langrisser III ({Language} {branch-name}).cue"
+      The game name "Langrisser III" is constant; canary differs from canonical
+      by carrying the branch name (e.g. 'new-ui-patch') instead of a tag version.
 
 This test pins those conventions so accidental edits to build.py can't
 silently change the output filename shape (which would break release
@@ -104,19 +105,20 @@ def test_canonical_falls_back_when_git_unavailable():
 # _resolve_canary_cue_name
 # ---------------------------------------------------------------------------
 
-def test_canary_uses_branch_name_and_drops_III():
-    """Canary keeps no 'III' (visual distinction from canonical)."""
+def test_canary_uses_branch_name_and_keeps_III():
+    """Canary keeps 'Langrisser III' — the game name is constant. The
+    distinction from canonical is branch-name vs tag-version."""
     with patch('subprocess.check_output',
                return_value=b'feature/foo\n'):
         name = build._resolve_canary_cue_name('English')
-    assert name == 'Langrisser (English feature/foo).cue'
-    assert 'III' not in name
+    assert name == 'Langrisser III (English feature/foo).cue'
+    assert 'III' in name
 
 
 def test_canary_uses_language_display_name():
     with patch('subprocess.check_output', return_value=b'main\n'):
         assert (build._resolve_canary_cue_name('Italian')
-                == 'Langrisser (Italian main).cue')
+                == 'Langrisser III (Italian main).cue')
 
 
 def test_canary_falls_back_when_git_unavailable():
@@ -124,7 +126,7 @@ def test_canary_falls_back_when_git_unavailable():
         raise RuntimeError('no git')
     with patch('subprocess.check_output', side_effect=boom):
         name = build._resolve_canary_cue_name('English')
-    assert name == 'Langrisser (English canary).cue'
+    assert name == 'Langrisser III (English canary).cue'
 
 
 # ---------------------------------------------------------------------------
@@ -133,11 +135,17 @@ def test_canary_falls_back_when_git_unavailable():
 # ---------------------------------------------------------------------------
 
 def test_canonical_and_canary_filenames_differ():
-    """For any state, canonical has 'III' and canary doesn't."""
+    """For any state, canonical and canary produce distinct filenames so
+    they can sit side-by-side in build/. Both carry 'Langrisser III' — the
+    difference is the version-tag suffix (canonical) vs branch-name
+    suffix (canary)."""
     canonical_stub = _fake_check_output(latest_tag='v0.6.1', head_tags=['v0.6.1'])
     with patch('subprocess.check_output', side_effect=canonical_stub):
         canonical = build._resolve_canonical_cue_name('English')
     with patch('subprocess.check_output', return_value=b'main\n'):
         canary = build._resolve_canary_cue_name('English')
     assert canonical != canary
-    assert 'III' in canonical and 'III' not in canary
+    assert 'III' in canonical
+    assert 'III' in canary
+    assert 'v0.6.1' in canonical and 'v0.6.1' not in canary
+    assert 'main' in canary and 'main' not in canonical
