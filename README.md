@@ -82,18 +82,21 @@ This produces `build/Langrisser_III_English.cue` and all track `.bin` files : re
 
 ### Compatibility
 
-|                                     | Music | Text | Character voices |
-| ----------------------------------- | :---: | :--: | :--------------: |
-| **Real Saturn hardware (Saroo)**    |  ✅   |  ✅  |        ✅        |
-| **Ymir** (standalone emulator)      |  ✅   |  ✅  |        ✅        |
-| **RetroArch + Beetle Saturn**       |  ✅   |  ✅  |        ✅        |
+|                                          | Music | Text | Character voices |
+| -----------------------------------------| :---: | :--: | :--------------: |
+| **Real Saturn hardware (via Saroo 0.9)** |  ✅   |  ✅  |        ✅        |
+| **Ymir** (standalone emulator)           |  ✅   |  ✅  |        ✅        |
+| **RetroArch + Beetle Saturn**            |  ✅   |  ✅  |        ✅        |
 
 ## Credits
 
-- **CyberWarriorX (Theo Berkau)** : Saturn reverse engineering, the original v0.2 patch, bigram font system, menu translations.
-- **Akari Dawn, ElfShadow, Oogami** : original English translation scripts (used as a draft baseline; revised against the Japanese source).
-- **VermillionDesserts** : independent translation build, D00.DAT research.
-- **Ralf Guth** : current build pipeline, JP-aligned translation pass, font and engine work.
+* **Ralf Guth**: project maintainer, current patch author, JP-aligned translation revision, font work, engine fixes, build pipeline, releases, and ongoing maintenance.
+
+## Acknowledgements
+
+* **CyberWarriorX (Theo Berkau)**: Saturn reverse engineering, the original v0.2 patch, bigram font system, and menu translations.
+* **Akari Dawn, ElfShadow, Oogami**: original English translation scripts, used as a draft baseline and revised against the Japanese source.
+* **VermillionDesserts**: independent translation build and D00.DAT research.
 
 ## Legal
 
