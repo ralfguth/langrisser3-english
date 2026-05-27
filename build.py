@@ -49,12 +49,68 @@ from plot_tools import (
 # Configuration
 # ---------------------------------------------------------------------------
 
-SCRIPTS_DIR = SCRIPT_DIR / 'scripts' / 'en'
 BUILD_DIR = SCRIPT_DIR / 'build'
 CACHE_DIR = SCRIPT_DIR / 'cache'   # JP baseline cache (gitignored)
 PATCHES_DIR = SCRIPT_DIR / 'patches'  # Menu/UI translation patches
 
-OUTPUT_CUE = BUILD_DIR / 'Langrisser_III_English.cue'
+# Language metadata. The repo is dual-purpose: an English translation patch
+# AND a framework for producing Langrisser III patches in any language.
+# Each language has its own scripts/<code>/ directory and a display name
+# used in the output filename.
+LANGUAGES = {
+    'en': 'English',
+    # Add new languages here as their scripts/<code>/ dirs come online.
+    # 'it': 'Italian',
+    # 'pt': 'Portuguese',
+    # 'es': 'Spanish',
+}
+DEFAULT_LANG = 'en'
+
+
+def _resolve_canary_cue_name(lang_display: str) -> str:
+    """Canary build filename = "Langrisser ({lang} {branch-name}).cue".
+    Note: NO "III" in canary names (intentional — distinguishes WIP from
+    canonical at a glance). Branch name comes from git; falls back to
+    "canary" if git is unavailable.
+    """
+    import subprocess
+    try:
+        branch = subprocess.check_output(
+            ['git', 'rev-parse', '--abbrev-ref', 'HEAD'],
+            cwd=str(SCRIPT_DIR), stderr=subprocess.DEVNULL,
+        ).decode().strip()
+    except Exception:
+        branch = 'canary'
+    return f'Langrisser ({lang_display} {branch}).cue'
+
+
+def _resolve_canonical_cue_name(lang_display: str) -> str:
+    """Canonical filename derived from the current git state.
+
+    If HEAD == latest tag → "Langrisser III ({lang} v<TAG>).cue".
+    Else → "Langrisser III ({lang} v<TAG>+).cue" (release-candidate
+    naming for uncommitted/unreleased work past the tag).
+    Falls back to "Langrisser III ({lang}).cue" if git is unavailable.
+
+    To produce the v0.6.1 stable build from the official commit:
+        git checkout v0.6.1 && python3 build.py
+    """
+    import subprocess
+    try:
+        latest_tag = subprocess.check_output(
+            ['git', 'describe', '--tags', '--abbrev=0'],
+            cwd=str(SCRIPT_DIR), stderr=subprocess.DEVNULL,
+        ).decode().strip()
+        head_tag = subprocess.check_output(
+            ['git', 'tag', '--points-at', 'HEAD'],
+            cwd=str(SCRIPT_DIR), stderr=subprocess.DEVNULL,
+        ).decode().strip().splitlines()
+        ver = latest_tag.lstrip('v')
+        if latest_tag in head_tag:
+            return f'Langrisser III ({lang_display} v{ver}).cue'
+        return f'Langrisser III ({lang_display} v{ver}+).cue'
+    except Exception:
+        return f'Langrisser III ({lang_display}).cue'
 
 # Menu/UI patch files (same-size overlays onto JP originals)
 MENU_PATCHES = {
@@ -80,7 +136,24 @@ def main():
         help='Path to Japanese disc directory (containing .cue and Track 01 .bin). '
              f'Falls back to ${_JP_DIR_ENV} env var if not given.',
     )
+    parser.add_argument(
+        '--canary', action='store_true',
+        help='Produce a canary build with branch-name suffix instead of the '
+             'tag-derived canonical name. Use for WIP / non-release builds.',
+    )
+    parser.add_argument(
+        '--lang', default=DEFAULT_LANG, choices=sorted(LANGUAGES.keys()),
+        help=f'Translation language code (default: {DEFAULT_LANG}). Picks '
+             f'scripts/<lang>/ as the source directory and shapes the output '
+             f'filename. Add new entries to LANGUAGES at the top of this file.',
+    )
     args = parser.parse_args()
+    lang_display = LANGUAGES[args.lang]
+    SCRIPTS_DIR = SCRIPT_DIR / 'scripts' / args.lang
+    output_cue = BUILD_DIR / (
+        _resolve_canary_cue_name(lang_display) if args.canary
+        else _resolve_canonical_cue_name(lang_display)
+    )
 
     # Resolve JP disc location: CLI flag → env var → error
     env_path = os.environ.get(_JP_DIR_ENV)
@@ -252,7 +325,7 @@ def main():
 
     # -- Step 7: Assemble CD image --
     print('[7/7] Assembling CD image...')
-    assemble_cd_image(track01_path, jp_dir, OUTPUT_CUE)
+    assemble_cd_image(track01_path, jp_dir, output_cue)
 
     tracks = list(BUILD_DIR.glob('track*.bin'))
     audio_tracks = len(tracks) - 1
@@ -263,13 +336,13 @@ def main():
     print('=' * 60)
     print('  BUILD COMPLETE')
     print('=' * 60)
-    print(f'  Cue:          {OUTPUT_CUE}')
+    print(f'  Cue:          {output_cue}')
     print(f'  Track 01:     {track01_path.stat().st_size:,} bytes')
     print(f'  Audio tracks: {audio_tracks}')
     print(f'  Build time:   {elapsed:.1f}s')
     print()
     print('  To play:')
-    print(f'    load {OUTPUT_CUE.name}')
+    print(f'    load {output_cue.name}')
     print()
     print('  Patch by Ralf Guth')
     print('  https://github.com/ralfguth/langrisser3-english')
