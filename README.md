@@ -33,7 +33,7 @@ Character and place names broadly follow the spellings used in *Langrisser Mobil
 
 This is an unfinished translation. The story can be followed from start to finish, but expect rough edges:
 
-- Some dialogue lines are still being polished against the original Japanese : phrasing may feel awkward in places,
+- Some dialogue lines are still being polished against the original Japanese. Phrasing may feel awkward in places.
 - Some lines still break in the middle of words, and some text boxes that were one box in JP still take more than one box in EN.
 - Item descriptions, and other UI text are still untranslated and will appear as garbled characters in-game.
 
