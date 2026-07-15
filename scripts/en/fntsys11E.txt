@@ -6,11 +6,11 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Master Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Beast Jugler<$FFFF>
+Holy Beast Jugler<$FFFF>
 Archmage Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
@@ -22,18 +22,18 @@ Baron Torrand<$FFFF>
 Marquis William<$FFFF>
 King Wilder<$FFFF>
 Keh Shikairo<$FFFF>
-Ka Shind<$FFFF>
-Emperor Christ<$FFFF>
+Kah Shind<$FFFF>
+Kaiser Kleist<$FFFF>
 Dark Knight<$FFFF>
-Lord Raymond<$FFFF>
+Viscount Raymond<$FFFF>
 Sir Gerold<$FFFF>
 Layla<$FFFF>
 Olver<$FFFF>
 Prince Paul<$FFFF>
 Altemüller<$FFFF>
 General Geier<$FFFF>
-Bosel<$FFFF>
-Reaper Grove<$FFFF>
+Böser<$FFFF>
+Necromancer Grove<$FFFF>
 Feraquea<$FFFF>
 Worm Master Rag<$FFFF>
 Richard<$FFFF>
@@ -41,7 +41,7 @@ Coty<$FFFF>
 Diehärte<$FFFF>
 Princess Freya<$FFFF>
 Anna<$FFFF>
-Prince<$FFFF>
+Lord<$FFFF>
 Street Hawker<$FFFF>
 Shopkeeper<$FFFF>
 Bat<$FFFF>
@@ -57,15 +57,15 @@ Sieghart<$FFFF>
 Gilbert<$FFFF>
 Coty<$FFFF>
 Adjutant Ruud<$FFFF>
-Lord Chaos<$FFFF>
+Lord of Chaos<$FFFF>
 Altemüller<$FFFF>
 General Varna<$FFFF>
-Goddess Lushiris<$FFFF>
+Goddess of Light<$FFFF>
 Supreme Commander<$FFFF>
-Priest<$FFFF>
-Ordinary Person<$FFFF>
-Ordinary Person<$FFFF>
-Ordinary Person<$FFFF>
+High Priest<$FFFF>
+Commoner<$FFFF>
+Commoner<$FFFF>
+Commoner<$FFFF>
 Rigüler Commander<$FFFF>
 Rigüler Commander<$FFFF>
 Rigüler Commander<$FFFF>
@@ -246,26 +246,26 @@ Colcia Commander<$FFFF>
 Colcia Commander<$FFFF>
 Colcia Commander<$FFFF>
 Colcia Commander<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
-Highwayman<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
+Thief<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
 Pierre<$FFFF>
@@ -273,86 +273,86 @@ Shika Commander<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
 Rigüler Captain<$FFFF>
-Head Highwayman<$FFFF>
-Gal Shok<$FFFF>
-Ordinary Person<$FFFF>
-Ordinary Person<$FFFF>
+Thief Leader<$FFFF>
+Galshook<$FFFF>
+Commoner<$FFFF>
+Commoner<$FFFF>
 Rigüler Commander<$FFFF>
 Lewin<$FFFF>
 Wilder<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
-Elthlead Soldier<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
+Elthlead Army<$FFFF>
 Feraquea<$FFFF>
 Ledin<$FFFF>
 Chris<$FFFF>
-Namu<$FFFF>
-Erwin<$FFFF>
+Narm<$FFFF>
+Elwin<$FFFF>
 Liana<$FFFF>
 Cherie<$FFFF>
 Adon<$FFFF>
 Samson<$FFFF>
 Valan<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
-Aniki<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
+Big Brother<$FFFF>
 Kirikaze<$FFFF>
-True Bosel<$FFFF>
+True Böser<$FFFF>
 Gilbert<$FFFF>
 Fauvel<$FFFF>
 Jugler<$FFFF>
@@ -362,7 +362,7 @@ Bortz<$FFFF>
 Torrand<$FFFF>
 William<$FFFF>
 Wilder<$FFFF>
-Christ<$FFFF>
+Kleist<$FFFF>
 Raymond<$FFFF>
 Gerold<$FFFF>
 Paul<$FFFF>

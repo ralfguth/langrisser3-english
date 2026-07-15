@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,16 +18,16 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Kaiser Paul<$FFFF>
 Rig uler Commander<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-28<$FFFC><$0000><$0000><$0000>Demon Defense Force<$0000><$0000><$0000><$FFFE>
- After defeating Felakia, the shape shifting one and one of the Three Demon Generals, <$F600><$0000> and the others finally reached Castle Velzeria.<$FFFE>
- But at the castle gate, Necromancer Grove<$FFFC>had spread a thick defensive web,<$FFFC>waiting for them.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of Grove<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-New Kaiser Paul's Coronation Ceremony<$FFFF>
- Alas, my father, Heinrich Kleist IV, struggled valiantly against his illness for a long time, but to our great sorrow, he finally succumbed.<$FFFE>
- However, now that I have become the Kaiser, in my fallen father's place, I dedicate all of my power towards the defense of the Empire and the Empire's citizens!<$FFFE>
- Long live the new Lord Paul!<$FFFE>
- Long live the new Kaiser Paul!<$FFFE>
- Furthermore, I have one additional important announcement to make.<$FFFE>
- It pains me to speak of, but I fear that someone has poisoned Altemüller, who has served in the Imperial army with great merit up to the present.<$FFFE>
- I think that everyone held him in great esteem.<$FFFE>
- His successor as Field Marshal shall be Geier.<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２８<$FFFC><$0000><$0000><$0000><$0000>The Demon Cordon<$0000><$0000><$0000><$0000><$FFFE>
+After defeating Feraquea, the<$FFFC>shape-shifting one and one of<$FFFC>the Three Demon Generals,<$FFFC><$F600><$0000> and the others<$FFFC>finally reached Castle Velzeria.<$FFFE>
+But at the castle gate,<$FFFC>Necromancer Grove had spread a<$FFFC>thick defensive web, waiting for<$FFFC>them.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of Grove<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Kaiser Paul's Coronation<$FFFF>
+My father, Heinrich<$FFFC>Kleist IV, has passed<$FFFC>after a long illness.<$FFFC>It grieves me deeply.<$FFFE>
+As Kaiser, in my<$FFFC>father's stead, I vow to<$FFFC>protect the Empire and<$FFFC>its people!<$FFFE>
+Long live the new Lord<$FFFC>Paul!<$FFFE>
+Long live the new Kaiser<$FFFC>Paul!<$FFFE>
+And now, I have one more<$FFFC>grave announcement.<$FFFE>
+Sadly, Marshal<$FFFC>Altemüller, who won<$FFFC>countless victories for<$FFFC>us, has been poisoned.<$FFFE>
+This news is still fresh<$FFFC>in all your memories.<$FFFE>
+His successor as Field<$FFFC>Marshal will be Geier.<$FFFE>

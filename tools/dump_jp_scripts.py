@@ -45,8 +45,11 @@ JP_FNT_SYS_CACHE = PROJ / 'cache' / 'fnt_sys_jp.bin'
 JP_ISO_TRACK = Path('/home/ralf/Jogos/emulacao/romsets/sega-saturn/cue-bin'
                     '/Langrisser III (Japan)'
                     '/Langrisser III (Japan) (3M) (Track 01).bin')
-TILE_MAP_PATH = Path('/home/ralf/Jogos/emulacao/tools/lang3_translation_analisis/jp_tile_map.json')
-DEFAULT_OUT = Path('/home/ralf/romhack/langrisser3-english/scripts/jp')
+# Repo-owned decode table (single source of truth). Guarded by
+# tests/test_jp_tile_map_misdecode.py. Was previously read from an external
+# lang3_translation_analisis/ copy, which shadowed 見/逃/失/… as 暴/。/先/…
+TILE_MAP_PATH = PROJ / 'data' / 'jp' / 'tile_map.json'
+DEFAULT_OUT = PROJ / 'scripts' / 'jp'
 
 HEADER = ''
 

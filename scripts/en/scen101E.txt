@@ -5,41 +5,41 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 Gilbert<$FFFF>
-Town of Neref<$FFFF>
- Gerold…<$FFFE>
- How could Gerold be the Dark Knight…<$FFFD>Just what is the meaning of this…?<$FFFE>
- Is he the one you had to leave behind in Laffel?<$FFFE>
- Yeah…<$FFFE>
- So how did he end up as the Dark Knight then?<$FFFE>
- I don't know. Gerold was the one who taught me how to wield a sword.<$FFFD>I have only fond memories of him being a kind man, my ideal of what a knight should be like.<$FFFD>…He was like an elder brother to me…<$FFFE>
- Seemingly both Gerold and King Wilder have undergone a complete change.<$FFFD>This cannot be mere coincidence.<$FFFE>
+Town of Nelfas<$FFFF>
+Gerold…<$FFFE>
+How could Gerold be the<$FFFC>Dark Knight…<$FFFD>Just what does this<$FFFC>mean…?<$FFFE>
+Is he the one you were<$FFFC>parted from in Laffel?<$FFFE>
+Yeah…<$FFFE>
+But from how the Dark<$FFFC>Knight acted, he didn't<$FFFC>seem to know you?<$FFFE>
+I don't know. Gerold<$FFFC>taught me swordsmanship.<$FFFD>Kind, always thinking of<$FFFC>others… I trained hard,<$FFFC>making him my ideal of a<$FFFC>knight.<$FFFD>To me… he was like an<$FFFC>elder brother…<$FFFE>
+Both Lord Gerold and<$FFFC>King Wilder seem wholly<$FFFC>changed in nature…<$FFFD>There's clearly<$FFFC>something behind this.<$FFFE>
 …<$FFFE>
- What is the matter, Lady Jessica?<$FFFE>
- …Hmm.<$FFFD>It is faint, but the bewitchment of the Demon Family can be felt emitted from his body…<$FFFE>
- Seriously, even this is the work of Velzeria?<$FFFE>
- We have to meet King Wilder to be sure about it.<$FFFD>If King Wilder's insanity is due to the influence of Velzeria, we have to try to rid him of it with all means necessary.<$FFFE>
- But, Lady Jessica.<$FFFD>If we try to cleanse him with magic wouldn't his life be in danger too?<$FFFE>
- And to think that we already have taken down Böser and his generals…<$FFFE>
- Even I don't know everything about Velzeria's true power.<$FFFD>When worse comes to worse, we may won't be able to save King Wilder or find the cause for his madness.<$FFFE>
- Nonetheless Barral should be our next destination.<$FFFE>
- …Yes, we're going to Barral.<$FFFD>We have to uncover the truth about all of this!<$FFFE>
-Aerial Fortress<$FFFF>
- Hmph, how tiresome.<$FFFE>
- Lord Altemüller. By the looks of it Geier has abandoned his subordinates and fled.<$FFFE>
- Deserting ones subordinates like this. It fits Geier well.<$FFFD>But the only thing that matters is that the flying fortress is ours to command now. It seems as if Elthlead was delayed somehow too, how convenient…<$FFFE>
- Emerick make preparations for the assault on the imperial capital!<$FFFE>
- As you wish.<$FFFE>
- Hehehe…Hahahaha!<$FFFE>
-…<$FFFE> 
+What is the matter, Lady<$FFFC>Jessica?<$FFFE>
+…Yes.<$FFFD>It is faint, but I sense<$FFFC>demon magic within him.<$FFFE>
+Don't tell me this is<$FFFC>Velzeria's doing?<$FFFE>
+Then we must meet with<$FFFC>King Wilder.<$FFFD>If his madness is<$FFFC>a scheme of Velzeria's,<$FFFC>leaving it be is far too<$FFFC>dangerous.<$FFFE>
+But, Lady Jessica.<$FFFD>If he's under a spell,<$FFFC>wouldn't it break the<$FFFC>moment its caster dies?<$FFFE>
+True… we should already<$FFFC>have beaten Böser and<$FFFC>the Three Demon<$FFFC>Generals…<$FFFE>
+Even I do not know all<$FFFC>of Velzeria's arts.<$FFFD>There may be secret<$FFFC>spells that linger even<$FFFC>after their caster dies.<$FFFE>
+Either way, it seems<$FFFC>best that we head for<$FFFC>Barral.<$FFFE>
+…Yes, we're going to<$FFFC>Barral.<$FFFD>And there we will<$FFFC>uncover the truth!<$FFFE>
+Sky Fortress<$FFFF>
+Hmph, how tiresome.<$FFFE>
+Lord Altemüller. It<$FFFC>seems Geier abandoned<$FFFC>his men and slipped away<$FFFC>ahead of us.<$FFFE>
+Abandoning his men. How<$FFFC>like Geier.<$FFFD>But the Sky Fortress is<$FFFC>lost to him now. As for<$FFFC>Elthlead, we can leave<$FFFC>that to Rag…<$FFFE>
+Emerick! With this<$FFFC>momentum, we storm the<$FFFC>imperial capital!<$FFFE>
+As you wish.<$FFFE>
+Hehehe…HAHAHAHA!<$FFFE>
+…<$FFFE><$FFFF>

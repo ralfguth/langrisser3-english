@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,52 +18,52 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Lord Shigetada<$FFFF>
 Feraquea<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-27<$FFFC><$0000><$0000><$0000><$0000><$0000><$0000>Feraquea<$0000><$0000><$0000><$0000><$0000><$0000><$FFFE>
-Feraquea's plan to disguise herself as royalty and throw Elthlead into confusion was exposed with surprising ease by the power of the Holy Sword Langrisser.<$FFFE>
- <$F600><$0000> and his companions seized this chance to strike down Böser, lord of the fiends, and set out at last for Velzeria.<$FFFE>
- However, in a swamp on the way, the Feraquea lay in wait, hoping for a chance to get bloody revenge, for the shameful defeat suffered.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of Feraquea<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Fort Hakusan - <$0613> Years Ago<$FFFF>
- Grr!<$FFFE>
- Opposition is futile!<$FFFE>
- Eeii!<$FFFB>Secret Art: Gale Slash!<$FFFE>
- Milord!<$FFFD>Milord! Answer me!<$FFFE>
- Ugh… Gu…guhuu!<$FFFE>
- Ahaha!<$FFFB>Now this country is finished!<$FFFE>
- H…how vexing…<$FFFE>
- Milord!<$FFFE>
- You're too late. Since you only reached here now, you were too slow to protect your ward!<$FFFE>
- You! Demonic wretch!<$FFFE>
- Bah! You actually managed to wound me…<$FFFE>
- But, whatever. Since this country is finished anyway, it doesn't matter if I let go one miserable human!<$FFFE>
- Milord…my humble apologies!<$FFFE>
- Though my lord gave me precious time, I failed to protect even my wife Osuzu and my only son Shoutaro, and now I could not protect you, my lord…<$FFFE>
- …<$FE3C>…<$FE3C>…<$FE3C>my lord,<$FE3C>grant this Kirikaze a little more time before he cuts open his belly.<$FFFE>
- Please, let me live in shame until I defeat Your enemy, that cursed witch!<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２７<$FFFC>The Shapeshifter Feraquea<$FFFE>
+Feraquea's scheme to pose as<$FFFC>royalty and throw Elthlead into<$FFFC>chaos was seen through with ease<$FFFC>by Langrisser.<$FFFE>
+<$F600><$0000> and his allies<$FFFC>seized this chance to strike<$FFFC>down Böser, lord of demons,<$FFFC>and set out for Velzeria.<$FFFE>
+But in the marshland along<$FFFC>the road ahead, the shifting<$FFFC>Feraquea lay in wait to<$FFFC>redeem her tarnished name.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of Feraquea<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Fort Hakusan, 15 Years Ago<$FFFF>
+Grr!<$FFFE>
+Opposition is futile!<$FFFE>
+Eeii!<$FFFB><$FFFC>Secret Art…<$FFFC>Gale Slash!<$FFFE>
+Milord!<$FFFD>Milord! Answer me!<$FFFE>
+Ugh… Gu…guhuu!<$FFFE>
+AHAHA!<$FFFB><$FFFC>This whole land is done!<$FFFE>
+H-how vexing…<$FFFE>
+Milord!<$FFFE>
+Far too late, are you?<$FFFC>Even now, the lord you<$FFFC>were sworn to guard lies<$FFFC>dead already!<$FFFE>
+You! Demonic wretch!<$FFFE>
+Guh! You wounded<$FFFC>me…<$FFFE>
+Well, it makes no odds.<$FFFC>This land is finished,<$FFFC>and you living on alone<$FFFC>changes nothing at all!<$FFFE>
+Milord… Forgive<$FFFC>me!<$FFFE>
+My lord bought me time,<$FFFC>yet I could not save<$FFFC>my wife Osuzu, my son<$FFFC>Kotaro, nor even you…<$FFFE>
+…<$FE3C>…<$FE3C>…<$FE3C>my lord,<$FE3C><$FFFC>grant this Kirikaze a<$FFFC>little while longer yet<$FFFC>to take his own life…<$FFFE>
+I beg you, grant me this<$FFFC>living shame, until I<$FFFC>strike that sorceress<$FFFC>down and avenge my lord!<$FFFE>
 Road to Velzeria<$FFFF>
 …<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>.<$FFFE>
- What's wrong, Kirikaze?<$FFFE>
- …<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>ah, no, it is nothing.<$FFFD>I was merely recalling the past a little.<$FFFD>…Still, it has grown cold. Velzeria must be close now.<$FFFE>
- Our scouts have returned.<$FFFE>
- I see. So, what's the word?<$FFFE>
- They report sightings of monsters in the marshland ahead.<$FFFD>The marshland is covered with snow. It's the perfect place for an ambush.<$FFFE>
- They will probably take advantage of that. Apparently we haven't defeated them enough times to route them yet.<$FFFE>
- Au contraire, the facts would suggest that they are desperate, as this is their last chance.<$FFFE>
- They're frantically trying to keep us away from Velzeria.<$FFFE>
- Hmm…<$FFFE>
- What do you say?<$FFFE>
- But, it'll be fine.<$FFFE>
- We need to be careful.<$FFFE>
- We might be in over our heads.<$FFFE>
- But, we will be fine. Everyone, cheer up!<$FFFE>
- Right.<$FFFE>
- Yeah! Tia will also do her best!<$FFFE>
- As will I.<$FFFE>
- We will be fighting on a battleground of their choosing. We need to be very careful.<$FFFE>
- Indeed.<$FFFE>
- I agree.<$FFFE>
- This time, it looks like we might be in over our heads…<$FFFE>
- No way, <$F600><$0000>! What are you saying!?<$FFFE>
- That's right. Aren't you our commander?<$FFFE>
- Really! This isn't like you at all, <$F600><$0000>!<$FFFE>
- …S…sorry…<$FFFE> 
+What's wrong, Kirikaze?<$FFFE>
+…<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>Ah,<$FFFC>no, it is nothing.<$FFFD>I was only recalling the<$FFFC>old days.<$FFFD>…Still, it grows cold.<$FFFC>Velzeria must be near.<$FFFE>
+The scouts are back.<$FFFE>
+I see. What did they<$FFFC>find?<$FFFE>
+Scouts report monsters<$FFFC>in the marsh ahead.<$FFFD>It lies under deep snow,<$FFFC>making it perfect ground<$FFFC>for an ambush.<$FFFE>
+They use their wits now.<$FFFC>They won't just rush us<$FFFC>with numbers anymore.<$FFFE>
+Looked at another way,<$FFFC>it proves they too have<$FFFC>nowhere left to run.<$FFFE>
+It would seem Velzeria<$FFFC>grows desperate as well.<$FFFE>
+Hmm…<$FFFE>
+What do you say?<$FFFE>
+But, it'll be fine.<$FFFE>
+We need to be careful.<$FFFE>
+This may be hopeless.<$FFFE>
+We'll manage just fine.<$FFFC>Stay sharp, all of you!<$FFFE>
+Right.<$FFFE>
+Yeah! Tia will do her<$FFFC>best!<$FFFE>
+As will I.<$FFFE>
+They chose this field.<$FFFC>Stay alert as we go.<$FFFE>
+Indeed.<$FFFE>
+I agree.<$FFFE>
+This time, I fear, we<$FFFC>might not make it…<$FFFE>
+No, <$F600><$0000>!<$FFFC>What are you saying!?<$FFFE>
+That's exactly right.<$FFFC>You are our commander,<$FFFC>are you not?<$FFFE>
+Yeah!<$FFFC>That's not like you,<$FFFC><$F600><$0000>!<$FFFE>
+…S-sorry…<$FFFE> 

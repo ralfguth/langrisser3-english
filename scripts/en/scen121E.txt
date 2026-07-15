@@ -5,20 +5,20 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-?4<$FFFC><$0000><$0000><$0000> The Mightiest Foe <$0000><$0000><$0000><$FFFE>
-Altemüller has been saved and Alhazard has been sealed again.<$FFFE>
-Following those events, Altemüller invites <$F600><$0000> to an unimaginable tough challenge.<$FFFE>
-One that should make everything that came before look like mere child's play.<$FFFE>
-And so at last, the party set out for the battlefield Altemüller had designated…<$FFFE>
-*Victory Conditions<$FFFC>•Defeat Altemüller<$FFFC>*Defeat Conditions<$FFFC>•Death of a PC<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐？４<$FFFC><$0000><$0000><$0000> The Mightiest Foe <$0000><$0000><$0000><$FFFE>
+Altemüller has been saved and<$FFFC>Alhazard has been sealed again.<$FFFE>
+Then <$F600><$0000> received<$FFFC>a single request from<$FFFC>Altemüller.<$FFFE>
+It was to be a contest<$FFFC>where both sides gave their all,<$FFFC>strength against strength.<$FFFE>
+And so at last, the party<$FFFC>set out for the battlefield<$FFFC>Altemüller had designated…<$FFFE>
+*Victory Conditions<$FFFC>•Defeat Altemüller<$FFFC>*Defeat Conditions<$FFFC>•Death of a PC<$FFFE><$FFFF>

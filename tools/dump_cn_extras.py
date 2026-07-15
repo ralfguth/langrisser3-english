@@ -38,7 +38,7 @@ JP_DEFAULT = Path(
     "Langrisser III (Japan)/Langrisser III (Japan) (3M) (Track 01).bin"
 )
 CN_DEFAULT = Path(
-    "/home/ralf/Jogos/emulacao/tools/梦幻模拟战3[简][意志之路]/LANGRISSER_3.mdf"
+    "/home/ralf/Jogos/emulacao/tools/Langrisser III (CN)/LANGRISSER_3.mdf"
 )
 
 # (iso_path, out_name, mode)

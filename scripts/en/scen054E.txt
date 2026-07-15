@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,29 +18,29 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Larcussian Commander<$FFFF>
 Layla<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-07<$FFFC><$0000><$0000> Mountain Pass Reunion <$0000><$0000><$FFFE>
- The strategy succeeded, inflaming hostilities between the armies of the Rigüler Empire and Barral Kingdom, which as hoped bought the party enough time to slip by the boarder.<$FFFE>
- But there, a precious yet sorrowful reunion was awaiting <$F600><$0000>.<$FFFE>
- There, a reunion both nostalgic and sorrowful awaited him.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Highway Leading to the Central Lushiris Gate<$FFFF>
- A messenger from Lord Raymond has arrived.<$FFFE>
- I see, send him in.<$FFFE>
- Miss Layla!?<$FFFE>
- Miss Layla, why are you here?<$FFFE>
- Is me being the wife of a knight not enough of a reason?<$FFFE>
- I get so irritated that I can do nothing, while Gerold remains in Laffel…<$FFFE>
- Miss Layla…Gerold…<$FFFE>
- At least this way I can be of some service to everyone.<$FFFE>
- My heart won't rest until Gerold has returned!<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐０７<$FFFC><$0000><$0000> Mountain Pass Reunion <$0000><$0000><$FFFE>
+The plan to spark war between<$FFFC>the Rigüler and Barral armies<$FFFC>had succeeded. This would buy<$FFFC>the party a little time.<$FFFE>
+Pressing on toward the Lushiris<$FFFC>Gate, their first destination,<$FFFC><$F600><$0000> and his troops<$FFFC>passed through the Railym hills.<$FFFE>
+There, a reunion both nostalgic<$FFFC>and sorrowful awaited him.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Central Gate Rd.<$FFFF>
+Lord Raymond's messenger<$FFFC>has arrived.<$FFFE>
+I see, send him in.<$FFFE>
+Miss Layla!?<$FFFE>
+Miss Layla? Why are you<$FFFC>here?<$FFFE>
+I was to be a knight's<$FFFC>wife once, you know?<$FFFE>
+Gerold waits in Laffel,<$FFFC>and yet here I am, able<$FFFC>to do nothing but fret…<$FFFE>
+Miss Layla…Gerold…<$FFFE>
+At least this way, I can<$FFFC>be of help to everyone.<$FFFE>
+When Gerold comes home,<$FFFC>I'll greet him proudly,<$FFFC>head held high!<$FFFE>
 …<$FFFE>
- Anyhow, Lord Raymond sent word that <$F600><$0000>'s squad should liberate two of the four gates, the south and the east ones.<$FFFD>The specific locations are…<$FFFE>
- What are they?<$FFFB>I mean, these so called four gates?<$FFFE>
- My, you don't know about them, Pierre?<$FFFD>The four gates are holy gates which power the Lushiris Gate and convey the divine protection of Lady Lushiris to the Kingdom of Larcuss.<$FFFE>
- You mean that in order to renew the Lushiris Gate, we need to liberate these four gates?<$FFFE>
- Exactly.<$FFFD>If we don't, it looks like we would risk to be attacked by the demons from Velzeria.<$FFFE>
- And, we certainly have no desire to face yet another opponent.<$FFFD>We must do all we can to ward our land against evil and halt the invasions of our blessed land.<$FFFE>
- Indeed.<$FFFE>
- Well then, for now let's go and liberate the southern gate.<$FFFE>
- Inform all our troops!<$FFFB>Then, let's get moving!<$FFFE>
- Everyone, please do your best.<$FFFE>
+By the way, Lord Raymond<$FFFC>ordered <$F600><$0000><$FFFC>to open two of the four<$FFFC>gates, south and east.<$FFFD>As for the exact spots…<$FFFE>
+What's that?<$FFFB><$FFFC>The four gates, you say?<$FFFE>
+My, you don't know them,<$FFFC>Pierre?<$FFFD>They are holy gates that<$FFFC>open the Lushiris Gate,<$FFFC>bringing Lady Lushiris's<$FFFC>grace to all Larcuss.<$FFFE>
+Opening the four gates<$FFFC>activates the Lushiris<$FFFC>Gate, am I right?<$FFFE>
+Exactly.<$FFFD>Monsters from Velzeria<$FFFC>will attack if we don't.<$FFFE>
+Indeed, more enemies are<$FFFC>the last thing we need.<$FFFD>The foreign onslaught is<$FFFC>fading, luckily, so we<$FFFC>must root out this evil<$FFFC>while we still can.<$FFFE>
+Understood.<$FFFE>
+Then, off we go to open<$FFFC>the southern gate.<$FFFE>
+To all troops!<$FFFB><$FFFC>We move out now!<$FFFE>
+Please give it your all<$FFFC>out there, everyone.<$FFFE>

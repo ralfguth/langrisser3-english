@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,80 +18,80 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Rigüler Commander<$FFFF>
 Rigüler General<$FFFF>
-Defeat the commander within<$FFFC> 29 turns<$FFFE>
-Death of <$F600><$0000><$FFFC>Turn limit exceeded<$FFFE>
-Battle between the Captured Airship and the Airship escorting Lord Raymond<$FFFF>
- Commander, the enemy has made preparations to board our ship!<$FFFE>
- How on earth did they manage to get their hands on one of our airships!?<$FFFD>Bah what do I care, we will have to deal with them anyway! Without a doubt they are here to rescue the prisoner.<$FFFE>
- The boarding plank is in place.<$FFFC>But it won't stay fixed for long.<$FFFE>
- We must settle this quickly.<$FFFE>
- If you wish to conclude this battle quickly, target the enemy commander.<$FFFE>
- Sir <$F600><$0000>. Let us commence the invasion of the enemy ship now. We shouldn't let time pass wastefully.<$FFFE>
- Of course. I will see to it right away.<$FFFE>
- We have to hurry up. The boarding planks won't last forever.<$FFFE>
- Oh my, I think I just heard one of the planks cracking. They won't last that much longer.<$FFFE>
- We have already taken too much time.<$FFFD>If we don't finish this soon, we will also have to deal with enemy reinforcements. …That would be unpleasant…to say the least.<$FFFE>
- The boarding plank is creaking? It won't last much longer.<$FFFE>
- The enemy reinforcements are probably on their way by now. We have to fulfil our mission quickly and get out of here.<$FFFE>
- The enemy will send airships from the base in the imperial capital if we continue to waste so much time.<$FFFD>If those reinforcements arrive we will be done for!<$FFFE>
- The boarding planks came off!?<$FFFE>
- Hahaha! Now there's no chance for you to escape any more.<$FFFD>You came all the way here to free a prisoner and now you will become captives yourself! Ahahahaha!<$FFFE>
- I am sorry everyone… I have failed you…<$FFFE>
- I am sorry everyone… I have failed you…<$FFFE>
- Prow corps reporting! They broke through our lines!<$FFFE>
+Defeat the commander<$FFFC>within 29 turns<$FFFE>
+<$F600><$0000> falls<$FFFC>Turn limit exceeded<$FFFE>
+Captured Ship vs Raymond Escort<$FFFF>
+Commander, the enemy is<$FFFC>boarding our ship!<$FFFE>
+How did they get hold of<$FFFC>one of our airships?!<$FFFD>Never mind that! Just<$FFFC>do something, and fast!<$FFFC>They must be here to<$FFFC>take back the prisoner!<$FFFE>
+The boarding plank is in<$FFFC>place. But it won't hold<$FFFC>for long.<$FFFE>
+Settle this quickly.<$FFFE>
+If you want to end this<$FFFC>quickly, strike at the<$FFFC>enemy commander.<$FFFE>
+Lord <$F600><$0000>.<$FFFC>Move our troops onto the<$FFFC>enemy ship soon. The<$FFFC>plank worries me.<$FFFE>
+Right. Let's do that.<$FFFE>
+We'd better be quick.<$FFFC>That plank looks ready<$FFFC>to give.<$FFFE>
+The plank is creaking.<$FFFC>It won't hold long.<$FFFE>
+We've taken far too<$FFFC>long.<$FFFD>At this rate, enemy<$FFFC>reinforcements could<$FFFC>arrive. …We must hurry.<$FFFE>
+The plank is creaking?<$FFFC>It won't last long.<$FFFE>
+At this rate, enemy<$FFFC>reinforcements may come.<$FFFC>Let's hurry.<$FFFE>
+Soon the capital's<$FFFC>airship base will see<$FFFC>this battle.<$FFFD>Then they will send<$FFFC>reinforcements from the<$FFFC>base!<$FFFE>
+The boarding plank!?<$FFFE>
+Ha ha ha! You have no<$FFFC>chance left now!<$FFFD>You came to free a<$FFFC>prisoner, only to become<$FFFC>prisoners yourselves!<$FFFC>How absurd! Ha ha ha ha!<$FFFE>
+…Sorry, everyone. If<$FFFC>only I had been<$FFFC>steadier…<$FFFE>
+…Sorry, everyone. If<$FFFC>only I had been<$FFFC>steadier…<$FFFE>
+Bow corps here! They've<$FFFC>broken through!<$FFFE>
 <$F702><$FFFE>
 <$F702><$FFFE>
- Central corps reporting! The enemy is invading!<$FFFE>
- What are you doing!? Stop them somehow!<$FFFE>
+Central corps here!<$FFFC>They've boarded us!<$FFFE>
+What are you doing!?<$FFFC>Hold them back, whatever<$FFFC>it takes!<$FFFE>
 <$F703><$FFFE>
 <$F703><$FFFE>
- Stern corps reporting!The enemy has crossed our defensive lines!<$FFFE>
+Stern corps reporting!<$FFFC>The enemy has breached<$FFFC>our lines!<$FFFE>
 <$F704><$FFFE>
 <$F704><$FFFE>
- Commence the counter offensive. Invade the enemy's vessel!<$FFFE>
- Upon inspecting the door thoroughly you notice a strange symbol attached to it.<$FFFE>
- Do you want to take it?<$FFFE>
- Magic Symbol was obtained!<$FFFE>
- The symbol turned pitch black…<$FFFE>
- I still… have things I must do…<$FFFE>
- Papa…<$FFFE>
- I'll have you all beaten in no time!<$FFFE>
- I am sorry, everyone…<$FFFE>
- Sorry, this is my limit…<$FFFE>
- It's hopeless…<$FFFE>
- You think you can beat me?<$FFFE>
- Huh?<$FFFE>
- Sorry…<$FFFE>
- Lady Lushir…is…<$FFFE>
- Guargh… Please carry on…<$FFFE>
- Urgh…<$FFFE>
- How pathetic…<$FFFE>
- Ugh! I blew it!<$FFFE>
- How…laughable… …happening…on a simple escort mission…<$FFFE>
- Your Commander has fallen! Put down your weapons and surrender quietly!<$FFFE>
- Understood. We surrender…<$FFFE>
- Way to go, Sir <$F600><$0000>.<$FFFE>
- The battle is over…<$FFFD>Now then, search the ship for Raymond!<$FFFE>
- I still have things I want to do…<$FFFE>
- Gaurgh…<$FFFE>
- My spear didn't work…<$FFFE>
- Guarghh!<$FFFE>
- I am falling!<$FFFE>
- Hopeless…<$FFFE>
- To seal off our mobility… a fearsome opponent…<$FFFE>
- I can't lose yet!<$FFFC>Can't lose…<$FFFE>
- Was my swordsmanship still that immature…<$FFFE>
- So this is it…<$FFFE>
- Mother…<$FFFE>
- My magic wasn't enough…<$FFFE>
- Oh, gods!<$FFFE>
- N-no!<$FFFE>
- Leaving the rest to you…<$FFFE>
- It's hopeless…<$FFFE>
- I absolutely refuse to die in a place like this!<$FFFC>I don't want to die!<$FFFE>
- W…What!? All my troops have been wiped out!?<$FFFE>
- It would have been more than enough to take out their commander. What is all this destruction good for…<$FFFE>
- Keep the enemy at bay. Buy some time for our reinforcements to arrive!<$FFFE>
- The bow corps has been breached… bad…<$FFFE>
- The center has been breached… bad…<$FFFE>
- The stern corps…<$FFFC>Impossible!<$FFFE> 
+We're aboard their ship.<$FFFC>Now go wild!<$FFFE>
+Looking closely at<$FFFC>the door, you notice a<$FFFC>strange symbol set into<$FFFC>it.<$FFFE>
+Do you want to take it?<$FFFE>
+Acquired the Magic<$FFFC>Symbol!<$FFFE>
+The symbol has turned<$FFFC>pitch black…<$FFFE>
+I still… have things I<$FFFC>must do…<$FFFE>
+Papa…<$FFFE>
+I'll crush you all!<$FFFE>
+I'm sorry, everyone…<$FFFE>
+Sorry, I'm at my limit…<$FFFE>
+It's hopeless…<$FFFE>
+Think you can beat me?<$FFFE>
+Huh?<$FFFE>
+Sorry…<$FFFE>
+Lady Lushir…is…<$FFFE>
+Guh… The rest is up to<$FFFC>you…<$FFFE>
+Urgh…<$FFFE>
+How pathetic…<$FFFE>
+Ugh! I blew it!<$FFFE>
+Im-impossible… On a<$FFFC>simple prisoner-escort<$FFFC>mission…<$FFFE>
+Your commander is dead!<$FFFC>Lay down your swords and<$FFFC>surrender quietly!<$FFFE>
+Understood. We<$FFFC>surrender…<$FFFE>
+Masterful command, Lord<$FFFC><$F600><$0000>.<$FFFE>
+It's over at last…<$FFFD>Now, let's search<$FFFC>the ship for Viscount<$FFFC>Raymond!<$FFFE>
+So much left to do…<$FFFE>
+Gaurgh!<$FFFE>
+My spear didn't work…<$FFFE>
+Guarghh!<$FFFE>
+I-I'm falling!<$FFFE>
+Hopeless…<$FFFE>
+Our mobility is sealed.<$FFFC>A fearsome foe…<$FFFE>
+I can't lose yet! I<$FFFC>won't lose…<$FFFE>
+Was my swordsmanship<$FFFC>still so green…?<$FFFE>
+So this is it…<$FFFE>
+Mother…<$FFFE>
+My magic wasn't enough…<$FFFE>
+Oh, gods!<$FFFE>
+N-no!<$FFFE>
+The rest is up to you…<$FFFE>
+It's hopeless…<$FFFE>
+I refuse to die here!<$FFFC>I don't want to die!<$FFFE>
+Wh-what!? My troops…<$FFFC>all wiped out!?<$FFFE>
+We only had to beat<$FFFC>their commander. There<$FFFC>was no need to wipe them<$FFFC>all out…<$FFFE>
+Then we have no choice<$FFFC>but to hold out. Buy<$FFFC>every second that you<$FFFC>can!<$FFFE>
+They broke through<$FFFC>the bow corps… This is<$FFFC>bad…<$FFFE>
+They broke through the<$FFFC>center… This is bad…<$FFFE>
+The stern corps, too…?<$FFFC>Impossible!<$FFFE><$FFFF>

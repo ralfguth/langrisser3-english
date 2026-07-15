@@ -38,7 +38,7 @@ class TestCountTiles:
         assert count_tiles('The Despicable General Geier') == 14
 
     def test_umlauts_via_bigram(self):
-        # Böser = (B,ö)(s,e)r = 3 tiles using CWX bigrams 1613/1614
+        # Böser = (B,ö)(s,e)r = 3 tiles using 0.2 patch bigrams 1613/1614
         assert count_tiles('Böser') == 3
         # Diehärte = (D,i)(e,h?)(ä,r)... depends on encoder packing
         assert count_tiles('Diehärte') <= 5  # generous upper bound
@@ -55,13 +55,17 @@ class TestCountTiles:
         assert count_tiles('<$0000>Assault on the Floating Castle') == 16
 
     def test_space_letter_bigram(self):
-        # leading space absorbed into bigram with first letter (UC included)
+        # leading space absorbed into bigram with first letter (occurs in scripts)
         assert count_tiles(' X') == 1  # (' ', 'X') bigram
-        # Trailing space + UC letter has no (UC, ' ') bigram — adds 1 standalone
-        assert count_tiles('X ') == 2
-        # Lowercase has both leading and trailing space bigrams
-        assert count_tiles(' x') == 1
+        # Trailing UC now HAS a (UC, ' ') half-width bigram (the data-driven
+        # zenkaku-fallback fix), so 'X ' packs to 1 tile (was zenkaku + space = 2).
+        assert count_tiles('X ') == 1
+        # Trailing lowercase packs into (x, ' ').
         assert count_tiles('x ') == 1
+        # Leading-space + 'x' is NOT a script-occurring pair, so the data-driven
+        # map has no (' ', 'x') tile — it costs 2 (only the leading-space pairs the
+        # scripts actually use get a tile; cf. ' X' above which does occur).
+        assert count_tiles(' x') == 2
         # 2 leading spaces: 1 standalone + 1 bigram
         assert count_tiles('  X') == 2
 

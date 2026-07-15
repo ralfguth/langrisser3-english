@@ -5,110 +5,110 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-Reaper Grove<$FFFF>
+Necromancer Grove<$FFFF>
 Pierre<$FFFF>
 Necromancer<$FFFF>
 Monster<$FFFF>
 Velzerian Commander<$FFFF>
 Defeat Necromancer Grove<$FFFE>
-Death of <$F600><$0000><$FFFE>
-Velzeria Castle - Before the Castle Gates<$FFFF>
- So this is the Velzerian Castle, huh?<$FFFE>
- I assume so. The demonic aura around here is staggering.<$FFFE>
- I am here for the first time, but according to what Lady Lushiris has conveyed to me this has to be it.<$FFFE>
- So the Prince of Darkness Böser is around here too?<$FFFE>
- Most certainly.<$FFFE>
- Let's give that Böser fellow a good trashing and be outta here!<$FFFE>
- I am afraid that is not going to happen.<$FFFE>
- That voice!<$FFFE>
- We are surrounded! How come we didn't noticed?<$FFFE>
- Suits me fine! That way they save us the trouble of chasing after them.<$FFFE>
- Quiet overconfident, aren't we?<$FFFE>
- I admit, I am slightly impressed you managed to defeat Feraquea. But this time the circumstances are a bit different, no?<$FFFE>
- It's the same thing! We defeated her, we will defeat you and then we will finish off that Böser character!<$FFFE>
- Is that so? They say you need 3 times the soldiers to take this castle.<$FFFE>
- But you are just a handful, are you telling me that you believe you can win at such odds?<$FFFE>
- That's exactly what I am saying!<$FFFE>
- Hey, what was that about 3 times he was saying?<$FFFE>
- I am afraid not. It is basic strategic knowledge that one needs approximately 3 times the troops to conquer a well armed defensive position.<$FFFD>In other words, what he was saying was quiet accurate.<$FFFE>
- What!? We don't have 3 times their numbers!<$FFFE>
- Now keep it cool, we're only talking about numbers here. We will just take them on one by one, if we stick together that minor difference in numbers won't matter much.<$FFFE>
- Hehehehe! You amuse me, but let's see if you can keep up with your boasting!<$FFFE>
- Come perished ones, rise again and haunt the living!<$FFFD>Kimo Jinihi Kushi Zekiki Yokana Haguji Soramu!<$FFFE>
- Whaa? All the monster's corpses have come back to life?<$FFFE>
- I am glad you like it, considering this such a simple task for my humble self to perform.<$FFFE>
- Don't get cocky, Grove!<$FFFE>
- Dammit! We have been surrounded once again!<$FFFE>
- Umm, Sir <$F600><$0000>.<$FFFD>Since they have been resurrected, I think it would be best using Holy and Fire magic against them.<$FFFE>
- …<$FFFD>I see, so that's how it is. It may be worth trying.<$FFFE>
+Death of<$FFFC><$F600><$0000><$FFFE>
+Velzeria Castle Gate<$FFFF>
+So this is the castle<$FFFC>of Velzeria, then?<$FFFE>
+So it would seem. The<$FFFC>demonic aura here grows<$FFFC>ever stronger.<$FFFE>
+This is my first time<$FFFC>here too, but it matches<$FFFC>the place Lady Lushiris<$FFFC>described to us.<$FFFE>
+Is the demon king Böser<$FFFC>himself here as well?<$FFFE>
+Most certainly.<$FFFE>
+Let's give that Böser<$FFFC>fellow a good trashing<$FFFC>and be outta here!<$FFFE>
+I am afraid that is not<$FFFC>going to happen.<$FFFE>
+That voice!<$FFFE>
+We're surrounded! When<$FFFC>did this happen?<$FFFE>
+Makes no difference!<$FFFC>Against such monsters,<$FFFC>no need to hold back!<$FFFE>
+My, what a spirited<$FFFC>fellow this one is.<$FFFE>
+I grant you the skill<$FFFC>to have downed Feraquea.<$FFFC>But in a plight like<$FFFC>this, how will you fare?<$FFFE>
+It's all the same to us!<$FFFC>We'll cut you down,<$FFFC>and then bring Böser low<$FFFC>without fail!<$FFFE>
+Is that so? They say you<$FFFC>need three times as many<$FFFC>men to take this castle.<$FFFE>
+You are fewer than we,<$FFFC>by far. Can you truly<$FFFC>have thrice our strength<$FFFC>and more, I wonder?<$FFFE>
+I'll give it a try!<$FFFE>
+Hey, that 'thrice' you<$FFFC>spoke of just now, what<$FFFC>did you mean by it?<$FFFE>
+It's the triple-attack<$FFFC>rule. Here, attackers<$FFFC>take thrice the losses<$FFFC>a defender suffers.<$FFFD>In short, you need over<$FFFC>thrice the force to take<$FFFC>a stronghold.<$FFFE>
+What?! There's no way we<$FFFC>have three times their<$FFFC>numbers, not even close!<$FFFE>
+The thrice isn't about<$FFFC>numbers. If our strength<$FFFC>and teamwork can outdo<$FFFC>it, that's enough.<$FFFE>
+Kee hee hee!<$FFFC>Then shall we put<$FFFC>it to the test?<$FFFE>
+Come, you dead, rise<$FFFC>once more, and avenge<$FFFC>your bitter regrets.<$FFFD>Mihari han kimojinihi<$FFFC>kushizekiki iyokana<$FFFC>hagujisoramu!<$FFFE>
+What!? You brought the<$FFFC>corpses back to life?<$FFFE>
+For someone like me,<$FFFC>raising the undead is<$FFFC>the simplest of things.<$FFFE>
+Don't get cocky, Grove!<$FFFE>
+Damn it all! Surrounded<$FFFC>by the enemy<$FFFC>once again!<$FFFE>
+Um, pardon me,<$FFFC>Sir <$F600><$0000>.<$FFFD>The foes that Grove<$FFFC>raised may be weak to<$FFFC>Holy and Fire magic.<$FFFE>
+…<$FFFD>Ah, I see, that explains<$FFFC>it. Might well be worth<$FFFC>trying.<$FFFE>
 GUGAAAA!<$FFFE>
- Hehehe. You're struggling hard, but how long can you keep that up?<$FFFE>
- A powerful looking sword sticks out from the ground.<$FFFD>There are letters carved into the floor next to it.<$FFFD>"Name the greatest sword on earth and I shall lend you my power."<$FFFE>
- What do you say?<$FFFE>
+Kee hee hee. You hold up<$FFFC>well, but how long can<$FFFC>it last?<$FFFE>
+A sword juts from the<$FFFC>floor, the stone about<$FFFC>it badly cracked.<$FFFD>Letters have been carved<$FFFC>into the floor beside<$FFFC>it, and they read…<$FFFD>"Whoso seeks the blade<$FFFC>that felled the great,<$FFFC>draw it forth while you<$FFFC>cry aloud my name."<$FFFE>
+What do you say?<$FFFE>
 Langrisser<$FFFE>
 Muramasa<$FFFE>
 Alhazard<$FFFE>
- The sword crumbled to dust…<$FFFE>
- Under heavy sounds you were able to draw the sword out.<$FFFE>
- Muramasa was obtained!<$FFFE>
- The sword crumbled to dust…<$FFFE>
- In front of you gasps a small hole. Inside it a bottle filled with deep red liquid can be seen.<$FFFE>
- Do you want to pick up the bottle?<$FFFE>
- To reach it you have to to a narrow hole and probably will hurt your hand.<$FFFE>
- What do you do?<$FFFE>
+The sword broke off<$FFFC>clean at the hilt and<$FFFC>slid right out…<$FFFE>
+With a dull sound, you<$FFFC>drew the greatsword out.<$FFFE>
+Acquired Muramasa!<$FFFE>
+With a dull sound, the<$FFFC>sword crumbled away…<$FFFE>
+A bottle lies in a pile<$FFFC>of needles, a deep-red<$FFFC>liquid within.<$FFFE>
+Do you want to pick up<$FFFC>the bottle?<$FFFE>
+To take a firm hold, you<$FFFC>must reach into<$FFFC>the needles, risking<$FFFC>injury to your hand.<$FFFE>
+What do you do?<$FFFE>
 Grasp it securely <$FFFE>
 Try pinching it <$FFFE>
 Leave it alone<$FFFE>
-You managed to take the bottle, but got injured.<$FFFE>
- <$F600><$02BE> took 10 points of damage.<$FFFE>
- Ghost Blood was obtained!<$FFFE>
- As you attempt to carry the bottle out, it slipped away.<$FFFD>The bottle broke and the liquid went to waste…<$FFFE>
- A sudden gust knocks the bottle over and cracks it. The red liquid spills out…<$FFFE>
- A sudden gust knocks the bottle over and cracks it. The red liquid spills out…<$FFFE>
- I can't fall here…<$FFFE>
- Ouchie!<$FFFE>
- Father…<$FFFE>
- Grove…you bastard…<$FFFE>
- Oh don't make such a sad face.<$FFFD>I shall put his body to good use. Hihihihi…<$FFFE>
- Ughh…<$FFFE>
- Gilbert…<$FFFE>
- Everyone… I am soo tired…<$FFFE>
- Oh…<$FFFE>
- Sir <$F600><$0000>…<$FFFE>
- Ah, Lady Lushiris…<$FFFE>
- Sophia…<$FFFE>
- Father please don't overexert yourself.<$FFFE>
- Sorry…<$FFFE>
- Guaah…<$FFFE>
- Damn, I blew it!<$FFFE>
- Tch, how pathetic…<$FFFE>
- Ahh, Heaven feels nice…<$FFFE>
- Curse…you…<$FFFE>
- So it has come to this at long last.<$FFFE>
- You're the last of Velzeria's Generals to draw breath!<$FFFE>
- This time you won't slip away, Grove!<$FFFE>
- Now now, please don't be so repellent.<$FFFE>
- Just think about what magnificent zombie I could craft from flesh such as yours? Hihihihi!<$FFFE>
- W…what… How can my body lose to mere humans…<$FFFE>
- So that's the power of the holy sword… M-Master Böser…<$FFFE>
- Coty… Your tormentor is no more.<$FFFE>
- You can sleep peacefully now and dream the endless dream.<$FFFE>
- It seems that all other demons have disappeared as well.<$FFFE>
- Has anyone else noticed just how powerful we've become?<$FFFE>
- With that all of the Velzerian Generals have been defeated by our own hands…<$FFFE>
- This battle went only well because of your prudent commanding, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>…<$FFFC>A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
+You managed to take the<$FFFC>bottle, but got injured.<$FFFE>
+<$F600><$0000> took<$FFFC>10 points of damage.<$FFFE>
+Acquired the Ghost<$FFFC>Blood!<$FFFE>
+You try to lift it by<$FFFC>the top, to spare your<$FFFC>hand, but it slips free.<$FFFD>The bottle cracks, and<$FFFC>the red liquid within<$FFFC>spills out everywhere…<$FFFE>
+A sudden gust knocks the<$FFFC>bottle down. It cracks,<$FFFC>and the red liquid<$FFFC>spills out…<$FFFE>
+A sudden gust knocks the<$FFFC>bottle down. It cracks,<$FFFC>and the red liquid<$FFFC>spills out…<$FFFE>
+I can't fall here…<$FFFE>
+Ouchie!<$FFFE>
+Father…<$FFFE>
+Grove…you bastard…<$FFFE>
+Oh don't make such a sad<$FFFC>face.<$FFFD>I'll make good use of<$FFFC>his body. Kee hee hee…<$FFFE>
+Ughh…<$FFFE>
+Gilbert…<$FFFE>
+I'm sorry, everyone…<$FFFC>I'm just so tired now…<$FFFE>
+Oh…<$FFFE>
+Sir <$F600><$0000>…<$FFFE>
+Ah, Lady Lushiris…<$FFFE>
+Sophia…<$FFFE>
+Father, please do not<$FFFC>push yourself too hard.<$FFFE>
+Sorry…<$FFFE>
+Guaah…<$FFFE>
+Damn, I blew it!<$FFFE>
+Tch, how pathetic…<$FFFE>
+Ah, the sky is blue…<$FFFE>
+Curse…you…<$FFFE>
+So it has come to this<$FFFC>at long last.<$FFFE>
+But as the last of the<$FFFC>Three Demon Generals,<$FFFC>Lord Grove will not<$FFFC>fall so meekly as that!<$FFFE>
+This time you won't slip<$FFFC>away, Grove!<$FFFE>
+What a stubborn,<$FFFC>persistent man you are.<$FFFE>
+And yet, from flesh like<$FFFC>yours, I might shape<$FFFC>the finest zombie yet!<$FFFC>Kee hee hee!<$FFFE>
+Wh… impossible… How<$FFFC>can this body of mine<$FFFC>fall to mere men…<$FFFE>
+So that's the power of<$FFFC>the holy sword…<$FFFC>M-Lord Böser…<$FFFE>
+Coty… Your tormentor is<$FFFC>no more.<$FFFE>
+Now may you rest in<$FFFC>peace at last.<$FFFE>
+The monsters… they are<$FFFC>fading away…<$FFFE>
+Now you have learned the<$FFFC>strength we wield!<$FFFE>
+And so all three Demon<$FFFC>Generals of Velzeria<$FFFC>have all fallen now…<$FFFE>
+Splendid generalship,<$FFFC>Sir <$F600><$0000>.<$FFFE>
+Lord <$F600><$0000>…<$FFFC>A battle should never<$FFFC>drag on for too long,<$FFFC>my lord.<$FFFD>It will shape exactly<$FFFC>what we can do in the<$FFFC>next battle to come…<$FFFE>
 KISYAAAH!<$FFFE>
 KISYAAAH!<$FFFE>
 KISYAAAH!<$FFFE>
@@ -123,26 +123,26 @@ GUGOOO!<$FFFE>
 GOOON!<$FFFE>
 GOOON!<$FFFE>
 GUGOOO!<$FFFE>
- Is that my fate…<$FFFE>
- Such sweet pain…<$FFFE>
+Is that my fate…<$FFFE>
+I-it hurts…<$FFFE>
 SYAAAH!<$FFFE>
 SYAAAH!<$FFFE>
 GWAAAAA!<$FFFE>
 GWAAAAA!<$FFFE>
 GWAAAAA!<$FFFE>
- Guaaarg…<$FFFE>
- Simpletons…<$FFFE>
- Sniff*… I go back to…black…<$FFFE>
- Feel my wrath!<$FFFE>
- You humans are to be loathed…<$FFFE>
- Why did you invade our home country…<$FFFE>
+Guaaarg!<$FFFE>
+Impossible…<$FFFE>
+Heh, heh… It's all gone<$FFFC>black…<$FFFE>
+Feel my wrath!<$FFFE>
+What terrible, fearsome<$FFFC>creatures they are…<$FFFE>
+Wh-why…<$FFFE>
 PUSYUUU!<$FFFE>
 PUSYUUU!<$FFFE>
- Now all that's left is to storm the castle! Do you still plan to fight on!?<$FFFE>
- You're all alone now, Grove! Do you still plan to fight on!?<$FFFE>
- Hehehe! It's to early for you to celebrate a victory you haven't won yet.<$FFFE>
- Is that a sore loser speaking? But no matter, your time is running short anyway!<$FFFE>
- KYAAAAH! They killed all of my precious minions simply like that…<$FFFD>You will pay…you will pay dearly!<$FFFE>
- You ignorant humans have no sense for quality corpses! How dare you slay my beloved underlings!<$FFFE>
- Grove. Underestimating the strength of us humans will prove a baneful fallacy!<$FFFE>
- Now you will witness our power first hand!<$FFFE> 
+Now all that's left is<$FFFC>to storm the castle! Do<$FFFC>you still plan to fight<$FFFC>on!?<$FFFE>
+You're all alone now,<$FFFC>Grove! Do you still plan<$FFFC>to fight on!?<$FFFE>
+Kee hee hee! It is far<$FFFC>too soon to feel at ease<$FFFC>yet.<$FFFE>
+Crying sour grapes, are<$FFFC>you? Your death is only<$FFFC>a matter of time now!<$FFFE>
+Kyiiiii! How could my<$FFFC>servants fall so easily<$FFFC>as this…<$FFFD>I'll never, ever forgive<$FFFC>you for this!<$FFFE>
+Curse you, and nothing<$FFFC>but mere humans at that!<$FFFC>How dare you touch my<$FFFC>precious, beloved dead!<$FFFE>
+Grove. With the very<$FFFC>strength of the humans<$FFFC>you scorn, this time,<$FFFC>I'll finish you at last!<$FFFE>
+Now you will witness our<$FFFC>power first hand!<$FFFE><$FFFF>

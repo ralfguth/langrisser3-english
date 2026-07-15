@@ -13,12 +13,12 @@ Cancel<$FFFF>
 Show Movement Range<$FFFF>
 Equip<$FFFF>
 Use<$FFFF>
-General Planning<$FFFF>
+Balanced<$FFFF>
 Commander Support<$FFFF>
 Offensive<$FFFF>
 Defensive<$FFFF>
-Load<$FFFF>
-Save<$FFFF>
+LOAD<$FFFF>
+SAVE<$FFFF>
 Unit Orientation<$FFFF>
 Config<$FFFF>
 Game Options<$FFFF>
@@ -37,127 +37,127 @@ Off<$FFFF>
 Stereo<$FFFF>
 Mono<$FFFF>
 Select an item<$FFFF>
-Check targetting range?<$FFFF>
+Check targeting range?<$FFFF>
 Price<$FFFF>
 Key Assignment<$FFFF>
 Speed Up Cursor<$FFFF>
-You're sure?<$FFFF>
+Is this ok?<$FFFF>
 Yes<$FFFF>
 No<$FFFF>
 Yes<$FFFF>
 No<$FFFF>
-Decide<$FFFF>
-Scenario<$FFFF>
-Turn<$FFFF>
+Confirm<$FFFF>
+ＳＣＥＮＡＲＩＯ<$FFFF>
+ＴＵＲＮ<$FFFF>
 Pick target area<$FFFF>
 Cycle Units<$FFFF>
 Doesn't know any magic!<$FFFF>
 Select magic to use<$FFFF>
-Insufficient MP!<$FFFF>
+Insufficient MP<$FFFF>
 Performing treatment<$FFFF>
 Pick item<$FFFF>
 Awaiting time to perform this action<$FFFF>
-Choose a summoning incantation<$FFFF>
-Select a new movement mode<$FFFF>
+Choose a Summon<$FFFF>
+Select a new movement<$FFFF>
 Choose a formation<$FFFF>
 Main Menu<$FFFF>
 Unit<$FFFF>
 Begin executing actions?<$FFFF>
 Inventory is full<$FFFF>
-Move<$FFFF>
+MV<$FFFF>
 Summon Monster<$FFFF>
 Strategic Preparations<$FFFF>
 Choose an item to discard<$FFFF>
-Begin battle<$FFFF>
-Troop Officer<$FFFF>
-Inventory<$FFFF>
+Deploy<$FFFF>
+Assign Troops<$FFFF>
+Equip Items<$FFFF>
 Status<$FFFF>
-Equipping<$FFFF>
-Confused and unable to give orders.<$FFFF>
-Sound asleep and unable to give orders.<$FFFF>
+Equip<$FFFF>
+Confused and unable to give orders<$FFFF>
+Sound asleep and unable to give orders<$FFFF>
 Enemy<$FFFF>
 Shop<$FFFF>
 Silenced<$FFFF>
 Command summoned creature<$FFFF>
 will be purchased.<$FFFF>
-Party Gold<$FFFF>
-Commander Placement<$FFFF>
-Save<$FFFF>
-Load<$FFFF>
+Gold<$FFFF>
+Placement<$FFFF>
+SAVE<$FFFF>
+LOAD<$FFFF>
 Hire Troops<$FFFF>
 Buy<$FFFF>
 Sell<$FFFF>
 Class Change<$FFFF>
 War Chronicle<$FFFF>
-Internal Backup RAM<$FFFF>
-Cartridge RAM<$FFFF>
+Internal Backup RAM <$FFFF>
+Cartridge RAM <$FFFF>
 Cancel Treatment<$FFFF>
 No Active Skills acquired!<$FFFF>
 No usable items!<$FFFF>
-<$FFFF>
-<$FFFF>
-<$FFFF>
--<$FFFF>
-<$FFFF>
-/<$FFFF>
+Equipment<$FFFF>
+囗<$FFFF>
+｜<$FFFF>
+―<$FFFF>
+＼<$FFFF>
+／<$FFFF>
 Discarded.<$FFFF>
-This map has forced placement.<$FFFF>
+This map has forced placement<$FFFF>
 Commander Placement<$FFFF>
-You don't have enough experience to use that.<$FFFF>
-You have insufficient space.<$FFFF>
+Cannot be used in the trial version<$FFFF>
+You have insufficient space<$FFFF>
 No target<$FFFF>
-Cannot be discarded.<$FFFF>
-will be sold.<$FFFF>
-<$FFFF>
-<$FFFF>
-<$FFFF>
-<$FFFF>
-Begin battle?<$FFFF>
-[eots]<$FFFF>
-[eots]<$FFFF>
-Change Troop type<$FFFF>
-Adjust quantity<$FFFF>
-This equipment cannot be used.<$FFFF>
+Cannot be discarded<$FFFF>
+will be sold<$FFFF>
+Ｘ<$FFFF>
+Ｙ<$FFFF>
+Ｚ<$FFFF>
+Ａ<$FFFF>
+Ready to go?<$FFFF>
+Ｃ<$FFFF>
+Ｂ<$FFFF>
+Type<$FFFF>
+Hire<$FFFF>
+This equipment cannot be used<$FFFF>
 Return<$FFFF>
 Class Change<$FFFF>
-<$FFFF>
-<$FFFF>
+Ｌ<$FFFF>
+Ｒ<$FFFF>
 <$FFFF>
 Increase<$FFFF>
 Decrease<$FFFF>
 Enemy Unit<$FFFF>
 NPC Unit<$FFFF>
 NPC<$FFFF>
-Already equipped.<$FFFF>
+Already equipped<$FFFF>
 Continue without saving?<$FFFF>
 Perspective<$FFFF>
--<$FFFF>
-Conditions for Victory<$FFFF>
-Conditions for Defeat<$FFFF>
+Unable to act for several turns!<$FFFF>
+Victory Conditions<$FFFF>
+Defeat Conditions<$FFFF>
 (AT+20%, DF-40%)<$FFFF>
-Suicidal explosion!<$FFFF>
+Self-destruct!<$FFFF>
 <$FFFF>
 <$FFFF>
 <$FFFF>
 <$FFFF>
-will be the new class.<$FFFF>
+ will be the new class<$FFFF>
 Reselect items and troops<$FFFF>
-Attribute Growth<$FFFF>
-Loading...<$FFFF>
-Thinking...<$FFFF>
+Path<$FFFF>
+Loading<$FFFF>
+Processing<$FFFF>
 Commander<$FFFF>
 Troop<$FFFF>
-Movement and actions cancelled<$FFFF>
+Movement cancelled<$FFFF>
 Move and cancel Defense Mode?<$FFFF>
-may be selected<$FFFF>
-map arrangement<$FFFF>
+mode<$FFFF>
+View Map<$FFFF>
 Diehärte<$FFFF>
 Your name is?<$FFFF>
-Finished?<$FFFF>
+Confirm?<$FFFF>
 Enemies<$FFFF>
-Item Sale<$FFFF>
-Start<$FFFF>
-Options<$FFFF>
+Sell Items<$FFFF>
+START<$FFFF>
+OPTIONS<$FFFF>
 Allies<$FFFF>
 Not all commanders have been placed!<$FFFF>
 Fire<$FFFF>
@@ -168,26 +168,26 @@ Thunder<$FFFF>
 Holy<$FFFF>
 Spirit<$FFFF>
 Magic Resistance<$FFFF>
-Troop Magic Resistance<$FFFF>
-Sell Value<$FFFF>
+Troop MRES<$FFFF>
+Value<$FFFF>
 Inventory<$FFFF>
-For Sale<$FFFF>
-Equipped By<$FFFF>
+Buy Items<$FFFF>
+Equipped by<$FFFF>
 None<$FFFF>
 Weapon<$FFFF>
 Armor<$FFFF>
 Shield<$FFFF>
 Helm<$FFFF>
 Other<$FFFF>
---<$FFFF>
-Troops Hired<$FFFF>
+ - -<$FFFF>
+Troops<$FFFF>
 Menu<$FFFF>
-Rating<$FFFF>
+Growth<$FFFF>
 Spd<$FFFF>
-AT<$FFFF>
-DF<$FFFF>
-STR<$FFFF>
-INT<$FFFF>
+ATK <$FFFF>
+DEF <$FFFF>
+STR <$FFFF>
+INT <$FFFF>
 LV<$FFFF>
 Real<$FFFF>
 <$FFFF>
@@ -227,16 +227,16 @@ High Wall<$FFFF>
 Forbidden Land<$FFFF>
 Pick target to attack<$FFFF>
 No attack<$FFFF>
-Select Active Skill to use<$FFFF>
+Select Active Skill<$FFFF>
 Cancel the spell?<$FFFF>
 Troop Deployment<$FFFF>
-was destroyed!<$FFFF>
+ was destroyed!<$FFFF>
 Item may be used!<$FFFF>
 Cancel use of item?<$FFFF>
 Final Level<$FFFF>
 Kills<$FFFF>
-Defeats<$FFFF>
+Retreats<$FFFF>
 That name is unusable<$FFFF>
 Gone berserk!<$FFFF>
-Unable to cast spells.<$FFFF>
-Now the monsters at the bottom are withdrawing.<$FFFF>
+Cursed and unable to cast spells!<$FFFF>
+Monsters under your control will be dismissed.<$FFFF>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,19 +18,19 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Rigüler Commander<$FFFF>
 Velzerian Commander<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-31<$FFFC><$0000><$0000> Threads between People <$0000><$0000><$FFFE>
- The Dark Knight shows his true face, being the familiar one of the thought dead Gerold. When finding out about it, <$F600><$0000>'s heart becomes enshrouded in sadness.<$FFFE>
- Furthermore, the malicious influence of Velzeria could still be felt in the air surrounding Gerold. Could this all be Velzeria's doing? And is this the source of King Wilder's insanity as well?<$FFFE>
- To uncover the truth the division makes its way to the Kingdom of Barral.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat or persuade Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Aerial Fortress - Skies above the Rigüler capital<$FFFF>
- We have nowhere to retreat… Stop them here!<$FFFE>
-GYAA<$0650>…!<$FFFE>
- If we let them beat us here they will surge into the capital. You won't get past this very spot!<$FFFE>
- Uoohhh! Charge!<$FFFE>
- …Rest in peace.<$FFFE>
- You're getting lax Emerick. Look closely how it is done.<$FFFE>
- Hmph, after all their just numbers.<$FFFE>
- However, it saddens me to think that we fight our own kind.<$FFFE>
- What nonsense. Those who dare resist me have no place in the new Empire. They are only good for dulling my blade.<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐３１<$FFFC><$0000><$0000> Threads between People <$0000><$0000><$FFFE>
+The Dark Knight's true face was<$FFFC>none other than Gerold. This<$FFFC>truth throws <$F600><$0000>'s<$FFFC>heart into turmoil.<$FFFE>
+What's more, a magical force<$FFFC>could be felt from his body.<$FFFC>Could it be Velzeria? If so, is<$FFFC>that the cause of King Wilder's<$FFFC>madness…?<$FFFE>
+To uncover the truth,<$FFFC>the division makes its way<$FFFC>to the Kingdom of Barral.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat or persuade Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Sky Fortress over Rigüler<$FFFF>
+We have nowhere<$FFFC>to retreat… Stop them<$FFFC>here!<$FFFE>
+GYAAA…!<$FFFE>
+If we fall here, they'll<$FFFC>flood the capital.<$FFFC>I won't let them pass,<$FFFC>even if it kills me!<$FFFE>
+Uoohhh! Charge!<$FFFE>
+…Rest in peace.<$FFFE>
+You're getting lax,<$FFFC>Emerick. I'll show you<$FFFC>how it's done.<$FFFE>
+Hmph, just a ragtag mob<$FFFC>after all.<$FFFE>
+However, it saddens me<$FFFC>to think that we fight<$FFFC>our own kind.<$FFFE>
+What nonsense. I have no<$FFFC>need for any who defy<$FFFC>me. They deserve to die.<$FFFE>
 …<$FFFE>

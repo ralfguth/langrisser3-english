@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -21,51 +21,51 @@ Fauvel<$FFFF>
 Jessica<$FFFF>
 Viscount Raymond<$FFFF>
 Böser<$FFFF>
-Reaper Grove<$FFFF>
-Lushiris Gate - Western Gate<$FFFF>
- Thank you. Your help was much appreciated.<$FFFE>
- Wow! He's so fluffy fluffy!<$FFFE>
- Please let me touch you too.<$FFFE>
- My, you really are fluffy, aren't you.<$FFFE>
- …Guu.<$FFFE>
- Good to see you again, Jugler.<$FFFE>
- Master Fauvel, Mistress Sophia.<$FFFD>I am very glad to see both of you are well.<$FFFE>
- We too were captured by enemies, but Sir <$F600><$0000> and company saved us.<$FFFE>
-The demons of Velzeria are beginning to invade Larcuss.<$FFFD>We've got to renew the Lushiris Gate as soon as possible.<$FFFE>
- …I see. I shall open the gate immediately.<$FFFE>
- Please do.<$FFFE>
- Holy light of Lady Lushiris, grant me the power to open this gate, to drive back the powers of darkness.<$FFFE>
- Wonderful…<$FFFE>
- A pillar of light is shining in the northern sky, too!<$FFFE>
- Somehow, the northern gate must have been liberated, as well.<$FFFE>
- Guess so.<$FFFB>Lord Raymond must have been successful.<$FFFE>
- Right now, this country faces troublesome times. I Jugler, will help you too!<$FFFE>
- Jugler joined the part!<$FFFE>
- My, even Mr. Fluffy fluffy is coming with us!<$FFFE>
- Nice to have you with us, Jugler.<$FFFE>
- Gr…<$FFFE>
-Lushiris Gate - Center<$FFFF>
- I have been waiting for your return, Lord Raymond.<$FFFD>The gates in all four directions have been opened.<$FFFE>
- Oh, so <$F600><$0000> and company succeeded after all.<$FFFE>
- I shall open the Lushiris Gate, so that the power of Lady Lushiris shall ward against demons from now on.<$FFFE>
- Shigna Noik Rahji.<$FFFE>
- Grant the divine protection of Lady Lushiris to this land. Protect it against the aggression of all who are turned to evil.<$FFFE>
- Shigna Noik Rahji Di Lushiris!<$FFFE>
- Ohhh!<$FFFE>
- Now we should be protected against the invasions of the demons.<$FFFE>
- We should not take too much comfort from this.<$FFFD>It is true that this light shall ward against ordinary demons.<$FFFD>However, among the demons there are those with great strength that can act even in the face of this holy light.<$FFFD>Soon we will likely find some of them attacking us.<$FFFD>At that time, we must have the power to overcome such demons.<$FFFE>
-If that's the case, we've got to make some kind of preparations.<$FFFE>
- Are you familiar with the Sword of Decimation?<$FFFD>It is a sword shrouded in legend, said to hold the power to vanquish those sworn to evil.<$FFFD>It would be best if we could get ahold of it.<$FFFE>
- The Sword of Decimation, eh…<$FFFB>But, our main forces still have to fight against the Empire.<$FFFE>
- And so, I guess…<$FFFE>
- Yes. We have no choice but to ask <$F600><$0000> and company.<$FFFD>With <$F600><$0000>'s forces, it would be unreasonable to expect them to take on the Empire head-on.<$FFFE>
- So, let's dispatch a messenger.<$FFFE>
+Necromancer Grove<$FFFF>
+Lushiris Gate, Western Gate<$FFFF>
+Thank you. You've truly<$FFFC>saved me.<$FFFE>
+Wow! So soft and<$FFFC>fluffy!<$FFFE>
+Please let me touch you<$FFFC>too.<$FFFE>
+Heh, you really are so<$FFFC>soft and fluffy.<$FFFE>
+…Guu.<$FFFE>
+Good to see you again,<$FFFC>Jugler.<$FFFE>
+Master Fauvel, Mistress<$FFFC>Sophia.<$FFFD>I'm so glad you're both<$FFFC>safe and well.<$FFFE>
+We too were captured by<$FFFC>enemies, but Sir<$FFFC><$F600><$0000> and<$FFFC>company saved us.<$FFFE>
+The demons of Velzeria<$FFFC>are beginning to invade<$FFFC>Larcuss.<$FFFD>We've got to renew the<$FFFC>Lushiris Gate as soon as<$FFFC>possible.<$FFFE>
+…I see. So I just need<$FFFC>to open the gate.<$FFFE>
+Please do.<$FFFE>
+Holy light of Lushiris,<$FFFC>vanquish the evil here.<$FFFC>Open now and lend us<$FFFC>your power.<$FFFE>
+Wonderful…<$FFFE>
+A pillar of light is<$FFFC>shining in the northern<$FFFC>sky, too!<$FFFE>
+It seems the northern<$FFFC>gate has been liberated<$FFFC>as well.<$FFFE>
+Guess so.<$FFFB><$FFFC>Lord Raymond must have<$FFFC>succeeded as well.<$FFFE>
+Right now, this country<$FFFC>is in real trouble.<$FFFC>Jugler, too, will lend<$FFFC>you his strength!<$FFFE>
+Jugler joined the party!<$FFFE>
+Oh my, even Mr. Fluffy<$FFFC>is coming with us!<$FFFE>
+Nice to have you with<$FFFC>us, Jugler.<$FFFE>
+Gr…<$FFFE>
+Lushiris Gate, Center<$FFFF>
+I have been waiting<$FFFC>for your return, Lord<$FFFC>Raymond.<$FFFD>The gates in all four<$FFFC>directions have been<$FFFC>opened.<$FFFE>
+Oh, so <$F600><$0000><$FFFC>and company succeeded<$FFFC>after all.<$FFFE>
+With Lady Lushiris's<$FFFC>power, I now open the<$FFFC>gate to ward this land<$FFFC>from demons.<$FFFE>
+Shigna Noik Rahji.<$FFFE>
+May Lushiris's<$FFFC>grace guard this land,<$FFFC>and save us from all who<$FFFC>turn to evil.<$FFFE>
+Shigna Noik Rahji Di<$FFFC>Lushiris!<$FFFE>
+Ohhh!<$FFFE>
+The demons should now be<$FFFC>held back from our land.<$FFFE>
+We can't let our guard<$FFFC>down just yet.<$FFFD>It is true that this<$FFFC>light wards off ordinary<$FFFC>demons.<$FFFD>But some<$FFFC>demon-kin wield power<$FFFC>so strong they defy even<$FFFC>holy light.<$FFFD>Soon some of them will<$FFFC>surely come attacking.<$FFFD>We must then have the<$FFFC>power to drive them off.<$FFFE>
+If that's the case, then<$FFFC>we too must make ready.<$FFFE>
+Are you familiar with<$FFFC>the Decimation Sword?<$FFFD>It is a sword shrouded<$FFFC>in legend, said to hold<$FFFC>the power to vanquish<$FFFC>those sworn to evil.<$FFFD>It would be best if we<$FFFC>could get ahold of it.<$FFFE>
+The Decimation Sword<$FFFB><$FFFC>But our main forces must<$FFFC>still fight the Empire.<$FFFE>
+And so, I guess…<$FFFE>
+Yes. We have no choice<$FFFC>but to ask<$FFFC><$F600><$0000>.<$FFFD>Asking their forces to<$FFFC>face the Empire head-on<$FFFC>is asking too much.<$FFFE>
+So, let's dispatch a<$FFFC>messenger.<$FFFE>
 Velzeria Castle<$FFFF>
- So the Lushiris Gate has been revived…<$FFFE>
- Now none but our strongest demons can enter that country. Now we will need a new plan.<$FFFE>
- We must wear down every nation. The Empire in particular is too strong.<$FFFE>
- If that's the case, I know a human who will suit our needs well. If we use him, we should be able to assassinate the Field Marshal…<$FFFE>
- Kill Altemüller…? Intriguing, go ahead and try!<$FFFE>
- Yes, Master.<$FFFE>
- Indeed, if Altemüller, more beloved than that fool of a prince, is killed, the Empire will surely fall into chaos.<$FFFE>
- That chaos will create a gap for us to enter… Hohoho!<$FFFE>
+So the Lushiris Gate has<$FFFC>been revived…<$FFFE>
+Now only our high demons<$FFFC>may enter that land.<$FFFC>We will need a new plan.<$FFFE>
+We must wear down every<$FFFC>nation.<$FFFC>The Empire above all is<$FFFC>too strong.<$FFFE>
+If so, I know a human<$FFFC>who's perfect for this.<$FFFC>Through him, we could<$FFFC>kill the Field Marshal…<$FFFE>
+Kill Altemüller…?<$FFFC>Intriguing, go ahead and<$FFFC>try!<$FFFE>
+Yes, Master.<$FFFE>
+Altemüller is loved far<$FFFC>beyond that fool prince.<$FFFC>His death will doom the<$FFFC>Empire to chaos.<$FFFE>
+That chaos will give us<$FFFC>our opening…<$FFFC>Hohoho!<$FFFE><$FFFF>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,62 +19,62 @@ Emerick<$FFFF>
 Villager<$FFFF>
 Monsters<$FFFF>
 Imperial Citizens<$FFFF>
-Imperial First Prince Paul<$FFFF>
+First Prince Paul<$FFFF>
 Rigüler Commander<$FFFF>
 Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
 Healer<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-23<$FFFC><$0000><$0000>The Necromancer, Again <$0000><$0000><$FFFE>
- Velzeria had finally begun to act. Its movements were utterly unpredictable. Now, a village along Elthlead's border was under attack by a monster force led by Grove.<$FFFE>
- The young knight and his party pushed through their fatigue and set out for the border village to save the villagers.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of all NPCs<$FFFE>
-Village along the Velzeria - Elthlead Border<$FFFF>
- How in the world have we come to such a sordid state of affairs, that monsters infest our countryside?<$FFFE>
- Lately, they've come frequently.<$FFFD>This village hasn't been hit hard, but the neighboring villages have been completely destroyed by the monsters.<$FFFE>
- Has Lady Lushiris forsaken us?<$FFFE>
- O…o…oh no! Monsters, again!<$FFFE>
- Say what!?<$FFFE>
- Goaah!<$FFFE>
- Run! Everyone, get out of here!<$FFFE>
-Rigüler Imperial capital - Main Street<$FFFF>
- …His Imperial Majesty…<$FFFE>
- …I wonder why our country's Kaiser didn't rule for very long?<$FFFE>
- Maybe it's just the bloodline…<$FFFE>
- Think someone might have murdered him?<$FFFE>
- Hey…<$FFFE>
- Sir!<$FFFE>
- What are you all chattering about?<$FFFE>
- Umm…forgive us.<$FFFE>
- Since His Imperial Majesty has passed away, it would be wise to stow unnecessary chatter.<$FFFE>
- My humble apologies.<$FFFE>
- …Hmmph.<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２３<$FFFC><$0000><$0000>The Necromancer, Again <$0000><$0000><$FFFE>
+Velzeria has made its move at<$FFFC>last, swift and elusive. Now a<$FFFC>village on Elthlead's border<$FFFC>lies under attack by monsters<$FFFC>led by Grove.<$FFFE>
+The young knight and his party<$FFFC>pushed through their fatigue and<$FFFC>set out for the border village<$FFFC>to save the villagers.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of all NPCs<$FFFE>
+Elthlead Border Village<$FFFF>
+Monsters cropping up<$FFFC>from nowhere… What's<$FFFC>this world coming to?<$FFFE>
+Lately, they come often.<$FFFD>Our village got off<$FFFC>light, but they say the<$FFFC>next one over was wiped<$FFFC>out.<$FFFE>
+Has Lady Lushiris<$FFFC>abandoned us?<$FFFE>
+I-it's terrible!<$FFFC>Monsters, again!<$FFFE>
+Say what!?<$FFFE>
+Goaah!<$FFFE>
+Run for your lives!<$FFFC>Everyone, run!<$FFFE>
+Rigüler Capital Avenue<$FFFF>
+…His Imperial Majesty…<$FFFE>
+…Why do the Kaisers of<$FFFC>this land never seem to<$FFFC>last very long?<$FFFE>
+Maybe it runs in the<$FFFC>bloodline…<$FFFE>
+You don't suppose<$FFFC>someone murdered him?<$FFFE>
+Hey…<$FFFE>
+Sir!<$FFFE>
+What are you all<$FFFC>chattering about?<$FFFE>
+Umm…forgive us.<$FFFE>
+His Imperial Majesty has<$FFFC>passed away. Enough of<$FFFC>your idle chatter.<$FFFE>
+My humble apologies.<$FFFE>
+…Hmmph.<$FFFE>
 …<$FFFE>
-Rigüler Imperial Castle - Altemüller's Personal Room<$FFFF>
- Did you see that? The look on Paul's face during the time of the funeral procession.<$FFFE>
- Yes, sir.<$FFFE>
- Even though his father has passed away, he had that look of smug satisfaction. …Argh, what a bastard!<$FFFE>
- Excuse me.<$FFFE>
- You called me, Your Excellency Altemüller?<$FFFE>
-Thanks for responding to my summons. I've got something I would like to ask you.<$FFFE>
- Yes, milord, how might I help you?<$FFFE>
- You attended both my Father, the previous Kaiser, and Kaiser Kleist IV in their final days, correct?<$FFFE>
- That is correct.<$FFFE>
- …Then, let me be frank with you. What do you think the true cause of death was for both of them?<$FFFE>
+Altemüller's Private Room<$FFFF>
+Did you see it? The look<$FFFC>on Paul's face during<$FFFC>the funeral march.<$FFFE>
+Yes, sir.<$FFFE>
+His own father just<$FFFC>died, yet that look of<$FFFC>glee. …Honestly, what a<$FFFC>wretch!<$FFFE>
+Excuse me.<$FFFE>
+You called for me, Your<$FFFC>Excellency Altemüller?<$FFFE>
+Forgive the summons.<$FFFC>There's something I<$FFFC>need to ask you.<$FFFE>
+Yes, Excellency. What<$FFFC>would that be?<$FFFE>
+You attended the deaths<$FFFC>of both my father, the<$FFFC>late Kaiser, and Kaiser<$FFFC>Kleist IV, did you not?<$FFFE>
+That is correct.<$FFFE>
+…Then I will be blunt.<$FFFC>What do you make of<$FFFC>those two deaths?<$FFFE>
 …<$FFFE>
- Don't worry. Just tell us what you really think.<$FFFE>
- …Please forgive my fear.<$FFFE>
- I've tended many people to their final moments, as a healer. However, I don't believe those two honorable personages died from ordinary illnesses.<$FFFE>
- Their faces turned a purple color, their skin began to turn yellowish in places, yet whatever medicine I prepared, their bodies still grew weaker…<$FFFE>
- This is just a guess, but I believe someone might have poisoned them…<$FFFE>
- Poison?<$FFFE>
- I know no more, this is all just wild speculation.<$FFFE>
- Because of my shortcomings in study, it might have just been some unknown disease.<$FFFE>
- …Thanks so much. You may leave now.<$FFFE>
- …One warning, though. For your own safety, don't tell Prince Paul what we spoke of here.<$FFFE>
- Y…yes, sir… Then, if I might be excused.<$FFFE>
- So it looks like they were murdered by poison after all. …Paul, you bastard.<$FFFE>
- Your Excellency, what shall we do?<$FFFE>
- …No need to rush.<$FFFC>I won't stoop to anything as low as poison.<$FFFE>
- I'll rise by my own strength.<$FFFC>Until then, let him keep the throne warm.<$FFFE>
- And to do that, now we must capture Elthlead!<$FFFE>
- Sir!<$FFFE> 
+No need to worry. Just<$FFFC>tell me what you truly<$FFFC>think.<$FFFE>
+…With respect, then,<$FFFC>I'll speak.<$FFFE>
+As a healer I have seen<$FFFC>many die. But these<$FFFC>two deaths were no mere<$FFFC>illness.<$FFFE>
+Their faces went purple,<$FFFC>their skin sallow, and<$FFFC>no medicine could halt<$FFFC>their wasting away…<$FFFE>
+It is only a guess, but<$FFFC>I fear someone may have<$FFFC>poisoned them…<$FFFE>
+Poison?<$FFFE>
+No… it is only<$FFFC>a possibility, nothing<$FFFC>more.<$FFFE>
+Given how little I've<$FFFC>studied, it may be some<$FFFC>illness yet unknown.<$FFFE>
+…Well done. You may<$FFFC>withdraw now.<$FFFE>
+…One word of advice.<$FFFC>For your own good, don't<$FFFC>breathe a word of this<$FFFC>to Prince Paul.<$FFFE>
+Y-yes, sir… Then, I'll<$FFFC>be on my way.<$FFFE>
+So it was poison after<$FFFC>all. …That Paul.<$FFFE>
+Your Excellency, what<$FFFC>shall we do?<$FFFE>
+…No need to rush. I<$FFFC>won't stoop to anything<$FFFC>as low as poison.<$FFFE>
+I'll rise by my own<$FFFC>strength. Till then, he<$FFFC>can keep the throne warm<$FFFC>for me.<$FFFE>
+More to the point, now<$FFFC>we take Elthlead!<$FFFE>
+Sir!<$FFFE><$FFFF>

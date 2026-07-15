@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,105 +19,105 @@ Emerick<$FFFF>
 Jessica<$FFFF>
 Great Sage Fauvel<$FFFF>
 The Sealing Ceremony<$FFFF>
- Awaken, sacred powers of the divine one. Saintly Sword imbued with the noble spirit of a king, take away the power from the Sword of Darkness Alhazard and put it into everlasting slumber.<$FFFE>
- The malicious aura grows weaker…<$FFFE>
- *Huff*…<$FFFE>
- Was it a success?<$FFFE>
- Yes, it has been done.<$FFFE>
- Our next steps should be to separate Alhazard and the Rods that holds the seal and keep them far away from each other.<$FFFE>
- Furthermore, no one but Sophia or her descendants will be able to undo the spell.<$FFFE>
- …We must prevent a tragedy like Altemüller's from happening ever again.<$FFFE>
- So this would be the end of this story.<$FFFE>
- I gave in to anger and became susceptible to Alhazard's manipulation…<$FFFE>
- For that, I am ashamed of myself…<$FFFE>
- You mustn't be. It proves only the strength of your love towards Varna…<$FFFE>
- …That couldn't be…<$FFFE>
- In any case, what matters is that Alhazard is beyond the human grasp for now.<$FFFE>
- By the way, what will happen to Langrisser now?<$FFFE>
- Alhazard is no threat right now but couldn't Langrisser fall into the wrong hands as well?<$FFFE>
- That's why Langrisser's power will be sealed too, and kept safe by the Elthlead royal family.<$FFFE>
- …In that case, I shall serve the Elthlead royal house too.<$FFFE>
- So you won't return to the heavens?<$FFFE>
- Indeed. Alhazard is too dangerous to be left unwatched until a permanent solution is found.<$FFFE>
- Also maybe someday someone could try to get a hold of Langrisser.<$FFFE>
- Until those problems are solved, I will remain in the human world.<$FFFE>
- But that may take decades or even hundreds of years.<$FFFE>
- Hehe. You see, I am not truly human.<$FFFE>
- I command a magic that allows me to reincarnate endlessly while keeping my memories.<$FFFE>
- Oh my… To think that such a magnificent magic did exist…<$FFFE>
+Rod, crystal of magic.<$FFFC>Holy sword of a king,<$FFFC>steal Alhazard's power<$FFFC>and grant eternal sleep.<$FFFE>
+The aura is fading…<$FFFE>
+*Huff*…<$FFFE>
+Was it a success?<$FFFE>
+Yes, it has been done.<$FFFE>
+If we keep Alhazard and<$FFFC>the binding rod apart,<$FFFC>the seal will not be<$FFFC>broken so easily.<$FFFE>
+Only Sophia or her heirs<$FFFC>can undo that spell.<$FFFE>
+Then his tragedy need<$FFFC>never happen again.<$FFFE>
+That settles it.<$FFFE>
+I lost myself to anger.<$FFFC>Alhazard controlled me…<$FFFE>
+I am ashamed of myself…<$FFFE>
+It is done now. It only<$FFFC>goes to show how deeply<$FFFC>you cared for Varna.<$FFFE>
+…That couldn't be…<$FFFE>
+Either way, a blade so<$FFFC>demonic must never exist<$FFFC>among men.<$FFFE>
+By the way, what about<$FFFC>Langrisser?<$FFFE>
+Alhazard may be gone,<$FFFC>but misusing Langrisser<$FFFC>could do the same.<$FFFE>
+To prevent its misuse,<$FFFC>let us seal Langrisser's<$FFFC>power away, entrusted<$FFFC>to Elthlead's crown.<$FFFE>
+… Then I will also<$FFFC>serve Elthlead's royal<$FFFC>house.<$FFFE>
+Return to the heavens?<$FFFE>
+Yes, and someone might<$FFFC>still appear, seeking to<$FFFC>break Alhazard's seal.<$FFFE>
+And some fool may target<$FFFC>Langrisser as well.<$FFFE>
+Until both problems end,<$FFFC>I will stay here.<$FFFE>
+This may take centuries.<$FFFE>
+Hehe. Truth be told, I'm<$FFFC>not really human.<$FFFE>
+I know a spell to keep<$FFFC>my memories when reborn.<$FFFE>
+Oh my… I cannot even<$FFFC>begin to imagine such<$FFFC>magic…<$FFFE>
 …<$FFFE>
- What's the matter, Kirikaze?<$FFFE>
- Böser was defeated and Alhazard has been sealed. Therefore my task is completed.<$FFFE>
- Kirikaze. Do you really have to leave so urgently?<$FFFE>
- Couldn't you just stay…<$FFFE>
- No. There is still something I can return to. My new task will be to take care of the graves of my family and my master.<$FFFE>
- I am grateful for all you have done for me. And so…<$FFFE>
- Hm?<$FFFE>
- I would like you to have my most treasured sword.<$FFFE>
- You have grown into a fine man and led us to this victory. Take it as a token of my gratitude.<$FFFE>
- But, Kirikaze…<$FFFE>
- Please accept it. There is still much unrest left as a result of the terrible wars that just came to an end.<$FFFE>
- Use this sword in my stead to protect the peace we all have fought so hard for.<$FFFE>
+What is it, Kirikaze?<$FFFE>
+Böser has fallen, and<$FFFC>Alhazard is sealed. It<$FFFC>seems this one's task is<$FFFC>done.<$FFFE>
+Kirikaze, must you truly<$FFFC>leave us now?<$FFFE>
+Couldn't you just stay…<$FFFE>
+No. This one still has a<$FFFC>place to call home. I'll<$FFFC>tend my lord's grave,<$FFFC>and my kin's.<$FFFE>
+I owe you a great debt<$FFFC>indeed. And so…<$FFFE>
+Hm?<$FFFE>
+I ask that you accept<$FFFC>this beloved blade of<$FFFC>mine.<$FFFE>
+I've only made it this<$FFFC>far thanks to your fine<$FFFC>leadership. Let this be<$FFFC>a token of my thanks.<$FFFE>
+But, Kirikaze…<$FFFE>
+No, I insist you take<$FFFC>it. War still haunts all<$FFFC>these lands.<$FFFE>
+I cannot stay with you,<$FFFC>so please let my sword<$FFFC>guard the peace for me.<$FFFE>
 …<$FFFE>
- Won't you accept it?<$FFFE>
- In the lands of the east, one's sword is equal to one's life. Do you understand now what entrusting that sword to you means?<$FFFE>
- …<$FE3C>…<$FE3C>…<$FE3C>…<$FE3C>All right. I will gratefully make use of it.<$FFFE>
- Kirikaze's favorite sword, "Tiger Strike" was obtained!<$FFFE>
- …Well, I will take my leave then.<$FFFE>
- Farewell, Kirikaze.<$FFFE>
- Well then, shall we head back to Elthlead too?<$FFFE>
- …I will remain in the Empire. The people of this land had to endure great suffering.<$FFFE>
- From now it will be my task to rebuild this nation from scratch.<$FFFE>
- I see. Don't hesitate to ask for help if the need should arise. We will give you a hand any time.<$FFFE>
- You can count on the help of the people of Elthlead too.<$FFFE>
- Thank you. … …Till then.<$FFFE>
- W…Well…<$FFFE>
- What's the matter, Freya?<$FFFE>
- What are you going to do from here on…?<$FFFE>
- Maybe…you could help me to rebuild Barral…<$FFFE>
- What! You are going to go to Barral?<$FFFE>
- …Now that the Kingdom of Elthlead is restored I intend to go on a journey.<$FFFE>
- In the end we couldn't save Altemüller. If only I had been a little stronger, perhaps his heart could have been saved.<$FFFE>
- That's why I want to travel to become even stronger.<$FFFE>
-No matter how good my swordplay is, my mind is still inexperienced…<$FFFE>
- So…that's how it is. I understand. In that case I will be waiting for you.<$FFFE>
- Forgive me, Freya. One day I will return to you, I promise!<$FFFE>
- Yes, I will be there. No matter how long it takes, I will be waiting.<$FFFE>
- …In the meantime I will restore Barral. And once you return you will be amazed by its magnificence!<$FFFE>
- I will return to Barral along with Dios.<$FFFE>
- With my father gone, there is much that I too must do.<$FFFE>
- The princess has forgiven my desertion, and we now know that what happened to King Wilder was Velzeria's doing.<$FFFE>
- So then, I've got no reason left to keep running.<$FFFE>
- I see. If you need any kind of assistance let me know.<$FFFE>
- For now I am going back to Barral. There still is much confusion about the death of the royal family.<$FFFE>
- At least until the next ruler is decided I will try to keep order.<$FFFE>
- I see. Thanks for everything until now. Take care of yourself.<$FFFE>
- Same here, thanks for all you've done. See ya!<$FFFE>
- Now, there is still much disorder throughout the Empire as well that needs to be settled. Let us be on our way.<$FFFE>
- Yessir!<$FFFE>
- Yes…<$FFFE>
- Don't hesitate to ask for help if the need should arise. We will lend our strength to you any time.<$FFFE>
- Indeed. If we can move freely past borders and exchange openly, wars of invasion will surely become a thing of the past.<$FFFE>
- In that case I have a favor to ask of you. I want to know the true extent of your powers.<$FFFE>
- Doesn't that sound interesting right? Well, that's not a problem for me, but…<$FFFE>
- I'm in. Let's have that match, Altemüller.<$FFFE>
- I'll prepare the battlefield on my end. I'll be waiting.<$FFFE>
- But what if our strength's no match for yours? What then?<$FFFE>
-All creatures of Mensere hold powers beyond measure. But you've got to see for yourself.<$FFFE>
- Oh okay. Then there's nothing to worry about.<$FFFD>So go ahead, set whatever tough conditions you want.<$FFFE>
- Is that so? But that is what makes it so enjoyable too.<$FFFE>
- …I see. Then I shall keep that in mind too.<$FFFD>Until we meet again, <$F600><$0000>.<$FFFE>
- …Ha. Forgive me for troubling you.<$FFFE>
- …Farewell for now.<$FFFE>
- I as well, will be returning to Barral shortly. My father's death has undoubtedly caused much confusion.<$FFFE>
- General Dios. Let us be on our way.<$FFFE>
- Eh? …Did I just hear General…?<$FFFE>
- After all you just gave up the title of General because of my father's madness.<$FFFE>
- If that is the case then there is no need to stay off duty any longer. I formally request you to lend your abilities to the royal family once more.<$FFFE>
- Princess…<$FFFE>
- The unworthy Dios will do everything in his power to be of service to Your Majesty!<$FFFE>
- If everything is settled, we should depart soon too. Concerning Elthlead there are matters that need to be taken care of as well.<$FFFE>
- I agree.<$FFFE>
- The holy rod was obtained!<$FFFE>
- The dark rod was obtained!<$FFFE>
- Well then, everyone! Let us return to Elthlead!<$FFFE> 
+Won't you accept it?<$FFFE>
+In the East, a blade is<$FFFC>one's very life. Do<$FFFC>you see what it means to<$FFFC>entrust such a sword?<$FFFE>
+…<$FE3C>…<$FE3C><$FFFC>…<$FE3C>…<$FE3C>I see.<$FFFC>I'll use it gratefully.<$FFFE>
+Acquired Kirikaze's<$FFFC>prized blade, Kotetsu!<$FFFE>
+…Then I take my leave.<$FFFE>
+Farewell, Kirikaze.<$FFFE>
+Shall we go back too?<$FFFE>
+…I will remain in the<$FFFC>Empire. The people have<$FFFC>suffered greatly through<$FFFC>all this.<$FFFE>
+My duty now is to help<$FFFC>rebuild the Empire with<$FFFC>its people.<$FFFE>
+I see. If anything<$FFFC>happens, call on me. I<$FFFC>will lend my strength,<$FFFC>so do not hesitate.<$FFFE>
+The people of Elthlead<$FFFC>will lend their aid as<$FFFC>well.<$FFFE>
+…I am sorry. Truly I<$FFFC>am. …… …Then, this<$FFFC>is farewell.<$FFFE>
+W-Well…<$FFFE>
+What is it, Freya?<$FFFE>
+What will you do now…?<$FFFE>
+Well… if you'd like,<$FFFC>I had hoped you might<$FFFC>help me rebuild Barral…<$FFFE>
+What?! You're going off<$FFFC>to Barral too?<$FFFE>
+Once Elthlead is whole<$FFFC>again, I will set out on<$FFFC>a journey.<$FFFE>
+In the end, we couldn't<$FFFC>save Altemüller. If only<$FFFC>I were stronger, I might<$FFFC>have saved his heart.<$FFFE>
+So I'll keep traveling<$FFFC>and training a while.<$FFFE>
+A skilled blade won't<$FFFC>make an immature heart<$FFFC>full-fledged…<$FFFE>
+So… that is just like<$FFFC>you. I understand. I'll<$FFFC>be waiting.<$FFFE>
+I'm sorry, Freya. But I<$FFFC>will come back to you, I<$FFFC>promise!<$FFFE>
+Yes. I'll wait. However<$FFFC>long it takes, I'll wait<$FFFC>for you and you alone.<$FFFE>
+I will rebuild Barral<$FFFC>before you return.<$FFFC>It will amaze you!<$FFFE>
+I'll return to Barral<$FFFC>with Dios.<$FFFE>
+With Father gone now, I<$FFFC>too have things I must<$FFFC>do.<$FFFE>
+The princess forgave my<$FFFC>desertion, and now we<$FFFC>know King Wilder's fate<$FFFC>was Velzeria's doing.<$FFFE>
+Then I have no reason<$FFFC>to run anymore.<$FFFE>
+I see. Whenever you're<$FFFC>short of hands, just say<$FFFC>the word.<$FFFE>
+I'll return to Barral<$FFFC>for now.<$FFFC>With the royals dead,<$FFFC>Barral must be in chaos.<$FFFE>
+I'll stay until the next<$FFFC>king is named, to keep<$FFFC>the peace.<$FFFE>
+I see. My thanks for all<$FFFC>you've done. Take good<$FFFC>care now.<$FFFE>
+Same to you, my friend.<$FFFC>My thanks for all of it.<$FFFC>See you around!<$FFFE>
+Now then, we must set<$FFFC>the troubled Empire to<$FFFC>rights. It's time we got<$FFFC>going.<$FFFE>
+Yessir!<$FFFE>
+Yes…<$FFFE>
+Should anything happen,<$FFFC>never hesitate to ask.<$FFFC>My strength is yours at<$FFFC>any time.<$FFFE>
+Yes. If borders fell and<$FFFC>people mingled freely,<$FFFC>wars of conquest would<$FFFC>end.<$FFFE>
+Then I have one request.<$FFFC>If I may, I'd like to<$FFFC>face you all at your<$FFFC>full strength.<$FFFE>
+That does sound amusing.<$FFFC>I have no objection at<$FFFC>all, but…<$FFFE>
+I'm in. Then<$FFFC>let's have our match,<$FFFC>Altemüller.<$FFFE>
+I shall ready the field<$FFFC>of battle myself. I will<$FFFC>be waiting.<$FFFE>
+But hey, what if we're<$FFFC>no match for you at all?<$FFFC>What then?<$FFFE>
+You hold a strange power<$FFFC>called stage select.<$FFFC>Use it, and all is well.<$FFFE>
+Oh, all right. Then no<$FFFC>worries at all.<$FFFD>So set us whatever hard<$FFFC>terms you like.<$FFFE>
+Indeed, that suits me.<$FFFC>It will make our match<$FFFC>all the more enjoyable.<$FFFE>
+…I see. I'll give that<$FFFC>some thought as well.<$FFFD>Until the day we meet,<$FFFC><$F600><$0000>.<$FFFE>
+…Heh. My apologies for<$FFFC>the trouble.<$FFFE>
+…Farewell for now.<$FFFE>
+We ought to head back to<$FFFC>Barral too. With Father<$FFFC>gone, the kingdom is in<$FFFC>chaos.<$FFFE>
+General Dios. Shall we<$FFFC>be going?<$FFFE>
+Huh? …Did you just say<$FFFC>'General'…?<$FFFE>
+You abandoned your post<$FFFC>and fled because Father<$FFFC>had gone mad, didn't<$FFFC>you?<$FFFE>
+Then there is no longer<$FFFC>any need to run. Please<$FFFC>lend your power to our<$FFFC>royal house.<$FFFE>
+Princess…<$FFFE>
+Unworthy as I am, this<$FFFC>Dios will serve Your<$FFFC>Majesty with all the<$FFFC>strength he can muster!<$FFFE>
+Then we too should be<$FFFC>returning. Elthlead is<$FFFC>very nearly whole again.<$FFFE>
+I agree.<$FFFE>
+Acquired the Holy Rod!<$FFFE>
+Acquired the Dark Rod!<$FFFE>
+Well then, everyone!<$FFFC>Let's go home to<$FFFC>Elthlead!<$FFFE><$FFFF>

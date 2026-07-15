@@ -156,12 +156,20 @@ class TestShiftTrack2MSF:
 # Integration test against the actual build output
 # ---------------------------------------------------------------------------
 
-BUILD_TRACK01 = PROJECT_ROOT / 'build' / 'track01.bin'
-BUILD_TRACK02 = PROJECT_ROOT / 'build' / 'track02.bin'
+# build.py emits a self-contained folder named after the .cue, so the tracks
+# live at build/<cue-stem>/track0N.bin. Fall back to the legacy flat layout.
+def _find_build_track(name: str):
+    nested = sorted((PROJECT_ROOT / 'build').glob(f'*/{name}'))
+    if nested:
+        return nested[0]
+    return PROJECT_ROOT / 'build' / name
+
+BUILD_TRACK01 = _find_build_track('track01.bin')
+BUILD_TRACK02 = _find_build_track('track02.bin')
 
 @pytest.mark.skipif(
     not (BUILD_TRACK01.exists() and BUILD_TRACK02.exists()),
-    reason='build/track01.bin or build/track02.bin not present (run build.py first)',
+    reason='build track01.bin/track02.bin not present (run build.py first)',
 )
 class TestBuildTrack2MSFAligned:
     """End-to-end: after build.py runs, build/track02.bin must have MSF

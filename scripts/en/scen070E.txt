@@ -5,31 +5,31 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-Imperial First Prince, Paul<$FFFF>
+First Prince Paul<$FFFF>
 Close Associate<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-15<$FFFC><$0000><$0000><$0000><$0000>The Sword of Decimation<$0000><$0000><$0000><$0000><$FFFE>
- Dios, who has deserted from the Barral Army, has joined the party as they hurry towards the ruins of Estool, where that blade from a foreign country, the Sword of Decimation, now sleeps.<$FFFE>
- As so many causes coalesce into one, history is certain to be made…<$FFFE>
- *Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Loss of the Sword of Decimation<$FFFE>
-Rigüler Castle - Paul's Personal Quarters<$FFFF>
- Hohoho! So that ever victorious, undefeated Altemüller is hard pressed in battle! My heart pounds in ecstasy!<$FFFE>
- Paul, Your Eminence. It is most gratifying indeed.<$FFFE>
- Yeah.<$FFFC>Lately his exploits have been standing out far too much.<$FFFE>
- With his father gone and my father on the throne, I finally became first in line to inherit the Imperial Kaiserdom.<$FFFE>
- And yet, Father trusts Altemüller more than his own son!<$FFFE>
- Since he so rarely blunders, though, he always gets on my nerves.<$FFFE>
- It's been said that General Geier also holds little love for that damned upstart.<$FFFE>
- …What do you think?<$FFFE>
- Hmm…that's an interesting bit of information. I wonder if we can use him.<$FFFE>
- One way or another, winning this war for the Empire will be the last thing that fool Altemüller ever does!<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐１５<$FFFC><$0000><$0000><$0000><$0000>The Sword of Decimation<$0000><$0000><$0000><$0000><$FFFE>
+Dios, hunted by Barral, joined<$FFFC>them, and the party hurried to<$FFFC>the Estool ruins, where the<$FFFC>Decimation Sword, brought<$FFFC>from afar long ago, now sleeps.<$FFFE>
+As each pursued their<$FFFC>own designs, history had surely<$FFFC>begun to move…<$FFFE>
+*Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Decimation Sword lost<$FFFE>
+Rigüler Castle, Paul's Room<$FFFF>
+Hohoho! So even the<$FFFC>undefeated Altemüller<$FFFC>struggles now! What a<$FFFC>satisfying sight!<$FFFE>
+Prince Paul. You seem<$FFFC>most pleased.<$FFFE>
+Yeah. Lately his<$FFFC>exploits have stood out<$FFFC>far too much.<$FFFE>
+With his father dead and<$FFFC>mine now Kaiser, I am<$FFFC>first in line for the<$FFFC>throne at last.<$FFFE>
+And yet Father trusts<$FFFC>Altemüller more than his<$FFFC>own son!<$FFFE>
+If he would blunder now<$FFFC>and then, I might rest a<$FFFC>little easier.<$FFFE>
+I hear General Geier<$FFFC>holds no love for that<$FFFC>brat either.<$FFFE>
+…What do you think?<$FFFE>
+Hmm… interesting news.<$FFFC>He may yet be of use.<$FFFE>
+One way or another, the<$FFFC>moment the Empire wins<$FFFC>this war will be that<$FFFC>fool's last!<$FFFE><$FFFF>

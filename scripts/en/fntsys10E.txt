@@ -7,9 +7,9 @@ Ice Blade<$FFFF>
 Raijin Ken<$FFFF>
 Hrunting<$FFFF>
 Gram<$FFFF>
-The Lawnmower<$FFFF>
+Kusanagi<$FFFF>
 Excalibur<$FFFF>
-Sword of Decimation<$FFFF>
+Decimation Sword<$FFFF>
 Langrisser<$FFFF>
 Alhazard<$FFFF>
 Hand Axe<$FFFF>
@@ -21,7 +21,7 @@ Knife<$FFFF>
 Main Gauche<$FFFF>
 Gladius<$FFFF>
 Kryss<$FFFF>
-The Painless<$FFFF>
+Kunai<$FFFF>
 Bamboo Spear<$FFFF>
 Iron Spear<$FFFF>
 Trident<$FFFF>
@@ -36,7 +36,7 @@ Morningstar<$FFFF>
 Iron Dumbbell<$FFFF>
 Mithril Hammer<$FFFF>
 Dagda Club<$FFFF>
-Mjollnir<$FFFF>
+Mjolnir<$FFFF>
 Cypress Staff<$FFFF>
 Staff<$FFFF>
 Wand<$FFFF>
@@ -44,7 +44,7 @@ Crystal Rod<$FFFF>
 Wizard Rod<$FFFF>
 Ice Staff<$FFFF>
 Staff of Life<$FFFF>
-Staff of the Dragon Lord<$FFFF>
+Dragonlord Staff<$FFFF>
 Holy Rod<$FFFF>
 Dark Rod<$FFFF>
 Wooden Bow<$FFFF>
@@ -53,17 +53,17 @@ Longbow<$FFFF>
 Crossbow<$FFFF>
 Elven Bow<$FFFF>
 Sleep Bow<$FFFF>
-Harding<$FFFF>
+Hadding<$FFFF>
 Artemis Bow<$FFFF>
-Sixteen Nights<$FFFF>
-Chrysanthemum Cut<$FFFF>
-Tiger Strike<$FFFF>
+Izayoi<$FFFF>
+Kiku-ichimonji<$FFFF>
+Kotetsu<$FFFF>
 Masamune<$FFFF>
 Muramasa<$FFFF>
 Lance<$FFFF>
 Mithril Lance<$FFFF>
 Bloody Lance<$FFFF>
-Lance of the Dragon Knight<$FFFF>
+Dragon Lance<$FFFF>
 Flame Lance<$FFFF>
 Zuftaf<$FFFF>
 Plate Armor<$FFFF>
@@ -85,12 +85,12 @@ Robe<$FFFF>
 Vaseline<$FFFF>
 Magical Bikini<$FFFF>
 Mirage Robe<$FFFF>
-Feathered Robe of the Goddess<$FFFF>
-Vestments of Darkness<$FFFF>
+Celestial Robe<$FFFF>
+Dark Vestments<$FFFF>
 Goddess Dress<$FFFF>
 Small Shield<$FFFF>
 Buckler<$FFFF>
-Protection Bracelet<$FFFF>
+Guard Bracelet<$FFFF>
 Power Bracelet<$FFFF>
 Miracle Bracelet<$FFFF>
 Large Shield<$FFFF>
@@ -112,28 +112,28 @@ Egil Helm<$FFFF>
 Orb<$FFFF>
 Magic Circle<$FFFF>
 Talisman<$FFFF>
-Gjaller Horn<$FFFF>
-Crest of the Lord of Immortals<$FFFF>
+Gjallarhorn<$FFFF>
+Immortal Crest<$FFFF>
 Gleipnir<$FFFF>
 Angel Feather<$FFFF>
 Blood Pact<$FFFF>
 Fire Orb<$FFFF>
-Talisman of the Holy King<$FFFF>
+Holy Talisman<$FFFF>
 Cross<$FFFF>
 Necklace<$FFFF>
 Amulet<$FFFF>
 Protect Ring<$FFFF>
 Power Ring<$FFFF>
-Star Coin<$FFFF>
+Star Earring<$FFFF>
 Angel Ring<$FFFF>
-Ring of the Stone Spirit<$FFFF>
-Megingjoro<$FFFF>
+Spiritstone Ring<$FFFF>
+Megingjardar<$FFFF>
 Draupnir<$FFFF>
-Ring of Lauren<$FFFF>
-Necklace of the Hegemon<$FFFF>
+Laurin's Ring<$FFFF>
+Hegemon Necklace<$FFFF>
 Crystal Ankh<$FFFF>
 Leg Garter<$FFFF>
-Grieves<$FFFF>
+Greaves<$FFFF>
 Speed Boots<$FFFF>
 Magic Herb<$FFFF>
 Runestone<$FFFF>
@@ -145,30 +145,30 @@ Wisdom Fruit<$FFFF>
 Power Fruit<$FFFF>
 Strength Fruit<$FFFF>
 Protection Fruit<$FFFF>
-Secret Stone of the Hero<$FFFF>
+Hero's Stone<$FFFF>
 Knight Crest<$FFFF>
 Ancient Egg<$FFFF>
-Book of Sukasaha<$FFFF>
+Scathach Tome<$FFFF>
 Heavenly Wings<$FFFF>
-Book of Mysteries<$FFFF>
-Heart of the Deceased<$FFFF>
-Water of the Demon World<$FFFF>
+Secret Manual<$FFFF>
+Dead Man's Heart<$FFFF>
+Demon Water<$FFFF>
 Ghost Blood<$FFFF>
-Demon Dragon Stone<$FFFF>
-Book of White Magic<$FFFF>
+Dark Dragonstone<$FFFF>
+White Grimoire<$FFFF>
 Holy Symbol<$FFFF>
-Tome of Black Magic<$FFFF>
+Black Grimoire<$FFFF>
 Magic Symbol<$FFFF>
-Apollo's Arrow<$FFFF>
+Apollo Arrow<$FFFF>
 Destiny Arrow<$FFFF>
-Mermaid's Tear<$FFFF>
+Mermaid Tear<$FFFF>
 Divine Blessing<$FFFF>
 Earth Rune<$FFFF>
 Wind Rune<$FFFF>
 Light Rune<$FFFF>
 Heaven Rune<$FFFF>
 Water Rune<$FFFF>
-Spirit Rune<$FFFF>
+Thunder Rune<$FFFF>
 Forest Rune<$FFFF>
 Fire Rune<$FFFF>
 Ghost Rune<$FFFF>

@@ -1,0 +1,9 @@
+{
+  "_doc": "Registry of in-world DIARY / letter entries. These are paged narration (driven by <$FFFD> page breaks), NOT 12x4 dialogue balloons. The analyzer classifies each listed entry with semantic_subtype 'diary' and the HEROINE_DIARY profile (12 tiles wide, SCROLLS): the 12-tile line width is enforced but a page may run past a fixed line-window without a balloon_line_overflow error, and the owning scen is flagged hasDiary. Box height is NOT RE-confirmed (the diaries may be unreachable content per Akari_Dawn's translation guide); the JP holds up to 56 full-width tiles per page, which rules out the 48-tile 12x4 box. Add a scen + entry list here when a new diary/letter surfaces.",
+  "diaries": {
+    "scen005": {
+      "entries": [246, 247, 248, 249],
+      "note": "Heroine diaries at the tail of the Scenario-4 battle, JP-paired in scen005J: [246]+[247] Tiaris (genki, refers to herself as 'Tia'), [248] Liffany (わたくし refined, 4x player-name token), [249] Luna (terse report style). Re-translated fresh from JP 2026-07-02."
+    }
+  }
+}

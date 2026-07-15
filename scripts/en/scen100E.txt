@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,15 +18,15 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-30<$FFFC><$0000><$0000><$0000><$0000>Behind the Mask<$0000><$0000><$0000><$0000><$FFFE>
- Although Böser was defeated successfully, the sealing of Alhazard was not completed. At Varna's death, Altemüller takes away Alhazard in a rage of fury to exact his revenge on the Rigüler Empire. As the chase after Altemüller is about to commence,<$FFFE>
- a report of an attack from the Barral Kingdom comes in.<$FFFE>
- Being startled by the unfolding events, <$F600><$0000> decides that protecting the citizens of Neref is a more urgent matter at hand.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Destruction of the Floodgate<$FFFE>
-Rigüler Castle - Audience Hall<$FFFF>
- How! Can this really be true!?<$FFFE>
- It is. Although it is rather strange, since I had not few men searching for him…<$FFFD>In his condition he shouldn't have come far.<$FFFE>
- It is quiet unusual for you to fail me so, Field Marshal Geier.<$FFFE>
- You may want to consider that Altemüller has allied with the Demons of Velzeria.<$FFFE>
- What!? He conspires with demons? This makes him an open enemy to the Empire!<$FFFD>Field Marshal Geier I hereby order you formally! Obliterate the traitor Altemüller!<$FFFD>This shall be his punishment for befriending demons and betraying the empire!<$FFFE>
- As you wish.<$FFFD>By all means, I will present his head to you my majesty!<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐３０<$FFFC><$0000><$0000><$0000><$0000>Behind the Mask<$0000><$0000><$0000><$0000><$FFFE>
+Böser was defeated and the demon<$FFFC>sword sealed for a time. But<$FFFC>Altemüller, enraged by Varna's<$FFFC>death, made off with Alhazard.<$FFFE>
+The party moved to pursue at<$FFFC>once, but word came that the<$FFFC>Barral army had resumed its<$FFFC>advance and was raiding a border<$FFFC>town.<$FFFE>
+<$F600><$0000> and the others<$FFFC>put the citizens' lives first<$FFFC>and headed for Nelfas, a<$FFFC>riverside town, to drive off the<$FFFC>Barral army.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Destruction of the Floodgate<$FFFE>
+Rigüler Castle, Audience Hall<$FFFF>
+What!? Is this really<$FFFC>true!?<$FFFE>
+It's true. I thought it<$FFFC>odd and searched with a<$FFFC>small detachment…<$FFFD>But at the last moment,<$FFFC>I failed to finish him.<$FFFE>
+It's quite unusual for<$FFFC>you to fail me, Field<$FFFC>Marshal Geier.<$FFFE>
+I must also report that<$FFFC>Altemüller has allied<$FFFC>with the Demons of<$FFFC>Velzeria.<$FFFE>
+What!? He conspires<$FFFC>with demons? This makes<$FFFC>him an open enemy to the<$FFFC>Empire!<$FFFD>Field Marshal Geier,<$FFFC>I hereby order you<$FFFC>formally! Obliterate the<$FFFC>traitor Altemüller!<$FFFD>This will<$FFFC>be his punishment for<$FFFC>befriending demons and<$FFFC>betraying the empire!<$FFFE>
+As you wish.<$FFFD>By all means, I will<$FFFC>present his head to you,<$FFFC>Your Majesty!<$FFFE><$FFFF>

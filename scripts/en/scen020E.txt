@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -22,154 +22,154 @@ Airship pilot<$FFFF>
 Thief<$FFFF>
 •Defeat Bortz<$FFFE>
 •Death of <$F600><$0000><$FFFC>•Bortz arrives at the airship<$FFFE>
-Boarding Pad - Near the Larcussia Border Defense Base<$FFFF>
- Bortz! You won't get away this time!<$FFFE>
- You took your sweet time. Almost all of our troops has been evacuated by now.<$FFFE>
- He isn't called one of the four great generals for nothing. They coped well with the situation at hand.<$FFFE>
- General. The preparations for the last airship's lift off are complete.<$FFFE>
- Yeah, got it.<$FFFC>That's how it is.<$FFFC>You kids had better go home quietly.<$FFFE>
- Damn! Talking like he runs the place…<$FFFE>
- Sir <$F600><$0000>. We should make it our goal to capture that airship.<$FFFE>
- With an airship we could reach Larcussia in no time.<$FFFE>
- I get it! If we conquer it we may be able to save Lewin's Father.<$FFFE>
- Alright. Bring down General Bortz and conquer the airship!<$FFFE>
- We won't allow that.<$FFFC>We'll protect both the General and the airship!<$FFFE>
- It would be advisable to take out the archers and spearmen first.<$FFFD>After that our flying and cavalry units can take on the chase of General Bortz.<$FFFE>
- You're right. It wouldn't do us any good storming their defensive lines rashly.<$FFFE>
- If the spearmen and archers aren't taken care of our flying and cavalry units will have a hard time…<$FFFE>
- The general's reached the boarding pad.<$FFFD>Maybe we should push a bit and give chase.<$FFFE>
- You're right.<$FFFC>At this rate, he'll get away.<$FFFE>
- Maybe we should push a little harder.<$FFFC>At this rate, he'll get away.<$FFFE>
- We have wasted to much time dealing with the common troops, their general is escaping!<$FFFD>Our last chance is to push through their lines. If we fail now we won't make it to Larcussia in time!<$FFFE>
- Yeah. We can't let that happen.<$FFFE>
- There's little time left. We need to break through the enemy lines to make it.<$FFFE>
- Crap! The wounds I received during the last fight started hurting again!<$FFFD>This is as fast as I can walk.<$FFFE>
- Please don't do anything reckless.<$FFFD>We are escorting you, so leave it to us…<$FFFE>
- Please don't do anything reckless.<$FFFD>We will stall the enemy as long as we can…<$FFFE>
- Sorry for being such a bother…<$FFFE>
- No point holding back the enemy here any longer.<$FFFD>Time to fall back and escort the General…<$FFFE>
- Charge! Let's buy some time for General Bortz!<$FFFE>
- Now it's our turn. Everyone, move out!<$FFFE>
- Hihi, I will roast them with my magic.<$FFFE>
- Well then, let's be outta here.<$FFFE>
- We will cover your retreat!<$FFFE>
- General, please focus on commanding us.<$FFFE>
- Thanks, I really owe you.<$FFFE>
- What an awkward terrain for pursuit…<$FFFE>
- Tough place to give chase, this.<$FFFE>
- Usually a wide open space is needed for an airship to maneuver.<$FFFD>But since we're in a mountainous region this conditions hardly can be met.<$FFFD>The only place to set up a docking port is that plateau before us.<$FFFE>
- Oh. You really know your stuff.<$FFFD>It's almost frightening.<$FFFE>
- Hurry to the airship, General Bortz. We will hold off the enemy.<$FFFE>
- Just be careful.<$FFFE>
- Yes, sir!<$FFFE>
- General! We will take over from here!<$FFFD>Don't be tempted to enter battle yourself, we need you alive!<$FFFE>
- If things get too dangerous, you fall back right away! Got it!<$FFFE>
- General! Don't let my fighting be in vain!<$FFFE>
- If things get too dangerous, you fall back right away! Got it!<$FFFE>
- Hurry up, General!<$FFFE>
- Okay okay.<$FFFE>
- Blasted, we didn't make it in time!<$FFFE>
- Phew. I am here at last.<$FFFE>
- Glad you made it in one piece.<$FFFE>
- So we got away clean…<$FFFE>
- Hey now, everyone come quickly!<$FFFE>
- Please go first, general.<$FFFE>
- Are you crazy!? You have to get outta here!<$FFFE>
- I am afraid that this is the one time we cannot listen to your orders, general. Please leave while we hold off the enemy.<$FFFD>You! Get that airship moving!<$FFFE>
- Understood. We're off then.<$FFFE>
- Acting without orders like that! Stop this instant!<$FFFE>
- Everyone, I'm sorry.<$FFFC>If I'd been a little stronger, none of this would've happened.<$FFFE>
- The airship took off.<$FFFE>
- I'll surely avenge you all…<$FFFE>
-Since we haven't got an airship there's no way to save Lord Raymond…<$FFFE>
- Damn! They cut me off!<$FFFD>Then I'll force my way through!<$FFFE>
- Looks like we stopped the first pursuit.<$FFFC>Alright, let's rush straight to the boarding pad!<$FFFE>
- Understood!<$FFFE>
- Somehow I managed to make it this far…<$FFFE>
- I would say it's due to the frantic effort your subordinates are putting up…<$FFFE>
- No doubt about it… I am truly blessed having such fine subordinates.<$FFFD>Now hurry everyone and join up!<$FFFE>
- Everyone! Once I'm here, I'm safe!<$FFFD>All troops cease fighting and fall back to the airship!<$FFFC>Then we'll meet up with the main body!<$FFFE>
- Don't worry about us just make sure to board the airship. We will follow this instant.<$FFFE>
- Roger!<$FFFE>
- Just a little further… I have to move on for my subordinates who gave everything to me!<$FFFE>
- You come across a hill on which some rocks are piled up and a huge hole gasps between them.<$FFFD>After you stare into it for a while a voice can be heard from somewhere.<$FFFD>"What is it you desire the most?"<$FFFE>
- What do you answer?<$FFFE>
+Larcussia Defense Base Pad<$FFFF>
+Bortz! I won't let you<$FFFC>get away now!<$FFFE>
+You're late. Thanks to<$FFFC>that, most of my men got<$FFFC>clean away.<$FFFE>
+No wonder they call him<$FFFC>one of the Empire's Four<$FFFC>Generals. He's strong,<$FFFC>and quick to react.<$FFFE>
+The last airship's ready<$FFFC>for takeoff, General.<$FFFE>
+Yeah, yeah, I hear you.<$FFFC>So that's the way of it.<$FFFC>You kids had best just<$FFFC>turn around and go home.<$FFFE>
+Damn it! He just keeps<$FFFC>running his mouth…<$FFFE>
+Lord <$F600><$0000>.<$FFFC>Let us take that enemy<$FFFC>airship for our own!<$FFFE>
+With an airship at hand,<$FFFC>we could reach Larcussia<$FFFC>in no time at all.<$FFFE>
+I get it! Then it'll be<$FFFC>easier to save Lewin's<$FFFC>father too.<$FFFE>
+All right. Let's defeat<$FFFC>General Bortz and take<$FFFC>that airship!<$FFFE>
+We won't allow that to<$FFFC>happen! We will guard<$FFFC>both the General and the<$FFFC>airship to the end!<$FFFE>
+First, we take out their<$FFFC>spearmen and archers, so<$FFFC>our cavalry and fliers<$FFFC>can advance in safety.<$FFFD>Even then, we will still<$FFFC>have time to chase down<$FFFC>General Bortz himself.<$FFFE>
+Right. Their formation<$FFFC>is far too tight to just<$FFFC>rush through.<$FFFE>
+If we don't deal with<$FFFC>the spears and archers<$FFFC>first, our cavalry and<$FFFC>fliers can't move…<$FFFE>
+It seems the General has<$FFFC>reached the pad.<$FFFD>It may be best to push<$FFFC>a little and chase him<$FFFC>down.<$FFFE>
+Indeed. If we let this<$FFFC>go on much longer, he<$FFFC>will slip away from us.<$FFFE>
+We may have to push much<$FFFC>harder, or at this rate<$FFFC>he'll slip away.<$FFFE>
+If we waste much more<$FFFC>time, the General will<$FFFC>escape!<$FFFD>Let's force our way on<$FFFC>through, or we'll never<$FFFC>take that airship!<$FFFE>
+Got it, I hear you loud<$FFFC>and clear.<$FFFE>
+There is no time left<$FFFC>now. We force the troops<$FFFC>through, or we lose the<$FFFC>airship.<$FFFE>
+Damn it all! This wound<$FFFC>from the last battle is<$FFFC>throbbing!<$FFFD>If not for that, I'd be<$FFFC>moving a lot faster!<$FFFE>
+Please don't overdo it.<$FFFD>We are your escorts…<$FFFE>
+General, please do not<$FFFC>push yourself too hard,<$FFFC>sir.<$FFFD>We'll hold the enemy off<$FFFC>as long as we can…<$FFFE>
+Sorry…<$FFFE>
+No point holding them<$FFFC>here any longer.<$FFFD>It's time we fell back<$FFFC>to guard the General…<$FFFE>
+Charge, all of you! Buy<$FFFC>what time you can for<$FFFC>General Bortz!<$FFFE>
+It's finally our turn<$FFFC>now. Everyone, move out!<$FFFE>
+Heh, my magic will hold<$FFFC>them right where they<$FFFC>stand.<$FFFE>
+Well then, time we all<$FFFC>slipped out of here too.<$FFFE>
+We'll guard the rear!<$FFFE>
+General, please focus<$FFFC>on command.<$FFFE>
+Thanks. I owe you.<$FFFE>
+This terrain makes the<$FFFC>chase an awkward one…<$FFFE>
+This is rough ground for<$FFFC>a pursuit.<$FFFE>
+An airship pad normally<$FFFC>needs wide, open ground.<$FFFD>But since this area is<$FFFC>mountainous, it's far<$FFFC>too cramped for a ship<$FFFC>to land.<$FFFD>So instead, they raised<$FFFC>that pad up high, to put<$FFFC>the airships to use.<$FFFE>
+Oh. Clever lady.<$FFFD>I'm impressed.<$FFFE>
+General Bortz, make for<$FFFC>the airship. We will buy<$FFFC>you the time.<$FFFE>
+Just be careful.<$FFFE>
+Yes, sir!<$FFFE>
+General! We will take it<$FFFC>from here!<$FFFD>Don't let our fight be<$FFFC>for nothing!<$FFFE>
+If it turns dangerous,<$FFFC>run at once, you hear!<$FFFC>Are we clear?<$FFFE>
+I beg you, General! Do<$FFFC>not let my struggle here<$FFFC>go to waste!<$FFFE>
+If it turns dangerous,<$FFFC>run at once, you hear!<$FFFC>Are we clear?<$FFFE>
+Hurry up, General!<$FFFE>
+Okay okay.<$FFFE>
+Blast, too late!<$FFFE>
+Phew. I am here at last.<$FFFE>
+You saved me.<$FFFE>
+So we got away clean…<$FFFE>
+Come on, hurry up!<$FFFE>
+General, go on ahead.<$FFFE>
+You fool! Hurry up and<$FFFC>get over here!<$FFFE>
+Even under your orders,<$FFFC>General, I cannot obey<$FFFC>that one. Go, while we<$FFFC>hold them here.<$FFFD>You there! Launch the<$FFFC>ship!<$FFFE>
+Understood. Departing<$FFFC>now.<$FFFE>
+Do not act on your own!<$FFFC>Stop!<$FFFE>
+I'm sorry, everyone. If<$FFFC>only I'd been a little<$FFFC>stronger, none of this<$FFFC>would have happened.<$FFFE>
+The airship took off.<$FFFE>
+I will avenge you all…<$FFFE>
+If we cannot seize that<$FFFC>airship, there will be<$FFFC>no way for us to save<$FFFC>Lord Raymond…<$FFFE>
+Damn! They got ahead of<$FFFC>me!<$FFFD>Then I'll just smash my<$FFFC>way through!<$FFFE>
+Looks like we stopped<$FFFC>the first wave. Good.<$FFFC>Now straight on to the<$FFFC>boarding pad!<$FFFE>
+Understood!<$FFFE>
+I made it to the dock…<$FFFE>
+This too is all thanks<$FFFC>to your men's desperate<$FFFC>fight, sir.<$FFFE>
+Yeah, you're right… I<$FFFC>have been blessed with<$FFFC>such fine men under me.<$FFFD>So their fight is not in<$FFFC>vain, we must hurry!<$FFFE>
+Everyone! If I've made<$FFFC>it this far, I'm safe<$FFFC>now!<$FFFD>Break off the fight and<$FFFC>board the ship! We'll<$FFFC>rejoin the main force<$FFFC>together!<$FFFE>
+Do not worry about us.<$FFFC>Please board the airship<$FFFC>first. We will be right<$FFFC>behind you.<$FFFE>
+Roger!<$FFFE>
+Just a little farther…<$FFFC>For the men who died,<$FFFC>I will escape!<$FFFE>
+At the very center of<$FFFC>the ring of stones lies<$FFFC>a small mound of earth.<$FFFD>As you quietly gaze at<$FFFC>it, a voice rises from<$FFFC>deep beneath the ground.<$FFFD>What is it you desire<$FFFC>most of all?<$FFFE>
+What do you answer?<$FFFE>
 Love<$FFFE>
 Power <$FFFE>
 Courage <$FFFE>
- "Your wish shall begranted."<$FFFE>
- "Your wish shall be granted."<$FFFE>
- Demon Dragon Stone was obtained!<$FFFE>
- "Your wish shall be granted."<$FFFE>
-<$F600><$05DA>'s ATK correction rose by 2!<$FFFD><$F600><$05DA>'s DEF correction rose by 2!<$FFFE>
- A Magical Sign is drawn on the center of the bridge. Upon inspecting it closely you notice that one stone is lose.<$FFFE>
- What do you do?<$FFFE>
+Your wish is granted.<$FFFE>
+Your wish is granted.<$FFFE>
+Acquired the Dark<$FFFC>Dragonstone!<$FFFE>
+Your wish is granted.<$FFFE>
+<$F600><$0000>'s ATK<$FFFC>modifier rose by 2!<$FFFD><$F600><$0000>'s DEF<$FFFC>modifier rose by 2!<$FFFE>
+A magic circle is drawn<$FFFC>at the bridge center.<$FFFC>A closer look reveals<$FFFC>one raised stone.<$FFFE>
+What do you do?<$FFFE>
 Pull it out <$FFFE>
 Push it in<$FFFE>
 Do nothing<$FFFE>
- The stone comes off easily. Underneath you discover a hole containing a ragged book.<$FFFE>
- Tome of black magic was obtained!<$FFFE>
-The stone got stuck and can't be moved any longer…<$FFFE>
- After a while the stone sinks down into the ground and couldn't be moved any longer…<$FFFE>
- I still… have things I must do…<$FFFE>
- Papa…<$FFFE>
- I am sorry, everyone…<$FFFE>
- I can't take any more…<$FFFE>
- It's hopeless…<$FFFE>
- Huh?<$FFFE>
- Excuse me…<$FFFE>
- Lushiris my goddess…<$FFFE>
- Guargh…<$FFFC>I leave the rest to you…<$FFFE>
- Urrgh…<$FFFE>
- What a waste…<$FFFE>
- Noo! We have failed!<$FFFE>
- Guaargh! …It seems my way ends here… If only I could've seen peace returning…<$FFFE>
- Emerick…<$FFFC>Take good care of the Field Marshal…<$FFFE>
- You did well, Sir <$F600><$0000>.<$FFFE>
- General Bortz…you were a worthy opponent.<$FFFE>
- He was a man of honor.<$FFFE>
- If circumstances would have been different, I would have liked to have a sake with him sometime.<$FFFE>
- Bad news! Lord Raymond is about to be transported to the imperial capital!<$FFFE>
- What!?<$FFFE>
- When?<$FFFE>
- What? When will it happen?<$FFFE>
- Any moment now. It's a big airship, but not very fast. With that one, you'll make it in time!<$FFFE>
- Good work.<$FFFE>
- Tell me about it.<$FFFE>
- Everyone hurry and board the airship! We have to save Lord Raymond!<$FFFE>
- Right!<$FFFE>
- Keh! They caught up to me this fast!?<$FFFE>
-Shit! They got me flanked! You damned fiends!<$FFFE>
- Dammit!<$FFFD>If I fall here after coming this far, my subordinates' fight will have been for nothing.<$FFFD>I'll make it out for sure!<$FFFE>
- General Bortz…<$FFFD>I've always loved you…<$FFFE>
- Forgive me… I have failed you all…<$FFFE>
- Uwaaah!<$FFFE>
- General. Take care…<$FFFE>
- …Keh. If only I had the power to protect them…<$FFFE>
- Guwaah!<$FFFE>
- It's over for us…<$FFFD>At least we could help the general somewhat…<$FFFE>
- Damn this!<$FFFE>
- Don't you dare touch my General!<$FFFE>
- I have no regrets…<$FFFE>
- You monsters!<$FFFE>
- You won't lay even a finger on the General!<$FFFE>
- I don't wanna die…<$FFFE>
- My sword…is so heavy…<$FFFE>
-I won't lose!<$FFFC>I won't lose to anyo…<$FFFE>
- It is beautiful…<$FFFE>
- My vision grows hazy…<$FFFE>
- I am dying…<$FFFE>
- Defeated by the likes of you…!?<$FFFE>
- I was careless…<$FFFE>
- Why doesn't my sword skill match theirs!?<$FFFE>
- Uuu… It hurts…<$FFFE>
- Gaarghh!<$FFFE>
- I won't let you pass, even if it costs my life!<$FFFE>
- Kyaah!<$FFFE>
- Keh! Forgive me! If only I had more power you could be still living right now and we all could return together…<$FFFD>But I will return to the empire in your place. Your sacrifice won't be in vain!<$FFFE>
- Such senseless destruction of life…<$FFFE>
- General! We will try to buy some time.<$FFFD>Please just keep moving towards the ship!<$FFFE>
- What are you saying!? I won't abandon you like that!<$FFFD>I will fight too!<$FFFE>
- We will join you shortly. For now, please board the airship without delay!<$FFFE>
- I will join you shortly. For now, please board the airship without delay!<$FFFE>
- I am sorry…<$FFFE> 
+When you pull the stone,<$FFFC>it comes loose easily.<$FFFC>Inside the hollow rests<$FFFC>a ragged book.<$FFFE>
+Acquired the Black<$FFFC>Grimoire!<$FFFE>
+When you push the stone,<$FFFC>it fits tight and will<$FFFC>no longer move.<$FFFE>
+Soon the stone begins<$FFFC>to sink quietly, then<$FFFC>stops moving.<$FFFE>
+I still… have things<$FFFC>left to do…<$FFFE>
+Papa…<$FFFE>
+I am sorry, everyone…<$FFFE>
+I can't take any more…<$FFFE>
+It's hopeless…<$FFFE>
+Huh?<$FFFE>
+Excuse me…<$FFFE>
+Lushiris my goddess…<$FFFE>
+Guh… The rest is in<$FFFC>your hands now…<$FFFE>
+Urrgh…<$FFFE>
+What a waste…<$FFFE>
+Noo! We have failed!<$FFFE>
+Guh! …Looks like this<$FFFC>is as far as I go… I<$FFFC>wanted to raise a little<$FFFC>more havoc…<$FFFE>
+Emerick. Look after the<$FFFC>Marshal for me…<$FFFE>
+Masterful command, Lord<$FFFC><$F600><$0000>.<$FFFE>
+General Bortz… he was<$FFFC>a formidable foe indeed.<$FFFE>
+He was a man of honor.<$FFFE>
+In another age, I'd have<$FFFC>gladly shared a drink<$FFFC>with him.<$FFFE>
+Bad news! Lord Raymond<$FFFC>is being shipped to the<$FFFC>capital!<$FFFE>
+What!?<$FFFE>
+When?<$FFFE>
+What did you say? Do you<$FFFC>know when it is?<$FFFE>
+Any moment now, sir. A<$FFFC>big airship, but slow on<$FFFC>its feet. Ours can still<$FFFC>catch it, I reckon!<$FFFE>
+Good work.<$FFFE>
+Don't mention it!<$FFFE>
+Everyone, we must hurry!<$FFFC>Board the airship! We<$FFFC>are going to rescue Lord<$FFFC>Raymond!<$FFFE>
+Right!<$FFFE>
+Kuh! They've caught up<$FFFC>to us already!<$FFFE>
+Damn! How the hell do<$FFFC>those bastards get such<$FFFC>mobility?!<$FFFE>
+Damn it!<$FFFD>If I fall here, after<$FFFC>all this, my men's fight<$FFFC>was for nothing.<$FFFD>I'll get away, no matter<$FFFC>what it takes!<$FFFE>
+General Bortz…<$FFFD>I've always loved you…<$FFFE>
+Sorry… I couldn't do a<$FFFC>single thing for you…<$FFFE>
+Uwaaah!<$FFFE>
+General. Take care…<$FFFE>
+…Kuh… If only I had<$FFFC>more strength…<$FFFE>
+Guwaah!<$FFFE>
+We are finished…<$FFFD>At least let the General<$FFFC>get away…<$FFFE>
+Damn this!<$FFFE>
+I won't let you lay a<$FFFC>finger on the General!<$FFFE>
+I have no regrets…<$FFFE>
+You monsters!<$FFFE>
+I won't let you reach<$FFFC>General Bortz!<$FFFE>
+I don't wanna die…<$FFFE>
+My sword…is so heavy…<$FFFE>
+I won't lose! I won't<$FFFC>lose to anyo…<$FFFE>
+It is beautiful…<$FFFE>
+My vision grows hazy…<$FFFE>
+I am dying…<$FFFE>
+By the likes of you!?<$FFFE>
+I was careless…<$FFFE>
+My swordplay failed!?<$FFFE>
+Uuu… It hurts…<$FFFE>
+Gaarghh!<$FFFE>
+I'll stop you here, even<$FFFC>if it costs me my life!<$FFFE>
+Kyaah!<$FFFE>
+Kuh! Forgive me! If I'd<$FFFC>been stronger, you at<$FFFC>least might have made it<$FFFC>home.<$FFFD>I will surely return to<$FFFC>the Empire, I swear it.<$FFFC>Your lives will not be<$FFFC>wasted!<$FFFE>
+Even if they are foes,<$FFFC>such needless killing…<$FFFE>
+General, please hear me!<$FFFC>We will hold our ground<$FFFC>here and buy you time!<$FFFD>You must hurry on ahead<$FFFC>to the airship!<$FFFE>
+What are you saying!?<$FFFC>I cannot abandon you!<$FFFD>I will fight too!<$FFFE>
+We will join you soon.<$FFFC>For now, please board<$FFFC>the airship at once!<$FFFE>
+I will join you soon.<$FFFC>For now, please board<$FFFC>the airship at once!<$FFFE>
+I am sorry…<$FFFE><$FFFF>

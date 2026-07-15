@@ -106,7 +106,7 @@ def parse_plot_script(path: Path) -> list[str]:
     `<$FFFD>` / `<$FFFC>` separators inside) and joins lines with
     nothing (the separators already encode line breaks)."""
     text = path.read_text(encoding="utf-8")
-    # Drop CWX dumper preamble lines, if any
+    # Drop 0.2 patch dumper preamble lines, if any
     lines = []
     for ln in text.splitlines():
         if ln.startswith("Langrisser") or ln.startswith("Cyber"):

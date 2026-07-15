@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -22,40 +22,40 @@ Rigüler Commander<$FFFF>
 General Emerick<$FFFF>
 General Varna<$FFFF>
 The Captured Airship<$FFFF>
- With this we should be able to rescue Lewin's father, no?<$FFFE>
- Yes.<$FFFB>But…<$FFFE>
- Cheer up! I am sure we will make it in time!<$FFFE>
- The enemy won't expect us to have an airship.<$FFFD>If we approach disguised as Imperial soldiers, we can catch them off guard.<$FFFE>
- Lewin…<$FFFE>
- What do you say?<$FFFE>
- Leave it to me!<$FFFE>
- It will all turn out alright.<$FFFE>
- All we can do is give it our best.<$FFFE>
- Leave it to me! I am sure we will be able to save Lord Raymond.<$FFFE>
- …Sure…<$FFFE>
- I understand how you're feeling all too well.<$FFFD>But, it will all turn out alright. Trust in us all. I promise we will manage to save Lord Raymond!<$FFFE>
- Everyone, …Thanks so much.<$FFFE>
- You shouldn't give up until we've at least given it a shot.<$FFFE>
+With this, we'll finally<$FFFC>rescue Lewin's father,<$FFFC>won't we?<$FFFE>
+Yes.<$FFFB>But…<$FFFE>
+It'll be fine! Sure to<$FFFC>work out!<$FFFE>
+The enemy won't expect<$FFFC>us to have an airship.<$FFFD>Disguised as Imperials,<$FFFC>we can slip in close and<$FFFC>catch them off guard.<$FFFE>
+Lewin…<$FFFE>
+What do you say?<$FFFE>
+Leave it to me!<$FFFE>
+It'll be alright.<$FFFE>
+We'll do all we can.<$FFFE>
+Leave it to me! We'll<$FFFC>save Lord Raymond. I'm<$FFFC>sure of it.<$FFFE>
+…Sure…<$FFFE>
+I understand your worry<$FFFC>all too well.<$FFFD>But it'll be alright.<$FFFC>Trust in everyone.<$FFFC>We'll save Lord Raymond,<$FFFC>I swear it!<$FFFE>
+Everyone… thank you so<$FFFC>much.<$FFFE>
+Rather than give up now,<$FFFC>let's do all we can.<$FFFE>
 …<$FFFE>
- Get ready to launch!<$FFFE>
- Alright! Let's get a move on!<$FFFD>It's time to rescue Lord Raymond!!<$FFFE>
-Former Larcussia Royal Castle - Presently Imperial Headquarters<$FFFF>
- A short while ago, we escorted Lord Raymond to the Imperial capital by airship. He should arrive by tomorrow evening…<$FFFE>
- I see.<$FFFE>
- Excuse me, I have a report.<$FFFD>At the conclusion of General Bortz's clash with those Larcussian forces, his army was annihilated!<$FFFE>
- Impossible!<$FFFE>
- What about Bortz?<$FFFE>
- …While his troops escaped via airships, he stayed and died an honorable death…<$FFFE>
- General Bortz…<$FFFE>
- …You've done well. Please, leave us now.<$FFFE>
- Yessir!<$FFFE>
- So he became a human shield for his troops, eh. He stayed true to form even up to his death.<$FFFE>
- …We've lost a truly valuable man.<$FFFE>
- Your Excellency Altemüller. What shall we do?<$FFFE>
- That company's morale is high now, and they will likely head here soon.<$FFFE>
- …Hmmm.<$FFFE>
- Geier! Take the aerial fortress and return to the Imperial capital.<$FFFE>
- We may have need of it.<$FFFE>
- Yes, sir!<$FFFE>
- So that group has defeated Bortz. We can no longer afford to treat them lightly.<$FFFE>
- Muster all our forces and crush them.<$FFFE>
+Get ready to launch!<$FFFE>
+Alright! Let's move out!<$FFFD>Save Lord Raymond!!<$FFFE>
+Old Larcussia Castle<$FFFF>
+We sent Lord Raymond to<$FFFC>the capital by airship.<$FFFC>He should arrive there<$FFFC>by tomorrow evening…<$FFFE>
+I see.<$FFFE>
+I have a report, sir.<$FFFD>General Bortz's troops<$FFFC>clashed with the Larcuss<$FFFC>remnants and were wiped<$FFFC>out to the last man!<$FFFE>
+Impossible!<$FFFE>
+What about Bortz?<$FFFE>
+…He had his men flee by<$FFFC>airship, then died an<$FFFC>honorable death…<$FFFE>
+General Bortz…<$FFFE>
+…You've done well. You<$FFFC>may withdraw.<$FFFE>
+Yessir!<$FFFE>
+He shielded his own men<$FFFC>with his body, did he.<$FFFC>A fitting end for him.<$FFFE>
+…We've lost a fine man.<$FFFE>
+Lord Altemüller. What<$FFFC>shall we do?<$FFFE>
+Their spirits are high,<$FFFC>and they'll likely march<$FFFC>on us before long.<$FFFE>
+…Hmmm.<$FFFE>
+Geier! Head back to the<$FFFC>capital and bring back<$FFFC>the Sky Fortress for us.<$FFFE>
+We may have need of it.<$FFFE>
+Yes, sir!<$FFFE>
+These are the ones who<$FFFC>brought down Bortz. We<$FFFC>can't take them lightly<$FFFC>any longer.<$FFFE>
+We'll crush them with<$FFFC>all our might.<$FFFE>

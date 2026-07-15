@@ -1,0 +1,4 @@
+{
+  "$comment": "Layout QA per-line approvals. Each entry whitelists ONE specific line (by scen/entry/balloon/line index) so the simulator does NOT emit a low_line_usage warning for it. APPLIES ONLY TO DIALOGUE_12X4 entries — labels, narration, and objectives do not accept approvals (those profiles don't have the 'intentional short line' use case). Every other issue code (broken_word_wrap, balloon_line_overflow, line_budget_exceeded, etc.) is unaffected: approval cannot silence a real overflow. Add an entry here only after human review confirms the short line is intentional (e.g. an interjection followed by <$FFFB>).",
+  "approvals": []
+}

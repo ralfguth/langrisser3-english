@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,16 +20,16 @@ Rigüler Commander<$FFFF>
 Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
 General Emerick<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-22<$FFFC><$0000><$0000><$0000><$0000>To a New Battle<$0000><$0000><$0000><$0000><$FFFE>
- About a year after rallying under Viscount Raymond, <$F600><$0000> and his allies finally retook the royal capital. Raymond became King Sieghart, and the kingdom became Elthlead.<$FFFE>
- Field Marshal Altemüller had once withdrawn his troops due to shortages, but preparations to retake Larcuss were steadily advancing.<$FFFE>
- In contrast, the Elthlead army's first move has been to use the speed and power of the mobile attack force to capture an Imperial base along the national border.<$FFFE>
- *Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFE>
-Imperial Base along the Rigüler - Elthlead National Border<$FFFF>
- Your Excellency Altemüller. The attack preparations have been completed.<$FFFE>
-Good work. Mustering new troops took longer than I had expected.<$FFFD>Now, the army of Larcuss…no, Elthlead, has likely been bolstered as well.<$FFFE>
- It looks like it won't be an easy war to win.<$FFFE>
- Easy victories are hollow ones. This should be the perfect challenge.<$FFFD>Emerick, look after things in my absence!<$FFFE>
- Yes, sir, just leave everything else to me! Your Excellency should only need to concentrate on the fighting with Elthlead.<$FFFE>
- Geier's aerial fortress should arrive at our destination soon enough.<$FFFD>Very well, let's sally forth.<$FFFE>
- Yeahhhh!<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２２<$FFFC><$0000><$0000><$0000><$0000>To a New Battle<$0000><$0000><$0000><$0000><$FFFE>
+A year after taking up arms<$FFFC>under Viscount Raymond,<$FFFC><$F600><$0000> retook the<$FFFC>capital. Raymond became King<$FFFC>Sieghart. The land, Elthlead.<$FFFE>
+Field Marshal Altemüller had<$FFFC>once withdrawn his troops due to<$FFFC>shortages, but preparations to<$FFFC>retake Larcuss were steadily<$FFFC>advancing.<$FFFE>
+The Elthlead army, in turn, set<$FFFC>its mobile detachment marching<$FFFC>to seize the Imperial base along<$FFFC>the border.<$FFFE>
+*Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFE>
+Imperial Base, Rigüler Border<$FFFF>
+Your Excellency<$FFFC>Altemüller. The attack<$FFFC>preparations have been<$FFFC>completed.<$FFFE>
+Good work. Mustering new<$FFFC>troops took longer than<$FFFC>I had expected.<$FFFD>Now, the army of<$FFFC>Larcuss…no, Elthlead,<$FFFC>is probably rebuilding<$FFFC>its forces too.<$FFFE>
+It looks like it won't<$FFFC>be an easy war to win.<$FFFE>
+Easy victories<$FFFC>are hollow ones. This<$FFFC>should be the perfect<$FFFC>challenge.<$FFFD>Emerick, look after<$FFFC>things in my absence!<$FFFE>
+Yes, sir, leave it<$FFFC>to me! Your Excellency,<$FFFC>please just focus on<$FFFC>the fight with Elthlead.<$FFFE>
+The Sky Fortress under<$FFFC>Geier should reach our<$FFFC>chosen spot before long.<$FFFD>Very well, let's move<$FFFC>out.<$FFFE>
+Yeahhhh!<$FFFE>

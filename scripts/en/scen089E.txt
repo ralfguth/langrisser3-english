@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,43 +20,43 @@ King Sieghart<$FFFF>
 Field Marshal Altemüller<$FFFF>
 Elthlead Soldier<$FFFF>
 Böser<$FFFF>
-Reaper Grove<$FFFF>
+Necromancer Grove<$FFFF>
 Feraquea<$FFFF>
-Elthlead's Royal capital, Larcussia - Audience Hall<$FFFF>
- For now, we of Elthlead and the Rigüler Empire shall agree to a cease fire until the defeat of Velzeria.<$FFFE>
- Elthlead has barely even been established as a country. Right now we would rather focus our efforts on settling our internal affairs than on fighting.<$FFFE>
- We of the Empire are in the same boat. These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
- And with the recent death of our Kaiser, the administration is in a state of instability. So, neither of us have the luxury of ignoring this mutual problem posed by Velzeria.<$FFFE>
- As things stand now, it is mutually beneficial to formalize this truce.<$FFFE>
- With that done, I bid you farewell.<$FFFE>
+Larcussia Hall<$FFFF>
+For now, Elthlead and<$FFFC>the Rigüler Empire have<$FFFC>agreed to a ceasefire<$FFFC>until Velzeria falls.<$FFFE>
+Our Elthlead is a young<$FFFC>and newly founded land.<$FFFC>We would rather build it<$FFFC>up than wage war now.<$FFFE>
+The same holds for us.<$FFFC>Velzeria's monsters have<$FFFC>stormed even into our<$FFFC>Rigüler Empire.<$FFFE>
+The Kaiser is dead, our<$FFFC>rule unstable. Neither<$FFFC>of us can keep fighting<$FFFC>each other now.<$FFFE>
+It's a strange way to<$FFFC>end up, but I'm glad we<$FFFC>could seal this truce.<$FFFE>
+Then, I'll be on my way.<$FFFE>
 …<$FFFE>
- What's wrong, Tiaris?<$FFFE>
- Say, <$F600><$0000>.<$FFFE>
- Do you approve of allying with that guy?<$FFFE>
- Oh, that's what's bothering you.<$FFFE>
- I think it's a good thing that we don't have to fight both Velzeria and the Empire at the same time.<$FFFE>
- …I guess so.<$FFFE>
- If <$F600><$0000> agrees, then I agree too.<$FFFE>
- Tiaris…<$FFFE>
- …I just can't believe it. That guy…killed Father…<$FFFE>
- Tiaris…<$FFFE>
- King Sieghart, Lady Jessica has arrived.<$FFFE>
- Lady Jessica?<$FFFD>Send her right in.<$FFFE>
- Yes, sir!<$FFFE>
- My, my, Lady Jessica. You are quite a sight for sore eyes.<$FFFE>
- I have thought of a plan to strike against Velzeria.<$FFFE>
- Many thanks for your efforts.<$FFFE>
- By using the power of the demon sword, the Alhazard, Böser has amplified his powers of darkness and been able to negate the power of the Lushiris Gate.<$FFFD>We must obtain the power to overcome the demon blade, the Alhazard.<$FFFE>
- Is the Sword of Decimation not sufficient?<$FFFE>
- Of course, the Sword of Decimation is important.<$FFFD>However, we can't overcome the Alhazard with just the power of the Sword of Decimation.<$FFFE>
- So the Alhazard is that powerful…<$FFFE>
- To strengthen the power of the Sword of Decimation, we need to secure the cooperation of a certain person.<$FFFD>Please, help me escort this person to the center of the Lushiris Gate.<$FFFE>
- I hate to ask this, but could I once more depend on you all?<$FFFE>
- Of course.<$FFFE>
+What's wrong, Tiaris?<$FFFE>
+Say, <$F600><$0000>.<$FFFE>
+Do you really approve<$FFFC>of a truce with him?<$FFFE>
+Well, let's see…<$FFFE>
+I just think it's good<$FFFC>we no longer must face<$FFFC>Velzeria and the Empire<$FFFC>both at once.<$FFFE>
+…I guess so.<$FFFE>
+If <$F600><$0000><$FFFC>agrees, I agree too.<$FFFE>
+Tiaris…<$FFFE>
+…I can't believe it.<$FFFC>That man… what he did<$FFFC>to Father…<$FFFE>
+Tiaris…<$FFFE>
+King Sieghart. Lady<$FFFC>Jessica is here.<$FFFE>
+Lady Jessica?<$FFFD>Send her right in.<$FFFE>
+Yes, sir!<$FFFE>
+Well now, Lady Jessica.<$FFFC>You came all this way.<$FFFE>
+I have devised a plan<$FFFC>to deal with Velzeria.<$FFFE>
+That's a great relief.<$FFFE>
+Böser wields the demon<$FFFC>sword Alhazard to boost<$FFFC>all dark power, snuffing<$FFFC>the Lushiris Gate.<$FFFD>We too must find power<$FFFC>to oppose the Alhazard.<$FFFE>
+Won't the Decimation<$FFFC>Sword suffice?<$FFFE>
+Of course, we need the<$FFFC>Decimation Sword.<$FFFD>The Sword can't match<$FFFC>the Alhazard's power.<$FFFE>
+Is the Alhazard truly<$FFFC>so fearsome…<$FFFE>
+To make the Decimation<$FFFC>Sword stronger, we need<$FFFC>a certain person's aid.<$FFFD>Please bring them to us<$FFFC>at the central Gate.<$FFFE>
+Forgive me, but might I<$FFFC>ask you all to go?<$FFFE>
+Of course.<$FFFE>
 Velzeria Castle<$FFFF>
- I can't believe this turn of events. Altemüller's very existence has become a hindrance to our plans.<$FFFE>
- Grove! Hurry up the assassination of this pest!<$FFFE>
- Yes, my lord!<$FFFE>
- Now, what to do about Elthlead…<$FFFE>
- Lord Böser, please let me deal with Elthlead.<$FFFE>
- Feraquea… Very well, I shall leave it to you.<$FFFE> 
+Who'd have thought it<$FFFC>would come to this.<$FFFC>Altemüller now stands<$FFFC>in our way.<$FFFE>
+Grove! Hurry and kill<$FFFC>him!<$FFFE>
+Yes, my lord!<$FFFE>
+Now then, what to do<$FFFC>about Elthlead…<$FFFE>
+Leave Elthlead to me,<$FFFC>Lord Böser.<$FFFE>
+Feraquea, is it. Good,<$FFFC>leave it to you.<$FFFE><$FFFF>

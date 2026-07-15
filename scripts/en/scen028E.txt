@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -21,128 +21,128 @@ Monster<$FFFF>
 Velzerian Commander<$FFFF>
 *Victory Conditions<$FFFC>•Defeat Feraquea<$FFFE>
 *Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Plains of Luon - Marshlands<$FFFF>
- This place is just perfect for an ambush, I can already smell the scent of carnage in the air.<$FFFE>
- …But waiting is so unnerving. If we get rid of them here, surely Master Böser would be very pleased.<$FFFE>
- Lady Feraquea. The smell of humans is becoming strong.<$FFFE>
- They are approaching. Now my little darlings, do me a favor and don't mess this up.<$FFFE>
- We won't fail you.<$FFFE>
- The scouts have reported sightings of demons around here.<$FFFE>
- Undoubtedly… The presence of demons can be felt all around.<$FFFE>
- So here it will be then.<$FFFE>
- …This time I will bring a conclusion!<$FFFE>
- Everyone, stay alert!<$FFFE>
- You bet!<$FFFE>
+Plains of Luon, Marshlands<$FFFF>
+Such a human tactic…<$FFFC>laying an ambush by the<$FFFC>land. Hardly my style.<$FFFE>
+…Oh well. I'd better<$FFFC>win here, or I'll have<$FFFC>no excuse to face<$FFFC>Lord Böser.<$FFFE>
+Lady Feraquea. The smell<$FFFC>of humans is becoming<$FFFC>strong.<$FFFE>
+They are approaching.<$FFFC>Now my little darlings,<$FFFC>do me a favor and don't<$FFFC>mess this up.<$FFFE>
+We won't fail you.<$FFFE>
+This is the area where<$FFFC>demons were reported to<$FFFC>have been sighted.<$FFFE>
+Indeed… The aura of the<$FFFC>demons grows stronger<$FFFC>all around us.<$FFFE>
+So, this is the place.<$FFFE>
+…This time, I shall end<$FFFC>this once and for all!<$FFFE>
+Everyone, stay alert!<$FFFE>
+You bet!<$FFFE>
 GIGIGI!<$FFFE>
- Blasted! Enemies are attacking from behind!?<$FFFE>
- Hahahah! Let the bloodbath begin! Make sure our honored guests enjoy themselves to the fullest!<$FFFE>
- The frozen ground is rather hard to tread on.<$FFFE>
-Yes. Furthermore our overland units are handicapped because there's only a narrow path.<$FFFD>It would be advisable to deploy fLying and naval units to wipe out the enemy's ranged units.<$FFFE>
- You must be pretty carefree or simply stupid to think you can venture into our territory like this.<$FFFE>
- Spare us the act, your time runs out as we speak!<$FFFE>
- You can keep up the bravado, but not for long!<$FFFE>
- Coincidently this crystal here has the convenient property to enhance my magic tenfold.<$FFFD>Today you will witness my less timid side. You should consider yourselves lucky, not many are blessed with so much of my loving attention.<$FFFE>
- I can't wait to try out this body! Here I come!<$FFFE>
- Tss! Here you are already, you're quiet a dashing one!<$FFFE>
- It's time to settle this once and for all! The Shinigami eagerly await the offering of your life!<$FFFE>
- If you want to end your misery so badly, come right at me! This time I won't let you off the hook that easily!<$FFFE>
- Why did it have to end like this…<$FFFE>
- It hurts… <$F600><$0000>, sa…ve…me…<$FFFE>
- Father…<$FFFE>
- Coty…<$FFFE>
- Farewell everyone… I am so tired…<$FFFE>
- Aaah…<$FFFE>
- Sir <$F600><$0000>…<$FFFE>
- That light…is so…warm…<$FFFE>
- Sophia…<$FFFE>
- Grrr…<$FFFE>
- Dammit, I failed!<$FFFE>
- Tch, how pathetic…<$FFFE>
- Aaaahh, the blue sky…<$FFFE>
-S, such regret. To die without avenging…<$FFFE>
+Curse it! Are enemies<$FFFC>bearing down on us from<$FFFC>the rear as well!?<$FFFE>
+AHAHAH! Time to paint<$FFFC>this place red with<$FFFC>your blood. Oh, I can't<$FFFC>wait.<$FFFE>
+The ground here makes<$FFFC>for truly treacherous<$FFFC>footing.<$FFFE>
+Yes. Beyond that,<$FFFC>the land gives our units<$FFFC>scant room to deploy, so<$FFFC>our march will be slow.<$FFFD>The foe holds the better<$FFFC>ground. We must advance<$FFFC>with naval and flying<$FFFC>units to cover us.<$FFFE>
+You came chasing after<$FFFC>me? What fools you are.<$FFFE>
+Your bravado will not<$FFFC>last for long, I assure<$FFFC>you!<$FFFE>
+You can keep up<$FFFC>the bravado, but not for<$FFFC>long!<$FFFE>
+There's a crystal here<$FFFC>that boosts my magic.<$FFFD>Which means I can use<$FFFC>my shifting powers to<$FFFC>the fullest. I'll dote<$FFFC>on you plenty… later.<$FFFE>
+I can't wait to try out<$FFFC>this body! Here I come!<$FFFE>
+Tch! You have already<$FFFC>come this far, have you,<$FFFC>you stubborn lot!?<$FFFE>
+Stand and face me! Your<$FFFC>head shall be mine!<$FFFE>
+Try it, if you can!<$FFFC>I won't run! I won't<$FFFC>hide!<$FFFE>
+I cannot fall here…<$FFFE>
+It hurts…<$FFFC><$F600><$0000>,<$FFFC>sa…ve…me…<$FFFE>
+Father…<$FFFE>
+Coty…<$FFFE>
+I'm sorry, everyone…<$FFFC>I'm so tired now…<$FFFE>
+Aaah…<$FFFE>
+Sir <$F600><$0000>…<$FFFE>
+That light…is<$FFFC>so…warm…<$FFFE>
+Sophia…<$FFFE>
+Grrr…<$FFFE>
+Dammit, I failed!<$FFFE>
+Tch, how pathetic…<$FFFE>
+Aaaahh, the blue sky…<$FFFE>
+S-such regret. To die<$FFFC>without avenging…<$FFFE>
 <$F702><$FFFE>
 <$F702><$FFFE>
- Lord Kirikaze…<$FFFE>
- N…no way… That I…would lose…<$FFFE>
- Forgive me Lord Böser…Feraquea is…already done… I will watch your triumph…from the depths of Hell…<$FFFE>
- My lord…your murder has been indemnified…<$FFFE>
- My lord…your murder has been indemnified…<$FFFE>
+Lord Kirikaze…<$FFFE>
+N-no way… That<$FFFC>I…would lose…<$FFFE>
+Forgive me, Lord Böser…<$FFFC>Feraquea is no more…<$FFFC>From hell I shall watch<$FFFC>over your triumphs…<$FFFE>
+My lord… Osuzu… you<$FFFC>are avenged at last…<$FFFE>
+My lord… Osuzu… you<$FFFC>are avenged at last…<$FFFE>
 …<$FFFE>
- You did well, Sir <$F600><$0000>. Today we have won an important victory.<$FFFE>
- Sir <$F600><$0000>…<$FFFC>You shouldn't take too long in battle.<$FFFD>It affects the next move…<$FFFE>
- Hmm, a strange doll flew by… I wonder what was that all about…<$FFFE>
- Right now those demons need to be purged! Be prepared!<$FFFE>
- Ouch… You naughty little human!<$FFFE>
- I won't accept that I'd be defeated! I won't accept it!<$FFFE>
- U…unbelievable!?<$FFFE>
+That was a truly<$FFFC>masterful display of<$FFFC>command, my Lord<$FFFC><$F600><$0000>.<$FFFE>
+Lord <$F600><$0000>…<$FFFC>We must never let this<$FFFC>battle drag on way too<$FFFC>long, my lord.<$FFFD>It will shape what we<$FFFC>are able to do in the<$FFFC>battle to come…<$FFFE>
+Hmm, a strange doll flew<$FFFC>by… I wonder what that<$FFFC>was all about…<$FFFE>
+I'll pay you back for<$FFFC>everything, all at once!<$FFFC>Brace yourself!<$FFFE>
+Ouch… You insolent<$FFFC>little human!<$FFFE>
+That I could be<$FFFC>defeated… I will never<$FFFC>accept it! Never!<$FFFE>
+U-unbelievable!?<$FFFE>
 GUUGAAAA!<$FFFE>
 GUUGAAAA!<$FFFE>
- Uarggh!<$FFFE>
- Such cruelty…<$FFFE>
- You cretins won't trample on our land unpunished!<$FFFE>
- It shouldn't be… me…whose…dying…<$FFFE>
- You morons! You came all the way just to die!<$FFFE>
- Uuugh… I am dreaming of a world of pure darkness…<$FFFE>
- I don't…want to…die…<$FFFE>
- Just…stop it…already…<$FFFE>
+Uarggh!<$FFFE>
+My eyes… my eyes…!<$FFFE>
+There's no way I'll let<$FFFC>you pass through here<$FFFC>alive.<$FFFE>
+So this is death… and<$FFFC>for me, of all people…<$FFFE>
+You morons! You came all<$FFFC>the way just to die!<$FFFE>
+Ugh… the world of<$FFFC>darkness draws over me<$FFFC>now…<$FFFE>
+I don't…want<$FFFC>to…die…<$FFFE>
+Just…stop<$FFFC>it…already…<$FFFE>
 GOOOON!<$FFFE>
 GOOOON!<$FFFE>
 GOOOON!<$FFFE>
 GUGAAAAA!<$FFFE>
- I cannot stand this world anymore…<$FFFE>
- So this is the end…<$FFFE>
- Later…<$FFFD>Guaaargh!<$FFFE>
+I can no longer rise to<$FFFC>my feet…<$FFFE>
+So this is the end…<$FFFE>
+Curse you…<$FFFC>how dare you…!<$FFFD>Guaaargh!<$FFFE>
 GAAAAA!<$FFFE>
- Atone!…<$FFFE>
- Lord…Chaos <$FFFE>
+My dark power fades…<$FFFE>
+Lord…Chaos <$FFFE>
 SYUUH!<$FFFE>
- You hurt my feelings…mostly…<$FFFE>
- Uwaaaaah!<$FFFE>
+To think you would wound<$FFFC>me… I will not forgive<$FFFC>this…<$FFFE>
+Uwaaaaah!<$FFFE>
 SYUUHH!<$FFFE>
-GURR<$064F>…<$FFFE>
-GUURR<$064F>…<$FFFE>
- You are the only one left. Resign yourself.<$FFFE>
- Give yourself up Feraquea, all your troops has been wiped out!<$FFFE>
- Hmmph! What use would that have if you would kill me anyway!?<$FFFE>
- You're doing quiet well, for humans.<$FFFE>
- As a reward, I will show you my true power!<$FFFE>
- What!?<$FFFE>
- Watch closely!<$FFFE>
- I wonder how she did this? What kind of peculiar magic is that?<$FFFE>
- Hahaha!<$FFFE>
- Now that I have taken this form, all hope for you has dwindled!<$FFFE>
- No matter what monstrosity you turn into, I will deliver you to justice all the same!<$FFFE>
- Be my guest and witness this body's disastrous power with your own flesh!<$FFFE>
- This time you can't run away! At long last I will avenge my Lord's murder, so my anguish will be soothed!<$FFFE>
- Hmph! Don't get your hopes up. Once I've sent you to hell you're torment will continue for eternity!<$FFFE>
- You come across a blueglowing round object.<$FFFE>
- What do you do?<$FFFE>
+GURRR…<$FFFE>
+GUURRR…<$FFFE>
+Only you remain now. The<$FFFC>time has come for you to<$FFFC>give yourself up.<$FFFE>
+Now you alone are left<$FFFC>standing, Feraquea! It<$FFFC>ends here and now!<$FFFE>
+Hmph! Don't get cocky,<$FFFC>you mere humans!<$FFFE>
+You're doing quite well,<$FFFC>for humans.<$FFFE>
+As a reward, I'll show<$FFFC>you my true power!<$FFFE>
+What!?<$FFFE>
+Watch closely!<$FFFE>
+What is this…? Magic so<$FFFC>fierce that it is almost<$FFFC>painful to bear?<$FFFE>
+Hahaha!<$FFFE>
+Now that I've taken this<$FFFC>form, you don't stand a<$FFFC>chance anymore!<$FFFE>
+Do you truly believe a<$FFFC>cheap bluff like that<$FFFC>would ever work on the<$FFFC>likes of me!?<$FFFE>
+Bluff or not, why don't<$FFFC>you come and find out<$FFFC>the hard way, with your<$FFFC>own flesh!<$FFFE>
+You'll not escape now!<$FFFC>I'll cut you down and<$FFFC>avenge my lord!<$FFFE>
+Hah! You make me laugh.<$FFFC>You're the one to die!<$FFFC>Here and now!<$FFFE>
+You come across a blue<$FFFC>glowing round object.<$FFFE>
+What do you do?<$FFFE>
 Do your favorite pose <$FFFE>
 Smile at it <$FFFE>
 Watch it<$FFFE>
- The head of a terracotta doll was obtained!<$FFFD>The terracotta head cast an eerie smile toward <$F600><$0000>, then flew off into the sky and vanished…<$FFFE>
- … You are invited to make a weird pose…<$FFFD>But you couldn't do it!<$FFFE>
- You come across astrangely glowing shard like object.<$FFFE>
- What do you do?<$FFFE>
+Acquired the head of a<$FFFC>terracotta doll!<$FFFD>It cast an eerie smile<$FFFC>at <$F600><$0000>,<$FFFC>then flew off into the<$FFFC>sky and vanished…<$FFFE>
+… I feel as if it's<$FFFC>luring me…<$FFFD>No, that can wait!<$FFFE>
+A faintly glowing shard<$FFFC>lies here.<$FFFE>
+What do you do?<$FFFE>
 Punch it<$FFFE>
 Do nothing<$FFFE>
 Dance around<$FFFE>
- You smashed it to pieces…<$FFFE>
- The object remained in the snow…<$FFFE>
- A blue shard jumped into your hand!<$FFFD>Fragment of the doll was obtained!<$FFFE>
- You come across astrangely glowing shard like object.<$FFFE>
- What do you do?<$FFFE>
+The shard crumbled…<$FFFE>
+The object remained in<$FFFC>the snow…<$FFFE>
+A blue shard jumped into<$FFFC>your hand!<$FFFD>Acquired a doll<$FFFC>fragment!<$FFFE>
+A faintly glowing shard<$FFFC>lies here.<$FFFE>
+What do you do?<$FFFE>
 Try touching it <$FFFE>
 Pay your respects <$FFFE>
 Spit on it<$FFFE>
- The moment you bow down to get the shard, it comes out of the snow by itself!<$FFFE>
- The blue shard jumped right into your hand!<$FFFD>Fragment of the doll was obtained!<$FFFE>
- Upon carrying out your plan,<$FFFD>the shard dissolved…<$FFFE>
- You are in possession of the dolls head!<$FFFD>But major parts of it's body are still missing!<$FFFE>
- The doll gives you feelings of unrest… Frustrated you throw it away!<$FFFE>
- Suddenly the face of the doll turns to you!<$FFFD>As it dances in mid air, it gives off an eerie laughter and begins talking <$01E2><$FFFE>
- Come <$F600><$0000>, there's a place you must see!<$FFFD>What's going on now?<$FFFE>
- Ah… seems to be fragments of a doll, but they're creepy. Let's throw them away.<$FFFE>
- Uh huh.<$FFFE>
- So you must like dolls. On the other hand you must hate me somehow, or you wouldn't have thrown me away!<$FFFE>
- HAHAHAHAHA! Anyway, let's be on our way! But wait, there are still enemies you need to take care of, no?<$FFFE> 
+You reach for the shard.<$FFFC>Alive, it slips into the<$FFFC>snow and is gone!<$FFFE>
+The blue shard jumped<$FFFC>right into your hand!<$FFFD>Acquired a doll<$FFFC>fragment!<$FFFE>
+A foul stench rose as<$FFFC>the blue shard melted…<$FFFD>You feel the strength<$FFFC>drain from your body.<$FFFE>
+Acquired the head of a<$FFFC>terracotta doll!<$FFFD>But major parts of its<$FFFC>body are still missing!<$FFFE>
+What a deeply unsettling<$FFFC>doll this is… I'll just<$FFFC>toss it and be done.<$FFFE>
+The round board was the<$FFFC>doll's face!<$FFFD>It bared an eerie grin,<$FFFC>then the wind carried it<$FFFC>far into the distance.<$FFFE>
+Come to think of it,<$FFFC><$F600><$0000>, you<$FFFC>were collecting odd<$FFFC>things earlier.<$FFFD>What were those?<$FFFE>
+Ah… A doll fragment, it<$FFFC>seems. Too creepy, this.<$FFFC>Let's just toss it away.<$FFFE>
+Uh huh.<$FFFE>
+Come to think of it, you<$FFFC>gathered odd shards. No<$FFFC>use for them. Toss them.<$FFFE>
+AHAHAHAHA! What a<$FFFC>delight this is. Weren't<$FFFC>you here to take your<$FFFC>revenge?<$FFFE><$FFFF>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,8 +18,8 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
-Rigüler Imperial Castle - Audience Hall<$FFFF>
- Uhahaha!<$FFFD>I can't stop laughing in joy! Now the Empire is mine in both name and truth!<$FFFD>Speaking of which, Geier.<$FFFB>Wouldn't you agree that it would be best for you to start acting as Field Marshal soon?<$FFFD>You must quickly take down Elthlead.<$FFFE>
- Before I do that, I ask for a little bit of time.<$FFFD>There is a small matter that I would like to look into first.<$FFFE>
- …Hmm. Then, as soon as that is done, return to the main camp.<$FFFD>I shall send you reinforcements. So no matter what it takes, take Elthlead back!<$FFFE>
- As you command, Kaiser Paul.<$FFFE> 
+Rigüler Castle, Audience Hall<$FFFF>
+Uhahaha!<$FFFD>I can't stop laughing in<$FFFC>joy! Now the Empire is<$FFFC>mine in both name and<$FFFC>truth!<$FFFD>By the way, Geier.<$FFFB> I'd<$FFFC>say it's high time you<$FFFC>took up your first task<$FFFC>as Field Marshal.<$FFFD>Go and strike Elthlead<$FFFC>at once.<$FFFE>
+Before I do that, I<$FFFC>ask for a little bit of<$FFFC>time.<$FFFD>There's a small matter<$FFFC>I'd like to look into<$FFFC>first.<$FFFE>
+…Hmm. Then, as soon as<$FFFC>that is done, return to<$FFFC>the main camp.<$FFFD>I'll send you<$FFFC>reinforcements. So no<$FFFC>matter what it takes,<$FFFC>take Elthlead back!<$FFFE>
+As you command, Kaiser<$FFFC>Paul.<$FFFE><$FFFF>

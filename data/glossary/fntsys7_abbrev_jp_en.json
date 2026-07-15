@@ -1,0 +1,21 @@
+{
+ "歩兵": "Soldier",
+ "僧<$0290>": "Priest",
+ "弓兵": "Archer",
+ "水弓": "Aquatic Archer",
+ "水兵": "Aquatic",
+ "騎馬": "Cavalry",
+ "特馬": "Specialized Cavalry",
+ "騎弓": "Horse Archer",
+ "死馬": "Undead Cavalry",
+ "飛兵": "Aerial",
+ "槍兵": "Spear",
+ "盗賊": "Robber",
+ "魔歩": "Demon Soldier",
+ "魔族": "Demon",
+ "霊": "Ghost",
+ "不死": "Immortal",
+ "ゲル": "Gel",
+ "竜": "Dragon",
+ "精霊": "Spirit"
+}

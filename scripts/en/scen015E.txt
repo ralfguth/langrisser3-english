@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -23,176 +23,176 @@ Jugler<$FFFF>
 •Defeat Freya<$FFFE>
 •Death of <$F600><$0000><$FFFC>Death of Dios<$FFFE>
 The Road leading to Estool Ruins<$FFFF>
- General Dios, please stop!<$FFFE>
- Dang! They've caught up with me already?<$FFFE>
- The Barral Kingdom needs your strength as a General!<$FFFE>
- You've got that Dark Knight, haven't you?<$FFFD>Besides, I've already quit being general. Just leave me alone.<$FFFE>
- Come to your senses. Do you think you can run away forever?<$FFFD>If you return now King Wilder will reappoint you surely. That's why…<$FFFE>
- Persistent! If you keep coming after me, I'll fight you for real!<$FFFE>
- Besides, I won't follow the orders of a king that has gone completely mad for another minute.<$FFFE>
- Your behavior is inexcusable, Dios.<$FFFE>
- P…Princess…<$FFFE>
- Just what do you mean, you've grown tired of my father?<$FFFE>
- Princess. What do you think of all this?<$FFFE>
- Not even a fragment is left of the once kind King Wilder I pledged my loyalty to.<$FFFE>
- General…<$FFFE>
- The old king valued the strength of mercenaries like me without any prejudice.<$FFFC>That's why I served him with everything I had.<$FFFE>
- Just take one look at the current state of the Kingdom. He only cares about his selfish ambitions, he has become a total stranger to me.<$FFFE>
- I cannot stand men who treat people like vermin!<$FFFE>
- …Just to make sure I understood correctly. You are not willing to turn back?<$FFFE>
- No! Just leave me alone.<$FFFE>
- Then you leave me no choice. You are hereby judged being guilty of treason against the king!<$FFFE>
- Barral troops! What could they be doing here?<$FFFE>
- Something rather strange must be occurring.<$FFFE>
- There seems to be a dispute between Princess Freya and General Dios.<$FFFE>
- You know them?<$FFFE>
- It is crucial for a tactician to know the most important persons of various countries.<$FFFE>
- Don't you remember!? It's the guy we fought when we were fleeing from Laffel.<$FFFE>
- Oh yeah! I wonder why he's in a quarrel with Freya?<$FFFE>
- All troops, arrest the traitor Dios!<$FFFE>
- You won't get me that easy!<$FFFE>
-Seize him! Don't let him get away!<$FFFE>
- We should help him.<$FFFE>
- Fighting Freya?<$FFFE>
- Yes. As of now we are still enemies.<$FFFE>
- If we leave them be, they will get in our way sooner or later.<$FFFE>
- Furthermore, that Barral General could give us some valuable information about the Kingdom's internals.<$FFFE>
- It seems this course of action would be best.<$FFFE>
- You're right. Everyone, move out and protect that General!<$FFFE>
- Princess! Remnants of the Larcussian army are heading this way!<$FFFE>
- What is the meaning of this!?<$FFFD>Capturing Dios takes first priority! Retaliate if the enemy makes their move!<$FFFE>
- Understood!<$FFFE>
- Sorry, but let me rest in the rear.<$FFFC>I'm a bit worn out from all this running.<$FFFE>
- Don't worry about it. Leave the Barral soldiers to us.<$FFFE>
- …Okay. Thanks.<$FFFE>
- After all the general won't return to us.<$FFFE>
- It can't be helped.<$FFFC>You all pursue from the sky.<$FFFC>I'll head for the opposite shore!<$FFFE>
- You advance from mid air.<$FFFE>
- In the name of the Barral naval battalion, protect the princess!<$FFFD>Serpent Knights, charge!<$FFFE>
- Please come quietly General Dios! Don't force us to get rough with you.<$FFFE>
- If you feel bad about it just leave me be alright!<$FFFE>
- You know we can't do that!<$FFFE>
- All troops move out! Repel the remnants of Larcuss!<$FFFE>
- Freya!<$FFFE>
- You are General Dios aren't you?<$FFFE>
- I am no longer a general. I can't approve of King Wilder's methods any more, therefore I retired.<$FFFE>
- Then…<$FFFE>
- You've guessed it… I am a common deserter now.<$FFFE>
- I see. So that's why they are after you. Maybe we could lend a hand?<$FFFE>
- Sure be my guest, but be careful.<$FFFD>Other than the Larcussian army that relied on the Demonic Cannon, the Barral troops haven't neglected their training.<$FFFE>
- I know. I once was close to the royal family…Freya…<$FFFE>
- Stop interfering, <$F600><$0000>. We are only here to arrest the traitor Dios.<$FFFD>Hand him over!<$FFFE>
- What do you reply?<$FFFE>
- We won't.<$FFFE>
- Lower your sword, Freya.<$FFFE>
- I'll stop you, by force if I must.<$FFFE>
- That's not an option. We won't abandon another human to die.<$FFFE>
- I see. In that case you leave me no choice but to use force.<$FFFE>
- Lower your sword Freya. There's no desire within me to fight with you!<$FFFE>
- …You haven't changed at all. But don't dwell on old memories forever.<$FFFD>We're enemies now. Even if you've no will to fight, I will!<$FFFE>
- Freya!?<$FFFE>
- Over my dead body!<$FFFD>You will have to go through me first if you want him!<$FFFE>
- So be it!<$FFFD>You're nothing but an enemy to me now. Die here!<$FFFE>
- Remnants of the Larcussian army sighted!<$FFFD>The enemy is upon us!<$FFFE>
- Attention. There are Barral troops on the island up ahead!<$FFFE>
- Please proceed with caution. It would be disadvantageous to do battle in the water!<$FFFE>
- Huh!?<$FFFD>The enemy has broken through our defensive lines!<$FFFE>
- Phew, it sure feels good to have made it.<$FFFE>
- Leave the rest to us.<$FFFC>You stay back and rest.<$FFFE>
- That was my intention but I guess we could sort out this mess together.<$FFFD>I want to join you.<$FFFE>
- Will that be alright? You know that this means to fight against Barral?<$FFFE>
- I've fought plenty just getting this far.<$FFFD>Don't worry about me.<$FFFC>Now, give me orders.<$FFFC>I'll follow them!<$FFFE>
- What are your orders?<$FFFE>
+General Dios! Please,<$FFFC>wait!<$FFFE>
+Dang! They've caught up<$FFFC>with me already?<$FFFE>
+We of Barral need your<$FFFC>strength, General!<$FFFE>
+You still have the Dark<$FFFC>Knight, haven't you?<$FFFD>Besides, I've already<$FFFC>quit as general.<$FFFC>Just leave me alone.<$FFFE>
+I can't allow that. Do<$FFFC>you think you can<$FFFC>run away forever?<$FFFD>If you return now, King<$FFFC>Wilder will forgive you!<$FFFC>So please…<$FFFE>
+Enough! Keep on chasing<$FFFC>after me, and I'll take<$FFFC>you on for real!<$FFFE>
+And I've lost all faith<$FFFC>in that mad king.<$FFFE>
+I can't let that pass,<$FFFC>Dios.<$FFFE>
+P-Princess…<$FFFE>
+Just what do you mean,<$FFFC>you've grown tired of<$FFFC>my father?<$FFFE>
+Princess, what are your<$FFFC>thoughts on all this?<$FFFE>
+King Wilder no longer<$FFFC>holds even a trace of<$FFFC>his former kindness.<$FFFE>
+General…<$FFFE>
+The old king valued the<$FFFC>strength of a mercenary<$FFFC>like me, free of bias.<$FFFC>So I gave him my all.<$FFFE>
+But look at the king!<$FFFC>I've never seen a man<$FFFC>so consumed by ambition!<$FFFE>
+I can't stand the kind<$FFFC>of man who treats others<$FFFC>like vermin!<$FFFE>
+…One last time, then.<$FFFC>You won't turn back?<$FFFE>
+Not a chance! Just leave<$FFFC>me be and go.<$FFFE>
+That I will not allow.<$FFFC>For treason against the<$FFFC>king, you'll be cut down<$FFFC>here and now!<$FFFE>
+Barral soldiers! What<$FFFC>could they be doing all<$FFFC>the way out here?<$FFFE>
+Something here seems<$FFFC>quite wrong to me.<$FFFE>
+General Dios and<$FFFC>the princess seem to be<$FFFC>arguing.<$FFFE>
+You know them?<$FFFE>
+A tactician must know<$FFFC>the key figures of every<$FFFC>nation.<$FFFE>
+I remember now! That's<$FFFC>the man we fought back<$FFFC>in Laffel.<$FFFE>
+Ah, I see now! Still,<$FFFC>what could've happened<$FFFC>between him and Freya?<$FFFE>
+All troops, seize the<$FFFC>traitor Dios!<$FFFE>
+Think you can catch me?<$FFFC>Not so easily!<$FFFE>
+After him! Don't let him<$FFFC>escape!<$FFFE>
+We should help him.<$FFFE>
+Fighting Freya?<$FFFE>
+Yes. We'll fight Barral<$FFFC>before long.<$FFFE>
+Thinning them out here<$FFFC>won't cost us later.<$FFFE>
+We can help the general<$FFFC>and gather intel from<$FFFC>within Barral, as well.<$FFFE>
+So we'd kill two birds<$FFFC>with one stone, then.<$FFFE>
+Understood! Everyone,<$FFFC>let's help the General!<$FFFE>
+Princess! The Larcuss<$FFFC>remnants are heading our<$FFFC>way!<$FFFE>
+What!?<$FFFD>Pursue Dios first! If<$FFFC>they strike at you, each<$FFFC>of you fight back!<$FFFE>
+Understood!<$FFFE>
+Sorry, but I'll rest up<$FFFC>back in the rear.<$FFFC>Running all the way here<$FFFC>wore me out a little.<$FFFE>
+Rest easy. We'll drive<$FFFC>the Barral soldiers off.<$FFFE>
+…Okay. Thanks.<$FFFE>
+So the General won't be<$FFFC>returning after all.<$FFFE>
+There's no choice. Give<$FFFC>chase from the sky. I'll<$FFFC>head for the far shore!<$FFFE>
+The rest of<$FFFC>you give chase from the<$FFFC>skies above.<$FFFE>
+In the name of Barral's<$FFFC>navy, we will keep the<$FFFC>princess safe!<$FFFD>Serpent Knights, charge!<$FFFE>
+I beg you, come quietly,<$FFFC>General Dios! We don't<$FFFC>want to be rough with<$FFFC>you!<$FFFE>
+Sorry to you all, but<$FFFC>I'm making a run for it!<$FFFE>
+We can't just let you<$FFFC>escape!<$FFFE>
+All troops, move out!<$FFFC>Scatter the remnants of<$FFFC>Larcuss!<$FFFE>
+Freya!<$FFFE>
+You are General Dios of<$FFFC>Barral, are you not?<$FFFE>
+I'm no general anymore.<$FFFC>I couldn't keep up with<$FFFC>King Wilder, so I quit.<$FFFE>
+Then…<$FFFE>
+You've guessed it. Just<$FFFC>a common deserter.<$FFFE>
+I see. I can't stand by<$FFFC>and let them hunt you.<$FFFC>It won't be much, but<$FFFC>let me help.<$FFFE>
+I won't stop you. Just<$FFFC>be careful.<$FFFD>Larcuss leaned on the<$FFFC>Demonic Cannon and let<$FFFC>its troops grow soft.<$FFFC>Barral fought to live.<$FFFE>
+I know. Long ago I was<$FFFC>close to Freya and the<$FFFC>house of Wilder.<$FFFE>
+Move aside now,<$FFFC><$F600><$0000>. All<$FFFC>that we want is to take<$FFFC>Dios.<$FFFD>Hand Dios over to us<$FFFC>quietly!<$FFFE>
+What's your answer?<$FFFE>
+We won't.<$FFFE>
+Stand down, Freya.<$FFFE>
+Stop you by force.<$FFFE>
+That's not an option.<$FFFC>We won't hand over a man<$FFFC>marked for death.<$FFFE>
+I see how it is. Then it<$FFFC>seems force is the only<$FFFC>way left.<$FFFE>
+Lower your blade, Freya.<$FFFC>I have no wish to fight<$FFFC>you.<$FFFE>
+…You haven't changed.<$FFFC>But don't cling to the<$FFFC>past forever.<$FFFD>We are enemies now. Even<$FFFC>if you won't fight, I<$FFFC>will!<$FFFE>
+Freya!?<$FFFE>
+Over my dead body!<$FFFD>You'll have to get past<$FFFC>me to reach him!<$FFFE>
+Bring it on!<$FFFD>You're nothing but an<$FFFC>enemy now. Die here!<$FFFE>
+You Larcuss remnants!<$FFFD>We won't let you pass!<$FFFE>
+Watch yourselves! There<$FFFC>are Barral soldiers on<$FFFC>this island as well!<$FFFE>
+Beware the enemy navy.<$FFFC>A battle on the water<$FFFC>would cost us dearly!<$FFFE>
+Nngh!?<$FFFD>The enemy broke through<$FFFC>our defensive line!<$FFFE>
+Phew. Made it this far.<$FFFC>I can rest easy now.<$FFFE>
+Leave the rest to us.<$FFFC>You stay back and rest.<$FFFE>
+That was the plan, but<$FFFC>just watching from afar<$FFFC>isn't really my style.<$FFFD>Let me fight too.<$FFFE>
+Are you certain? You<$FFFC>realize this means<$FFFC>taking up arms against<$FFFC>Barral itself?<$FFFE>
+I've fought plenty just<$FFFC>getting this far.<$FFFD>Don't worry about me.<$FFFC>Now, give me orders.<$FFFC>I'll follow them!<$FFFE>
+What are your orders?<$FFFE>
 Attack the enemy<$FFFE>
 Wait<$FFFE>
- I leave it to your judgment.<$FFFC>Fight as you see fit!<$FFFE>
- Gotcha. Battle is my forte anyway!<$FFFE>
- No need to push yourself. Just rest over there.<$FFFE>
- Thanks.<$FFFE>
- They are driving us back into a corner, what are they up to…<$FFFE>
- While making your way through the bushes you come across a spear sticking in a rock.<$FFFD>The spear is entwined with ivy.<$FFFE>
- What do you want to do?<$FFFE>
+The judgment is yours to<$FFFC>make. Fight however you<$FFFC>see fit!<$FFFE>
+Right then. I'll do as I<$FFFC>please!<$FFFE>
+No need to overdo it.<$FFFC>Just rest over there.<$FFFE>
+Thanks.<$FFFE>
+I never dreamed we'd be<$FFFC>cornered this far…<$FFFE>
+A lance rests on a rock<$FFFC>ringed by tall grass.<$FFFD>The lance is entwined<$FFFC>with ivy.<$FFFE>
+What do you want to do?<$FFFE>
 Cut it with your sword<$FFFE>
 Remove it by hand <$FFFE>
 Ignore it <$FFFE>
- You damaged the spear somewhat, but it still was possible to get it.<$FFFE>
- Lance was obtained!<$FFFE>
- You gently remove the ivy with your hands with success.<$FFFE>
- Zuftaf was obtained!<$FFFE>
- After a while the spear disappears into thin air.<$FFFE>
- Keh… Freya…<$FFFE>
- Kyaaah!<$FFFC>So cruel!<$FFFC>This is too cruel!<$FFFE>
- I-I'm sorry.<$FFFC>I wasn't strong enough…<$FFFE>
- Craaap! Going down like this…how regrettable…<$FFFE>
- My…power seems to be insufficient…<$FFFE>
- Damn, just my luck… Forgive me, Sir <$F600><$0000>…<$FFFE>
- Well… May Lushiris watch over you all…<$FFFE>
- Still not as it used to be…<$FFFE>
- Uuuuh… I am finished…<$FFFE>
- Grrrrr… I am sorry…<$FFFE>
- You won't get me without a fight!<$FFFE>
- Damn! There is no escape…<$FFFE>
- General Dios!<$FFFE>
- The traitor has been caught! We have no more reason to stay here.<$FFFD>All troops retreat!<$FFFE>
- My…power wasn't sufficient!? Keh!<$FFFE>
- Keh… How could I…<$FFFE>
- Princess! Please retreat. We will stall the enemy…<$FFFE>
- There aren't enough troops left to win this battle… Everyone, retreat…<$FFFE>
- …If that is your wish. Understood.<$FFFE>
- <$F600><$0000>! One day I will return this favor!<$FFFE>
- Keh… One day I will return this favor!<$FFFE>
- …Freya…<$FFFE>
- Sir <$F600><$0000>, you did commendable. We should hurry on ahead.<$FFFE>
- Sir <$F600><$0000>…<$FFFC>A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
- So, where are you all are heading to?<$FFFE>
- We are on our way to the Estool ruins to claim a sword that banishes evil.<$FFFD>But what will you do from here on out General Dios?<$FFFE>
- Hey now, I already said I retired as a general. Simply Dios is fine.<$FFFD>From what I understand you are concerned about King Wilder too.<$FFFD>For now I think I will join your cause. Also that's my way to say thanks.<$FFFE>
- Dios joined the party!<$FFFE>
- That's reassuring, Dios. I am counting on you.<$FFFE>
- I simply cannot understand your actions. But I will stop this madness even if I have to use force!<$FFFE>
- Interesting. Give it a try!<$FFFE>
- Urgh, my supreme spear technique was useless…<$FFFE>
- My sniping was useless…<$FFFE>
- I was getting careless…<$FFFE>
- Kyaaah!<$FFFE>
- I can still fight…<$FFFE>
- Curses! Troops from Larcuss have arrived!<$FFFE>
- Arrest the general fast…<$FFFE>
- Dammit! Troops from Larcuss have arrived!<$FFFE>
- Why… Sky…Aaargh!<$FFFE>
- T-too strong!<$FFFE>
- Uarrgh!<$FFFE>
- I thought I would be invincible in the water…<$FFFE>
- Absurd!<$FFFE>
- The tactics General Dios taught me… failed me…<$FFFE>
- My beloved mount…Fare thee well…<$FFFE>
- Uwaaa!<$FFFE>
- I can't lose here…<$FFFE>
- Princessaaargh!<$FFFE>
- General…<$FFFE>
- My magic has failed me…<$FFFE>
- Urgh…this has to be a bad dream…<$FFFE>
- I don't want to die!<$FFFE>
- That cannot be… All my troops have been defeated!?<$FFFE>
- Please stop this, Freya!<$FFFE>
- Silence! Even if I am on my own I will fight to the end!<$FFFE>
- What do you say?<$FFFE>
+The lance took a few<$FFFC>scratches, but the ivy<$FFFC>was pulled away clean.<$FFFE>
+Acquired the Lance!<$FFFE>
+You carefully removed<$FFFC>the ivy by hand.<$FFFE>
+Acquired Zuftaf!<$FFFE>
+After a while the lance<$FFFC>flew off on its own.<$FFFE>
+Keh… Freya…<$FFFE>
+Kyaaah!<$FFFC>So cruel! This is too<$FFFC>cruel!<$FFFE>
+I-I'm sorry. I wasn't<$FFFC>strong enough…<$FFFE>
+Craaap! Pulling back<$FFFC>here… it's too<$FFFC>frustrating…<$FFFE>
+My power fell short…<$FFFC>so it seems…<$FFFE>
+I can go no further…<$FFFC>Forgive me…<$FFFC>Sir <$F600><$0000>…<$FFFE>
+Ahh… May Lushiris's<$FFFC>blessing be upon you<$FFFC>all…<$FFFE>
+Still not like before…<$FFFE>
+Ungh… forgive me. These<$FFFC>old bones are done for…<$FFFE>
+Grrrrr… I am sorry…<$FFFE>
+Don't think you'll<$FFFC>escape from me unharmed!<$FFFE>
+Damn it all! I can't<$FFFC>escape this…<$FFFE>
+General Dios!<$FFFE>
+The traitor is caught!<$FFFC>No need to linger here<$FFFC>any longer.<$FFFD>All troops, retreat!<$FFFE>
+Is this all my power?!<$FFFC>Ngh!<$FFFE>
+Keh… How dare you…<$FFFE>
+Princess! Please fall<$FFFC>back. We'll hold them<$FFFC>off here somehow…<$FFFE>
+We've no strength left<$FFFC>to fight on any longer.<$FFFC>Everyone, retreat…<$FFFE>
+…If that's your wish.<$FFFC>Understood.<$FFFE>
+<$F600><$0000>!<$FFFC>I'll repay this debt!<$FFFC>One day, I swear it!<$FFFE>
+Keh… I'll repay this<$FFFC>debt! One day, I swear<$FFFC>it!<$FFFE>
+…Freya…<$FFFE>
+Sir <$F600><$0000>,<$FFFC>your command was superb.<$FFFC>Now, let's hurry ahead.<$FFFE>
+Sir <$F600><$0000>…<$FFFC>A battle must never be<$FFFC>drawn out too long.<$FFFD>It will affect our next<$FFFC>move…<$FFFE>
+So then, where are you<$FFFC>all headed off to now?<$FFFE>
+We must make for the<$FFFC>Estool ruins to claim<$FFFC>the Decimation Sword.<$FFFD>But what of you, General<$FFFC>Dios? What will you do<$FFFC>now?<$FFFE>
+Hey, hey, enough with<$FFFC>the general talk.<$FFFC>Just call me Dios.<$FFFD>I betrayed King Wilder<$FFFC>and have nowhere left<$FFFC>to turn to now.<$FFFD>Let me fight alongside<$FFFC>you, then. I owe you a<$FFFC>debt for the rescue.<$FFFE>
+Dios joined the party!<$FFFE>
+Glad to have you, Dios.<$FFFC>I'm counting on you.<$FFFE>
+I don't understand how<$FFFC>Freya feels. But I'll<$FFFC>drive her back by force!<$FFFE>
+Interesting. Give it a<$FFFC>try!<$FFFE>
+Ugh… my spear arts,<$FFFC>undone…<$FFFE>
+How dare you dodge my<$FFFC>shot…<$FFFE>
+I let my guard down…<$FFFE>
+Kyaaah!<$FFFE>
+I can still fight…<$FFFE>
+Blast! Larcuss troops<$FFFC>have come already!?<$FFFE>
+If we fail to capture<$FFFC>the general, then we…<$FFFE>
+Dammit! Larcuss troops<$FFFC>are here already?!<$FFFE>
+Wh-why…?! In the skies,<$FFFC>I…Aaargh!<$FFFE>
+T-too strong!<$FFFE>
+Uarrgh!<$FFFE>
+I thought I could never<$FFFC>lose in a water battle…<$FFFE>
+Absurd!<$FFFE>
+All the tactics that<$FFFC>General Dios drilled<$FFFC>into me… every bit of<$FFFC>it for nothing…<$FFFE>
+Oh, my beloved steed…<$FFFC>Farewell…<$FFFE>
+Uwaaa!<$FFFE>
+I can't lose here…<$FFFE>
+Princessaaargh!<$FFFE>
+General…<$FFFE>
+My magic, undone by the<$FFFC>likes of you…<$FFFE>
+Urgh… This is a bad<$FFFC>dream…<$FFFE>
+I don't want to die!<$FFFE>
+Impossible… Beaten by<$FFFC>a force half our size?!<$FFFE>
+Stop this now, Freya!<$FFFE>
+Silence! Even if I stand<$FFFC>alone, I'll fight to the<$FFFC>end!<$FFFE>
+What do you say?<$FFFE>
 Calm her down <$FFFE>
-Stand up against her<$FFFE>
-Ask her about her reason for fighting<$FFFE>
- Calm down, Freya! Any more fighting is pointless!<$FFFE>
- Mind your own business!<$FFFC>Don't interfere with what I do!<$FFFE>
- If that's what you want. You would better brace yourself!<$FFFE>
- You should not take me lightly <$F600><$0000>!<$FFFE>
- Wait. I don't want to fight you Freya.<$FFFD>And I don't understand why we have to do battle! What is your reason behind this!?<$FFFE>
- There's nothing to talk about!<$FFFC>What reason do we need to fight one another!<$FFFE>
- I can't accept that, Freya.<$FFFD>Why did Barral invade Larcuss?<$FFFC>There was no reason for us to fight!<$FFFE>
- I am still the princess of Barral! If the king orders to invade Larcuss, I have no choice but to do so!<$FFFD>You and I are enemies. There is nothing but battle for us to do!<$FFFE>
-I told you before.<$FFFD>I am only following my father's orders.<$FFFE>
- Princess!<$FFFD>Our troops stationed on the island have been wiped out!<$FFFE>
-…As I expected of you <$F600><$0000>.<$FFFB>If only we wouldn't have to be enemies…<$FFFE>
- Prin…cess?<$FFFE>
- Never mind that.<$FFFD>Well then! Scatter the advancing enemies and seize the traitor Dios!<$FFFD>We cannot allow the honor of the Barral Kingdom to be soiled like that! Move out cautiously!<$FFFE>
- Yessir!<$FFFE>
- The units stationed on the island have been wiped out!?<$FFFD>We can't face the princess like this.<$FFFC>Defeat them no matter what!<$FFFE>
- Understood!<$FFFE>
+Take her on<$FFFE>
+Ask her why she fights<$FFFE>
+Calm down, Freya!<$FFFC>Can't you see that<$FFFC>fighting any further is<$FFFC>pointless now?<$FFFE>
+Mind your own business!<$FFFC>Stay out of what I do!<$FFFE>
+Very well. I'll take you<$FFFC>on!<$FFFE>
+To the likes of you, I<$FFFC>will never, ever lose,<$FFFC><$F600><$0000>!<$FFFE>
+Wait. I don't want to<$FFFC>fight you, Freya.<$FFFD>Why are you so set on<$FFFC>fighting me like this?!<$FFFC>Tell me your reason!<$FFFE>
+Nothing to talk about!<$FFFC>Why do you and I need<$FFFC>a reason to fight?!<$FFFE>
+I can't accept any of<$FFFC>this, Freya.<$FFFD>Why would Barral invade<$FFFC>Larcuss at all?<$FFFC>We never had a reason<$FFFC>to fight each other!<$FFFE>
+I am Barral's princess!<$FFFC>If he attacks Larcuss,<$FFFC>I've no choice but to<$FFFC>follow him and fight!<$FFFD>You and I are enemies.<$FFFC>We can only fight now!<$FFFE>
+I told you before.<$FFFD>I am only carrying out<$FFFC>my father's orders.<$FFFE>
+Princess!<$FFFD>Our island troops have<$FFFC>been wiped out!<$FFFE>
+…I'd expect no less,<$FFFC><$F600><$0000>.<$FFFB><$FFFC>I never wanted to<$FFFC>make you my enemy…<$FFFE>
+Prin…cess?<$FFFE>
+Never mind that.<$FFFD>Listen! Strike them down<$FFFC>and capture Dios!<$FFFD>This touches Barral's<$FFFC>very honor and pride!<$FFFC>Steel yourselves!<$FFFE>
+Yessir!<$FFFE>
+Our island units have<$FFFC>been wiped out!?<$FFFD>We'll have no face to<$FFFC>show the princess now!<$FFFC>Defeat them, whatever<$FFFC>it takes!<$FFFE>
+Understood!<$FFFE>

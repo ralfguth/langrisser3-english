@@ -1,4 +1,3 @@
-
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -6,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -26,32 +25,32 @@ Princess Freya<$FFFF>
 Mysterious Man<$FFFF>
 Colcian General<$FFFF>
 Colcian Soldier<$FFFF>
-In front of the Royal capital Larcussia<$FFFF>
-The prosperous Larcuss trusted<$FFFC>too much in the Magical Cannon<$FFFC>of its Floating Castle and kept <$FFFC>only a small army.<$FFFE>
-After Field Marshal Altemüller<$FFFC>shot down the Floating Castle,<$FFFC>Larcussia, the capital, lay<$FFFC>utterly defenseless before<$FFFC>the Empire's mighty advance.<$FFFB><$FFFB><$FFFD><$0000><$FFFE>
-Within mere months, the capital<$FFFC>and most of the kingdom had<$FFFC>fallen under Imperial control,<$FFFC>bending to the Empire's rule.<$FFFB><$0000><$FFFB><$0000><$FFFD><$0000><$FFFE>
-Hearing of the castle's fall,<$FFFC>nearby nations rose in revolt.<$FFFC>Barral seized the Vice Capital,<$FFFC>while Colcia claimed the west.<$FFFC>                <$FFFD><$FFFC><$FFFE>
-Imperial Castle- Audience Hall<$FFFF>
-Field Marshal Altemüller<$FFFC>The Larcussian campaign<$FFFC>was a complete triumph.<$FFFD>Larcussia is ours now,<$FFFC>and Rigüler's people<$FFFC>shall share its bounty…<$FFFE>
+Larcussia Castle Gate<$FFFF>
+The prosperous Larcuss trusted<$FFFC>too much in the Magic Cannon of<$FFFC>its Floating Castle and kept<$FFFC>only a small army.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>
+After Field Marshal Altemüller<$FFFC>shot down the Floating Castle,<$FFFC>Larcussia, the capital, lay<$FFFC>utterly defenseless before the<$FFFC>Empire's mighty advance.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>
+Within mere months, the capital<$FFFC>and most of the kingdom had<$FFFC>fallen under the Empire's heel,<$FFFC>now under Rigüler's rule.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>
+Hearing of the castle's fall,<$FFFC>the neighboring nations fell<$FFFC>upon the kingdom. Barral seized<$FFFC>Laffel, the vice capital, and<$FFFC>Colcia the west.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>
+Imperial Castle, Audience Hall<$FFFF>
+Altemüller…<$FFFC>The Larcussian campaign<$FFFC>was a complete triumph.<$FFFD>Larcuss is ours now,<$FFFC>and our Rigüler people<$FFFC>shall share its bounty…<$FFFE>
 Yes, sire! I am humbled<$FFFC>by your gracious words.<$FFFE>
-From this day forth,<$FFFC>the Empire shall...<$FFFD>...*cough*!!<$FFFE>
+From this day forth,<$FFFC>the Empire shall…<$FFFD>…*cough*!!<$FFFE>
 Father…<$FFFE>
-Do not be troubled...<$FFFC>It is but a passing...<$FFFD>...Ugh!<$FFFE>
+Do not be troubled…<$FFFC>It is but a passing…<$FFFD>…Ugh!<$FFFE>
 Your Majesty!?<$FFFE>
 City of Laffel<$FFFF>
 The princess is here.<$FFFE>
 Good.<$FFFE>
-Father, after so long.<$FFFE>
-Oh, Freya. How do you<$FFFC>find Laffel? It pales<$FFFC>beside royal capital<$FFFC>Larcussia, I suppose…<$FFFD>But no matter. In time<$FFFC>we shall conquer the<$FFFC>royal capital as well.<$FFFE>
-It seems Larcussia has<$FFFC>fallen into the hands <$FFFC>of the Rigüler Empire…<$FFFE>
+Father, it's been<$FFFC>so long.<$FFFE>
+Oh, Freya. How do you<$FFFC>find Laffel? It pales<$FFFC>beside the capital,<$FFFC>Larcussia, I suppose…<$FFFD>But no matter. In time<$FFFC>we shall conquer the<$FFFC>royal capital as well.<$FFFE>
+It seems Larcussia has<$FFFC>fallen into the hands<$FFFC>of the Rigüler Empire…<$FFFE>
 Father, don't tell me<$FFFC>you'll defy the Empire!?<$FFFE>
 Don't worry. With Dios<$FFFC>and this fellow here,<$FFFC>the Empire is no match.<$FFFE>
 …<$FFFE>
 Who is he?<$FFFE>
-Black Knight… no, now<$FFFC>he is the Dark Knight,<$FFFC>Barral Army's supreme <$FFFC>commander.<$FFFD>With the Dark Knight,<$FFFC>the Empire is nothing …<$FFFC>Bwahahaha!<$FFFE>
-Now within Larcuss, the armies <$FFFC>of many nations clash, while<$FFFC>old prosperity fades away.<$FFFE>
-We saw Rigüler's move <$FFFC>and meant to strike at<$FFFC>once, but fell behind.<$FFFD>Yet Colcia shall have<$FFFC>the last laugh. <$FFFC>Advance!<$FFFE>
+Black Knight… no, now<$FFFC>he is the Dark Knight,<$FFFC>the Barral Army's new<$FFFC>supreme commander.<$FFFD>With the Dark Knight,<$FFFC>the Empire is nothing…<$FFFC>BWAHAHAHA!<$FFFE>
+Now within Larcuss, the armies<$FFFC>of many nations clash, while old<$FFFC>prosperity fades away.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>
+We were quick to move on<$FFFC>the Empire, but we got<$FFFC>here a bit late.<$FFFD>Still, Colcia laughs<$FFFC>last. All units,<$FFFC>advance!<$FFFE>
 Oohhh!<$FFFE>
-Half year later<$FFFF>
-Narrowly escaping the castle,<$FFFC>the group reached Viscount<$FFFC>Raymond, border lord and<$FFFC>uncle of <$F600><$0000>,<$FFFC>and plotted to reclaim home.<$FFFE>
-Half a year passed swiftly,<$FFFC>a sizeable force had gathered <$FFFC>at Viscount Raymond's side.<$FFFE>
+Half a year later<$FFFF>
+Narrowly escaping the castle,<$FFFC>the survivors reached Viscount<$FFFC>Raymond, border lord and the<$FFFC>young knight's uncle, and laid<$FFFC>plans to retake their home.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>
+Half a year passed swiftly, and<$FFFC>a sizable force had gathered at<$FFFC>Raymond's side.<$FFFB><$FFFB><$FFFB><$FFFB><$FFFD><$FFFE>

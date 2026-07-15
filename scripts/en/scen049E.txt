@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -21,23 +21,23 @@ General Varna<$FFFF>
 General Emerick<$FFFF>
 Rigüler Commander<$FFFF>
 General Bortz<$FFFF>
-Former Larcussia Royal Castle - Currently Imperial Headquarters<$FFFF>
- Have your wounds healed, Varna?<$FFFE>
- My thanks for your concern, Your Excellency. Up until now I have been just a source for worry, but I have recovered now.<$FFFE>
- That's wonderful. I don't know how I could continue to live without you.<$FFFE>
- Your Excellency! …Please, do not jest so.<$FFFE>
- Anyhow, does it look like the armies of Lord Raymond and Colcia are still fighting?<$FFFE>
- Yes, and somehow it looks like the Colcian army is being pressed back.<$FFFE>
- Excuse my interruption!<$FFFE>
- I have a report to offer.<$FFFD>While General Geier pursued the escaped prisoners, he ran across some armed Larcussians near Baron Torrand's land.<$FFFD>From their apparent route, it looks like they are trying to meet up with Baron Torrand.<$FFFE>
- Imagine that. Geier giving us new information while he hunts…<$FFFD>You have done well. Take a much earned break.<$FFFE>
- Yes, sir!<$FFFE>
- The genius strategist, Baron Torrand, eh…<$FFFE>
- Emerick. Using your cavalry, strike either the Larcuss mobile division or the Baron's manor.<$FFFE>
- A unit on the move is hard to catch… In that case, attacking the Baron's manor would be the better choice.<$FFFE>
- Might I employ an airship for this task?<$FFFE>
- I don't believe it would stand up well against the heavy mountain winds. The land route should be faster. You should be able to make it in time if you use your cavalry.<$FFFD>…and if you get a chance to see how well he lives up to this reputation for genius strategy, go for it.<$FFFE>
- A rare opportunity indeed.<$FFFC>My thanks for your consideration.<$FFFD>I take my leave.<$FFFE>
- Bortz!<$FFFB>I leave the matter of Lord Raymond in your hands.<$FFFD>Strike when they are at their weakest, right after they defeat the Colcians!<$FFFE>
- Yes, sir! I will assess the situation at hand and deal with it accordingly.<$FFFE>
- Then head on out!<$FFFE> 
+Larcussia Castle, Imperial HQ<$FFFF>
+Have your wounds healed,<$FFFC>Varna?<$FFFE>
+Thank you for your<$FFFC>concern. I'm sorry to<$FFFC>have worried you… I'm<$FFFC>quite well now.<$FFFE>
+That's good to hear. I<$FFFC>can do nothing without<$FFFC>you.<$FFFE>
+Your Excellency!<$FFFC>…Please, don't tease me<$FFFC>like that.<$FFFE>
+By the way, how is Lord<$FFFC>Raymond's army faring<$FFFC>against the Colcians?<$FFFE>
+Yes. It seems the<$FFFC>Colcians are losing<$FFFC>ground.<$FFFE>
+Pardon the intrusion!<$FFFE>
+I have a report.<$FFFD>Pursuing the escapees,<$FFFC>General Geier met armed<$FFFC>Larcuss remnants near<$FFFC>Baron Torrand's land.<$FFFD>From their heading, they<$FFFC>aim to join Torrand.<$FFFE>
+So Geier's hunt turned<$FFFC>up unexpected news.<$FFFD>Well done. You may go.<$FFFE>
+Yes, sir!<$FFFE>
+The genius strategist,<$FFFC>Baron Torrand, is it…<$FFFE>
+Emerick. Take your<$FFFC>cavalry and crush<$FFFC>either the remnants or<$FFFC>the Baron's manor.<$FFFE>
+Troops on the move are<$FFFC>hard to pin down. The<$FFFC>manor is the better<$FFFC>target, I'd say.<$FFFE>
+Why not send an airship<$FFFC>instead?<$FFFE>
+These mountain headwinds<$FFFC>slow any flight, so land<$FFFC>is faster. Your cavalry<$FFFC>will make it in time.<$FFFD>…Besides, you won't<$FFFC>often get to test your<$FFFC>skill against a genius<$FFFC>strategist.<$FFFE>
+A rare chance indeed.<$FFFC>I'm grateful for the<$FFFC>thought.<$FFFD>I'll be on my way.<$FFFE>
+Bortz!<$FFFB><$FFFC>I leave Lord Raymond to<$FFFC>you.<$FFFD>Strike the moment they<$FFFC>break the Colcians and<$FFFC>drop their guard!<$FFFE>
+Yes, sir! I will weigh<$FFFC>the situation and<$FFFC>handle it with care!<$FFFE>
+Then go!<$FFFE> 

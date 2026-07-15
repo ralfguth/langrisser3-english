@@ -1,0 +1,677 @@
+# Source for fntsys13E.txt (item descriptions). Build with tools/build_fntsys13.py.
+# One block per described item (176 total): item k=1..175 -> 4 records,
+# item 176 -> 1 record. "# <fntsys10 line>  <name>" is a reference label only.
+# @stat = final content record (stat/effect); omit it for items with none.
+# JP is authority (scripts/jp/fntsys13J.txt). Stat values are display text;
+# the engine applies real stats from the PROG item tables, not from this text.
+
+# 2  Masayan Sword
+A lame sword with a horse and star on the hilt. Its dull edge grants double XP per kill.
+@stat ATK-4 DEF-2 Amod-2
+
+# 3  Longsword
+A one-handed longsword. Cheap and easy for novice and veteran alike. The most popular of all swords.
+@stat ATK+4
+
+# 4  Greatsword
+A two-handed sword. Its broad, heavy blade strikes hard enough to shatter a foe, armor and all.
+@stat ATK+5
+
+# 5  Mithril Sword
+A sword forged from mithril, a rare alloy. The best blade of any sword that bears no magic.
+@stat ATK+6
+
+# 6  Ice Blade
+A magic sword that freezes whatever it cuts. Its cold blade is wrought from ice that will never melt.
+@stat ATK+6
+
+# 7  Raijin Ken
+A sword whose blade is a shaft of plasma. Seal the thunder god's power, it can call down lightning.
+@stat ATK+6
+
+# 8  Hrunting
+A cursed blade tempered in blood, its edge smeared with poison. A mere wound from it can prove fatal.
+@stat ATK+7
+
+# 9  Gram
+A sword keen enough to cleave steel. It can cut even a dragon, hard scales and all, clean in two.
+@stat ATK+6 /vs dragons
+
+# 10  Kusanagi
+A sacred treasure of the Eastern royal house, said to come from the tail of a giant serpent.
+@stat ATK+8
+
+# 11  Excalibur
+A legendary holy sword graven with strange patterns. Its bearer is said to be watched over by the gods.
+@stat ATK+9 DEF+1
+
+# 12  Decimation Sword
+A holy sword a legendary swordsman forged to seal the wicked, wrought of a rare metal called orichalcum.
+@stat ATK+7
+
+# 13  Langrisser
+Sieghart's soul, sealed within the Decimation Sword. Blessed by Lushiris, it opposes the dark blade.
+@stat ATK+11 DEF+1 /m.resist
+
+# 14  Alhazard
+A dark blade born of Chaos, god of disorder. It grants its bearer boundless power and his blessing.
+@stat ATK+13 /m.res /HP drain
+
+# 15  Hand Axe
+A small one-handed axe. A handy size and easy to use, often carried for the hunt. It can also be thrown.
+@stat ATK+4
+
+# 16  Battle Axe
+A great war axe for battle, a double-edged head on a long haft. High attack, but heavy.
+@stat ATK+7 MOV-2
+
+# 17  Mithril Axe
+An axe of mithril silver, a magic metal. Despite its great head, it is light and easy to wield.
+@stat ATK+7
+
+# 18  Devil Axe
+A blood-soaked greataxe under an ancient curse. It maddens its wielder and terrifies its victims.
+@stat ATK+12 DEF-4 MOV-2
+
+# 19  Rune Axe
+A stone axe carved with runes of ruin and silence. Magic woven into it makes it surprisingly light.
+@stat ATK+10 MOV-1
+
+# 20  Knife
+Weak in attack, but small and easy to carry, so travelers favor it for self-defense.
+@stat ATK+1
+
+# 21  Main Gauche
+A special dagger meant less for attacking than for parrying a foe's blows. Hard to handle.
+@stat ATK+1 DEF+1
+
+# 22  Gladius
+A one-handed short sword. Easy to use, cheap, and decently strong. A fine weapon for beginners.
+@stat ATK+2
+
+# 23  Kryss
+A keen dagger of meteoric iron. Its wavy blade is highly lethal, and it bears lovely carvings.
+@stat ATK+3
+
+# 24  Kunai
+A concealed weapon made for ninja. Good for defense, scaling walls, throwing at foes, and much more.
+@stat ATK+4
+
+# 25  Bamboo Spear
+A spear made of bamboo. Light, easy to use, and cheap.
+@stat ATK+3
+
+# 26  Iron Spear
+A spear of sturdy steel, with piercing and crushing power enough to withstand a cavalry charge.
+@stat ATK+4
+
+# 27  Trident
+A three-pronged spear with three blades. Simple to handle, yet boasting very high lethality.
+@stat ATK+5
+
+# 28  Partisan
+A long spear grown from the trident, with a broad spearhead richly and beautifully adorned.
+@stat ATK+6
+
+# 29  Feather Spear
+A magic spear said to cut even the wind. Very light, it grants its bearer power over the wind.
+@stat ATK+7
+
+# 30  Benkei Glaive
+A glaive favored by Benkei, an Eastern warrior-monk. A very heavy spear, but of immense might.
+@stat ATK+8
+
+# 31  Gae Bolg
+A spear built to loose countless arrows from its tip. So unusual that mastery takes long practice.
+@stat ATK+9
+
+# 32  Gungnir
+Odin's throwing spear. It never misses, and returns on its own once the foe is slain.
+@stat ATK+10
+
+# 33  Club
+A most primitive bludgeon. Little more than worked wood, yet its power is not to be scorned.
+@stat ATK+3
+
+# 34  Flail
+A mace with a spiked ball chained to a long haft. Powerful and hard to dodge, but hard to handle.
+@stat ATK+4
+
+# 35  Morningstar
+A spiked-ball mace built for force. It shatters foes armor and all, even heavy troops.
+@stat ATK+5
+
+# 36  Iron Dumbbell
+A training tool the macho Big Brother always carries, to build his body anytime, anywhere.
+@stat ATK+2
+
+# 37  Mithril Hammer
+A huge hammer of mithril silver, a magic metal. Light and sturdy, its destructive power is immense.
+@stat ATK+6
+
+# 38  Dagda Club
+The cudgel of Dagda, god of great strength. So heavy and vast that no ordinary man can even lift it.
+@stat ATK+7
+
+# 39  Mjolnir
+Thor's hammer, of fearsome power. Thrown, it flies like lightning, smashes the foe, then returns.
+@stat ATK+8
+
+# 40  Cypress Staff
+A staff of cypress. Useless as a weapon, but though plain it has the power to heighten magic.
+@stat ATK+1 RANGE+1
+
+# 41  Staff
+Used both to defend a mage and to aid the focus of the mind while chanting spells.
+@stat RANGE+3 INT+5
+
+# 42  Wand
+Only those acknowledged as full-fledged mages may carry it. It bears wards against enemy magic.
+@stat RANGE+3 INT+10 MRES+5
+
+# 43  Crystal Rod
+Tipped with a magic-charged crystal that amplifies the caster's spells.
+@stat ATK+1 RANGE+4 INT+10
+
+# 44  Wizard Rod
+A rod used by those called archmages, fitted with many devices for wielding magic.
+@stat RANGE+5 INT+10 MRES+5
+
+# 45  Ice Staff
+A magic staff radiating cold. It houses an ice spirit, so it can cast Freeze without focusing the mind.
+@stat RANGE+5 INT+10 MRES+5
+
+# 46  Staff of Life
+A staff full of the breath of life. It heals any it touches, needing no focus of mind.
+@stat RANGE+5 INT+10 MRES+5
+
+# 47  Dragonlord Staff
+A staff passed down by each dragon lord, its tip holding the wisdom of all who led dragonkind.
+@stat RANGE+7 INT+5 MRES+5
+
+# 48  Holy Rod
+A rod blessed by Lushiris, holding sacred power. It raises its bearer's magic to the utmost.
+@stat RANGE+6 AREA+1 INT+10
+
+# 49  Dark Rod
+A dark rod blessed by Chaos, god of darkness. It drains the life of any but its owner who touches it.
+@stat RANGE+6 AREA+1 INT+10
+
+# 50  Wooden Bow
+A short bow of wood, made from the oak tree. Small and easy to carry, but lacking in power.
+@stat ATK+1
+
+# 51  Shortbow
+A composite short bow of oak and ram's horn. For its size, it has fine strength and elasticity.
+@stat ATK+2
+
+# 52  Longbow
+A longbow of yew. Rich in power and penetration, but it takes much training to master.
+@stat ATK+3
+
+# 53  Crossbow
+A bow on a stock. Pull the trigger to shoot. The winch-drawn string gives great power.
+@stat ATK+4
+
+# 54  Elven Bow
+A longbow of the elves, wardens of the forest. Blessed by forest spirits, it casts foes into silence.
+@stat ATK+4 INT+5
+
+# 55  Sleep Bow
+A hit from this magic bow brings overpowering sleep. The goddess of night used it to grant repose.
+@stat ATK+5
+
+# 56  Hadding
+A magic bow that fits in the hand at rest but grows large when drawn. Its destructive power is extraordinary.
+@stat ATK+6
+
+# 57  Artemis Bow
+Artemis's bow. The moon's magic dwells in its arrows, and at times it drives a foe's heart to madness.
+@stat ATK+6
+
+# 58  Izayoi
+An Eastern blade forged on the sixteenth-night moon. Light but keen, with fine lethal power.
+@stat ATK+6
+
+# 59  Kiku-ichimonji
+An Eastern blade signed Kiku on the tang. Its craft is so high it is famed as a master blade.
+@stat ATK+7
+
+# 60  Kotetsu
+A master blade forged by Kotetsu, an Eastern smith. Keen of edge, and wreathed in many legends.
+@stat ATK+9
+
+# 61  Masamune
+A master blade by Masamune, a famed Eastern smith. Said to cleave a steel helm in one stroke.
+@stat ATK+10
+
+# 62  Muramasa
+A cursed blade that thirsts for human blood. Legend says it was once banned for menacing a royal house.
+@stat ATK+11 /vs humans
+
+# 63  Lance
+A mounted lance. Used mainly to unhorse a foe, but a killing thrust has force enough to pierce armor.
+@stat ATK+7
+
+# 64  Mithril Lance
+A magic lance made of mithril silver. Lighter, sturdier, and more piercing than an ordinary lance.
+@stat ATK+8
+
+# 65  Bloody Lance
+A lance that has drunk blood on many fields. It devours the souls it pierces and lends its bearer life.
+@stat ATK+6 /HP drain
+
+# 66  Dragon Lance
+A lance borne by dragon knights. Longer and lighter than a mounted lance, yet fierce in power.
+@stat ATK+9
+
+# 67  Flame Lance
+A magic lance said to be the incarnation of a fire spirit. Fierce flames pour from its tip and haft.
+@stat ATK+10
+
+# 68  Zuftaf
+A magic spear that roams for battle. Sensing war's omens, it gives off flame and rushes to the field.
+@stat ATK+11
+
+# 69  Plate Armor
+Full-body armor of riveted steel plate. Rich in defense, but its poor mobility is a drawback.
+@stat DEF+6 MOV-2
+
+# 70  Silver Armor
+Armor of mithril silver. Lighter than steel, it keeps mobility and wards off a little magic.
+@stat DEF+6 MOV-1
+
+# 71  Knight Plate
+Full-body armor granted to knights. It pursues not only function but outward beauty as well.
+@stat DEF+7 MOV-2
+
+# 72  Aura Plate
+It strengthens the wearer's aura to guard the body. Lighter than common plate, yet defends better.
+@stat DEF+7
+
+# 73  Assault Suit
+Vast humanoid steel armor. The shoulder reads Gear-1. A gift from an unknown civilization.
+@stat ATK+10 DEF+10
+
+# 74  Chainmail
+Armor woven of chain links. Lighter and freer than plate, with high defense, so many warriors favor it.
+@stat DEF+4 MOV-1
+
+# 75  Earth Armor
+Holy armor from the Earth Mother to her faithful, lending her blessing and slight magic resistance.
+@stat DEF+4
+
+# 76  Breastplate
+Armor with plating at the chest. Heavier than chainmail, but it grants high defense.
+@stat DEF+5 MOV-1
+
+# 77  Dragon Scale
+Armor of dragon scales. Light and shock-absorbing, but rare, for the scales are precious.
+@stat DEF+5 /fire resist
+
+# 78  Warrior Armor
+Armor worn by Eastern warriors. It joins lightness and high defense, an artful, beautiful piece.
+@stat DEF+6 MOV-1
+
+# 79  Aeneas Armor
+The armor worn by the hero Aeneas. Said to be made by the god of the forge, hence its superb defense.
+@stat DEF+6
+
+# 80  Leather Armor
+Armor made of tanned leather. Not much defense to hope for, but ample thought is given to mobility.
+@stat DEF+2
+
+# 81  Hard Leather
+Armor of thick layered tanned leather. A touch heavy, but it gains fitting strength for it.
+@stat DEF+3
+
+# 82  Black Suit
+Special garb worn by Eastern shinobi. Built for mobility, but rich in defense as well.
+@stat DEF+4
+
+# 83  Cloth Clothes
+Mere clothing, so no real defense to hope for. Still, a little better than wearing nothing at all.
+@stat DEF+1
+
+# 84  Robe
+A light, loose robe worn by mages. It carries a faint protective spell to guard against enemy magic.
+@stat DEF+1
+
+# 85  Vaseline
+A wax favored by the Builder. It gives the body firmness and shine, but offers no defense whatsoever.
+
+# 86  Magical Bikini
+A wondrous bikini resistant to all magic. Used, it can cast Resist.
+@stat DEF+1
+
+# 87  Mirage Robe
+A magic robe radiating a mystic aura. Magic raises its defense, and it resists enemy spells as well.
+@stat DEF+2
+
+# 88  Celestial Robe
+A celestial feather-robe said to bear its wearer skyward. Little defense, but high magic resistance.
+@stat DEF+2
+
+# 89  Dark Vestments
+Robes worn by dark priests of Chaos. Soaked in sacrificial blood, they grant his blessing and cast Confuse.
+@stat DEF+3 /m.resist up
+
+# 90  Goddess Dress
+The light goddess's dress. The wearer gains Lushiris's blessing, wards off ills, and casts Heal 1.
+@stat DEF+3 /m.resist up
+
+# 91  Small Shield
+A small shield of wooden boards, its rim reinforced with iron. Cheap, but not much defense to hope for.
+@stat DEF+1
+
+# 92  Buckler
+A round shield of wooden boards. Low in defense, but easy to use, so it blocks lesser blows well enough.
+@stat DEF+2
+
+# 93  Guard Bracelet
+A bracelet carved with the rune of warding. Worn, it grants a blessing and casts Protection 1.
+@stat DEF+3
+
+# 94  Power Bracelet
+A bracelet carved with the rune of strength. Worn, it grants a mystic blessing, and can cast Attack 1.
+@stat ATK+1 DEF+2
+
+# 95  Miracle Bracelet
+A bracelet carved with the rune of divine miracle. Worn, it grants a blessing and casts Heal 1.
+@stat DEF+2 /crit rate up
+
+# 96  Large Shield
+A shield enlarged for greater defense. Many warriors favor it, but the weak cannot wield it.
+@stat DEF+3
+
+# 97  Pata
+A gauntlet fitted with a double-edged blade. Both guard and weapon, but hard to master.
+@stat ATK+2 DEF+2
+
+# 98  Dragon Shield
+A shield of dragon scales. Light, sturdy, and easy to use, but rare, for the scales are precious.
+@stat DEF+3 /fire resist
+
+# 99  Magic Shield
+A magic shield warded against all magic. Rich in defense against weapon attacks too.
+@stat DEF+3
+
+# 100  Achilles Shield
+The hero Achilles's shield, made by the forge god. Five plates of divine guard. Casts Protection 1.
+@stat DEF+3 HP+5
+
+# 101  Hairband
+An ornament, so no defense to hope for. Yet it calms the mind, raising magic resistance a little.
+
+# 102  Leather Cap
+A cap of tanned leather. Not a helm, so its defense is low, but better than nothing.
+@stat DEF+1
+
+# 103  Tiara
+A silver tiara with a faint charm against magic. It also holds the power to raise the wearer's spirit.
+@stat MP+5 /m.resist
+
+# 104  Crown
+A beautiful platinum crown set with many gems. A masterwork of art, with power to command others.
+@stat ATK+2 DEF+2
+
+# 105  Circlet
+A circlet with a brow crystal. Strong magic dwells in it, with more magic resistance than a tiara.
+@stat DEF+1 MP+5 /m.resist
+
+# 106  Veil of Light
+A sacred veil blessed by the gods, shedding a mystic light. It bears high resistance to certain magic.
+@stat DEF+1 ATK+2 DEF+2
+
+# 107  Ninja Hood
+Headgear worn by Eastern shinobi. It hides the face while guarding the head, with high defense.
+@stat DEF+3
+
+# 108  Sallet
+A helm drawn out long at the back like a tail. The chin is exposed, but it is highly functional.
+@stat DEF+2
+
+# 109  Armet
+A helm covering the whole head and face. High defense, but very heavy, with poor vision.
+@stat DEF+3
+
+# 110  Mithril Helm
+A helm made of mithril silver, a magic metal. High defense against both weapons and magic.
+@stat DEF+3 /m.resist
+
+# 111  Egil Helm
+A helm wrought with ghastly adornment. So dreadful, they say, that any who see it tremble.
+@stat DEF+3 INT+5 /crit up
+
+# 112  Orb
+A wondrous crystal that amplifies its owner's magic. Many mages prize it dearly.
+@stat Max MP+50%
+
+# 113  Magic Circle
+An ancient pendant carved with a magic circle. It raises a strong barrier against enemy spells.
+@stat INT+5 /squad m.resist
+
+# 114  Talisman
+A charm that grants its bearer mystic power. Shaped like a weapon, it promises a blessing in battle.
+@stat ATK+5 DEF+5
+
+# 115  Gjallarhorn
+A horn heralding a war said to engulf the world. Its sound rings to every corner of the earth.
+@stat ATK+10 DEF+5
+
+# 116  Immortal Crest
+A ring carved with a skull weeping tears of blood. It makes part of the Immortal Lord's power yours.
+@stat AREA+2 MP+10 /m.res
+
+# 117  Gleipnir
+The chain that bound the demon wolf Fenrir. Made of strange stuff, it holds many powers.
+@stat ATK+3 DEF+1 /squad m.res
+
+# 118  Angel Feather
+A pure-white feather from an angel in flight. With strong magic resistance, called the finest charm.
+@stat ATK+3 DEF+5 /squad m.res
+
+# 119  Blood Pact
+A pact with the King of Chaos, written in blood. Strong magic resistance, but weak to holy magic.
+@stat ATK+7 DEF+3 /squad m.res
+
+# 120  Fire Orb
+An orb holding a flame that burns ever without dying. It amplifies magic and raises fire resistance.
+@stat RANGE+1 Max MP+50%
+
+# 121  Holy Talisman
+A charm said to be given by the Holy King to the righteous. It grants sacred power and strong will.
+@stat INT+15 DEF+8 /m.res
+
+# 122  Cross
+A holy cross blessed by the gods. Its bearer's squad gains blessing. Casts Turn Undead unfocused.
+@stat DEF+2
+
+# 123  Necklace
+An ornament holding a strange power that draws people in. Worn, it lets you hire up to eight mercenaries.
+
+# 124  Amulet
+A charm warded with spells against ill fortune. It can also cast Resist without focusing the mind.
+@stat squad m.resist
+
+# 125  Protect Ring
+A ring carved with the rune of warding. It grants mystic protection and casts Protection 2 unfocused.
+@stat DEF+8
+
+# 126  Power Ring
+A ring carved with the rune of strength. It grants explosive attack and casts Attack 2 unfocused.
+@stat ATK+8
+
+# 127  Star Earring
+A platinum ear-stud shaped like a star. It aids the wearer's focus and curbs the drain on the spirit.
+@stat MP cost -25%
+
+# 128  Angel Ring
+A ring said to be given by an angel only to the pure of heart. It is said to bring its bearer happiness.
+@stat HP+10 MP+10 INT+10
+
+# 129  Spiritstone Ring
+A ring set with a gem charged with magic by the Spirit King. Said to grant the power of every spirit.
+@stat ATK+5 DEF+5 /squad m.res
+
+# 130  Megingjardar
+Thor's magic belt that lends strength when cinched. It draws out the wearer's might to the full.
+@stat STR+10%
+
+# 131  Draupnir
+A platinum bracelet by the famed dwarf brothers. Said to spawn eight more every ninth night.
+@stat DEF+3
+
+# 132  Laurin's Ring
+A ring belonging to Laurin, king of the fairies. Said to grant its wearer an overflowing power.
+@stat HP+30
+
+# 133  Hegemon Necklace
+A necklace said to grant the power to rule the world. It lets you hire up to eight mercenaries.
+@stat ATK+8 DEF+5
+
+# 134  Crystal Ankh
+An ankh made of crystal. Wards are woven into it for protection from every kind of ill.
+@stat DEF+5 /squad m.res
+
+# 135  Leg Garter
+Greaves of tanned leather, made to guard the legs.
+@stat DEF+1
+
+# 136  Greaves
+Boots of plate, made to guard the body from all attacks. They grant high defense.
+@stat DEF+2
+
+# 137  Speed Boots
+Wondrous magic boots. Worn, they make your movements light. Left behind by a mischievous fairy.
+@stat MOV+4 (squad)
+
+# 138  Magic Herb
+A strange plant that grows in lightless caves. Magic dwells in its leaves, which give off a faint glow.
+@stat Restores 20 MP.
+
+# 139  Runestone
+A secret stone inscribed with ancient script. The writing has yet to be deciphered.
+@stat On use...?
+
+# 140  Nectar
+The divine wine the gods of Olympus drink, said to grant eternal life.
+@stat Drink to gain 1 level.
+
+# 141  Ambrosia
+A sweet-scented fruit eaten by the gods of Olympus, said to grant eternal life.
+@stat Eat to recruit +1 mercenary.
+
+# 142  Valor Seed
+A seed holding a substance that stirs the heart and rouses courage.
+@stat Eat for ATK +1.
+
+# 143  Vitality Leaf
+A plant growing sparsely near mountain peaks. Its leaf-extract in the mouth heightens concentration.
+@stat Eat for DEF+1.
+
+# 144  Wisdom Fruit
+A golden apple of the heavens that only the gods may eat, said to hold much knowledge from ages past.
+@stat Eat for INT+1.
+
+# 145  Power Fruit
+The fruit of a great tree on the eastern island, holding a substance that strengthens the sinews.
+@stat Eat for STR+1.
+
+# 146  Strength Fruit
+The fruit of a sacred tree the Earth Goddess's priests revere. Eat it, they say, for a sturdy body.
+@stat Eat for VIT+1.
+
+# 147  Protection Fruit
+The fruit of a plant charged with magic by an enchanter. It heightens the power to sense danger.
+@stat Eat for DEF+1.
+
+# 148  Hero's Stone
+A legendary secret stone said to be carried by all those called heroes. The finest warriors, they say, draw great power from it.
+
+# 149  Knight Crest
+A medal granted to those whose deeds win them knighthood. Few knights on the continent bear it. Best given to a knight of honor.
+
+# 150  Ancient Egg
+A mysterious stone egg from underground, thought a vanished beast's egg. A skilled dragon rider draws great power from it.
+
+# 151  Scathach Tome
+A secret spear manual handed down by Scathach, a great witch-warrior. Called the mightiest spear art, but only a rare genius masters it.
+
+# 152  Heavenly Wings
+Magic wings blessed by the god of wind. Only the chosen may take them, gaining the power to soar the wide sky at will.
+
+# 153  Secret Manual
+A secret manual said to be left by a great thief. It holds every art of thievery, but only the highly skilled can master it.
+
+# 154  Dead Man's Heart
+The still-beating heart of a cursed soul, torn from its body. Set it in a dead rider's body, and its evil power may even split the earth.
+
+# 155  Demon Water
+Dark magic water from a spring deep in the demon world. Let a high demon drink this blood-red water for boundless power and magic.
+
+# 156  Ghost Blood
+Wraith's blood, radiating strong negative life, touchable only by spirits. Let a mighty spirit drink it for ultimate spirit power.
+
+# 157  Dark Dragonstone
+A magic stone sealing the soul of an ancient dragon said to rival the gods in power. Give it to Bahamut, they say, for boundless power.
+
+# 158  White Grimoire
+A spellbook said to be written by the great Holy King, holding all of white magic. Its hidden depths take much training to decipher.
+
+# 159  Holy Symbol
+The mark of a true saint. Only those of deep faith who stake their lives against the wicked are deemed worthy by this symbol.
+
+# 160  Black Grimoire
+A forbidden book of the ultimate black magic. Using it demands the utmost will and focus, so only a master can wield it.
+
+# 161  Magic Symbol
+A silver amulet carved with words of power. It raises its bearer's magic to the limit, but the unmastered risk a shattered mind.
+
+# 162  Apollo Arrow
+An arrow said to be used by Apollo, the sun god. It gives a peaceful death to those it strikes, but only a master archer may even touch it.
+
+# 163  Destiny Arrow
+A mystic arrow said to reveal the future of its holder. Made for ease on horseback, but hard to use unless one is well trained.
+
+# 164  Mermaid Tear
+This lovely gem is said to be the tear of a mermaid heartbroken over a human youth. A skilled marine can draw out its hidden power.
+
+# 165  Divine Blessing
+A holy stone shedding rainbow light. Blessed by the goddesses of fate, it draws out the hidden talents of any who hold it.
+
+# 166  Earth Rune
+A rune carved with the blessing of the earth god. Give it to the hero to unlock infantry-type classes.
+
+# 167  Wind Rune
+A rune carved with the blessing of the wind god. Give it to the hero to unlock cavalry-type classes.
+
+# 168  Light Rune
+A rune carved with the blessing of the god of light. Give it to the hero to unlock priest-type classes.
+
+# 169  Heaven Rune
+A rune carved with the blessing of the sky god. Give it to the hero to unlock flying-type classes.
+
+# 170  Water Rune
+A rune carved with the blessing of the water god. Give it to the hero to unlock naval-type classes.
+
+# 171  Thunder Rune
+A rune carved with the blessing of the thunder god. Give it to the hero to unlock spear-type classes.
+
+# 172  Forest Rune
+A rune carved with the blessing of the god of trees. Give it to the hero to unlock archer-type classes.
+
+# 173  Fire Rune
+A rune carved with the blessing of the fire god. Give it to the hero to unlock mage-type classes.
+
+# 174  Ghost Rune
+A rune carved with the blessing of the god of death. Give it to Jugler to unlock spirit-type classes.
+
+# 175  Dragon Rune
+A rune sealing the power of an ancient dragon. Give it to Jugler to unlock dragon-type classes.
+
+# 176  Demon Rune
+A rune carved with the blessing of the god of darkness. Give it to Jugler to unlock demon-type classes.
+
+# 177  Demon Rune
+@blank

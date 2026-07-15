@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -26,115 +26,115 @@ Gel Child<$FFFF>
 Gel Taro<$FFFF>
 Super Gel<$FFFF>
 Exterminate Gel <$FFFE>
-Death of <$F600><$0000><$FFFE>
-The Story of the Gel's House <$FFFE>
-This is a story of no consequence for the main story. After completing this Scenario the game will be over, so beware.<$FFFD>We, the architects of this world, have created this scenario in a hurry and only for purposes of entertainment.<$FFFD>And maybe also to get you thinking a little bit…*wink*… If you still want to listen to the tale that's about to be told, we recommend you to get some handkerchiefs ready…*sniff sniff*…<$FFFD>It has been a long way to the completion of this world…<$FFFD>We have to rest for now…we're just too sleepy…*snore*…<$FFFE>
+Death of<$FFFC><$F600><$0000><$FFFE>
+The Story of the Gel's<$FFFC>House<$FFFE>
+This hidden stage can be<$FFFC>played only from stage<$FFFC>select. Once you clear<$FFFC>it, the game ends.<$FFFD>After the ending, in a<$FFFC>world restored to peace,<$FFFC><$F600><$0000>'s party<$FFFC>hunts the last monsters.<$FFFD>The prologue didn't make<$FFFC>it (sob). We rushed<$FFFC>this, so bugs may show.<$FFFC>Sorry if it locks up!<$FFFD>Oh, and we had hoped to<$FFFC>make a whole Gel trilogy<$FFFC>(sob).<$FFFD>Nkyu… so sleepy… kyuu.<$FFFC>(*flops over*)<$FFFE>
 Olver's Residence<$FFFF>
-Mom, is the rice still not done?<$FFFE>
-By the way, Gels also have their own language.<$FFFD>The following dialogues have been translated.<$FFFD>So even though you can understand what they are saying, those who are part of the story cannot.<$FFFE>
-It will only take another short while.<$FFFD>And don't make a habit of calling me mom. It's "dear mother" to you. How many times do I have to tell you before you get it?<$FFFE>
-But why? No one else has to say "dear mother". Everyone just says "mom" and one has to move with the time.<$FFFE>
-Whose that "everyone" you're talking about?<$FFFE>
-Everyone, like all the other people! That fat Gel especially!<$FFFE>
-I should've known it was that good for nothing fatty. He's a bad influence, you know?<$FFFD>Be a good boy and stay away from him, Jiro.<$FFFE>
+Mom, is the rice still<$FFFC>not done?<$FFFE>
+By the way, you know,<$FFFC>the Gels here all speak<$FFFC>in their very own Gel<$FFFC>tongue.<$FFFD>So every Gel line you<$FFFC>see in this scenario has<$FFFC>been rendered into our<$FFFC>human speech.<$FFFD>That last line, in Gel,<$FFFC>would be… 'Fupushu,<$FFFC>ppuffushushu?'<$FFFE>
+It will be ready soon.<$FFFD>More to the point, Gel<$FFFC>Jiro. It's not 'mom,'<$FFFC>it's 'dear mother.'<$FFFC>How often must I say it?<$FFFE>
+But everyone says 'dear<$FFFC>mother' sounds odd. They<$FFFC>all call theirs 'mom,'<$FFFC>you know.<$FFFE>
+Who's that "everyone"<$FFFC>you're talking about?<$FFFE>
+Everyone, like all the<$FFFC>other people! That fat<$FFFC>Gel especially!<$FFFE>
+The Gel Ta household is<$FFFC>the Gel Ta household,<$FFFC>and our own home is ours<$FFFC>alone, wouldn't you say?<$FFFD>Do you understand that,<$FFFC>Gel Jiro dear?<$FFFE>
 Sure, sure.<$FFFE>
-What's with the attitude!?<$FFFE>
-I will do as you wish, dear mother.<$FFFE>
-Now now, don't you think you're a bit harsh? He's still a little Gel.<$FFFE>
-That doesn't matter.<$FFFD>. I don't think I will have to remind you that this is the house of the Chief of all Gels. Maintaining order and a certain level of etiquette is a must for a family in our position.<$FFFE>
+You only say your 'yes'<$FFFC>just the once, you know!<$FFFE>
+Yes, dear mother.<$FFFE>
+Now now, don't you think<$FFFC>you're a bit harsh? He's<$FFFC>still a little Gel.<$FFFE>
+Carrying on like this<$FFFC>simply will not do.<$FFFD>You are the head of our<$FFFC>proud and storied Gel<$FFFC>house, so do please pull<$FFFC>yourself together…<$FFFE>
 Yes…my dear…<$FFFE>
-May I inquire if the meal ready yet?<$FFFE>
-Oh, father in law. The preparations will be completed in just a minute.<$FFFD>Please excuse me for being late.<$FFFE>
-Don't worry about that. I am sure it will be delicious as always. Truly, it is a pleasure having you in the family.<$FFFD>Quiet unlike that impious husband of yours.<$FFFE>
-Please, father in law, don't say such a thing…<$FFFE>
+Gel Wife, my dear, is<$FFFC>the meal not ready yet?<$FFFE>
+Oh, father-in-law! It<$FFFC>will all be ready very<$FFFC>soon now, I promise.<$FFFD>Please forgive me for<$FFFC>being so very late.<$FFFE>
+No, not at all! Our Gel<$FFFC>Wife does so much for<$FFFC>us. She's such a real<$FFFC>blessing.<$FFFD>Almost too good for that<$FFFC>Gel Husband, I'd say.<$FFFE>
+Please, father-in-law,<$FFFC>don't say such a thing…<$FFFE>
 Father!<$FFFE>
 Hohohoho!<$FFFE>
-*Sigh*…<$FFFD>At least we have found a pleasant house to stay in…<$FFFE>
-I think it belonged to a human not too long ago.<$FFFD>What a stroke of luck for us…<$FFFE>
-Gel Beauty! Dinner's almost ready!<$FFFD>Stop playing outside and come in.<$FFFE>
-Whaaat? Already!? But it's so much fun!<$FFFE>
-? Gel Beauty. You should listen to your mother, she's just concerned about you.<$FFFE>
-Gel Beauty! The sun is already setting and I wouldn't want you to catch a cold.<$FFFD>Please hurry back inside!<$FFFE>
+*Sigh*…<$FFFD>At least we have found a<$FFFC>pleasant house to stay<$FFFC>in…<$FFFE>
+I think it belonged to a<$FFFC>human not too long ago.<$FFFD>What a stroke of luck<$FFFC>for us…<$FFFE>
+Gel Beauty! Dinner is<$FFFC>nearly ready now!<$FFFD>Stop playing outside and<$FFFC>come on in.<$FFFE>
+Whaaat? Already!? But<$FFFC>it's so much fun!<$FFFE>
+Now what in the world is<$FFFC>our Gel Beauty going on<$FFFC>and on about this time,<$FFFC>I wonder?<$FFFE>
+Gel Beauty! Don't you<$FFFC>go talking the way that<$FFFC>Kogeru always does, do<$FFFC>you hear?<$FFFD>Hurry along now and get<$FFFC>yourself inside!<$FFFE>
 Okay!<$FFFE>
 It's quiet…<$FFFE>
-I presume the den of the monsters is close by…<$FFFE>
-Maybe they have invaded that house over there, let me take a peek.<$FFFE>
+I presume the den of the<$FFFC>monsters is close by…<$FFFE>
+Maybe they're holed up<$FFFC>in that house there.<$FFFC>Let me take a peek.<$FFFE>
 Be careful.<$FFFE>
 Sure will.<$FFFE>
-Huh? <$F600><$0000>, the door is stuck and won't open.<$FFFD>And the door of this house was supposed to be broken…<$FFFE>
-This seems awfully familiar… Anyway, you will have to use magic to open it up.<$FFFE>
-Oh, right. Give me one minute!<$FFFE>
-Hey now! That's not really a good idea. You would better let someone like me handle this with discretion…<$FFFE>
+Huh? <$F600><$0000>,<$FFFC>the door is stuck and<$FFFC>won't open.<$FFFD>And besides, the door<$FFFC>to this very house was<$FFFC>supposed to be broken…<$FFFE>
+Don't be daft, will you!<$FFFC>Use your head a bit and<$FFFC>blast it right open with<$FFFC>magic.<$FFFE>
+Oh, right. Give me one<$FFFC>minute!<$FFFE>
+Hey now, hey! Don't be<$FFFC>reckless! We've no idea<$FFFC>what we face, so let's<$FFFC>be careful here…<$FFFE>
 Here I go!<$FFFD><$FE3C>Meeeeeteooooorrrr!!<$FFFE>
-…Don't say I didn't warn you…<$FFFE>
+Would you listen to me<$FFFC>when I'm talking!<$FFFE>
 Kyaahh!<$FFFE>
 Gel Beauty!<$FFFE>
 Take this!<$FFFE>
 And this!<$FFFE>
 This will finish you!<$FFFE>
-OK! The door's open!<$FFFE>
+Okay! The door's open!<$FFFE>
 …<$FFFE>
-What was that noise just now!?<$FFFE>
-Gel Beauty come back inside! Hurry!<$FFFE>
-Alright, let's move on to the next door!<$FFFE>
-I…it's a human!<$FFFE>
-A human!?<$FFFD>Gel Beauty, you have to hurry!<$FFFE>
-<$F600><$0000>! It's a Gel!<$FFFE>
-We will be right there!<$FFFE>
-Don't worry, I can handle this myself.<$FFFD>I've got plenty mana left to deal with this one!<$FFFE>
+What was that noise just<$FFFC>now!?<$FFFE>
+Gel Beauty, get inside<$FFFC>the house, and quickly!<$FFFE>
+Alright, let's move<$FFFC>on to the next door!<$FFFE>
+I-it's a human!<$FFFE>
+A human!?<$FFFD>Gel Beauty, you have to<$FFFC>hurry!<$FFFE>
+<$F600><$0000>! It's a<$FFFC>Gel!<$FFFE>
+We'll be right there!<$FFFE>
+It's all right, there's<$FFFC>only the one of them.<$FFFD>I'm more than enough to<$FFFC>deal with this all on my<$FFFC>own!<$FFFE>
 Noo! Don't come closer!<$FFFE>
-Not a chance! You've got nowhere to run! Meteor!<$FFFE>
+Not a chance! You've got<$FFFC>nowhere to run! Meteor!<$FFFE>
 Kyaaahhh! Moooomyyyy!!<$FFFE>
-Good, that takes care of that!<$FFFE>
+Good, that takes care of<$FFFC>that!<$FFFE>
 Gel Beauty!<$FFFE>
-You filthy humans! Father, Jiro you have to get away from here!<$FFFD>We will stay back and buy some time for you to escape!<$FFFE>
-Nonsense! I wouldn't wanna leave such an important task to a slacker like yourself. I will stay here and you two make sure that Jiro gets to safety!<$FFFE>
-No, please don't worry about us.<$FFFD>We will catch up to you in no time, so please go!<$FFFE>
+Humans are here! Father,<$FFFC>take Gel Jiro and flee<$FFFC>from this place!<$FFFD>The rest of us will stay<$FFFC>behind and buy you time<$FFFC>to flee!<$FFFE>
+Don't be absurd! This is<$FFFC>an old fool's job. You<$FFFC>two take Gel Jiro and<$FFFC>go!<$FFFE>
+No, please don't worry<$FFFC>about us.<$FFFD>We will catch up to you<$FFFC>in no time, so please<$FFFC>go!<$FFFE>
 …Fine.<$FFFE>
 This door's next.<$FFFD>Meteor!<$FFFE>
 One more!<$FFFE>
 And the grand finale!<$FFFE>
-What? Don't mess with Tia!<$FFFE>
-They're here!<$FFFD>Father, please take care of Jiro!<$FFFE>
-Of course. We can't afford to lose!<$FFFE>
+What? Don't mess with<$FFFC>Tia!<$FFFE>
+They're here!<$FFFD>Father, please take care<$FFFC>of Jiro!<$FFFE>
+Mm. You can count on me<$FFFC>for this!<$FFFE>
 Umm…<$FFFE>
-There's a nest of Gels inside that house.<$FFFD>They were all over the place with their wobbly bodies! Oh, it was disgusting!<$FFFE>
-Good work, scouting! Let's get them in one go!<$FFFE>
-Gel Taro! Something strange seems to be going on around here!<$FFFE>
-Humans! The humans are attacking!<$FFFD>Gel Child! You have to wait here!<$FFFD>I will go and see if I can help father!<$FFFE>
-O…okay. Gel Taro, please be careful.<$FFFE>
-<$F600><$0000>! Gel reinforcements have arrived!<$FFFE>
-They shouldn't pose any real threat.<$FFFD>Everyone! Make sure to get all of them!<$FFFE>
+There are Gels inside<$FFFC>the house!<$FFFD>Swarming all over the<$FFFC>place with their wobbly<$FFFC>bodies! Ugh, how truly<$FFFC>revolting!<$FFFE>
+Right then! I'll wipe<$FFFC>every last one of them<$FFFC>out in a single go!<$FFFE>
+Gel Taro! Something's<$FFFC>wrong with the house!<$FFFE>
+It's the humans! They've<$FFFC>come to attack us!<$FFFD>Gel Child, stay right<$FFFC>here and wait for me!<$FFFD>I'll go and save Father<$FFFC>and the others!<$FFFE>
+Y-yeah, I've got it!<$FFFC>Be careful out there,<$FFFC>Gel Taro!<$FFFE>
+<$F600><$0000>!<$FFFC>Gel reinforcements<$FFFC>have arrived!<$FFFE>
+It's nothing serious at<$FFFC>all!<$FFFD>Everyone, with me! Wipe<$FFFC>them all out!<$FFFE>
 Forgive me…Everyone…<$FFFE>
 <$F600><$0000>…<$FFFE>
-My power was insufficient…<$FFFE>
-I wish I could've done more…<$FFFE>
-I am sorry…<$FFFE>
+I lacked the strength…<$FFFE>
+Forgive me… I'm at my<$FFFC>limit…<$FFFE>
+I'm sorry…<$FFFE>
 My?<$FFFE>
 My apologies…<$FFFE>
-Failure! Forgive me, <$F600><$0000>!<$FFFE>
-Uuu… …Run…everyone…<$FFFE>
+I blew it! Sorry…<$FFFC><$F600><$0000>!<$FFFE>
+Ugh… Run…<$FFFC>everyone…<$FFFE>
 Darling!<$FFFE>
-Honey… You have been my one and only… You must live…<$FFFE>
+Honey… I'm done<$FFFC>for…<$FFFC>Run…<$FFFE>
 Daaaarrliiiiiing!<$FFFE>
 Father!<$FFFE>
 Daadyyyy!<$FFFE>
-Father…<$FFFE>
+Faaather!<$FFFE>
 Cough…cough…<$FFFE>
 Honey! Hold on!<$FFFE>
-Look…after…the children… …Please…<$FFFE>
+Dear… the children…<$FFFC>I beg you…<$FFFE>
 Honeeyyyy!!<$FFFE>
-Oh, my dear wife… At last we shall be reunited…<$FFFE>
-Father… You were right…I am still too immature…<$FFFD>Please forgive my lack of filial piety…<$FFFE>
-…It hurts… …so much…<$FFFE>
+Oh, granny… You've come<$FFFC>to fetch me at last…<$FFFE>
+Father… Gel Taro was<$FFFC>still so immature…<$FFFD>I beg forgiveness for<$FFFC>dying before you…<$FFFE>
+Waah, it hurts… it<$FFFC>hurts…<$FFFE>
 Dear father…<$FFFD>Dear mother…<$FFFE>
-It hurts…stop this…madness…<$FFFE>
+It hurts… stop<$FFFC>it…<$FFFE>
 Uurrgggh!<$FFFE>
-Jiro… …and Father too…<$FFFD>Honey!<$FFFE>
-his ended sooner than I thought.<$FFFD>This battle was easy as pie.<$FFFE>
-Yes.<$FFFD>And since we exterminated all the heinous monsters, the people of this land can live in piece.<$FFFD>Alright everyone, let us return to our original task!<$FFFE>
-And so, the Gerl house fell…<$FE0F>…<$FE0F>…<$FE0F>…<$FFFE>
-Utilizing the power of love, the Gel wife fuses with the Gel husband, multiplying his power by doing so!<$FFFE>
-Utilizing the power of love, the Gel husband fuses with the Gel wife, multiplying his power by doing so!<$FFFE>
-Ghastly Humans! Prepare to pay for what you've done!<$FFFE>
-Dreadful Humans! You shall feel my sorrow!<$FFFE> 
+Gel Jiro… and Father<$FFFC>too…<$FFFD>Honey!<$FFFE>
+Phew… it's all over.<$FFFD>That was an easy win.<$FFFE>
+Right.<$FFFD>We must wipe<$FFFC>out the monsters quickly<$FFFC>and make this a land of<$FFFC>peace.<$FFFD>All right, everyone.<$FFFC>Let's head home!<$FFFE>
+And so, the Gel house<$FFFC>fell…<$FE0F>…<$FE0F>…<$FE0F>…<$FFFE>
+Gel Husband drew on Gel<$FFFC>Wife's love and powered<$FFFC>up!<$FFFE>
+Gel Wife drew upon her<$FFFC>Gel Husband's love, and<$FFFC>so she powered up!<$FFFE>
+You wretched humans! Now<$FFFC>prepare yourselves to<$FFFC>die!<$FFFE>
+You humans! I'll never<$FFFC>forgive you, not ever!<$FFFE><$FFFF>

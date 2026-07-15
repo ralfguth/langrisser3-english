@@ -6,11 +6,11 @@ Compares JP-original and EN-patched FNT_SYS.BIN record by record. For each
 of the 15 (offset, data) section pairs, splits the data into FFFF-terminated
 records and produces a coverage report:
 
-- TRANSLATED: EN bytes differ from JP bytes (CWX produced new content)
-- JP_INTACT:  EN bytes identical to JP bytes (CWX did not translate;
+- TRANSLATED: EN bytes differ from JP bytes (0.2 patch produced new content)
+- JP_INTACT:  EN bytes identical to JP bytes (0.2 patch did not translate;
               renders as mojibake in-game because EN font replaced JP glyphs)
 - MISSING:    record exists in JP but EN section is shorter (entry dropped)
-- EXTRA:      record exists in EN but JP section is shorter (CWX added)
+- EXTRA:      record exists in EN but JP section is shorter (0.2 patch added)
 
 Output: markdown report on stdout; CSV per-entry on --csv path.
 """
@@ -33,7 +33,9 @@ from font_tools import CHAR_TILE_MAP, BIGRAM_TILE_MAP
 JP_ISO = Path('/home/ralf/Jogos/emulacao/romsets/sega-saturn/cue-bin'
               '/Langrisser III (Japan)'
               '/Langrisser III (Japan) (3M) (Track 01).bin')
-EN_ISO = PROJ / 'build' / 'track01.bin'
+# build.py emits build/<cue-stem>/track01.bin; fall back to the legacy flat path.
+_nested_t01 = sorted((PROJ / 'build').glob('*/track01.bin'))
+EN_ISO = _nested_t01[0] if _nested_t01 else PROJ / 'build' / 'track01.bin'
 JP_TILE_MAP_PATH = Path('/home/ralf/Jogos/emulacao/tools/lang3_translation_analisis/jp_tile_map.json')
 
 FNT_SYS_PAIRS = [
@@ -192,8 +194,8 @@ def main() -> int:
 
     md_lines.append('## Reading this report\n')
     md_lines.append('- **JP entries** = number of FFFF-terminated records in the JP binary.')
-    md_lines.append('- **EN entries** = same count in the EN-patched binary. A mismatch means CWX dropped or added records.')
-    md_lines.append('- **Translated** = EN record bytes differ from the JP record bytes — CWX produced new content.')
+    md_lines.append('- **EN entries** = same count in the EN-patched binary. A mismatch means 0.2 patch dropped or added records.')
+    md_lines.append('- **Translated** = EN record bytes differ from the JP record bytes — 0.2 patch produced new content.')
     md_lines.append('- **JP_INTACT** = EN record bytes are byte-identical to JP. These render as mojibake in-game because')
     md_lines.append('  the EN font has different glyphs at the same tile IDs. These are what still needs translation work.')
     md_lines.append('- **Coverage** = Translated / (Translated + JP_INTACT). Excludes MISSING/EXTRA.\n')

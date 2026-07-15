@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -22,32 +22,32 @@ General Bortz<$FFFF>
 Barral Commander<$FFFF>
 Adjutant Gates<$FFFF>
 General Geier<$FFFF>
- Do Kahni, Champion I can't…lose…<$FFFE>
- What have you done to the woman called Sophia, who used to live here?<$FFFE>
- We took her. She's to be sacrifice for ceremony…<$FFFE>
- Oh, no!<$FFFE>
- A sacrifice!? Has it already happened!?<$FFFE>
- Sacrifice will be at next full moon.<$FFFE>
- The next full moon will occur in three nights. Let's hurry.<$FFFE>
- Without the wardens of the gates, it will be impossible to properly make use of their power.<$FFFE>
- Excuse me! Sir <$F600><$0000>?<$FFFE>
- What is it?<$FFFE>
- Lord Raymond dispatched us from the main force to come guard the southern gate!<$FFFE>
- We need to hurry and reach the headquarters of the Shika Tribe. We will entrust the defense of this gate to you!<$FFFE>
- Yes, sir!<$FFFE>
-All right, we've got no time to waste. Everyone, let's hurry on out!<$FFFE>
-Plains Near the North Gate of the Lushiris Gate<$FFFF>
- Do we have any news from the frontlines?<$FFFE>
- Our army has the upper hand, but the enemy is tougher than we expected, so we're struggling to break through.<$FFFE>
- As one would expect from Bortz, the Empire's fierce general.<$FFFE>
- Worry not. Bit by bit, our army is pushing them back.<$FFFE>
- It will only be a matter of time now.<$FFFE>
- While these remnants of the Larcuss army seem fairly weak, that damned Lord Raymond is a force to be reckoned with.<$FFFE>
- When he returns, we will be in trouble. What to do…<$FFFE>
-City of Laffel Now Part of the Barral Kingdom<$FFFF>
- S…so this is that so called Grim Reaper, the Empire's airship fleet…<$FFFE>
- Those foolish Barral soldiers have all scattered in disarray.<$FFFE>
- Hmmph! As long as the Dark Knight stays absent, they have little true might to muster against us.<$FFFE>
-At this rate, even the Dark Knight won't impress me.<$FFFE>
- With Lord Geier leading us, we could take on even the Dark Knight…<$FFFE>
- No one can match my plans. Hohohoho!<$FFFE> 
+Do Kahni, champion. I<$FFFC>shouldn't… lose…<$FFFE>
+What's happened to the<$FFFC>woman named Sophia who<$FFFC>was here?<$FFFE>
+We took her away. Ritual<$FFFC>sacrifice…<$FFFE>
+Oh, no!<$FFFE>
+When is this ritual set<$FFFC>to happen!? Has it ended<$FFFC>already!?<$FFFE>
+The ritual comes with<$FFFC>the next full moon.<$FFFE>
+The next full moon is<$FFFC>three days away.<$FFFC>We must hurry.<$FFFE>
+I hear each gate needs<$FFFC>its own warden present<$FFFC>before it can open.<$FFFE>
+I beg your pardon, sir!<$FFFC>Would you happen to be<$FFFC><$F600><$0000>, sir?<$FFFE>
+What is it?<$FFFE>
+Lord Raymond dispatched<$FFFC>us from the main force.<$FFFC>We guard this gate!<$FFFE>
+We must reach the Shika<$FFFC>stronghold quickly now.<$FFFC>Guard this gate well in<$FFFC>our absence!<$FFFE>
+Yes, sir!<$FFFE>
+Right, time is short.<$FFFC>Everyone, hurry!<$FFFE>
+North Lushiris Plain<$FFFF>
+How goes the battle?<$FFFE>
+Our army has the edge,<$FFFC>but the enemy is tougher<$FFFC>than expected.<$FFFC>We cannot break through.<$FFFE>
+Bortz lives up to his<$FFFC>fierce reputation.<$FFFE>
+No cause for worry. Bit<$FFFC>by bit, our forces are<$FFFC>pushing the enemy back,<$FFFC>that they are.<$FFFE>
+Now it's only a matter<$FFFC>of time, I should say.<$FFFE>
+I took them for nothing<$FFFC>but Larcuss stragglers.<$FFFC>Raymond's no slouch.<$FFFE>
+We're in for it at this<$FFFC>rate. What do we do…?<$FFFE>
+Laffel, Barral Territory<$FFFF>
+S-so this must be the<$FFFC>Empire's airship fleet,<$FFFC>the one they call the<$FFFC>Reaper…<$FFFE>
+Barral's soldiers are<$FFFC>panicking now.<$FFFE>
+Hmph! Even with their<$FFFC>own Dark Knight away,<$FFFC>this is far too feeble<$FFFC>a show of resistance.<$FFFE>
+At this rate, I can put<$FFFC>little hope even in the<$FFFC>famed Dark Knight now.<$FFFE>
+With Lord Geier here,<$FFFC>even this Dark Knight…<$FFFE>
+Not a single soul alive<$FFFC>can hope to outmatch my<$FFFC>strategies! Heh heh heh!<$FFFE><$FFFF>

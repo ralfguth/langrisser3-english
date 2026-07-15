@@ -5,29 +5,29 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 King Sieghart<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-25<$FFFC><$0000><$0000><$0000> Light Over Shadow <$0000><$0000><$0000><$FFFE>
- The great sorceress Jessica said that the Sword of Decimation in its current state could not stand against Alhazard, the demon sword wielded by the fiends.<$FFFE>
- Several elements are needed to increase the power of the Sword of Decimation. One ingredient is the presence of Olver. So, <$F600><$0000> and company have journeyed out to meet Olver.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of all enemies <$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２５<$FFFC><$0000><$0000><$0000> Light Over Shadow <$0000><$0000><$0000><$FFFE>
+Archmage Jessica warned that the<$FFFC>Decimation Sword, as it is now,<$FFFC>cannot match the demons' sword<$FFFC>Alhazard.<$FFFE>
+Strengthening the Decimation<$FFFC>Sword requires several things.<$FFFC>One is the man Olver, so<$FFFC><$F600><$0000> set out to<$FFFC>bring him.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of all enemies <$FFFE>
 *Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Olver<$FFFE>
-Plains on the way to the Center of the Lushiris Gate<$FFFF>
- We will arrive at the center of the Gate soon.<$FFFD>My son and his companions are probably meeting that person needed to strengthen the Sword of Decimation about now.<$FFFD>Speaking of which, what in the world is this secret you mentioned?<$FFFE>
- …<$FFFD>To strengthen the Sword of Decimation, one additional thing is absolutely necessary.<$FFFE>
- Well in that case, we can send out another brigade of troops soon enough.<$FFFD>So, where should we send them?<$FFFE>
- No, we don't need to go off seeking this component.<$FFFE>
- What do you mean?<$FFFE>
+Plains near the Central Gate<$FFFF>
+We will reach the<$FFFC>central Gate soon.<$FFFD>By now my son and the<$FFFC>others may have met the<$FFFC>one needed to strengthen<$FFFC>the Decimation Sword.<$FFFD>By the way, what is this<$FFFC>secret you spoke of?<$FFFE>
+…<$FFFD>To strengthen<$FFFC>the Decimation Sword,<$FFFC>there's one more thing<$FFFC>we absolutely need.<$FFFE>
+Well in that case,<$FFFC>we can send out another<$FFFC>brigade of troops soon<$FFFC>enough.<$FFFD>So, where should we send<$FFFC>them?<$FFFE>
+No, we don't need<$FFFC>to go off seeking this<$FFFC>component.<$FFFE>
+What do you mean?<$FFFE>
 …<$FFFE>
- …King Sieghart.<$FFFE>
- Are you willing to give your life for the sake of this world?<$FFFE>
+…King Sieghart.<$FFFE>
+Are you willing to give<$FFFC>your life for the sake<$FFFC>of this world?<$FFFE>

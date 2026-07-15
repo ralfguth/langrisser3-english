@@ -1,0 +1,19 @@
+# automatic scan of LANG/PROG_4.BIN (50872 bytes)
+# runs of >=4 consecutive bytes in 0x80..0xDF not covered by current overlays
+# 15 runs total
+
+0x02BCD  len=  4  968bd8d1  <96><8B>ﾘﾑ
+0x02FD4  len=  4  aaaaaaab  ｪｪｪｫ
+0x0321A  len=  6  b2c7aaaaaaab  ｲﾇｪｪｪｫ
+0x03F2F  len=  4  b68b85d1  ｶ<8B><85>ﾑ
+0x06677  len=  4  c78bbfd2  ﾇ<8B>ｿﾒ
+0x07AA2  len=  4  d180d580  ﾑ<80>ﾕ<80>
+0x07F78  len=  5  d7ddc0ded1  ﾗﾝﾀﾞﾑ
+0x08708  len=  5  d18bd085a1  ﾑ<8B>ﾐ<85>｡
+0x09452  len= 10  d284d684d385d785d086  ﾒ<84>ﾖ<84>ﾓ<85>ﾗ<85>ﾐ<86>
+0x0A368  len=  4  90909090  <90><90><90><90>
+0x0A372  len=  5  9090909090  <90><90><90><90><90>
+0x0A37C  len=  6  909090909090  <90><90><90><90><90><90>
+0x0A386  len=  7  90909090909090  <90><90><90><90><90><90><90>
+0x0A390  len=  8  9090909090909090  <90><90><90><90><90><90><90><90>
+0x0A39A  len=  9  909090909090909090  <90><90><90><90><90><90><90><90><90>

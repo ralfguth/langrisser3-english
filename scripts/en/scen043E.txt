@@ -5,36 +5,36 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-Marshal Altemüller<$FFFF>
+Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
 Sir Gerold<$FFFF>
 Layla<$FFFF>
-Floating castle<$FFFF>
+Floating Castle<$FFFF>
 Varna!<$FFFE>
-This is the chance…<$FFFC>to totally destroy the <$FFFC>enemy. Please leave me <$FFFC>and take on the pursuit.<$FFFE>
-That you were injured is<$FFFC>my responsibility.<$FFFE>
-We are returning to <$FFFC>headquarters for now.<$FFFC>We'll leave the enemies left to Geier.<$FFFE>
-Your Excellency…<$FFFE>
-Mountains near the Castle<$FFFF>
+…This is our chance to<$FFFC>wipe out the enemy.<$FFFC>Leave me behind, sir,<$FFFC>and go after them.<$FFFE>
+Your injuries are my<$FFFC>responsibility.<$FFFE>
+I'm taking you back to<$FFFC>headquarters. Geier can<$FFFC>mop up what's left of<$FFFC>the enemy.<$FFFE>
+…Your Excellency.<$FFFE>
+Castle Mountains<$FFFF>
 Imperial Field Marshal<$FFFC>Altemüller…<$FFFE>
 Papa…<$FFFE>
 …Uh…urghh…<$FFFE>
-Gerold stay strong!<$FFFC>Gerold!<$FFFE>
-He suffered a bad wound.<$FFFC>But if we stay here,<$FFFC>Imperial pursuers will<$FFFC>catch up to us.<$FFFE>
-I am sorry Gerold.<$FFFC>You must hold out until <$FFFC>we make it to Laffel!<$FFFE>
-Understood… and don't <$FFFC>worry…<$FFFE>
-Come,Tiaris. <$FFFC>We must be on our way.<$FFFE>
+Gerold, hold on! Gerold!<$FFFE>
+It's a terrible wound.<$FFFC>But linger here too long<$FFFC>and the Empire's hunters<$FFFC>will run us down.<$FFFE>
+I'm sorry, Gerold. You<$FFFC>must hold out until we<$FFFC>make it to Laffel!<$FFFE>
+Understood… and don't<$FFFC>worry…<$FFFE>
+Come, Tiaris. We must be<$FFFC>on our way.<$FFFE>
 …<$FFFE>
 Tiaris…<$FFFE>
 What do you want to say?<$FFFE>
@@ -42,11 +42,11 @@ Don't lose hope.<$FFFE>
 Gerold needs us.<$FFFE>
 You'll be left behind!<$FFFE>
 Don't lose hope, Tiaris.<$FFFD>You've always been our<$FFFC>bright, spirited girl,<$FFFC>haven't you?<$FFFE>
-…<$FFFD>Go on ahead.<$FFFC>I will follow up right<$FFFC>away…<$FFFE>
+…<$FFFD>Go on ahead. I'll<$FFFC>catch up soon…<$FFFE>
 Tiaris…<$FFFE>
-I understand well that<$FFFC>you are in agony right now. But Gerold was <$FFFC>seriously wounded.<$FFFD>We have to take him to a<$FFFC>city fast or his life <$FFFC>will be in danger too.<$FFFE>
-Okay, I understand…<$FFFD>But… let me stand here<$FFFC>for a moment.<$FFFC>I will follow up right<$FFFC>away.<$FFFE>
+I know your grief well…<$FFFC>but Gerold's hurt badly,<$FFFC>and growing weaker fast.<$FFFD>If we don't get him help<$FFFC>soon, his life too will<$FFFC>be in danger.<$FFFE>
+Okay, I understand…<$FFFD>But… go on ahead. I'll<$FFFC>catch up soon…<$FFFE>
 Tiaris…<$FFFE>
-How long are you staying<$FFFC>over here.<$FFFD>You will be left behind<$FFFC>Tiaris.<$FFFE>
-…<$FFFD>Go ahead.<$FFFC>I will follow up right <$FFFC>away…<$FFFE>
+How long do you intend<$FFFC>to stay like that?<$FFFD>You'll be left behind,<$FFFC>Tiaris.<$FFFE>
+…<$FFFD>Go on ahead. I'll<$FFFC>catch up soon…<$FFFE>
 Papa…<$FFFB> Goodbye…<$FFFE>

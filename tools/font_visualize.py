@@ -1,27 +1,39 @@
 #!/usr/bin/env python3
 """
-font_visualize.py - Generate PNG mosaic of font.bin tiles.
+font_visualize.py - Generate PNG mosaic of FONT.BIN tiles.
 
-Reads lang3a2/font.bin (1691 tiles × 32 bytes, 16×16 1bpp) and renders
-a grid of tiles with index labels.
+Each font is 1691 tiles × 32 bytes (16×16 1bpp, MSB=leftmost).
+Source for JP: data/jp/font_jp.bin (raw extract from LANG/FONT.BIN).
+Source for EN: built on the fly via font_tools.generate_english_font().
 
 Usage:
-    python3 tools/font_visualize.py                    # all tiles
+    python3 tools/font_visualize.py                    # JP, all tiles
+    python3 tools/font_visualize.py --en               # EN built font
     python3 tools/font_visualize.py 0 64               # tiles 0-63
     python3 tools/font_visualize.py 1500 1620           # tiles 1500-1619
     python3 tools/font_visualize.py --cols 8 --scale 6  # custom grid
+    python3 tools/font_visualize.py --font path/to.bin  # arbitrary file
 
-Output: build/font_tiles.png
+Output: build/font_tiles[_jp|_en][_N_M].png
 """
 
 import argparse
+import sys
 from pathlib import Path
 
 from PIL import Image, ImageDraw
 
 PROJ = Path(__file__).resolve().parent.parent
-FONT_PATH = PROJ / 'lang3a2' / 'font.bin'
+JP_FONT_PATH = PROJ / 'data' / 'jp' / 'font_jp.bin'
 OUTPUT_DIR = PROJ / 'build'
+
+
+def load_en_font() -> bytes:
+    """Build the current EN font from JP base + font_tools.generate_english_font."""
+    sys.path.insert(0, str(PROJ / 'tools'))
+    from font_tools import generate_english_font  # noqa: E402
+    jp = JP_FONT_PATH.read_bytes()
+    return generate_english_font(jp)
 
 
 def tile_pixels(data: bytes, idx: int) -> list[list[int]]:
@@ -41,9 +53,11 @@ def tile_pixels(data: bytes, idx: int) -> list[list[int]]:
 
 def generate_mosaic(start: int = 0, end: int | None = None,
                     cols: int = 16, scale: int = 4,
-                    output: Path | None = None) -> Path:
+                    output: Path | None = None,
+                    font_data: bytes | None = None,
+                    label_suffix: str = '') -> Path:
     """Generate PNG mosaic of tiles [start, end)."""
-    data = FONT_PATH.read_bytes()
+    data = font_data if font_data is not None else JP_FONT_PATH.read_bytes()
     total_tiles = len(data) // 32
 
     if end is None:
@@ -87,10 +101,11 @@ def generate_mosaic(start: int = 0, end: int | None = None,
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     if output is None:
+        base = f'font_tiles{label_suffix}'
         if start == 0 and end == total_tiles:
-            output = OUTPUT_DIR / 'font_tiles.png'
+            output = OUTPUT_DIR / f'{base}.png'
         else:
-            output = OUTPUT_DIR / f'font_tiles_{start}_{end}.png'
+            output = OUTPUT_DIR / f'{base}_{start}_{end}.png'
 
     img.save(output)
     return output
@@ -98,7 +113,7 @@ def generate_mosaic(start: int = 0, end: int | None = None,
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Generate PNG mosaic of font.bin tiles')
+        description='Generate PNG mosaic of FONT.BIN tiles')
     parser.add_argument('start', nargs='?', type=int, default=0,
                         help='First tile index (default: 0)')
     parser.add_argument('end', nargs='?', type=int, default=None,
@@ -108,10 +123,26 @@ def main():
     parser.add_argument('--scale', type=int, default=4,
                         help='Pixel scale factor (default: 4)')
     parser.add_argument('-o', '--output', type=Path, default=None,
-                        help='Output path (default: build/font_tiles[_N_M].png)')
+                        help='Output path (default: build/font_tiles[_jp|_en][_N_M].png)')
+    src = parser.add_mutually_exclusive_group()
+    src.add_argument('--en', action='store_true',
+                     help='Render the built EN font (font_tools.generate_english_font)')
+    src.add_argument('--font', type=Path, default=None,
+                     help='Render an arbitrary raw font file (1691×32 bytes)')
     args = parser.parse_args()
 
-    out = generate_mosaic(args.start, args.end, args.cols, args.scale, args.output)
+    if args.en:
+        data = load_en_font()
+        suffix = '_en'
+    elif args.font is not None:
+        data = args.font.read_bytes()
+        suffix = f'_{args.font.stem}'
+    else:
+        data = JP_FONT_PATH.read_bytes()
+        suffix = '_jp'
+
+    out = generate_mosaic(args.start, args.end, args.cols, args.scale,
+                          args.output, font_data=data, label_suffix=suffix)
     print(f'Saved {out} ({out.stat().st_size:,} bytes)')
 
 

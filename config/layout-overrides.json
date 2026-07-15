@@ -1,0 +1,33 @@
+{
+  "$comment": "Per-scen layout overrides. For scens whose narration body does not render in the default DIALOGUE_12X4 balloon. Each entry overrides ONLY the DIALOGUE profile (the body of the scen); FFFF labels keep their state-machine classification. Verified via in-game playtest — do not invent entries here without confirming render geometry.",
+  "scen_overrides": {
+    "scen001": {
+      "dialogue_profile": "NARRATION_16X5",
+      "label_profile": "LABEL_CHARACTER_12X1",
+      "verified": "2026-06-04",
+      "note": "Opening sequence: goddess Lushiris world-explanation + name-entry questionnaire + game-system tutorial. All of it renders in the wide 16x5 narration region, NOT the 12x4 dialog balloon. Confirmed by author (questionnaire/tutorial were hand-fitted to 16-wide). The state machine sees a plain FFFE after the nameplate roster and falls through to DIALOGUE_12X4 — wrong for this scen. label_profile: the FFFF block is a pure 18-name CHARACTER roster running straight into narration with NO trailing LOCATION label, so the generic boundary rule mis-types the last name (Emerick) as LOCATION — pin every FFFF label to CHARACTER."
+    },
+    "scen124": {
+      "dialogue_profile": "NARRATION_16X5",
+      "verified": "2026-05-27",
+      "note": "End-game character epilogues render in the 16x5 narration box, not the 12x4 dialog balloon. JP authoring caps balloons at 80 chars (= 16x5 budget). Confirmed via Ymir playtest."
+    },
+    "scen122": {
+      "dialogue_profile": "NARRATION_16X5",
+      "jp_empty_only": true,
+      "verified": "2026-06-18",
+      "note": "Opening-movie narration (goddess Lushiris) over the 18-name roster. The narration body renders in the wide 16x5 box and is BOTTOM-ALIGNED (empty <$FFFC> lines on top, text ending at the <$FFFD> balloon end). jp_empty_only: the narration entries are exactly the JP-empty slots (　<$FFFE>); the JP-paired roster names keep their CHARACTER label classification."
+    },
+    "scen123": {
+      "dialogue_profile": "NARRATION_16X5",
+      "jp_empty_only": true,
+      "verified": "2026-06-18",
+      "note": "MIXED opening-movie scen: goddess-Lushiris narration (JP-empty slots, 16x5 bottom-aligned) interleaved with real in-scene DIALOGUE (Kleist's court, Wilder/Freya at Laffel, the Colcian general — all JP-paired). jp_empty_only promotes ONLY the JP-empty narration entries to NARRATION_16X5; the JP-paired dialogues stay DIALOGUE_12X4."
+    },
+    "scen113": {
+      "entry_overrides": {"77": "NARRATION_16X5", "78": "NARRATION_16X5", "79": "NARRATION_16X5"},
+      "verified": "2026-06-23",
+      "note": "MIXED SC-36 epilogue scen: the Altemueller/Varna farewell is real 12x4 dialogue, but the CLOSING-NARRATION block [77][78][79] ('Thus Chaos's revival was prevented...' / 'But this was only the prologue of a grand tale of the twin swords.' / 'And someday the wheel of history would turn once more...') renders in the wide 16x5 narration box — CONFIRMED via two Ymir playtest screenshots (user 2026-06-23): [77] fills the 5-line 16-wide box (こうしてカオスの復活は防がれ、…聖剣ラングリッサーの話は伝説となりました。) and [78] continues in the same wide box (ですがそれは双振りの剣をめぐる壮大な物語の序章に過ぎないのです。). The game auto-wraps narration at 16, dialogue at 12; the sibling end-game epilogue bank scen124 is likewise NARRATION_16X5. The state machine stays in SCENE_12X4 and mis-bins these (they are JP-paired, so jp_empty_only does not apply; a whole-scen dialogue_profile would wrongly promote the farewell). entry_overrides promotes ONLY the three closing-narration indices."
+    }
+  }
+}

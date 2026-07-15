@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -24,38 +24,38 @@ General Bortz<$FFFF>
 Galshook<$FFFF>
 Adjutant Gates<$FFFF>
 General Geier<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-17<$FFFC> Operation<$01E2> Recapture Laffel<$0000><$FFFE>
- Having struck Roguil Fort and successfully drawn Dark Knight away from Laffel, <$F600><$0000> and the separate force turned their course toward Laffel, just as originally planned.<$FFFE>
- However, while the mobile division makes way to Laffel, the war situation on Lord Raymond's front has taken a serious turn for the worse.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Barral Territory - Fort Rogier<$FFFF>
- What's going on here? The fort was captured, but isn't occupied? What the hell…<$FFFE>
- …We turn back at once.<$FFFE>
- Sir?<$FFFE>
- Don't you see? It's a diversion.<$FFFE>
-Outskirts of Larcussia - Currently Imperial Territory<$FFFF>
- Whoah! Just a little more!<$FFFE>
- Perfect! Now, victory is ours!<$FFFE>
- Sir Kirikaze, you have done well.<$FFFE>
- No, no, I've done little at all.<$FFFE>
- The soldiers' spirits are high. At this rate, it seems we will win.<$FFFE>
- W…what the! What's that!?<$FFFE>
- What's going on!?<$FFFE>
- I didn't want to rely on something like this, but we can't afford to take any more casualties.<$FFFE>
- Don't think too badly of me.<$FFFE>
- What is that strange contraption?<$FFFE>
- I don't know. A monster like that... I've never seen or heard of such a thing!<$FFFE>
- Go, demonic giant Galshook! Show them the magical might of the ancients!<$FFFE>
- Target acquisition…complete d. Powering up generator.<$FFFE>
- …Magic power replenished. Ready to fire demonic cannon.<$FFFE>
- Attaaaaaack!<$FFFE>
- Uwaa!<$FFFE>
- What the hell was that!?<$FFFE>
- This is very bad! All troops, retreat!<$FFFE>
- Too late for that!<$FFFE>
-Airship Fleet - Deck of the Flagship<$FFFF>
- General Geier. It seems the Galshook made it in time.<$FFFE>
- Hmmph, of course it did. Because we had the airship fleet, I knew we would be able to transport even that giant monster in two days.<$FFFE>
- And you were right as always.<$FFFE>
- Now, let's begin our own attack.<$FFFE>
- Yes, sir!<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐１７<$FFFC> Operation Recapture Laffel<$0000><$FFFE>
+Having stormed Fort Rogier and<$FFFC>lured the Dark Knight far away<$FFFC>from Laffel, the young knight's<$FFFC>detachment turned, as planned,<$FFFC>and pressed on toward Laffel.<$FFFE>
+But while the detachment pressed<$FFFC>on toward Laffel, the tide of<$FFFC>battle for Raymond's main force<$FFFC>was about to shift dramatically.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of Freya<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Barral Territory, Fort Rogier<$FFFF>
+What is the meaning of<$FFFC>this? They took the fort<$FFFC>but refuse to hold it?<$FFFC>What on earth…<$FFFE>
+…We turn back at once.<$FFFE>
+Sir?<$FFFE>
+Can't you see it? It's<$FFFC>nothing but a feint.<$FFFE>
+Imperial Larcussia Outskirts<$FFFF>
+Whoa, almost there now!<$FFFC>Just one more push!<$FFFE>
+We can do this! Keep it<$FFFC>up and we'll win!<$FFFE>
+We owe you our thanks,<$FFFC>Lord Kirikaze.<$FFFE>
+No, no, this humble one<$FFFC>did nothing worth note.<$FFFE>
+Morale is running high.<$FFFC>The day shall be ours.<$FFFE>
+W-what's that thing!?<$FFFC>What in the world!?<$FFFE>
+What's going on!?<$FFFE>
+I never wanted to rely<$FFFC>on a thing like this,<$FFFC>but I can't take more<$FFFC>losses.<$FFFE>
+Don't hate me for this.<$FFFE>
+Now what in the world<$FFFC>might that machine be?<$FFFE>
+I have no idea. A beast<$FFFC>like that, I've never<$FFFC>once seen or heard of<$FFFC>anything like it before!<$FFFE>
+Arcane Giant Galshook,<$FFFC>go now! Show them the<$FFFC>might of ancient magic!<$FFFE>
+Target fixed… complete.<$FFFC>Generator starting up.<$FFFE>
+…Magic charge complete.<$FFFC>Magic Cannon ready.<$FFFE>
+Attaaaaaack!<$FFFE>
+Uwaa!<$FFFE>
+What the hell was that!?<$FFFE>
+This is bad, fall back!<$FFFC>All forces, retreat now!<$FFFE>
+Too late for that!<$FFFE>
+Airship Fleet Flagship Deck<$FFFF>
+General Geier, sir. It<$FFFC>seems that Galshook has<$FFFC>arrived just in time.<$FFFE>
+Hmph, of course it did.<$FFFC>Only our airships could<$FFFC>have hauled that hulk<$FFFC>here in just two days.<$FFFE>
+Just as you said.<$FFFE>
+Now we attack too.<$FFFE>
+Yes, sir!<$FFFE><$FFFF>

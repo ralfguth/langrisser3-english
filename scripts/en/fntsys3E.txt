@@ -1,31 +1,31 @@
-went up!<$FFFF>
-spell was learned!<$FFFF>
-skill was acquired!<$FFFF>
-advanced class is now accessible!<$FFFF>
-can now be hired!<$FFFF>
-was acquired!<$FFFF>
-class change is now possible!<$FFFF>
-is adjacent!<$FFFF>
+ rose!<$FFFF>
+ spell was learned!<$FFFF>
+ skill was acquired!<$FFFF>
+ class up!<$FFFF>
+ can now be hired!<$FFFF>
+ was acquired!<$FFFF>
+ class is available!<$FFFF>
+ made contact!<$FFFF>
 Combat ensues!<$FFFF>
-was equipped!<$FFFF>
-was used!<$FFFF>
-was cast!<$FFFF>
+ was equipped!<$FFFF>
+ was used!<$FFFF>
+ was cast!<$FFFF>
 Select a target!<$FFFF>
-is being used!<$FFFF>
-performed Treatment!<$FFFF>
+ is being used!<$FFFF>
+ performed treatment!<$FFFF>
 Ranged attack possible.<$FFFF>
 Select a target!<$FFFF>
 AT<$FFFF>
 DF<$FFFF>
 HP<$FFFF>
 MP<$FFFF>
-STR<$FFFF>
-INT<$FFFF>
-adjustment<$FFFF>
+<$05FB><$05FC><$FFFF>
+<$05F6><$05F7><$FFFF>
+ adjustment<$FFFF>
 Level<$FFFF>
-summon was learned!<$FFFF>
-View summaries of what has happened before?<$FFFF>
-effect!<$FFFF>
-recovered!<$FFFF>
-went down!<$FFFF>
-Troops now employable<$FFFF>
+ summon was learned!<$FFFF>
+View summary of what has happened?<$FFFF>
+ effect!<$FFFF>
+ recovered!<$FFFF>
+ fell!<$FFFF>
+Hired troops<$FFFF>

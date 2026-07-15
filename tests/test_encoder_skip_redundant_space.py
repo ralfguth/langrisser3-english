@@ -121,16 +121,19 @@ class TestSkipDoesNotApply:
     """The skip rule applies ONLY mid-segment. Space at end-of-segment
     (before a control code) MUST stay — encoder must not touch it."""
 
-    def test_space_at_segment_end_before_structural_ctrl_KEPT(self):
-        """'X. <$FFFC>Y' — period + space + STRUCTURAL ctrl-code (FFFC
-        newline). User: structural codes (FFFC newline, FFFD scroll,
-        FFFE terminator) end the visible word stream — preserve the
-        trailing space."""
-        bytes_with_space = encode_text_to_entry("X. <$FFFC>Y", CHAR_TILE_MAP, BIGRAM_TILE_MAP)
-        bytes_without_space = encode_text_to_entry("X.<$FFFC>Y", CHAR_TILE_MAP, BIGRAM_TILE_MAP)
-        assert len(bytes_with_space) > len(bytes_without_space), (
-            f"space before structural FFFC ctrl-code should be PRESERVED; "
-            f"got {len(bytes_with_space)} == {len(bytes_without_space)}"
+    def test_space_at_segment_end_before_structural_ctrl_PACKS(self):
+        """'X. <$FFFC>Y' — period + space + STRUCTURAL ctrl-code (FFFC newline).
+        Under the data-driven font the period packs the following space into the
+        ('.',' ') bigram (blank right half), so the space adds NO separate tile
+        and renders identically to 'X.<$FFFC>Y'. (The old incomplete-coverage
+        encoder emitted a separate space tile here; complete (c,space) coverage
+        supersedes that. Before a newline the trailing gap is invisible anyway,
+        so nothing glues.)"""
+        with_space = encode_text_to_entry("X. <$FFFC>Y", CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        without_space = encode_text_to_entry("X.<$FFFC>Y", CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        assert len(with_space) == len(without_space), (
+            f"space should pack into the period's (.,space) bigram (no extra tile); "
+            f"got {len(with_space)} vs {len(without_space)}"
         )
 
     def test_space_at_segment_end_before_F600_SKIPPED(self):
@@ -150,23 +153,21 @@ class TestSkipDoesNotApply:
     # ---------- Rule scope: positive coverage (every standalone right-blank punct) ----------
 
     @pytest.mark.parametrize("punct", list(',.?!:;'))
-    def test_every_standalone_right_blank_punct_before_F600_skips_space(self, punct):
-        """The skip rule must fire for EVERY standalone right-blank punct
-        char ahead of F600. Source forces standalone encoding by using a
-        single uppercase letter (no UC-letter+punct bigram exists), so
-        the punct is guaranteed to come out as its standalone tile.
+    def test_every_standalone_right_blank_punct_before_F600_packs_space(self, punct):
+        """A standalone right-blank punct before space+F600 packs the space into
+        its (punct,' ') bigram — SAME tile count as the spaceless form, so the
+        player name stays tight after the punct. Source forces standalone parity
+        with a single uppercase letter (no UC-letter+punct bigram exists).
 
-        Rule (user-stated 2026-05-25): "the rule is that you don't need
-        to put space if the tile before the space is a standalone with
-        space on the right." Standalone right-blank puncts ARE such tiles."""
-        text_with    = f"X{punct} <$F600><$0000>!"
-        text_without = f"X{punct}<$F600><$0000>!"
-        a = encode_text_to_entry(text_with,    CHAR_TILE_MAP, BIGRAM_TILE_MAP)
-        b = encode_text_to_entry(text_without, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
-        assert a == b, (
-            f"standalone '{punct}' before space+F600: skip rule must fire."
-            f"\n  with    space: {a.hex()}"
-            f"\n  without space: {b.hex()}"
+        (Old encoder SKIPPED the space outright; the data-driven (c,space)
+        coverage PACKS it instead — identical render, the punct tile carries the
+        blank right half either way. Same user goal: name tight after the punct.)"""
+        with_space    = encode_text_to_entry(f"X{punct} <$F600><$0000>!", CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        without_space = encode_text_to_entry(f"X{punct}<$F600><$0000>!", CHAR_TILE_MAP, BIGRAM_TILE_MAP)
+        assert len(with_space) == len(without_space), (
+            f"standalone '{punct}' before space+F600: space must not add a tile."
+            f"\n  with    space: {with_space.hex()}"
+            f"\n  without space: {without_space.hex()}"
         )
 
     # ---------- Rule scope: negative coverage (bigrams MUST keep the space) ----------
@@ -196,24 +197,23 @@ class TestSkipDoesNotApply:
     # ---------- Rule scope: negative coverage (non-right-blank chars MUST keep the space) ----------
 
     @pytest.mark.parametrize("text", [
-        "Z <$F600><$0000>!",        # bare UC letter — not right-blank
-        "X- <$F600><$0000>!",       # hyphen — explicitly excluded from right-blank set
-        "•<$F600><$0000>!",         # bullet — explicitly excluded
+        "Z <$F600><$0000>!",        # bare UC letter — now half-width, packs the space
+        "X- <$F600><$0000>!",       # hyphen — composable, packs the space
     ])
-    def test_non_right_blank_tile_before_F600_keeps_space(self, text):
-        """Negative coverage: only the chars in the documented right-blank
-        standalone set may trigger the skip. UC letters and the explicitly
-        full-width '-' and '•' chars must NOT trigger it."""
+    def test_composable_char_before_F600_packs_space(self, text):
+        """Under the data-driven font EVERY composable char (incl. uppercase and
+        '-') pairs with a following space into a (char,' ') HALF-WIDTH bigram, so
+        the space adds no separate tile and the name stays tight after a half-
+        width gap. (Old font: uppercase was a WIDE zenkaku single + a kept full
+        space; the rewrite makes it half-width + packed — the playtested
+        compaction. The gap is preserved as the bigram's blank right half.)"""
         without_space = text.replace(" <$F600>", "<$F600>")
         a = encode_text_to_entry(text, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
         b = encode_text_to_entry(without_space, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
-        # Either lengths differ (skip didn't fire) OR there was no space to skip
-        if ' <$F600>' in text:
-            assert len(a) > len(b), (
-                f"non-right-blank tile before F600: space must be KEPT."
-                f"\n  with    space: {a.hex()}"
-                f"\n  without space: {b.hex()}"
-            )
+        assert len(a) == len(b), (
+            f"composable char before space+F600: space packs into the (char,' ') bigram."
+            f"\n  with    space: {a.hex()}\n  without space: {b.hex()}"
+        )
 
 
     def test_no_space_means_no_skip(self):

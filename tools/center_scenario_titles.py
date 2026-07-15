@@ -208,8 +208,13 @@ def fit_subtitle(text: str, width: int = BALLOON_WIDTH) -> str:
 # <$FFFC> and the FIRST <$FFFE>. Subtitle may contain other codes (e.g.
 # <$01E2> for the colon tile in scen17, or our <$0000> padding) but never
 # <$FFFE> (entry terminator).
+# Matches both the legacy ASCII header (`  <$0000>SCENARIO-01`) and the new
+# zenkaku header mirroring JP (`　　　ＳＣＥＮＡＲＩＯ‐０１`): the indent is any mix
+# of whitespace (ASCII or 　) and `<$0000>` codes, the word/number may be half-
+# or full-width, and the separator is '-' or the JP hyphen '‐'.
 SCENARIO_PATTERN = re.compile(
-    r'(<\$0000><\$FFFC>[^<]*<\$0000>SCENARIO-[?0-9]+<\$FFFC>)((?:(?!<\$FFFE>).)*?)(<\$FFFE>)'
+    r'(<\$0000><\$FFFC>[^<]*(?:<\$0000>)?(?:SCENARIO|ＳＣＥＮＡＲＩＯ)[-‐]'
+    r'[?0-9？０-９]+<\$FFFC>)((?:(?!<\$FFFE>).)*?)(<\$FFFE>)'
 )
 
 

@@ -1,0 +1,97 @@
+{
+  "$comment": "Layout QA classifier transitions — confidence + reason per rule. Currently used as documentation of intent. Override-able by passing as the `rules` argument to tools.layout_qa.classifier.classify_entries; otherwise DEFAULT_RULES in that module is used.",
+  "patterns": {
+    "scenario_marker_regex": "<\\$0000><\\$FFFC>[^<]*<\\$0000>SCENARIO-[?0-9]+<\\$FFFC>",
+    "bullet_prefix_regex": "^\\s*[•*]"
+  },
+  "transitions": {
+    "INITIAL_LABEL_CHARACTER": {
+      "from": "INITIAL_LABELS",
+      "to": "INITIAL_LABELS",
+      "trigger": "FFFF + (next is FFFF | next FFFE is SCENARIO | next FFFE is bullet)",
+      "profile": "LABEL_CHARACTER_12X1",
+      "confidence": 1.0,
+      "reason": "FFFF with next entry also FFFF — nameplate in roster"
+    },
+    "INITIAL_LABEL_LOCATION": {
+      "from": "INITIAL_LABELS",
+      "to": "INITIAL_LABELS",
+      "trigger": "FFFF + next is FFFE without SCENARIO/bullet",
+      "profile": "LABEL_LOCATION_16X1",
+      "confidence": 0.95,
+      "reason": "last FFFF before first FFFE — location title"
+    },
+    "INITIAL_SCENARIO": {
+      "from": "INITIAL_LABELS",
+      "to": "SCENARIO_INTRO_16X5",
+      "trigger": "FFFE + SCENARIO_PATTERN match",
+      "profile": "NARRATION_16X5",
+      "confidence": 0.95,
+      "reason": "SCENARIO marker matched at first FFFE entry"
+    },
+    "INITIAL_OBJECTIVE": {
+      "from": "INITIAL_LABELS",
+      "to": "OBJECTIVES_16X5",
+      "trigger": "FFFE + bullet prefix",
+      "profile": "OBJECTIVE_16X5",
+      "confidence": 0.9,
+      "reason": "bullet prefix at first FFFE entry"
+    },
+    "INITIAL_TO_SCENE_DIALOGUE": {
+      "from": "INITIAL_LABELS",
+      "to": "SCENE_12X4",
+      "trigger": "FFFE without SCENARIO/bullet",
+      "profile": "DIALOGUE_12X4",
+      "confidence": 0.85,
+      "reason": "FFFE with no SCENARIO/bullet — assumed dialogue (last FFFF was location)"
+    },
+    "INTRO_NARRATION": {
+      "from": "SCENARIO_INTRO_16X5",
+      "to": "SCENARIO_INTRO_16X5",
+      "trigger": "FFFE",
+      "profile": "NARRATION_16X5",
+      "confidence": 0.9,
+      "reason": "FFFE entry inside SCENARIO_INTRO_16X5 state"
+    },
+    "INTRO_TO_SCENE_LOCATION": {
+      "from": "SCENARIO_INTRO_16X5",
+      "to": "SCENE_12X4",
+      "trigger": "FFFF",
+      "profile": "LABEL_LOCATION_16X1",
+      "confidence": 0.95,
+      "reason": "first FFFF after SCENARIO intro = location label"
+    },
+    "OBJECTIVE_REPEAT": {
+      "from": "OBJECTIVES_16X5",
+      "to": "OBJECTIVES_16X5",
+      "trigger": "FFFE",
+      "profile": "OBJECTIVE_16X5",
+      "confidence": 0.9,
+      "reason": "FFFE entry inside OBJECTIVES_16X5 state"
+    },
+    "OBJECTIVE_TO_SCENE_LOCATION": {
+      "from": "OBJECTIVES_16X5",
+      "to": "SCENE_12X4",
+      "trigger": "FFFF",
+      "profile": "LABEL_LOCATION_16X1",
+      "confidence": 0.95,
+      "reason": "first FFFF after objectives = location label"
+    },
+    "SCENE_DIALOGUE": {
+      "from": "SCENE_12X4",
+      "to": "SCENE_12X4",
+      "trigger": "FFFE",
+      "profile": "DIALOGUE_12X4",
+      "confidence": 0.9,
+      "reason": "FFFE entry inside SCENE_12X4 state"
+    },
+    "SCENE_LOCATION": {
+      "from": "SCENE_12X4",
+      "to": "SCENE_12X4",
+      "trigger": "FFFF",
+      "profile": "LABEL_LOCATION_16X1",
+      "confidence": 0.9,
+      "reason": "FFFF entry inside SCENE_12X4 state (mid-file location)"
+    }
+  }
+}

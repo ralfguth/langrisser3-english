@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,26 +20,26 @@ Adjutant Gates<$FFFF>
 General Geier<$FFFF>
 Viscount Raymond<$FFFF>
 Priest<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-13<$FFFC><$0000><$0000><$0000>To Hunt a Holy Beast<$0000><$0000><$0000><$FFFE>
- <$F600><$0000> and the separate force, now joined by the sage Fauvel, Sophia's father and keeper of the eastern gate, headed west in place of Raymond's force, which was struggling to free the northern gate.<$FFFE>
- It turns out that the warden of this gate is not human. However, by the time the party arrives at the western gate, Ruud and the Barral army, following the orders of the Dark Knight, have already laid siege to it.<$FFFE>
- *Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Death of Jugler<$FFFE>
-City of Laffel - Currently Occupied by Barral<$FFFF>
- Lord Geier! Ship 4 went down, and now ships 6 and 7 have been shot out of the sky too! If things continue like this…<$FFFE>
- Grrrghhh… …<$FE28>…<$FE0F>ret <$FE0F>…<$FE0F>reat<$FE0F>…<$FFFE>
- Send a message to the remaining ships! All units are to retreat!<$FFFE>
- Yes, sir!<$FFFE>
- Shit! Damn you, Dark Knight! Try to sink MY ship will you!<$FFFE>
- …I will remember this day! You will come to rue the day you humiliated me so, I swear it!<$FFFE>
-Lushiris Gate - Northern Gate<$FFFF>
- That general called Bortz was quite an admirable man, in spite of being our enemy.<$FFFE>
- Indeed.<$FFFD>Such true heroism, to come against us, alone so that his subordinates could escape.<$FFFD>I would welcome a chance to fight against him again somewhere.<$FFFE>
- …The gate is opened, and shall aid the power to drive away demons!<$FFFE>
- Oh, so this is the third gate opened, then?<$FFFE>
-It must be so.<$FFFD>Speaking of which, I've received a report that <$F600><$0000> and company have headed to the western gate.<$FFFE>
- Then, how shall we proceed?<$FFFE>
- Hmm.<$FFFE>
- Once <$F600><$0000> and company have opened the final gate, we should seek Lady Jessica out again, so we can quickly finalize the renewal of the Lushiris Gate.<$FFFE>
- As you wish. I shall go and inform the soldiers.<$FFFE>
- If you will pardon me.<$FFFE>
- Lewin and <$F600><$0000> have done far more than I had thought possible.<$FFFD>…They've become quite a potent force.<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐１３<$FFFC><$0000><$0000><$0000>To Hunt a Holy Beast<$0000><$0000><$0000><$FFFE>
+Sage Fauvel, Sophia's father<$FFFC>and east gatekeeper, joined<$FFFC>them. <$F600><$0000>'s force<$FFFC>made for the west gate as<$FFFC>Raymond strove for the north.<$FFFE>
+The warden of this gate is no<$FFFC>human. But by the time the party<$FFFC>reached it, Ruud and the Barral<$FFFC>army had already laid siege on<$FFFC>the Dark Knight's orders.<$FFFE>
+*Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Death of Jugler<$FFFE>
+Laffel, Barral Territory<$FFFF>
+Lord Geier! After Ship<$FFFC>4, ships 6 and 7 are<$FFFC>down too! If this keeps<$FFFC>up…<$FFFE>
+Grrrghhh…<$FFFC>…re<$FE0F>…treat<$FE0F>…<$FFFE>
+Pass the word to every<$FFFC>remaining ship!<$FFFC>All units, retreat!<$FFFE>
+Yes, sir!<$FFFE>
+Damn it! That cursed<$FFFC>Dark Knight! Making ME<$FFFC>pull my ships back!<$FFFE>
+…I won't forget this!<$FFFC>You'll pay for this<$FFFC>humiliation, I swear it!<$FFFE>
+Lushiris Gate, Northern Gate<$FFFF>
+That general Bortz was<$FFFC>an admirable man, enemy<$FFFC>though he was.<$FFFE>
+Indeed.<$FFFD>Such heroism, charging<$FFFC>us alone to let his<$FFFC>men escape. No ordinary<$FFFC>warrior could.<$FFFD>I would gladly face<$FFFC>him again on some other<$FFFC>field.<$FFFE>
+…The gate is open, and<$FFFC>shall lend us power to<$FFFC>drive the demons back!<$FFFE>
+Oh, so that's the third<$FFFC>gate open now, is it?<$FFFE>
+It must be so.<$FFFD>Word from a messenger.<$FFFC><$F600><$0000> and<$FFFC>company have headed for<$FFFC>the west gate.<$FFFE>
+So, how shall we<$FFFC>proceed?<$FFFE>
+Hmm.<$FFFE>
+<$F600><$0000> opens<$FFFC>the last gate? Then we<$FFFC>rush to Lady Jessica to<$FFFC>fire the Lushiris Gate.<$FFFE>
+As you wish. I shall go<$FFFC>and instruct the<$FFFC>soldiers.<$FFFE>
+If you will pardon me.<$FFFE>
+Both Lewin and<$FFFC><$F600><$0000> are<$FFFC>doing more than I ever<$FFFC>expected.<$FFFD>…Truly heartening.<$FFFE>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,18 +19,18 @@ Emerick<$FFFF>
 General Varna<$FFFF>
 Field Marshal Altemüller<$FFFF>
 Rigüler Commander<$FFFF>
-Former Royal Castle of Larcussia - Currently Imperial Headquarters<$FFFF>
- Your Excellency! It's still dangerous to your health to be very active.<$FFFE>
- Don't worry about me.<$FFFD>Thanks to your extensive care, the wound has already closed over, as you can see.<$FFFE>
- But, Your Excellency…<$FFFE>
- Excuse me!<$FFFE>
- What is it?<$FFFE>
- A report from General Bortz.<$FFFD>The Larcuss remnants under Lord Raymond are stronger than expected, and General Bortz's unit is being pushed back!<$FFFE>
- That Bortz!?<$FFFE>
- Ho… That Lord Raymond sure makes things much more exciting.<$FFFE>
- What course of action would be best?<$FFFE>
- Varna. Go and help our Bortz.<$FFFE>
- Yessir! …But, Your Excellency…<$FFFE>
- No need to worry about me. Just go.<$FFFE>
- …Your wish is my command.<$FFFE>
- Hmmm…<$FFFD>This should be very interesting…<$FFFE> 
+Old Larcussia, Imperial HQ<$FFFF>
+Your Excellency! It's<$FFFC>still too soon to push<$FFFC>yourself. It's bad for<$FFFC>your health.<$FFFE>
+Don't worry about me.<$FFFD>Your devoted care has<$FFFC>mostly healed the wound,<$FFFC>as you can see.<$FFFE>
+But, Your Excellency…<$FFFE>
+Excuse me!<$FFFE>
+What is it?<$FFFE>
+A report from General<$FFFC>Bortz.<$FFFD>Lord Raymond's remnants<$FFFC>are far stronger than we<$FFFC>thought, and Bortz is<$FFFC>falling back!<$FFFE>
+That Bortz!?<$FFFE>
+Ho… That Lord Raymond<$FFFC>sure makes things much<$FFFC>more exciting.<$FFFE>
+What are your orders?<$FFFE>
+Varna. Go to Bortz's<$FFFC>aid.<$FFFE>
+Yessir! …But, Your<$FFFC>Excellency…<$FFFE>
+No need to worry about<$FFFC>me. Just go.<$FFFE>
+…As you command.<$FFFE>
+Heh…<$FFFD>This is more like it…<$FFFE><$FFFF>

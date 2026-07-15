@@ -5,20 +5,20 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-The prosperous realm of Larcuss <$FFFC>lay between Rigüler's Empire <$FFFC>to the north, and its ally <$FFFC>Barral to the south.<$FFFE>
-Northward, the Rigüler Empire<$FFFC>spanned vast reaches of land,<$FFFC>yet most of those lands were<$FFFC>frozen tundra, with harvests<$FFFC>too poor to end their poverty.<$FFFE>
-Southward lay Barral Kingdom,<$FFFC>poor but allied with Larcuss,<$FFFC>and the two kingdoms remained<$FFFC>bound by close friendship.<$FFFE>
-Beyond them, smaller nations<$FFFC>ringed the borders of Larcuss,<$FFFC>coveting its fertile lands and<$FFFC>its valuable strategic position.<$FFFE>
-Yet above Larcussia, Larcuss<$FFFC>kept an ancient relic aloft,<$FFFC>the Floating Castle, armed with<$FFFC>the Magical Cannon, repelling<$FFFC>invasion after invasion.<$FFFE>
-Free from war, peaceful Larcuss<$FFFC>prospered as a major trade hub,<$FFFC>blessed with fertile land and<$FFFC>rich mineral wealth, becoming<$FFFC>the richest of nearby nations.<$FFFE>
+Long ago, the realm of Larcuss<$FFFC>stood between two great powers,<$FFFC>the Rigüler Empire to the north<$FFFC>and the Barral Kingdom to the<$FFFC>south.<$FFFE>
+The ambitious Rigüler Empire<$FFFC>loomed to the north, vast and<$FFFC>mighty. It hungered ever for<$FFFC>richer, warmer land.<$FFFE>
+To the south stood Barral, a<$FFFC>broad and steadfast kingdom,<$FFFC>Larcuss's trusted ally.<$FFFE>
+The Empire long coveted Larcuss<$FFFC>for its fertile fields and the<$FFFC>prize of its position.<$FFFE>
+Yet by the power of the Floating<$FFFC>Castle and its Magic Cannon,<$FFFC>above the capital Larcussia,<$FFFC>Larcuss held the Empire at bay.<$FFFE>
+At peace and shielded, Larcuss<$FFFC>flourished into the richest land<$FFFC>on all the continent.<$FFFE>

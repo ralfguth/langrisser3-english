@@ -22,7 +22,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 from iso_tools import build_file_index, extract_file_data
 
 DEFAULT_MDF = Path(
-    "/home/ralf/Jogos/emulacao/tools/梦幻模拟战3[简][意志之路]/LANGRISSER_3.mdf"
+    "/home/ralf/Jogos/emulacao/tools/Langrisser III (CN)/LANGRISSER_3.mdf"
 )
 DEFAULT_OUT = SCRIPT_DIR.parent / "data" / "cn"
 

@@ -12,7 +12,7 @@ Aquatic<$FFFF>
 Aquatic<$FFFF>
 Aquatic<$FFFF>
 Cavalry<$FFFF>
-Specialized Cavalry<$FFFF>
+High Cavalry<$FFFF>
 Horse Archer<$FFFF>
 Undead Cavalry<$FFFF>
 Aerial<$FFFF>
@@ -22,7 +22,7 @@ Spear<$FFFF>
 Robber<$FFFF>
 Demon Soldier<$FFFF>
 Demon Soldier<$FFFF>
-Demon Tribe<$FFFF>
+Demon<$FFFF>
 Ghost<$FFFF>
 Immortal<$FFFF>
 Gel<$FFFF>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,22 +20,22 @@ Viscount Raymond<$FFFF>
 Larcuss Commander<$FFFF>
 Rigüler Commander<$FFFF>
 General Bortz<$FFFF>
-Outskirts of Larcussia - Presently Imperial Territory<$FFFF>
- Charge! We will reclaim our country!<$FFFE>
- Ohhhh!!<$FFFE>
- They show such passion. With such a display, we should be fine.<$FFFE>
- Indeed.<$FFFE>
- If we retake the royal capital at the same time the mobile division retakes Laffel, we will hold the two largest cities.<$FFFE>
- That would be a huge step towards reclaiming our kingdom.<$FFFE>
- …Lord Kirikaze. Once our country is restored, we will lend our strength to your cause next.<$FFFE>
- My thanks.<$FFFE>
- After all, I cannot accept death until I have defeated the sorceress who destroyed my homeland.<$FFFE>
- But before that, I shall lend my strength to driving out the Empire. Now, excuse me!<$FFFE>
- Make way!<$FFFE>
- Though I hail from a foreign land, for now I am pledged to the cause of Larcuss! My name is Kirikaze!<$FFFE>
- Face me honorably!<$FFFE>
-General Bortz. Their forces seem invigorated, and we are being pushed back!<$FFFE>
- I'd expect nothing less from Lord Raymond. He has me cornered, sure enough.<$FFFE>
- But have no fear! General Geier should be bringing reinforcements shortly.<$FFFE>
- Understood. If you say so, General, then I have no worries.<$FFFE>
- Given that, we will fight with our spirits high until those relief troops arrive!<$FFFE>
+Larcussia Outskirts, Imperial<$FFFF>
+Charge! We will reclaim<$FFFC>our country!<$FFFE>
+Ohhhh!!<$FFFE>
+Such tremendous momentum<$FFFC>they carry, indeed! With<$FFFC>this, we should be fine.<$FFFE>
+Indeed.<$FFFE>
+Retake the royal capital<$FFFC>as the detachment takes<$FFFC>Laffel, and we hold both<$FFFC>great cities.<$FFFE>
+That should give us a<$FFFC>great foothold toward<$FFFC>reclaiming our kingdom.<$FFFE>
+…Lord Kirikaze. When<$FFFC>our land is restored, we<$FFFC>will lend our strength<$FFFC>to your cause.<$FFFE>
+My thanks.<$FFFE>
+Until I have slain the<$FFFC>sorceress who destroyed<$FFFC>my homeland, I could not<$FFFC>rest even in death.<$FFFE>
+But first, I shall give<$FFFC>my all to driving out<$FFFC>the Empire. Now, excuse<$FFFC>me!<$FFFE>
+Make way!<$FFFE>
+Though I am but a man<$FFFC>of a foreign land, I am<$FFFC>now sworn to Larcuss!<$FFFC>My name is Kirikaze!<$FFFE>
+Face me honorably!<$FFFE>
+General Bortz. They ride<$FFFC>high on momentum, and we<$FFFC>are being pushed back!<$FFFE>
+Just as I would expect<$FFFC>from Lord Raymond. He<$FFFC>has me cornered, sure<$FFFC>enough.<$FFFE>
+But have heart, soldier!<$FFFC>General Geier will bring<$FFFC>reinforcements before<$FFFC>long.<$FFFE>
+Understood. If you say<$FFFC>so, General, then I have<$FFFC>no worries.<$FFFE>
+Then, until those brave<$FFFC>reinforcements arrive,<$FFFC>let us fight with all<$FFFC>our spirit!<$FFFE><$FFFF>

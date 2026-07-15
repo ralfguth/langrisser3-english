@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,88 +18,88 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Shopkeeper<$FFFF>
 Princess Freya<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-16<$FFFC><$0000><$0000><$0000><$0000><$0000>Call to Arms<$0000><$0000><$0000><$0000><$0000><$FFFE>
- With many allies gathered and the Sword of Decimation in hand, <$F600><$0000> and the separate force had finally grown strong enough to consider retaking the capital of Laffel.<$FFFE>
- But unless the Dark Knight stationed in Laffel could be drawn away, even temporarily, their chances of victory were slim. So they planned a diversionary attack to lure the Dark Knight out of Laffel.<$FFFE>
- To make that possible, an informer still in Laffel was absolutely essential. Relying on a likely contact, <$F600><$0000> infiltrated Laffel alone. The day of the operation was drawing near.<$FFFE>
- *Victory Conditions<$FFFC>•Complete annihilation of enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Laffel - Currently Occupied by Barral<$FFFF>
- …He sure is late.<$FFFD>Should I…, No, I will hold out and wait a little longer.<$FFFE>
- Even though this place has been occupied by Barral, there sure are plenty of things for sale.<$FFFD>…Just goes to show Larcuss has always been a bountiful country.<$FFFE>
- Welcome. How are you today? See anything that catches your eye?<$FFFD>How about this charming brooch? It's been a very popular item lately, and this is the last one I have.<$FFFD>It's quite a deal at the low price of 100P.<$FFFE>
- This certainly is a beautiful piece of silverwork. At only 100P, there's no reason to hold off buying it right now.<$FFFE>
- But, there's only one…<$FFFE>
- Who will you buy it for?<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐１６<$FFFC><$0000><$0000><$0000><$0000><$0000>Call to Arms<$0000><$0000><$0000><$0000><$0000><$FFFE>
+With many allies won, and the<$FFFC>Decimation Sword now theirs,<$FFFC><$F600><$0000> and his force<$FFFC>had grown strong enough at last<$FFFC>to retake Laffel's capital.<$FFFE>
+But unless the Dark Knight in<$FFFC>Laffel could be drawn away, if<$FFFC>only briefly, their odds were<$FFFC>slim, so they would stage a<$FFFC>diversion to draw him out.<$FFFE>
+To that end, an informer left<$FFFC>in Laffel was essential.<$FFFC><$F600><$0000> went in alone,<$FFFC>trusting a likely contact.<$FFFC>The day of action drew near.<$FFFE>
+*Victory Conditions<$FFFC>•Annihilate all enemies<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Laffel, now Barral<$FFFF>
+…He's late.<$FFFD>Could it be…? No. I'll<$FFFC>wait a bit longer.<$FFFE>
+Even though Barral now<$FFFC>holds this town, plenty<$FFFC>of goods are on sale.<$FFFD>…Larcuss is a rich land<$FFFC>after all.<$FFFE>
+Welcome! Anything here<$FFFC>catch your eye today?<$FFFD>This charming brooch?<$FFFC>A popular item, the last<$FFFC>one I have.<$FFFD>And at just 100P too,<$FFFC>it's quite the bargain.<$FFFE>
+Fine silverwork, this.<$FFFC>With just 100P, I can<$FFFC>afford this right now.<$FFFE>
+But, there's only one…<$FFFE>
+Who will you buy it for?<$FFFE>
 For Tiaris<$FFFE>
 For Liffany <$FFFE>
 For Luna<$FFFE>
 For Sophia<$FFFE>
 Don't buy it<$FFFE>
- It looks like it would suit Tiaris well.<$FFFB>Very well, I would like to buy it.<$FFFE>
- Haha. Tiaris will likely be delighted…<$FFFE>
- It looks like it would suit Liffany well.<$FFFB>Very well, I would like to buy it.<$FFFE>
- Haha. Liffany will likely be delighted…<$FFFE>
- It looks like it would suit Luna well.<$FFFB>Very well, I would like to buy it.<$FFFE>
- Haha. Luna will likely be delighted…<$FFFE>
- It looks like it would suit Sophia well.<$FFFB>Very well, I would like to buy it.<$FFFE>
- Haha. Sophia will likely be delighted…<$FFFE>
- No, sorry, I think I will pass.<$FFFE>
- I see…<$FFFB>That's too bad…<$FFFE>
- Long time no see, <$F600><$0000>.<$FFFE>
- You've been a hell of a busy boy, haven't you. I've heard all about it through the grape vine.<$FFFE>
- Good to see you safe and as perky as ever, Wolf.<$FFFE>
- Heheh! It's not a simple task to catch me, the clever Silver Wolf.<$FFFE>
- Speaking of capture, do you know anything about a knight named Gerold?<$FFFE>
- Gerold? Ah, the knight who was in the sick bed that time?<$FFFE>
- Well, right after Laffel was occupied, he was escorted to Barral.<$FFFE>
- After that, I don't know much, maybe he never recovered from that wound.<$FFFE>
- I see…<$FFFE>
- Did you have any other reason to come here?<$FFFE>
- Yes, we're going to start a campaign to recapture Laffel, beginning with an invasion of Barral proper.<$FFFE>
- Hey now, are you crazy!?<$FFFE>
- It's always been a small country, but that doesn't mean you can conquer it with your small force!<$FFFE>
- True, but we're doing it to get the Dark Knight to move from his watchpost here.<$FFFE>
- If the Dark Knight weren't here, we would be able to return and quickly recapture Laffel.<$FFFE>
- But, to make this work I will need your help.<$FFFE>
- Alright, I think I know what your getting at. You want me to keep tabs on the Dark Knight's movements right? Leave it to me!<$FFFE>
- If that's it, I will head out now. Wouldn't be a pretty picture to get found by those Barral flunkies.<$FFFE>
-!!<$FFFE>
- P…princess Freya…<$FFFE>
- !? Sshhh! Over here.<$FFFE>
- You, what are you doing here! For now this place is under Barral's control…, and it looks like we're on opposite sides, right!?<$FFFE>
-…Freya. I've got something I would like to ask you. Why did Barral invade this country?<$FFFE>
- We were allied and I never would have thought King Wilder would turn against us.<$FFFE>
- …For me it is heart rending to see Father as he is right now!<$FFFE>
- But, I am the princess of Barral! I am Father's daughter!<$FFFE>
- If I abandoned him, Father's only ally would be that unfathomable Dark Knight!<$FFFE>
+This suits Tiaris well.<$FFFB><$FFFC>I'll take it, then.<$FFFE>
+Heh. Tiaris is sure to<$FFFC>be pleased with this…<$FFFE>
+This suits Liffany well.<$FFFB><$FFFC>I'll take it, then.<$FFFE>
+Heh. Liffany's sure to<$FFFC>be delighted…<$FFFE>
+This suits Luna well.<$FFFB><$FFFC>I'll take it, then.<$FFFE>
+Heh. Luna's bound to be<$FFFC>delighted…<$FFFE>
+This suits Sophia well.<$FFFB><$FFFC>I'll take it, then.<$FFFE>
+Heh. Sophia's bound to<$FFFC>be pleased with this…<$FFFE>
+No, sorry, I'll pass.<$FFFE>
+I see…<$FFFB>That's too bad…<$FFFE>
+Heh, long time no see.<$FFFC><$F600><$0000>.<$FFFE>
+You've grown tough, eh?<$FFFC>I've heard rumors about<$FFFC>you lot.<$FFFE>
+Good to see you in fine<$FFFC>spirits as ever, Wolf.<$FFFE>
+Heheh! Think the mighty<$FFFC>Silver Wolf gets caught<$FFFC>so easily?<$FFFE>
+By the way, do you know<$FFFC>a knight named Gerold?<$FFFE>
+Gerold? Ah, the knight<$FFFC>laid up sick back then?<$FFFE>
+Just after Laffel fell,<$FFFC>they hauled him off to<$FFFC>Barral.<$FFFE>
+After that, who knows,<$FFFC>but a wound like that…<$FFFC>he wouldn't survive it.<$FFFE>
+I see…<$FFFE>
+Another reason brought<$FFFC>you here, didn't it?<$FFFE>
+Yes. As our first step<$FFFC>to retaking this land,<$FFFC>we strike at Barral.<$FFFE>
+Hey now, are you crazy!?<$FFFE>
+Barral's small, but you<$FFFC>can't take it with just<$FFFC>your handful of men!<$FFFE>
+True. But the point is<$FFFC>to draw the Dark Knight<$FFFC>off his post here.<$FFFE>
+Once the Dark Knight is<$FFFC>gone, we'll wheel right<$FFFC>back and retake Laffel.<$FFFE>
+So there's a favor I'd<$FFFC>ask of you.<$FFFE>
+Whoa now, say no more.<$FFFC>Want to know when the<$FFFC>Dark Knight stirs, eh?<$FFFC>Leave it to me!<$FFFE>
+Right, I'm off then. Bad<$FFFC>news if I run into those<$FFFC>Barral lot.<$FFFE>
+Huh?!<$FFFE>
+P-princess Freya…<$FFFE>
+!? Sshhh! Over here.<$FFFE>
+You! Why are you here?<$FFFC>This is Barral's now…<$FFFC>like it or not, we are<$FFFC>enemies, aren't we?!<$FFFE>
+…Freya. I must ask you.<$FFFC>Why would Barral invade<$FFFC>this land of ours?<$FFFE>
+We were sworn allies.<$FFFC>The King Wilder I knew,<$FFFC>I'd never have dreamed<$FFFC>of this.<$FFFE>
+…Even I, even I find it<$FFFC>hard to see Father like<$FFFC>this now!<$FFFE>
+But I'm the princess of<$FFFC>Barral! I am Father's<$FFFC>daughter!<$FFFE>
+If I left him, Father's<$FFFC>only ally would be that<$FFFC>eerie Dark Knight!<$FFFE>
 …<$FFFE>
- Now, why did you choose to return to Laffel?<$FFFE>
- What do you say in response?<$FFFE>
- To meet with you.<$FFFE>
- To fight the Dark Knight.<$FFFE>
- Out of concern for afriend.<$FFFE>
- Why, I wanted to meet you, of course.<$FFFE>
- …<$FFFB>…Liar…<$FFFE>
+More to the point, why<$FFFC>did you come back here<$FFFC>to Laffel?<$FFFE>
+What do you answer?<$FFFE>
+To meet with you.<$FFFE>
+To fight him.<$FFFE>
+Worried for a friend.<$FFFE>
+To see you, of course.<$FFFE>
+…<$FFFB>…Liar…<$FFFE>
 …<$FFFE>
- But,<$FFFB>Even if it's a lie, it makes me happy.<$FFFE>
- How did we ever come to such straits in our relationship…<$FFFE>
- Freya…<$FFFE>
- I really couldn't say.<$FFFD>To defeat the Dark Knight.<$FFFE>
- The Dark Knight?<$FFFE>
- That's right.<$FFFD>I am certain he's behind what's happened to King Wilder…<$FFFE>
- I hate to say it, but that's not quite right.<$FFFD>Father had changed quite a while before he appeared.<$FFFD>Furthermore, this Dark Knight has some bizarre strength. Stop contemplating such folly.<$FFFE>
- …Agh…<$FFFE>
- The time I fled the flying citadel, during the Empire's invasion, I was forced to leave behind a wounded knight, named Gerold.<$FFFE>
- Right after we left, it looks like Barral took over Laffel.<$FFFE>
- Do you know anything about him?<$FFFE>
- So you came back here because you were worried about this man?<$FFFE>
- …Hmm. I wasn't a part of the conquest of this place, and I am afraid I don't know of any prisoners.<$FFFE>
- Is that so…<$FFFE>
- Ah!<$FFFE>
- You have to get out of here immediately. The guards are coming!<$FFFE>
- Get a move on!<$FFFE>
- F…Freya…<$FFFE>
- Hurry!<$FFFE>
+But…<$FFFB><$FFFC>Even if it's only a lie,<$FFFC>it still makes me glad.<$FFFE>
+How did we ever end up<$FFFC>like this, you and I…<$FFFE>
+Freya…<$FFFE>
+Isn't it obvious?<$FFFD>Defeat the Dark Knight.<$FFFE>
+The Dark Knight?<$FFFE>
+That's right.<$FFFD>He must be the one who<$FFFC>incited King Wilder…<$FFFE>
+Sadly, that's not it.<$FFFD>Father had changed long<$FFFC>before he appeared.<$FFFD>And his strength is no<$FFFC>joke. Don't do anything<$FFFC>reckless.<$FFFE>
+…Agh…<$FFFE>
+As I fled the Floating<$FFFC>Castle from the Empire,<$FFFC>I had to leave behind a<$FFFC>wounded knight, Gerold.<$FFFE>
+He was taken to Barral<$FFFC>soon after Laffel fell.<$FFFE>
+Any news of him at all?<$FFFE>
+You returned here just<$FFFC>to worry over this man?<$FFFE>
+…Hmm. I wasn't part of<$FFFC>taking this place, so I<$FFFC>know none of them.<$FFFE>
+Is that so…<$FFFE>
+Ah!<$FFFE>
+Hurry, get out of here!<$FFFC>The guards are coming!<$FFFE>
+Get a move on!<$FFFE>
+F-Freya…<$FFFE>
+Hurry!<$FFFE>
 …<$FFFE>
- A present for a girlfriend, is it?<$FFFB>Here you are, please come again.<$FFFE>
- Bought a souvenir.<$FFFE> 
+Is this a gift for your<$FFFC>sweetheart?<$FFFB><$FFFC>Yes, thank you kindly!<$FFFC>Do come again.<$FFFE>
+Bought a souvenir.<$FFFE><$FFFF>

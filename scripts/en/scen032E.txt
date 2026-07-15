@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -21,155 +21,155 @@ Barral Commander<$FFFF>
 Jessica<$FFFF>
 •Defeat or persuade Freya<$FFFE>
 •Death of <$F600><$0000><$FFFE>
-Barral Kingdom Border - Barral Defensive Position<$FFFF>
- …I still can't believe it. How could the Dark Knight be defeated?<$FFFE>
-When I received the report I couldn't believe my ears. I too thought the Dark Knight to be unbeatable…<$FFFE>
- Princess! The enemy is here! It seems it's true that Dark Knight was defeated.<$FFFE>
- Don't panic! Our defence here has never crumbled before. Fight defensively and we surely will be victorious.<$FFFE>
- Blazes! They've put up some tough looking defence.<$FFFE>
- This formation is the princess's specialty defensive line.<$FFFE>
- She is quiet the brave princess to command the troops herself, don't you think?<$FFFE>
- You can say that again. Her offensive abilities are good but her defensive skills are her real strong point. We will have a hard time here for sure.<$FFFD>…Luckily it seems that, despite the King's and Dark Knight's madness the princess is still herself.<$FFFE>
- We should try to avoid any meaningless fighting with her.<$FFFE>
- Yeah.<$FFFE>
- …Freya! Listen to me!<$FFFE>
- What is your business here?<$FFFE>
- Freya. We have no desire to do senseless battle. Please let us through to meet with King Wilder.<$FFFE>
- So you are after my father's life?<$FFFE>
- We only want to talk to him.<$FFFE>
- I cannot believe you. It is my duty to protect the king from any danger. Therefore you will not pass.<$FFFE>
- You may have defeated the Dark Knight but don't think you will have so much luck a second time!<$FFFE>
- Freya!<$FFFE>
- What should we do,<$F600><$0000>?<$FFFE>
- If Velzeria is related to this, the longer we do nothing the worse it will get.<$FFFE>
-…We have to persuade Freya somehow. Everyone if I can explain the situation to Freya I am sure she will cooperate.<$FFFE>
- In this case we should concentrate only on securing a path to her.<$FFFE>
-Leave it to me! I've got your back!<$FFFE>
- Everyone, I put my faith in you!<$FFFE>
- Charge!<$FFFE>
- Vanguard troops mobilize. Don't let them through!<$FFFE>
- Understood! Commencing to eliminate the enemy.<$FFFE>
- Healing units support the others from the back!<$FFFE>
- Leave it in our care!<$FFFE>
- All troops, move out! If we can't hold this position our lives will be forfeited! Crush the enemy!<$FFFE>
- Understood!<$FFFE>
- How did we end up fighting like this <$F600><$0000>…<$FFFE>
- Princess we will protect you with our lives.<$FFFE>
- Thank you… Retreat if it gets too dangerous.<$FFFD>There are families you need to take care of.<$FFFE>
- Princess…<$FFFE>
- The outcome of this battle will decide the fate of Barral!<$FFFD>Remember that even a small force can best a large one if the advantage is on their side! Stay strong!<$FFFE>
- Yeaaah!<$FFFE>
-As expected they are coming across the bridge…<$FFFD>Ranged units! Aim with utmost accuracy! Sorcerers move on to the attack!<$FFFE>
- Understood.<$FFFE>
- Freya! Please hear me out!<$FFFE>
- The sudden change of King Wilder's personality is just too strange. You must have noticed yourself right?<$FFFE>
+Barral Border Camp<$FFFF>
+…I still can't believe<$FFFC>it. That the Dark Knight<$FFFC>could fall…<$FFFE>
+When the report came,<$FFFC>I doubted my own ears.<$FFFC>That the Dark Knight<$FFFC>could be beaten…<$FFFE>
+Princess! Enemies! It<$FFFC>seems the Dark Knight<$FFFC>has truly fallen.<$FFFE>
+Don't lose your heads!<$FFFC>Our defense won't break<$FFFC>easily. Hold fast, we<$FFFC>can win!<$FFFE>
+Whew! That's a pretty<$FFFC>solid defense.<$FFFE>
+That formation is<$FFFC>the defensive line the<$FFFC>princess always favored.<$FFFE>
+She leads<$FFFC>the army herself? What a<$FFFC>bold little princess.<$FFFE>
+True enough. She's<$FFFC>better at defense than<$FFFC>attack, mind, and a fine<$FFFC>hand at it.<$FFFD>…Come to think of it,<$FFFC>King Wilder and the Dark<$FFFC>Knight both changed, yet<$FFFC>she is the same as ever.<$FFFE>
+Then a pointless battle<$FFFC>is best avoided.<$FFFE>
+Yeah.<$FFFE>
+…Freya! Listen to me!<$FFFE>
+What do you want?<$FFFE>
+Freya, we don't want a<$FFFC>pointless fight. Just<$FFFC>let us through to see<$FFFC>King Wilder.<$FFFE>
+So you mean to take my<$FFFC>father's life?<$FFFE>
+We are going to talk.<$FFFE>
+I can't trust that.<$FFFC>Our duty is to shield<$FFFC>the King from danger. I<$FFFC>cannot accept this.<$FFFE>
+If you truly must, then<$FFFC>cut me down as you did<$FFFC>the Dark Knight!<$FFFE>
+Freya!<$FFFE>
+What should we do now?<$FFFC><$F600><$0000>?<$FFFE>
+If Velzeria really<$FFFC>is behind this, we're<$FFFC>in far worse trouble<$FFFC>than we feared.<$FFFE>
+…I'll try to talk Freya<$FFFC>around. I need all your<$FFFC>help to bring her over.<$FFFE>
+We only need to secure<$FFFC>a clear path through to<$FFFC>Princess Freya?<$FFFE>
+Leave it to us! We'll<$FFFC>cover you well!<$FFFE>
+Everyone, I'm counting<$FFFC>on you!<$FFFE>
+Charge!<$FFFE>
+Vanguard, into action.<$FFFC>Don't let a single one<$FFFC>through!<$FFFE>
+Understood! Moving out<$FFFC>to eliminate the enemy.<$FFFE>
+Support<$FFFC>units, no slacking on<$FFFC>that covering fire!<$FFFE>
+Leave it in our care!<$FFFE>
+All troops, into action!<$FFFC>Formations mean nothing<$FFFC>now! Pick them off one<$FFFC>by one!<$FFFE>
+Understood!<$FFFE>
+This may be my last<$FFFC>battle, against<$FFFC><$F600><$0000>…<$FFFE>
+We'll guard the princess<$FFFC>with our lives.<$FFFE>
+Thank you…<$FFFD>But flee if it grows<$FFFC>too dangerous. You have<$FFFC>families to protect,<$FFFC>haven't you?<$FFFE>
+Princess…<$FFFE>
+Barral's fate hangs on<$FFFC>this battle!<$FFFD>Cut down every foe you<$FFFC>can! Is that clear?<$FFFE>
+Yeaaah!<$FFFE>
+So they have crossed the<$FFFC>bridge…<$FFFD>Archers! Take truer aim!<$FFFC>Mages, keep your spells<$FFFC>coming!<$FFFE>
+Understood.<$FFFE>
+Freya! Please, just hear<$FFFC>me out!<$FFFE>
+King Wilder's change<$FFFC>is far too strange.<$FFFC>You have noticed too,<$FFFC>haven't you?<$FFFE>
 …<$FFFE>
- You come across a conspicuous spot of barren land.<$FFFE>
- Do you want to inspect it more closely?<$FFFE>
- You discover two closed boxes in the dirt.<$FFFE>
- Do you want to open one of them?<$FFFE>
+There are<$FFFC>signs that something was<$FFFC>buried here.<$FFFE>
+Inspect it?<$FFFE>
+Two boxes were buried<$FFFC>there.<$FFFE>
+Which will you open?<$FFFE>
 The smaller one <$FFFE>
 The larger one<$FFFE>
 Don't open any<$FFFE>
- Upon opening the box, a ray off light flashes towards you.<$FFFE>
- Divine Blessing was obtained!<$FFFE>
- Out of nowhere an enormous bird appears and flies off. holding the box you didn't chose in its claws…<$FFFE>
- An ancient book was found inside.<$FFFE>
- Book of Mysteries was obtained!<$FFFE>
- Out of nowhere an enormous bird appears and flies off. holding the box you didn't chose in its claws…<$FFFE>
- Out of nowhere an enormous bird appears and flies off, taking both boxes away…<$FFFE>
- Halt!<$FFFE>
- You may not pass through!<$FFFE>
- You sadden me, Freya… We haven't come to do battle.<$FFFD>We just want to meet King Wilder to uncover the truth behind all of this!<$FFFD>That's why I am asking you to step aside!<$FFFE>
- I will do no such thing! You are no other than any other invader in my eyes!<$FFFE>
- You shall feel our wrath for this act of aggression!<$FFFE>
- Don't place yourself in our way!<$FFFE>
- There's no turning back for any of us!<$FFFE>
- This is as far as you get!<$FFFE>
- You will not pass through here!<$FFFE>
- Return to where you came from!<$FFFE>
+Inside was a blessing of<$FFFC>the gods.<$FFFE>
+Acquired a Divine<$FFFC>Blessing!<$FFFE>
+A great bird suddenly<$FFFC>swoops in, snatches the<$FFFC>other box in its talons,<$FFFC>and flies off with it…<$FFFE>
+An old and weathered<$FFFC>book lay inside.<$FFFE>
+Acquired the Secret<$FFFC>Manual!<$FFFE>
+A great bird suddenly<$FFFC>swoops in, snatches the<$FFFC>other box in its talons,<$FFFC>and flies off with it…<$FFFE>
+A great bird suddenly<$FFFC>swoops in, snatches up<$FFFC>both boxes, and flies<$FFFC>off with them…<$FFFE>
+Make way!<$FFFE>
+This won't go the way<$FFFC>it did before!<$FFFE>
+Sorry, Freya. I can't<$FFFC>afford to lose either.<$FFFD>Whatever it takes,<$FFFC>I must meet King Wilder<$FFFC>and learn the truth!<$FFFD>That is why I cannot<$FFFC>lose!<$FFFE>
+No! Don't come any<$FFFC>closer to me!<$FFFE>
+Feel my power!<$FFFE>
+Don't interfere!<$FFFE>
+What are you doing?!<$FFFE>
+Don't get in my way!<$FFFE>
+I won't let you pass!<$FFFE>
+Turn back at once!<$FFFE>
 <$F702><$FFFE>
 <$F702><$FFFE>
- N…No!<$FFFD>Freya…<$FFFE>
- Good bye, <$F600><$0000>…<$FFFE>
- Kyaaaah! Sorry, looks like I'm done…<$FFFE>
- Ugh… Where's my power…<$FFFE>
- What!? This can't be…<$FFFE>
- Shouldn't have pushed it. So long…<$FFFE>
- Farewell, <$F600><$0000>… I am so tired…<$FFFE>
- No way, we were so close…<$FFFE>
- …I'm sorry…<$FFFE>
- Ouch… am I getting old…<$FFFE>
- Grrr…<$FFFE>
- I am sorry, <$F600><$0000>… We were so close to our goal…<$FFFE>
- Grrr! One shouldn't throw ones live away carelessly…<$FFFD>It is unfortunate but retreat seems to be the only option.<$FFFE>
- Forgive me, but I need to rest a little.<$FFFE>
- My power wasn't enough…<$FFFE>
- Uuh…Ughh. My sword is eluding the grasp of my hand…<$FFFE>
- Kyaahh!<$FFFE>
- Such a horrible thing to do…<$FFFE>
- Why…<$FFFE>
- Oh Goddess…<$FFFE>
- It's hopeless already…<$FFFE>
- Forgive me…princess…<$FFFE>
- Uaaargh!<$FFFE>
- Is this…the realm of the gods…?<$FFFE>
- One more strike, at least…<$FFFE>
- What incredible power…<$FFFE>
- Just my cursed luck…<$FFFE>
-I expected no less of the ones who defeated the dark knight…<$FFFE>
- Falling forward…<$FFFE>
- My spear… my spear…<$FFFE>
- Take care… of the rest…<$FFFE>
- To break my sword…<$FFFE>
- T-too strong…<$FFFE>
- This doesn't look well…<$FFFE>
- I… lost?<$FFFE>
- P…Princess… Run…<$FFFE>
- And I was undefeated in the sky…<$FFFE>
- Save…the princess…<$FFFE>
- Damn, at this rate…<$FFFE>
- Even in death, I won't let them pass…<$FFFE>
- I won't fall! I can't fall here…<$FFFE>
- I wanted to protect the Princess to the end…<$FFFE>
- <$0650>.After everything that happened… If only my magic worked…<$FFFE>
- My last spell…<$FFFE>
+N-No!<$FFFD>Freya…<$FFFE>
+Goodbye,<$FFFC><$F600><$0000>…<$FFFE>
+Kyaaah! I'm sorry,<$FFFC>I think this is it for<$FFFC>me…<$FFFE>
+Ugh… Is this the limit<$FFFC>of my strength…?<$FFFE>
+What!? This can't be…<$FFFE>
+I guess I overdid it.<$FFFC>I'll go on ahead…<$FFFE>
+Forgive me,<$FFFC><$F600><$0000>.<$FFFC>I feel rather tired…<$FFFE>
+No… we were so close…<$FFFE>
+…I'm sorry…<$FFFE>
+Ouch… Am I getting on<$FFFC>in years…?<$FFFE>
+Grrr…<$FFFE>
+Sorry,<$FFFC><$F600><$0000>.<$FFFC>The princess was right<$FFFC>there before us…<$FFFE>
+Tch! It's not pretty,<$FFFC>but my life comes<$FFFC>first.<$FFFD>No offense, but I'm<$FFFC>pulling back from this.<$FFFE>
+Sorry, I need a rest.<$FFFE>
+My power wasn't enough…<$FFFE>
+Ugh… ugh… I can no<$FFFC>longer grip my sword…<$FFFE>
+Kyaahh!<$FFFE>
+For this to happen…<$FFFE>
+Why…<$FFFE>
+Oh Goddess…<$FFFE>
+It's hopeless already…<$FFFE>
+Forgive me… princess…<$FFFE>
+Uaaargh!<$FFFE>
+The realm of gods…<$FFFE>
+Just one more blow…<$FFFE>
+What incredible power…<$FFFE>
+Just my cursed luck…<$FFFE>
+So that's how they beat<$FFFC>the Dark Knight…<$FFFE>
+Falling forward…<$FFFE>
+My spear… my spear…<$FFFE>
+The rest is yours…<$FFFE>
+To break my sword…<$FFFE>
+T-too strong…<$FFFE>
+This doesn't look good…<$FFFE>
+I… lost?<$FFFE>
+P-Princess… Run…<$FFFE>
+I ruled the skies…<$FFFE>
+Save…the princess…<$FFFE>
+Damn, at this rate…<$FFFE>
+Even in death, I can't<$FFFC>let them pass…<$FFFE>
+I won't fall! I cannot<$FFFC>fall here…<$FFFE>
+I wanted to protect her<$FFFC>to the very end…<$FFFE>
+N-no… My magic had no<$FFFC>effect at all…<$FFFE>
+My last spell…<$FFFE>
 Ahh, Princess!<$FFFE>
- My attack failed…<$FFFE>
- How dare you dodge my attack…<$FFFE>
- All troops have been wiped out? That's…<$FFFD>Unforgivable… But I will fight to the bitter end, for Barral!<$FFFE>
- Aahhh… It hadn't have to come to this…<$FFFE>
- To think we'd be pushed this far…<$FFFE>
- The Elthlead troops are advancing!<$FFFE>
- Princess. Please hear <$F600><$0000> out!<$FFFE>
- Dios you damn traitor… Have you come back to murder my father!?<$FFFE>
- Tch! Such persistence!<$FFFE>
-There is the possibility that King Wilder is being manipulated by Velzeria.<$FFFD>Wouldn't that explain everything King Wilder has done of late?<$FFFE>
- Listen to me carefully Freya!<$FFFE>
- In truth the Dark Knight was Gerold.<$FFFE>
- We could still sense the dark magic around him. He was being used by the Velzerians.<$FFFE>
- Perhaps his and King Wilder's transfiguration is due to some dark magic.<$FFFE>
- The person affected becomes a walking corpse stripped of his own will.<$FFFE>
- Impossible! Father…<$FFFE>
- We only want to investigate if that is the case.<$FFFE>
- If fortune smiles upon us we might be able to rescue the King from the spell!<$FFFE>
- …But…<$FFFE>
- Please believe me Freya!<$FFFE>
- …I believe you.<$FFFE>
- Even if chances are slim, you may be able to help my father being himself again.<$FFFE>
- Freya…<$FFFE>
- It's painful to admit but I can't do anything else for him. Neither can I endure seeing him in his current state any longer…<$FFFD>Please try to rescue my father…<$FFFE>
- I promise Freya. We will do our utmost to rescue King Wilder!<$FFFE>
- Thank you, <$F600><$0000>. …I would like to help too.<$FFFE>
- Huh?!<$FFFE>
- Well, I can handle myself in battle and my knowledge about the castle should prove somewhat useful.<$FFFE>
- You're right, I am counting on you.<$FFFE>
- Freya joined the party!<$FFFE>
- …Not long ago, I was out in the forest hunting on my own and followed my prey deep into the forest.<$FFFE>
- When I didn't come home Father and some of his subordinates came looking for me. The fleeing prey had startled father's horse and father fell from a cliff.<$FFFE>
- It was a miracle that he wasn't injured seriously. However…<$FFFE>
- …Freya.<$FFFE>
- …Afterwards. The kind father I knew was no more.<$FFFE>
- It was all my fault! Father only changed because of my mindlessness! That's what I believe.<$FFFE>
- Even if everyone else leaves, I alone must stay by his side!!<$FFFE>
- Come if you must!<$FFFB><$FFFC>Not a finger on the princess!<$FFFE>
+My attack failed…<$FFFE>
+How dare you dodge me…<$FFFE>
+Everyone but me, gone?<$FFFC>It can't be…<$FFFD>But I will not give up.<$FFFC>For the pride of Barral,<$FFFC>I'll fight to the very<$FFFC>end!<$FFFE>
+Ah… Did it truly<$FFFC>have to come to all of<$FFFC>this?<$FFFE>
+To think they'd push us<$FFFC>this far…<$FFFE>
+Elthlead's troops have<$FFFC>made contact!<$FFFE>
+Princess!<$FFFC>Please, hear<$FFFC><$F600><$0000> out!<$FFFE>
+Dios, you traitor… Now<$FFFC>you'd take my father's<$FFFC>life as well!?<$FFFE>
+Tch! Still won't listen!<$FFFE>
+King Wilder may be under<$FFFC>Velzeria's control.<$FFFD>Do you know what caused<$FFFC>King Wilder to change?<$FFFE>
+Listen, Freya!<$FFFE>
+In truth the Dark Knight<$FFFC>was Gerold.<$FFFE>
+But his body gave off<$FFFC>dark magic.<$FFFC>Velzeria was using him.<$FFFE>
+Your father, King<$FFFC>Wilder, may have been<$FFFC>changed by their magic<$FFFC>too.<$FFFE>
+Their allies can command<$FFFC>corpses or impersonate<$FFFC>the living.<$FFFE>
+Impossible! Father…<$FFFE>
+I want to make sure.<$FFFE>
+If he is being<$FFFC>controlled, I want to<$FFFC>free the King from that<$FFFC>spell somehow!<$FFFE>
+…But…<$FFFE>
+Please believe me Freya!<$FFFE>
+…I believe you.<$FFFE>
+I feel you can restore<$FFFC>Father's changed heart.<$FFFE>
+Freya…<$FFFE>
+Even if it fails, I will<$FFFC>not regret it. Seeing<$FFFC>Father this way pains me<$FFFC>too…<$FFFD>But if I can, I want to<$FFFC>save him…<$FFFE>
+I promise you, Freya. We<$FFFC>will not give up until<$FFFC>King Wilder is saved!<$FFFE>
+Thank you,<$FFFC><$F600><$0000>.<$FFFC>…I want to help you<$FFFC>too.<$FFFE>
+Huh?!<$FFFE>
+No, it's nothing. But<$FFFC>if you mean to enter the<$FFFC>castle, having me along<$FFFC>will help.<$FFFE>
+Yes. I need you.<$FFFE>
+Freya joined the party!<$FFFE>
+…Once, while<$FFFC>out hunting, I chased my<$FFFC>quarry too deep into the<$FFFC>woods and lost my way.<$FFFE>
+Father took his men and<$FFFC>came searching. But then<$FFFC>he lost his footing and<$FFFC>fell from a cliff.<$FFFE>
+It was a miracle he<$FFFC>came away without a<$FFFC>scratch. But still…<$FFFE>
+…Freya.<$FFFE>
+…It was after that. My<$FFFC>once-kind father became<$FFFC>the man he is now.<$FFFE>
+It's my fault!<$FFFC>I made Father this way!<$FFFC>That's why I must keep<$FFFC>believing in him.<$FFFE>
+Even if everyone leaves,<$FFFC>I must stay with him!!<$FFFE>
+Come if you dare!<$FFFB><$FFFC>I won't let you lay one<$FFFC>finger on the princess!<$FFFE>

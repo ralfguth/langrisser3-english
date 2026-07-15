@@ -1,41 +1,41 @@
-Hurl small fireball / group<$FFFF>
-Cause huge explosion / area<$FFFF>
-Chill with freezing ice / group<$FFFF>
-Invoke violent ice storm / area<$FFFF>
-Drop thunderbolt / group<$FFFF>
-Cause thunderstorm / area<$FFFF>
-Slash with blades of air / group<$FFFF>
-Invoke giant whirlwind / area<$FFFF>
-Invoke great earthquake / area<$FFFF>
-Drop fiery meteors from the heavens / area<$FFFF>
-Hurl forth holy flames / area<$FFFF>
-Incinerate Undead units / area<$FFFF>
-Drain HP / area<$FFFF>
-Drain MP / area<$FFFF>
-Attack with strong psychic wave / single<$FFFF>
-Enchant with sleep / group<$FFFF>
-Nonelemental attack / group<$FFFF>
-A+, D+ 75% / group<$FFFF>
-Prevent casting / group<$FFFF>
-Magic Resist -15 / group<$FFFF>
-DF+8 / group<$FFFF>
-DF+12 / group<$FFFF>
-AT+8 / group<$FFFF>
-AT+12 / group<$FFFF>
-MV +8 / group<$FFFF>
-Magic Resist +40 / group<$FFFF>
-Recover 15-35 HP / area<$FFFF>
-Recover 30-50 HP / area<$FFFF>
-Recover full HP / area<$FFFF>
-Recover 15-35 HP / group<$FFFF>
-Recover 30-50 HP / group<$FFFF>
-Recover full HP / group<$FFFF>
-Instantly transport ally / group<$FFFF>
+Small fireball /group<$FFFF>
+Huge explosion /area<$FFFF>
+Freezing ice /group<$FFFF>
+Ice storm /area<$FFFF>
+Thunderbolt /group<$FFFF>
+Thunderstorm /area<$FFFF>
+Wind blades /group<$FFFF>
+Giant tornado /area<$FFFF>
+Earthquake /area<$FFFF>
+Meteor strike /area<$FFFF>
+Holy flames /area<$FFFF>
+Turn undead /area<$FFFF>
+Drain HP /area<$FFFF>
+Drain MP /area<$FFFF>
+Psychic blast /single<$FFFF>
+Sleep /group<$FFFF>
+Confuse /group<$FFFF>
+ATK, DEF-25% /group<$FFFF>
+Seal magic /group<$FFFF>
+MRES-15 /group<$FFFF>
+DF+8 /group<$FFFF>
+DF+12 /group<$FFFF>
+AT+8 /group<$FFFF>
+AT+12 /group<$FFFF>
+MOV+8 /group<$FFFF>
+MRES+40 /group<$FFFF>
+Heal 15-35 /area<$FFFF>
+Heal 30-50 /area<$FFFF>
+Full heal /area<$FFFF>
+Heal 15-35 /group<$FFFF>
+Heal 30-50 /group<$FFFF>
+Full heal /group<$FFFF>
+Teleport ally /group<$FFFF>
 ?<$FFFF>
-AT, DF +30% for 1 turn<$FFFF>
-Make ranged attack with sonic force<$FFFF>
+ATK, DEF+30% 1 turn<$FFFF>
+Ranged ki attack<$FFFF>
 Hide on map<$FFFF>
-AT+20, DF -40%<$FFFF>
-Do your hp worth damage to enemy<$FFFF>
-Speed up MV by 50% to a maximum of 50<$FFFF>
-Cast two spells in 1 turn<$FFFF>
+AT+20 DF-40<$FFFF>
+Deal HP as damage<$FFFF>
+Halve MOV /max 50<$FFFF>
+Cast 2x per turn<$FFFF>

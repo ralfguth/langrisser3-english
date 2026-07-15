@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,182 +19,182 @@ Emerick<$FFFF>
 Thief<$FFFF>
 Thief leader<$FFFF>
 •Defeat all enemies<$FFFE>
-•Death of <$F600><$0000><$FFFC>Sword of Decimation is taken by enemy<$FFFE>
+•Death of <$F600><$0000><$FFFC>•Decimation Sword taken<$FFFE>
 Estool Ruins<$FFFF>
- Is this the place? Where tons of treasure are slumbering?<$FFFE>
- First time I've seen a place like this!<$FFFC>You're amazing, Boss!<$FFFE>
- Leave the small fry alone! We are here to get something major. Is that clear?<$FFFE>
- Jackpot!…look at this amazing sword!<$FFFE>
- So this is where the holy sword is supposed to be at?<$FFFE>
- Correct. It is not known to publicity but conveyed for generations by members of the nobility.<$FFFD>So that when demons invade it could be used again.<$FFFE>
- Never minding that, it seems that we aren't the only ones interested in this place!<$FFFE>
- Ahh, Thieves!<$FFFE>
- Boss! Some soldiers are heading this way!<$FFFE>
- And it could've been such a nice day… Just make sure to get that sword, it will be enough loot.<$FFFD>Once we get ahold of that sword we will make a run for it!<$FFFE>
- Right!<$FFFE>
- How unfortunate. The thieves seem to be after the sword also.<$FFFE>
- That sword is essential for us! We have to secure it whatever it takes!<$FFFE>
- This place is very narrow, doing battle will be complicated.<$FFFE>
- Unless we move diligently the thieves will get away with all the treasure.<$FFFE>
- You're right.<$FFFE>
- Oy, riff raff, listen up! Snatch everything that you can and make your escape! We will meet at the usual place!<$FFFE>
- Gotcha Boss!<$FFFE>
- Cover our comrades!<$FFFD>Move out you scumbags!<$FFFE>
- Such a divine sword… It would sell for millions!<$FFFE>
- The Sword of Decimation was obtained!<$FFFE>
- What is this sword!? It's just a worthless fake!<$FFFD>Damn it! I was had!<$FFFD>I'd better escape before they surround us!<$FFFE>
- The Sword of Decimation was obtained!<$FFFE>
- Piss off! That's my precious!<$FFFD>It's no use… If I only can get away victory will be mine!<$FFFE>
- The sword was just a fake…<$FFFE>
- Heh, serves you right!<$FFFC>That's your punishment for stealing other folks' treasure!<$FFFD>Now, let me escape before you surround me!<$FFFE>
- You will never get me alive!<$FFFE>
- Sir <$F600><$0000>. If we don't hurry he will run off with the sword!<$FFFE>
- Right, let's hurry!<$FFFE>
- Damn, are we letting him escape!<$FFFE>
- Heh, just a bit more!<$FFFE>
- Sir <$F600><$0000>! The thief is escaping!<$FFFE>
- I am at it! If he escapes from here we won't be able to catch up to him!<$FFFE>
+Is this the place?<$FFFC>Where they say heaps of<$FFFC>treasure lie sleeping?<$FFFE>
+First time I've seen a<$FFFC>place like this! That's<$FFFC>our Boss!<$FFFE>
+Listen, leave the junk!<$FFFC>Grab only what's worth<$FFFC>money. …Hm?<$FFFE>
+Whoa… What an amazing<$FFFC>sword!<$FFFE>
+So this is where the<$FFFC>Decimation Sword is?<$FFFE>
+Yes. Unknown to common<$FFFC>folk, but passed down<$FFFC>among certain nobles for<$FFFC>generations.<$FFFD>When demons strike this<$FFFC>kingdom, it will surely<$FFFC>be needed.<$FFFE>
+Looks like we're not<$FFFC>the only ones who have<$FFFC>sniffed out this place!<$FFFE>
+Ahh, Thieves!<$FFFE>
+Boss! Some soldiers are<$FFFC>heading this way!<$FFFE>
+That's trouble, huh.<$FFFC>Still, this sword alone<$FFFC>is a fine haul.<$FFFD>Grab all you can carry,<$FFFC>then bolt out the back!<$FFFE>
+Right!<$FFFE>
+This is bad. The thieves<$FFFC>will steal the<$FFFC>Decimation Sword.<$FFFE>
+I won't let them flee!<$FFFC>We'll get the Decimation<$FFFC>Sword back at any cost!<$FFFE>
+It's cramped in here,<$FFFC>and the layout is quite<$FFFC>a maze.<$FFFE>
+If we're not careful,<$FFFC>the thieves will carry<$FFFC>off all the treasure.<$FFFE>
+You're right.<$FFFE>
+Listen up, you lot! Grab<$FFFC>the nearest loot and<$FFFC>clear out! Meet at the<$FFFC>usual spot!<$FFFE>
+Gotcha Boss!<$FFFE>
+Back up the boys…<$FFFD>Move out, you scumbags!<$FFFE>
+What a gorgeous blade…<$FFFC>This'll fetch a fortune!<$FFFE>
+Acquired the Decimation<$FFFC>Sword!<$FFFE>
+What is this sword!?<$FFFC>It's just a worthless<$FFFC>fake!<$FFFD>Damn it! I've been<$FFFC>tricked!<$FFFD>Now I've gotta run<$FFFC>before they corner me!<$FFFE>
+Acquired the Decimation<$FFFC>Sword!<$FFFE>
+Damn, what rotten luck!<$FFFC>That's my treasure!<$FFFD>Nothing for it…<$FFFC>If it's come to this,<$FFFC>running's my best bet!<$FFFE>
+The sword was just a<$FFFC>fake…<$FFFE>
+Heh, tough luck! This is<$FFFC>what you get for letting<$FFFC>me snatch your precious<$FFFC>treasure!<$FFFD>Now then, I'll slip off<$FFFC>before you surround me!<$FFFE>
+Never gonna catch me!<$FFFE>
+Sir <$F600><$0000>.<$FFFC>If we don't hurry, the<$FFFC>Decimation Sword will<$FFFC>be stolen!<$FFFE>
+Right, let's hurry!<$FFFE>
+Tch! You won't escape!<$FFFE>
+Heh, just a bit more!<$FFFE>
+Sir <$F600><$0000>!<$FFFC>The thief is escaping!<$FFFE>
+This is bad! If he slips<$FFFC>outside, we won't catch<$FFFC>a thief who knows these<$FFFC>streets!<$FFFE>
 I got it!<$FFFE>
- Jajajaja! Treasure, shiny treasure!<$FFFE>
- Divine Blessing was obtained!<$FFFE>
- Now all I have to do is run!<$FFFE>
- But the treasure chest was empty…<$FFFE>
- Empty!? Damn it!<$FFFE>
- Divine Blessing was obtained!<$FFFE>
- Stealing from thieves, can you believe those guys!?<$FFFE>
- But the treasure chest was empty…<$FFFE>
- Damn! That's not fair!<$FFFE>
- This stuff is amazing!<$FFFE>
- The Crystal Ankh was obtained!<$FFFE>
- Lady Fortuna smiles upon me today!<$FFFE>
- But the treasure chest was empty…<$FFFE>
-Come on. You have got to be kidding…<$FFFE>
- The Crystal Ankh was obtained!<$FFFE>
- Damn it! Too slow!<$FFFE>
- But the treasure chest was empty…<$FFFE>
- Huh!? How laughable…<$FFFE>
- Mine, it's all mine!<$FFFE>
- The notorious Magical Bikini was obtained!<$FFFE>
- But the treasure chest was empty…<$FFFE>
- W-what is this…<$FFFE>
- The notorious Magical Bikini was obtained!<$FFFE>
- I found that first!<$FFFC>Give it back!<$FFFE>
- But the treasure chest was empty…<$FFFE>
- Whew! That was a job!<$FFFE>
- The Seed Sack was obtained!<$FFFE>
- Can't afford to blow it after coming this far.<$FFFE>
- But the treasure chest was empty…<$FFFE>
- No! That's a lie!<$FFFE>
- The Seed Sack was obtained!<$FFFD>You try opening the sack…<$FFFD>Fruit of bravery was obtained!<$FFFE>
- Fruit of vigor was obtained!<$FFFE>
- Fruit of intelligence was obtained!<$FFFE>
- Fruit of power was obtained!<$FFFE>
- Fruit of toughness was obtained!<$FFFE>
- Fruit of protection was obtained!<$FFFE>
- Damn! Beat me to it!<$FFFE>
- But the treasure chest was empty…<$FFFE>
- Hmm. I see…<$FFFE>
- The Power Ring was obtained!<$FFFE>
- Hmm. Nice loot, I am off!<$FFFE>
- But the treasure chest was empty…<$FFFE>
- Yikes! That can't be!<$FFFE>
- The Power Ring was obtained!<$FFFE>
- Damn! My treasure…<$FFFE>
- But the treasure chest was empty…<$FFFE>
- What, it was empty?<$FFFC>Good thing I didn't go all the way!<$FFFE>
- Hopeless slowpokes!<$FFFC>You can't catch the likes of me!<$FFFC>So long!<$FFFE>
- We… won't make it.<$FFFC>If they reach the outside…<$FFFE>
- Dammit! My tactics have failed me…<$FFFE>
- You can keep that sword!<$FFFC>You'll regret this!<$FFFE>
- The treasure's mine!<$FFFC>So long!<$FFFC>Thanks for the trouble!<$FFFE>
- Dammit! My tactics have failed me…<$FFFE>
- Dang! I thought I would make big money!<$FFFE>
- I'll gratefully take this off your hands!<$FFFC>So long!<$FFFE>
- Dammit! My tactics have failed me…<$FFFE>
- Came all the way out here for nothing!<$FFFC>Aw, man…<$FFFE>
- I am off to town to make some major sales! Hahaha…<$FFFE>
- Dammit! My tactics have failed me…<$FFFE>
- Rough times. Well, at least I'm still alive…<$FFFE>
- Hehehe! See you!<$FFFE>
- Dammit! My tactics have failed me…<$FFFE>
- This place is so tiresome! I am outta here!<$FFFE>
- I still can't believe I made it through! Today is a good day!<$FFFE>
- Damn! My tactics have failed me…<$FFFE>
- Can't help it if the treasure's empty. Time to head home…<$FFFE>
- In front of you there is a door with a painting of a giant. There are two switches on that door.<$FFFE>
- Which switch do you want to push?<$FFFE>
+Heh heh heh! Treasure,<$FFFC>treasure!<$FFFE>
+Acquired a Divine<$FFFC>Blessing!<$FFFE>
+Now all I have to do is<$FFFC>run!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Empty!? Damn it!<$FFFE>
+Acquired a Divine<$FFFC>Blessing!<$FFFE>
+Stealing from thieves,<$FFFC>can you believe them!?<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Hah! Serves you right!<$FFFE>
+This stuff is amazing!<$FFFE>
+Acquired the Crystal<$FFFC>Ankh!<$FFFE>
+Today's my lucky day!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Come on now. Quit your<$FFFC>kidding…<$FFFE>
+Acquired the Crystal<$FFFC>Ankh!<$FFFE>
+Damn it! Too slow!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Heh! What a joke!<$FFFE>
+Mine, it's all mine!<$FFFE>
+Acquired the Magical<$FFFC>Bikini!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+W-what is this…<$FFFE>
+Acquired the Magical<$FFFC>Bikini!<$FFFE>
+I found that first! Give<$FFFC>it back!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Whew! That was a job!<$FFFE>
+Acquired the Seed Sack!<$FFFE>
+Can't afford to blow it<$FFFC>after coming this far.<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+No! That's a lie!<$FFFE>
+Acquired the Seed Sack!<$FFFD>You open the sack…<$FFFD>Acquired a Valor Seed!<$FFFE>
+Acquired a Vitality<$FFFC>Leaf!<$FFFE>
+Acquired a Wisdom Fruit!<$FFFE>
+Acquired a Power Fruit!<$FFFE>
+Acquired a Strength<$FFFC>Fruit!<$FFFE>
+Acquired a Protection<$FFFC>Fruit!<$FFFE>
+Damn! Beat me to it!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Hmm. I see…<$FFFE>
+Acquired the Power Ring!<$FFFE>
+Heh heh. Now to make my<$FFFC>escape!<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+Yikes! That can't be!<$FFFE>
+Acquired the Power Ring!<$FFFE>
+Damn! My treasure…<$FFFE>
+But the treasure chest<$FFFC>was empty…<$FFFE>
+What, it was empty? Good<$FFFC>thing I didn't go all<$FFFC>the way!<$FFFE>
+Hopeless slowpokes! No<$FFFC>way you'll catch me! So<$FFFC>long!<$FFFE>
+We… won't make it. If<$FFFC>they get outside…<$FFFE>
+Dammit! My tactics<$FFFC>failed me…<$FFFE>
+Keep the sword, then!<$FFFC>You'll regret this!<$FFFE>
+The treasure's mine!<$FFFC>So long! Thanks for the<$FFFC>trouble!<$FFFE>
+Dammit! My tactics<$FFFC>failed me…<$FFFE>
+Dang! What a lousy<$FFFC>haul!<$FFFE>
+I'll gladly take this!<$FFFC>So long!<$FFFE>
+Dammit! My tactics<$FFFC>failed me…<$FFFE>
+Came all the way out<$FFFC>here for nothing! Aw,<$FFFC>man…<$FFFE>
+Time to sell my loot!<$FFFC>WAHAHAHA…<$FFFE>
+Dammit! My tactics<$FFFC>failed me…<$FFFE>
+What a bust. Well, I'm<$FFFC>still alive…<$FFFE>
+Hehehe! See you!<$FFFE>
+Dammit! My tactics<$FFFC>failed me…<$FFFE>
+I'm worn out! What a<$FFFC>wasted trip!<$FFFE>
+Practically home free!<$FFFC>Today I'm on a roll!<$FFFE>
+Damn! My tactics failed<$FFFC>me…<$FFFE>
+The treasure's empty.<$FFFC>Nothing for it.<$FFFC>Time to head home…<$FFFE>
+A building lies ahead,<$FFFC>a giant painted on its<$FFFC>wall. Two switches mark<$FFFC>the door.<$FFFE>
+Which switch to push?<$FFFE>
 Black switch<$FFFE>
 Red switch<$FFFE>
 None<$FFFE>
- When the black switch is pushed, the door to the right side opened. There is a vestment which shines weirdly.<$FFFE>
- The vestment of the darkness was obtained!<$FFFE>
- The door closes and the switches stop moving.<$FFFE>
- When the red switch is pushed, the door to the left side opened. A single short blade lies there.<$FFFE>
- The Kunai was obtained!<$FFFE>
- The door closes and the switches stop moving.<$FFFE>
- Surrounded by trees you find an image of an old man. The old man holds a small bow and arrows in his hands.<$FFFE>
- Do you want to try to take up the image?<$FFFE>
- It seems to be just a common image.<$FFFE>
- Suddenly the image begin to talk.<$FFFD>"Call my name and you shall be granted power."<$FFFE>
- Which name do you want to say?<$FFFE>
+The black switch opens<$FFFC>the door to the right.<$FFFC>Within glows a robe of<$FFFC>eerie light.<$FFFE>
+Acquired the Dark<$FFFC>Vestments!<$FFFE>
+The door shuts again.<$FFFC>The switches lock up.<$FFFE>
+Pressing the red switch<$FFFC>opened the left door.<$FFFC>A single dagger rests<$FFFC>within.<$FFFE>
+Acquired the Kunai!<$FFFE>
+The door shuts again.<$FFFC>The switches lock up.<$FFFE>
+Amid the trees rests a<$FFFC>statue of a one-eyed<$FFFC>old man. His hand holds<$FFFC>a small bow and arrow.<$FFFE>
+Pick up the image?<$FFFE>
+It was nothing but a<$FFFC>plain wooden image…<$FFFE>
+Suddenly, the wooden<$FFFC>image began to speak.<$FFFD>"Call my name, and I<$FFFC>shall grant you power."<$FFFE>
+What name do you call?<$FFFE>
 Masamune<$FFFE>
 Chaos <$FFFE>
 Odin<$FFFE>
- The image disappeared…<$FFFE>
- The image disappeared…<$FFFE>
- "You shall receive this bow and arrow for your wisdom."<$FFFE>
- Harding was obtained!<$FFFE>
- A metallic rusted plate lies on the small vacant land.<$FFFE>
- Do you want to pick it up?<$FFFE>
- The moment you touch it, the rust crumbles and a beautiful shield emerges!<$FFFE>
- Achilles Shield was obtained!<$FFFE>
- I still… have things I must do…<$FFFE>
- Papa…<$FFFE>
- Everyone, forgive me…<$FFFE>
- Sorry, this is my limit…<$FFFE>
- It's no use…<$FFFE>
- Oh?<$FFFE>
- I am sorry…<$FFFE>
- Lushiris take me in…<$FFFE>
- Urg… Please carry on…<$FFFE>
- urrgh…<$FFFE>
- How pathetic…<$FFFE>
- They are too strong… Guaarr…<$FFFE>
- Sword of Decimation was obtained!<$FFFE>
- You did it. You took the Sword of Decimation in your hands.<$FFFE>
- Well done, Sir <$F600><$0000>.<$FFFE>
-Yikes! You really got me…<$FFFE>
- Divine Blessing was obtained!<$FFFE>
- Just a little more…<$FFFE>
- The Crystal Ankh was obtained!<$FFFE>
- You can't have this! I will never let it go!<$FFFE>
- The Magical Bikini was obtained!<$FFFE>
- Urghh!<$FFFE>
- The Seed Sack was obtained!<$FFFD>You try opening the sack…<$FFFD>Fruit of bravery was obtained!<$FFFE>
- Fruit of vigor was obtained!<$FFFE>
- Fruit of intelligence was obtained!<$FFFE>
- Fruit of power was obtained!<$FFFE>
- Fruit of toughness was obtained!<$FFFE>
- Fruit of protection was obtained!<$FFFE>
- I bungled it…<$FFFE>
- The Power Ring was obtained!<$FFFE>
- Nooo!<$FFFE>
- Iaaahh! Help…<$FFFE>
- I blew it!<$FFFE>
- Boss!<$FFFE>
- What?<$FFFE>
- Ugh, no saving me now…<$FFFE>
- Well? Is that my blood?<$FFFE>
- Hey hey, no need to go all-out…<$FFFE>
- Should've just stayed drinking at the bar…<$FFFE>
- Got no blood or tears for the likes of us…<$FFFE>
- We should be able to take on the Empire and Barral with our current strength.<$FFFE>
- That takes care of the thieves.<$FFFE>
- The Sword of Decimation was obtained!<$FFFE>
- Thanks to your adaptive commanding, Sir <$F600><$0000>.<$FFFE>
- However, we let some of the thieves escape. Even though they are small fry it would've been better to take care of them…<$FFFE>
- Even apart from its uses against demons the Sword of Decimation is a sword of high potency. Use it with mindful.<$FFFE>
- So with its help we possibly could stand up against the Empire and the Barral Kingdom, no?<$FFFE>
- Maybe so. In addition to that you all have gained in strength considerably.<$FFFE>
- So we'll finally be fighting in earnest!<$FFFE>
- I will continue to count on all of you. Everyone, please keep on lending me your strength for the battles ahead!<$FFFE>
+The image disappeared…<$FFFE>
+The image disappeared…<$FFFE>
+"This bow and arrow,<$FFFC>take them now."<$FFFE>
+Acquired Hadding!<$FFFE>
+A rusted metal plate<$FFFC>lies in the clearing.<$FFFE>
+Pick it up?<$FFFE>
+The rust wipes away,<$FFFC>revealing a beautiful,<$FFFC>shining shield!<$FFFE>
+Acquired the Achilles<$FFFC>Shield!<$FFFE>
+There are still…<$FFFC>things I must do…<$FFFE>
+Papa…<$FFFE>
+Everyone, forgive me…<$FFFE>
+Sorry… I'm at<$FFFC>my limit…<$FFFE>
+Sorry… I can't…<$FFFE>
+Oh?<$FFFE>
+I am sorry…<$FFFE>
+Lushiris take me in…<$FFFE>
+Urg… Please carry on…<$FFFE>
+urrgh…<$FFFE>
+How pathetic…<$FFFE>
+T-too strong… Guaarr…<$FFFE>
+Acquired the Decimation<$FFFC>Sword!<$FFFE>
+You did it. The<$FFFC>Decimation Sword is<$FFFC>yours now.<$FFFE>
+Magnificently done, Sir<$FFFC><$F600><$0000>.<$FFFE>
+Gyaaah!<$FFFC>Beaten… even me…<$FFFE>
+Acquired a Divine<$FFFC>Blessing!<$FFFE>
+Just a little more…<$FFFE>
+Acquired the Crystal<$FFFC>Ankh!<$FFFE>
+I won't hand this over!<$FFFC>Never!<$FFFE>
+Acquired the Magical<$FFFC>Bikini!<$FFFE>
+Urghh!<$FFFE>
+Acquired the Seed Sack!<$FFFD>You open the sack…<$FFFD>Acquired a Valor Seed!<$FFFE>
+Acquired a Vitality<$FFFC>Leaf!<$FFFE>
+Acquired a Wisdom Fruit!<$FFFE>
+Acquired a Power Fruit!<$FFFE>
+Acquired a Strength<$FFFC>Fruit!<$FFFE>
+Acquired a Protection<$FFFC>Fruit!<$FFFE>
+I bungled it…<$FFFE>
+Acquired the Power Ring!<$FFFE>
+Nooo!<$FFFE>
+Eeek! Help me…<$FFFE>
+I blew it!<$FFFE>
+Boss!<$FFFE>
+What?<$FFFE>
+Ugh, no saving me now…<$FFFE>
+Huh? Is that… my blood?<$FFFE>
+Hey now… No need to<$FFFC>go all-out…<$FFFE>
+Should've just stayed<$FFFC>drinking at the bar…<$FFFE>
+No blood, no tears…<$FFFC>none at all…<$FFFE>
+We've gathered plenty<$FFFC>of allies now. Against<$FFFC>the Empire or Barral,<$FFFC>we might hold our own.<$FFFE>
+The thieves are gone.<$FFFE>
+Acquired the Decimation<$FFFC>Sword!<$FFFE>
+Masterful command, Sir<$FFFC><$F600><$0000>.<$FFFE>
+Still, we let a good<$FFFC>many thieves slip by.<$FFFC>I think we could have<$FFFC>fought them better…<$FFFE>
+The Decimation Sword<$FFFC>is strong against more<$FFFC>than just demons, and<$FFFC>it's a fine blade too.<$FFFE>
+Then, with that sword,<$FFFC>we might even drive<$FFFC>the Empire and Barral's<$FFFC>troops out, no?<$FFFE>
+True enough.<$FFFC>We've gained allies now,<$FFFC>so before long we just<$FFFC>might manage it.<$FFFE>
+Now the real fighting<$FFFC>begins at last!<$FFFE>
+The real battle starts<$FFFC>now, everyone.<$FFFC>Lend me your strength!<$FFFE>

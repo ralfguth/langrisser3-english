@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,26 +19,26 @@ Emerick<$FFFF>
 Worm Master Rag<$FFFF>
 Monster<$FFFF>
 Citizen<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-33<$FFFC><$0000><$0000><$0000> Unwavering Loyalty <$0000><$0000><$0000><$FFFE>
- The cause for the insanity of King Wilder turned out to be Velzeria after all. Gerold who recovers to his true self temporarily, conveys the fact.<$FFFE>
- To save his beloved Layla and to see her one last time, Gerold chooses to have the worm expelled from his body. But with the worm gone Gerold now has only little time left.<$FFFE>
- In the meantime Altemüller has launched an attack on the city of Laffel. His demonic forces show no mercy to anyone in their way. Having to witness the massacre with his own eyes, Emerick can no longer bear to side with the demons.<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐３３<$FFFC><$0000><$0000><$0000> Unwavering Loyalty <$0000><$0000><$0000><$FFFE>
+The cause of King<$FFFC>Wilder's madness was Velzeria<$FFFC>after all. Gerold, his sanity<$FFFC>briefly restored, bore the pain<$FFFC>to reveal the truth.<$FFFE>
+Gerold chose a path more<$FFFC>painful than death, having<$FFFC>the worm cast from him, all<$FFFC>to save his beloved Layla.<$FFFE>
+Now Laffel lay under assault by<$FFFC>the demon army Altemüller led.<$FFFC>And there stood Emerick, turning<$FFFC>his banner against the demons.<$FFFE>
 *Victory Conditions<$FFFC>•Defeat Worm Master Rag<$FFFE>
- *Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Layla<$FFFC>•Death of all Citizens<$FFFE>
+*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Layla<$FFFC>•Death of all Citizens<$FFFE>
 City of Laffel<$FFFF>
- Kill! Kill! Slaughter to your hearts content!<$FFFE>
- Gaaooo!<$FFFE>
- Guaargh!<$FFFE>
- Kyaaahhh!<$FFFE>
- Stop this!<$FFFD>I won't stand idly by, while you massacre innocent citizens!<$FFFE>
- Emerick, don't tell me you would betray master Böser?<$FFFE>
- He is no longer the lord Altemüller I hold in highest esteem. Right now it pains me just to look at him.<$FFFE>
- Merciful it would be to strike down Altemüller, if this is what it takes to release him from this evil curse!<$FFFE>
- Swayed by emotions, you are blind to real power…foolish human…<$FFFE>
- Rag, what is this hold up about?<$FFFE>
- Yes, Master Böser. It seems that Emerick wishes to rebel against you.<$FFFE>
- …Is that true Emerick?<$FFFE>
- Your Excellency, you have changed. I can follow your ways no more.<$FFFE>
- Let me offer you a peaceful slumber as my last service.<$FFFE>
- So you are serious. Well then, show me the extent of your resolve.<$FFFE>
- …Your Excellency.<$FFFE>
+Kill! Kill! Slaughter<$FFFC>them all!<$FFFE>
+Gaaooo!<$FFFE>
+Guaargh!<$FFFE>
+Kyaaahhh!<$FFFE>
+Stop this!<$FFFD>Lay another hand on the<$FFFC>citizens, and I will not<$FFFC>stay silent!<$FFFE>
+Emerick, why betray Lord<$FFFC>Böser?<$FFFE>
+He is no longer the Lord<$FFFC>Altemüller I revered. It<$FFFC>pains me to see what he<$FFFC>has become.<$FFFE>
+The only mercy we can<$FFFC>give is to defeat Lord<$FFFC>Altemüller and break the<$FFFC>demon's curse!<$FFFE>
+Swayed by emotion, blind<$FFFC>to such great power…<$FFFC>foolish human.<$FFFE>
+Why are you taking so<$FFFC>long, Rag?<$FFFE>
+Yes, Lord Böser.<$FFFC>That wretch Emerick has<$FFFC>started a rebellion.<$FFFE>
+…Is that true Emerick?<$FFFE>
+Your Excellency,<$FFFC>you have changed. I can<$FFFC>follow you no longer.<$FFFE>
+At the least, let me<$FFFC>lead you to a peaceful<$FFFC>slumber.<$FFFE>
+So you are serious. Go<$FFFC>ahead and try.<$FFFE>
+…Your Excellency.<$FFFE><$FFFF>

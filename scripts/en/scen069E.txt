@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,29 +18,29 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Field Marshal Altemüller<$FFFF>
 Kaiser Kleist<$FFFF>
-Imperial First Prince Paul<$FFFF>
+First Prince Paul<$FFFF>
 General Varna<$FFFF>
-Rigüler Castle - Kaiser Kleist's Sickroom<$FFFF>
- Once we destroyed the demonic cannon, their army should have been nothing to fear, but…<$FFFE>
- A local lord, Lord Raymond, has gathered an army stronger than we suspected, and sorely pressed our troops there.<$FFFE>
- Also, an enigmatic black knight has appeared in the small country of Barral, inflicting massive damage on his own.<$FFFE>
- Accordingly, I request the demonic giant Galshook, permission to deploy the aerial fortress, and reinforcement troops.<$FFFE>
- The aerial fortress is still being excavated. However, I approve the use of the Galshook. I trust you will use it well…<$FFFE>
- Yes, sir!<$FFFE>
- …Hmmph.<$FFFE>
- Then, if you will excuse me.<$FFFE>
- Watching the Kaiser's illness reminds me of the late former Kaiser. Somehow, isn't it the very same illness?<$FFFE>
- Yes, I was thinking the same thing. Those symptoms are the same shown by my father in his final years. But, I don't think it is an ordinary illness.<$FFFE>
- Even the doctor said it's an illness he had never seen, and there was nothing to be done… If it's not illness, but poison…<$FFFE>
- Hmm!? Could it be that the late Kaiser too was poisoned by someone! Speaking of who profited from the late Kaiser's death…<$FFFE>
- Either the current Kaiser Kleist IV, or his son the First Imperial Prince, Paul…<$FFFE>
- Could it be that that punk Paul poisoned the late Kaiser!?<$FFFE>
- Varna, that's a dangerous thing to say. Nowhere have we seen evidence for this proposed poisoning.<$FFFE>
- Even I don't think Father died from an ordinary illness… But, we have no evidence.<$FFFE>
- Your Excellency…<$FFFE>
- I bear my uncle no grudge. But just you watch, damned Paul!<$FFFE>
- There's no way in hell I am letting a rat like him sit on the throne!<$FFFE>
- We four generals shall lend our power from the shadows so Your Excellency may reclaim the imperial throne.<$FFFE>
- Thank you. Your power shall be very helpful for this cause of mine.<$FFFE>
- First, we shall use the Galshook to bring the Empire victory!<$FFFE>
- Yes, sir! It shall be as you command!<$FFFE> 
+Rigüler Castle Sickroom<$FFFF>
+If only we had downed<$FFFC>the Demonic Cannon, they<$FFFC>should have had no army<$FFFC>left, yet…<$FFFE>
+Lord Raymond has raised<$FFFC>an army stronger<$FFFC>than we feared, and it<$FFFC>presses us hard.<$FFFE>
+And in little Barral a<$FFFC>strange black knight has<$FFFC>appeared, and he alone<$FFFC>has cost us dearly.<$FFFE>
+I ask leave to send out<$FFFC>the Sky Fortress, along<$FFFC>with Galshook and men.<$FFFE>
+The Sky Fortress is not<$FFFC>yet fully unearthed. But<$FFFC>you may use Galshook.<$FFFC>I trust you…<$FFFE>
+Yes, sir!<$FFFE>
+…Hmmph.<$FFFE>
+Then, I shall take my<$FFFC>leave.<$FFFE>
+Watching the Kaiser<$FFFC>waste away brings the<$FFFC>late Kaiser to mind. I<$FFFC>fear the same illness.<$FFFE>
+Indeed, I had thought<$FFFC>so myself. They match<$FFFC>Father in his last days.<$FFFC>No ordinary illness.<$FFFE>
+A sickness no doctor has<$FFFC>seen, past all remedy…<$FFFC>And what if it's not an<$FFFC>illness, but poison…<$FFFE>
+What!? Was the<$FFFC>late Kaiser poisoned by<$FFFC>someone? And who would<$FFFC>gain from his death…<$FFFE>
+Either the current<$FFFC>Kaiser, Kleist IV, or<$FFFC>his son Paul, now named<$FFFC>First Prince…<$FFFE>
+Could it be that punk<$FFFC>Paul poisoned the late<$FFFC>Kaiser?<$FFFE>
+Varna, hold your tongue.<$FFFC>There's no proof at all<$FFFC>that it was poison.<$FFFE>
+Even I cannot believe<$FFFC>Father died of a plain<$FFFC>illness… and yet we<$FFFC>have no proof of it.<$FFFE>
+Your Excellency…<$FFFE>
+I hold no grudge against<$FFFC>my uncle. But just you<$FFFC>watch yourself, Paul!<$FFFE>
+I'll never let that rat<$FFFC>sit on the throne!<$FFFE>
+We four generals stand<$FFFC>ready to aid you from<$FFFC>the shadows, so you may<$FFFC>reclaim the throne.<$FFFE>
+My thanks. I will put<$FFFC>your strength to good<$FFFC>use for my cause.<$FFFE>
+First we will deploy the<$FFFC>Galshook and lead the<$FFFC>Empire to victory!<$FFFE>
+Yes, sir! I understand<$FFFC>completely!<$FFFE>

@@ -1,0 +1,13 @@
+{
+  "_doc": "Scens excluded from the Ralph layout-fitting sweep. Listed scens never become user stories in scripts/ralph/prd.json (gen_layout_prd.py skips them). Add or remove entries here when the exclusion context changes; regenerate the PRD with `python3 tools/gen_layout_prd.py`.",
+  "excluded": [
+    {
+      "scen": "scen122",
+      "reason": "Opening-cutscene subtitle scen: an 18-name character roster (JP-paired in scripts/jp/scen122J.txt) plus 6 world-building narration entries whose JP slots are EMPTY (the prose is EN/CN-authored). Exempt from layout QA by author decision: the <$FFFD> are intentional AESTHETIC balloon breaks, not structural breaks to fit. (Earlier note 'not present in scripts/jp/' is obsolete — JP was added in 64e16bc; names verified canonical, prose verified good 2026-06-06.)"
+    },
+    {
+      "scen": "scen123",
+      "reason": "Opening-cutscene subtitle scen: a 28-entry name/place roster + intro-movie dialogue (Kleist's death, Wilder/Freya at Laffel, Colcia) that IS JP-paired in scripts/jp/scen123J.txt (EN verified faithful), interleaved with a few EN/CN-authored narration entries whose JP slots are empty. Exempt from layout QA by author decision: the <$FFFD> are intentional AESTHETIC breaks. (Earlier 'not present in scripts/jp/' is obsolete — JP added in 64e16bc.)"
+    }
+  ]
+}

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -27,308 +27,308 @@ Wilder<$FFFF>
 Dark Knight<$FFFF>
 Gerold<$FFFF>
 Elthlead Forces<$FFFF>
- •Defeat Wilder<$FFFE>
- •Death of <$F600><$0000><$FFFE>
+•Defeat Wilder<$FFFE>
+•Death of <$F600><$0000><$FFFE>
 Barral Royal Castle<$FFFF>
- Your majesty. The Elthlead troops has breached our borders.<$FFFE>
- What happened to Freya?<$FFFE>
- Concerning that matter. Seemingly she has allied with the Elthlead troops.<$FFFE>
- What? Freya has betrayed me?<$FFFE>
- I am afraid it seems that way…<$FFFE>
- They will surely strike here next.<$FFFC>Set up defensive formations throughout the castle, and don't drop your guard!<$FFFE>
- To stop the Elthlead army, she took the front lines herself…<$FFFE>
-…So she is dead. Well, I didn't expect much to begin with.<$FFFD>But I cannot believe that the Dark Knight has fallen.<$FFFE>
- With both the Dark Knight and the princess dead<$FFFD>Elthlead can march right to our doorstep.<$FFFE>
- I understand.<$FFFC>Set up defensive formations throughout the castle, and don't drop your guard!<$FFFE>
- Yessir!<$FFFE>
- So this is Barral Castle.<$FFFE>
- Yeah this is it.<$FFFE>
- A remarkably well-built structure.<$FFFC>We can't afford to drop our guard more than ever.<$FFFE>
- Remember, if King Wilder sees reason we shouldn't prolong this battle unnecessarily.<$FFFE>
- It has been a long time since you've been here…<$FFFE>
- I would never have imagined returning here in such manner.<$FFFE>
- It feels like it was just yesterday that we played here as kids.<$FFFE>
+Your majesty! Elthlead<$FFFC>troops have crossed into<$FFFC>our lands!<$FFFE>
+What happened to Freya?<$FFFE>
+Th-that is… Rumor has<$FFFC>it the Princess herself<$FFFC>guided Elthlead across…<$FFFE>
+What was that you said?<$FFFC>Freya has betrayed us?<$FFFE>
+Even I cannot be sure<$FFFC>of that, my lord…<$FFFE>
+They will strike here<$FFFC>at any moment now.<$FFFC>Set up castle defenses<$FFFC>and stay on your guard!<$FFFE>
+She took the front line<$FFFC>herself, leading our men<$FFFC>against Elthlead…<$FFFE>
+…So she is dead,<$FFFC>then. We never expected<$FFFC>much from her anyway.<$FFFD>But for the Dark Knight<$FFFC>to be beaten? Even now<$FFFC>we scarcely believe it.<$FFFE>
+The Dark Knight is no<$FFFC>more, and the princess<$FFFC>too has perished.<$FFFD>I fear Elthlead's army<$FFFC>will be marching on us<$FFFC>at any moment now.<$FFFE>
+We know. Ready<$FFFC>the castle defenses, and<$FFFC>stay on your guard!<$FFFE>
+Yessir!<$FFFE>
+This is Barral Castle.<$FFFE>
+Yeah this is it.<$FFFE>
+A well-built castle.<$FFFC>We must stay alert now<$FFFC>more than ever before.<$FFFE>
+If only King Wilder<$FFFC>would hear us out, we<$FFFC>wouldn't have to fight<$FFFC>at all…<$FFFE>
+It's been far too long<$FFFC>since you came here…<$FFFE>
+Never thought I'd return<$FFFC>here like this.<$FFFE>
+Long ago, Freya and I<$FFFC>played here often.<$FFFE>
 …<$FFFE>
- King Wilder is bound to be inside.<$FFFE>
- To uncover the truth, we should make our way to him as soon as possible…<$FFFE>
- Easier said than done, are we just going to force our way through? Attacking this fortress will prove to be quiet the challenge.<$FFFE>
- Besides, King Wilder has clearly changed from how he used to be.<$FFFE>
- That's right. He's already one bloodthirsty guy as of now.<$FFFD>But seriously you know that we could be killed here right? Our chances to make it through straight on are rather slim.<$FFFE>
- But we have no choice.<$FFFE>
- If we allow Velzeria to do as they please, Barral soon will end like my country.<$FFFE>
- There seems to be no other way than to use force.<$FFFD>After coming this far already, we have to see it through to the end.<$FFFB>Everyone move out!<$FFFE>
- You worthless idiots have permitted the enemy to advance this far!?<$FFFD>Archmages destroy the bridges leading to the towers, this should slow down the enemy considerately. After that shower the enemy with your spells!<$FFFE>
- Yessir!<$FFFE>
- This party is the elite unit of the Elthlead troops. As soon as this bunch is dealt with we will be the strongest indisputably,<$FFFD>nothing on the continent will rival the might of the Barral Kingdom!<$FFFE>
- But, the princess…<$FFFE>
- She has turned traitor. As such she is no longer the princess but a common criminal. Kill her along with the others!<$FFFE>
- B…but…<$FFFE>
- What is it?<$FFFB>Are you in conspiracy with the enemy too? Hmm?<$FFFE>
- …At your command.<$FFFE>
- King Wilder…<$FFFE>
- Damn! That transformation, I can't bear to look at him!<$FFFE>
- What do you say?<$FFFE>
- It maybe is.<$FFFE>
-There got to be adifferent reason.<$FFFE>
- Maybe we are too late already.<$FFFE>
- Is this the king's true character?<$FFFE>
- Yeah, who would know for sure.<$FFFE>
- Hey now, grumbling won't solve anything. Let's just do what we came to do !<$FFFE>
- Hey now grumbling won't solve anything. Let's just do what we came to do !<$FFFE>
- No, I don't think so. There's bound to be a good reason for this.<$FFFD>And don't we stand here right now because we want to find out what the real cause is?<$FFFE>
- Heh, that's right…<$FFFD>We have to get the King back to sanity, even if it takes some old fashioned hitting on the head!<$FFFE>
- Thank you…, everyone…<$FFFE>
- Maybe we are already too late.<$FFFE>
-No! One should not expect the worst!<$FFFD>We have to find a way to bring back the kind King!<$FFFE>
- Damn straight! That's exactly what we will do!<$FFFE>
- Thank you…, everyone.<$FFFE>
- Could this be the king's true character?<$FFFE>
- Hm? Did you say something?<$FFFE>
- N…no. It's nothing.<$FFFE>
+King Wilder is bound to<$FFFC>be inside.<$FFFE>
+We can't be sure of the<$FFFC>truth till we meet him.<$FFFE>
+You think they will just<$FFFC>let us pass? Even I say<$FFFC>taking this place will<$FFFC>be no easy thing.<$FFFE>
+King Wilder's clearly<$FFFC>not who he used to be.<$FFFE>
+Yeah. You feel that<$FFFC>bloodlust in the air?<$FFFD>Looks like they really<$FFFC>mean to kill us. They<$FFFC>won't let us through<$FFFC>here so easily.<$FFFE>
+But we have no choice.<$FFFE>
+If Velzeria did this,<$FFFC>I cannot let it stand.<$FFFC>I'd not see Barral end<$FFFC>as my homeland did…<$FFFE>
+They won't let us pass<$FFFC>without a fight.<$FFFD>But we've come too far<$FFFC>to turn back now.<$FFFB><$FFFC>Move out, everyone!<$FFFE>
+You let them get this<$FFFC>far, you worthless dogs!<$FFFD>Mages, drop the bridges<$FFFC>to slow their advance.<$FFFC>Then bombard them with<$FFFC>your fiercest spells!<$FFFE>
+Yessir!<$FFFE>
+These are the cream of<$FFFC>Elthlead. Crush them,<$FFFC>and we shall stand as<$FFFC>the strongest of all.<$FFFD>Let the whole continent<$FFFC>witness the true might<$FFFC>of our mighty Barral!<$FFFE>
+But, the princess…<$FFFE>
+She is a traitor now.<$FFFC>No princess of Barral.<$FFFC>Kill them all!<$FFFE>
+B-but…<$FFFE>
+And what have we here?<$FFFB><$FFFC>Would you turn against<$FFFC>us too? Hmm?<$FFFE>
+…At your command.<$FFFE>
+King Wilder…<$FFFE>
+Damn! He's so changed,<$FFFC>I can't bear to watch!<$FFFE>
+What do you say?<$FFFE>
+No doubt.<$FFFE>
+There's a reason.<$FFFE>
+Maybe it's too late.<$FFFE>
+Is that his true face?<$FFFE>
+Yeah, no doubt at all.<$FFFE>
+Well, no use griping.<$FFFC>Gotta do what we can!<$FFFE>
+Well, no use griping.<$FFFC>I'll give it a shot!<$FFFE>
+No. There has to be some<$FFFC>reason behind all this.<$FFFD>Getting to that reason<$FFFC>is exactly why we came<$FFFC>here, isn't it?!<$FFFE>
+Yeah, you have a point…<$FFFD>All right! Whatever it<$FFFC>takes, we will bring the<$FFFC>King to his senses!<$FFFE>
+Thank you… everyone…<$FFFE>
+Maybe we're too late…<$FFFE>
+No! That cannot be true!<$FFFD>We can still bring back<$FFFC>the kind and gentle king<$FFFC>he used to be!<$FFFE>
+Damn straight! Come on,<$FFFC>let's get this done!<$FFFE>
+Thank you… everyone.<$FFFE>
+Is that his true self?<$FFFE>
+Hm? Did you just say<$FFFC>something to me?<$FFFE>
+N-no. It's nothing.<$FFFE>
 …<$FFFE>
- Those murderers of princess Freya must be delivered to justice!<$FFFE>
- Yessir! Leave it to us! We will certainly avenge the princess!<$FFFE>
- Damn! That transformation, I can't bear to look at him!<$FFFE>
- The bridges have been destroyed…<$FFFE>
- Now it will be difficult to defeat the enemy Archmages.<$FFFD>But, with them at our flank charging in is dangerous.<$FFFE>
- Flying and Sea units should take care of this. No need to be so worried about it.<$FFFD>For now, our priority is uncovering King Wilder's connection to Velzeria.<$FFFE>
- That is the only way.<$FFFE>
- Yessir!<$FFFE>
- However, our first priority should be to investigate the connection between King Wilder and Velzeria.<$FFFE>
- But our first priority is to investigate the connection between King Wilder and Velzeria.<$FFFE>
- However, I believe our first priority is to investigate the connection between King Wilder and Velzeria.<$FFFE>
- But we cannot flinch. Let's go, everyone!<$FFFE>
- King Wilder. The end of this battle draws near. Stop your wasteful resistance…<$FFFE>
-Hehehe! As enemies go, I'll grant you a worthy salute.<$FFFD>But you cannot defeat me. Absolutely not…<$FFFE>
- Father, why…<$FFFE>
- Why!?<$FFFE>
- I am immortal. Absolutely not bound to die! Hehehe!<$FFFE>
-Seems like he really lost it… I've got a bad feeling about this.<$FFFE>
- Why is he so at ease in this situation?<$FFFE>
- We can only speculate… What are they up to…?<$FFFE>
- …Why can he laugh like this… King Wilder…<$FFFE>
- Cavalry move out to the western gate!<$FFFE>
- Yessir!<$FFFE>
- Cavalry protect the eastern gate!<$FFFE>
- Understood!<$FFFE>
- With what face have you returned, Freya?<$FFFD>Those people there are your enemies. Why not finish them quickly?<$FFFE>
- Father, please stop already.<$FFFE>
- You dare giving me advice!?<$FFFD>I am growing tired of you and your recalcitrant ways!<$FFFD>You are no longer my daughter! Kill them all!<$FFFE>
- <$F600><$0000>I have a request. Please help my father!<$FFFE>
- You have my word for it!<$FFFE>
- King Wilder. You are being controlled. And we are here to release you from this malicious influence!<$FFFE>
- Controlled you say? What rubbish.<$FFFE>
- I was born to rule, not to obey orders by someone else!<$FFFE>
+We now bring our justice<$FFFC>down on those who killed<$FFFC>our daughter Freya!<$FFFE>
+Yes sir! Leave it to<$FFFC>us! We will avenge the<$FFFC>princess without fail!<$FFFE>
+Damn! He's so changed,<$FFFC>I can't bear to watch!<$FFFE>
+The bridge is gone…<$FFFE>
+Defeating their mages<$FFFC>will be hard now.<$FFFD>But charging past them<$FFFC>is far too dangerous.<$FFFE>
+We can use the flyers<$FFFC>and our naval troops.<$FFFC>No need to be so grim.<$FFFD>Our priority right now<$FFFC>is Wilder's tie with<$FFFC>Velzeria.<$FFFE>
+That is the only way.<$FFFE>
+Yessir!<$FFFE>
+But our first task is<$FFFC>to probe Wilder's tie<$FFFC>with Velzeria.<$FFFE>
+Even so, our first task<$FFFC>is to uncover Wilder's<$FFFC>tie to Velzeria.<$FFFE>
+Aye, but first we must<$FFFC>probe Wilder's ties to<$FFFC>Velzeria, I'd say.<$FFFE>
+But we cannot flinch.<$FFFC>Let's go, everyone!<$FFFE>
+King Wilder, it's all<$FFFC>over now. Put an end to<$FFFC>this pointless fight…<$FFFE>
+Hehehe! Worthy foes you<$FFFC>are. We grant you that<$FFFC>much of our praise.<$FFFD>But you can never defeat<$FFFC>us. Never, ever…<$FFFE>
+Father, why…<$FFFE>
+Why!?<$FFFE>
+We are immortal, and we<$FFFC>shall never, ever die!<$FFFC>Hehehehe!<$FFFE>
+What is with all this<$FFFC>smug calm of his? It<$FFFC>gives me the creeps.<$FFFE>
+Why is he so at ease in<$FFFC>this situation?<$FFFE>
+We can only speculate…<$FFFC>What are they up to…?<$FFFE>
+…Why is he laughing?<$FFFC>King Wilder, what's…?<$FFFE>
+Cavalry move out to the<$FFFC>western gate!<$FFFE>
+Yessir!<$FFFE>
+East Gate cavalry, move<$FFFC>out and advance!<$FFFE>
+Understood!<$FFFE>
+The nerve, slinking back<$FFFC>here, Freya.<$FFFD>Those are your foes.<$FFFC>Go finish them off!<$FFFE>
+Father, please stop.<$FFFE>
+Defy us, do you!?<$FFFD>You failed your task,<$FFFC>and now defy us too!?<$FFFD>Our daughter no more!<$FFFC>Die with the rest!<$FFFE>
+<$F600><$0000>!<$FFFC>Please, save my father!<$FFFE>
+I know already!<$FFFE>
+King Wilder, someone is<$FFFC>controlling you. We're<$FFFC>going to set you free!<$FFFE>
+Controlled, you say? By<$FFFC>whom, exactly?<$FFFE>
+From the day we were<$FFFC>born, we have answered<$FFFC>to no man's command!<$FFFE>
 <$F702><$FFFE>
 <$F702><$FFFE>
- King Wilder…<$FFFE>
- You are the ones that murdered my daughter. You have caused me pain unmeasurable!<$FFFE>
- It seems useless… He's a totally different person.<$FFFD>Where is the kind Wilder I know?<$FFFE>
- …I don't get it What kind of bewitchment could disfigure him so.<$FFFD>There seems to be only one method left to try…<$FFFE>
- …But is fighting truly the only way?<$FFFE>
- Father ready yourself!<$FFFE>
- Oh. You point a sword at your father who raised you and gave you life!<$FFFD>It saddens me to see what my own daughter has come to. The one that has gone mad is no other than you Freya!<$FFFE>
- Ever since you changed, the people of Barral suffered from poverty and starvation.<$FFFD>Even if it means to bear the stigma of striking down ones own father,<$FFFD>for the well being of my future subjects, I will not show mercy to you!<$FFFE>
- Upon stepping on amagical symbol on the floor, a brilliant lightshines down on you. Thestrange light points to the western direction.<$FFFD>Out if nowhere abeautiful women appears before your eyes. Thewoman carries asparkling coin.<$FFFD>"You who are guided by the goddess of light,which of the followingdo you crave more,<$FFFD>is it the power of thesword or the power of magic?"<$FFFE>
- What do you reply?<$FFFE>
+King Wilder…<$FFFE>
+You killed my daughter!<$FFFC>For this, I will make<$FFFC>your pain greater than<$FFFC>any has ever known!<$FFFE>
+It is no good. He has<$FFFC>changed far too much.<$FFFD>I cannot believe this is<$FFFC>the kind King Wilder…<$FFFE>
+…I do not know what<$FFFC>kind of magic this is…<$FFFD>If only we understood,<$FFFC>perhaps we could find<$FFFC>some way to undo it…<$FFFE>
+…Is there truly no<$FFFC>choice now but to fight?<$FFFE>
+Father ready yourself!<$FFFE>
+Hmph. So you would turn<$FFFC>your sword on the very<$FFFC>father who raised you<$FFFC>and gave you life?!<$FFFD>What a sorry daughter<$FFFC>you have become. You are<$FFFC>the mad one, Freya!<$FFFE>
+Since the madness took<$FFFC>you, our people starve<$FFFC>in want, and some have<$FFFC>even starved to death.<$FFFD>Though I bear the shame<$FFFC>of slaying my own kin,<$FFFC>you must die regardless.<$FFFD>It is the deepest mercy<$FFFC>your daughter has left<$FFFC>to give you, father!<$FFFE>
+Stepping into the magic<$FFFC>circle, a light shone<$FFFC>down from above. A glow<$FFFC>shines westward.<$FFFD>Before you stands<$FFFC>a beautiful woman. In<$FFFC>her hand she clutches a<$FFFC>glittering earring.<$FFFD>"Guided by the Goddess<$FFFC>of Light, I shall now<$FFFC>grant you my power.<$FFFD>Which power do you<$FFFC>prefer, the sword or the<$FFFC>magic?"<$FFFE>
+What do you reply?<$FFFE>
 Power of the Sword<$FFFE>
-Magic power <$FFFE>
-Despise both<$FFFE>
- "It seems you have no need for my gifts." The woman vanished…<$FFFE>
- "If that is so, receive my gift."<$FFFE>
- Star Coin was obtained!<$FFFE>
- Upon stepping on amagical symbol on the floor, a brilliant lightshines down on you. Thestrange light points to the eastern direction.<$FFFD>Out if nowhere abeautiful women appears before your eyes. Thewoman carries asparkling sword.<$FFFD>"You who are guided by the goddess of light,which of the followingdo you crave more,<$FFFD>is it the power of thesword or the power of magic?"<$FFFE>
- What do you reply?<$FFFE>
+Power of Magic<$FFFE>
+Neither<$FFFE>
+"Then this earring is<$FFFC>of no use to you." With<$FFFC>those words, the woman<$FFFC>vanished…<$FFFE>
+"If that is so, receive<$FFFC>my gift."<$FFFE>
+Acquired the Star<$FFFC>Earring!<$FFFE>
+Stepping into the magic<$FFFC>circle, a light shone<$FFFC>down from above. A glow<$FFFC>shines eastward.<$FFFD>Before<$FFFC>you stands a beautiful<$FFFC>woman. She holds in her<$FFFC>hand a glittering sword.<$FFFD>"Guided by the Goddess<$FFFC>of Light, I shall now<$FFFC>grant you my power.<$FFFD>Which power do you<$FFFC>prefer, the sword or the<$FFFC>magic?"<$FFFE>
+What do you reply?<$FFFE>
 Power of the Sword<$FFFE>
-Magic power <$FFFE>
-Despise both<$FFFE>
- "If that is so, you shall receive my gift."<$FFFE>
- Excalibur was obtained!<$FFFE>
- "It seems you have no need for my gifts." The woman vanished…<$FFFE>
- We have no time to lose! Snap out of it!<$FFFE>
- Come back to your senses, Wilder! Be the kind man you once were!<$FFFE>
- Sanity and Insanity, what are those?<$FFFD>Who are you to judge another one sane or insane!? This baseless accusation is nothing short of heresy!<$FFFE>
- Wilder… Now…<$FFFE>
- This battle will decide who is sane and who is insane. Come now and taste the power of my true self!!<$FFFE>
- Urrghh… I am sorry, Freya…<$FFFE>
- It hurts! I just can't go on anymore.<$FFFE>
- I won't lose! I cannot afford to lose!<$FFFE>
- Maybe this is exactly what Velzeria planned…<$FFFE>
- I can still go on, I, still… …gah!<$FFFE>
- Uwaaah! It is too strong!<$FFFE>
- Are you prepared for what's to come?<$FFFE>
- It's useless. My current power…<$FFFE>
- I am still incomplete…<$FFFE>
- Please open your eyes!<$FFFE>
- <$F600><$0000>, please do something to save him!<$FFFE>
- Mmm… this is beyond me…<$FFFE>
- Grrrr…<$FFFE>
- How did it come to this? So much fun! Bite me!<$FFFE>
- …King Wilder…<$FFFD>What a strange thing to meet you in battle, no?<$FFFE>
- To think that you would turn traitor Dios. Have you forgotten everything I've done for you?<$FFFE>
- Have you forgotten what you owe this country? I am here because I remember that clearly.<$FFFD>What a strange thing to meet you in battle, no?<$FFFE>
- People change their minds every single day, it's only natural. This isn't any different, is it not?<$FFFD>It is different because you are no longer human. …Die Dios!<$FFFE>
- Tch!<$FFFE>
- Dam…mit… King Wilder…<$FFFE>
- I am sorry <$F600><$0000>… I thought being accustomed to the castle would give us an advantage…<$FFFE>
- We are facing off against Barral's elite troops. This is going to be a tough fight…<$FFFE>
- But we cannot let ourselves being defeated here. Not after all the was we came.<$FFFE>
- The leader of a nation must always think of his people first or his county is doomed.<$FFFE>
- But my only concern are my people. For instance I will put the fertile lands of Elthlead to good use for them!<$FFFE>
- Uuh! I've blundered!<$FFFE>
- Feel my anger! Insolent rabble!<$FFFE>
- Father! Please return to sanity!<$FFFD>Otherwise you leave me no choice…<$FFFE>
- Hoho… You think you could kill me?<$FFFE>
- F…Father…<$FFFE>
- Why do you have to grieve me so. Back then, you ignored my warning and went hunting, then made me worry over you.<$FFFE>
- …It's no use… I just can't do it…<$FFFE>
- Fight, Freya! If you don't fight, you'll be the one struck down!<$FFFE>
+Power of Magic<$FFFE>
+Neither<$FFFE>
+"Then take this sword<$FFFC>as my gift to you."<$FFFE>
+Acquired Excalibur!<$FFFE>
+"If so, this sword's<$FFFC>not needed any longer."<$FFFC>The woman vanished…<$FFFE>
+I've no time to waste!<$FFFC>Out of my way!<$FFFE>
+Return to your senses,<$FFFC>King Wilder! Be the kind<$FFFC>man you once were again!<$FFFE>
+And what is sanity?<$FFFC>Have you ever stopped to<$FFFC>ponder that question?<$FFFD>If everyone were<$FFFC>mad, they would call it<$FFFC>sanity. The sane ones<$FFFC>would be the heretics.<$FFFE>
+Wilder… Now…<$FFFE>
+In this battle, only the<$FFFC>mad are truly sane!<$FFFC>Come, join me, you too!<$FFFE>
+Urgh… ngh… I am so<$FFFC>sorry, Freya…<$FFFE>
+It huurts! I just can't<$FFFC>go on anymore…<$FFFE>
+I won't lose! I cannot<$FFFC>be defeated!<$FFFE>
+And to think Velzeria<$FFFC>may be behind all this…<$FFFE>
+I can still fight on…<$FFFC>I still can… ngh!<$FFFE>
+Aaagh! It's too<$FFFC>strong!<$FFFE>
+Are you prepared?<$FFFE>
+It is no good. My power<$FFFC>is not enough for this…<$FFFE>
+I am still incomplete…<$FFFE>
+Please open your eyes!<$FFFE>
+<$F600><$0000>,<$FFFC>please save him!<$FFFE>
+Mmm…this is my limit.<$FFFE>
+Grrrr…<$FFFE>
+So, you'd take me on?<$FFFC>Looks like fun!<$FFFC>Bring it on then!<$FFFE>
+…King Wilder.<$FFFD>Have you really changed<$FFFC>that much?<$FFFE>
+It's the traitor Dios.<$FFFC>Forgot our kindness?<$FFFE>
+I haven't forgotten<$FFFC>what I owe you. But this<$FFFC>is not the you I knew.<$FFFD>Have you truly changed?<$FFFE>
+People change by the<$FFFC>day. Isn't that so?<$FFFD>I'm not who I used to<$FFFC>be, so now I can do<$FFFC>this. …Now die, Dios!<$FFFE>
+Tch! Damn you…!<$FFFE>
+D-damn… King<$FFFC>Wilder…<$FFFE>
+I'm sorry,<$FFFC><$F600><$0000>…<$FFFC>And me, of all people,<$FFFC>who knew this castle…<$FFFE>
+These castle elite are<$FFFC>no easy mark. It will<$FFFC>not be like before.<$FFFE>
+I cannot fall here yet.<$FFFC>Let me rest a moment.<$FFFE>
+A ruler of a realm must<$FFFC>serve his people first,<$FFFC>before all else.<$FFFE>
+Indeed we are. All to<$FFFC>give the fertile lands<$FFFC>of Elthlead to our own<$FFFC>people!<$FFFE>
+Uuh! I've blundered!<$FFFE>
+Out of my way! Insolent<$FFFC>fool!<$FFFE>
+Father! Please return to<$FFFC>your senses!<$FFFD>Or else I'll be forced<$FFFC>to do it myself…<$FFFE>
+Hoho… So you would dare<$FFFC>to slay us?<$FFFE>
+F-Father…<$FFFE>
+Why do you grieve us so?<$FFFC>Back then you ignored<$FFFC>our will, rode off to<$FFFC>hunt, and made us worry.<$FFFE>
+…It's no use… I can't<$FFFC>do it…<$FFFE>
+Fight, Freya! If not,<$FFFC>you'll be struck down!<$FFFE>
 …<$FFFE>
- F…Father why…<$FFFE>
- Argh… How did it come to this…<$FFFE>
- I am sorry Freya. To make you fight your own father like this.<$FFFD>I should have been more careful with my commanding…<$FFFE>
- For Shika Tribe! Do Kahni is hero! I am stronger!<$FFFE>
- You Villain! Do Kahni no longer permits evil ways! I make you pulp!<$FFFE>
- Shiikaa! Do Kahni didn't expect…such force…<$FFFE>
- So you're the one who deceived Freya!? I will deliver judgement upon you!<$FFFE>
- So you're the one who killed Freya!? I will deliver judgement upon you!<$FFFE>
- You unfilial child…<$FFFD>Hahahah! Your punishment shall be carried out right now.<$FFFE>
- Desertion calls for capital punishment! Does it not Dios?<$FFFE>
- What…How… Am I…really going to die…like this… F…Freya…<$FFFE>
- Wilder…<$FFFE>
- Father!<$FFFE>
- Oh, Freya… You are safe.<$FFFE>
- I lost sight of you while you where chasing after your prey.<$FFFE>
- …Fa…ther?<$FFFE>
- You mustn't go to the inner part of the forest alone.<$FFFE>
- But if you are safe, then I…<$FFFE>
- It seems his memories are in disorder.<$FFFE>
- Where am I…<$FFFE>
- Last thing I know is I was searching for Freya… …The horse run wild…and I fell of the cliff…<$FFFE>
- Are your memories returning to you?<$FFFE>
- My body…changed… And Freya…<$FFFE>
-Wilder you've got to hang in there!<$FFFE>
- …Who is it…what…doing…uuarg hh!<$FFFE>
- What's wrong Wilder!?<$FFFE>
- Uaargh!<$FFFE>
- Eeeaahhh! Faather!<$FFFE>
- Impossible!<$FFFE>
- He…he cut off his own head…<$FFFE>
- To behead himself like that…<$FFFE>
- …It seems I am too late.<$FFFE>
- The Dark Knight?!<$FFFE>
- ! Gerold!?<$FFFE>
- What the hell, shouldn't he be kinda dead right now?<$FFFE>
- Yes, I did verify his death cautiously. His heart had already stopped…<$FFFE>
- I am immortal. No common method can put my life to its end.<$FFFE>
- What are we supposed to do? Now that we know that you are Gerold I would prefer not to fight you…<$FFFE>
- Say Gerold. I don't understand any of this.<$FFFE>
- Did you just forget who we are? Answer me!<$FFFE>
- Oh I remember you perfectly.<$FFFE>
- You are the people that deserted Laffel when the Barral Kingdom attacked. …How could I forget.<$FFFE>
- But that's!<$FFFE>
- …Tell me then, you didn't forget what you promised Layla, right!?<$FFFE>
- …Layla…?<$FFFE>
- So you do remember Gerold!<$FFFE>
- Layla still waits for you to return to her!<$FFFE>
- Lay…la…Uaargh! Argh, my head…<$FFFE>
- Gerold!<$FFFE>
- *I-I*… There's a Velzerian worm in my head. It locked away my consciousness and took control over my body.<$FFFE>
- Even when my heart stopped the power of the worm revived me. The only way to release me is to cut my head off!<$FFFE>
- You have to be quick about it!<$FFFE>
- Then, my father's sudden change…<$FFFE>
- Then, Wilder's change…<$FFFE>
- Was the result of the infection with the worm as well. The worm can only enter your body if you are close to death.<$FFFD>Once he's inside you, all wounds heal miraculously but the heart is taken over completely.<$FFFD>That's why you must kill me while I am still myself!<$FFFE>
- Dammit! Is there no other way?<$FFFE>
- …There is another way…<$FFFE>
- …There is another way…<$FFFE>
- Jessica!?<$FFFE>
-I know a magic that can expel the worm. However…<$FFFE>
-I know a magic that can expel the worm. However…<$FFFE>
- However?<$FFFE>
- With the worm gone the life extending effects will also fade away. If the worm is removed the person most likely only has some days left to live.<$FFFE>
- With the worm gone the life extending effects will also fade away. If the worm is removed the person most likely only has some days left to live.<$FFFE>
- You mean his life ends no matter what we do?<$FFFE>
- You mean his life ends no matter what we do?<$FFFE>
- I cannot last much longer… Hurry, you must cut my head off!<$FFFE>
- Emergency! Corps of the demon tribe are attacking Laffel…!<$FFFD>Right now lady Layla organizes the evacuation of the citizens, but…<$FFFE>
- Layla!?<$FFFE>
- In any case, please hurry!<$FFFE>
- Damn! At such a time!<$FFFE>
- …Great Sorceress. Please help me with your magic.<$FFFE>
- Are you certain about this?<$FFFE>
- Once the worm is gone your body will begin to fall apart. During this time you will have to endure great suffering.<$FFFE>
- To escape this torment you probably will desire death over all before long.<$FFFE>
- Are you certain about this?<$FFFE>
- Once the worm is gone your body will begin to fall apart. During this time you will have to endure great suffering.<$FFFE>
- To escape this torment you probably will desire death over all before long.<$FFFE>
- I don't care. …I cannot die just yet. My only purpose left in life is to protect Layla.<$FFFE>
- If it is to ensure Layla's safety I will endure any measure of pain!<$FFFE>
- …Gerold.<$FFFE>
- …I understand. I will prepare the cleansing.<$FFFE>
- …I understand. I will prepare the cleansing.<$FFFE>
- You will not get passed me!<$FFFE>
- You…will not…<$FFFE>
- Consider your life forfeit! Take this!<$FFFE>
- I won't let you inside…gah!<$FFFE>
- Wh, why…<$FFFE>
- Ahhh, I still don't want to die…<$FFFE>
- H, how dare you…<$FFFE>
- My magic wasn't…<$FFFE>
- Godess…<$FFFE>
- As the flesh is torn the soul grows free…<$FFFE>
- I need a stronger spell…<$FFFE>
- It is hopeless!<$FFFE>
- Uarrghh!<$FFFE>
- What is…power…<$FFFE>
- I…I couldn't win…<$FFFE>
- Blasted!<$FFFE>
- It's no use!<$FFFE>
- The rest is up to you!<$FFFE>
- This is the end for me…<$FFFE>
- Can't stop them…<$FFFE>
- For the Barral Kingdom!<$FFFE>
- I still can go on…guargh!<$FFFE>
- Need more strength…<$FFFE>
- Why…here…<$FFFE>
- So cruel…<$FFFE>
- How can we be defeated…<$FFFE>
- King Wilder please escape…<$FFFE>
- I, I can't anymore…<$FFFE>
- No more time left. We must finish him here!<$FFFE>
- You won't go any further!<$FFFE>
- Gyaaaahhh!<$FFFE>
- Guargh!<$FFFE>
- Uugh… No wonder they could drive away even the Empire…<$FFFE>
- I welcome death… I…can't leave my child…behind…<$FFFE>
- Wasn't our goal to restore King Wilder to his senses?<$FFFD>Yet we've gone this far…<$FFFE>
- You're right. But there's no choice but to press on.<$FFFE>
- Father, please stop already!<$FFFE>
- Father you're currently not yourself. Please hurry and return back to your true self!<$FFFE>
- What are you babbling about. This and no other is my true form.<$FFFE>
- …Father.<$FFFE>
- …What should we do now?<$FFFE>
- …Cut him down.<$FFFE>
- …Cut him down.<$FFFE>
- Freya?<$FFFE>
- I can no longer bear to look at my father in this state.<$FFFE>
- I can no longer bear to look at my father in this state.<$FFFE>
+F-Father why…<$FFFE>
+Argh… How did it ever<$FFFC>come to this…<$FFFE>
+Forgive me, Freya. To<$FFFC>make you fight your own<$FFFC>father like this…<$FFFD>What a thoughtless<$FFFC>commander I have been…<$FFFE>
+Shika tribe strong! Do<$FFFC>Kahni, hero! Even<$FFFC>stronger!<$FFFE>
+You villain! Do Kahni<$FFFC>no forgive! I crush<$FFFC>you!<$FFFE>
+Sh-Shikaa! Do<$FFFC>Kahni strong… should<$FFFC>be…<$FFFE>
+So you deceived Freya!<$FFFC>We shall punish you!<$FFFE>
+So you are the one who<$FFFC>killed Freya? Then we<$FFFC>shall deal you justice!<$FFFE>
+You ungrateful child…<$FFFD>Heh heh heh! Now we deal<$FFFC>out your punishment.<$FFFE>
+All traitors must die,<$FFFC>Dios. Isn't that so?<$FFFE>
+Wh-what is<$FFFC>this…? I'm to die…?<$FFFC>F-Freya…<$FFFE>
+Wilder…<$FFFE>
+Father, please!<$FFFE>
+Oh, Freya… So you were<$FFFC>safe and well after all.<$FFFE>
+When hunting, you only<$FFFC>see your prey, hm…<$FFFE>
+…Fa…ther?<$FFFE>
+Stay clear of the deep<$FFFC>forest, I always said…<$FFFE>
+But if you're safe, I…<$FFFE>
+His memory's confused?<$FFFE>
+Where am I…<$FFFE>
+Yes… I was searching<$FFFC>for Freya, and then…<$FFFC>the horse threw me…<$FFFC>I fell from the cliff.<$FFFE>
+His memory's returned?<$FFFE>
+My body…won't move…<$FFFC>I, Freya…<$FFFE>
+King Wilder, hold on,<$FFFC>stay with us, please!<$FFFE>
+…Who<$FFFC>are you!? What are you…<$FFFC>Aaaarghh!<$FFFE>
+What's wrong Wilder!?<$FFFE>
+Uaargh!<$FFFE>
+Eeeaahhh! Faather!<$FFFE>
+Impossible!<$FFFE>
+He…he cut off his own<$FFFC>head…<$FFFE>
+Cutting off his own<$FFFC>head, no less…<$FFFE>
+…Too late, it seems.<$FFFE>
+The Dark Knight?!<$FFFE>
+! Gerold!?<$FFFE>
+Hold on now, wasn't he<$FFFC>supposed to be dead?<$FFFE>
+But we made sure of it.<$FFFC>His heart had stopped…<$FFFE>
+I am immortal now. You<$FFFC>will never defeat me.<$FFFE>
+What does this all mean?<$FFFC>Now that I know he is<$FFFC>Gerold, I don't want to<$FFFC>fight him anymore…<$FFFE>
+Hey, Gerold… You do<$FFFC>remember us, don't you?<$FFFE>
+Did you just forget who<$FFFC>we are? Answer me!<$FFFE>
+I remember you all.<$FFFE>
+These are the ones<$FFFC>who left me to die when<$FFFC>Barral struck Laffel.<$FFFC>…I will not forget.<$FFFE>
+But that's!<$FFFE>
+You forgot Layla too,<$FFFC>didn't you, Gerold!?<$FFFE>
+…Layla…?<$FFFE>
+Yes! Remember it now,<$FFFC>Gerold!<$FFFE>
+Layla is still waiting<$FFFC>for you to come home!<$FFFE>
+Lay…la…Uaargh! Argh,<$FFFC>my head…<$FFFE>
+Gerold!<$FFFE>
+I-In my head, there's<$FFFC>a Velzerian worm.<$FFFC>It seals my mind away<$FFFC>and moves my body.<$FFFE>
+Even if my heart<$FFFC>stops, the worm restores<$FFFC>me. To kill me, you must<$FFFC>cut off my head.<$FFFE>
+Hurry, while you can,<$FFFC>strike me down now!<$FFFE>
+So my father's change<$FFFC>came from this too…<$FFFE>
+Then Wilder's change<$FFFC>came from this too…<$FFFE>
+The worm took him too,<$FFFC>just as it took me. It<$FFFC>takes hold near death.<$FFFD>Once it is in you, your<$FFFC>wounds heal at fearful<$FFFC>speed, but in time it<$FFFC>seizes your very heart.<$FFFD>So while I am still me,<$FFFC>kill me, I beg you!<$FFFE>
+Damn it all! Is there<$FFFC>no other way but this?<$FFFE>
+…There is one way…<$FFFE>
+…There is one way…<$FFFE>
+Jessica!?<$FFFE>
+I know magic to expel<$FFFC>the worm. However…<$FFFE>
+I know magic to expel<$FFFC>the worm. However…<$FFFE>
+However?<$FFFE>
+The worm sustains him.<$FFFC>Without it, he'll have<$FFFC>only days left to live.<$FFFE>
+The worm sustains him.<$FFFC>Without it, he'll have<$FFFC>only days left to live.<$FFFE>
+You mean he's done for<$FFFC>either way?<$FFFE>
+You mean he's done for<$FFFC>either way?<$FFFE>
+Never mind me now…<$FFFC>Quick, take off my head!<$FFFE>
+Terrible news! A horde<$FFFC>of monsters has attacked<$FFFC>Laffel itself…!<$FFFD>Lady Layla is leading<$FFFC>the townsfolk to safety,<$FFFC>but even so…<$FFFE>
+Layla!?<$FFFE>
+Anyway, please hurry!<$FFFE>
+Damn! Not now, of all<$FFFC>times!<$FFFE>
+…Sorceress, please cast<$FFFC>that spell on me.<$FFFE>
+Is that all right?<$FFFE>
+Once the worm leaves,<$FFFC>your flesh will fail.<$FFFC>The pain that follows<$FFFC>is beyond words.<$FFFE>
+To escape the torment,<$FFFC>you may find yourself<$FFFC>wishing for death,<$FFFC>hmm?<$FFFE>
+Is that all right?<$FFFE>
+Once the worm leaves,<$FFFC>your flesh will fail.<$FFFC>The pain that follows<$FFFC>is beyond words.<$FFFE>
+To escape the torment,<$FFFC>you may find yourself<$FFFC>wishing for death,<$FFFC>hmm?<$FFFE>
+I don't care. I cannot<$FFFC>die just yet, not while<$FFFC>Layla still needs me.<$FFFE>
+I won't rest in death<$FFFC>if I fail Layla now!<$FFFE>
+…Gerold.<$FFFE>
+…I understand. I will<$FFFC>prepare the cleansing.<$FFFE>
+…I understand. I will<$FFFC>prepare the cleansing.<$FFFE>
+You won't get past me!<$FFFE>
+You…will not…<$FFFE>
+Your life is already<$FFFC>forfeit! Take this!<$FFFE>
+I won't let you in…<$FFFC>guh!<$FFFE>
+Wh, why…<$FFFE>
+Aaah, I still don't want<$FFFC>to die…<$FFFE>
+H-how dare you…<$FFFE>
+My magic wasn't…<$FFFE>
+Goddess…<$FFFE>
+Though the body dies<$FFFC>still my soul…<$FFFE>
+I need a stronger<$FFFC>spell…<$FFFE>
+It's hopeless!<$FFFE>
+Uarrghh!<$FFFE>
+What power is this…<$FFFE>
+I-I couldn't win…<$FFFE>
+Blasted!<$FFFE>
+It's no use!<$FFFE>
+The rest is up to you!<$FFFE>
+This is the end<$FFFC>for me…<$FFFE>
+Can't stop them…<$FFFE>
+For the Barral Kingdom!<$FFFE>
+Not yet… I'll keep<$FFFC>fighting…guargh!<$FFFE>
+Need more strength…<$FFFE>
+Why…here…<$FFFE>
+So cruel…<$FFFE>
+We mustn't lose…<$FFFE>
+Flee, King Wilder…<$FFFE>
+I, I can't anymore…<$FFFE>
+Our time has run out…<$FFFC>We must end this now!<$FFFE>
+You won't get past me!<$FFFE>
+Gyaaaahhh!<$FFFE>
+Guargh!<$FFFE>
+Mmh… No wonder. They<$FFFC>stood against the very<$FFFC>Empire itself…<$FFFE>
+Death holds no fear…<$FFFC>but my child remains…<$FFFE>
+Wasn't our purpose to<$FFFC>restore King Wilder to<$FFFC>his right mind?<$FFFD>And yet you go so far…<$FFFE>
+That's right. We can't<$FFFC>turn back now.<$FFFE>
+Father, please stop!<$FFFE>
+Father, this isn't you!<$FFFC>Please return to us as<$FFFC>the father we once knew!<$FFFE>
+What defines<$FFFC>"true form"? Don't you<$FFFC>see we ARE our<$FFFC>true form?<$FFFE>
+…Father.<$FFFE>
+…What should we do?<$FFFE>
+…Cut him down.<$FFFE>
+…Cut him down.<$FFFE>
+Freya?<$FFFE>
+I cannot bear to see<$FFFC>Father in such a state…<$FFFE>
+I cannot bear to see<$FFFC>Father in such a state…<$FFFE>
 …<$FFFE>
- What do you say?<$FFFE>
- I understand.<$FFFE>
- …Are you really alright with this?<$FFFE>
- I can't do it.<$FFFE>
- I understand. There is no other way to stop him.<$FFFE>
- At least, try to not make him suffer…<$FFFE>
- At least, try to not make him suffer…<$FFFE>
- …Of course.<$FFFE>
- …Are you really alright with this?<$FFFE>
+What do you say?<$FFFE>
+I understand.<$FFFE>
+…Are you sure?<$FFFE>
+I can't do it.<$FFFE>
+So be it. King Wilder<$FFFC>dies by my hand.<$FFFE>
+At least make sure he<$FFFC>doesn't have to suffer…<$FFFE>
+At least make sure he<$FFFC>doesn't have to suffer…<$FFFE>
+…Of course.<$FFFE>
+…You sure about that?<$FFFE>
 <$F703><$FFFE>
 <$F703><$FFFE>
- …I understand.<$FFFE>
- …I can't do it. I just can't. To strike down the gentle King Wilder I knew…<$FFFE>
- <$F600><$0000> you coward! In that case I will do it myself!<$FFFE>
- <$F600><$0000> you coward! If you can't do it I will. But,…oh…<$FFFE>
- No, this is more than you should bear. …Stand back, Freya. I will do it.<$FFFE>
- You did everything you could. Since even that did not work, …I have no regrets…<$FFFE>
- Father… After all we couldn't find a way to restore the kindness to your heart.<$FFFE> 
+…I understand.<$FFFE>
+…No, I can't. I just<$FFFC>can't do it. Cut down<$FFFC>the kind King Wilder,<$FFFC>of all people…<$FFFE>
+<$F600><$0000>,<$FFFC>you coward!<$FFFC>I'll do it myself!<$FFFE>
+<$F600><$0000>,<$FFFC>you coward!<$FFFC>If I could, I'd do it.<$FFFC>But… ugh…<$FFFE>
+This must hurt you more,<$FFFC>Freya. …Forgive me.<$FFFC>I'll do it.<$FFFE>
+You did everything you<$FFFC>could. And still it was<$FFFC>not enough. I have no<$FFFC>regrets, none at all…<$FFFE>
+Father… So there really<$FFFC>is no way left to bring<$FFFC>back the kind, gentle<$FFFC>soul you once were…<$FFFE><$FFFF>

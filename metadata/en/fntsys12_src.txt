@@ -1,0 +1,269 @@
+# Source for fntsys12E.txt (class descriptions). Build: tools/build_fntsys12.py
+# Classes 1..87 -> 4 records each, entry 88 -> 1 blank (349 total). Re-wrapped to
+# <=18 bigram tiles, <=4 records per class. Classes 1-64 keep the (JP-aligned) old
+# EN, tightened where it overflowed; classes 65-87 were re-translated from the JP
+# (the old EN drifted -1 from class 65 on and bled each class's intro forward).
+
+# 1
+Footmen with more attack than Soldiers. Light gear gives them higher movement. Strong vs spears, weak vs cavalry.
+
+# 2
+They are the foundation foot soldier unit. Strong vs spears, weak vs cavalry.
+
+# 3
+Footmen with stronger defense than Soldiers. Their magic resistance is also a bit higher. Strong vs spears, weak vs cavalry.
+
+# 4
+Mysterious creatures from beyond the stars. Counted as footmen: strong vs spears, weak vs cavalry.
+
+# 5
+The strongest footmen and pride of Rigüler Empire. Strong vs spears, weak vs cavalry.
+
+# 6
+A lesser breed of werewolves. Faster than footmen, but weaker to magic. Strong vs spears, weak vs cavalry.
+
+# 7
+Dark Guards' statistics have been boosted beyond the level of ordinary footmen by dark magic. Strong vs spears, weak vs cavalry.
+
+# 8
+Carnivorous giants, 2-3 meters tall. Strong vs spears, weak vs cavalry.
+
+# 9
+Mad warriors of the Shika Tribe. They have higher attack power at the expense of their defense. Strong vs spears, weak vs cavalry.
+
+# 10
+Ordinary Shika Tribe footmen. Poor gear makes them a bit weak. Strong vs spears, weak vs cavalry.
+
+# 11
+Warriors of the Shika Tribe whose gigantic shields grant a large defensive bonus. Strong vs spears, weak vs cavalry.
+
+# 12
+As a product of their studies, they are stronger than Guardsmen against demons and undead. Like footmen: strong vs spears, weak vs cavalry.
+
+# 13
+Footmen who, serving the gods, excel against demons and undead. Like footmen: strong vs spears, weak vs cavalry.
+
+# 14
+Holy warriors are stronger against humans than against demons and undead. Like footmen: strong vs spears, weak vs cavalry.
+
+# 15
+Footmen who, serving the gods, excel against demons and undead. Like footmen: strong vs spears, weak vs cavalry.
+
+# 16
+As a product of their studies, they are stronger than Fanatics against demons and undead. Like footmen: strong vs spears, weak vs cavalry.
+
+# 17
+Unholy warriors who are stronger against humans than against demons or undead. Like footmen: strong vs spears, weak vs cavalry.
+
+# 18
+Makes ranged bow attacks. Their defense ability is stronger than ordinary archer units. Strong vs fliers.
+
+# 19
+Makes ranged bow attacks. Because their defense is so weak, they are unable to withstand direct attacks. Strong vs fliers.
+
+# 20
+A mechanical rig with far greater range than any normal archer. But operating it takes time, so it moves slowly.
+
+# 21
+Superior stats from superior breeding. They also have unusually high resistance against magic. Strong vs fliers.
+
+# 22
+Specialists at fighting fliers. Their base stats trail a normal archer's, but against fliers their power is overwhelming.
+
+# 23
+Elves in service to the dark gods, who likewise attack at range. They have higher magic resistance than common elves. Strong vs fliers.
+
+# 24
+As sorceresses who follow the dark gods, they can make ranged magic attacks. They also have strong magic resistance. Strong vs fliers.
+
+# 25
+A Shika Tribe unit that slings stones at range, shorter-ranged than most archers. Strong vs fliers.
+
+# 26
+Mounted archers which stress defense power more than Centauros units. But they also have less attack power. Strong vs fliers.
+
+# 27
+Half-man, half-horse archers, able to attack at range and in melee. Strong vs fliers.
+
+# 28
+Half-man, half-horse archers with scorpion tails. Stronger and faster than Centauros, but weaker on defense. Strong vs fliers.
+
+# 29
+Water spirits in human form, superb at moving on water and capable enough on land. Strong vs spears, weak vs cavalry.
+
+# 30
+Mermen are stronger and faster than ordinary footmen when in an aquatic area. Strong vs spears, weak vs cavalry.
+
+# 31
+An aquatic unit, ill-suited to land but unmatched at moving and fighting on water. Strong vs spears, weak vs cavalry.
+
+# 32
+Nixies wear the form of beautiful maidens. Not just fast on the water, Nixies also wield bows to attack at range. Strong vs fliers.
+
+# 33
+These reptilian men are excellent in the water and passable fighters on land. They have brawn but no brains. Strong vs spears, weak vs cavalry.
+
+# 34
+Berserk, oversized lobsters, well-suited to fighting in the sea. Strong vs spears, weak vs cavalry.
+
+# 35
+Berserk, oversized octopuses, supreme in aquatic warfare. But they are quite poor on land. Strong vs spears, weak vs cavalry.
+
+# 36
+These giant frogs trained by the Shika Tribe are excellent at aquatic warfare. Strong vs spears, weak vs cavalry.
+
+# 37
+Man-eating sharks trained by the Shika Tribe, quite powerful in aquatic warfare. Strong vs spears, weak vs cavalry.
+
+# 38
+These killer whales trained by the Shika Tribe are even stronger than the Shika sharks in the water. Strong vs spears, weak vs cavalry.
+
+# 39
+Assault cavalry with more attack than Troopers. Weaker defense, but higher mobility. Strong vs footmen, weak vs spears.
+
+# 40
+Orthodox cavalry soldiers. Their high mobility and attack power is best for skirmishes. Strong vs footmen, weak vs spears.
+
+# 41
+Heavy cavalry with high defense power, but diminished mobility and attack power. Strong vs footmen, weak vs spears.
+
+# 42
+The Rigüler Empire's guard cavalry: superb attack and high defense, though mobility lags. Strong vs footmen, weak vs spears.
+
+# 43
+Legendary eight-legged horse, superb at forest movement and combat. Strong vs footmen, weak vs spears.
+
+# 44
+Beasts conjured by sorcery. Forest dwellers, so unlike normal cavalry they excel among the trees. Strong vs footmen, weak vs spears.
+
+# 45
+A horse with a lovely horn on its head. Unicorns are strongest in their home, the forest. Strong vs footmen, weak vs spears.
+
+# 46
+A giant tiger with two huge fangs. Jungle-dwellers, they also suit forest combat. Strong vs footmen, weak vs spears.
+
+# 47
+Giant black dogs which vomit flame and are said to be the watchdogs of hell. Strong in the woods. Strong vs footmen, weak vs spears.
+
+# 48
+Dinosaur survivors, their bodies clad in hard scales. Adapted to forest combat. Strong vs footmen, weak vs spears.
+
+# 49
+War dogs trained by the Shika Tribe, well-suited to forest combat and movement. Strong vs footmen, weak vs spears.
+
+# 50
+Wolves with high attack power, trained by the Shika Tribe. They fight best in the forest. Strong vs footmen, weak vs spears.
+
+# 51
+Tigers with high combat potential, trained by the Shika Tribe for forest movement and warfare. Strong vs footmen, weak vs spears.
+
+# 52
+Pikemen who have trained more for speed and offense than defense. Strong vs cavalry, weak vs footmen.
+
+# 53
+An anti-cavalry unit wielding spears over 3 meters long. High defense, weak mobility. Strong vs cavalry, weak vs footmen.
+
+# 54
+Pikemen who crowd together in disciplined formation to maximize defense over offense. Strong vs cavalry, weak vs footmen.
+
+# 55
+Wooden dolls fashioned by sorcerous means which fight with lengthened spears. Strong vs cavalry, weak vs footmen.
+
+# 56
+Golems fashioned out of mud which fight with elongated spears. Strong vs cavalry, weak vs footmen.
+
+# 57
+Spear-wielding automata that stress movement and attack more than Mud Golems. Strong vs cavalry, weak vs footmen.
+
+# 58
+Shika Tribal pikemen who wield bamboo spears. Because of poor equipment, they are below par. Strong vs cavalry, weak vs footmen.
+
+# 59
+Fairies trained to fight fliers. Their darling looks belie high stats, and flight gives them fine mobility. Weak vs archers.
+
+# 60
+Fliers with a woman's head and an eagle's body. They fight best on the move and are the basic flying unit. Weak vs archers.
+
+# 61
+Gryphon riders trained to fight ground units. Low mobility, but very strong vs all ground. Weak vs archers.
+
+# 62
+A flier prized for strong defense and magic resistance. With no power against ground or air, it is a basic flier. Weak vs archers.
+
+# 63
+Giant bats which have trained to fight against aerial units. Weak vs archers.
+
+# 64
+Evil faeries trained to strike ground units. Mobility is a touch low, but on the ground they are devastating. Weak vs archers.
+
+# 65
+The strongest flier, made by ancient magic. High attack and defense, but no power against ground or air. Weak vs archers.
+
+# 66
+Beggars who serve thieves as lackeys. Poor gear, low stats, but they outpace footmen. Strong vs spears, weak vs cavalry.
+
+# 67
+Rogues who live by robbery, tougher in a fight than Beggars. They also outpace ordinary footmen. Strong vs spears, weak vs cavalry.
+
+# 68
+Female ninja trained for battle. They outpace ordinary footmen and fight well besides. Strong vs spears, weak vs cavalry.
+
+# 69
+A skeletal horse, a kind of undead. Otherwise, it behaves like ordinary cavalry. Strong vs footmen (not holy), weak vs spears.
+
+# 70
+A headless black horse, a kind of undead. Otherwise, like ordinary cavalry. Strong vs footmen (not holy), weak vs spears.
+
+# 71
+The revived corpse of the phantom beast Behemoth. Otherwise, like ordinary cavalry. Strong vs footmen (not holy), weak vs spears.
+
+# 72
+A small, winged low-grade demon. Its combat is a bit weak, but its magic resistance is high. Weak vs holy.
+
+# 73
+A lesser breed that still counts among the true demons, so its combat and magic resistance are excellent. Weak vs holy.
+
+# 74
+A kind of dream demon, classed as a low-grade demon. Even so, its combat and magic resistance top a common soldier's. Weak vs holy.
+
+# 75
+A floating undead. Most such spirits possess a corpse, but this one is the spirit itself, so it drifts through obstacles. Weak vs holy.
+
+# 76
+A spirit bound to this world by its grudge, able to drift through any obstacle. Being undead, it is weak vs holy.
+
+# 77
+The spirit of one who died nursing a grudge, seen as a faint shadow of its living self. It drifts through obstacles, but is weak vs holy.
+
+# 78
+Skeletal warriors lent fleeting life by evil magic. Mindless, but strong in combat. Strong vs spears, weak vs cavalry and holy.
+
+# 79
+Corpses raised by evil magic. Mindless, but already dead, so they shrug off blows. Strong vs spears, weak vs cavalry and holy.
+
+# 80
+Humans turned vampire, a lesser breed in truth. Red-eyed and pale, they fight ferociously. Strong vs spears, weak vs cavalry and holy.
+
+# 81
+A dragon fiercer and more aggressive than the Red Dragon. Black scales sheathe its body, though they are relatively thin for a dragon.
+
+# 82
+A lesser dragon, crimson from head to tail. Dull-witted, but ferocious and a formidable fighter.
+
+# 83
+A relatively docile dragon of the high northern mountains. Its white scales are said to be the hardest of any lesser dragon.
+
+# 84
+A semi-fluid, formless creature. It engulfs living things and lives off their nutrients. Strong against blows, but weak vs fire and holy.
+
+# 85
+A fire lizard, spirit of flame, and aggressive as spirits go. It absorbs fire magic, but is weak against cold attacks.
+
+# 86
+A wind spirit, a translucent maiden. Gentle by nature, yet fearsome when she fights on the move. She absorbs wind attacks.
+
+# 87
+Ordinary townsfolk. With no combat training, they cannot fight at all. Be especially wary of cavalry attacks.
+
+# 88
+@blank

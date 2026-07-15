@@ -1,8 +1,8 @@
 歩兵<$FFFF>
-僧<$0290><$FFFF>
-僧<$0290><$FFFF>
-僧<$0290><$FFFF>
-僧<$0290><$FFFF>
+僧侶<$FFFF>
+僧侶<$FFFF>
+僧侶<$FFFF>
+僧侶<$FFFF>
 弓兵<$FFFF>
 弓兵<$FFFF>
 弓兵<$FFFF>

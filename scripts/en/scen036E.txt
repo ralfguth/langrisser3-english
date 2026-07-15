@@ -5,156 +5,156 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 Demon General Geier<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Demon<$FFFF>
-Velzerian Commander<$FFFF>
+Commander Geier<$FFFF>
 Geier<$FFFF>
- •Defeat Demon General Geier<$FFFE>
- •Death of <$F600><$0000><$FFFE>
+•Defeat Demon General Geier<$FFFE>
+•Death of <$F600><$0000><$FFFE>
 Velzerian Castle<$FFFF>
- Hurry! To the inner part!<$FFFE>
- So this is the demon land, Velzeria...<$FFFE>
- I never thought I'd come back to this place.<$FFFE>
- If I could, I'd rather not have come.<$FFFE>
- I wonder if Tiaris is alright.<$FFFE>
- I wonder if Liffany is alright.<$FFFE>
- I wonder if Luna is alright.<$FFFE>
- Unless we hurry Sophia will be in great danger!<$FFFE>
- Quit babbling, if we don't hurry Freya will be in real danger!<$FFFE>
- …It appears that she is safe, still.<$FFFE>
- If the sacrifice ceremony were complete, the waves of dark power from Chaos would be far stronger than this.<$FFFE>
- You can sense it, Varna?<$FFFE>
- When Altemüller was Böser he used the dark power of Alhazard to resurrect her.<$FFFB><$FFFE>
- So she is closer to those of darkness than to us. That must be why.<$FFFE>
- In any case, the longer this takes, the more danger she's in. We must hurry.<$FFFE>
- I won't allow that!<$FFFE>
- Oh, it's Geier!<$FFFE>
- I can not allow you to disturb master Böser.<$FFFE>
- I will revive Lord Chaos, god of destruction, and rule over every last being in this world.<$FFFE>
- But before that, I will dispose of you all right here right now! Especially you Altemüller! You will get my special treatment!<$FFFE>
- We can't waste time here!<$FFFC>Push through quickly!<$FFFE>
- If we concentrate our attacks on Geier we should be able to win with relative ease.<$FFFE>
- You said it! Let's do this!<$FFFE>
- You think you can kill me that easily, how conceited of you.<$FFFD>Let me demonstrate some of the powers lord Chaos has bestowed upon me!<$FFFE>
- Well, come at me!<$FFFC>I'm right here!<$FFFE>
- Geier…!<$FFFE>
- Chaos's revival draws closer with every elapsing minute…<$FFFD>Hahaha! You might as well give up hope already!<$FFFE>
- Just a little further everyone. Once we finish Geier, only Paul remains!<$FFFD>Let us fight for our comrade and for the future of this world!<$FFFE>
- Just you wait Geier! This time my blade will put an end to you for good!<$FFFE>
-With the power of Lord Chaos, your sword holds no fear for me.<$FFFE>
+Hurry! It's deeper in<$FFFC>than this!<$FFFE>
+Velzeria, demon land…<$FFFE>
+Back here again…<$FFFE>
+Honestly, I'd rather<$FFFC>have never come to this<$FFFC>place at all.<$FFFE>
+Is Tiaris still safe?<$FFFE>
+Is Liffany still safe?<$FFFE>
+Is Luna still safe?<$FFFE>
+If we don't hurry,<$FFFC>Sophia will be in real<$FFFC>danger!<$FFFE>
+Hey, if we don't hurry,<$FFFC>Freya will be in danger!<$FFFE>
+…She is still safe.<$FFFE>
+If the rite were over,<$FFFC>the waves Chaos sends<$FFFC>his demons would be far<$FFFC>darker than these.<$FFFE>
+You can sense it, Varna?<$FFFE>
+She was revived by dark<$FFFC>power, when Altemüller<$FFFC>turned Böser and wielded<$FFFC>Alhazard freely.<$FFFB><$FFFE>
+She stands closer to the<$FFFC>creatures of darkness<$FFFC>than to us. That must be<$FFFC>why.<$FFFE>
+In any case, the longer<$FFFC>we take, the greater<$FFFC>her peril grows. Let's<$FFFC>hurry.<$FFFE>
+I won't allow that!<$FFFE>
+Oh, it's Geier!<$FFFE>
+I won't let you stand<$FFFC>in Lord Böser's way.<$FFFE>
+I will revive Chaos, god<$FFFC>of ruin, and rule over<$FFFC>every living thing in<$FFFC>this world.<$FFFE>
+But first, I'll finish<$FFFC>you myself! Especially<$FFFC>you, Altemüller. I'll<$FFFC>savor every second!<$FFFE>
+We cannot waste time<$FFFC>here! Push on through,<$FFFC>and quickly!<$FFFE>
+If we focus on Geier,<$FFFC>we should break through<$FFFC>fairly easily.<$FFFE>
+All right! Let's do this<$FFFC>thing!<$FFFE>
+You think you can defeat<$FFFC>me? Such arrogance.<$FFFD>Then let me test<$FFFC>the power Lord Chaos has<$FFFC>granted me!<$FFFE>
+Well, come at me<$FFFC>already! I'm right here<$FFFC>waiting!<$FFFE>
+Geier…!<$FFFE>
+By now, Lord Chaos's<$FFFC>revival should be nearly<$FFFC>ready.<$FFFD>Heh heh heh! That girl<$FFFC>has only moments of life<$FFFC>left!<$FFFE>
+Just a little farther,<$FFFC>everyone. We cut Geier<$FFFC>down and press on to<$FFFC>Paul!<$FFFD>Then we save<$FFFC>her and stop Chaos from<$FFFC>reviving!<$FFFE>
+Wait right there, Geier!<$FFFC>I'll snuff out your life<$FFFC>this instant!<$FFFE>
+Now that Lord Chaos has<$FFFC>granted me power, your<$FFFC>sword can't frighten me<$FFFC>anymore.<$FFFE>
 GAAAAA!<$FFFE>
 SYAAAA!<$FFFE>
- Hah!<$FFFE>
+Hah!<$FFFE>
 GA!<$FFFE>
- You are but small fry compared to our lord!<$FFFD>The revival of lord Chaos is nigh! Soon this world will be enveloped in perfect darkness!<$FFFE>
- Hehehe… So you made it this far.<$FFFD>From here on every step you take will be a countdown for death!<$FFFE>
- Yeah…<$FFFC>your countdown!<$FFFE>
- How troublesome! Die already!<$FFFE>
- Shut up! You're the one who's going to die!<$FFFE>
- There is a crack in the floor, beneath it bear earth can be seen.<$FFFD>A long an narrow pole is sticking out from it.<$FFFE>
- What do you do?<$FFFE>
+I never dreamed<$FFFC>you whelps would make it<$FFFC>this far!<$FFFD>But Lord Chaos revives<$FFFC>soon! Then an age of<$FFFC>darkness falls on this<$FFFC>world!<$FFFE>
+Heh heh heh… So you've<$FFFC>finally come this far.<$FFFD>From here, every single<$FFFC>step counts down to your<$FFFC>death!<$FFFE>
+Yeah… your countdown,<$FFFC>you mean!<$FFFE>
+Gah! Why, you little<$FFFC>whelp!<$FFFE>
+Quiet! You're the one<$FFFC>who is going to die!<$FFFE>
+The floor is cracked,<$FFFC>the bare earth laid<$FFFC>open.<$FFFD>A single long, slender<$FFFC>pole juts up from it.<$FFFE>
+What do you do?<$FFFE>
 Try pulling it out<$FFFE>
 Try breaking it<$FFFE>
 Pour water on it<$FFFE>
- You tried to pull it out, but it wouldn't budge.<$FFFE>
+You tried pulling it,<$FFFC>but it would not budge.<$FFFE>
 What do you do?<$FFFE>
-Pull with all your strength<$FFFE>
+Pull with full force<$FFFE>
 Push it deeper instead<$FFFE>
- Pull it out gently<$FFFE>
- The stick broke with a sluggish sound.<$FFFE>
- You gave up pulling and tried pushing it deeper instead. The stick sank in without resistance.<$FFFD>In a flash, it disappeared into the earth…<$FFFE>
- When you pulled it out gently, it came free with ease.<$FFFD>Before you knew it, the thin twig-like rod had changed into a magnificent spear.<$FFFE>
- Gungnir was obtained!<$FFFE>
- The stick broke with a sluggish sound.<$FFFE>
- When you poured water on it, the soil grew soft and muddy.<$FFFD>Then the rod sank away into the earth as though disappearing into water…<$FFFE>
- Return Tiaris this instant!<$FFFE>
- Return Liffany this instant!<$FFFE>
- Return Luna this instant!<$FFFE>
- Return Sophia this instant!<$FFFE>
- Return Freya this instant!<$FFFE>
- Hehehe! By now that girl has become Chaos's sacrifice and is fading away!<$FFFE>
- Y…you bastard!<$FFFE>
- G…Geier… Return…her…<$FFFE>
- Too late! With this, Lord Chaos will revive, and our era will come!<$FFFE>
- Sorry, <$F600><$0000>. Tia gave it her all, but…<$FFFE>
- I'm sorry, <$F600><$0000>. I was useless…<$FFFE>
- I too know the pain of losing those you love. Don't give up until the very end…<$FFFE>
- Uuu… though we were so close…<$FFFE>
- <$F600><$0000>… I am sorry I couldn't be of any help.<$FFFE>
- She is in mortal danger…<$FFFE>
- We have to rescue her and thwart the revival of Chaos…<$FFFD>I cannot fight anymore…<$FFFE>
- Mm… and my daughter is in danger…<$FFFE>
- Grrr! The power of the demon kind has grown excessively…<$FFFE>
- Mu, must save her…<$FFFE>
- D-damn…!<$FFFC>Don't worry about me, fight!<$FFFC><$F600><$0000>!<$FFFE>
- Listen, never give up on her…<$FFFC>The moment you give up is the moment you lose…<$FFFE>
- Chaos's revival must be prevented at all costs…<$FFFE>
- Don't give up, <$F600><$0000>…<$FFFE>
- Oh my, oh my. If it isn't Emerick, Altemüller's lackey.<$FFFE>
- Aren't you Paul's lackey yourself?<$FFFE>
- Damn brat!<$FFFC>I'll tear you to pieces!<$FFFE>
- I am sorry, <$F600><$0000>. It seems I failed to repay my debt…<$FFFE>
- Hohoho! How delicious! At last Altemüller is no more!<$FFFD>You others have lived long enough as well. Ah what a wonderful bloodbath this will be, slaughter them all!<$FFFD>Hehehe!<$FFFE>
- Hm? Didn't even need me to lay a hand on you, it seems…<$FFFE>
- ……Tsk!<$FFFE>
- Are you alright, Altemüller!?<$FFFE>
- Don't worry about me. This won't kill me.<$FFFD>More importantly, focus only on defeating Geier now.<$FFFE>
- Uuuu!<$FFFE>
- Are you all right, Varna!?<$FFFE>
- This won't kill me, but I cannot fight immediately.<$FFFD>Forgive me…<$FFFE>
- It is alright. I did what needed to be done. You can rest now…<$FFFE>
- I'll offer your blood to Lord Chaos!<$FFFE>
- Gah… Why… me…<$FFFE>
- Well, no matter… When Lord Chaos revives… I can return any number of times…<$FFFE>
- It's a shame… that I couldn't slaughter you all… guh!<$FFFE>
-We've got no time to waste. Let's hurry onwards!<$FFFE>
+Pull it out gently<$FFFE>
+The pole snapped with<$FFFC>a dull sound.<$FFFE>
+You stop pulling and<$FFFC>push it deeper, and the<$FFFC>pole sinks in with no<$FFFC>resistance at all.<$FFFD>In a blink,<$FFFC>it has vanished into the<$FFFC>earth…<$FFFE>
+You pull on it gently,<$FFFC>and it slips free with<$FFFC>the greatest ease.<$FFFD>And the slender pole,<$FFFC>once a withered branch,<$FFFC>is now a splendid spear.<$FFFE>
+Acquired Gungnir!<$FFFE>
+The pole snapped with<$FFFC>a dull sound.<$FFFE>
+When you pour water over<$FFFC>it, the soil turns to<$FFFC>mud.<$FFFD>The pole sinks into the<$FFFC>earth as if into water,<$FFFC>then vanishes…<$FFFE>
+Give Tiaris back!<$FFFE>
+Give Liffany back!<$FFFE>
+Give Luna back!<$FFFE>
+Give Sophia back!<$FFFE>
+Give Freya back!<$FFFE>
+Heh heh heh! By now that<$FFFC>girl has become Lord<$FFFC>Chaos's sacrifice and<$FFFC>faded away!<$FFFE>
+Y-you bastard!<$FFFE>
+G-Geier… give her…<$FFFC>back to us…<$FFFE>
+Too late! With this,<$FFFC>Lord Chaos revives, and<$FFFC>our age begins!<$FFFE>
+Sorry,<$FFFC><$F600><$0000>.<$FFFC>Tia tried her hardest,<$FFFC>but it was not enough…<$FFFE>
+Sorry…<$FFFC><$F600><$0000>.<$FFFC>How useless I was…<$FFFE>
+I know well the pain of<$FFFC>losing one you love.<$FFFC>Please, do not give up<$FFFC>until the very end…<$FFFE>
+Uuu… so close…<$FFFE>
+<$F600><$0000>…<$FFFC>Forgive me, I was<$FFFC>no help to you.<$FFFE>
+She is in danger…<$FFFE>
+Saving her is the<$FFFC>only way to stop Chaos's<$FFFC>revival…<$FFFD>But I can't fight<$FFFC>anymore…<$FFFE>
+Mm… and my daughter in<$FFFC>such danger as this…<$FFFE>
+Grr! The demons' power<$FFFC>grows stronger by the<$FFFC>moment…<$FFFE>
+Mu, must save her…<$FFFE>
+D-damn it all…!<$FFFC>Never mind me,<$FFFC>just fight on!<$FFFC><$F600><$0000>!<$FFFE>
+Listen to me. Never give<$FFFC>up on her… The moment<$FFFC>you give up is the<$FFFC>moment you lose…<$FFFE>
+Stop Chaos's return…<$FFFE>
+Don't give up,<$FFFC><$F600><$0000>…<$FFFE>
+Well, well. If it isn't<$FFFC>Emerick, Altemüller's<$FFFC>lapdog.<$FFFE>
+And aren't you Paul's<$FFFC>own lapdog yourself?<$FFFE>
+Why, you brat! I'll tear<$FFFC>you limb from limb!<$FFFE>
+Forgive me,<$FFFC><$F600><$0000>.<$FFFC>I never got to repay<$FFFC>the debt I owed you…<$FFFE>
+GWAHAHA! I've done it!<$FFFC>Altemüller is finished<$FFFC>at last!<$FFFD>Live a while yet. Once<$FFFC>these worms are a blood<$FFFC>feast, I'll kill you<$FFFC>slow!<$FFFD>Hee hee hee!<$FFFE>
+Huh. Guess I didn't<$FFFC>even need to raise a<$FFFC>hand against you…<$FFFE>
+……Tsk!<$FFFE>
+Altemüller, are you all<$FFFC>right!?<$FFFE>
+Do not worry about me.<$FFFC>This much will not kill<$FFFC>me.<$FFFD>More to the point, think<$FFFC>only of cutting Geier<$FFFC>down.<$FFFE>
+Uuuu!<$FFFE>
+Varna, are you all<$FFFC>right!?<$FFFE>
+This much will not kill<$FFFC>me, but I cannot fight<$FFFC>again just yet.<$FFFD>Forgive me…<$FFFE>
+It's all right.<$FFFC>I'll handle the rest.<$FFFC>You rest there a while…<$FFFE>
+Bleed for Lord Chaos!<$FFFE>
+Gah… Why… me…<$FFFE>
+Well, no matter… once<$FFFC>Lord Chaos revives…<$FFFC>I will return, as many<$FFFC>times as it takes…<$FFFE>
+A shame I couldn't make<$FFFC>a blood feast of you<$FFFC>all… Guh!<$FFFE>
+We have wasted precious<$FFFC>time. We must hurry!<$FFFE>
 GOOOON!<$FFFE>
 GUGAAAAA!<$FFFE>
 GYAOOON!<$FFFE>
 GYAOOON!<$FFFE>
 GUGAAAAA!<$FFFE>
-GUAA<$0650>…<$FFFE>
-GUAA<$0650>…<$FFFE>
-GUAA<$0650>…<$FFFE>
-GUAA<$0650>…<$FFFE>
-GOOOON!<$FFFE>
- Guargh!<$FFFE>
+GUAAA…<$FFFE>
+GUAAA…<$FFFE>
+GUAAA…<$FFFE>
+GUAAA…<$FFFE>
+My body is crumbling…<$FFFE>
+Guargh!<$FFFE>
 ZKYAAAA!<$FFFE>
 GKYAAA!<$FFFE>
 GAHAA!<$FFFE>
+WOOO!<$FFFE>
 WOOO…<$FFFE>
- Curse you…<$FFFE>
-GOOOON!<$FFFE>
- You will follow me shortly…<$FFFE>
-ZKYAAAA!<$FFFE>
+I'll curse you…<$FFFE>
+GOOOOON!<$FFFE>
+I'll drag you all<$FFFC>down with me…<$FFFE>
 GKYAAA!<$FFFE>
 GAHAA!<$FFFE>
+WOOO!<$FFFE>
 WOOO…<$FFFE>
- What strength…<$FFFE>
- Lord Chaos…!<$FFFE>
- Disgusting humans…<$FFFE>
- Humans are…mean…<$FFFE>
- Wh…What!? The power of that sword is…inhuman…<$FFFE>
+What strength…!<$FFFE>
+Lord Chaos…!<$FFFE>
+…by mere humans…<$FFFE>
+Wh-what!? Is that<$FFFC>the power of the holy<$FFFC>sword…?<$FFFE>
 GYAOOON!<$FFFE>
 GOOOON!<$FFFE>
 GOOOON!<$FFFE>
 GYAOOON!<$FFFE>
- Come to our side Varna, come to your creator lord Chaos!<$FFFE>
- Never! As long as I live I will stay by Altemüller's side!<$FFFE>
- Then die!<$FFFE>
- Hehehe, you alone I will absolutely kill. With all the grudge from that day!<$FFFE>
- Hmph! Did you come back to life just to be killed again?<$FFFE>
- Lord Chaos will revive shortly. Delay the enemie's advance! Yessir!<$FFFE>
- The age of darkness is dawning! Everything in this world shall be ours!<$FFFE> 
+You too, come to Lord<$FFFC>Chaos's side, Varna!<$FFFE>
+Never! My life always<$FFFC>belongs to Lord<$FFFC>Altemüller!<$FFFE>
+Then die!<$FFFE>
+Heh heh heh…<$FFFC>It's you I'll kill<$FFFC>most of all, with the<$FFFC>hatred of that day!<$FFFE>
+Hmph! Did you crawl<$FFFC>back to life just to die<$FFFC>all over again?<$FFFE>
+Lord Chaos's revival<$FFFC>draws near at last. Buy<$FFFC>what time you can! Now<$FFFC>go!<$FFFE>
+At last, the<$FFFC>age of darkness dawns!<$FFFC>This whole world shall<$FFFC>be ours!<$FFFE><$FFFF>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,14 +19,14 @@ Emerick<$FFFF>
 General Emerick<$FFFF>
 General Varna<$FFFF>
 General Geier<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-26<$FFFC><$0000><$0000><$0000><$0000><$0000> Suspicion <$0000><$0000><$0000><$0000><$0000><$FFFE>
- A surviving member of the Larcuss royal family is claiming the right to the throne? Weren't the royals supposed to have been executed by the Imperial Army? What in the world is going on…?<$FFFE>
- Amid mounting suspicion, the mobile division rushed straight to the capital. Yet a foreboding of unrest weighed on every heart.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of the royal claimant Richard<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Imperial Headquarters - Early Morning<$FFFF>
- Y…your excellency, Altemüller…<$FFFE>
- Who in the world did this to His Excellency!<$FFFE>
- …Guh…<$FFFE>
- …Someone mixed poison with the sake. But who, who would do this to His Excellency… Dammit!<$FFFE>
-We've got to find the perpetrator! And then, I will make a blood offering with my own hands!<$FFFE>
- Hohoho! Whoever did this saved me the trouble of doing it myself…<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２６<$FFFC><$0000><$0000><$0000><$0000><$0000> Suspicion <$0000><$0000><$0000><$0000><$0000><$FFFE>
+A survivor of Larcuss's<$FFFC>royal line claims the throne?<$FFFC>Weren't the royals executed by<$FFFC>the Imperial Army? What is going<$FFFC>on…?<$FFFE>
+Amid mounting suspicion, the<$FFFC>mobile division rushed straight<$FFFC>to the capital. Yet a foreboding<$FFFC>of unrest weighed on every<$FFFC>heart.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat the royal<$FFFC>claimant Richard<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Imperial HQ, Early Morning<$FFFF>
+Y-your excellency,<$FFFC>Altemüller…<$FFFE>
+Who in the world did<$FFFC>this to His Excellency!<$FFFE>
+…Guh…<$FFFE>
+…Someone mixed poison<$FFFC>with the sake. But who,<$FFFC>who would do this to His<$FFFC>Excellency… Dammit!<$FFFE>
+I'll find the culprit,<$FFFC>whatever it takes! And<$FFFC>I'll spill their blood<$FFFC>with my own two hands!<$FFFE>
+Hohoho! Whoever did this<$FFFC>saved me the trouble of<$FFFC>doing it myself…<$FFFE><$FFFF>

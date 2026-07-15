@@ -1,0 +1,3615 @@
+# Character Creation — The Questions of Lushiris
+
+Before the story begins, the goddess **Lushiris** tests the young hero with a
+chain of questions. Your answers are not flavour: they secretly forge
+**Diehärte**'s entire growth — which unit type he becomes at each rank, his
+starting stats and skills, a few bonus items, and even how close he starts to
+each heroine.
+
+> **The protagonist's default name is Diehärte.** If you rename him, every
+> "Diehärte" below is simply your chosen name.
+
+There are **two layers** to the quiz:
+
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │  LAYER 1 — Attribute path        Q1 ─ Q11                    │
+ │     Sets your unit type at Lv 1 / Lv 10 / Lv 30 / Lv 50.     │
+ │                                                             │
+ │  LAYER 2 — Personality           Q12 ─ Q27                   │
+ │     Stat boosts, learned skills, bonus items, heroine        │
+ │     affinity. No more branching — just rewards.             │
+ └─────────────────────────────────────────────────────────────┘
+```
+
+Stat shorthand: **STR** strength · **DEF** defense · **HP** vitality ·
+**INT** intelligence · **CHA** charisma · **ATK** attack-mod · **DMG** damage-mod ·
+**MOV** move-mod · **Mercs** mercenary count · **Merc-HP** mercenary HP-regen ·
+**MDef** magic resistance. Affinity bonuses raise that heroine's love index.
+
+---
+
+## Layer 1 — Your attribute path (Q1–Q11)
+
+Four steps decide the unit type your hero carries into battle.
+
+### Step 1 · Starting type — Q1
+> *What is the essential quality of a matchless unit?*
+
+| Answer | Starting type | Next |
+|---|---|---|
+| Leadership | **Infantry** | Q2 |
+| Mobility | **Flier** | Q3 |
+| Destructive power | **Cavalry** | Q4 |
+
+### Step 2 · Level 10 type — Q2–Q4 *(the branch depends on Step 1)*
+
+**Q2** *(you chose Infantry)* — *What do you believe is required in order to become a hero?*
+
+| Answer | Lv 10 type | Next |
+|---|---|---|
+| Courage | Cavalry | Q5 |
+| Charisma | Flier (+CHA 3) | Q6 |
+| An indomitable mind | Spearman | Q8 |
+
+**Q3** *(you chose Flier)* — *What do you believe is required in order to become a hero?*
+
+| Answer | Lv 10 type | Next |
+|---|---|---|
+| Kindness | Infantry (+CHA 2) | Q6 |
+| Courage | Cavalry | Q7 |
+| An indomitable mind | Spearman | Q9 |
+
+**Q4** *(you chose Cavalry)* — *What do you believe is required in order to become a hero?*
+
+| Answer | Lv 10 type | Next |
+|---|---|---|
+| Kindness | Infantry (+CHA 2) | Q5 |
+| Charisma | Flier (+CHA 3) | Q7 |
+| An indomitable mind | Spearman | Q10 |
+
+### Step 3 · Level 30 type — Q5–Q10 *(all phrased "Which of these do you enjoy the most?")*
+
+Each of these six variants offers the same kind of "what do you love?" choice;
+only the wording and the resulting type differ. All roads lead to Q11.
+
+| Q | Answer → Lv 30 type | Answer → Lv 30 type | Answer → Lv 30 type |
+|---|---|---|---|
+| **Q5** | The calm before a storm → Flier | The briny scent of sea air → Marine | Autumn gusts, fallen leaves → Spearman |
+| **Q6** | The briny scent of sea air → Marine | Autumn gusts, fallen leaves → Spearman | A summer breeze on the plains → Cavalry |
+| **Q7** | A refreshing breeze → Infantry | Autumn gusts, fallen leaves → Spearman | The briny scent of sea air → Marine |
+| **Q8** | The calm before a storm → Flier | A summer breeze on the plains → Cavalry | The briny scent of sea air → Marine |
+| **Q9** | A summer breeze on the plains → Cavalry | A refreshing breeze → Infantry | The briny scent of sea air → Marine |
+| **Q10** | The calm before a storm → Flier | A refreshing breeze → Infantry | The briny scent of sea air → Marine |
+
+### Step 4 · Level 50 type — Q11
+> *Where do you believe God dwells?*
+
+| Answer | Lv 50 type | Bonus | Next |
+|---|---|---|---|
+| In the heavens above | **Priest-Warrior** | Sophia affinity +1 | Q12 |
+| God does not exist | **Mage** | Sophia affinity −1 | Q14 |
+| In all things | **Archer** | — | Q13 |
+
+---
+
+## Layer 2 — Personality: stats, skills, items & affinity (Q12–Q27)
+
+No more branching by *type* — from here each answer simply grants rewards and
+points you to the next question. Pick the bonuses that suit your build.
+
+### Q12 — *If this world falls into crisis and ruin, what will save it?*
+| Answer | Reward | Next |
+|---|---|---|
+| Great and powerful gods | Learn **Force Heal 1**, INT +5, Merc-HP +1 | Q15 |
+| A wealth of knowledge | Learn **Thunder**, INT +8 | Q16 |
+| My own strength | STR +1, DEF +1, HP +2 | Q17 |
+
+### Q13 — *What do you demand of the troops you command?*
+| Answer | Reward | Next |
+|---|---|---|
+| More soldiers | Mercs +1, Merc-HP +1 | Q16 |
+| High morale | ATK +2, Merc-HP +1 | Q17 |
+| Perfect control | ATK +1, DMG +2 | Q18 |
+
+### Q14 — *What trait do you value most in an ideal army?*
+| Answer | Reward | Next |
+|---|---|---|
+| A powerful commander | STR +2, DEF +1, HP +2 | Q17 |
+| Impenetrable defense | DEF +1, DMG +2 | Q18 |
+| Power to smash and destroy | STR +1, ATK +2 | Q19 |
+
+### Q15 — *What do you seek most in life?*
+| Answer | Reward | Next |
+|---|---|---|
+| Power | **Longsword** | Q20 |
+| Wealth | Gold +80 | Q21 |
+| Knowledge | INT +4 | Q22 |
+
+### Q16 — *To what cause do you devote your life?*
+| Answer | Reward | Next |
+|---|---|---|
+| To protect the ones I love | Learn **Protection 1**, INT +2, CHA +2, affinity +1 with Tiaris/Liffany/Luna/Sophia/Freya | Q20 |
+| To strengthen myself | STR +2, DEF +1 | Q21 |
+| To fulfill my dreams | Learn **Attack 1**, INT +2 | Q22 |
+
+### Q17 — *While resupplying, the enemy has launched a surprise attack. What will you do?*
+| Answer | Reward | Next |
+|---|---|---|
+| Retreat | MOV +1, Merc-HP +1 | Q21 |
+| Counterattack | ATK +1 | Q22 |
+| Defend | DMG +1 | Q23 |
+
+### Q18 — *An ally unit is surrounded, but yours is also in danger. What would be your command?*
+| Answer | Reward | Next |
+|---|---|---|
+| Order a retreat | MOV +1, CHA −2, **Speed Boots** | Q22 |
+| Hold out for reinforcements | Learn **Protection 1**, INT +2 | Q23 |
+| Rush to their aid | Learn **Heal 1**, INT +2, CHA +2 | Q24 |
+
+### Q19 — *If you gained a great power, what would you use it for?*
+| Answer | Reward | Next |
+|---|---|---|
+| To protect my people | CHA +2, **Amulet** | Q22 |
+| To rule over all | DEF +2, STR +1 | Q23 |
+| To promote justice | Merc-HP +2, **Cross** | Q24 |
+
+### Q20 — *What does love mean to you?*
+| Answer | Reward | Next |
+|---|---|---|
+| Something given mutually | Learn **Force Heal 1**, INT +2, affinity +1 with Tiaris/Liffany/Luna/Freya | Q25 |
+| Something one receives | HP +3 | Q25 |
+| A source of infinite power | STR +2, DEF +1 | Q25 |
+
+### Q21 — *What do you wish of this world?*
+| Answer | Reward | Next |
+|---|---|---|
+| Love, hope and courage | STR +1, affinity +1 with Tiaris/Liffany/Luna/Sophia/Freya | Q25 |
+| Freedom to live as I please | INT +2, Mercs +1 | Q25 |
+| Order and unity | ATK +1, DMG +1 | Q25 |
+
+### Q22 — *What ability must the ruler of a nation possess?*
+| Answer | Reward | Next |
+|---|---|---|
+| Charisma | INT +2, CHA +2, Mercs +1 | Q25 |
+| Decisiveness | Learn **Quick**, INT +2, MDef(mind) +1 | Q25 |
+| Power to take action | HP +2, Mercs +1 | Q25 |
+
+### Q23 — *You must bid your lover farewell before battle. What do you do?*
+| Answer | Reward | Next |
+|---|---|---|
+| Dispel her fears | INT +3, CHA +2 | Q25 |
+| Hold her in a gentle embrace | HP +3, STR +1, CHA +2 | Q25 |
+| Leave, saying nothing | CHA +1, MDef(all) +1 | Q25 |
+
+### Q24 — *What does it mean to be a man?*
+| Answer | Reward | Next |
+|---|---|---|
+| A love that embraces all | INT +2, learn **Heal 1** | Q25 |
+| A burning soul | STR +1, Mercs +1 | Q25 |
+| A body like steel | DMG +1, HP +1, DEF +1 | Q25 |
+
+### Q25 — *When battle begins, what skill do you demand of yourself?*
+| Answer | Reward | Next |
+|---|---|---|
+| Vast tactical knowledge | INT +4 | Q26 |
+| Calm judgment | DMG +1, DEF +2 | Q26 |
+| Mighty power | STR +2, HP +2 | Q26 |
+
+### Q26 — *What do you look for in an ideal company?*
+| Answer | Reward | Next |
+|---|---|---|
+| A select few | ATK +3, DMG +2, Mercs −1, Merc-HP +1 | Q27 |
+| Strength in numbers | INT +2, Mercs +1, learn **Attack 1** | Q27 |
+| I alone am enough | STR +2, DEF +2, HP +2, INT +2, CHA +1, MDef(all) +1 | Q27 |
+
+### Q27 — *Lastly, for what purpose do you fight?*
+| Answer | Reward |
+|---|---|
+| To obtain glory and honor | STR +2, INT +2, CHA +2 |
+| To protect my homeland | INT +2, MDef(all) +1 |
+| To protect my loved ones | INT +2, DEF +1, learn **Protection 1**, affinity +1 with Tiaris/Liffany/Luna/Sophia/Freya |
+
+> **Build tip.** A caster-leaning hero wants Q11 → *In the heavens above* (Priest-
+> Warrior) plus the INT/skill answers; a frontline hero leans on the STR/HP/DMG
+> rows. The affinity answers (Q16, Q20, Q21, Q27) are the cheapest early way to
+> bank love index toward the best ending.
+
+
+
+# Scenario 01 — Assault on the Floating Castle
+*The day the sky fortress fell*
+
+> For ages, Larcuss had prospered, set between the Rigüler Empire to the north and allied Barral to the south. Above Larcussia, the Floating Castle kept peace.
+
+On the morning of his investiture, Diehärte Klaus's dream of knighthood is
+shattered: Field Marshal Altemüller's black-winged host descends on the Floating
+Castle under cover of the storm. This opening battle is a tutorial — and it
+cannot be won.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | "Total destruction of the enemy" — *unattainable by design* |
+| **Defeat** | Diehärte falls |
+| **Ends when** | Altemüller reaches and destroys the Magic Cannon (the crystal) |
+| **New allies** | — (prologue) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | Citizen ×2 (Lv 1) · Sir Gerold (Lv 48) · Marquis William (Lv 27) |
+| **Enemy** | **Field Marshal Altemüller (Lv 63)** · General Varna (Lv 32) · Hawk Knight ×3 (Lv 14) · Hawk Knight ×3 (Lv 1) · endless reinforcements |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| Top of the stairs to the **left of the crystal** | Magic Herb |
+| Behind the **broken pillar**, west side of the map | Magic Herb |
+
+## Walkthrough
+
+The victory line reads "destroy all enemies," but the reinforcements never stop —
+the scenario ends only when Altemüller breaks the **Magic Cannon**. You cannot
+save the castle, so don't try to hold it. Treat the fight as free experience:
+the rank-and-file cannot harm the crystal, so leave it undefended and farm kills,
+especially the **Lv 1 Hawk Knights**, before the end.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Throughout     Reinforcements are endless — do not try
+                to clear the map or defend the crystal.
+ Farming        Hunt the Lv 1 Hawk Knights for easy XP.
+ Scenario ends  When Altemüller destroys the Magical
+                Cannon, the castle falls.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+As the castle falls, Diehärte chooses his parting words to Tiaris — the first
+seed of her love index *(post-battle escape scene)*:
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 笑顔を見せて。 | Don't lose hope. | Tiaris −1 |
+| ジェリオールが‥‥ | Gerold needs us. | Tiaris +1 |
+| おいて行くぞ！ | You'll be left behind! | Tiaris −1 |
+
+
+
+# Scenario 02 — Madness in Laffel
+*Flight through a burning vice-capital*
+
+> Altemüller's scheme brought the Floating Castle crashing down. The young knight and his party barely escaped, and made their way to the city of Laffel.
+
+With the Floating Castle lost, Diehärte carries the wounded Gerold to the vice
+capital Laffel — only to find King Wilder of allied Barral has gone mad and
+turned on Larcuss. There is no winning this fight; the goal is to escape south
+with Layla and Tiaris alive.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Diehärte, Layla and Tiaris reach the **south edge** of the map |
+| **Defeat** | Diehärte falls · Layla falls |
+| **Turn 6** | King Wilder's host appears top-left and gives chase |
+| **New ally** | Silver Wolf (arrives turn 6) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | Citizen ×3 (Lv 1) · Layla (Lv 3) · *turn 6:* Silver Wolf (Lv 20) + bandit (Lv 2) |
+| **Enemy** | Dios (Lv 25) · Ruud (Lv 15) · Fighter ×4 (Lv 1) · Lord ×3 (Lv 1) · Knight (Lv 1) |
+| **Enemy (turn 6)** | **King Wilder (Lv 55)** · Barral Supreme Commander (Lv 20) · Highlord (Lv 19) · Gladiator (Lv 19) · Silver Knight ×2 (Lv 20) |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| Southwest **bare-grass patch** (clearing where the grass is worn away) | Ambrosia |
+| **East gate** plateau — climb the stairs, just below the top | Magic Herb |
+| Rescue **every villager** | Angel Ring |
+
+## Walkthrough
+
+Don't be fooled by the "defeat all enemies" line — you are outnumbered and
+out-leveled. Run **south**. The turn-6 wave led by King Wilder spawns at the
+top-left, so by then you should already be near the bottom and able to slip away
+cleanly. The starting Lv 1 fighters and lords are free experience if you have a
+spare turn or two before the chase begins.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Turns 1–5     Push south. Mop up the Lv 1 rabble for XP
+               and shepherd the three civilians along.
+ Turn 6        Silver Wolf joins; King Wilder's column
+               appears top-left and chases.
+ Goal          Get Diehärte, Layla and Tiaris onto the
+               southern edge to end the scenario.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None in this scenario.
+
+
+
+# Scenario 03 — The Sad-Eyed Master Swordsman
+*Ransch Village, half a year after the fall*
+
+> Field Marshal Altemüller's army had seized the Floating Castle and taken Larcussia, the royal capital, into its grip. Larcuss was a kingdom in name alone.
+
+Six months of rebuilding bring Diehärte to Ransch Village, where the necromancer
+**Grove** is raising the dead. Here the sorrowful swordsman **Gilbert** joins the
+cause.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Grove** |
+| **Defeat** | Diehärte falls · every civilian dies |
+| **New ally** | Gilbert (joins turn 2) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | Citizen ×3 (Lv 1) · **Gilbert (Lv 6, joins turn 2)** |
+| **Enemy** | **Necromancer Grove (Lv 16)** · Ghoul ×3 (Lv 3) · Ghost (Lv 3) · Coty (Lv 3) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| **Northeast**, in front of the building | — | Egil Helm |
+| **Northwest**, before the grave offering | Answer *yes*, then *yes* again | Nectar |
+| **North**, in front of the statue | Pick "Offer up flowers" (はなをささげる) | Bloody Lance |
+| — | Rescue **every villager** | Divine Blessing |
+
+## Walkthrough
+
+Grove keeps **resurrecting** his ghouls and ghost until he himself falls, so this
+is an excellent place to grind — farm the endless undead for experience, then
+close on Grove to end it. Keep your civilians screened; their deaths are a loss
+condition.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Turn 1        Engage the undead; protect the civilians.
+ Turn 2        Gilbert joins.
+ Grind         Grove revives his minions endlessly —
+               farm XP as long as you like.
+ Finish        Kill Grove to win.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+Item choices are listed under **Buried treasure** above. One love-index nudge
+turns on **whom Gilbert fights**:
+
+| If Gilbert duels… | Effect |
+|---|---|
+| **Grove** | Tiaris +1 |
+| **Coty** | Tiaris −1 |
+
+
+
+# Scenario 04 — General Geier
+*The mountain road to Baron Torrand's manor*
+
+> Escort the Larcuss survivors through the hills while General Geier's hunting
+> party closes in. **Pierre** and **Liffany** join your cause here — and one
+> mischievous "wrong turn" can crack open the game's very first secret stage.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat every enemy unit *except* General Geier |
+| **Defeat** | Diehärte falls · every NPC is lost |
+| **New allies** | Pierre, Liffany (after the battle) |
+| **Secret** | Sets up **Stage ?1 — The Legendary Beef Noodle House** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | Citizen ×2 (Lv 4) · Pierre (Lv 10) · Liffany (Lv 10) |
+| **Reinforcement** | Luna with 3 knights, around turn 5–6 |
+| **Enemy** | **General Geier (Lv 35)** · Knight ×2 (Lv 10) · Lord ×2 (Lv 9) · Fighter ×2 (Lv 7) · Fighter (Lv 10) · Hawk Knight ×2 (Lv 8) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Small hole mid-map clearing | Pick "Cover it with earth" (土をかぶせる) | 500 P |
+| ↑ same spot | Pick "Stomp your feet" (足をふみならす), then ask for something | Magic Herb |
+| ↑ same spot | Pick "Stomp your feet" (足をふみならす), then *don't* ask | Egil Helm |
+| — | Keep every citizen alive to the end | Divine Blessing |
+
+## Walkthrough
+
+The enemy's **flying units** are the real danger — they swing wide to hit your
+column from behind, so screen your soft units with spears and bows. General
+Geier himself towers above your level; victory only needs the *rest* of his
+troop cleared, so never trade lives trying to fell him.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Turn 1        The lone Lv 10 Fighter withdraws.
+ Turn 2        You're asked how to handle the NPCs —
+               send them toward Diehärte, away from the
+               fliers in the open.
+ Turn 5–6      Luna charges in with three knights.
+ After battle  Pierre and Liffany join the army.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+A choice is only a trigger — it fires the line of dialogue beside it.
+
+### Which way do the citizens run?
+The survivors ask Diehärte where to flee:
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 東へ逃がす | Escape to the east | the safe road |
+| 西へ逃がす | Escape to the west | the *wrong* way (Liffany corrects him) — a ?1 nudge |
+
+### Pierre asks about the wrong turn
+Later, Pierre wonders aloud: *What do you reply?*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ただの冗談 | It was a joke | — |
+| 実は方向オンチ | Bad with directions | Liffany +1, Tiaris −1 |
+| 仲間の方向感覚を試した | It was a test | ★ **Secret ?1 trigger** |
+
+### After the battle — Tiaris teases you
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ムッとする | Get upset | — |
+| 素直に謝る | Apologize honestly | — |
+| すねる | Pout | Tiaris −1 |
+
+### Pierre and Liffany join
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| よろしく頼む。 | Welcome them | — |
+| 女性に戦わせるのは‥‥。 | Making women fight… | Liffany +1 |
+| 何も言わない。 | Say nothing | Liffany −1 |
+
+## Stage ?1 — The Legendary Beef Noodle House
+
+Pull off all four steps and the hidden stage opens once this scenario ends:
+
+```
+ ╓─ UNLOCKING STAGE ?1 ────────────────────────────────╖
+ ║                                                      ║
+ ║  Turn 1         Move Lewin beside Diehärte.          ║
+ ║                                                      ║
+ ║  End of Turn 2  Lewin asks about the citizens →      ║
+ ║                 answer YES, then WEST.               ║
+ ║                                                      ║
+ ║  Any turn       Move Diehärte beside Pierre →        ║
+ ║                 his direction question → reply       ║
+ ║                 "It was a test" (3rd option).        ║
+ ║                                                      ║
+ ║  After battle   Tiaris speaks → choose the 1st       ║
+ ║                 option.                              ║
+ ║                                                      ║
+ ╙──────────────────────────────────────────────────────╜
+```
+
+
+
+# Stage ?1 — Hidden Gyudon Restaurant, A true story
+*Diehärte's sense of direction strikes again*
+
+> Hiding his terrible sense of direction, and stubborn besides, Diehärte guides the party toward Baron Torrand's mansion.
+
+A "wrong turn" born of Diehärte's hopeless sense of direction leads the party deep
+into the unknown — and to a legendary beef-bowl shop run in the middle of nowhere.
+
+## Unlocking ?1 (during Scenario 04)
+
+```
+ ╓─ UNLOCKING STAGE ?1 ────────────────────────────────╖
+ ║  Turn 1         Move Lewin beside Diehärte.          ║
+ ║  End of Turn 2  Lewin asks about the citizens →      ║
+ ║                 answer YES, then WEST.               ║
+ ║  Any turn       Move Diehärte beside Pierre → his    ║
+ ║                 direction question → "It was a test" ║
+ ║                 (3rd option).                        ║
+ ║  After battle   Tiaris speaks → choose the 1st       ║
+ ║                 option.                              ║
+ ╙──────────────────────────────────────────────────────╜
+```
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Get **every member into the restaurant** |
+| **Defeat** | Any member dies · fail to order within **20 turns** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **"NPC"** | The cook (Citizen Lv 3) · the bunny girl (Citizen Lv 1) · Altemüller (Lv 66) · Varna (Lv 32) · Bortz (Lv 48) · Geier (Lv 36) — *the generals do **not** attack* |
+| **Enemy** | Gell Gust ×8 (Lv 10) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Southeast of the shop — a clearing with a pillar at its centre | Pick "Just watch it" (じっと見つめる) | Mercenary Attack +1 |
+| At the counter | Eat gyudon → "The whole crew" (全員) (1750 P) | All **male** members' Vitality +1 |
+
+## Walkthrough
+
+A pure novelty stage: just walk **everyone into the restaurant**. The fearsome
+Imperial generals lounging inside **won't lift a finger** — they're only here for
+the noodles. Buy a round (it isn't cheap) for **+1 endurance to every male** in the
+party.
+
+## Branching dialogue
+
+### Reaching the bunny girl
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 教えないとケガするぞ | Tell me, or else. | Liffany −1 |
+| 楽しみは取っておこう | Save it for later. | — |
+
+### After the gell are cleared
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| いやだ | Not a chance | Liffany −1 |
+| わかった | Understood | — |
+
+### Everyone reaches the shop
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 自分だけ | Only yourself | Liffany, Luna & Tiaris −1 |
+| 女の子だけ | Just the girls | Liffany, Luna & Tiaris −1 |
+| 全員 | The whole crew | Liffany, Luna & Tiaris +1 |
+
+> Run out the 20-turn clock and Liffany, Luna & Tiaris −1.
+
+
+
+# Scenario 05 — Brilliant General Emerick
+*Reaching Baron Torrand's manor*
+
+> Field Marshal Altemüller, informed by Geier, sent Emerick to Torrand's manor to strike before Diehärte's party arrived.
+
+Geier's tip sends the resourceful **General Emerick** to intercept Diehärte at
+Baron Torrand's estate. The baron's daughter **Luna** fights at your side — and
+from this scenario on, your conduct in battle quietly shapes **Luna's love
+index** (see *The Heroine System*).
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Emerick** · clear the intercept force · all allies reach the castle |
+| **Defeat** | Diehärte falls · Baron Torrand falls |
+| **Allies** | Luna, Baron Torrand and his men |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | Luna (Lv 10) · Baron Torrand (Lv 20) · Highlord ×2 (Lv 14) · Archer ×2 (Lv 10) · Citizen ×2 (Lv 5) |
+| **Enemy** | **General Emerick (Lv 28)** · Lord ×4 (Lv 12) · Knight ×4 (Lv 13) · Fighter ×4 (Lv 11) · Gladiator ×2 (Lv 20) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Clearing **ringed by 3 trees**, beside your spawn | Pick "Strike a pose" (決めポーズをとる) | Laurin's Ring |
+| **Southeast** — the one frame whose carved face is **upside-down** | Pick "It intrigues me" (気になるからだ) | Devil Axe |
+| **Northeast**, the water-gate switch | Stand a unit on it | Holy Talisman |
+| — | Keep **all of Baron Torrand's men** alive | Gleipnir |
+
+## Walkthrough
+
+Emerick holds off attacking Torrand until every civilian has escaped, which buys
+you time — but **Luna charges straight for the castle** and will be swarmed if you
+don't keep pace. The **gladiators** flanking the castle hit hard enough to grind
+your highlords to pulp, so deal with them deliberately. Clearing fast also feeds
+Luna's love index.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Opening       Escort the civilians out; Emerick waits.
+ Keep pace     Follow Luna toward the castle so she is
+               not overwhelmed alone.
+ Flanks        Kill the east/west gladiators before they
+               break your highlords.
+ Finish        Down Emerick and get everyone to the
+               castle. Quick wins raise Luna's index.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+No spoken-line choices; the item triggers above are the only decisions. From here
+through Scenario 30, finishing battles quickly and meeting secondary objectives
+nudges **Luna's love index** upward — her line *"A splendid command, Lord
+Diehärte"* after a battle is the tell that it rose.
+
+
+
+# Scenario 06 — Enemies on all Sides
+*Turning two armies against each other*
+
+> With Luna, the baron's daughter, beside him, Diehärte made for the Rigüler-Barral border to carry out Torrand's clever plan.
+
+At the Rigüler–Barral border, Diehärte executes Baron Torrand's plan: make the
+Empire and Barral believe the other struck first, let them tear into each other,
+and slip away in the confusion.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies — *or* set the two armies fighting and retreat all allies across the cliff |
+| **Defeat** | Diehärte falls |
+| **Watch out** | Stall too long and the **Dark Knight** appears |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | — |
+| **Enemy** | Sorcerer ×4 (Lv 14) · Hawk Knight ×3 (Lv 14) · Knight ×5 (Lv 14) · Lord ×5 (Lv 14) · Fighter ×3 (Lv 14) |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| Inside the **largest tent**, north of the map | Gjallarhorn |
+
+## Walkthrough
+
+You do **not** have to beat everyone. The green units are Rigüler, the blue are
+Barral. Dash your fastest units up to **both** armies until they start arguing
+among themselves, then fall back to your starting point to end the scenario — this
+can be one of the quickest maps in the game. Dawdle and the **Dark Knight**
+arrives, and that is a fight you do not want yet.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Race          Send fast units to provoke BOTH the green
+               (Rigüler) and blue (Barral) forces.
+ Trigger       Once they turn on each other, retreat all
+               allies back across the cliff.
+ Caution       Too slow → the Dark Knight joins. Avoid.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None. (Should you meet the **Dark Knight** here or in Scenario 16, do **not**
+defeat them — it lowers Freya's love index, which you need for the best ending.)
+
+
+
+# Scenario 07 — Mountain Pass Reunion
+*A meeting both nostalgic and sorrowful*
+
+> The plan to spark war between the Rigüler and Barral armies had succeeded. This would buy the party a little time.
+
+On the road to the Lushiris Gate, Diehärte meets **Freya** in arms against him —
+the first of the duels that decide her fate. Freya is **essential for the best
+ending**, so how you fight her matters as much as whether you win.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Freya** |
+| **Defeat** | Diehärte falls |
+| **New ally** | — (Freya's persuasion arc *begins* here) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Freya (Lv 20)** · Silver Knight ×5 (Lv 15) · Fighter ×4 (Lv 12) · Lord ×3 (Lv 11) · Lord ×3 (Lv 15) · Archer ×2 (Lv 13) · Archer ×2 (Lv 15) · Mage ×2 (Lv 15) · Hawk Knight ×2 (Lv 14) |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| Northern end of the **central waterway** | Kusanagi |
+
+## Walkthrough
+
+Freya sits behind a wall of troops, but the formation cracks if you advance
+slowly and exploit the unit triangle. **Leave an enemy or two standing** — wiping
+out every unit drops Freya's love index, and you want it high.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Advance       Push in slowly; use cavalry/infantry/spear
+               matchups instead of brute force.
+ Persuade      Move Diehärte adjacent to Freya, or simply
+               stand beside her and let her strike first —
+               both open a persuasion scene.
+ Avoid         Do NOT have Diehärte attack Freya, and do
+               NOT clear every enemy (each is Freya −1).
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Luna urges you to mass your forces
+*Field choice — budget 11 tiles (balloon width − cursor).*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| そんな事はない | There's no need | Luna −1 |
+| そのつもりだ | My plan exactly | Luna +1 |
+| わかった | You're right | — |
+
+### After the battle — Freya's flashback
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ごめんよ。 | I'm sorry. | Freya +1 |
+| その通りだ。 | That's right. | Freya −1 |
+| 今まで楽しかったよ。 | It was fun. | — |
+
+> From here through Scenario 31 you can court Freya. Choices marked **persuasion**
+> build toward her joining in Scenario 34. See *The Heroine System*.
+
+
+
+# Scenario 08 — The Southern Lushiris Gate
+*Brave Do Kahni bars the way*
+
+> Long ago, the Lushiris Gate was built to hold back the monsters. On its four sides stood lesser gates to reinforce its power.
+
+The ancient Lushiris Gate once held back the monsters; now, with the barrier
+silent, Diehärte hurries to restore it — only to find **Do Kahni** lying in wait.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Do Kahni** |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Do Kahni (Lv 18)** · Shika Hunter ×5 (Lv 10) · Shaman ×4 (Lv 10) · Wolf Knight ×4 (Lv 12) · Shika Spear ×2 (Lv 13) · Swimmer ×2 (Lv 12) · Fighter ×2 (Lv 10) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| The **moon's reflection** floating on the moat, near the bridge | Pick "Throw in 10P" (１０Ｐ投げる), then answer *no* | Celestial Robe |
+
+## Walkthrough
+
+Race for the **small isle** ringed by the river, where Do Kahni stands. He casts
+a fire spell that sends a **wall of flame sweeping left-to-right** across the
+whole map, scorching everything in the open. The water around the isle shields
+you, so get your units onto it before the fire rolls through.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Rush          Move toward Do Kahni's river isle fast.
+ Fire wall     His spell sends flame across the map —
+               stand on the water-ringed isle to be safe.
+ Finish        Cut down Do Kahni to win.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None (the item trigger above is the only choice).
+
+
+
+# Scenario 09 — Shaman Attack
+*Into the Shika Tribe's forest*
+
+> Sophia, keeper of the southern gate, had been abducted by the Shika tribe. Worse, they meant to use her as a sacrifice in a ritual.
+
+Sophia, keeper of the southern gate, has been carried off by the Shika Tribe.
+Diehärte plunges into their forest to save her — where the shaman **Kah Shind**
+turns the very air against him.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls |
+| **Second wave** | Emerick's troops arrive top-right once the Shika fall |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy (Shika)** | **Kah Shind (Lv 20)** · Shika Summoner ×2 (Lv 16) · Shika Archer (Lv 16) · Gladiator ×2 (Lv 16) · *turn 2:* Shika Spear ×2 (Lv 16) |
+| **Enemy (2nd wave)** | **Emerick (Lv 30)** · Silver Knight ×2 (Lv 20) · High Lord (Lv 18) · High Lord (Lv 19) · Archer ×2 (Lv 17) · Gladiator ×2 (Lv 17) · Mage ×2 (Lv 19) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Centre of the **stone circle**, northeast of the map | Pick "Open the white box" (白い箱を開ける) | Amulet |
+| ↑ same spot | Pick "Open the black box" (黒い箱を開ける) | Dark Vestments |
+
+## Walkthrough
+
+The map is dense forest, so keep **cavalry out of the trees** (they fight poorly
+there). Around turn 4–5 **Kah Shind summons a fog** that blocks *your* magic
+while enemy shamans keep casting — kill Kah Shind to clear it. Once every Shika
+is down, **Emerick** and his column appear at the top-right; regroup before you
+engage them.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Forest        Fight with infantry/spears; spare cavalry.
+ Turn 4–5      Kah Shind's fog kills your spellcasting —
+               hunt him down to lift it.
+ Wave 2        After the Shika fall, Emerick attacks from
+               the top-right. Re-form, then finish them.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### After the enemy's boast (to Liffany)
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 勝てるだろうか？ | Can we even win? | Liffany −1 |
+| だが負けられない。 | But we can't lose. | Liffany +1 |
+| 楽勝さ！ | We'll win! | — |
+
+
+
+# Scenario 10 — Ceremony of Scorching Heat
+*Rescue Sophia before the ritual*
+
+> Lord Raymond battled General Bortz, while General Geier set out to retake Laffel, now held by the Barral army.
+
+Beneath the full moon the Shika prepare to sacrifice **Sophia**. Beat their chief
+**Keh Shikairo** in time and she joins you — but the demon general **Worm Master
+Rag** is waiting in the wings. This is also where **secret Stage ?2** can be set in motion.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Keh Shikairo within 19 turns** → then defeat **Kah Shind or Worm Master Rag** |
+| **Defeat** | Diehärte falls · Sophia falls *(after Keh Shikairo: only Diehärte)* |
+| **New ally** | **Sophia** (becomes controllable beside Keh Shikairo) |
+| **Secret** | Can set up **Stage ?2 — Successive Heroes** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy (phase 1)** | **Keh Shikairo (Lv 25)** · Shika Summoner ×4 (Lv 16) · Shika Archer ×2 (Lv 16) · Shika Spear ×3 (Lv 16) · Shika Wolf (Lv 16) · Gladiator ×2 (Lv 16) |
+| **Enemy (phase 2)** | **Worm Master Rag (Lv 38)** · **Kah Shind (Lv 20)** · Great Priest (Lv 20) · Duraham (Lv 20) · Gellgust ×2 (Lv 15) · Shika Summoner (Lv 20) · Gladiator (Lv 20) · Shika Spear (Lv 20) |
+| **Allies** | Sophia · surviving Shika turn NPC · Do Kahni (1 turn after Rag) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northwest dead-end — a **face drawn on the ground** (look closely) | Pick "Pray before it" (お祈りする) | Aeneas Armor |
+| ↑ same spot | Pick "Scribble on it" (落書きする) | Magical Bikini |
+
+## Walkthrough
+
+**Down Keh Shikairo within 19 turns** to free Sophia; rush him, since the timer
+is the real threat. When he falls, **Worm Master Rag and his demons** appear — Rag
+from your own starting point, Do Kahni a turn later at the bottom-right — and the
+surviving Shika switch to your side and charge Rag. Sophia becomes playable next
+to Keh Shikairo.
+
+> **Sophia's love index:** in any battle with a secondary objective, clearing all
+> *human* enemies instead of meeting that objective lowers it (demons are exempt).
+> Her tell is *"We needn't have wiped them out…"* (Sophia −1).
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ ≤ Turn 19     Kill Keh Shikairo to rescue Sophia.
+ Phase 2       Rag + demons spawn; freed Shika help you.
+ Do Kahni      Joins as NPC one turn after Rag appears.
+ Finish        Defeat Kah Shind or Worm Master Rag.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### On rescuing Sophia
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 無事でなによりです。 | Glad you're safe. | — |
+| 敵に情けは無用だ。 | No mercy for them. | Sophia −1 |
+| 優しいんですね。 | You're so kind. | Sophia +1 |
+
+### Sophia beside Diehärte
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 石をもらってくれ | Take this stone. | — |
+| 君を守るためだ | I came to protect you | Sophia +1 |
+| 何もない | It's nothing | — |
+
+### After the battle — addressing the party
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| みんな、行くぞ！ | Let's go everyone! | Tiaris +1, other females −1 |
+| 無理するな、ソフィア | Don't push it, Sophia | Tiaris & Sophia +1, others −1 |
+| ソフィアに期待するよ | Do your best, Sophia | Liffany & Sophia +1, others −1 |
+| ゲートを解放しなければ | We must open the gate | Liffany & Luna +1, others −1 |
+| 何も言わない | Say nothing. | all females −1 |
+
+> See **Stage ?2** for the steps that begin here.
+
+
+
+# Stage ?2 — Successive Heroes
+*The heroes of legend, summoned by a wandering stone*
+
+> The Time and Space Warping Stone, received from the Great Chief of the Shika Tribe.
+
+A Time-and-Space Warping Stone, given long ago by the Great Sage, pulls Diehärte
+into a clash with the **heroes of ages past** — Ledin, Elwin and their famous
+companions from the Langrisser legends.
+
+## Unlocking ?2 (during Scenario 10)
+
+After rescuing Sophia: move Diehärte beside **Do Kahni** → "Are your wounds
+healed?"; then beside **Keh Shikairo** → ask about the stone (he reveals it is a
+time-crossing relic) → choose **"May I have it"** (2nd option); then beside
+**Sophia** → ask her to **accept the stone**; finally bring **Sophia and Keh
+Shikairo** next to each other.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Ledin and Elwin** |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Ledin (Lv 33)** · **Elwin (Lv 34)** · Chris (Lv 27) · Narm (Lv 27) · Cherie (Lv 28) · Liana (Lv 28) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Central **stone circle** | Pick "A sacrifice ritual" (生け贄の儀式) → "Holy Beast" (聖獣) | Dragonlord Staff |
+| ↑ same spot | Pick "A sacrifice ritual" (生け贄の儀式) → "Your own blood" (己の血) (**HP −10**) | Blood Pact |
+| — | Defeat **all enemies** | Hero's Stone |
+
+### The heroes' questions (lore Easter egg)
+Answer "yes" to the *"can't you get a date?"* prompt near Ledin/Elwin, then
+approach each hero for a question:
+
+| Hero | Answer (JP balizador / in-game EN) | Reward |
+|---|---|---|
+| Ledin | 補助魔法ができた / "Support magic added" | 500 P |
+| Cherie | カルザス / "Kalxath" | Power Fruit |
+| Chris | レディンと結婚した / "She married Ledin" | Cross |
+| Elwin | ベルンハルト / "Bernhardt" | Valor Seed |
+| Narm | ランス / "Lance" | Wisdom Fruit |
+| Liana | アルハザードと共に消滅 / "Gone with Alhazard." | Guard Fruit |
+
+## Walkthrough
+
+**Ledin and Elwin fight each other** at the start. You may let the legends settle
+it themselves, or take them all on. On the first encounter they speak: choosing
+the **1st option** makes them ally *against you* (and opens the items above); the
+**2nd** forces you to bench two of your own — who stay hostile.
+
+> You may field only a few members here; any **female left out** loses 1 love index.
+
+## Branching dialogue
+
+### Opening — conversation with Tiaris
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| その通りだ | Admit it | Tiaris −1 |
+| それは気のせいだ | Deny it | — |
+
+
+
+# Scenario 11 — The Enchantress
+*The bewitching woman in the woods*
+
+> Having saved Sophia from the Shika Tribe's altar, the party took her in and set out for the eastern gate.
+
+A frightened "civilian" begs your escort through the forest — but she is the demon
+**Feraquea** in disguise, and the trap springs the moment you cross the bridge.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Get the NPC to safety → then defeat **Feraquea** once she reveals herself |
+| **Defeat** | Diehärte falls · the NPC dies |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | "Civilian" (Lv 34) — *Feraquea in disguise* |
+| **Enemy** | Stone Golem ×2 (Lv 22) · Cerberus ×2 (Lv 22) · Troll (Lv 22) |
+| **Enemy (after the reveal)** | **Feraquea** · Sea Serpent ×2 (Lv 20) · Wing Bat ×2 (Lv 20) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northeast — the **crumbled rock** | Offer "Tiaris" (ティアリス) — Tiaris −1 — *or* "1000P" (１０００Ｐ) | Artemis Bow |
+
+## Walkthrough
+
+You must keep the "civilian" alive — **her death is an instant loss**, even though
+you already suspect what she is. Escort her toward the bridge; once across, she
+transforms into **Feraquea** and fresh demons rise from the river at the bottom
+of the map. Only then can you turn on her. Play it through to the reveal rather
+than trying to end it early.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Escort        Shield the "civilian"; her death = defeat.
+ Bridge        Crossing it triggers her change into
+               Feraquea; sea serpents and bats spawn.
+ Finish        Now defeat Feraquea.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### After Feraquea appears (to Luna)
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 気にするな。 | Don't worry about it | Luna +1 |
+| 君ほどの人が困るな。 | Even you can slip. | Luna −1 |
+| 黙っている。 | Remain silent. | — |
+
+
+
+# Scenario 12 — The Wise Sage Fauvel
+*A race against the clock at the north gate*
+
+> Having defeated Velzeria's Demon General Feraquea, the party pressed on toward the eastern gate, ruled by Sage Fauvel.
+
+Past Feraquea, the party reaches the eastern gate to find an Imperial force —
+and the strategist **Fauvel**, whom they must save before the clock runs out.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Destroy all enemies **within 14 turns** *(then clear the reinforcements)* |
+| **Defeat** | Diehärte falls · Fauvel falls · time runs out |
+| **New ally** | **Fauvel** (joins after the battle) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Fauvel (Lv 20) |
+| **Enemy** | **Gladiator (Lv 26)** · Gladiator (Lv 18) · High Lord ×2 (Lv 18) · Dragon Knight ×2 (Lv 18) · Silver Knight ×2 (Lv 18) · Archer (Lv 17) · Mage (Lv 17) · Priest (Lv 18) |
+| **Reinforcement** | **Emerick (Lv 35)** · Dragon Knight ×2 (Lv 20) · *later:* Silver Knight ×2 (Lv 17) · Gladiator (Lv 17) |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| East bank — the **central small stone** in the lowest row | Black Suit |
+
+## Walkthrough
+
+The 14-turn counter is the danger, and there's a trick to it: **kill the Lv 26
+gladiator by the bridge** to stop the clock. Clear the opening force and
+**Emerick** arrives at the bottom-left cliff (one of your start points) with two
+dragon knights at mid-bottom. Fauvel joins once the dust settles.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Stop clock    Kill the Lv 26 gladiator near the bridge.
+ Clear         Wipe the opening force.
+ Emerick       Spawns bottom-left with dragon knights —
+               regroup and finish.
+ After battle  Fauvel joins the army.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### During the battle (to Sophia)
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 急ごう！ | We have to hurry! | — |
+| 大丈夫だ。 | He will be alright. | Sophia +1 |
+| 厳しいな‥‥。 | It looks grim… | Sophia −1 |
+
+
+
+# Scenario 13 — To Hunt a Holy Beast
+*The guardian of the eastern gate*
+
+> Sage Fauvel, Sophia's father and east gatekeeper, joined them. Diehärte's force made for the west gate as Raymond strove for the north.
+
+The fourth gate's warden is no man but the **Holy Beast Jugler**. Find him within
+the temple and he will lend his strength.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls · Jugler falls |
+| **New ally** | **Jugler** (in the 2nd room, left wing; joins after battle) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Jugler (Lv 23, once found) |
+| **Enemy** | **Ruud (Lv 30)** · High Lord ×4 (Lv 29) · Gladiator (Lv 27) · Gladiator ×2 (Lv 21) · Gladiator ×2 (Lv 20) · Silver Knight ×2 (Lv 22) · Silver Knight ×2 (Lv 20) · Dragon Knight ×2 (Lv 22) · Archer (Lv 22) |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| **Northeast** small room | Divine Blessing |
+| **Southwest** small room | Ambrosia |
+
+## Walkthrough
+
+This is an indoor fight, and **cavalry move poorly inside the temple** — lead with
+infantry and fliers. Push to the **2nd room on the left wing** to find Jugler;
+he joins once the battle is won.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Indoors       Cavalry are slowed; rely on foot and air.
+ Find Jugler   2nd room, left wing of the temple.
+ Finish        Clear every enemy; Jugler then joins.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+This scenario has no love-index or item-trigger choices. *(The "whose opinion
+on the Sword of Decimation" choice belongs to the **Scenario 14** opening
+cutscene — see there.)*
+
+
+
+# Scenario 14 — Dios on the Run
+*A deserter worth saving*
+
+> Diehärte and the others restored the four gates to their proper power. Then, in a blaze of dazzling light, Lushiris Gate woke once more.
+
+With the four gates restored, the party catches up to **General Dios**, fleeing
+Barral and hunted on all sides — and to **Freya**, sword drawn once more.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Freya** |
+| **Defeat** | Diehärte falls · Dios falls |
+| **New ally** | **Dios** (joins after battle) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Dios (Lv 25) |
+| **Enemy** | **Freya (Lv 33)** · Serpent Knight ×3 (Lv 22) · Serpent Knight ×2 (Lv 23) · Silver Knight ×3 (Lv 23) · Silver Knight (Lv 25) · Dragon Knight ×2 (Lv 23) · Gladiator ×2 (Lv 22) · Gladiator (Lv 23) · High Lord (Lv 25) · High Lord (Lv 23) · Mage (Lv 23) · Mage (Lv 25) · Archer (Lv 23) · Archer (Lv 25) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northwest grassland — the stone in the **dark-green grass** | Pick "Cut it with your sword" (剣で斬る) | Lance |
+| ↑ same spot | Pick "Remove it by hand" (手で取り払う) | Zuftaf |
+
+## Walkthrough
+
+The **serpent knights spring the moment you touch the water**, so move fast and on
+your terms. **Dios is badly outnumbered** and will try to break for the water — he
+is strong but cannot hold against the whole enemy line, so relieve the pressure on
+him early. He joins after the battle.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Water         Touching it wakes the serpent knights —
+               choose your moment.
+ Save Dios     Relieve him before he is swarmed.
+ Persuade      Court Freya (see below); avoid attacking
+               her directly.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Opening — whose opinion on the Sword of Decimation
+*Field choice — budget 11. Diehärte asks one of the party her view on retrieving the sword.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ティアリス | Tiaris | Tiaris +1, other females −1 |
+| リファニー | Liffany | Liffany & Luna +1, other females −1 |
+| ルナ | Luna | Luna +1, other females −1 |
+| ソフィア | Sophia | Sophia +1, other females −1 |
+| レイラ | Layla | all females −1 |
+
+### Diehärte beside Freya
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 彼は渡せない。 | We won't. | — |
+| 剣をひけ、フレア。 | Stand down, Freya. | *persuasion* |
+| 力ずくでも止めてみせる。 | Stop you by force. | Freya −1 |
+
+### After all but Freya are defeated
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 落ち着かせる | Calm her down | Freya −1 |
+| 受けて立つ | Take her on | Freya −1 |
+| 戦う理由をたずねる | Ask her why she fights | *persuasion* |
+
+> Attacking Freya yourself is Freya −1. Clearing every enemy raises **Luna +1**
+> (her *"a splendid command"* line).
+
+
+
+# Scenario 15 — The Sword of Decimation
+*A vault of relics, and thieves racing for them*
+
+> Dios, hunted by Barral, joined them, and the party hurried to the Estool ruins, where the Decimation Sword, brought from afar long ago, now sleeps.
+
+The legendary **Sword of Decimation** lies in a treasure-vault stronghold — and a
+band of thieves means to plunder it first. This is the richest map in the game;
+grab everything before they flee with it.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls · the **Sword of Decimation is stolen** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | Assassin (Lv 24) · Thief ×5 (Lv 19) · Horse Knight ×2 (Lv 17) · Silver Knight ×3 (Lv 17) · High Lord ×3 (Lv 17) · Archer ×2 (Lv 17) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| **West** clearing | — | Achilles Shield |
+| **Southwest** building entrance (**fliers only**) | Pick "Black switch" (黒いスイッチ) | Dark Vestments |
+| ↑ same spot | Pick "Red switch" (赤いスイッチ) | Kunai |
+| **East**, centre of the **3 bushes** | Leave the statue, then name it "Odin" (オーディン) | Hadding |
+| **Northwest** vault 1 | — | Magical Bikini |
+| **Northwest** vault 2 | — | Crystal Ankh |
+| **Northeast** vault | — | Divine Blessing |
+| **Southeast** vault | — | Seed bundle (Valor Seed, Vitality Leaf, Wisdom Fruit, Power Fruit, Strength Fruit, Protection Fruit) |
+| **South** vault | — | Power Ring |
+| **Central** vault | — | **Decimation Sword** (the Sword of Decimation) |
+
+## Walkthrough
+
+The **thieves dash for the vaults and try to escape with whatever they grab**, so
+this is a race — spread out and beat them to the treasure, above all the **central
+vault** holding the Sword. Your start is **forested on one side** (bad for cavalry,
+and enemy spearmen press you there early); the **narrow alley on the right** is
+open ground, so send horsemen through it instead.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Race          Reach the vaults before the thieves loot
+               and flee — the central Sword above all.
+ Routing       Keep cavalry out of the forested side;
+               use the right-hand alley.
+ Finish        Clear every enemy to win.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### After the battle (to Luna)
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| なるほど。 | I see. | — |
+| わかりきった事だ。 | It's obvious. | Luna −1 |
+| さすがだな。 | You're incredible. | Luna +1 |
+
+
+
+# Scenario 16 — Call to Arms
+*Drawing the Dark Knight away from Laffel*
+
+> With many allies won, and the Decimation Sword now theirs, Diehärte and his force had grown strong enough at last to retake Laffel's capital.
+
+To retake Laffel, the Dark Knight stationed there must first be lured off. A
+diversionary strike on Roguil Fort is the bait — and an informer left in the city
+is essential.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Annihilate all enemies |
+| **Defeat** | Diehärte falls |
+| **Watch out** | Stall too long and the **Dark Knight** appears |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | General ×3 (Lv 30) · Sniper ×2 (Lv 30) · Highlander ×2 (Lv 30) · Swordsman (Lv 30) · Arch Mage ×3 (Lv 22) · High Lord ×2 (Lv 25) · Lord (Lv 25) · Gladiator ×2 (Lv 25) · Archer ×4 (Lv 23) · Archer ×2 (Lv 27) · Mage ×3 (Lv 18) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Behind the **statue inside the castle** | Pick "Stare at it motionless" (じっと見つめる), then offer **1000 P** | Immortal Crest |
+| Southwest, the green patch inside the **wooden-spike barricade** | Pick "Threaten the bird" (脅かす) | Divine Blessing |
+
+## Walkthrough
+
+It looks fearsome but plays cleanly. Open with your **mages**, whose range tops
+the enemy **archers and snipers**, then send **fliers** to flank the spellcasters.
+Be patient — but not slow: drag the fight out and the **Dark Knight** joins, and
+that is a fight to avoid (and never *win*, lest Freya's index fall).
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Soften        Mages out-range and kill archers/snipers.
+ Flank         Fliers swing onto the enemy mages.
+ Tempo         Push steadily; too slow → Dark Knight.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Opening — buy a girl a present
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ティアリスに。 | For Tiaris | Tiaris +2, other females −1 |
+| リファニーに。 | For Liffany | Liffany +2, other females −1 |
+| ルナに。 | For Luna | Luna +2, other females −1 |
+| ソフィアに。 | For Sophia | Sophia +2, other females −1 |
+| 買わない。 | Don't buy it | Freya +1 |
+
+### Opening — talking with Freya
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 君に会うために。 | To meet with you. | Freya +1 |
+| ダークナイトと戦うため。 | To fight him. | Freya −1 |
+| 友人が心配で。 | Worried for a friend. | — |
+
+
+
+# Scenario 17 — Operation Recapture Laffel
+*Street fighting for the vice capital*
+
+> Having stormed Fort Rogier and lured the Dark Knight far away from Laffel, the young knight's detachment turned, as planned, and pressed on toward Laffel.
+
+With the Dark Knight drawn off to Roguil Fort, Diehärte's detachment marches on
+Laffel — where **Freya** stands at the heart of a packed garrison. One of the
+hardest fights so far.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Freya** |
+| **Defeat** | Diehärte falls |
+| **New ally** | **Silver Wolf** (appears as NPC, joins after battle) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Silver Wolf |
+| **Enemy** | **Freya (Lv 35)** · High Lord ×4 (Lv 27) · High Lord ×4 (Lv 29) · Highlander ×4 (Lv 31) · Highlander ×2 (Lv 34) · Gladiator ×4 (Lv 27) · Gladiator ×2 (Lv 29) · General (Lv 32) · Sniper (Lv 32) · Arch Mage (Lv 31) · Archer ×3 (Lv 28) · Mage (Lv 28) · Silver Knight ×2 (Lv 29) · Dragon Knight ×2 (Lv 31) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Church window, **east** side (near Freya) | Pick "Promise to free Laffel" (ラフェル解放を約束する) | Veil of Light |
+| Church window, **west** side (near Freya) | Pick "Give her candy" (アメをあげよう) | Spiritstone Ring |
+| South clearing — **the same spot as Scenario 02** | Choose **"yes"** | Star Earring |
+
+## Walkthrough
+
+This is a cramped **urban battle** and Freya is buried in defenders. The enemy
+**will not come out into the open** — they wait for you to push into the city, so
+don't sit back. **Silver Wolf** arrives as an NPC to help and joins afterward.
+Grind forward street by street and protect your casters in the tight lanes.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Push in       Enemies hold the city; you must advance.
+ Silver Wolf   Joins the fight as an NPC ally.
+ Reach Freya   Cut through to her — mind the persuasion
+               choices below.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Diehärte beside Freya
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 立場など捨てろ！ | Forget your rank! | — |
+| わからずやめ！ | You stubborn fool! | — |
+| 悩みを言ってくれ！ | Tell me your troubles! | *persuasion* |
+
+### When Freya attacks Diehärte
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| あきらめるのは良くない。 | Don't give up | Freya −2 |
+| フレアと戦いたくはない。 | I won't fight you. | Freya +1 |
+| 無駄な事はやめてくれ！ | Enough of this! | Freya −1 |
+
+### When Freya is defeated
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 俺たちの勝ちだ。 | We have won. | — |
+| 無駄な事はやめろ。 | Stop this folly. | Freya −1 |
+| 何故そこまで‥‥ | Why go so far? | Freya +1 |
+
+> Attacking Freya yourself is Freya −1; clearing every enemy is also Freya −1.
+
+
+
+# Scenario 18 — Ultimate Military Device of Antiquity
+*The magic giant Galshook*
+
+> Princess Freya beaten and Laffel retaken, Diehärte's force then met dire news. The main army was wiped out, casting them into fresh peril.
+
+Freya beaten and Laffel retaken, the army turns to rescue **Lord Raymond**, taken
+by **General Bortz** — who wields the ancient war-machine **Galshook**.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **General Bortz** and the magic giant **Galshook** |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Magic Giant Galshook (Lv 60)** · **Bortz (Lv 50)** · Gladiator ×6 (Lv 26) · Sniper ×2 (Lv 30) · High Lord ×3 (Lv 26) · General (Lv 30) · Dragon Knight ×2 (Lv 26) · Dragon Lord ×2 (Lv 30) · Silver Knight ×4 (Lv 26) · Highlander ×3 (Lv 30) · Arch Mage ×2 (Lv 30) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northeast-corner rock | Pick "Stand between them" (岩の間に立つ) | Apollo Arrow |
+
+## Walkthrough
+
+**Galshook fires a beam straight down the map** from its position to the bottom
+edge, again and again until it is destroyed — and the beam **damages enemies as
+well as your units**. The grass-field troops all advance on you from the opening,
+so let Galshook's own fire thin them while you pick your approach, then converge
+on Bortz and the giant.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ The beam      Fires top-to-bottom, hurting BOTH sides —
+               stay out of the lane, bait foes into it.
+ Advance       Field troops rush you; fight on your terms.
+ Finish        Destroy Galshook and Bortz.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+After the battle, the party argues whether to chase Bortz or save Raymond.
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ルインの事を考えろよ。 | Think how Lewin feels. | Luna & Sophia −1 |
+| 仕方ない‥‥。 | We've no choice… | Tiaris, Liffany & Sophia +1 |
+| その通りだな。 | That's right. | Sophia +1, Liffany −1 |
+
+
+
+# Scenario 19 — A man called Bortz
+*Catch the general before he boards*
+
+> After losing Galshook, General Bortz rallied his survivors and fell back to spare them from annihilation. A decisive call, very Bortz-like.
+
+His war-machine destroyed, **General Bortz** rallies his survivors and races for an
+airship. Run him down before he escapes.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Bortz** |
+| **Defeat** | Diehärte falls · **Bortz reaches the airship** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **General Bortz** · General (Lv 35) · General (Lv 34) · Swordsman ×3 (Lv 35) · Swordsman ×2 (Lv 34) · Bow Lord (Lv 35) · Saint (Lv 39) · Saint (Lv 38) · Arch Mage (Lv 37) · Arch Mage (Lv 36) · Sniper ×4 (Lv 36) · Sniper (Lv 39) · Highlander (Lv 34) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Middle of the **bridge** near your start | Pick "Pull it out" (引っ張ってみる) | Black Grimoire |
+| Platform's 1st floor — the **5 stones ringing a red stone** | Answer "Love" (愛) | All heroines' love index +1 |
+| ↑ same spot | Answer "Power" (力) | Dark Dragonstone |
+| ↑ same spot | Answer "Courage" (勇気) | Mercenary Attack +2 & Defense +2 |
+
+## Walkthrough
+
+**Bortz bolts for the airship from turn 1**, so don't get drawn into clearing the
+rank-and-file — drive straight after him and cut him down before he boards. If he
+reaches the ship, it's a loss.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Chase         Bortz runs for the airship immediately.
+ Ignore        Don't waste turns on the small fry.
+ Finish        Kill Bortz before he escapes.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+After the battle, planning the rescue of Raymond.
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 俺に任せろ！ | Leave it to me! | Tiaris & Liffany +1, Luna −1 |
+| 大丈夫だ。 | It'll be alright. | Luna & Sophia +1 |
+| やるだけやってみよう。 | We'll do all we can. | all females −1 |
+
+
+
+# Scenario 20 — Skirmish in the Vast Skies
+*A running fight between airships*
+
+> General Bortz of Rigüler fought to the last, so most of his men could flee, and met a fierce death. Even in war, he stayed true to himself to the very end.
+
+With Bortz's small airship captured, the party is drawn into a pitched battle in
+the open sky against the enemy fleet.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat the **enemy commander within 29 turns** |
+| **Defeat** | Diehärte falls · time runs out |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Commander (Lv 47 Swordsman, bottom-right of the ship)** · Dragon Lord ×4 (Lv 37) · General ×2 (Lv 37) · Archer ×2 (Lv 37) · Swordsman ×2 (Lv 37) · High Priest ×2 (Lv 36) · Arch Mage ×2 (Lv 37) |
+
+## Buried treasure
+
+| Where | Reward |
+|---|---|
+| The **door in the enemy ship**, right above the circling crystal | Magic Symbol |
+
+## Walkthrough
+
+The commander is the **Lv 47 swordsman at the bottom-right of the ship** — the whole
+fight is a race to reach him inside 29 turns. The **archers** are the real obstacle
+on the way: long range and heavy hits against your advancing line, so prioritise
+killing them as you push through.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Advance       Push toward the bottom-right commander.
+ Archers       Take them out first — they out-range and
+               punish your advance.
+ Finish        Down the Lv 47 swordsman within 29 turns.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None.
+
+
+
+# Scenario 21 — The Magnificent capital, Larcussia
+*Retaking the old royal capital*
+
+> After rescuing Lord Raymond from the Imperial airship, the detached force marched on the royal capital, Larcussia, in place of the fallen main army.
+
+Raymond freed, the army marches on Larcussia itself — until they hold it, Larcuss
+is not truly theirs. **Emerick** stands in the way once more, stronger than ever.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Destroy all enemies |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Emerick (Lv 55)** · Highlander ×8 (Lv 38) · Highlander ×4 (Lv 42) · Dragon Lord ×4 (Lv 42) · Dragon Lord (Lv 44) · Sniper ×2 (Lv 45) · Arch Mage ×2 (Lv 43) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Top of the map — the light patch in the **wall shadow** below the left plaque, by the stone | Pick "Dig" (ほってみる) | White Grimoire |
+| ↑ same spot | Pick "Pour water on the spot" (水を与える) | Forest Rune |
+
+## Walkthrough
+
+It looks daunting but is one of the easier maps: the enemy **cavalry and fliers
+advance on you under archer and mage cover**. Rather than charging in, **hold a
+defensive line** and let them break themselves on you, then counter.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Hold          Set a defensive line; don't charge.
+ Counter       Let the cavalry/fliers come, then break
+               them with the unit triangle.
+ Finish        Mop up; down Emerick.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### After the battle — agree to the Empire's truce?
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 賛成です。 | I agree. | Luna & Sophia +1 |
+| 反対です。 | I disagree. | Tiaris & Liffany +1 |
+| わかりません。 | I don't know. | all females −1 |
+
+### Emerick's last words (move Diehärte beside him)
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 見事な最期だった | He died well | Liffany & Luna +1 |
+| 黙っている | Say nothing | — |
+| 楽な相手だった | He was no match for me | all females −1 |
+
+### Tiaris mourns her father
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| こっちへおいで。 | Come over here. | — |
+| 俺がいるじゃないか。 | I'm right here. | Tiaris +1 |
+| もう忘れろよ。 | Forget it now. | Tiaris −1 |
+
+
+
+# Scenario 22 — To a New Battle
+*A truce shattered by monsters*
+
+> A year after taking up arms under Viscount Raymond, Diehärte retook the capital. Raymond became King Sieghart. The land, Elthlead.
+
+A year into the war, Diehärte's detachment marches out again — and the field turns
+three-way when Velzeria's monsters fall upon both armies, led by **Bahamut**.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Emerick (Lv 57)** · Highlander ×3 (Lv 40) · Highlander (Lv 43) · Swordsman (Lv 40) · Swordsman (Lv 41) · General ×2 (Lv 41) · General (Lv 40) · Arch Mage ×2 (Lv 40) · Arch Mage (Lv 38) · Sniper ×2 (Lv 39) · Bow Lord (Lv 41) · Serpent Knight (Lv 43) |
+| **Monsters (later)** | **Bahamut (Lv 54)** · Hydra ×4 (Lv 39) · Sphinx ×4 (Lv 39) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northwest — the **lake atop the mountain** | Pick "Drink the Water" (水を飲んでみる) | INT +2 |
+| ↑ same spot | Pick "Fill your waterskin" (水を革袋に入れる) | Demon Water |
+
+## Walkthrough
+
+A few turns in, hydras and sphinxes appear at the bottom-right and **Bahamut** at
+the top-left; Emerick then orders a **retreat**, and the monsters turn on his
+troops. You *could* wait for the two enemy sides to grind each other down, but
+**Bahamut is painfully slow** — it's far faster to cut down Emerick yourself, then
+deal with Bahamut on your own terms.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Opening       Engage Emerick's Imperial line.
+ Monsters      Bahamut (top-left) + hydras/sphinxes
+               (bottom-right) arrive; Emerick retreats.
+ Finish        Kill Emerick, then take Bahamut yourself.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None.
+
+
+
+# Scenario 23 — The Necromancer, Again
+*Grove returns, far stronger*
+
+> Velzeria has made its move at last, swift and elusive. Now a village on Elthlead's border lies under attack by monsters led by Grove.
+
+Velzeria moves at last, and at a border village the party meets an old foe —
+the **Necromancer Grove**, risen again and far deadlier than in Ransch.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls · all civilians die |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Citizen ×5 (Lv 22) |
+| **Enemy** | **Grove (Lv 50)** · Iron Golem ×2 (Lv 40) · Minotaur ×2 (Lv 40) · Minotaur (Lv 35) · Wyvern ×2 (Lv 43) · Dark Sniper ×2 (Lv 40) · Lamia (Lv 39) · Arch Demon (Lv 39) · Master Dino (Lv 40) |
+| **Enemy (after attacking Grove)** | Hydra (Lv 42) · Reis (Lv 39) · Durahan ×2 (Lv 40) · Living Armor ×3 (Lv 40–42) · Wyvern (Lv 42) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Southeast — the **rock jutting from the sea** | Pick "Smile at her" (ニッコリと微笑む) | Mermaid Tear |
+| Northwest — the **fenced field** | Leave the flower, then wish "Power" (力が欲しい) | Attack +1, Defense +1 |
+| ↑ same spot | Leave the flower, then wish "Magic" (魔力が欲しい) | Holy Symbol |
+| — | Keep **every civilian** alive | Angel Feather |
+
+## Walkthrough
+
+**Attacking Grove triggers a second wave** — a wyvern from the top-right, a hydra
+from the bottom-right, two living armors by the rivers, the rest from your start.
+**Thin the field first**, then commit to Grove so you aren't swarmed. As ever, do
+not let all the civilians die — that is an instant loss.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Clear         Whittle down the demons; shield civilians.
+ Trigger       Hitting Grove spawns the second wave.
+ Finish        Bring everything down, Grove last.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Sophia sees the villagers chased
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| わかってるさ | I got it | — |
+| 一体どうすれば‥‥ | I don't know how… | Sophia −1 |
+| 大丈夫だ | They will be alright | Sophia +1 |
+
+### After the battle — who was right
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| ティアリスだ。 | Tiaris | Tiaris +1 |
+| リファニーだ。 | Liffany | Liffany +1 |
+| ソフィアだ。 | Sophia | Sophia +1 |
+| ルナに振る。 | Ask Luna | all females −1 |
+
+> If **Gilbert** duels Grove, all females +1; if Gilbert is defeated, all females −1.
+
+
+
+# Scenario 24 — The Field Marshal's Determination
+*A three-way battle, and an unlikely truce*
+
+> Velzeria, the monster land, has launched its full invasion. The unit that saved the border village is recalled to the besieged royal capital.
+
+Velzeria launches its full invasion, and the field becomes a three-way war between
+Diehärte's army, the Empire, and the monster horde. Here **Altemüller** makes his
+choice — and an old enemy becomes a temporary ally.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls · King Sieghart falls |
+| **Turn ~2–3** | Monsters arrive; Altemüller proposes a **truce** (and then aids you) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | **King Sieghart (Lv 50)** · Arch Mage ×2 (Lv 43) |
+| **Enemy (Imperial)** | **Altemüller (Lv 68)** · **Varna (Lv 50)** · Highlander ×2 (Lv 50) · Highlander (Lv 43) · Dragon Lord (Lv 50) · Dragon Lord (Lv 42) · Arch Mage ×2 (Lv 44) · High Lord ×2 (Lv 42) |
+| **Monsters (later)** | **Worm Master Rag (Lv 50)** · Stone Golem ×4 (Lv 50) · Durahan ×2 (Lv 50) · Reis ×2 (Lv 49) · Sphinx ×4 (Lv 50) · Arch Demon (Lv 41) · Lamia (Lv 41) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| North — the forest in the mountains | Pick "Cut out the arrow" (矢を切り取る) | Destiny Arrow |
+
+## Walkthrough
+
+After 2–3 turns the monsters appear (from the top-left corner; fliers from the
+mid-top forest) and **Altemüller proposes a truce**. Your reply doesn't change the
+outcome — the truce happens either way (refuse, and King Sieghart agrees to it).
+Once you answer, **Altemüller and his survivors turn NPC and fight alongside you**.
+Let the two enemy sides wear each other down and clean up what's left.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Turn ~2–3     Monsters spawn top-left; Altemüller asks
+               for a truce (answer freely — same result).
+ Allies        Altemüller's force becomes NPC.
+ Finish        Defeat the monster horde to win.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Accept Altemüller's truce? (outcome is the same either way)
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 休戦協定を結ぶべき | Agree to the truce | Tiaris −1 |
+| 徹底抗戦を主張 | Fight to the end. | Tiaris +1, Luna & Sophia −1 |
+| 何も言わず、任せる | Say nothing | — |
+
+
+
+# Scenario 25 — Light Over Shadow
+*Forging the legendary blade*
+
+> Archmage Jessica warned that the Decimation Sword, as it is now, cannot match the demons' sword Alhazard.
+
+To turn the Sword of Decimation into the true **Langrisser**, the sorceress
+Jessica's conditions must be met — and the recluse **Olver** holds a key. Win here
+and the legendary sword is yours.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls · Olver dies |
+| **New ally** | **Jessica** (joins after); **Langrisser obtained** at scenario's end |
+| **Secret** | Unlocks access to **Stage ?5** (needs a Sc 26+ save, via scenario select) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Olver (Lv 40) |
+| **Enemy** | **Worm Master Rag (Lv 52)** · Arch Demon ×2 (Lv 46) · Master Dino ×4 (Lv 39) · Master Dino (Lv 38) · Iron Golem ×3 (Lv 38) · Dark Sniper ×3 (Lv 37–39) · Sphinx ×2 (Lv 38) · Ramia ×3 (Lv 35–38) · Dark Saint ×2 (Lv 38) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northeast clearing (**outside the wall**) | Answer "Stamina" (体力) | Rune Axe |
+| — | Finish the scenario | **Langrisser** (unconditional) |
+
+## Walkthrough
+
+The demons near you batter **Olver's door with magic** while the rest charge.
+Reach his house and Olver offers to blow the doors open with **meteor** — answer
+**"yes"** to let him (or "no" to stop him). Once the two doors fall, you choose
+where Olver stays: the **1st option keeps him put**, the **2nd sends him to the
+bottom** of the map. Choose with care — **if Olver dies, it's game over**. Clear
+the field and you walk away with **Langrisser**, and Jessica joins.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Defend        Demons blast Olver's door; reach the house.
+ Olver's door  "Yes" → he meteors his own doors open.
+ Place Olver   Pick his position (stay / go bottom) —
+               keep him alive or it's game over.
+ Reward        Langrisser at the end; Jessica joins.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+The decisions are Olver's door (yes/no) and his position (stay / move) — see the
+walkthrough. After this scenario, a Sc 26+ save unlocks **Stage ?5** via the
+scenario-select.
+
+
+
+# Stage ?5 — Tale of a Gell Family
+*The villain of the piece is… you*
+
+A bonus joke stage in which Diehärte raids the quiet forest home of a complete
+gell family — father, mother, sons and grandfather — and ends up looking very much
+like the bad guy.
+
+## Unlocking ?5
+
+Available **after Scenario 25**: you need a **save at Scenario 26 or later**, then
+pick Stage ?5 from the list via the **scenario-select cheat** (see *Secrets &
+Cheats*).
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat the gell family |
+| **Defeat** | Diehärte falls |
+| **Note** | Clearing it returns you to the **main menu** (it's a self-contained bonus) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | Gell Gust (Lv 10) · (Lv 15) · (Lv 35) · (Lv 40) · (Lv 60) · *turn 2:* (Lv 20) · (Lv 30) |
+
+## Buried treasure
+
+None.
+
+## Walkthrough
+
+A short, silly fight. The extra gells arrive from the top-middle on turn 2. The
+twist: **once you kill the husband, the wife gains a huge power-up and a meteor
+spell**, so she becomes the real threat. Note that **Tiaris begins with no MP** —
+she spends it all during the opening — so don't count on her magic. Finish the
+family off and the stage drops you back to the title screen.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Turn 2        Extra gells arrive top-middle.
+ The widow     Killing the husband powers up the wife
+               (meteor!) — save her for when you're ready.
+ After         Clearing returns to the main menu.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None.
+
+
+
+# Scenario 26 — Suspicion
+*A false heir on the throne*
+
+> A survivor of Larcuss's royal line claims the throne? Weren't the royals executed by the Imperial Army? What is going on…?
+
+Someone claiming Larcuss's royal blood has seized the throne. The mobile division
+rushes to confront the **pretender Richard** — who is not what he seems.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat the pretender **Richard** (revealed as Feraquea) |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Kirikaze (Lv 42) |
+| **Enemy** | **Richard (Lv 51)** · Iron Golem ×3 (Lv 42–43) · Dark Sniper (Lv 41–44, many) · Durahan Lord ×3 (Lv 42) · Dark Saint ×4 (Lv 39–40) · Arch Demon ×2 (Lv 40) · Summoner ×4 (Lv 30) · Reis ×2 (Lv 40) · Minotaur (Lv 43) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| The **whitish crest** on the dark floor — **pick only one** | Mid-left: "yes" twice | Hero's Stone |
+| ↑ or | Bottom-right: "yes" twice | Runestone |
+
+## Walkthrough
+
+Lead with **mages** to clear the dark snipers, which are the real nuisance, and
+don't linger — Lewin and Diehärte get surrounded fast. **Kirikaze charges
+straight for the throne room**, so support him before he's overwhelmed. When he
+reaches Feraquea you may take control of him (**yes/no**).
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Snipe         Mages kill the dark snipers first.
+ Tempo         Don't get surrounded; aid Kirikaze's rush.
+ Kirikaze      Take control when he nears the throne.
+ Finish        Down the pretender.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+Take control of Kirikaze at the throne (**yes/no**). If **Kirikaze** strikes
+Feraquea, all females +1.
+
+
+
+# Scenario 27 — The Shapeshifter Feraquea
+*Run the demon to ground in the swamp*
+
+> Feraquea's scheme to pose as royalty and throw Elthlead into chaos was seen through with ease by Langrisser.
+
+Feraquea's royal disguise undone, the party corners the shapeshifter in the swamp
+for a final reckoning. This map also hides the way into **Stage ?3**.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Feraquea** |
+| **Defeat** | Diehärte falls |
+| **Secret** | Sets up **Stage ?3 — The Queen and Aesthetic Men** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Feraquea (Lv 52)** · Dark Sniper ×7 (Lv 42–44) · Iron Golem ×3 (Lv 45) · Durahan Lord ×3 (Lv 45) · Arch Demon ×3 (Lv 40) · Reis ×2 (Lv 40) · Ramia ×2 (Lv 41) · Zaavera ×2 (Lv 40–42) · Minotaur (Lv 46) · Dark Saint (Lv 40) · *turn 3:* Sphinx ×2 (Lv 45) |
+
+## Buried treasure
+
+None.
+
+## Walkthrough
+
+Nearing Feraquea makes her **shift into a stronger form**, so advance deliberately
+and let your **mages pick off the dark snipers** (long range, heavy damage) before
+you close in. On **turn 3, two sphinxes spawn at your own starting point** to hit
+you from behind — keep a rearguard.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Advance       Slow and steady; mages kill dark snipers.
+ Turn 3        Sphinxes appear at your start — watch your
+               rear.
+ Finish        Close on Feraquea (she powers up) and end it.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Opening — news from Luna
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| だが、大丈夫だ。 | But, it'll be fine. | Tiaris & Liffany +1 |
+| 気をつけよう。 | We need to be careful. | Luna & Sophia +1 |
+| ダメかも知れない。 | This may be hopeless. | Tiaris, Luna & Liffany −1 |
+
+> **Stage ?3 trigger:** around the great blue crystal where Feraquea stands, stand
+> Diehärte on the smaller blue stones in order — **right, then bottom, then left** —
+> answering **"pray"**, **"dance for now"**, and **"strike a pose"**. See Stage ?3.
+
+
+
+# Stage ?3 — The Queen and Aesthetic Men
+*A flying doll, a queen, and some very aesthetic men*
+
+> Though set on Castle Velzeria, where the odd clay figure from the fight with Feraquea had gone still nagged at their minds.
+
+A runaway doll leads the party on a long, absurd chase through Castle Velzeria,
+ending before a queen's chamber — a tongue-in-cheek cameo stage.
+
+## Unlocking ?3 (during Scenario 27)
+
+Around the great blue crystal where Feraquea stands, place **Diehärte** on the
+smaller blue stones in order — **right, then bottom, then left** — answering each
+prompt: **"pray"**, **"dance for now"**, **"strike a pose."**
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Reach the queen's chamber (cameo stage) |
+| **Defeat** | Diehärte falls |
+| **Bonus** | When **Jessica sits on the throne**, you can hire **Uminin** |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Northeast — centre of the **black cross pattern** | Pick "Hit it" (叩いてみる) → "Uminin" (うみにん面) | Iron Dumbbell |
+| South — the frame whose character reads **"汁" (broth)** | "Under 18" | Magic Herb |
+| ↑ same spot | "18 or over" | Vaseline |
+
+## Walkthrough
+
+A comedy stage built around a **doll chase** to the queen's hall. Sweep up the
+hidden items along the way, and once **Jessica takes the throne**, you gain the
+option to recruit the ever-cheerful **Uminin**.
+
+## Branching dialogue
+
+The item prompts above are the decisions; the "broth/汁" frame splits by the
+**under-18 / 18-or-over** answer.
+
+
+
+# Scenario 28 — The Demon Cordon
+*Grove's last stand at the castle gate*
+
+> After defeating Feraquea, the shape-shifting one and one of the Three Demon Generals, Diehärte and the others finally reached Castle Velzeria.
+
+At the castle gate, **Grove** has thrown up a wall of demons to bar the way.
+Break through the encirclement and put the necromancer down for good.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Grove** |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Grove (Lv 51)** · Sphinx ×6 (Lv 42–46) · Master Dino ×4 (Lv 46) · Durahan Lord ×4 (Lv 45–46) · Iron Golem ×2 (Lv 46) · Minotaur ×2 (Lv 44) · Hydra ×2 (Lv 44) · Ramia ×4 (Lv 32–42) · Reis ×2 (Lv 42) · Dark Sniper ×2 (Lv 46) · Dark Saint (Lv 40) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| The **cracked pillar** (top-right of the pillars near Grove) | Cry "Muramasa" (村正) | Muramasa |
+| The **needle-hole** beside the bottom-left pillar | Yes, then "Grasp it securely" (しっかりとつかむ) (**HP −10**) | Ghost Blood |
+
+## Walkthrough
+
+You begin **surrounded** — sphinxes, master dinos, iron golems and minotaurs press
+in from every side. Don't rush; **advance slowly** and post **archers and spearmen
+on your flanks** to bring down the sphinxes and master dinos, which are the worst
+of the swarm. Carve a lane to Grove and finish him.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Surrounded    Hold formation; guard both flanks.
+ Flanks        Archers/spears down the sphinx & dinos.
+ Finish        Push through to Grove.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+The item choices above are the only decisions. If **Gilbert** is defeated here,
+all females −1.
+
+
+
+# Scenario 29 — Böser, Master of the Demon Blade
+*Into the depths of Velzeria Castle*
+
+> Deep within Velzeria Castle, in its deepest hall, Böser lay in wait for his prey to come. 'The human Lushiris chose… how strong is he? I await this…'
+
+Deep beneath Velzeria Castle waits **Böser**, demon lord and bearer of Alhazard.
+The battle for humankind begins — and an old enemy fights beside you to seal the
+demon blade.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Böser** |
+| **Defeat** | Diehärte falls · **Anna** (Varna's sister) dies |
+| **Allies arrive** | Varna & Anna (turn 2); **Altemüller** (when you near Böser) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | *turn 2:* Varna (Lv 50) + Anna (Lv 35) · *near Böser:* Altemüller (Lv 70) |
+| **Enemy** | **Böser (Lv 60)** · Bahamut (Lv 48) · Durahan Lord ×4 (Lv 47) · Dark Sniper ×6 (Lv 44–47) · Arch Demon ×2 (Lv 47) · Master Dino ×2 (Lv 48) · Iron Golem ×2 (Lv 48) · Reis ×2 (Lv 45) · Ramia ×2 (Lv 43) · Sorcerer ×2 (Lv 44) · Dark Saint ×2 (Lv 44) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Bottom-right hole | Pick "Eat it" (食べる) | Attack +1 |
+| ↑ same spot | Pick "Put it away carefully" (大切にしまう) | Ancient Egg |
+| Bottom-left hole | Pick "Jump into the hole" (穴へ飛び込む) | Heavenly Wings |
+
+## Walkthrough
+
+On turn 2 **Varna** appears from your start and **Anna** appears behind Böser as a
+hostage. When you near Böser's pedestal he turns on Anna — and **Altemüller steps
+in front of her to help you**. **Kill the two arch demons immediately**: together
+with Böser they can cut Altemüller down. **Varna attacks on arrival**, so shield
+her too. Langrisser seals Alhazard's power for the fight.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Turn 2        Varna joins; Anna held behind Böser.
+ Near Böser    He attacks Anna; Altemüller intervenes.
+ Priority      Kill the 2 arch demons fast (they + Böser
+               can kill Altemüller). Protect Varna.
+ Finish        Defeat Böser; Alhazard is sealed.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Opening — conversation with Liffany
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 重大だな。 | It's a serious matter. | Liffany +1 |
+| 気楽にいこう！ | Cheer up! | Liffany −1 |
+| らしくないぞ！ | This isn't like you! | → follow-up below |
+
+### …if you chose "That's not like you!"
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 言い過ぎたよ。 | I was too flippant. | — |
+| ゴメン、ゴメン | Sorry, sorry. | Liffany +2 |
+| 本当のことだ。 | The truth. | Liffany −2 |
+
+> After the battle the party seals Alhazard — only for Altemüller to unseal it
+> soon after.
+
+
+
+# Scenario 30 — Behind the Mask
+*Defend the water gate; the Dark Knight unmasked*
+
+> Böser was defeated and the demon sword sealed for a time. But Altemüller, enraged by Varna's death, made off with Alhazard.
+
+Alhazard unsealed, the chase leads to a town where **Ruud** holds the line — and
+where the **Dark Knight's** true face is finally revealed.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat all enemies |
+| **Defeat** | Diehärte falls · **the water gate is destroyed** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Dark Knight (Lv 70)** · **Ruud (Lv 52)** · Dragon Lord ×5 (Lv 53–57) · Highlander ×5 (Lv 54–56) · Assassin ×4 (Lv 53–55) · Swordsman ×3 (Lv 54) · Sniper ×3 (Lv 54) · Bow Lord ×2 (Lv 55) · General ×2 (Lv 54) · High Priest ×2 (Lv 51–52) · Arch Mage ×2 (Lv 46) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| The **stone tablet** in the town centre | Chant "Scathach" (スカサハ) | Scathach Tome |
+| — | Have **Dios persuade Ruud** | Gae Bolg |
+
+## Walkthrough
+
+Ruud's troops engage you head-on, but **two dragon lords and two assassins peel off
+toward the water gate** — send a detachment to **guard the gate**, since its
+destruction is an instant loss. Once most of Ruud's force is down, the **Dark
+Knight** and her retinue join the fight.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Split off     Spare units to defend the water gate from
+               the dragon lords + assassins.
+ Main          Grind down Ruud's column.
+ Dark Knight   Appears once Ruud's force is broken.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+Having **Dios persuade Ruud** yields the **Gae Bolg** (and spares an old
+comrade). The "mask" comes off here — the Dark Knight's identity is laid bare.
+
+
+
+# Scenario 31 — Threads between People
+*Freya's choice, and the road to the best ending*
+
+> The Dark Knight's true face was none other than Gerold. This truth throws Diehärte's heart into turmoil.
+
+The Dark Knight's face is revealed at last — **Gerold**, Diehärte's brother-in-arms,
+his body wracked by some sorcery. And here Freya's long arc reaches its turning
+point.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Freya** — *or* **persuade her to join** |
+| **Defeat** | Diehärte falls |
+| **Best ending** | Persuading Freya here is **required** for the best ending |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **Freya (Lv 55)** · Highlander ×6 (Lv 50–59) · Arch Mage ×8 (Lv 42) · General ×6 (Lv 51–59) · Swordsman ×4 (Lv 50–59) · Sniper ×3 (Lv 49–59) · Saint ×2 (Lv 42) · High Priest (Lv 42) · Dragon Lord (Lv 59) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Southeast — the **2nd jutting spit from the bottom**, light patch near the edge | Yes, then "The smaller one" (小さい方) | Divine Blessing |
+| ↑ same spot | Yes, then "The larger one" (大きい方) | Secret Manual |
+
+## Walkthrough
+
+A single **bridge** crosses the water, and the enemy showers it with arrows and
+spells as you advance. Lines of **spikes** block water units; fliers can cross, but
+archers wait behind the spikes for them. This is the **climax of Freya's arc**: if
+Diehärte reaches her **and you chose every *persuasion* option** in the earlier
+scenarios, **Freya joins and the battle ends** — opening the road to the best
+ending. Miss them and you must cut her down, and that road closes.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ The bridge    One crossing, raked by arrows and magic;
+               fliers can leap the spikes (mind archers).
+ Reach Freya   Diehärte beside her auto-persuades — she
+               joins if her arc was completed.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+| When | Option | Effect |
+|---|---|---|
+| After battle (**only if Freya died**) — to Liffany | "It's all right." | — |
+| | "…I'm sorry." | Liffany +1 |
+| | "Leave me be." | Liffany −1 |
+
+> See **Endings** for the full best-ending checklist.
+
+
+
+# Scenario 32 — The Insanity of King Wilder
+*Barral Castle and a maddened king*
+
+> Moved by Diehärte's heartfelt words, Princess Freya came to trust him, and so she joined the quest to break King Wilder's madness.
+
+Freya at his side at last, Diehärte storms Barral Castle to confront her father,
+**King Wilder**, driven mad by Velzeria's hand.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **King Wilder** |
+| **Defeat** | Diehärte falls |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Enemy** | **King Wilder (Lv 68)** · General ×6 (Lv 55) · Arch Mage (Lv 41–47, many) · Highlander ×5 (Lv 54–56) · Sniper ×6 (Lv 52–54) · Saint ×2 (Lv 42) · High Priest (Lv 42) · Swordsman (Lv 56) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Top, by the throne room — the **right** circular crest (pick one of two) | Answer "Power of Magic" (魔法の力) | Star Earring |
+| ↑ or the **left** circular crest | Answer "Power of the Sword" (剣の力) | Excalibur |
+
+## Walkthrough
+
+Deep in the castle, the **two arch mages flanking the throne room cast meteor to
+blow up the bridge** to their alcove, then snipe you while you fight Wilder — reach
+them with **water or flying units** and kill them. The **two arch mages inside the
+throne room cast confusion**, so take them out first as well, then face the king.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Bridge mages  They meteor the bridge — cross with water/
+               fliers and silence them.
+ Throne mages  Kill the confusion-casters first.
+ Finish        Defeat King Wilder.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+### Turn 2 — conversation with Freya
+*Field choice — budget 11.*
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| まったくだ。 | No doubt. | — |
+| 理由があるはずだ。 | There's a reason. | Freya +1 |
+| 手遅れかも。 | Maybe it's too late. | — |
+| あれが本性か。 | Is that his true face? | Freya −1 |
+
+### Diehärte beside King Wilder
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| そうだな。 | I understand. | — |
+| ‥‥いいのか？ | …Are you sure? | Freya +1 |
+| 俺には出来ない。 | I can't do it. | Freya −1 |
+
+> If **Freya** strikes King Wilder, Freya −1.
+
+
+
+# Scenario 33 — Unwavering Loyalty
+*Defending Laffel, and a confession of the heart*
+
+> The cause of King Wilder's madness was Velzeria after all. Gerold, his sanity briefly restored, bore the pain to reveal the truth.
+
+King Wilder's madness was Velzeria's doing, and Gerold chose a fate worse than
+death to spare him. Now Laffel burns under Altemüller's demon army — and after the
+battle, Diehärte may finally speak his heart.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Worm Master Rag** |
+| **Defeat** | Diehärte falls · Layla dies · all civilians die |
+| **New ally** | **Emerick** (joins after battle) |
+| **Best ending** | A successful **love confession** here is **required** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies (NPC)** | **Emerick (Lv 54)** · Layla (Lv 35) · Citizen ×2 (Lv 34) · General ×2 (Lv 50) · Dragon Lord (Lv 50) · *later:* **Dark Knight (Lv 70)** |
+| **Enemy** | **Worm Master Rag (Lv 70)** · Master Dino ×4 (Lv 46–59) · Living Armor ×4 (Lv 46–50) · Reis ×4 (Lv 44–56) · Dark Sniper ×2 (Lv 53) · Iron Golem ×2 (Lv 53) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Southeast stone | Pick "Lift it up" (持ち上げる), then dig | Gae Bolg |
+| The **2nd stone** from the bottom | Name him "Thor" (トール) → "Megingjardar" (メギンギョルズ) | Megingjardar |
+| ↑ same spot | Name him "Thor" → "Mjolnir" (ミョッルニル) | Mjolnir |
+| ↑ same spot | Name him "Thor" → "Strength" (強さ) | Attack +2 |
+| — | Keep **all civilians** alive | Divine Blessing |
+| — | Keep **all of Emerick's troops** alive | Talisman |
+
+## Walkthrough
+
+The enemy **splits three ways** — some rush the civilians, some you, some hold with
+Rag. **Emerick's troops move to shield the townsfolk**, and a few turns in the
+**Dark Knight arrives to help defend them**. Emerick is strong but can be
+overwhelmed, so support him; he joins once the battle is won.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Three fronts  Foes hit civilians, you, and Rag's guard.
+ Allies        Emerick (and soon the Dark Knight) defend
+               the town — back them up.
+ Finish        Defeat Worm Master Rag.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+After the battle, **Diehärte may confess his love** to one heroine — choose her
+name, then **"yes."** A **successful confession** (to the heroine whose index you
+have raised) is **required for the best ending**. If **Freya** strikes Rag, Freya +1.
+
+
+
+# Scenario 34 — The Shape of a Heart
+*The crossroads of the best ending*
+
+> Once chosen by the Demon Sword Alhazard, Altemüller became lord of the demons. From the Rigüler throne he awaited the young knight and his band.
+
+Chosen by the demon sword Alhazard, **Altemüller has become Böser**. Defeating him
+ends the ordinary path — but handled just so, this scenario opens the way to the
+true finale.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Altemüller** |
+| **Defeat** | Diehärte falls |
+| **New ally** | **Varna** (once persuaded; joins as NPC) |
+| **Best ending** | **The crossroads** — meet the checklist below to open Scenarios 35 & 36 |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Ally (NPC)** | Varna (Lv 55, once persuaded) |
+| **Enemy** | Bahamut ×2 (Lv 54) · Arch Demon ×2 (Lv 54) · Master Dino ×2 (Lv 55) · Sphinx ×2 (Lv 55) · Iron Golem ×2 (Lv 56) · Durahan Lord ×2 (Lv 54) · Living Armor ×2 (Lv 54) · Dark Sniper ×2 (Lv 53) · Ramia ×2 (Lv 53) · Reis ×2 (Lv 53) · Dark Saint ×2 (Lv 52) |
+| **Top balcony** | **Altemüller (Lv 70)** · Dark Sniper ×2 (Lv 56) · Arch Demon ×2 (Lv 56) · Master Dino ×2 (Lv 56) · Iron Golem (Lv 56) · Dark Saint (Lv 53) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| — | After the battle (unconditional) | Kotetsu |
+| — | After the battle, **if on the best-ending route** | Holy Rod & Dark Rod |
+
+## Walkthrough
+
+Persuade **Varna** by moving **Emerick or Diehärte** beside her — she joins as an
+NPC. The map itself is straightforward; once you reach the **top balcony**,
+**Altemüller** appears with a fresh wave of monsters.
+
+### Best-ending checklist (the crossroads)
+**Before** Scenario 34 you must already have:
+- a **successful love confession** (Sc 33),
+- **Freya** in the party (persuaded by Sc 31),
+- **Langrisser equipped**.
+
+**During** Scenario 34:
+1. **Persuade Varna** with Emerick or Diehärte (move adjacent — automatic).
+2. **Keep Varna alive** after she joins.
+3. **Persuade Altemüller** with **Emerick** (move adjacent — automatic).
+4. **Keep Emerick alive.**
+5. **Defeat Altemüller with Diehärte wielding Langrisser.**
+
+Do all of this and **Scenarios 35 & 36 open**. (Consequences: Kirikaze leaves the
+party, your beloved is kidnapped, and **Altemüller and Varna join** in their place.)
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Persuade      Varna via Emerick/Diehärte → NPC ally.
+ Balcony       Altemüller + monsters appear up top.
+ Best ending   Persuade Altemüller (Emerick), keep both
+               alive, kill Altemüller with Langrisser.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+The decisive actions are the **Varna and Altemüller persuasions** above. See
+**Endings** for the full route.
+
+
+
+# Scenario 35 — The True Enemy
+*Into Velzeria, with old foes as allies*
+
+> Paul, now Böser by the chaos god Chaos, had Demon General Geier abduct the beloved of Diehärte as a sacrifice for Chaos's revival rite.
+
+Reached only on the best-ending route. **Kaiser Paul**, possessed by the chaos god
+**Chaos**, has turned **Geier** into a demon general. With Altemüller and Varna now
+at his side, Diehärte marches on Velzeria.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Demon General Geier** |
+| **Defeat** | Diehärte falls |
+| **Allies** | Altemüller and Varna (joined via the best-ending route) |
+| **Secret** | Replaying via scenario-select sets up **Stage ?4** |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies** | Altemüller · Varna (and your full endgame roster) |
+| **Enemy** | **Demon General Geier** · a high-level demon host (golems, dinos, durahan lords, arch demons, snipers) |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| First floor, south — the **cracked floor** | Pull, then "Pull it out gently" (優しく引き抜く) | Gungnir |
+
+## Walkthrough
+
+The penultimate battle. **Geier**, corrupted into a demon general, leads the host
+barring the way deeper into Velzeria. Lean on your now-formidable endgame party
+and your new allies **Altemüller and Varna** to break through to him.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ Push          Cut through the demon host with your full
+               endgame army + Altemüller and Varna.
+ Finish        Defeat Demon General Geier.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+> **Stage ?4 trigger:** after clearing Scenario 35, use scenario-select to replay
+> Scenario 34, this time **persuade *and* defeat Altemüller**; in the conversation
+> afterward, choose the new line **"it was an easy win, so I'm fine."** See Stage ?4.
+
+
+
+# Stage ?4 — The Mightiest Foe
+*Altemüller's final request: an all-out duel*
+
+> Altemüller has been saved and Alhazard has been sealed again.
+
+With Altemüller saved and Alhazard sealed once more, the field marshal asks one
+thing of Diehärte — a contest with nothing held back, the strongest fight in the
+game.
+
+## Unlocking ?4 (best-ending route)
+
+After clearing **Scenario 35**, use scenario-select to **replay Scenario 34**.
+This time **persuade *and then* defeat Altemüller**; in the conversation
+afterward, choose the new line **"it was an easy win, so I'm fine."**
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Win the all-out duel against Altemüller's force |
+| **Defeat** | Diehärte falls |
+
+## Buried treasure
+
+| Where | What to do | Reward |
+|---|---|---|
+| Behind the throne, where the **carpet is peeled back** | Open the safe — code **33659033** | Hegemon Necklace |
+| The throne where **Altemüller** sits | Pick "Check its chest" (胸のあたりを調べる) | Assault Suit |
+
+## Walkthrough
+
+This is a pure test of strength against Altemüller at the height of his power — the
+toughest battle the game offers. Field your best-developed party, bring your
+strongest gear (the **Hegemon Necklace** and **Assault Suit** from this very
+map help), and give it everything, just as he asked.
+
+## Branching dialogue
+
+The decisions are the **safe code (33659033)** and **examining Altemüller's chest**,
+both listed under Buried treasure.
+
+
+
+# Scenario 36 — The Birth of a Legend
+*The last battle against Böser*
+
+> Having defeated Demon General Geier, the party enters the glowing altar beneath Castle Velzeria. Paul's chant to the God of Chaos echoes from within.
+
+Geier felled, the party enters the glowing inner sanctum where the Chaos ceremony
+nears its end. **Böser** — Kaiser Paul, vessel of the chaos god — must fall before
+the rite completes, or your beloved is lost and Chaos fully wakes.
+
+## At a glance
+
+| | |
+|---|---|
+| **Victory** | Defeat **Böser within 17 turns** |
+| **Defeat** | Diehärte falls · the ceremony completes (your beloved is lost) |
+
+## Order of battle
+
+| Side | Units |
+|---|---|
+| **Allies** | Your full best-ending roster (incl. Altemüller, Varna) |
+| **Enemy** | **Böser** (Kaiser Paul, vessel of Chaos) · the final demon host |
+
+## Buried treasure
+
+None.
+
+## Walkthrough
+
+The final battle, against the **17-turn clock**. The ceremony at the chamber's
+heart is counting down to completion — drive straight for **Böser** and bring him
+down in time. Spend nothing on the demon host you don't have to; every turn lost
+brings the chaos god closer to full awakening and your beloved closer to being
+lost forever. Strike fast, strike together, and end it.
+
+```
+ BATTLE FLOW
+ ───────────────────────────────────────────────────────
+ The clock     17 turns until the ceremony completes.
+ Charge        Push directly to Böser; don't dawdle on
+               the demon host.
+ Finish        Defeat Böser in time to save your beloved
+               and seal Chaos — the legend is born.
+ ───────────────────────────────────────────────────────
+```
+
+## Branching dialogue
+
+None — see **Endings** for what follows your victory.
+
+
+
+# Endings & the Best-Ending Route
+
+Langrisser III has **two endings** — a *normal* ending and the *true* (best)
+ending — each with **variations by which heroine** you win. This chapter pulls the
+requirements together; for the per-choice love-index detail, see *The Heroine
+System*.
+
+## The two endings
+
+| Ending | How it happens |
+|---|---|
+| **Normal** | The game ends after **Scenario 34**. |
+| **True (best)** | Meeting the checklist in Scenario 34 opens **Scenarios 35 & 36**, the true finale. |
+
+> On the true route your **chosen lover is kidnapped** and cannot be used in
+> Scenarios 35–36 (story reasons); **Altemüller and Varna** join in her place.
+
+## Reaching the true ending
+
+Everything below must come together at **Scenario 34** (the crossroads):
+
+**Prerequisites carried into Sc 34**
+1. A **successful love confession** (offered after Scenario 33).
+2. **Freya** persuaded and in your party (her arc closes in Scenario 31).
+3. **Langrisser equipped** on Diehärte.
+
+**Inside Scenario 34**
+4. **Persuade Varna** with Emerick or Diehärte (move adjacent — automatic); **keep her alive**.
+5. **Persuade Altemüller** with **Emerick** (move adjacent — automatic); **keep Emerick alive**.
+6. **Defeat Altemüller with Diehärte wielding Langrisser.**
+
+Do all six and Scenarios 35 & 36 open.
+
+## Winning Freya (the extra requirement)
+
+Freya joins **only** if you take every **persuasion** option across her arc — and
+avoid attacking her or wiping out the field when she's present. The persuasion
+beats, in order:
+
+| Scenario | Persuasion action |
+|---|---|
+| **Sc 07** | Stand beside Freya / let her strike first; in the flashback choose **"I'm sorry."** |
+| **Sc 14** | "Sheathe your blade, Freya" · "Ask her why she fights." |
+| **Sc 16** | (talking to Freya) "To see you." |
+| **Sc 17** | "Tell me what troubles you!" · "I don't want to fight you, Freya." · "Why go so far?" |
+| **Sc 31** | Reach Freya with Diehärte — **auto-persuasion**; she joins if her arc is complete. |
+
+> Throughout: **never have Diehärte attack Freya, and don't defeat the Dark Knight**
+> in Sc 6/16 — each lowers her index. (See Sc 32/33 for a few more ± choices.)
+
+## Choosing your heroine
+
+Your ending's flavour follows **whom you confess to after Scenario 33** — and that
+needs her love index high enough by then. Rough safe targets (per the 攻略データ):
+
+| Heroine | Approx. index needed |
+|---|---|
+| Freya | +8 |
+| Sophia | +12 |
+| Liffany | +13 |
+| Tiaris | +13 |
+| **Luna** | **+29** (far higher — farm her battle praise from Sc 5 on) |
+
+The full per-choice tables and the "win all five" route are in *The Heroine
+System*. Note the love index can also be seeded back in **Character Creation**.
+
+### The confession itself
+
+After Scenario 33, Diehärte is asked *"Who's on your mind?"*:
+
+| JP (balizador) | EN (in-game) | Effect |
+|---|---|---|
+| 女性 | A Woman | go on to name a heroine |
+| 男性 | A Man | the **Hero Select** gag (needs Iron Dumbbell + Vaseline in your bags) |
+
+Then *"Who is the woman that fills your heart now?"* — name the heroine you courted (her love index must be
+high enough, per the table above). A second, identical prompt asks again to
+confirm; answer **yes** at *"Will you confess your feelings to her?"* to seal it.
+
+| JP (balizador) | EN (in-game) |
+|---|---|
+| ティアリス | Tiaris |
+| リファニー | Liffany |
+| ルナ | Luna |
+| ソフィア | Sophia |
+| フレア | Freya |
+
+## How your characters are remembered
+
+Whatever ending you reach, the epilogue narrates **what becomes of each
+character** afterward — one rises to a great knight, another to a famed mage,
+and so on. Each fate is decided by that character's record at clear time:
+**final level**, **total enemies defeated**, and **total retreats**. Roughly:
+
+| Their record at clear | Their fate |
+|---|---|
+| Many kills · **zero retreats** | Great deeds — their name lives on in history |
+| Few kills · **zero retreats** | A quiet, peaceful life ever after |
+| Any kills · **one or more retreats** | Dies, or vanishes without a trace |
+| Any kills · **many retreats** | Comes to a wretched end |
+
+So if a character means something to you, **fight hard with them and never let
+them retreat** — that is how you earn them a happy life after the war.
+
+## After the credits
+
+Once the ending and staff roll finish, **leave the screen alone** — wait without
+pressing anything and the cast's **voice-actor free-talk** begins. Press a button
+and you're bounced back to the title, so be patient. (See also the **Hero Select**
+gag and **New Game+** in *Secrets & Cheats*.)
+
+
+
+# The Heroine System (Love Index)
+
+Five heroines can become Diehärte's beloved: **Tiaris, Liffany, Luna, Sophia,**
+and **Freya**. Your dialogue choices quietly raise or lower each one's **love
+index**. Bank enough by the confession scene after **Scenario 33** and she can
+become your partner — a successful confession (plus Freya recruited) is also the
+gate to the **best ending**.
+
+> **Keep her alive.** Letting a heroine fall in battle tends to cost love index.
+> You also earn points during the Character Creation quiz (see Chapter 1).
+
+**Rough targets** (accumulated love index needed for a confident confession):
+
+| Heroine | Target |
+|---|---|
+| Tiaris | +13 |
+| Liffany | +13 |
+| Sophia | +12 |
+| Luna | **+29** (the grind — see her notes) |
+| Freya | +8 (but requires the persuasion chain) |
+
+**Legend:** ◎ +2 · ○ +1 · × −1 · ×× −2 · (blank) no change.
+
+---
+
+## Tiaris
+
+| Scenario | Situation → pick | Effect |
+|---|---|---|
+| After Sc. 1 | Mourning her father at the fallen castle: ○ *"Gerold…"* · × *show a smile* · × *we're moving out* | ○ / × |
+| Sc. 3 | Gilbert attacks Grove | ○ |
+| Sc. 3 | Attacking Coty, or Tiaris starting the fight | × |
+| After Sc. 4 | Teased about sending the citizens west: bristle / apologize plainly / × sulk | × on sulk |
+| Sc. ?2 start | "You wished everyone else were a girl, didn't you?": × *that's right* · *it's your imagination* | × |
+| Sc. 11 | Sacrificing her at the hidden-item spot | × |
+| After Sc. 21 | Comforting her after she loses a parent: ○ *I'm here for you* · × *just forget it* | ○ / × |
+
+## Liffany
+
+| Scenario | Situation → pick | Effect |
+|---|---|---|
+| Sc. 4 | Approach Liffany while the citizens are still alive | ○ |
+| After Sc. 4 | On her joining: ○ *I'd hate to make a woman fight…* · × *say nothing* | ○ / × |
+| Sc. ?1 | To the noodle-house tout: × *talk or get hurt* · *save the fun for later* | × |
+| Sc. ?1 | After clearing monsters, on Luna offering to guide: × *no thanks* · *understood* | × |
+| After Sc. 9 | On the Empire's four generals: × *can we win?* · ○ *but we can't lose* · *easy win!* | ○ / × |
+| Before Sc. 29 | She frets outside Velzeria Castle: ○ *this is serious* · × *take it easy!* · *that's not like you!* (→ then ◎ *sorry, sorry* · ×× *I meant it*) | ○ / ◎ / ×× |
+| After Sc. 31 | She consoles you (only if Freya died): ○ *…sorry* · × *leave me be* | ○ / × |
+
+## Luna *(the long road — +29)*
+
+| Scenario | Situation → pick | Effect |
+|---|---|---|
+| Sc. 5–30 | **Clear a map cleanly/quickly** → she praises you (*"A splendid command, Lord ___"*) | ○ each time |
+| " | Struggling/dragging a battle out | × |
+| Sc. 5 | Let the ambush appear first (don't cross the central ridge) and keep her alive | ○ |
+| After Sc. 7-T1 | On breakthrough tactics: × *that's not so* · ○ *that's the plan* · *understood* | ○ / × |
+| Sc. 11 | After Feraquea appears, on her missing the ambush: ○ *don't worry* · × *someone like you, troubled?* | ○ / × |
+| After Sc. 15 | On her Dark-Knight feint plan: × *obviously* · ○ *as expected of you* | ○ / × |
+
+> Luna's praise (○) only triggers in Scenarios 5–30, so chase clean, fast clears
+> the whole midgame. This is why her target is so high.
+
+## Sophia
+
+| Scenario | Situation → pick | Effect |
+|---|---|---|
+| Any | If victory ISN'T "rout all enemies," wiping out every (human) enemy anyway → *"You didn't have to annihilate them…"* | × |
+| After Sc. 10 rescue | On her healing an enemy: × *no mercy for foes* · ○ *that's kind of you* | ○ / × |
+| Sc. 10 | Diehärte approaches her (asking to persuade Keh Shikairo): ○ *to protect you* | ○ |
+| Sc. 12 | Worried for her endangered father: ○ *it'll be fine* · × *this is grim…* | ○ / × |
+| Sc. 23 | Anxious over villagers cornered to the west: × *what do we do* · ○ *it'll be fine* | ○ / × |
+
+## Freya *(special — recruited via a persuasion chain)*
+
+Freya must be **persuaded**, not just liked. Across her battles, choose the
+*persuasion* option, never attack her yourself, and don't wipe the field down to
+only her. **Do not kill the Dark Knight** (possible in Sc. 6 & 16) — it lowers her
+index.
+
+| Scenario | Key actions |
+|---|---|
+| Sc. 7 | Approach with Diehärte → talk (persuade); let her attack Diehärte → talk (persuade); don't attack her (×); don't leave only her (×) |
+| After Sc. 7 | Childhood flashback "won't we meet again?": ○ *I'm sorry* · × *that's right* |
+| Sc. 14 | Approach: *sheathe your sword, Freya* (persuade); when only she remains: *ask why she fights* (persuade); don't attack her (×) |
+| Sc. 16 start | Why come to Laffel alone?: ○ *to see you* · × *to fight the Dark Knight* |
+| Sc. 17 | Approach: *tell me your troubles!* (persuade); she attacks you: ○ *I don't want to fight you* · ×× *don't give up*; on defeating her: ○ *why go this far…* |
+| Sc. 31 | Diehärte persuades her — if every persuasion was taken and her index is high enough, she **joins** |
+| Sc. 32 | On King Wilder's madness: ○ *there must be a reason*; near Wilder: ○ *…is it alright?* |
+| Sc. 33 | Freya attacks Rag ○; if Freya is defeated × |
+
+---
+
+## Choices that move two or more hearts
+
+| Scenario | Situation → pick (effects) |
+|---|---|
+| **Sc. 4** | Pierre asks why west: *It was a joke* · *Bad with directions* (Li ○, Ti ×) · *It was a test* |
+| Sc. ?1 | Who eats the noodles: self only (Ti·Li·Lu ×) · girls only (Ti·Li·Lu ×) · **everyone** (Ti·Li·Lu ○) |
+| After Sc. 10 | On Sophia joining: *all go!* (Ti ○) · *don't overdo it, Sophia* (Ti·So ○) · *I count on Sophia* (Li·So ○) · *say nothing* (all ×) |
+| Sc. ?2 | If you pick "fight with 3," the benched characters take × |
+| After Sc. 13 | Who gets the Sword of Decimation: Tiaris (Ti ○) · Liffany (Li·Lu ○) · Luna (Lu ○) · Sophia (So ○) · Layla (all ×) |
+| Before Sc. 16 | Buy a present in Laffel: chosen heroine ◎, others × · don't buy (Fr ○) |
+| After Sc. 18 | Rescue vs. wipe the foe (Luna urges wipe): *think of Lewin* (Lu·So ×) · *it can't be helped…* (Ti·Li·So ○) · *you're right* (So ○, Li ×) |
+| After Sc. 19 | Raymond rescue plan: *leave it to me!* (Ti·Li ○, Lu ×) · *it'll be fine* (Lu·So ○) · *just try* (all ×) |
+| Sc. 19 | Pick *Love* at the hidden-item spot | all ○ |
+| Sc. 21 | Emerick: *a fine end* (Li·Lu ○) · say nothing · *an easy foe* (all ×) |
+| After Sc. 21 | On the truce talks: *agree* (Lu·So ○) · *oppose* (Ti·Li ○) · *unsure* (all ×) |
+| Sc. 23 | Gilbert attacks Grove (all ○); Gilbert defeated (all ×) |
+| After Sc. 23 | Whose side in the quarrel: Tiaris/Liffany/Sophia (that one ○) · leave it to Luna (all ×) |
+| Sc. 24 | Altemüller's truce: *accept* (Ti ×) · *fight on* (Ti ○, Lu·So ×) · *say nothing* |
+| Sc. 26 / 27 | Kirikaze attacks Feraquea (all ○); Kirikaze defeated (all ×) |
+| Before Sc. 27 | On the ambush warning: *we'll be fine* (Ti·Li ○) · *stay sharp* (Lu·So ○) · *we might fail* (Ti·Li·Lu ×) |
+| Sc. 28 | Gilbert defeated (all ×) |
+
+> After Sc. 24, if Tiaris's index is too low she runs off; keep it up and she
+> accepts your judgment instead.
+
+## Cheat sheet — winning all five hearts
+
+The 攻略データ's "love-them-all" route:
+
+1. **Character Creation** — answer: God dwells *in the heavens* · saved by *a
+   wealth of knowledge* · live *to protect the one I love* · love is *given
+   mutually* · fight *to protect my loved ones*.
+2. Always let rival characters take their **revenge kills** when offered.
+3. Buy the **present for Luna**; earn her praise **15+ times**.
+4. Take every **single-heroine ○** option, naturally.
+5. For the shared choices, pick: Sc. 10 *don't overdo it, Sophia* · Sc. 14 *ask
+   Tiaris* · Sc. 18 *it can't be helped…* · Sc. 19 *leave it to me!* · Sc. 21
+   *agree* · Sc. 23 *Tiaris* · Sc. 24 *accept the truce* · Sc. 27 *we'll be fine*.
+
+
+
+# Classes & Class Change
+
+Every commander can **change class** as they level. Each character belongs to an
+**attribute line** (Infantry, Cavalry, Mage…); leveling within a class — or using
+a **Divine Blessing** — promotes them up that line. Reach the top and the right
+item can open a **hidden class**, which usually grants powerful new skills.
+
+> The hero and Holy Beast Jugler are special: various **Runes** add attributes to
+> them regardless of level (see the Items chapter).
+
+## Class line by character
+
+Which attribute each commander rides at every tier. The hero's line is set during
+[Character Creation](01-character-creation.md).
+
+| Character | Initial | Lv 10 | Lv 30 | Lv 50 |
+|---|---|---|---|---|
+| **Diehärte** | *set by Character Creation* | | | |
+| Tiaris | Priest-Warrior | Mage | Heretic | — |
+| Lewin | Infantry | Spear | Bow | Cavalry |
+| Gilbert | Cavalry | Spear | Marine | — |
+| Pierre | Spear | Cavalry | Marine | — |
+| Liffany | Mage | Bow | Heretic | — |
+| Luna | Flight | Unicorn | Mounted Bow | Infantry |
+| Sophia | Cleric | Priest-Warrior | Mage | — |
+| Fauvel | Priest-Warrior | Mage | Spear | — |
+| Jugler | Unicorn | Infantry | Marine | Flight |
+| Dios | Marine | Mounted Bow | Cavalry | Spear |
+| Silver Wolf | Thief | Bow | Infantry | — |
+| Jessica | Cleric | Mage | Priest-Warrior | Infantry |
+| Kirikaze | Infantry | Cavalry | Thief | — |
+| Do Kahni | Spear | Bow | Marine | Infantry |
+| Freya | Cleric | Infantry | Unicorn | Mage |
+| Emerick | Cavalry | Infantry | Spear | — |
+| Altemüller | Cavalry | Flight | Infantry | — |
+| Varna | Infantry | Flight | Bow | — |
+
+## Class ladders & hidden classes
+
+Each attribute promotes **base → mid → top** (the mercenaries you can hire at
+each step are in parentheses). A **hidden class-up item** then opens a special
+class for the listed characters — skills it grants are noted in brackets.
+
+### Infantry
+`Fighter → Gladiator → Swordsman` *(hire: Soldier · Infantry · Legion)*
+> ★ **Hero's Stone** → Diehärte (**Hero**) · Lewin (**King** — adds
+> metal-armor skill) · Kirikaze (**Samurai Master** — Focus, Iai, Self-Destruct,
+> Critical) · Altemüller (**Emperor** — hire Grenadier) · Varna (**Queen**)
+
+### Spear
+`Lord → High Lord → General` *(hire: Pike · Halberd · Phalanx)*
+> ★ **Scathach Tome** → Lewin · Gilbert · Pierre (**Marshal** — adds shield &
+> spear equip skills)
+
+### Marine
+`Croco Knight → Serpent Knight → Serpent Lord` *(hire: Merman · Lizardman · Archelon)*
+> ★ **Mermaid Tear** → Diehärte · Pierre · Dios (**Serpent Master** — hire Nixie)
+
+### Bow
+`Hunter → Archer → Sniper` *(hire: Crossbow · Elf · Ballista)*
+> ★ **Apollo Arrow** → Silver Wolf (**Ranger** — hire High Elf) · Varna
+> (**Ranger** — hire Jäger)
+
+### Flight
+`Hawk Knight (Pegasus Knight) → Dragon Knight → Dragon Lord` *(hire: Harpy · Fairy · Griffon)*
+> ★ **Heavenly Wings** → Diehärte · Luna (**Dragon Master** — hire Angel)
+
+### Cavalry
+`Knight → Silver Knight → Highlander` *(hire: Trooper · Lancer · Dragoon)*
+> ★ **Knight Crest** → Gilbert (**Knight Master**) · Emerick / Altemüller
+> (**Royal Guard** — hire Royal Lancer)
+
+### Unicorn *(special cavalry)*
+`Unicorn Knight → Gran Knight → Gran Lord` *(hire: Unicorn · Sleipnir · Chimera)*
+> ★ **Ancient Egg** → Luna / Freya (**Gran Master**)
+
+### Mounted Bow
+`Archer Knight → Bow Knight → Bow Lord` *(hire: Centaur · Angoramora · Hapilsag)*
+> ★ **Arrow of Fate** → Dios (**Bow Master**)
+
+### Thief
+`Bandit → Thief (adds Swift) → Assassin (adds Hide, Critical)` *(hire: Beggar · Rogue)*
+> ★ **Secret Manual** → Silver Wolf (**High Master** — adds reflex-up) · Kirikaze
+> (**Ninja** — adds ninja skills, hire Kunoichi)
+
+### Priest-Warrior
+`Bishop → Paladin → Saint` *(hire: Guardman · Monk · Crusader)*
+> ★ **Holy Symbol** → Diehärte · Tiaris · Sophia · Fauvel (**Sage** — adds First
+> Aid, Chain Magic) · Freya (**Princess** — adds First Aid)
+
+### Cleric
+`Cleric → Priest → High Priest` *(hire: Guardman · Monk)*
+> ★ **White Grimoire** → Sophia · Jessica (**Agent**)
+
+### Mage
+`Sorcerer → Mage → Archmage` *(hire: Soldier)*
+> ★ **Magic Symbol** → Diehärte · Liffany · Fauvel · Jessica (**Hermit** — adds
+> Chain Magic, magic-tool equip)
+
+### Heretic
+`Shaman → Summoner → Zaverer` *(hire: Soldier)*
+> ★ **Black Grimoire** → Tiaris · Liffany (**Wizard** — adds magic-tool equip)
+
+---
+
+## Special tree — Do Kahni (the Shika tribe)
+
+The Brave Do Kahni climbs a unique Shika-tribe ladder:
+
+| Line | Ladder *(hire)* |
+|---|---|
+| Spear | `Spear → Shika Spear → Shika Shika Spear` *(Bamboo)* — ★ **Scathach Tome** → **Shika Marshal** |
+| Bow | `Shika Hunter → Shika Archer → Shika Sniper` *(Slinger)* |
+| Marine | `Swimmer → Pirate → Captain` *(Shika Frog · Shika Shark · Shika Orca)* |
+| Infantry | `Fighter → Gladiator → Swordsman` *(Barbarian · Berserker · Shielder)* |
+
+## Special tree — Holy Beast Jugler (monster classes)
+
+Jugler transforms into beasts rather than soldiers:
+
+| Line | Ladder *(hire)* |
+|---|---|
+| Unicorn | `Manticore → Cerberus → Master Dino` *(Hellhound · Sabertiger · Bone Dino)* — ★ **Ancient Egg** → **Behemoth** |
+| Infantry | `Werewolf → Troll → Minotaur` *(Wolfman · Ogre)* — adds Regenerate, Berserk |
+| Marine | `Scylla → Sea Serpent → Hydra` *(Killer Lobster · Lizardman · Tentacle)* |
+| Flight | `Wurm → Wyvern → Sphinx` *(Harpy · Bat · Gremlin)* — ★ **Heaven's Wings** → **Roc** (hire Gargoyle) |
+| Demon | `Incubus → Succubus → Arch Demon` *(Imp · Nightmare · Lesser Demon)* — ★ **Demon Water** → **Demon Lord** |
+| Spirit | `Ghost → Lich → Wraith` *(Phantom · Wight · Specter)* — ★ **Ghost Blood** → **Death** |
+| Dragon | `Great Dragon → Chaos Dragon → Bahamut` *(Red · Black · White Dragon)* — ★ **Dark Dragonstone** → **Fafnir** |
+
+
+
+# Item List
+
+How to read each table:
+
+- **Value** — sell price (shops and the hidden shop charge the same).
+- **Found** — the scenarios whose shop sells it, or `hidden (Sc N)` for an item
+  buried on a map / given by an event (see the buried-item notes in each
+  walkthrough). Blank means shop route unknown — buy at the hidden shop or win it
+  from a foe.
+- **Effect** — **AT** attack · **DF** defense · **MV** move · **INT** intellect ·
+  **R** magic range/area · **A-mod/D-mod** mercenary attack/defense mod ·
+  *resist* fire/ice/earth/wind/thunder/holy/spirit · *spell* usable when the item
+  is "Used".
+
+## Weapons
+
+### Swords  *(equip: Flier · Infantry · Cavalry · Thief · Marine · Unicorn)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Longsword | 1,220 | Sc 7–15 | AT +4 |
+| Greatsword | 1,800 | Sc 10–20 | AT +5 |
+| Decimation Sword ※ | 40,000 | Sc 15 | AT +7 |
+| Mithril Sword | 2,500 | Sc 17–25 | AT +6 |
+| Ice Blade | 3,100 | Sc 24–27 | AT +6 |
+| Langrisser ※ | 65,000 | Sc 25 | AT +11, DF +1, all resist +15 |
+| Raijin Ken | 3,100 | Sc 28–31 | AT +6 |
+| Hrunting | 4,000 | Sc 30–34 | AT +7 |
+| Excalibur | 6,800 | hidden (Sc 32) | AT +9, DF +1 |
+| Gram | 4,100 | Sc 33–34 | AT +6, bonus vs dragons |
+| Kusanagi | 4,800 | Sc 35–36 | AT +8 |
+| Masayan Sword | 15,300 | Sc 25 (2nd run) | AT −2, DF −2, A-mod −2, doubles EXP gained |
+
+> ※ Decimation Sword and Langrisser can be equipped **only by Diehärte
+> and Lewin**.
+
+### Axes  *(equip: Flier · Infantry · Cavalry · Marine · Unicorn)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Hand Axe | 400 | Sc 5–6 | AT +4 |
+| Devil Axe | 9,000 | hidden (Sc 5) | AT +12, DF −4, MV −2 |
+| Battle Axe | 2,250 | Sc 12–26 | AT +7, MV −1 |
+| Mithril Axe | 3,800 | Sc 21–35 | AT +7 |
+| Rune Axe | 11,500 | hidden (Sc 25) | AT +10, MV −1 |
+
+### Knives  *(equip: Infantry · Cavalry · Thief · Marine · Unicorn · Mage · Heretic)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Knife | 40 | Sc 1–5 | AT +1 |
+| Main Gauche | 160 | Sc 3 | AT +1, DF +1 |
+| Gladius | 200 | Sc 5–7 | AT +2 |
+| Kryss | 400 | Sc 7–23 | AT +3 |
+| Kunai | 800 | Sc 24–35 | AT +4 |
+
+### Spears  *(equip: Flier · Infantry · Cavalry · Spear · Thief · Marine · Unicorn)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Bamboo Spear | 210 | Sc 5–8 | AT +3 |
+| Iron Spear | 1,450 | Sc 8–13 | AT +4 |
+| Trident | 1,600 | Sc 11–35 | AT +5 |
+| Partisan | 2,600 | Sc 17–33 | AT +6 |
+| Gae Bolg | 6,400 | hidden (Sc 30) | AT +9 |
+| Feather Spear | 4,000 | Sc 32–34 | AT +7 |
+| Benkei Glaive | 5,000 | Sc 35–36 | AT +8 |
+| Gungnir | 10,500 | hidden (Sc 35) | AT +10 |
+
+### Lances  *(equip: Flier · Cavalry · Unicorn)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Bloody Lance | 17,000 | hidden (Sc 3) | AT +6, spell: HP Drain |
+| Zuftaf | 16,000 | hidden (Sc 14) | AT +11 |
+| Lance | 3,200 | Sc 15–32 | AT +7 |
+| Mithril Lance | 4,800 | Sc 30–34 | AT +8 |
+| Dragon Lance | 6,400 | Sc 35–36 | AT +9 |
+| Flame Lance | 10,000 | Sc ?4 | AT +10 |
+
+### Maces  *(equip: Flier · Infantry · Cavalry · Marine · Unicorn · Cleric)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Club | 230 | Sc 3–5 | AT +3 |
+| Flail | 950 | Sc 6–11 | AT +4 |
+| Morningstar | 1,600 | Sc 10–24 | AT +5 |
+| Mithril Hammer | 2,800 | Sc 22–32 | AT +6 |
+| Dagda Club | 4,000 | Sc 31–35 | AT +7 |
+| Mjolnir | 6,500 | hidden (Sc 33) | AT +8 |
+| Iron Dumbbell | 60 | hidden (Sc ?3) | AT +2 |
+
+### Staves  *(equip: Infantry · Thief · Marine · Cleric · Priest-Warrior · Mage · Heretic)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Cypress Staff | 80 | Sc 1–4 | AT +1, R1 |
+| Staff | 400 | Sc 5–8 | INT +5, R3 |
+| Wand | 1,000 | Sc 7–21 | INT +10, R3, all resist +8 |
+| Crystal Rod | 2,850 | Sc 15–32 | AT +1, INT +10, R4 |
+| Wizard Rod | 4,400 | Sc 26–34 | AT +1, INT +10, R5, all resist +8 |
+| Holy Rod | 22,000 | Sc 34 | AT +2, INT +10, R6, all resist +8, spell: Holy Blaze |
+| Dark Rod | 22,000 | Sc 34 | AT +2, INT +10, R6, all resist +8, spell: MP Drain |
+| Ice Staff | 6,400 | Sc 35–36 | AT +1, INT +10, R5, all resist +8, spell: Freeze |
+| Staff of Life | 7,200 | Sc 35–36 | AT +1, INT +10, R5, all resist +8 |
+| Dragonlord Staff | 10,500 | hidden (Sc ?2) | AT +3, INT +5, R7, all resist +8 |
+
+### Bows  *(equip: Bow · Mounted Bow)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Wooden Bow | 550 | Sc 8–10 | AT +1 |
+| Shortbow | 800 | Sc 9–12 | AT +2 |
+| Artemis Bow | 4,000 | hidden (Sc 11) | AT +6 |
+| Longbow | 1,450 | Sc 12–14 | AT +3 |
+| Crossbow | 1,650 | Sc 14–18 | AT +4 |
+| Elven Bow | 2,200 | Sc 18–30 | AT +4, INT +5 |
+| Sleep Bow | 3,200 | Sc 25–32 | AT +5 |
+| Hadding | 3,400 | Sc 32–35 | AT +6 |
+
+### Katana  *(equip: Infantry — Kirikaze only)*
+
+| Weapon | Value | Found | Effect |
+|---|---|---|---|
+| Izayoi | 2,650 | Sc 27–31 | AT +6 |
+| Kiku-ichimonji | 4,800 | Sc 28–33 | AT +7 |
+| Muramasa | 20,000 | hidden (Sc 28) | AT +11, bonus vs humans |
+| Kotetsu | 7,400 | Sc 35–36 | AT +9 |
+| Masamune | 11,000 | Sc 35–36 | AT +10 |
+
+## Armor
+
+### Heavy armor  *(equip: Infantry · Cavalry · Spear · Unicorn)*
+
+| Armor | Value | Found | Effect |
+|---|---|---|---|
+| Plate Armor | 2,750 | Sc 15–22 | DF +6, MV −2 |
+| Silver Armor | 3,100 | Sc 22–26 | DF +6, MV −1, fire/ice/earth/wind +4, spirit +8 |
+| Knight Plate | 3,400 | Sc 25–34 | DF +7, MV −2 |
+| Aura Plate | 5,000 | Sc 35–36 | DF +7 |
+| Assault Suit | 80,000 | hidden (Sc ?4) | AT +10, DF +10 |
+
+### Medium armor  *(equip: Flier · Infantry · Cavalry · Spear · Unicorn · Cleric · Priest-Warrior)*
+
+| Armor | Value | Found | Effect |
+|---|---|---|---|
+| Chainmail | 1,450 | Sc 8–14 | DF +4, MV −1 |
+| Aeneas Armor | 3,500 | hidden (Sc 10) | DF +6 |
+| Earth Armor | 2,000 | Sc 12–16 | DF +4, ice/earth +12 |
+| Breastplate | 2,500 | Sc 16–20 | DF +5, MV −1 |
+| Dragon Scale | 2,800 | Sc 19–34 | DF +5, fire +18, ice +6 |
+| Warrior Armor | 3,000 | Sc 28–34 | DF +6, MV −1 |
+
+### Light armor  *(equip: all)*
+
+| Armor | Value | Found | Effect |
+|---|---|---|---|
+| Cloth Clothes | 80 | Sc 1–2 | DF +1 |
+| Robe | 160 | Sc 3–13 | DF +1, most resist +4 |
+| Leather Armor | 330 | Sc 4–6 | DF +2 |
+| Hard Leather | 650 | Sc 5–26 | DF +3 |
+| Celestial Robe ♀ | 1,500 | hidden (Sc 8) | DF +2, all resist +12 |
+| Dark Vestments | 2,800 | hidden (Sc 9) | DF +3, resist +15, holy −10, spell: Confuse |
+| Mirage Robe | 850 | Sc 14–34 | DF +2, all resist +8 |
+| Black Suit | 800 | Sc 27–35 | DF +4 |
+| Magical Bikini ♀ | 800 | Sc 35–36 | DF +1, all resist +12, spell: Resist |
+| Vaseline | 40 | hidden (Sc ?3) | none |
+| Goddess Dress ♀ | 2,800 | — | DF +3, all resist +15, spell: Heal 1 |
+
+> ♀ = female characters only.
+
+## Shields
+
+### Combat shields  *(equip: Flier · Infantry · Cavalry · Spear · Marine · Unicorn)*
+
+| Shield | Value | Found | Effect |
+|---|---|---|---|
+| Large Shield | 630 | Sc 5–10 | DF +3 |
+| Pata | 720 | Sc 8–12 | AT +2, DF +2 |
+| Dragon Shield | 800 | Sc 11–14 | DF +3, fire +12, ice +4 |
+| Magic Shield | 1,000 | Sc 14–34 | DF +3, all resist +6 |
+| Achilles Shield | 1,200 | hidden (Sc 15) | DF +3, HP +5, spell: Protection 1 |
+
+### Bracelets  *(equip: all except Mage · Bow · Mounted Bow)*
+
+| Item | Value | Found | Effect |
+|---|---|---|---|
+| Small Shield | 130 | Sc 2–4 | DF +1 |
+| Buckler | 250 | Sc 4–17 | DF +2 |
+| Miracle Bracelet | 1,150 | Sc 18–31 | DF +2, crit-rate up, spell: Heal 1 |
+| Guard Bracelet | 950 | Sc 26–34 | DF +3, spell: Protection 1 |
+| Power Bracelet | 1,150 | Sc 33–35 | AT +1, DF +2, spell: Attack 1 |
+
+## Helmets & headgear
+
+### Helmets  *(equip: Flier · Infantry · Cavalry · Spear · Unicorn)*
+
+| Helmet | Value | Found | Effect |
+|---|---|---|---|
+| Egil Helm | 1,000 | hidden (Sc 3) | DF +3, INT +5, crit-rate up |
+| Sallet | 400 | Sc 5–7 | DF +2 |
+| Armet | 750 | Sc 7–13 | DF +3 |
+| Mithril Helm | 950 | Sc 13–34 | DF +3, most resist +4 |
+
+### Headgear  *(equip: all)*
+
+| Item | Value | Found | Effect |
+|---|---|---|---|
+| Hairband | 80 | Sc 1–4 | spirit +6 |
+| Leather Cap | 80 | Sc 3–5 | DF +1 |
+| Tiara | 400 | Sc 5–13 | MP +5, all resist +4 |
+| Circlet | 2,250 | Sc 11–28 | DF +1, MP +5, most resist +6 |
+| Ninja Hood ♀ | 800 | Sc 14–34 | DF +3 |
+| Veil of Light | 4,400 | hidden (Sc 17) | DF +1, A-mod +2, D-mod +2, holy +12, spirit +6 |
+| Crown | 3,200 | Sc 29–34 | A-mod +2, D-mod +2 |
+
+## Boots & legwear  *(equip: Flier · Infantry · Thief · Cleric · Priest-Warrior · Mage · Heretic)*
+
+| Item | Value | Found | Effect |
+|---|---|---|---|
+| Leg Garter | 70 | Sc 3–6 | DF +1 |
+| Greaves | 240 | Sc 7–26 | DF +2 |
+| Speed Boots | 2,000 | Sc 25–34 | MV +4 |
+
+## Accessories
+
+### Caster accessories  *(equip: Cleric · Priest-Warrior · Mage · Heretic)*
+
+| Item | Value | Found | Effect |
+|---|---|---|---|
+| Magic Circle | 550 | Sc 5–21 | INT +5, fire/ice/earth/wind/thunder +15 |
+| Gleipnir | 2,500 | hidden (Sc 5) | AT +3, DF +1, all resist +12 |
+| Holy Talisman | 1,600 | hidden (Sc 5) | INT +15, D-mod +8, holy/spirit +15 |
+| Gjallarhorn | 3,600 | hidden (Sc 6) | A-mod +10, D-mod +5 |
+| Immortal Crest | 4,200 | hidden (Sc 16) | A-mod +2, MP +10, R2, fire/ice/earth/wind +6, holy −15, spirit +15 |
+| Orb | 1,800 | Sc 23–34 | MP ×1.5 |
+| Angel Feather | 4,800 | hidden (Sc 23) | A-mod +3, D-mod +5, most resist +30 |
+| Talisman | 2,200 | hidden (Sc 33) | A-mod +5, D-mod +5 |
+| Blood Pact | 4,800 | hidden (Sc ?2) | A-mod +7, D-mod +3, fire/ice/earth/wind +30, holy −10, spirit +45 |
+| Fire Orb | 2,150 | Sc ?4 | R1, fire +10, max MP ×1.5 |
+
+### General accessories  *(equip: all)*
+
+| Item | Value | Found | Effect |
+|---|---|---|---|
+| Cross | 250 | Sc 2–19 | D-mod +2, spell: Turn Undead |
+| Angel Ring | 1,100 | hidden (Sc 2) | HP +10, MP +10, INT +10, holy/spirit +22 |
+| Amulet | 650 | Sc 7–22 | all resist +15, spell: Resist |
+| Necklace | 800 | Sc 12–34 | lets you hire 8 mercenaries |
+| Power Ring | 1,000 | hidden (Sc 15) | A-mod +8, spell: Attack 2 |
+| Crystal Ankh | 3,100 | hidden (Sc 15) | D-mod +5, all resist +12 |
+| Spiritstone Ring | 3,200 | hidden (Sc 17) | A-mod +5, D-mod +5, all resist +8 |
+| Star Earring | 2,500 | hidden (Sc 17) | −25% MP cost per spell |
+| Laurin's Ring | 1,650 | Sc 20–32 | HP +30 |
+| Draupnir | 3,200 | Sc 29–32 | DF +3 |
+| Megingjardar | 2,700 | Sc 35–36 | AT +10% |
+| Protect Ring | 1,000 | Sc ?4 | D-mod +8, spell: Protection 2 |
+| Hegemon Necklace | 4,500 | hidden (Sc ?4) | A-mod +8, D-mod +5, hire 8 mercenaries |
+
+## Consumables & boosters  *(not equipped — used)*
+
+| Item | Value | Found | Effect |
+|---|---|---|---|
+| Magic Herb | 100 | Sc 10–35 | restore 20 MP |
+| Ambrosia | 8,000 | Sc 33–34 | max mercenaries +1 (cap 8) |
+| Divine Blessing | 5,500 | Sc 35–36 | class up once |
+| Nectar | 10,000 | Sc ?4 | level up once |
+| Runestone | 40,000 | Sc ?4 | level down, keeping current stats |
+| Valor Seed | 7,500 | Sc 33–34 | A-mod +1 |
+| Vitality Leaf | 7,500 | Sc 33–34 | D-mod +1 |
+| Wisdom Fruit | 5,800 | Sc 33–34 | INT +1 |
+| Power Fruit | 5,800 | Sc 33–34 | STR +1 |
+| Strength Fruit | 5,800 | Sc 33–34 | HP +1 |
+| Protection Fruit | 5,800 | Sc 33–34 | DF +1 |
+
+## Runes  *(add an attribute permanently; all 10,000, Sc 32–33)*
+
+The hero and Holy Beast Jugler can gain a class line at any level with a Rune.
+
+| Rune | Adds to |
+|---|---|
+| Earth Rune | Diehärte → Infantry |
+| Wind Rune | Diehärte → Cavalry |
+| Light Rune | Diehärte → Priest-Warrior |
+| Heaven Rune | Diehärte → Flier |
+| Water Rune | Diehärte → Marine |
+| Thunder Rune | Diehärte → Spear |
+| Forest Rune | Diehärte → Bow |
+| Fire Rune | Diehärte → Mage |
+| Ghost Rune | Jugler → Spirit |
+| Dragon Rune | Jugler → Dragon |
+| Demon Rune | Jugler → Demon |
+
+## Hidden class-up items  *(all 10,000, also sold Sc 35–36)*
+
+Each opens a hidden class for its attribute line — see
+[Classes & Class Change](02-classes.md) for who can take which.
+
+| Item | Opens (attribute) |
+|---|---|
+| Hero's Stone | Infantry |
+| Knight Crest | Cavalry |
+| Ancient Egg | Unicorn |
+| Scathach Tome | Spear |
+| Heavenly Wings | Flier |
+| Secret Manual | Thief |
+| Holy Symbol | Priest-Warrior |
+| White Grimoire | Cleric |
+| Magic Symbol | Mage |
+| Black Grimoire | Heretic |
+| Apollo Arrow | Bow |
+| Destiny Arrow | Mounted Bow |
+| Mermaid Tear | Marine |
+| Demon Water | Demon (Jugler) |
+| Ghost Blood | Spirit (Jugler) |
+| Dark Dragonstone | Dragon (Jugler) |
+
+> Dead Man's Heart — effect unknown (not documented).
+
+
+
+# Secrets & Cheats
+
+A grab-bag of codes and tricks. Buttons are Sega Saturn controller faces
+(A B C · X Y Z · L R · Start) and the D-pad. Items marked *(reported)* are
+documented but unconfirmed.
+
+## Codes
+
+| Cheat | How |
+|---|---|
+| **Hidden shop** | In battle prep, open **Shop** → at the buy/sell screen press **Y, A, ↓, X, B**. A chime confirms it; **Buy** now lists *every* item (if you can afford them). |
+| **Scenario / level select** | At the prep screen choose **Load**, pick a scenario save, then press **→, X, ←, Y, A** (chime). Use **←/→** to choose the scenario. Enables New Game+ and the secret-stage replays. |
+| **Sound test** | At the **title screen**, press **Z, A, Y, ←, X, →, C** — plays BGM, SE, and even each character's scenario voice clips. |
+| **MP bug** | Equip a **Tiara** on a magic user, spend down to **MP ≤ 5**, then **unequip** the Tiara → MP jumps to **99 and never drains**. |
+| **More experience** *(reported)* | During battle, open a unit's move menu and press **Z, Start, ↑, R, X, ↓, B + Start**. |
+| **Money blast** *(reported)* | In prep, **Shop** → buy/sell screen → highlight **Sell**, press **Y, A, ↓, X, B + Start**. |
+
+## Tricks & Easter eggs
+
+- **Infinite P glitch.** At the **Sell** screen with **2+ pages** of items, put the
+  cursor at the top of page 2 and keep selling even after that page empties (don't
+  flip pages). A **"stick" (棒)** item appears above the cursor — sell it over and
+  over for endless P. *Don't move the cursor up, or it jams.* Unequip **Langrisser**
+  and have the whole party hold nothing before trying; if a sale price drops below
+  1000 P, save, soft-reset, and retry.
+- **Hero Select.** Obtain the **Iron Dumbbell** and **Vaseline** (no need to equip
+  them), then reach the **confession scene** (after Scenario 33) — and enjoy the
+  surprise.
+- **New Game+.** With **scenario-select**, replay with your grown roster and items
+  carried over. The game has **second- and third-playthrough dialogue and
+  branches** — e.g. defeating Altemüller back in Scenario 1, or replaying a
+  Langrisser-acquisition map while already holding the sword. Discover them
+  yourself.
+- **OP movie, quad-split.** At boot, after the Masaya logo fades to black and
+  before the opening starts, press **2P Start four times** — the OP then plays as a
+  2×2 split, which oddly looks crisper.
+- **CD-ROM bonus.** Pop the game disc into a **PC** CD-ROM drive to find graphics
+  data and messages from the developers.
+
+## After the credits
+
+Let the ending and staff roll finish, then **leave the screen idle** — wait and the
+**voice actors' free-talk** begins. Any button press returns you to the title, so
+sit tight.
+
+
+
+# Sources & Acknowledgements
+
+This guide is part of the **Langrisser III (Sega Saturn) English translation
+project**. Every line of in-game text quoted here is pulled **live from the
+translated scripts**, so the guide tracks the patch as it is refined.
+
+## How facts were checked
+
+The **Japanese game text is the single source of truth.** Scenario flow, dialogue
+choices, and quoted lines are taken from the game's own scripts; names follow the
+project's canonical glossary (the source guides below use the authors' romaji,
+which served as *context only* — never as spelling).
+
+Two community guides were used as cross-reference oracles. Every fact taken from
+them was verified against the Japanese game data before it entered this guide.
+
+- **Budianto's Langrisser III FAQ/Walkthrough** (English, GameFAQs).
+  Reference for scenario titles, victory/defeat conditions, NPC and enemy
+  rosters, buried-item locations, battle tactics, the branching dialogue choices
+  and their love-index effects, and the secret-scenario triggers.
+
+- **The Japanese strategy data «LANGRISSER III SS の攻略データです»** (攻略データ).
+  Reference for the character-creation quiz branches, the class lines and hidden
+  class-up items, the heroine / love-index choice tables, the full item list
+  (prices, where sold, where found), the per-map buried items, and the
+  secret-scenario and ending routes.
+
+The [Langrisser wiki](https://www.langrisser.wiki/wiki/Langrisser_III) was a
+secondary reference for series-canonical name spellings.
+
+Thanks to both authors — their work made this guide far easier to assemble and
+verify.

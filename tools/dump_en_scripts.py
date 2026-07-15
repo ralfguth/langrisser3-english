@@ -42,7 +42,9 @@ from iso_tools import build_file_index, extract_file_data
 from plot_tools import parse_plot
 from font_tools import CHAR_TILE_MAP, BIGRAM_TILE_MAP
 
-PATCHED_ISO = PROJ / 'build' / 'track01.bin'
+# build.py emits build/<cue-stem>/track01.bin; fall back to the legacy flat path.
+_nested_t01 = sorted((PROJ / 'build').glob('*/track01.bin'))
+PATCHED_ISO = _nested_t01[0] if _nested_t01 else PROJ / 'build' / 'track01.bin'
 DEFAULT_OUT = Path('/home/ralf/romhack/langrisser3-english/scripts/wip')
 
 # Files inside the patched ISO
@@ -52,7 +54,7 @@ ISO_FNT_SYS = 'LANG/FNT_SYS.BIN'
 
 HEADER = ''
 
-# Same 15 (offset, data) section pairs as the JP layout. CWX's binary
+# Same 15 (offset, data) section pairs as the JP layout. 0.2 patch's binary
 # patch preserves the FNT_SYS layout, so the same pair indices apply.
 FNT_SYS_PAIRS = [
     (0, 1), (2, 3), (4, 5), (6, 7), (8, 9),
@@ -88,7 +90,7 @@ def decode_entry(entry_bytes: bytes, tile_map: dict[int, str]) -> str:
 
     F600 carries a parameter word, also emitted as ``<$XXXX>``.
     Unknown tiles fall back to ``<$XXXX>`` — those are tiles outside
-    our CHAR/BIGRAM maps (potentially CWX-installed custom glyphs).
+    our CHAR/BIGRAM maps (potentially 0.2 patch-installed custom glyphs).
     """
     parts: list[str] = []
     i = 0

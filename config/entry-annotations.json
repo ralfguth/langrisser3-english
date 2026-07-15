@@ -1,0 +1,1872 @@
+{
+  "$comment": "Per-entry annotations, JP-anchored. class=CHOICE marks a player-facing menu option (single line; budget = resolved balloon width - 1 cursor). 'notes' surface in layout_qa output. Plan: archive/docs/20260614_choice_budget_and_meta_guide_plan.md",
+  "scen005": {
+    "76": {
+      "class": "CHOICE",
+      "block": "citizen_escape",
+      "source": "budianto S4",
+      "jp_anchor": "東へ。がす"
+    },
+    "77": {
+      "class": "CHOICE",
+      "block": "citizen_escape",
+      "source": "budianto S4",
+      "jp_anchor": "西へ。がす"
+    },
+    "98": {
+      "class": "CHOICE",
+      "block": "pierre_reply",
+      "source": "budianto S4 / secret ?1",
+      "jp_anchor": "ただのです",
+      "result_ref": 101
+    },
+    "99": {
+      "class": "CHOICE",
+      "block": "pierre_reply",
+      "jp_anchor": "実は方向オンチ",
+      "result_ref": 104
+    },
+    "100": {
+      "class": "CHOICE",
+      "block": "pierre_reply",
+      "notes": "secret scenario ?1 trigger — preserve meaning when refitting",
+      "jp_anchor": "仲間の方向感覚を試した",
+      "result_ref": 109
+    },
+    "121": {
+      "class": "CHOICE",
+      "block": "fairy_hole",
+      "source": "攻略データ S4",
+      "jp_anchor": "土をかぶせる",
+      "result_ref": 124
+    },
+    "122": {
+      "class": "CHOICE",
+      "block": "fairy_hole",
+      "jp_anchor": "放っておく"
+    },
+    "123": {
+      "class": "CHOICE",
+      "block": "fairy_hole",
+      "jp_anchor": "足をふみならす",
+      "result_ref": 127
+    },
+    "173": {
+      "class": "CHOICE",
+      "block": "liffany_teasing",
+      "source": "攻略データ T3",
+      "jp_anchor": "ムッとする"
+    },
+    "174": {
+      "class": "CHOICE",
+      "block": "liffany_teasing",
+      "jp_anchor": "素直に謝る"
+    },
+    "175": {
+      "class": "CHOICE",
+      "block": "liffany_teasing",
+      "jp_anchor": "すねる",
+      "result_ref": 176
+    },
+    "198": {
+      "class": "CHOICE",
+      "block": "pierre_liffany_join",
+      "source": "攻略データ R2",
+      "jp_anchor": "よろしく頼む。",
+      "result_ref": 201
+    },
+    "199": {
+      "class": "CHOICE",
+      "block": "pierre_liffany_join",
+      "jp_anchor": "女性に戦わせるのは‥‥。",
+      "result_ref": 202
+    },
+    "200": {
+      "class": "CHOICE",
+      "block": "pierre_liffany_join",
+      "jp_anchor": "何も言わない。"
+    }
+  },
+  "scen001": {
+    "55": {
+      "class": "CHOICE",
+      "block": "quiz",
+      "source": "攻略データ quiz",
+      "jp_anchor": "草原を渡る夏の風"
+    },
+    "62": {
+      "class": "CHOICE",
+      "block": "quiz",
+      "source": "攻略データ quiz",
+      "jp_anchor": "草原を渡る夏の風"
+    },
+    "65": {
+      "class": "CHOICE",
+      "block": "quiz",
+      "source": "攻略データ quiz",
+      "jp_anchor": "草原を渡る夏の風"
+    }
+  },
+  "scen008": {
+    "72": {
+      "class": "CHOICE",
+      "block": "luna_tactics",
+      "source": "budianto S7 / JP scen008",
+      "jp_anchor": "そんな事はない",
+      "result_ref": 75
+    },
+    "73": {
+      "class": "CHOICE",
+      "block": "luna_tactics",
+      "source": "budianto S7 / JP scen008",
+      "jp_anchor": "そのつもりだ",
+      "result_ref": 78
+    },
+    "74": {
+      "class": "CHOICE",
+      "block": "luna_tactics",
+      "source": "budianto S7 / JP scen008",
+      "jp_anchor": "わかった",
+      "result_ref": 82
+    }
+  },
+  "scen043": {
+    "40": {
+      "class": "CHOICE",
+      "block": "tiaris_parting",
+      "source": "budianto S1 / JP scen043",
+      "jp_anchor": "笑顔を暴せて。",
+      "result_ref": 43
+    },
+    "41": {
+      "class": "CHOICE",
+      "block": "tiaris_parting",
+      "source": "budianto S1 / JP scen043",
+      "jp_anchor": "ジェリオールが‥‥",
+      "result_ref": 46
+    },
+    "42": {
+      "class": "CHOICE",
+      "block": "tiaris_parting",
+      "source": "budianto S1 / JP scen043",
+      "jp_anchor": "おいて行くぞ！",
+      "result_ref": 49
+    }
+  },
+  "scen010": {
+    "54": {
+      "class": "CHOICE",
+      "block": "shrine_boxes",
+      "source": "攻略データ S9",
+      "jp_anchor": "白い箱を開ける",
+      "result_ref": 57
+    },
+    "55": {
+      "class": "CHOICE",
+      "block": "shrine_boxes",
+      "jp_anchor": "黒い箱を開ける",
+      "result_ref": 59
+    },
+    "56": {
+      "class": "CHOICE",
+      "block": "shrine_boxes",
+      "jp_anchor": "両方同時に開ける",
+      "result_ref": 61
+    },
+    "127": {
+      "class": "CHOICE",
+      "block": "liffany_morale",
+      "source": "budianto S9",
+      "jp_anchor": "勝てるだろうか？",
+      "result_ref": 130
+    },
+    "128": {
+      "class": "CHOICE",
+      "block": "liffany_morale",
+      "source": "budianto S9",
+      "jp_anchor": "だが負けられない。",
+      "result_ref": 132
+    },
+    "129": {
+      "class": "CHOICE",
+      "block": "liffany_morale",
+      "source": "budianto S9",
+      "jp_anchor": "か勝さ！"
+    }
+  },
+  "scen011": {
+    "76": {
+      "class": "CHOICE",
+      "block": "do_kahni_reply",
+      "source": "scen JP (Sc10 Do Kahni reply)",
+      "jp_anchor": "一緒に戦おう！"
+    },
+    "77": {
+      "class": "CHOICE",
+      "block": "do_kahni_reply",
+      "jp_anchor": "傷は治ったのか？"
+    },
+    "78": {
+      "class": "CHOICE",
+      "block": "do_kahni_reply",
+      "jp_anchor": "無理をするなよ。"
+    },
+    "92": {
+      "class": "CHOICE",
+      "block": "stone_q2_trigger",
+      "source": "Budianto ?2 (time-crossing stone)",
+      "jp_anchor": "納得する"
+    },
+    "93": {
+      "class": "CHOICE",
+      "block": "stone_q2_trigger",
+      "source": "Budianto ?2 (time-crossing stone)",
+      "jp_anchor": "欲しいと言う"
+    },
+    "94": {
+      "class": "CHOICE",
+      "block": "stone_q2_trigger",
+      "jp_anchor": "疑ってかかる"
+    },
+    "103": {
+      "class": "CHOICE",
+      "block": "sophia_favor",
+      "source": "budianto S10",
+      "jp_anchor": "石をもらってくれ",
+      "result_ref": 106
+    },
+    "104": {
+      "class": "CHOICE",
+      "block": "sophia_favor",
+      "source": "budianto S10",
+      "jp_anchor": "君を守るためだ",
+      "result_ref": 110
+    },
+    "105": {
+      "class": "CHOICE",
+      "block": "sophia_favor",
+      "source": "budianto S10",
+      "jp_anchor": "何もない"
+    },
+    "123": {
+      "class": "CHOICE",
+      "block": "face_offering",
+      "source": "攻略データ S10",
+      "jp_anchor": "おはりする",
+      "result_ref": 126
+    },
+    "124": {
+      "class": "CHOICE",
+      "block": "face_offering",
+      "jp_anchor": "落書きする",
+      "result_ref": 128
+    },
+    "125": {
+      "class": "CHOICE",
+      "block": "face_offering",
+      "jp_anchor": "ふみにじる",
+      "result_ref": 130
+    },
+    "170": {
+      "class": "CHOICE",
+      "block": "sophia_rescue",
+      "source": "budianto S10",
+      "jp_anchor": "無事でなによりです。",
+      "result_ref": 173
+    },
+    "171": {
+      "class": "CHOICE",
+      "block": "sophia_rescue",
+      "source": "budianto S10",
+      "jp_anchor": "敵に情けは無用だ。",
+      "result_ref": 175
+    },
+    "172": {
+      "class": "CHOICE",
+      "block": "sophia_rescue",
+      "source": "budianto S10",
+      "jp_anchor": "優しいんですね。",
+      "result_ref": 177
+    }
+  },
+  "scen012": {
+    "64": {
+      "class": "CHOICE",
+      "block": "luna_feraquea",
+      "source": "budianto S11",
+      "jp_anchor": "気にするな。"
+    },
+    "65": {
+      "class": "CHOICE",
+      "block": "luna_feraquea",
+      "source": "budianto S11",
+      "jp_anchor": "君ほどの人が困るな。"
+    },
+    "66": {
+      "class": "CHOICE",
+      "block": "luna_feraquea",
+      "source": "budianto S11",
+      "jp_anchor": "黙っている。"
+    },
+    "78": {
+      "class": "CHOICE",
+      "block": "statue_sacrifice",
+      "source": "攻略データ S11",
+      "jp_anchor": "ティアリス",
+      "result_ref": 82
+    },
+    "79": {
+      "class": "CHOICE",
+      "block": "statue_sacrifice",
+      "jp_anchor": "何もささげない"
+    },
+    "80": {
+      "class": "CHOICE",
+      "block": "statue_sacrifice",
+      "jp_anchor": "１０００Ｐ",
+      "result_ref": 82
+    }
+  },
+  "scen013": {
+    "99": {
+      "class": "CHOICE",
+      "block": "sophia_haste",
+      "source": "budianto S12",
+      "jp_anchor": "急ごう！",
+      "result_ref": 102
+    },
+    "100": {
+      "class": "CHOICE",
+      "block": "sophia_haste",
+      "source": "budianto S12",
+      "jp_anchor": "大丈夫だ。",
+      "result_ref": 104
+    },
+    "101": {
+      "class": "CHOICE",
+      "block": "sophia_haste",
+      "source": "budianto S12",
+      "jp_anchor": "厳しいな‥‥。",
+      "result_ref": 106
+    }
+  },
+  "scen015": {
+    "85": {
+      "class": "CHOICE",
+      "block": "freya_near",
+      "source": "budianto S14",
+      "jp_anchor": "彼は渡せない。"
+    },
+    "86": {
+      "class": "CHOICE",
+      "block": "freya_near",
+      "source": "budianto S14 (persuasion)",
+      "jp_anchor": "剣をひけ、フレア。"
+    },
+    "87": {
+      "class": "CHOICE",
+      "block": "freya_near",
+      "source": "budianto S14",
+      "jp_anchor": "力ずくでも止めてみせる。"
+    },
+    "114": {
+      "class": "CHOICE",
+      "block": "ivy_lance",
+      "source": "攻略データ S14",
+      "jp_anchor": "剣で斬る",
+      "result_ref": 117
+    },
+    "115": {
+      "class": "CHOICE",
+      "block": "ivy_lance",
+      "jp_anchor": "手で取り払う"
+    },
+    "116": {
+      "class": "CHOICE",
+      "block": "ivy_lance",
+      "jp_anchor": "無視する"
+    },
+    "179": {
+      "class": "CHOICE",
+      "block": "freya_subdued",
+      "source": "budianto S14",
+      "jp_anchor": "落ち着かせる",
+      "result_ref": 182
+    },
+    "180": {
+      "class": "CHOICE",
+      "block": "freya_subdued",
+      "source": "budianto S14",
+      "jp_anchor": "受けて立つ",
+      "result_ref": 184
+    },
+    "181": {
+      "class": "CHOICE",
+      "block": "freya_subdued",
+      "source": "budianto S14 (persuasion)",
+      "jp_anchor": "戦う理由をたずねる",
+      "result_ref": 188
+    }
+  },
+  "scen018": {
+    "54": {
+      "class": "CHOICE",
+      "block": "freya_near",
+      "source": "budianto S17",
+      "jp_anchor": "立場など捨てろ！"
+    },
+    "55": {
+      "class": "CHOICE",
+      "block": "freya_near",
+      "source": "budianto S17",
+      "jp_anchor": "わからずやめ！",
+      "result_ref": 62
+    },
+    "56": {
+      "class": "CHOICE",
+      "block": "freya_near",
+      "source": "budianto S17 (persuasion)",
+      "jp_anchor": "悩みを言ってくれ！"
+    },
+    "73": {
+      "class": "CHOICE",
+      "block": "candy_girl",
+      "source": "攻略データ S17",
+      "jp_anchor": "かわいい子だね"
+    },
+    "74": {
+      "class": "CHOICE",
+      "block": "candy_girl",
+      "jp_anchor": "奥で隠れているんだ"
+    },
+    "75": {
+      "class": "CHOICE",
+      "block": "candy_girl",
+      "jp_anchor": "アメをあげよう",
+      "result_ref": 78
+    },
+    "82": {
+      "class": "CHOICE",
+      "block": "laffel_woman",
+      "source": "攻略データ S17",
+      "jp_anchor": "ラフェル解放を約束する",
+      "result_ref": 85
+    },
+    "83": {
+      "class": "CHOICE",
+      "block": "laffel_woman",
+      "jp_anchor": "流し目を送る"
+    },
+    "84": {
+      "class": "CHOICE",
+      "block": "laffel_woman",
+      "jp_anchor": "結婚を申し込む"
+    },
+    "110": {
+      "class": "CHOICE",
+      "block": "freya_defeated",
+      "source": "budianto S17",
+      "jp_anchor": "俺たちの勝ちだ。",
+      "result_ref": 113
+    },
+    "111": {
+      "class": "CHOICE",
+      "block": "freya_defeated",
+      "source": "budianto S17",
+      "jp_anchor": "無駄な事はやめろ。",
+      "result_ref": 115
+    },
+    "112": {
+      "class": "CHOICE",
+      "block": "freya_defeated",
+      "source": "budianto S17",
+      "jp_anchor": "何故そこまで‥‥",
+      "result_ref": 117
+    },
+    "142": {
+      "class": "CHOICE",
+      "block": "freya_attacks",
+      "source": "budianto S17",
+      "jp_anchor": "あきらめるのは良くない。",
+      "result_ref": 145
+    },
+    "143": {
+      "class": "CHOICE",
+      "block": "freya_attacks",
+      "source": "budianto S17",
+      "jp_anchor": "フレアと戦いたくはない。"
+    },
+    "144": {
+      "class": "CHOICE",
+      "block": "freya_attacks",
+      "source": "budianto S17",
+      "jp_anchor": "無駄な事はやめてくれ！",
+      "result_ref": 149
+    }
+  },
+  "scen024": {
+    "51": {
+      "class": "CHOICE",
+      "block": "sophia_villagers",
+      "source": "budianto S23",
+      "jp_anchor": "わかってるさ",
+      "result_ref": 54
+    },
+    "52": {
+      "class": "CHOICE",
+      "block": "sophia_villagers",
+      "source": "budianto S23",
+      "jp_anchor": "一体どうすれば‥‥",
+      "result_ref": 56
+    },
+    "53": {
+      "class": "CHOICE",
+      "block": "sophia_villagers",
+      "source": "budianto S23",
+      "jp_anchor": "大丈夫だ"
+    },
+    "78": {
+      "class": "CHOICE",
+      "block": "flower_wish",
+      "source": "攻略データ S23",
+      "jp_anchor": "魔力が欲しい"
+    },
+    "79": {
+      "class": "CHOICE",
+      "block": "flower_wish",
+      "jp_anchor": "力が欲しい"
+    },
+    "80": {
+      "class": "CHOICE",
+      "block": "flower_wish",
+      "jp_anchor": "なにもいらない"
+    },
+    "88": {
+      "class": "CHOICE",
+      "block": "mermaid",
+      "source": "攻略データ S23",
+      "jp_anchor": "無視する"
+    },
+    "89": {
+      "class": "CHOICE",
+      "block": "mermaid",
+      "jp_anchor": "捕まえる"
+    },
+    "90": {
+      "class": "CHOICE",
+      "block": "mermaid",
+      "jp_anchor": "ニッコリと微笑む",
+      "result_ref": 93
+    }
+  },
+  "scen025": {
+    "79": {
+      "class": "CHOICE",
+      "block": "embedded_arrow",
+      "source": "攻略データ S24",
+      "jp_anchor": "矢を切り取る",
+      "result_ref": 82
+    },
+    "80": {
+      "class": "CHOICE",
+      "block": "embedded_arrow",
+      "jp_anchor": "矢を引き抜く"
+    },
+    "81": {
+      "class": "CHOICE",
+      "block": "embedded_arrow",
+      "jp_anchor": "矢を折る"
+    },
+    "172": {
+      "class": "CHOICE",
+      "block": "altem_truce",
+      "source": "budianto S24",
+      "jp_anchor": "休戦協定を結ぶべき"
+    },
+    "173": {
+      "class": "CHOICE",
+      "block": "altem_truce",
+      "source": "budianto S24",
+      "jp_anchor": "徹底抗戦を主張",
+      "result_ref": 180
+    },
+    "174": {
+      "class": "CHOICE",
+      "block": "altem_truce",
+      "source": "budianto S24",
+      "jp_anchor": "何も言わず、任せる"
+    }
+  },
+  "scen071": {
+    "42": {
+      "class": "CHOICE",
+      "block": "luna_strategy",
+      "source": "budianto S15 (post-battle)",
+      "jp_anchor": "なるほど。",
+      "result_ref": 45
+    },
+    "43": {
+      "class": "CHOICE",
+      "block": "luna_strategy",
+      "source": "budianto S15 (post-battle)",
+      "jp_anchor": "わかりきった事だ。",
+      "result_ref": 46
+    },
+    "44": {
+      "class": "CHOICE",
+      "block": "luna_strategy",
+      "source": "budianto S15 (post-battle)",
+      "jp_anchor": "さすがだな。",
+      "result_ref": 47
+    }
+  },
+  "scen033": {
+    "70": {
+      "class": "CHOICE",
+      "block": "freya_wilder_talk",
+      "source": "budianto S32",
+      "jp_anchor": "まったくだ。",
+      "result_ref": 74
+    },
+    "71": {
+      "class": "CHOICE",
+      "block": "freya_wilder_talk",
+      "source": "budianto S32",
+      "jp_anchor": "理由があるはずだ。",
+      "result_ref": 77
+    },
+    "72": {
+      "class": "CHOICE",
+      "block": "freya_wilder_talk",
+      "source": "budianto S32",
+      "jp_anchor": "手遅れかも。"
+    },
+    "73": {
+      "class": "CHOICE",
+      "block": "freya_wilder_talk",
+      "source": "budianto S32",
+      "jp_anchor": "あれが本性か。"
+    },
+    "133": {
+      "class": "CHOICE",
+      "block": "circle_west",
+      "source": "攻略データ S32",
+      "jp_anchor": "剣の力"
+    },
+    "134": {
+      "class": "CHOICE",
+      "block": "circle_west",
+      "jp_anchor": "魔法の力",
+      "result_ref": 138
+    },
+    "135": {
+      "class": "CHOICE",
+      "block": "circle_west",
+      "jp_anchor": "どちらも嫌だ"
+    },
+    "141": {
+      "class": "CHOICE",
+      "block": "circle_east",
+      "source": "攻略データ S32",
+      "jp_anchor": "剣の力",
+      "result_ref": 145
+    },
+    "142": {
+      "class": "CHOICE",
+      "block": "circle_east",
+      "jp_anchor": "魔法の力"
+    },
+    "143": {
+      "class": "CHOICE",
+      "block": "circle_east",
+      "jp_anchor": "どちらも嫌だ"
+    },
+    "317": {
+      "class": "CHOICE",
+      "block": "near_wilder",
+      "source": "budianto S32",
+      "jp_anchor": "そうだな。",
+      "result_ref": 320
+    },
+    "318": {
+      "class": "CHOICE",
+      "block": "near_wilder",
+      "source": "budianto S32",
+      "jp_anchor": "‥‥いいのか？",
+      "result_ref": 323
+    },
+    "319": {
+      "class": "CHOICE",
+      "block": "near_wilder",
+      "source": "budianto S32",
+      "jp_anchor": "俺には出来ない。"
+    }
+  },
+  "scen055": {
+    "61": {
+      "class": "CHOICE",
+      "block": "freya_flashback",
+      "source": "budianto S7 (post-battle)",
+      "jp_anchor": "ごめんよ。",
+      "result_ref": 64
+    },
+    "62": {
+      "class": "CHOICE",
+      "block": "freya_flashback",
+      "source": "budianto S7 (post-battle)",
+      "jp_anchor": "その通りだ。"
+    },
+    "63": {
+      "class": "CHOICE",
+      "block": "freya_flashback",
+      "source": "budianto S7 (post-battle)",
+      "jp_anchor": "今までかしかったよ。"
+    }
+  },
+  "scen072": {
+    "32": {
+      "class": "CHOICE",
+      "block": "buy_present",
+      "source": "budianto S16",
+      "jp_anchor": "ティアリスに。",
+      "result_ref": 37
+    },
+    "33": {
+      "class": "CHOICE",
+      "block": "buy_present",
+      "jp_anchor": "リファニーに。",
+      "result_ref": 39
+    },
+    "34": {
+      "class": "CHOICE",
+      "block": "buy_present",
+      "jp_anchor": "ルナに。",
+      "result_ref": 41
+    },
+    "35": {
+      "class": "CHOICE",
+      "block": "buy_present",
+      "jp_anchor": "ソフィアに。",
+      "result_ref": 43
+    },
+    "36": {
+      "class": "CHOICE",
+      "block": "buy_present",
+      "jp_anchor": "買わない。",
+      "result_ref": 45
+    },
+    "77": {
+      "class": "CHOICE",
+      "block": "freya_talk",
+      "source": "budianto S16",
+      "jp_anchor": "君に会うために。",
+      "result_ref": 80
+    },
+    "78": {
+      "class": "CHOICE",
+      "block": "freya_talk",
+      "source": "budianto S16",
+      "jp_anchor": "ダークナイトと戦うため。"
+    },
+    "79": {
+      "class": "CHOICE",
+      "block": "freya_talk",
+      "source": "budianto S16",
+      "jp_anchor": "友人が心配で。"
+    }
+  },
+  "scen077": {
+    "45": {
+      "class": "CHOICE",
+      "block": "chase_or_rescue",
+      "source": "budianto S18 (post-battle)",
+      "jp_anchor": "ルインの事を考えろよ。"
+    },
+    "46": {
+      "class": "CHOICE",
+      "block": "chase_or_rescue",
+      "source": "budianto S18 (post-battle)",
+      "jp_anchor": "仕方ない‥‥。"
+    },
+    "47": {
+      "class": "CHOICE",
+      "block": "chase_or_rescue",
+      "source": "budianto S18 (post-battle)",
+      "jp_anchor": "その通りだな。"
+    }
+  },
+  "scen079": {
+    "30": {
+      "class": "CHOICE",
+      "block": "raymond_rescue",
+      "source": "budianto S19 (post-battle)",
+      "jp_anchor": "俺に任せろ！",
+      "result_ref": 33
+    },
+    "31": {
+      "class": "CHOICE",
+      "block": "raymond_rescue",
+      "source": "budianto S19 (post-battle)",
+      "jp_anchor": "大丈夫だ。"
+    },
+    "32": {
+      "class": "CHOICE",
+      "block": "raymond_rescue",
+      "source": "budianto S19 (post-battle)",
+      "jp_anchor": "やるだけやってみよう。"
+    }
+  },
+  "scen083": {
+    "74": {
+      "class": "CHOICE",
+      "block": "empire_truce",
+      "source": "budianto S21 (post-battle)",
+      "jp_anchor": "賛成です。",
+      "result_ref": 77
+    },
+    "75": {
+      "class": "CHOICE",
+      "block": "empire_truce",
+      "source": "budianto S21 (post-battle)",
+      "jp_anchor": "反対です。"
+    },
+    "76": {
+      "class": "CHOICE",
+      "block": "empire_truce",
+      "source": "budianto S21 (post-battle)",
+      "jp_anchor": "わかりません。"
+    },
+    "107": {
+      "class": "CHOICE",
+      "block": "tiaris_father",
+      "source": "budianto S21",
+      "jp_anchor": "こっちへおいで。",
+      "result_ref": 110
+    },
+    "108": {
+      "class": "CHOICE",
+      "block": "tiaris_father",
+      "jp_anchor": "俺がいるじゃないか。",
+      "result_ref": 118
+    },
+    "109": {
+      "class": "CHOICE",
+      "block": "tiaris_father",
+      "jp_anchor": "もう忘れろよ。"
+    }
+  },
+  "scen094": {
+    "54": {
+      "class": "CHOICE",
+      "block": "luna_news",
+      "source": "budianto S27",
+      "jp_anchor": "だが、大丈夫だ。",
+      "result_ref": 57
+    },
+    "55": {
+      "class": "CHOICE",
+      "block": "luna_news",
+      "source": "budianto S27",
+      "jp_anchor": "気をつけよう。"
+    },
+    "56": {
+      "class": "CHOICE",
+      "block": "luna_news",
+      "source": "budianto S27",
+      "jp_anchor": "ダメかも知れない。"
+    }
+  },
+  "scen098": {
+    "36": {
+      "class": "CHOICE",
+      "block": "liffany_burden",
+      "source": "budianto S29",
+      "jp_anchor": "重大だな。",
+      "result_ref": 39
+    },
+    "37": {
+      "class": "CHOICE",
+      "block": "liffany_burden",
+      "source": "budianto S29",
+      "jp_anchor": "気かにいこう！"
+    },
+    "38": {
+      "class": "CHOICE",
+      "block": "liffany_burden",
+      "source": "budianto S29",
+      "jp_anchor": "らしくないぞ！"
+    },
+    "52": {
+      "class": "CHOICE",
+      "block": "liffany_apology",
+      "source": "budianto S29",
+      "jp_anchor": "言い過ぎたよ。"
+    },
+    "53": {
+      "class": "CHOICE",
+      "block": "liffany_apology",
+      "source": "budianto S29",
+      "jp_anchor": "ゴメン、ゴメン"
+    },
+    "54": {
+      "class": "CHOICE",
+      "block": "liffany_apology",
+      "source": "budianto S29",
+      "jp_anchor": "本当のことだ。"
+    }
+  },
+  "scen038": {
+    "104": {
+      "class": "CHOICE",
+      "block": "q1_bunny",
+      "source": "budianto ?1",
+      "jp_anchor": "教えないとケガするぞ"
+    },
+    "105": {
+      "class": "CHOICE",
+      "block": "q1_bunny",
+      "source": "budianto ?1",
+      "jp_anchor": "かしみは取っておこう"
+    },
+    "127": {
+      "class": "CHOICE",
+      "block": "gyudon_feast",
+      "source": "攻略データ ?1",
+      "jp_anchor": "自分だけ"
+    },
+    "128": {
+      "class": "CHOICE",
+      "block": "gyudon_feast",
+      "jp_anchor": "女の子だけ"
+    },
+    "129": {
+      "class": "CHOICE",
+      "block": "gyudon_feast",
+      "jp_anchor": "全員",
+      "result_ref": 140
+    },
+    "164": {
+      "class": "CHOICE",
+      "block": "pillar_hole",
+      "source": "攻略データ ?1",
+      "jp_anchor": "放っておく"
+    },
+    "165": {
+      "class": "CHOICE",
+      "block": "pillar_hole",
+      "jp_anchor": "穴に手を入れる"
+    },
+    "166": {
+      "class": "CHOICE",
+      "block": "pillar_hole",
+      "jp_anchor": "じっと暴つめる",
+      "result_ref": 169
+    },
+    "207": {
+      "class": "CHOICE",
+      "block": "q1_afterkill",
+      "source": "budianto ?1",
+      "jp_anchor": "いやだ",
+      "result_ref": 209
+    },
+    "208": {
+      "class": "CHOICE",
+      "block": "q1_afterkill",
+      "source": "budianto ?1",
+      "jp_anchor": "わかった"
+    }
+  },
+  "scen039": {
+    "40": {
+      "class": "CHOICE",
+      "block": "q2_tiaris",
+      "source": "budianto ?2",
+      "jp_anchor": "その通りだ",
+      "result_ref": 42
+    },
+    "41": {
+      "class": "CHOICE",
+      "block": "q2_tiaris",
+      "source": "budianto ?2",
+      "jp_anchor": "それは気のせいだ"
+    },
+    "80": {
+      "class": "CHOICE",
+      "block": "taunt_reply",
+      "source": "攻略データ ?2",
+      "jp_anchor": "もてない男のひがみか？"
+    },
+    "81": {
+      "class": "CHOICE",
+      "block": "taunt_reply",
+      "jp_anchor": "こちらも３人にしよう！"
+    },
+    "137": {
+      "class": "CHOICE",
+      "block": "quiz_ledin",
+      "source": "攻略データ ?2",
+      "jp_anchor": "隠しクラスが増えた"
+    },
+    "138": {
+      "class": "CHOICE",
+      "block": "quiz_ledin",
+      "jp_anchor": "補助魔法ができた",
+      "result_ref": 142
+    },
+    "139": {
+      "class": "CHOICE",
+      "block": "quiz_ledin",
+      "jp_anchor": "超ラングの追加"
+    },
+    "148": {
+      "class": "CHOICE",
+      "block": "quiz_chris",
+      "source": "攻略データ ?2",
+      "jp_anchor": "カオスの生け贄にされた"
+    },
+    "149": {
+      "class": "CHOICE",
+      "block": "quiz_chris",
+      "jp_anchor": "おなかをこわした"
+    },
+    "150": {
+      "class": "CHOICE",
+      "block": "quiz_chris",
+      "jp_anchor": "レディンと結婚した",
+      "result_ref": 158
+    },
+    "166": {
+      "class": "CHOICE",
+      "block": "quiz_narm",
+      "source": "攻略データ ?2",
+      "jp_anchor": "レディン"
+    },
+    "167": {
+      "class": "CHOICE",
+      "block": "quiz_narm",
+      "jp_anchor": "ランス",
+      "result_ref": 179
+    },
+    "190": {
+      "class": "CHOICE",
+      "block": "quiz_erwin",
+      "source": "攻略データ ?2",
+      "jp_anchor": "ベルンハルト",
+      "result_ref": 193
+    },
+    "191": {
+      "class": "CHOICE",
+      "block": "quiz_erwin",
+      "jp_anchor": "カオス"
+    },
+    "192": {
+      "class": "CHOICE",
+      "block": "quiz_erwin",
+      "jp_anchor": "ボーゼル"
+    },
+    "202": {
+      "class": "CHOICE",
+      "block": "quiz_liana",
+      "source": "攻略データ ?2",
+      "jp_anchor": "アルハザードと共に消滅",
+      "result_ref": 206
+    },
+    "203": {
+      "class": "CHOICE",
+      "block": "quiz_liana",
+      "jp_anchor": "再び封印された"
+    },
+    "204": {
+      "class": "CHOICE",
+      "block": "quiz_liana",
+      "jp_anchor": "女神ルシリスに返した"
+    },
+    "213": {
+      "class": "CHOICE",
+      "block": "quiz_sherry",
+      "source": "攻略データ ?2",
+      "jp_anchor": "夜のお店"
+    },
+    "214": {
+      "class": "CHOICE",
+      "block": "quiz_sherry",
+      "jp_anchor": "カルザス",
+      "result_ref": 220
+    },
+    "215": {
+      "class": "CHOICE",
+      "block": "quiz_sherry",
+      "jp_anchor": "バルディア"
+    },
+    "228": {
+      "class": "CHOICE",
+      "block": "sacrifice_purpose",
+      "source": "攻略データ ?2",
+      "jp_anchor": "外世界との交信"
+    },
+    "229": {
+      "class": "CHOICE",
+      "block": "sacrifice_purpose",
+      "jp_anchor": "生け贄の儀式",
+      "result_ref": 232
+    },
+    "230": {
+      "class": "CHOICE",
+      "block": "sacrifice_purpose",
+      "jp_anchor": "宝の隠し場所"
+    },
+    "234": {
+      "class": "CHOICE",
+      "block": "sacrifice_offer",
+      "source": "攻略データ ?2",
+      "jp_anchor": "いのり"
+    },
+    "235": {
+      "class": "CHOICE",
+      "block": "sacrifice_offer",
+      "jp_anchor": "聖獣",
+      "result_ref": 239
+    },
+    "236": {
+      "class": "CHOICE",
+      "block": "sacrifice_offer",
+      "jp_anchor": "己の血",
+      "result_ref": 240
+    }
+  },
+  "scen004": {
+    "76": {
+      "class": "CHOICE",
+      "block": "statue_offering",
+      "source": "攻略データ S3",
+      "jp_anchor": "はなをささげる",
+      "result_ref": 79
+    },
+    "77": {
+      "class": "CHOICE",
+      "block": "statue_offering",
+      "jp_anchor": "１００Ｐをささげる"
+    },
+    "78": {
+      "class": "CHOICE",
+      "block": "statue_offering",
+      "jp_anchor": "はりをささげる"
+    }
+  },
+  "scen006": {
+    "126": {
+      "class": "CHOICE",
+      "block": "spirit_pose",
+      "source": "攻略データ S5",
+      "jp_anchor": "笑いかけてみる"
+    },
+    "127": {
+      "class": "CHOICE",
+      "block": "spirit_pose",
+      "jp_anchor": "決めポーズをとる",
+      "result_ref": 130
+    },
+    "128": {
+      "class": "CHOICE",
+      "block": "spirit_pose",
+      "jp_anchor": "何も詁さない"
+    },
+    "135": {
+      "class": "CHOICE",
+      "block": "devil_axe_voice",
+      "source": "攻略データ S5",
+      "jp_anchor": "気になるからだ",
+      "result_ref": 138
+    },
+    "136": {
+      "class": "CHOICE",
+      "block": "devil_axe_voice",
+      "jp_anchor": "何となく"
+    },
+    "137": {
+      "class": "CHOICE",
+      "block": "devil_axe_voice",
+      "jp_anchor": "答える必要はない"
+    }
+  },
+  "scen009": {
+    "60": {
+      "class": "CHOICE",
+      "block": "moon_coin",
+      "source": "攻略データ S8",
+      "jp_anchor": "手をのばして探す"
+    },
+    "61": {
+      "class": "CHOICE",
+      "block": "moon_coin",
+      "jp_anchor": "水に飛込む"
+    },
+    "62": {
+      "class": "CHOICE",
+      "block": "moon_coin",
+      "jp_anchor": "１０Ｐ投げる",
+      "result_ref": 66
+    }
+  },
+  "scen016": {
+    "125": {
+      "class": "CHOICE",
+      "block": "shrine_switches",
+      "source": "攻略データ S15",
+      "jp_anchor": "黒いスイッチ",
+      "result_ref": 128
+    },
+    "126": {
+      "class": "CHOICE",
+      "block": "shrine_switches",
+      "jp_anchor": "赤いスイッチ",
+      "result_ref": 131
+    },
+    "127": {
+      "class": "CHOICE",
+      "block": "shrine_switches",
+      "jp_anchor": "何も押さない"
+    },
+    "139": {
+      "class": "CHOICE",
+      "block": "odin_statue",
+      "source": "攻略データ S15",
+      "jp_anchor": "マサムネ"
+    },
+    "140": {
+      "class": "CHOICE",
+      "block": "odin_statue",
+      "jp_anchor": "カオス"
+    },
+    "141": {
+      "class": "CHOICE",
+      "block": "odin_statue",
+      "jp_anchor": "オーディン",
+      "result_ref": 144
+    }
+  },
+  "scen017": {
+    "74": {
+      "class": "CHOICE",
+      "block": "immortal_staff",
+      "source": "攻略データ S16",
+      "jp_anchor": "像にツバをはきかける"
+    },
+    "75": {
+      "class": "CHOICE",
+      "block": "immortal_staff",
+      "jp_anchor": "取る"
+    },
+    "76": {
+      "class": "CHOICE",
+      "block": "immortal_staff",
+      "jp_anchor": "じっと暴つめる",
+      "result_ref": 79
+    },
+    "93": {
+      "class": "CHOICE",
+      "block": "migratory_bird",
+      "source": "攻略データ S16",
+      "jp_anchor": "脅かす",
+      "result_ref": 96
+    },
+    "94": {
+      "class": "CHOICE",
+      "block": "migratory_bird",
+      "jp_anchor": "手をのばす"
+    },
+    "95": {
+      "class": "CHOICE",
+      "block": "migratory_bird",
+      "jp_anchor": "無視する"
+    }
+  },
+  "scen019": {
+    "53": {
+      "class": "CHOICE",
+      "block": "barrier_rocks",
+      "source": "攻略データ S18",
+      "jp_anchor": "岩の間をほってみる",
+      "result_ref": 56
+    },
+    "54": {
+      "class": "CHOICE",
+      "block": "barrier_rocks",
+      "jp_anchor": "岩を破壊する",
+      "result_ref": 57
+    },
+    "55": {
+      "class": "CHOICE",
+      "block": "barrier_rocks",
+      "jp_anchor": "岩の間に立つ",
+      "result_ref": 58
+    }
+  },
+  "scen022": {
+    "52": {
+      "class": "CHOICE",
+      "block": "emerick_eulogy",
+      "source": "budianto S21",
+      "jp_anchor": "暴事な最期だった",
+      "result_ref": 55
+    },
+    "53": {
+      "class": "CHOICE",
+      "block": "emerick_eulogy",
+      "jp_anchor": "黙っている"
+    },
+    "54": {
+      "class": "CHOICE",
+      "block": "emerick_eulogy",
+      "jp_anchor": "かな相手だった"
+    },
+    "63": {
+      "class": "CHOICE",
+      "block": "buried_spot",
+      "source": "攻略データ S21",
+      "jp_anchor": "ほってみる",
+      "result_ref": 66
+    },
+    "64": {
+      "class": "CHOICE",
+      "block": "buried_spot",
+      "jp_anchor": "水を与える",
+      "result_ref": 67
+    },
+    "65": {
+      "class": "CHOICE",
+      "block": "buried_spot",
+      "jp_anchor": "剣を突き刺す"
+    }
+  },
+  "scen023": {
+    "75": {
+      "class": "CHOICE",
+      "block": "glowing_pond",
+      "source": "攻略データ S22",
+      "jp_anchor": "何もしない"
+    },
+    "76": {
+      "class": "CHOICE",
+      "block": "glowing_pond",
+      "jp_anchor": "水を飲んでみる",
+      "result_ref": 79
+    },
+    "77": {
+      "class": "CHOICE",
+      "block": "glowing_pond",
+      "jp_anchor": "水を革袋に入れる",
+      "result_ref": 81
+    }
+  },
+  "scen020": {
+    "96": {
+      "class": "CHOICE",
+      "block": "wish_voice",
+      "source": "攻略データ S19",
+      "jp_anchor": "愛",
+      "result_ref": 99
+    },
+    "97": {
+      "class": "CHOICE",
+      "block": "wish_voice",
+      "jp_anchor": "力",
+      "result_ref": 101
+    },
+    "98": {
+      "class": "CHOICE",
+      "block": "wish_voice",
+      "jp_anchor": "勇気",
+      "result_ref": 103
+    },
+    "106": {
+      "class": "CHOICE",
+      "block": "bridge_stone",
+      "source": "攻略データ S19",
+      "jp_anchor": "引っ張ってみる",
+      "result_ref": 109
+    },
+    "107": {
+      "class": "CHOICE",
+      "block": "bridge_stone",
+      "jp_anchor": "押してみる"
+    },
+    "108": {
+      "class": "CHOICE",
+      "block": "bridge_stone",
+      "jp_anchor": "何もしない"
+    }
+  },
+  "scen026": {
+    "90": {
+      "class": "CHOICE",
+      "block": "rune_axe",
+      "source": "攻略データ S25",
+      "jp_anchor": "勇気"
+    },
+    "91": {
+      "class": "CHOICE",
+      "block": "rune_axe",
+      "jp_anchor": "信念"
+    },
+    "92": {
+      "class": "CHOICE",
+      "block": "rune_axe",
+      "jp_anchor": "体力",
+      "result_ref": 95
+    }
+  },
+  "scen029": {
+    "58": {
+      "class": "CHOICE",
+      "block": "greatsword",
+      "source": "攻略データ S28",
+      "jp_anchor": "ラングリッサー"
+    },
+    "59": {
+      "class": "CHOICE",
+      "block": "greatsword",
+      "jp_anchor": "村正",
+      "result_ref": 62
+    },
+    "60": {
+      "class": "CHOICE",
+      "block": "greatsword",
+      "jp_anchor": "アルハザード"
+    },
+    "69": {
+      "class": "CHOICE",
+      "block": "needle_bottle",
+      "source": "攻略データ S28",
+      "jp_anchor": "しっかりとつかむ"
+    },
+    "70": {
+      "class": "CHOICE",
+      "block": "needle_bottle",
+      "jp_anchor": "上部をつまんで取る"
+    },
+    "71": {
+      "class": "CHOICE",
+      "block": "needle_bottle",
+      "jp_anchor": "あきらめる"
+    }
+  },
+  "scen030": {
+    "70": {
+      "class": "CHOICE",
+      "block": "feather_hole",
+      "source": "攻略データ S29",
+      "jp_anchor": "武器でつつく"
+    },
+    "71": {
+      "class": "CHOICE",
+      "block": "feather_hole",
+      "jp_anchor": "穴へ飛び込む",
+      "result_ref": 74
+    },
+    "72": {
+      "class": "CHOICE",
+      "block": "feather_hole",
+      "jp_anchor": "息を吹きかける"
+    },
+    "81": {
+      "class": "CHOICE",
+      "block": "floating_egg",
+      "source": "攻略データ S29",
+      "jp_anchor": "食べる",
+      "result_ref": 84
+    },
+    "82": {
+      "class": "CHOICE",
+      "block": "floating_egg",
+      "jp_anchor": "割ってみる"
+    },
+    "83": {
+      "class": "CHOICE",
+      "block": "floating_egg",
+      "jp_anchor": "大切にしまう"
+    }
+  },
+  "scen031": {
+    "106": {
+      "class": "CHOICE",
+      "block": "scathach_name",
+      "source": "攻略データ S30",
+      "jp_anchor": "メディア"
+    },
+    "107": {
+      "class": "CHOICE",
+      "block": "scathach_name",
+      "jp_anchor": "スカサハ",
+      "result_ref": 110
+    },
+    "108": {
+      "class": "CHOICE",
+      "block": "scathach_name",
+      "jp_anchor": "シフ"
+    }
+  },
+  "scen032": {
+    "70": {
+      "class": "CHOICE",
+      "block": "buried_boxes",
+      "source": "攻略データ S31",
+      "jp_anchor": "小さい方",
+      "result_ref": 73
+    },
+    "71": {
+      "class": "CHOICE",
+      "block": "buried_boxes",
+      "jp_anchor": "大きい方"
+    },
+    "72": {
+      "class": "CHOICE",
+      "block": "buried_boxes",
+      "jp_anchor": "開けない"
+    }
+  },
+  "scen034": {
+    "81": {
+      "class": "CHOICE",
+      "block": "rock_fairy",
+      "source": "攻略データ S33",
+      "jp_anchor": "持ち上げる",
+      "result_ref": 87
+    },
+    "82": {
+      "class": "CHOICE",
+      "block": "rock_fairy",
+      "jp_anchor": "しばらく様子を暴る"
+    },
+    "83": {
+      "class": "CHOICE",
+      "block": "rock_fairy",
+      "jp_anchor": "岩の上に乗る"
+    },
+    "92": {
+      "class": "CHOICE",
+      "block": "giant_name",
+      "source": "攻略データ S33",
+      "jp_anchor": "フレイ"
+    },
+    "93": {
+      "class": "CHOICE",
+      "block": "giant_name",
+      "jp_anchor": "トール",
+      "result_ref": 96
+    },
+    "94": {
+      "class": "CHOICE",
+      "block": "giant_name",
+      "jp_anchor": "ロキ"
+    },
+    "98": {
+      "class": "CHOICE",
+      "block": "thor_blessing",
+      "source": "攻略データ S33",
+      "jp_anchor": "メギンギョルズ",
+      "result_ref": 102
+    },
+    "99": {
+      "class": "CHOICE",
+      "block": "thor_blessing",
+      "jp_anchor": "ミョッルニル",
+      "result_ref": 104
+    },
+    "100": {
+      "class": "CHOICE",
+      "block": "thor_blessing",
+      "jp_anchor": "強さ",
+      "result_ref": 106
+    }
+  },
+  "scen036": {
+    "67": {
+      "class": "CHOICE",
+      "block": "pole_1",
+      "source": "攻略データ S35",
+      "jp_anchor": "抜いてみる"
+    },
+    "68": {
+      "class": "CHOICE",
+      "block": "pole_1",
+      "jp_anchor": "折ってみる"
+    },
+    "69": {
+      "class": "CHOICE",
+      "block": "pole_1",
+      "jp_anchor": "水をあげる"
+    },
+    "72": {
+      "class": "CHOICE",
+      "block": "pole_2",
+      "source": "攻略データ S35",
+      "jp_anchor": "力一杯引き抜く"
+    },
+    "73": {
+      "class": "CHOICE",
+      "block": "pole_2",
+      "jp_anchor": "逆に深くさしてみる"
+    },
+    "74": {
+      "class": "CHOICE",
+      "block": "pole_2",
+      "jp_anchor": "優しく引き抜く"
+    }
+  },
+  "scen040": {
+    "130": {
+      "class": "CHOICE",
+      "block": "floor_crack",
+      "source": "攻略データ ?3",
+      "jp_anchor": "叩いてみる",
+      "result_ref": 133
+    },
+    "131": {
+      "class": "CHOICE",
+      "block": "floor_crack",
+      "jp_anchor": "大声で叫ぶ"
+    },
+    "132": {
+      "class": "CHOICE",
+      "block": "floor_crack",
+      "jp_anchor": "耳をすます"
+    },
+    "135": {
+      "class": "CHOICE",
+      "block": "stage_name",
+      "source": "攻略データ ?3",
+      "jp_anchor": "兄貴面"
+    },
+    "136": {
+      "class": "CHOICE",
+      "block": "stage_name",
+      "jp_anchor": "うみにん面",
+      "result_ref": 139
+    },
+    "137": {
+      "class": "CHOICE",
+      "block": "stage_name",
+      "jp_anchor": "らーめん"
+    },
+    "160": {
+      "class": "CHOICE",
+      "block": "dios_posing_reply",
+      "source": "scen JP (?3 どう答えますか)",
+      "jp_anchor": "好きにしてくれ"
+    },
+    "161": {
+      "class": "CHOICE",
+      "block": "dios_posing_reply",
+      "jp_anchor": "やめてくれ"
+    }
+  },
+  "scen041": {
+    "66": {
+      "class": "CHOICE",
+      "block": "metal_doll",
+      "source": "攻略データ ?4",
+      "jp_anchor": "戦いをしかける"
+    },
+    "67": {
+      "class": "CHOICE",
+      "block": "metal_doll",
+      "jp_anchor": "再びスイッチを押す"
+    },
+    "68": {
+      "class": "CHOICE",
+      "block": "metal_doll",
+      "jp_anchor": "胸のあたりを調べる",
+      "result_ref": 72
+    }
+  },
+  "scen061": {
+    "29": {
+      "class": "CHOICE",
+      "block": "address_party",
+      "source": "budianto S10",
+      "jp_anchor": "みんな、行くぞ！",
+      "result_ref": 34
+    },
+    "30": {
+      "class": "CHOICE",
+      "block": "address_party",
+      "jp_anchor": "無理するな、ソフィア",
+      "result_ref": 35
+    },
+    "31": {
+      "class": "CHOICE",
+      "block": "address_party",
+      "jp_anchor": "ソフィアに期待するよ",
+      "result_ref": 37
+    },
+    "32": {
+      "class": "CHOICE",
+      "block": "address_party",
+      "jp_anchor": "ゲートを解放しなければ",
+      "result_ref": 39
+    },
+    "33": {
+      "class": "CHOICE",
+      "block": "address_party",
+      "jp_anchor": "何も言わない"
+    }
+  },
+  "scen087": {
+    "33": {
+      "class": "CHOICE",
+      "block": "who_is_right",
+      "source": "budianto S23",
+      "jp_anchor": "ティアリスだ。",
+      "result_ref": 37
+    },
+    "34": {
+      "class": "CHOICE",
+      "block": "who_is_right",
+      "jp_anchor": "リファニーだ。",
+      "result_ref": 39
+    },
+    "35": {
+      "class": "CHOICE",
+      "block": "who_is_right",
+      "jp_anchor": "ソフィアだ。",
+      "result_ref": 41
+    },
+    "36": {
+      "class": "CHOICE",
+      "block": "who_is_right",
+      "jp_anchor": "ルナに振る。"
+    }
+  },
+  "scen068": {
+    "63": {
+      "class": "CHOICE",
+      "block": "ask_opinion",
+      "source": "budianto S14",
+      "jp_anchor": "ティアリス",
+      "result_ref": 69
+    },
+    "64": {
+      "class": "CHOICE",
+      "block": "ask_opinion",
+      "jp_anchor": "リファニー"
+    },
+    "65": {
+      "class": "CHOICE",
+      "block": "ask_opinion",
+      "jp_anchor": "ルナ"
+    },
+    "66": {
+      "class": "CHOICE",
+      "block": "ask_opinion",
+      "jp_anchor": "ソフィア"
+    },
+    "67": {
+      "class": "CHOICE",
+      "block": "ask_opinion",
+      "jp_anchor": "レイラ"
+    }
+  },
+  "scen107": {
+    "39": {
+      "class": "CHOICE",
+      "block": "confession_type",
+      "source": "攻略データ confession",
+      "jp_anchor": "女性",
+      "result_ref": 41
+    },
+    "40": {
+      "class": "CHOICE",
+      "block": "confession_type",
+      "jp_anchor": "男性"
+    },
+    "42": {
+      "class": "CHOICE",
+      "block": "confession_pick",
+      "source": "攻略データ confession",
+      "jp_anchor": "ティアリス"
+    },
+    "43": {
+      "class": "CHOICE",
+      "block": "confession_pick",
+      "jp_anchor": "リファニー"
+    },
+    "44": {
+      "class": "CHOICE",
+      "block": "confession_pick",
+      "jp_anchor": "ルナ"
+    },
+    "45": {
+      "class": "CHOICE",
+      "block": "confession_pick",
+      "jp_anchor": "ソフィア"
+    },
+    "46": {
+      "class": "CHOICE",
+      "block": "confession_pick",
+      "jp_anchor": "フレア",
+      "result_ref": 53
+    },
+    "48": {
+      "class": "CHOICE",
+      "block": "confession_confirm",
+      "jp_anchor": "ティアリス"
+    },
+    "49": {
+      "class": "CHOICE",
+      "block": "confession_confirm",
+      "jp_anchor": "リファニー"
+    },
+    "50": {
+      "class": "CHOICE",
+      "block": "confession_confirm",
+      "jp_anchor": "ルナ"
+    },
+    "51": {
+      "class": "CHOICE",
+      "block": "confession_confirm",
+      "jp_anchor": "ソフィア"
+    },
+    "52": {
+      "class": "CHOICE",
+      "block": "confession_confirm",
+      "jp_anchor": "フレア"
+    }
+  },
+  "scen103": {
+    "87": {
+      "class": "CHOICE",
+      "block": "liffany_consolation",
+      "source": "攻略データ Liffany 7",
+      "jp_anchor": "大丈夫だよ。",
+      "result_ref": 90
+    },
+    "88": {
+      "class": "CHOICE",
+      "block": "liffany_consolation",
+      "source": "攻略データ Liffany 7",
+      "jp_anchor": "‥‥ごめん。",
+      "result_ref": 92
+    },
+    "89": {
+      "class": "CHOICE",
+      "block": "liffany_consolation",
+      "source": "攻略データ Liffany 7",
+      "jp_anchor": "放っておいて。",
+      "result_ref": 95
+    }
+  },
+  "scen035": {
+    "261": {
+      "class": "CHOICE",
+      "block": "post_battle_reply",
+      "source": "scen JP (Sc34 何と答えますか)",
+      "jp_anchor": "楽勝だったので平気だ"
+    },
+    "262": {
+      "class": "CHOICE",
+      "block": "post_battle_reply",
+      "jp_anchor": "気にしないでくれ"
+    }
+  }
+}

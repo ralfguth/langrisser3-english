@@ -1,0 +1,31 @@
+{
+  "$comment": "Layout QA profile budgets. Loaded by tools/layout_qa/cli.py if explicitly passed via --profiles; otherwise tools/layout_qa/cli.py:DEFAULT_PROFILE_SPECS is used. Names must match those in tools/layout_qa/classifier.py.",
+  "profiles": {
+    "LABEL_CHARACTER_12X1": {
+      "width": 12,
+      "max_lines": 1,
+      "low_line_usage_threshold": 0.5
+    },
+    "LABEL_LOCATION_16X1": {
+      "width": 16,
+      "max_lines": 1,
+      "polish_warning_above": 12,
+      "low_line_usage_threshold": 0.5
+    },
+    "OBJECTIVE_16X5": {
+      "width": 16,
+      "max_lines": 5,
+      "low_line_usage_threshold": 0.5
+    },
+    "NARRATION_16X5": {
+      "width": 16,
+      "max_lines": 5,
+      "low_line_usage_threshold": 0.5
+    },
+    "DIALOGUE_12X4": {
+      "width": 12,
+      "max_lines": 4,
+      "low_line_usage_threshold": 0.5
+    }
+  }
+}

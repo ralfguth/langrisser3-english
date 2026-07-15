@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-font_tools.py - Tile maps for Langrisser III Saturn English translation (VD font).
+font_tools.py - Tile maps for Langrisser III Saturn English translation (0.2-patch font).
 
 Defines CHAR_TILE_MAP and BIGRAM_TILE_MAP that map characters and character pairs
-to tile indices in VermillionDesserts' English font (ENFONT2.BIN / vd_font.bin).
+to tile indices in the 0.2-patch English font (ENFONT2.BIN).
 
-Tile layout follows CyberWarriorX's v0.2 translation patch tile map, which VD
-adopted. VD's font has specific differences from CWX's original documentation:
+Tile layout follows 0.2 patch's v0.2 translation patch tile map, which 0.2 patch
+adopted. 0.2 patch's font has specific differences from 0.2 patch's original documentation:
   - LC bigram position 27 is period (.) not apostrophe (')
   - Tiles 43-45 are full-width lowercase a, m, p (not custom slots)
   - Apostrophe bigrams at tiles 1491-1500 (10 pairs: o' n' s' t' u' y' 'r 's 't 'v)
@@ -15,7 +15,13 @@ adopted. VD's font has specific differences from CWX's original documentation:
   - Double-quote at tile 1470
 
 FONT.BIN format: 1691 tiles x 32 bytes each (16x16 1bpp, MSB=leftmost).
+The English font GROWS past 1691 with appended bigram tiles (growth proven
+in-game 2026-06-25 — archive/docs/20260625_font_bin_grow_spike.md).
 """
+
+import re
+import string
+from pathlib import Path
 
 # ---------------------------------------------------------------------------
 # Tile layout (tile index assignments for bigram groups)
@@ -32,8 +38,8 @@ _LC_STARTS = {
     'z': 875,
 }
 
-# VD's right-char sequence for LC bigrams.
-# Position 27 is PERIOD (.), not apostrophe — this matches VD's actual font.
+# 0.2 patch's right-char sequence for LC bigrams.
+# Position 27 is PERIOD (.), not apostrophe — this matches 0.2 patch's actual font.
 _LC_RIGHT_FULL = [' '] + list('abcdefghijklmnopqrstuvwxyz') + ['.', ',', '?', '!']
 
 # UI/decoration tiles at specific offsets within bigram groups.
@@ -46,9 +52,9 @@ _LC_UI_OFFSETS = {
 }
 
 # Characters absent from specific LC groups (UI tile occupies their slot
-# and VD's font has no replacement tile for that bigram).
+# and 0.2 patch's font has no replacement tile for that bigram).
 _LC_MISSING_CHARS = {
-    'v': {'q'},  # tile 766 is UI; vq bigram does not exist in VD font
+    'v': {'q'},  # tile 766 is UI; vq bigram does not exist in 0.2-patch font
 }
 
 # Uppercase bigram groups: variable size, right chars from analysis.
@@ -88,54 +94,60 @@ _UC_UI_OFFSETS = {
 }
 
 # ---------------------------------------------------------------------------
-# VD special tile indices (present in VD's ENFONT2.BIN font)
+# 0.2 patch special tile indices (present in 0.2 patch's ENFONT2.BIN font)
 # ---------------------------------------------------------------------------
 
 ELLIPSIS_TILE = 906          # … two-dot ellipsis (tile 906)
 DQUOTE_TILE = 1470           # " double-quote (tile 1470)
 
-# VD apostrophe bigrams (tiles 1491-1500)
-# These are the ONLY way to encode apostrophes — VD has no standalone ' tile.
-# VD avoids "I'll"/"I'm"/"I'd" (uses "I will"/"I am" etc.) because there is
-# no I' bigram and no standalone apostrophe in the font.
-_VD_APOSTROPHE_BIGRAMS = {
+# Apostrophe bigrams — one group (the font has no standalone ' tile, so every
+# apostrophe is encoded as a 2-char tile we draw via _interleave). Two index
+# ranges, same group: 1491-1499 (original) + 1621-1626 (kanji-area additions
+# that unlocked I'll/I'm/I'd/who's/he's). All drawn by us; disjoint keys.
+_APOSTROPHE_BIGRAMS = {
     ('d', "'"): 1491, ('n', "'"): 1492, ('s', "'"): 1493,
     ('t', "'"): 1494, ('u', "'"): 1495, ('y', "'"): 1496,
     ("'", 'r'): 1497, ("'", 's'): 1498, ("'", 't'): 1499,
+    ('I', "'"): 1621,   # I'll, I'm, I'd
+    ("'", 'l'): 1622,   # I'll, he'll, she'll, we'll, they'll
+    ("'", 'm'): 1623,   # I'm
+    ("'", 'd'): 1624,   # I'd, he'd, she'd, we'd, they'd
+    ('o', "'"): 1625,   # who's, who'd
+    ('e', "'"): 1626,   # he's (when greedy encoder consumes e alone)
 }
 
-# VD space+letter bigrams (tiles 1435-1487)
+# 0.2 patch space+letter bigrams (tiles 1435-1487)
 # Encode " a" through " z" and " A" through " Z" as single tiles.
-_VD_SPACE_LETTER_BIGRAMS = {}
+_SPACE_LETTER_BIGRAMS = {}
 for _i, _ch in enumerate('abcdefghijklmnopqrstuvwxyz'):
-    _VD_SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1435 + _i       # 1435-1460
+    _SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1435 + _i       # 1435-1460
 for _i, _ch in enumerate('ABCDEFGHI'):
-    _VD_SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1461 + _i       # 1461-1469
+    _SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1461 + _i       # 1461-1469
 # tile 1470 = DQUOTE_TILE (not a space+letter bigram)
-_VD_SPACE_LETTER_BIGRAMS[(' ', 'J')] = 1471
-_VD_SPACE_LETTER_BIGRAMS[(' ', 'K')] = 1472
-_VD_SPACE_LETTER_BIGRAMS[(' ', 'L')] = 1473
+_SPACE_LETTER_BIGRAMS[(' ', 'J')] = 1471
+_SPACE_LETTER_BIGRAMS[(' ', 'K')] = 1472
+_SPACE_LETTER_BIGRAMS[(' ', 'L')] = 1473
 for _i, _ch in enumerate('MNOPQRSTUVWXYZ'):
-    _VD_SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1474 + _i       # 1474-1487
+    _SPACE_LETTER_BIGRAMS[(' ', _ch)] = 1474 + _i       # 1474-1487
 
-# VD punctuation double-bigrams (tiles 907-910)
-_VD_PUNCT_BIGRAMS = {
+# 0.2 patch punctuation double-bigrams (tiles 907-910)
+_PUNCT_BIGRAMS = {
     ('?', '?'): 907, ('?', '!'): 908, ('!', '!'): 909, ('!', '?'): 910,
 }
 
-# CWX special bigrams (already in VD/CWX font at these tile indices)
-_CWX_SPECIAL_BIGRAMS = {
+# 0.2 patch special bigrams (already in 0.2-patch font at these tile indices)
+_SPECIAL_BIGRAMS = {
     ("'", 'v'): 1500,
-    # CWX-area name-input umlaut bigrams. Tiles pre-rendered in the
+    # 0.2 patch-area name-input umlaut bigrams. Tiles pre-rendered in the
     # original font for the name-input grid screen — reused by the
     # encoder for character/place names that carry diaeresis.
 }
 
 # Custom umlaut bigrams in the kanji area (slots 1659-1664). Built by
 # interleaving our letter glyphs with our umlaut half-glyphs. Placed
-# outside the CWX range (1500-1620) because the engine renders CWX-area
+# outside the 0.2 patch range (1500-1620) because the engine renders 0.2 patch-area
 # tiles with name-input-grid spacing (visible gap between adjacent
-# tiles) which is wrong for dialogue text. The CWX slots themselves
+# tiles) which is wrong for dialogue text. The 0.2 patch slots themselves
 # remain available for menu/UI usage (Eagle-modified glyphs).
 _CUSTOM_UMLAUT_BIGRAMS = {
     ('m', 'ü'): 1659,   # "Altemüller"
@@ -151,24 +163,14 @@ _CUSTOM_UMLAUT_BIGRAMS = {
     ('ü', 'l'): 1665,   # "Rigüler" / "Altemüller" tail (orphan ü + l)
 }
 
-# All CWX pre-existing tile indices — the 1500-1620 range is used by CWX menu
+# All 0.2 patch pre-existing tile indices — the 1500-1620 range is used by 0.2 patch menu
 # patches (a0lang.bin, syswin.bin, prog files) for stat labels, menu text, etc.
-_CWX_PREEXISTING_TILES = set(range(1500, 1621))
+_GRID_SPACED_RANGE = set(range(1500, 1621))
 
-# Custom bigram tiles added to kanji area (tiles 1621+).
-# These tiles are written by the build pipeline into vd_font.bin.
-_CUSTOM_APOSTROPHE_BIGRAMS = {
-    ('I', "'"): 1621,   # I'll, I'm, I'd
-    ("'", 'l'): 1622,   # I'll, he'll, she'll, we'll, they'll
-    ("'", 'm'): 1623,   # I'm
-    ("'", 'd'): 1624,   # I'd, he'd, she'd, we'd, they'd
-    ('o', "'"): 1625,   # who's, who'd
-    ('e', "'"): 1626,   # he's (when greedy encoder consumes e alone)
-}
 
 # ---------------------------------------------------------------------------
 # Embedded glyph bitmaps (8px wide, 16 rows, 1 byte/row = 16 bytes each)
-# Reference data extracted from CWX v0.2 font. Used by tests to verify
+# Reference data extracted from 0.2 patch v0.2 font. Used by tests to verify
 # glyph data integrity, not by the build pipeline.
 # ---------------------------------------------------------------------------
 
@@ -241,7 +243,7 @@ _DIGIT_TILES = {
     '9': bytes.fromhex('000000000000038006c00c600c600c6006e003e0006000c00780000000000000'),
 }
 
-# 8w half-glyphs of digits — used by CWX-range bigram overrides for tiles
+# 8w half-glyphs of digits — used by 0.2 patch-range bigram overrides for tiles
 # like (' ', '2'), ('+', '8'), ('1', '5'), etc. that pair a digit with
 # another half-glyph in a 16x16 cell.
 _DIGIT_HALF_GLYPHS = {
@@ -257,7 +259,7 @@ _DIGIT_HALF_GLYPHS = {
     '9': bytes.fromhex('000000386cc6c6c66e3e060c78000000'),
 }
 
-# Lowercase umlauts (a/o/u-diaeresis) — appear in CWX-range bigrams.
+# Lowercase umlauts (a/o/u-diaeresis) — appear in 0.2 patch-range bigrams.
 _UMLAUT_HALF_GLYPHS = {
     'ä': bytes.fromhex('000000cccc00780c7ccccccc76000000'),
     'ö': bytes.fromhex('000000c6c6007cc6c6c6c6c67c000000'),
@@ -282,7 +284,11 @@ _EXTRA_PUNCT_GLYPHS = {
     '(': bytes.fromhex('00000c181830303030303018180c0000'),
     ')': bytes.fromhex('00003018180c0c0c0c0c0c1818300000'),
     '/': bytes.fromhex('00000006060c0c181830306060000000'),
-    '*': bytes.fromhex('00001092543854921000000000000000'),  # JP-derived hand-drawn override (kept)
+    # Half-width asterisk. No longer used as a STANDALONE tile (the '*' char
+    # maps to the JP full-width star at tile 489 — see build_char_tile_map),
+    # but still needed as a half-glyph for the 0.2 patch UI bigrams "**"/"n*"/"* "
+    # (tiles 1570-1572, e.g. "****Caution****").
+    '*': bytes.fromhex('00001092543854921000000000000000'),
     '%': bytes.fromhex('000000e6a6ec0c181830376567000000'),
     '[': bytes.fromhex('0000003c30303030303030303c000000'),
     ']': bytes.fromhex('0000003c0c0c0c0c0c0c0c0c3c000000'),
@@ -310,9 +316,11 @@ _FULL_WIDTH_PUNCT_GLYPHS = {
     # exactly (same pixel positions). Standalone left-half glyph was off-
     # center; full-width version sits where the eye expects it.
     '•': bytes.fromhex(
-        '0000000000000000000000000000'       # rows 0-6 (14 bytes)
-        '01800180'                           # rows 7-8: cols 7-8 (4 bytes)
-        '0000000000000000000000000000'       # rows 9-15 (14 bytes)
+        '00000000000000000000'               # rows 0-4 (10 bytes)
+        '03c0'                               # row  5: cols 6-9  (..####..)
+        '07e0' '07e0' '07e0' '07e0'          # rows 6-9: cols 5-10 (.######.)
+        '03c0'                               # row 10: cols 6-9  (..####..)
+        '00000000000000000000'               # rows 11-15 (10 bytes)
     ),
 }
 
@@ -321,9 +329,8 @@ _EXTRA_PUNCT_TILES = {
     '-': 1627,
     '+': 1628,
     '(': 1629,
-    ')': 1631,   # skip 1630 (used by _CWX_BETWEEN_TILES)
+    ')': 1631,   # 1630 is blanked (orphan slot); ')' lives at 1631
     '/': 1632,
-    '*': 1633,
     '%': 1634,
     '[': 1635,
     ']': 1636,
@@ -333,7 +340,23 @@ _EXTRA_PUNCT_TILES = {
     'ü': 1658,   # standalone u-diaeresis (Rigüler in non-"gü" contexts)
 }
 
-# Extra bigram tiles — top frequency pairs missing from VD/CWX font.
+# Formation-icon glyphs (fntsys1 records 98-102, referenced as (X) in the scen001
+# tutorial). These are JP-font glyphs we PRESERVE verbatim — generate_english_font
+# never repaints tiles 0x014A-0x014E — so the encoder maps the readable glyph
+# straight to its JP slot instead of forcing an absolute <$014A> control code into
+# the script. CSV truth: font_tile_map_complete.csv rows 330-334 (Formation
+# SQUARE/COLUMN/LINE/DIAGONAL-L/DIAGONAL-R). When the font is refactored these
+# indices may move; tests/test_fntsys_formation.py validates each glyph→tile
+# mapping still lands on the expected (nonzero, JP-preserved) formation glyph.
+_FORMATION_GLYPH_TILES = {
+    '囗': 0x014A,   # SQUARE  (basic formation)
+    '｜': 0x014B,   # COLUMN  (vertical)
+    '―': 0x014C,   # LINE    (horizontal)
+    '＼': 0x014D,   # DIAGONAL-LEFT
+    '／': 0x014E,   # DIAGONAL-RIGHT
+}
+
+# Extra bigram tiles — top frequency pairs missing from 0.2-patch font.
 # Installed in kanji area tiles 1639+. Encoder uses these automatically
 # (via BIGRAM_TILE_MAP), reducing fallback singles on scream/shout SFX
 # and stat-abbreviation contexts.
@@ -360,17 +383,119 @@ _EXTRA_BIGRAM_TILES = {
     # Quote + space bigrams — eliminates visual gap that standalone " leaves
     (' ', '"'): 1654,   # space+dquote — opening quote in " quoted text"
     ('"', ' '): 1655,   # dquote+space — closing quote before whitespace
-    # Bullet for win/lose condition bullet points (・ in JP scripts)
-    (' ', '•'): 1656,   # space+bullet — used as " •Death of <$F600>"
+    # All-caps bigram drawn in OUR EagleIII style at a free kanji slot (NOT the
+    # 0.2 patch 1276/1656 copies, which are 0.2 patch-style / collide with space-bullet).
+    # Fixes "NPC" rendering as 3 full-width centered letters: NPC -> (N,P)+(C, ).
+    ('N', 'P'): 1666,
+    # Dialogue emphasis "*GRIN*!" (scen107, JP ニヤリ！): GR + IN(311).
+    # Slot 1582 is an UNMAPPED dead-kanji slot (CSV empty-source); the old
+    # "1500-1620 grid-spacing in dialogue" caveat is OBSOLETE per the user
+    # note of 2026-06-09 (20260609_fntsys_systems_and_encoder.md) — it was
+    # a 0.2 patch-binary artifact, and engine+font now build from JP originals.
+    ('G', 'R'): 1582,
+    # "HP" in dialogue prose (scen001 tutorial "regain some HP,"; scen038
+    # stat-up "X's HP rose by 1!") — stat abbreviations are ASCII
+    # half-width everywhere (user 2026-06-12). Slot 1583 = UNMAPPED
+    # dead-kanji sibling of 1582. "MP" needs no pair: every occurrence
+    # sits in ( ,M)(P, ) parity. No (P,'!') pair on purpose — it would
+    # half-pair the tail of "500P!"/"ZAPP!" mid-word (scen039/041).
+    ('H', 'P'): 1583,
+}
+
+# Stat-tail bigrams (2026-06-11, archive/docs/20260611_desc_stat_bigram_plan.md).
+# Item/spell descriptions carry stat tails (ATK+6, DEF+1 RNG+5, ...) whose
+# unpaired uppercase letters and digits fell back to the CENTERED full-width
+# tiles (7-42) — those are explicit-zenkaku-only. This set covers the
+# all-caps stat vocabulary in BOTH greedy parities (a token lands odd after
+# a 2-digit number, whose last tile has no right-blank to eat the space).
+# Slots come from the free-slot audit: CSV BLANK_GAP rows (blank in the JP
+# font itself — zero-risk), the dead-kanji tail 1667-1690, and unsourced
+# 1617-1620/1633. fnt_sys keyboard (lookup tiles 0-86, ADV/BAK/END
+# 1488-1490) and scen107's full-width （） 369/373 stay untouched.
+_STAT_BIGRAM_TILES = {
+    (' ', '/'): 211,    # " /m.res"-style tail annotations
+    # --- even-parity letter pairs, BLANK_GAP 307-329 ---
+    ('D', 'E'): 307, ('F', '+'): 308, ('F', '-'): 309, ('F', ' '): 310,
+    ('I', 'N'): 311, ('T', '+'): 312, ('T', ' '): 313,
+    ('R', 'N'): 314, ('G', '+'): 315,
+    ('M', 'O'): 316, ('V', '+'): 317, ('V', '-'): 318,
+    ('M', 'R'): 319, ('E', 'S'): 320, ('S', '+'): 321, ('S', '-'): 322,
+    ('A', 'R'): 323, ('E', 'A'): 324, ('A', '+'): 325,
+    ('P', '+'): 326, ('P', ' '): 327,
+    ('S', 'T'): 328, ('R', '+'): 329,
+    # --- odd-parity pairs, BLANK_GAP 366-368 + 911-912, unsourced 1617-1620 ---
+    ('V', 'I'): 366, ('T', 'K'): 367, ('E', 'F'): 368,
+    ('N', 'T'): 911, ('N', 'G'): 912,
+    ('O', 'V'): 1617, ('R', 'E'): 1618, ('T', 'R'): 1619, ('I', 'T'): 1620,
+    ('d', '-'): 1633,   # odd-parity "( A)mod-2" — d orphaned before '-'
+    # --- BLANK_GAP 43/45 + dead full-width-& 913: word-body gaps found in
+    # the description sweep (rule: word-body bigrams must not be missing) ---
+    ('T', 'u'): 43,     # "Turn undead" (fntsys13/15 spell prose)
+    ('V', ' '): 45,     # "Halve MOV /max 50" — V before space
+    ('S', 'c'): 913,    # "Scathach" (fntsys10/13 + scen031 dialogue)
+    # --- ATK family, dead-kanji tail 1687-1690 ---
+    ('K', '+'): 1687, ('K', '-'): 1688, ('R', ' '): 1689, ('K', ' '): 1690,
+}
+
+# Digit-involving pairs are FNT_SYS-SURFACE-ONLY (FNTSYS_BIGRAM_TILE_MAP).
+# In dialogue/plot, numbers keep the centered zenkaku-style digits 7-16 —
+# partial pair coverage would otherwise mix half- and full-width INSIDE a
+# number the set doesn't cover ("5000" -> centered,centered,centered,[0 ]).
+# In the FNT_SYS string sections (descriptions, labels, spell lists) the
+# number inventory is closed (single digits, 10-13,15,25,30,50) so the
+# coverage is total and every stat tail renders uniformly half-width.
+_DIGIT_PAIR_TILES = {
+    # (d,' ') half-width standalones, BLANK_GAP 201-210. Also the FNT_SYS
+    # single-digit fallback; explicit zenkaku ０-９ keep centered 7-16.
+    **{(str(d), ' '): 201 + d for d in range(10)},
+    # sign+digit and digit pairs, dead-kanji tail 1667-1686
+    **{('+', str(d)): 1666 + d for d in range(1, 10)},      # 1667-1675
+    ('-', '1'): 1676, ('-', '2'): 1677, ('-', '4'): 1678, ('5', '0'): 1679,
+    ('1', '0'): 1680, ('1', '1'): 1681, ('1', '2'): 1682, ('1', '3'): 1683,
+    ('1', '5'): 1684, ('2', '5'): 1685, ('3', '0'): 1686,
+    # FNT_SYS-only letter pairs in the grid-spaced range (1500-1620 of
+    # OUR font): the engine's DIALOGUE pipeline renders these tile indices
+    # with name-input-grid spacing, so pairs here are fnt_sys-only —
+    # FNT_SYS boxes render them normally (fntsys15 proves it today).
+    ('K', ','): 1575,   # "ATK,DEF" — fntsys15 spell-list only
+    ('R', 'A'): 1576,   # "RANGE+N" — fntsys13 staff/bow tails (user call:
+    ('E', '+'): 1577,   # spell out RANGE instead of RNG; always even-parity)
+    ('L', 'O'): 1578,   # LOAD — battle map + prep menu labels, half-width
+    ('A', 'D'): 1579,   #   caps (zenkaku is explicit-only, never fallback)
+    ('S', 'A'): 1580,   # SAVE
+    ('V', 'E'): 1581,
+}
+
+# Number bigrams (data-driven complete set, slice 1 — archive/docs/
+# 20260625_font_bin_grow_spike.md). Half-width digit pairs + secret-chapter ?N +
+# space-led number boundaries, so numbers never fall back to the centered zenkaku
+# digits (7-16) or pad with a <$0000> filler. APPENDED past tile 1691 (the font
+# grows; growth proven in-game). DIALOGUE surface (added to BIGRAM_TILE_MAP).
+# digit+space (the right boundary) reuses the existing half-width standalone
+# digit tiles 201-210, so no new tile is needed for that case.
+_NUMBER_BIGRAM_PAIRS = (
+    [(a, b) for a in '0123456789' for b in '0123456789']   # 00..99
+    + [('?', d) for d in '0123456789']                     # ?0..?9 (secret chapters)
+    + [(' ', d) for d in '0123456789']                     # space+digit (left boundary)
+)
+_NUMBER_BIGRAM_TILES = {p: 1691 + i for i, p in enumerate(_NUMBER_BIGRAM_PAIRS)}
+_NUMBER_TAIL_TILES = {(str(d), ' '): 201 + d for d in range(10)}  # digit+space
+
+# Pre-rendered fragments of OUR font reused by MAPPING ONLY — glyphs
+# already sit in the 1500-1620 grid-spaced range (drawn in the 0.2 patch era;
+# Eagle restyle queued for the FONT.BIN rebuild). No tile is written.
+# FNT_SYS-surface-only (grid-spaced range, above).
+_STAT_FRAGMENT_MAPS = {
+    ('L', 'V'): 1528,
+    ('H', 'P'): 1529,
+    ('M', 'P'): 1530,
+    ('0', '%'): 1568,
 }
 
 # Comma glyph used in bigram right-halves (same shape as standalone)
 _COMMA_GLYPH_BIGRAM = bytes.fromhex('00000000000000000000001818300000')
 
 _APOSTROPHE_GLYPH = bytes.fromhex('00000018183000000000000000000000')
-
-# Small centered bullet (4x4 filled square) used as right-half of " •" bigram.
-_BULLET_GLYPH_BIGRAM = bytes.fromhex('00000000000000183c3c180000000000')
 
 _BLANK_GLYPH = b'\x00' * 16
 
@@ -414,139 +539,28 @@ _DQUOTE_TILE_DATA = bytes.fromhex(
 )
 
 # ---------------------------------------------------------------------------
-# CWX/VD non-bigram tiles (menus, UI, gaps)
-# These tiles are referenced by CWX menu patches (prog_3, syswin, etc.)
+# 0.2-patch non-bigram tiles (menus, UI, gaps)
+# These tiles are referenced by 0.2 patch menu patches (prog_3, syswin, etc.)
 # and must be present in the font for menus to display correctly.
 # ---------------------------------------------------------------------------
 
-# Game engine UI/decoration tiles (must not be overwritten by bigram generator)
-_UI_TILES = {
-    766: bytes.fromhex('0000000000000000000000008434844c848484848484844c84347a0400060004'),
-    1041: bytes.fromhex('fe0082008000800080008400fc82849280928092809280928292fe6c00000000'),
-    1276: bytes.fromhex('cef844446442644264425442544454784c404c404c4044404440c4e000000000'),
+
+
+# Name-entry keyboard buttons (fntsys14 rows reference tiles 1488-1490).
+# OUR art (2026-06-11, replaces the 0.2 patch stacked-letter ADV/BAK/END):
+# ADV = right arrow, BAK = left arrow (EagleIII arrowheads, extended
+# shaft), END = condensed "END" text in a single 16x16 tile.
+_NAME_ENTRY_BUTTON_TILES = {
+    1488: bytes.fromhex('00000000000000000008000c000e7ffe'
+                        '000e000c000800000000000000000000'),  # ADV →
+    1489: bytes.fromhex('00000000000000001000300070007ffe'
+                        '70003000100000000000000000000000'),  # BAK ←
+    1490: bytes.fromhex('00000000000000007a2e4329432972a9'
+                        '426942697a2e00000000000000000000'),  # END
 }
 
-# CWX menu tiles: English text for stat labels, menus, battle UI
-# Tiles 1501-1574: uppercase+symbol menu glyphs
-# Tiles 1585-1616: lowercase menu glyphs
-_CWX_MENU_TILES = {
-    1501: bytes.fromhex('f838444442824282428042804480788040804080408240824044e03800000000'),
-    1502: bytes.fromhex('f83884448282828082808480f880848e82828282828282828444f83800000000'),
-    1503: bytes.fromhex('c6006c006c006c00540054005400440044004400440044004400ee0000000000'),
-    1504: bytes.fromhex('3800440082008000800040002038184404820280028082824444383800000000'),
-    1505: bytes.fromhex('fe00920092001000100010001084108410841084108410841084387a00000000'),
-    1506: bytes.fromhex('3e00080008000848080008000884088408840884088488848884707a00000000'),
-    1507: bytes.fromhex('0000000000000048000000006c84928492849284928492849284827a00000000'),
-    1508: bytes.fromhex('00000000000000480000000034844c848484848484844c843484847a48003000'),
-    1509: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
-    1510: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
-    1511: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
-    1512: bytes.fromhex('fe00920092001048100010001084108410841084108410841084387a00000000'),
-    1513: bytes.fromhex('f810441042104210421042104410781040104010401040004010e01000000000'),
-    1514: bytes.fromhex('f838844482828282828282828482f8fe88828882848284828282828200000000'),
-    1515: bytes.fromhex('083810441082208220822082208220fe20822082208220821082108208000000'),
-    1516: bytes.fromhex('fe009200920010001010101010fe101010101000100010001000380000000000'),
-    1517: bytes.fromhex('38384444828202820286028a029204a208c21082208240828044fe3800000000'),
-    1518: bytes.fromhex('4200a200a400440008000800100010002000200044004a208a18840800000000'),
-    1519: bytes.fromhex('fe00420040004000400044007cfe440040004000400040004000e00000000000'),
-    1520: bytes.fromhex('0c381444148224824486448a8492fea204c20482048204820444043800000000'),
-    1521: bytes.fromhex('4220a210a410440808080808100810082008200844084a088a10841000200000'),
-    1522: bytes.fromhex('38004400820082008210821082fefe1082108200820082008200820000000000'),
-    1523: bytes.fromhex('f8008400820082008210821082fe821082108200820082008400f80000000000'),
-    1524: bytes.fromhex('38fe449282928210821082108210fe1082108210821082108210823800000000'),
-    1525: bytes.fromhex('f8fe84428240824082408244827c824482408240824082408440f8e000000000'),
-    1526: bytes.fromhex('fece1044106410641064105410541054104c104c104c10441044fec400000000'),
-    1527: bytes.fromhex('fe00920092001000100010001000100010001000100010001000380000000000'),
-    1528: bytes.fromhex('e082408240824082404440444044402840284028402842104210fe1000000000'),
-    1529: bytes.fromhex('eef84444444244424442444244447c7844404440444044404440eee000000000'),
-    1530: bytes.fromhex('c6f86c446c426c42544254425444447844404440444044404440eee000000000'),
-    1531: bytes.fromhex('38fe449282928010801040102010181004100210021082104410383800000000'),
-    1532: bytes.fromhex('f800840082008200820082008400f80088008800840084008200820000000000'),
-    1533: bytes.fromhex('3e0008000800084808000800087808040804087c08848884888c707200000000'),
-    1534: bytes.fromhex('000000000000004804000000047804040404047c04840484048c047244003800'),
-    1535: bytes.fromhex('0030001000104810001000107810041004107c10841084108c10723800000000'),
-    1536: bytes.fromhex('0030001000104410001000103810441082108210821082104410383800000000'),
-    1537: bytes.fromhex('003800440082000200020002000200040008001000200040008000fe00000000'),
-    1538: bytes.fromhex('003800440082000200020002fe02007c00020002000200820044003800000000'),
-    1539: bytes.fromhex('008000800080008000800080feb800c4008200820082008200c400b800000000'),
-    1540: bytes.fromhex('000200020002000200020002fe3a004600820082008200820046003a00000000'),
-    1541: bytes.fromhex('008000800080008000800080feb800c400820082008200820082008200000000'),
-    1542: bytes.fromhex('000000000000000000000000fe6c009200920092009200920092008200000000'),
-    1543: bytes.fromhex('000000000000000000000000fe78008400800060001800040084007800000000'),
-    1544: bytes.fromhex('0200020002000200020002003afe4600820082008200820046003a0000000000'),
-    1545: bytes.fromhex('00000000000000001000000030fe100010001000100010001000380000000000'),
-    1546: bytes.fromhex('30001000100010001000100010fe100010001000100010001000380000000000'),
-    1547: bytes.fromhex('000000000000000000000000ccfe720042004200420042004200420000000000'),
-    1548: bytes.fromhex('000000000000000000000000b8fe440040004000400040004000e00000000000'),
-    1549: bytes.fromhex('00000000000000000000000082fe9200920092009200920092006c0000000000'),
-    1550: bytes.fromhex('00fe000200020004000400040008000800080010001000100020002000000000'),
-    1551: bytes.fromhex('fe4280a280a4804480088008f8100410022002200244024a848a788400000000'),
-    1552: bytes.fromhex('0002000200040004000800080010001000200020004000400080008000000000'),
-    1553: bytes.fromhex('0200020004000400080008001000100020002000400040008000800000000000'),
-    1554: bytes.fromhex('00000000000000000000000000fe000000000000000000000000000000000000'),
-    1555: bytes.fromhex('10fe3080508010801080108010f81004100210021002100210847c7800000000'),
-    1556: bytes.fromhex('003800440082008210821044fe38104410820082008200820044003800000000'),
-    1557: bytes.fromhex('001000300050001010101010fe10101010100010001000100010007c00000000'),
-    1558: bytes.fromhex('3800440082000200020002000200040008001000200040008000fe0000000000'),
-    1559: bytes.fromhex('00000000000000000010001000fe001000100000000000000000000000000000'),
-    1560: bytes.fromhex('fe0080008000800080008000f800040002000200020002008400780000000000'),
-    1561: bytes.fromhex('38384444828202820286028a02927ca202c20282028282824444383800000000'),
-    1562: bytes.fromhex('00fe00800080008000800080fef8000400020002000200020084007800000000'),
-    1563: bytes.fromhex('380044008200820086008a009200a200c2008200820082004400380000000000'),
-    1564: bytes.fromhex('4200a200a400440008000800100010002000200044004a008a00840000000000'),
-    1565: bytes.fromhex('10003000500010001000100010001000100010001000100010007c0000000000'),
-    1566: bytes.fromhex('8200820082008200440044004400280028002800280010001000100000000000'),
-    1567: bytes.fromhex('00fe0080008000800080008000f8000400020002000200020084007800000000'),
-    1568: bytes.fromhex('384244a282a4824486088a089210a210c22082208244824a448a388400000000'),
-    1569: bytes.fromhex('0010003000500010001000100010001000100010001000100010007c00000000'),
-    1570: bytes.fromhex('000000001010101054543838fefe383854541010101000000000000000000000'),
-    1571: bytes.fromhex('000000000010001000540038ccfe723842544210421042004200420000000000'),
-    1572: bytes.fromhex('000000001000100054003800fe00380054001000100000000000000000000000'),
-    1573: bytes.fromhex('00000000000000000000000038fe44008200fe00800082004400380000000000'),
-    1574: bytes.fromhex('00000000000000000000000078fe040004007c00840084008c00720000000000'),
-    1585: bytes.fromhex('00000000000000000000000007800040004007c00840084008c0072000000000'),
-    1586: bytes.fromhex('0800080008000800080008000b800c4008200820082008200c400b8000000000'),
-    1587: bytes.fromhex('0000000000000000000000000380044008200800080008200440038000000000'),
-    1588: bytes.fromhex('00200020002000200020002003a004600820082008200820046003a000000000'),
-    1589: bytes.fromhex('0000000000000000000000000380044008200fe0080008200440038000000000'),
-    1590: bytes.fromhex('00c00120010001000100010007c0010001000100010001000100010000000000'),
-    1591: bytes.fromhex('00000000000000000000000001a00260042004200420026001a0042002400180'),
-    1592: bytes.fromhex('0800080008000800080008000b800c4008200820082008200820082000000000'),
-    1593: bytes.fromhex('0000000000000000010000000300010001000100010001000100038000000000'),
-    1594: bytes.fromhex('0000000000000000004000000040004000400040004000400040004004400380'),
-    1595: bytes.fromhex('0400040004000400040004200440048005000600050004800440042000000000'),
-    1596: bytes.fromhex('0300010001000100010001000100010001000100010001000100038000000000'),
-    1597: bytes.fromhex('00000000000000000000000006c0092009200920092009200920082000000000'),
-    1598: bytes.fromhex('0000000000000000000000000cc0072004200420042004200420042000000000'),
-    1599: bytes.fromhex('0000000000000000000000000380044008200820082008200440038000000000'),
-    1600: bytes.fromhex('0000000000000000000000000580064004200420042006400580040004000400'),
-    1601: bytes.fromhex('000000000000000000000000034004c008400840084004c00340004000600040'),
-    1602: bytes.fromhex('00000000000000000000000005c0022002000200020002000200070000000000'),
-    1603: bytes.fromhex('00000000000000000000000003c004200400030000c00020042003c000000000'),
-    1604: bytes.fromhex('01000100010001000100010007c001000100010001000100010000c000000000'),
-    1605: bytes.fromhex('000000000000000000000000084008400840084008400840084007a000000000'),
-    1606: bytes.fromhex('0000000000000000000000000820082004400440028002800100010000000000'),
-    1607: bytes.fromhex('000000000000000000000000082009200920092009200920092006c000000000'),
-    1608: bytes.fromhex('0000000000000000000000000820044002800100010002800440082000000000'),
-    1609: bytes.fromhex('00000000000000000000000008200820082008200820082007e00020002007c0'),
-    1610: bytes.fromhex('00000000000000000000000007e000200040008001000200040007e000000000'),
-    1611: bytes.fromhex('800080008000804880008000b878c4048204827c82848284828c827200000000'),
-    1612: bytes.fromhex('00000000000048000000000078b8044404407c40844084408c4072e000000000'),
-    1613: bytes.fromhex('f80084008200824482008400f838844482828282828282828444f83800000000'),
-    1614: bytes.fromhex('0000000000004400000000003878448482808260821882044484387800000000'),
-    1615: bytes.fromhex('f800840082008200820082008400f80088008800840084108238821000000000'),
-    1616: bytes.fromhex('3800440082008200820082008200fe0082008200820082108238821000000000'),
-}
 
-# CWX special tiles between apostrophe and space+letter groups
-_CWX_BETWEEN_TILES = {
-    1488: bytes.fromhex('0000380044007c004400440003c002200220022003c000110011000a000a0004'),
-    1489: bytes.fromhex('0000f0008800f0008800f0000380044007c00440044000120014001800140012'),
-    1490: bytes.fromhex('00007c004000700040007c000220032002a002600220001e001100110011001e'),
-    1630: bytes.fromhex('00107c1000fefe1000107c1001ff00047c0401ff00047c8444c4444444047c1c'),
-}
-
-# Gap tiles between bigram groups — blank in VD font, kanji in JP font.
+# Gap tiles between bigram groups — blank in 0.2-patch font, kanji in JP font.
 # Must be blanked to avoid rendering kanji artifacts.
 _BLANK_GAP_TILES = [
     *range(201, 212), *range(307, 330), *range(366, 369), 911, 912,
@@ -560,7 +574,7 @@ _BLANK_GAP_TILES = [
 def build_char_tile_map() -> dict:
     """Build single char -> tile_index mapping.
 
-    Only includes characters that have valid glyphs in VD's font.
+    Only includes characters that have valid glyphs in 0.2 patch's font.
     """
     m = {}
     m[' '] = 0
@@ -570,8 +584,13 @@ def build_char_tile_map() -> dict:
     m['.'] = 4
     m['?'] = 5
     m['!'] = 6
+    # Dialogue/plot digit singles keep the centered tiles (JP zenkaku
+    # style); the FNT_SYS surface remaps them to (d,' ') half-width
+    # (FNTSYS_CHAR_TILE_MAP below).
     for i in range(10):
         m[str(i)] = 7 + i
+    # A-Z singles still fall back to the centered tiles; full (X,' ')
+    # coverage is the FONT.BIN-rebuild phase (see 20260611 plan, Phase C).
     for i in range(26):
         m[chr(65 + i)] = 17 + i  # A-Z
 
@@ -586,13 +605,37 @@ def build_char_tile_map() -> dict:
     for ch, idx in _EXTRA_PUNCT_TILES.items():
         m[ch] = idx
 
+    # Formation icons — JP-preserved glyphs at 0x014A-0x014E (see dict comment)
+    for ch, idx in _FORMATION_GLYPH_TILES.items():
+        m[ch] = idx
+
+    # '*' renders as the JP full-width star ＊ (the same star drawn in the
+    # objectives-header on the scenario-start screen). Tile 489 carries that
+    # glyph in the JP FONT.BIN and is preserved verbatim by generate_english_font
+    # (it lands on an 'm'-group UI offset the bigram generator skips), so we
+    # map '*' straight to it instead of drawing a separate asterisk.
+    m['*'] = 489
+
+    # Full-width (zenkaku) aliases, mirroring the JP SCENARIO title line.
+    # For now they reuse our existing half-width tiles; later those tiles may be
+    # redrawn as true full-width glyphs. The zenkaku space '　' (U+3000) is a
+    # distinct char from ASCII ' ', so it survives the leading-space trim and
+    # forms no (' ', X) bigram — that is why the JP layout uses it for padding.
+    m['　'] = 0                          # 　 ideographic space → blank tile
+    for i in range(10):
+        m[chr(0xFF10 + i)] = 7 + i           # ０-９ → digit tiles 7-16
+    for i in range(26):
+        m[chr(0xFF21 + i)] = 17 + i          # Ａ-Ｚ → uppercase tiles 17-42
+    m['‐'] = 372                        # ‐ JP full-width hyphen (preserved)
+    m['？'] = 5                          # ？ full-width question mark (SCENARIO-?N)
+
     return m
 
 
 def build_bigram_tile_map() -> dict:
     """Build (left_char, right_char) -> tile_index mapping.
 
-    Only includes bigrams that have valid glyphs in VD's font.
+    Only includes bigrams that have valid glyphs in 0.2 patch's font.
     """
     m = {}
 
@@ -625,24 +668,28 @@ def build_bigram_tile_map() -> dict:
             char_idx += 1
             ri += 1
 
-    # VD apostrophe bigrams (1491-1500)
-    m.update(_VD_APOSTROPHE_BIGRAMS)
-    m.update(_CWX_SPECIAL_BIGRAMS)  # 'v at 1500
+    # Apostrophe bigrams (1491-1499 + 1621-1626, one group)
+    m.update(_APOSTROPHE_BIGRAMS)
+    m.update(_SPECIAL_BIGRAMS)  # 'v at 1500
 
-    # VD space+letter bigrams (1435-1487)
-    m.update(_VD_SPACE_LETTER_BIGRAMS)
+    # Space+letter bigrams (1435-1487)
+    m.update(_SPACE_LETTER_BIGRAMS)
 
-    # VD punctuation bigrams (907-910)
-    m.update(_VD_PUNCT_BIGRAMS)
-
-    # Custom apostrophe bigrams (tiles 1621+, written into kanji area)
-    m.update(_CUSTOM_APOSTROPHE_BIGRAMS)
+    # Punctuation bigrams (907-910)
+    m.update(_PUNCT_BIGRAMS)
 
     # Extra bigram tiles (SFX pairs, stat labels, quote+space) in kanji area
     m.update(_EXTRA_BIGRAM_TILES)
 
+    # Stat-tail letter bigrams (audited free slots) — dialogue-safe
+    m.update(_STAT_BIGRAM_TILES)
+
     # Custom umlaut bigrams (slots 1659-1664, kanji area)
     m.update(_CUSTOM_UMLAUT_BIGRAMS)
+
+    # Number bigrams (slice 1) — appended past 1691; digit+space reuses 201-210
+    m.update(_NUMBER_BIGRAM_TILES)
+    m.update(_NUMBER_TAIL_TILES)
 
     # Validate no tile index collisions (two pairs sharing a slot)
     seen = {}
@@ -657,8 +704,100 @@ def build_bigram_tile_map() -> dict:
 
 
 CHAR_TILE_MAP = build_char_tile_map()
+# Dialogue ASCII digits render HALF-WIDTH (201-210), not centered zenkaku, now
+# that the number bigrams give complete 00-99 coverage (no half/full mixing).
+# Full-width '０'-'９' (-> 7-16) are untouched, so SCENARIO titles stay zenkaku.
+for _d in range(10):
+    CHAR_TILE_MAP[str(_d)] = 201 + _d
 BIGRAM_TILE_MAP = build_bigram_tile_map()
+
+# Apostrophe + hyphen completion: when the letter before a ' or - lands at odd
+# greedy parity it would fall to a standalone tile (blank right half) and spread
+# the mark ("Freya 's", "Class - Up", stutters "N- no"). Adding every missing
+# (letter,punct)/(punct,letter) pair lets them pair tight. Appended at fresh
+# tiles past the number region; composed in generate_english_font.
+_PUNCT_FAMILY_TILES = {}
+_next_free = max(BIGRAM_TILE_MAP.values()) + 1
+for _p in ("'", "-"):
+    for _c in string.ascii_lowercase + string.ascii_uppercase:
+        for _pair in ((_c, _p), (_p, _c)):
+            if _pair not in BIGRAM_TILE_MAP:
+                _PUNCT_FAMILY_TILES[_pair] = _next_free
+                _next_free += 1
+BIGRAM_TILE_MAP.update(_PUNCT_FAMILY_TILES)
+
+# ---------------------------------------------------------------------------
+# Data-driven completion: add a tile for every half-width pair the FINAL scripts
+# pair 2-chars-at-a-time (the engine's fixed-column layout), so nothing falls
+# back to a centered zenkaku single or a blank gap. Boundaries (never a bigram):
+# control codes, [tokens], * • and any full-width/zenkaku char. Same algorithm as
+# tools/bigram_histogram.py; tests/test_no_bigram_fallback.py enforces MISSING==0.
+# ---------------------------------------------------------------------------
+_HALF_GLYPH_CHARS = ({' ', "'"} | set(_LETTER_GLYPHS) | set(_PUNCT_GLYPHS)
+                     | set(_EXTRA_PUNCT_GLYPHS) | set(_DIGIT_HALF_GLYPHS)
+                     | set(_UMLAUT_HALF_GLYPHS))
+_BIGRAM_BOUNDARY = re.compile(r"<\$[0-9A-Fa-f]*>|\[[^\]]*\]|[✻…*•【】]|[　‐-―！-｠]")
+
+
+def script_bigram_pairs(script_dir):
+    """Every (a,b) the final scripts pair 2-chars-at-a-time. Control codes,
+    [tokens], * • and full-width/zenkaku chars are boundaries; a trailing odd
+    char pairs with space. The single source of truth for which half-width
+    bigrams the font must contain (umlauts ü/ä/ö stay composable)."""
+    pairs = set()
+    for p in sorted(Path(script_dir).glob("*.txt")):
+        if p.name.startswith("_") or p.stem.endswith("_src"):
+            continue
+        for line in p.read_text(encoding="utf-8", errors="replace").splitlines():
+            for seg in _BIGRAM_BOUNDARY.split(line.replace("...", "…")):
+                for j in range(0, len(seg), 2):
+                    a = seg[j]
+                    b = seg[j + 1] if j + 1 < len(seg) else " "
+                    pairs.add((a, b))
+    return pairs
+
+
+_SCRIPTS_DIR = Path(__file__).resolve().parent.parent / "scripts" / "en"
+_SCRIPT_BIGRAM_TILES = {}
+_next_free = max(BIGRAM_TILE_MAP.values()) + 1
+try:
+    _needed_pairs = script_bigram_pairs(_SCRIPTS_DIR)
+except OSError:
+    _needed_pairs = set()
+for _a, _b in sorted(_needed_pairs):
+    if (_a, _b) in BIGRAM_TILE_MAP:
+        continue
+    if _b == " " and _a in CHAR_TILE_MAP:        # trailing -> standalone (x + blank)
+        continue
+    if _a not in _HALF_GLYPH_CHARS or _b not in _HALF_GLYPH_CHARS:
+        continue                                  # not composable -> needs a drawn glyph
+    _SCRIPT_BIGRAM_TILES[(_a, _b)] = _next_free
+    _next_free += 1
+BIGRAM_TILE_MAP.update(_SCRIPT_BIGRAM_TILES)
+
+# Total tile count of the GENERATED English font (JP base + all appended bigrams).
+ENGLISH_FONT_TILES = max(BIGRAM_TILE_MAP.values()) + 1
+
 TILE_CHAR_MAP = {v: k for k, v in CHAR_TILE_MAP.items()}
+
+
+def build_fntsys_maps() -> tuple:
+    """Per-surface encoder choice (see reference_font_consumer_map): the
+    FNT_SYS string sections (descriptions, menu labels, spell lists) add
+    the digit pairs and fragment reuse on top of the dialogue maps,
+    and remap single half-width digits to their (d,' ') half-width tile.
+    Glyphs are shared; only the encoding choice differs per surface.
+    """
+    char_m = dict(CHAR_TILE_MAP)
+    for d in range(10):
+        char_m[str(d)] = _DIGIT_PAIR_TILES[(str(d), ' ')]
+    bigram_m = dict(BIGRAM_TILE_MAP)
+    bigram_m.update(_DIGIT_PAIR_TILES)
+    bigram_m.update(_STAT_FRAGMENT_MAPS)
+    return char_m, bigram_m
+
+
+FNTSYS_CHAR_TILE_MAP, FNTSYS_BIGRAM_TILE_MAP = build_fntsys_maps()
 
 
 # ---------------------------------------------------------------------------
@@ -698,7 +837,7 @@ def _interleave(left_glyph: bytes, right_glyph: bytes) -> bytes:
 def _render_glyph_centered(glyph: bytes) -> bytes:
     """Render an 8x16 glyph in cols 4-11 of a 16x16 tile (centered).
 
-    Used for the CWX menu range (1500-1620), where each hand-drawn tile
+    Used for the 0.2 patch menu range (1500-1620), where each hand-drawn tile
     held a single char positioned roughly mid-cell. Mirroring that
     position with Eagle III keeps in-game tabular layout intact —
     binaries reference tile_code expecting the char to occupy the
@@ -732,29 +871,28 @@ def _render_tight_bigram(left_glyph: bytes, right_glyph: bytes,
     return bytes(tile)
 
 
-# CWX tile range overrides — when populated, these tile slots get
-# Eagle III re-rasterized at build time instead of CWX hand-drawn bytes.
+# 0.2 patch tile range overrides — when populated, these tile slots get
+# Eagle III re-rasterized at build time instead of 0.2 patch hand-drawn bytes.
 # Format:
 #   tile_idx → ('center', 'a')           single char centred (cols 4-11)
 #   tile_idx → ('left',   'X')           single char on left half (cols 0-7)
 #   tile_idx → ('bigram', 'P', 'C')      8x16 bigram (cols 0-7 + 8-15)
 #   tile_idx → ('bigram', 'S', 'c'[, shift])  tight-kerned bigram
 #
-# LC alphabet (1585-1610): identified by visual inspection — each CWX
-# tile centres its char in cols 4-9; we use 'center' mode to match.
-# UC range (1501-1574) is partially identified; remaining slots fall
-# back to CWX hand-drawn bytes via _CWX_MENU_TILES until audited.
-# Composite slots (1488-1490, 1611-1620) are 3-diagonal stat-icon
-# composites that have no Eagle III equivalent — left as CWX art.
-_CWX_TILE_OVERRIDES: dict[int, tuple] = {}
+# LC alphabet (1585-1610): each centres its char in cols 4-9 ('center' mode).
+# This dict is the COMPLETE source for the 1500-1620 menu/stat range — every
+# slot is composed from our half-glyphs (center/left/bigram). The old
+# 0.2-patch hand-drawn byte blobs were deleted; nothing falls back to them.
+# Composite slots (1611-1620) are stat-icon composites built as tight bigrams.
+_MENU_GLYPHS: dict[int, tuple] = {}
 for _i, _ch in enumerate('abcdefghijklmnopqrstuvwxyz'):
-    _CWX_TILE_OVERRIDES[1585 + _i] = ('center', _ch)
+    _MENU_GLYPHS[1585 + _i] = ('center', _ch)
 
-# UC range identifications — multi-context evidence in
-# build/cwx_decode_context.txt (regenerable via tools/cwx_tile_audit.py).
+# UC range identifications — the character each menu slot holds is locked
+# by the curated truth CSV (tests/tile_audit_truth.csv, test_tile_audit_truth).
 # Bigram pairs use tight_bigram so adjacent Eagle III glyphs touch
 # without the natural 1-2 px padding that vanilla _interleave leaves.
-_CWX_TILE_OVERRIDES.update({
+_MENU_GLYPHS.update({
     # 'v ligature for "You've" / "I've" / etc.
     1500: ('bigram', "'", 'v'),
 
@@ -774,7 +912,7 @@ _CWX_TILE_OVERRIDES.update({
     1509: ('bigram', 'T', 'ü'),
     1510: ('bigram', 'T', 'ü'),
     1511: ('bigram', 'T', 'ü'),
-    1512: ('bigram', 'T', 'ü'),   # 1509-1512 byte-identical in CWX
+    1512: ('bigram', 'T', 'ü'),   # 1509-1512 byte-identical in 0.2 patch
 
     1513: ('bigram', 'P', '!'),         # "Insufficient M[P!]" — image shows P with !
 
@@ -859,7 +997,7 @@ _CWX_TILE_OVERRIDES.update({
     1614: ('bigram', 'ö', 's'),
     1615: ('bigram', 'R', '.'),
     1616: ('bigram', 'A', '.'),
-    # 1617-1620: user has no audit.png; left as CWX hand-drawn
+    # 1617-1620: user has no audit.png; left as 0.2 patch hand-drawn
 })
 
 
@@ -868,7 +1006,7 @@ def generate_english_font(jp_font: bytes) -> bytes:
 
     Takes the raw JP FONT.BIN (54112 bytes = 1691 tiles x 32 bytes) and
     overwrites ONLY tiles mapped by the encoder (CHAR_TILE_MAP / BIGRAM_TILE_MAP).
-    UI tiles, CWX range (1500-1620 except space+digit), and unmapped kanji are
+    UI tiles, 0.2 patch range (1500-1620 except space+digit), and unmapped kanji are
     left untouched.
 
     Returns a complete 54112-byte font ready to be patched into the ISO.
@@ -918,10 +1056,27 @@ def generate_english_font(jp_font: bytes) -> bytes:
     # --- Tile 43: blank (previously JP kanji leftover) ---
     write_tile(43, b'\x00' * TILE_SIZE)
 
-    # --- Tile 44: "'s" bigram (repurposed from JP kanji leftover) ---
-    # 8-bit-loadable slot for SH-2 `mov #0x2C, Rn`, used by stat-up template
-    # assembler in prog_3.bin to render "Dieharte's Level ..." correctly.
-    write_tile(44, _interleave(_APOSTROPHE_GLYPH, _LETTER_GLYPHS['s']))
+    # --- Tile 44: "'s " — COMPACT possessive (left half) + trailing space ---
+    # 8-bit-loadable slot for SH-2 `mov #0x2C, Rn`, used by both the stat-up
+    # template ("[Name]'s Level ...") and the item-use message ("[Name]'s
+    # [Item] was used!") in prog_3.bin.
+    #
+    # Redesigned 2026-06-14 (user): the possessive 's no longer spans a whole
+    # bigram. It is drawn COMPACT in the LEFT half — apostrophe touching the
+    # top-left corner, the s shifted right to touch col 7 — so the RIGHT half is
+    # an 8px trailing SPACE. This puts the post-'s separator INSIDE the tile,
+    # fixing the item-use glue ("Tiaris'sMagic Herb" -> "Tiaris's Magic Herb")
+    # with no 2nd low slot. Stays at index 44 (<= 0x7F, sign-safe; see
+    # reference_engine_immediate_tile_constraint).
+    #
+    # NOTE: the gap now lives in the tile, so the stat-up suffix's own leading
+    # space (" Level") would DOUBLE the gap in those messages — handled in the
+    # fntsys suffix if playtest shows it (see prog3_statup_template).
+    _s_possessive = bytearray(b >> 1 for b in _LETTER_GLYPHS['s'])  # s -> cols 1-7
+    _s_possessive[2] |= 0xC0   # apostrophe, top-left corner
+    _s_possessive[3] |= 0xC0
+    _s_possessive[4] |= 0x80
+    write_tile(44, _interleave(bytes(_s_possessive), _BLANK_GLYPH))
 
     # --- Tile 45: blank (previously JP kanji leftover) ---
     write_tile(45, b'\x00' * TILE_SIZE)
@@ -947,7 +1102,7 @@ def generate_english_font(jp_font: bytes) -> bytes:
     write_tile(906, _ELLIPSIS_TILE_DATA)
 
     # --- Tiles 907-910: punctuation bigrams ---
-    for (left, right), idx in _VD_PUNCT_BIGRAMS.items():
+    for (left, right), idx in _PUNCT_BIGRAMS.items():
         write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
 
     # --- Tiles 914-1435: UC bigrams ---
@@ -967,34 +1122,35 @@ def generate_english_font(jp_font: bytes) -> bytes:
             ri += 1
 
     # --- Tiles 1435-1487: space+letter bigrams ---
-    for (left, right), idx in _VD_SPACE_LETTER_BIGRAMS.items():
+    for (left, right), idx in _SPACE_LETTER_BIGRAMS.items():
         write_tile(idx, _interleave(_BLANK_GLYPH, half_glyphs[right]))
 
     # --- Tile 1470: double-quote ---
     write_tile(1470, _DQUOTE_TILE_DATA)
 
-    # --- Tiles 1491-1500: VD apostrophe bigrams ---
-    for (left, right), idx in _VD_APOSTROPHE_BIGRAMS.items():
+    # --- Apostrophe bigrams (1491-1499 + 1621-1626, one group) ---
+    for (left, right), idx in _APOSTROPHE_BIGRAMS.items():
         left_g = half_glyphs[left]
         right_g = half_glyphs[right]
         write_tile(idx, _interleave(left_g, right_g))
 
-    # --- Tile 1500: 'v (CWX special) ---
-    for (left, right), idx in _CWX_SPECIAL_BIGRAMS.items():
+    # --- Tile 1500: 'v special bigram ---
+    for (left, right), idx in _SPECIAL_BIGRAMS.items():
         write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
+
+    # --- Stat-tail + digit bigrams (audited free slots) ---
+    # _STAT_FRAGMENT_MAPS reuse pre-rendered 0.2 patch tiles and are NOT drawn.
+    for (left, right), idx in {**_STAT_BIGRAM_TILES, **_DIGIT_PAIR_TILES}.items():
+        left_g = half_glyphs[left]
+        right_g = bigram_right_glyphs[right]
+        write_tile(idx, _interleave(left_g, right_g))
 
     # --- Tiles 1659-1664: custom umlaut bigrams (kanji area) ---
     # Same composition as the regular (X, u/a/o) bigrams + umlaut dots.
-    # Lives outside CWX range (1500-1620) where the engine renders with
+    # Lives outside 0.2 patch range (1500-1620) where the engine renders with
     # name-input-grid spacing that produces visible gaps in dialogue.
     for (left, right), idx in _CUSTOM_UMLAUT_BIGRAMS.items():
         write_tile(idx, _interleave(half_glyphs[left], half_glyphs[right]))
-
-    # --- Tiles 1621-1626: custom apostrophe bigrams ---
-    for (left, right), idx in _CUSTOM_APOSTROPHE_BIGRAMS.items():
-        left_g = half_glyphs[left]
-        right_g = half_glyphs[right]
-        write_tile(idx, _interleave(left_g, right_g))
 
     # --- Tiles 1627-1638: extended punctuation (installed in kanji area) ---
     # 11 chars that appeared in scripts but had no glyph: - + ( ) / * % [ ] ' &
@@ -1031,36 +1187,53 @@ def generate_english_font(jp_font: bytes) -> bytes:
         # stat abbreviations
         ('A', 'T'): (_LETTER_GLYPHS['A'], _LETTER_GLYPHS['T']),
         ('D', 'F'): (_LETTER_GLYPHS['D'], _LETTER_GLYPHS['F']),
+        # all-caps (NPC) — EagleIII halves at free slot 1666
+        ('N', 'P'): (_LETTER_GLYPHS['N'], _LETTER_GLYPHS['P']),
+        # all-caps (GRIN) — dialogue emphasis, dead-kanji slot 1582
+        ('G', 'R'): (_LETTER_GLYPHS['G'], _LETTER_GLYPHS['R']),
+        # all-caps (HP) — dialogue stat abbreviation, dead-kanji slot 1583
+        ('H', 'P'): (_LETTER_GLYPHS['H'], _LETTER_GLYPHS['P']),
         # quote+space pairs (same dquote glyph, different half)
         (' ', '"'): (_BLANK_GLYPH, dquote_half),
         ('"', ' '): (dquote_half, _BLANK_GLYPH),
-        # Bullet bigram for ・ -style bullet points (e.g. " •Death of <$F600>")
-        (' ', '•'): (_BLANK_GLYPH, _BULLET_GLYPH_BIGRAM),
     }
     for pair, idx in _EXTRA_BIGRAM_TILES.items():
         left_g, right_g = extra_bigram_glyphs[pair]
         write_tile(idx, _interleave(left_g, right_g))
 
-    # --- UI tiles (game engine decorations) ---
-    for idx, data in _UI_TILES.items():
+    # --- Name-entry keyboard buttons (our ADV/BAK/END art) ---
+    for idx, data in _NAME_ENTRY_BUTTON_TILES.items():
         write_tile(idx, data)
 
-    # --- CWX menu tiles (English text for menus/stats/battle UI) ---
-    for idx, data in _CWX_MENU_TILES.items():
-        write_tile(idx, data)
+    # --- Tile 1276 (legacy <$04FC> position): redraw with OUR NP halves ---
+    # The encoder's (N,P) lives at 1666; 1276 held an old NP copy. No
+    # FNT_SYS/D00 stream references it, but raw 0x04FC hits in SYSWIN/
+    # A0LANG/PROG_3 are unresolved — repainting in our style keeps any
+    # hardcoded consumer rendering correctly with zero inherited pixels.
+    write_tile(1276, _interleave(_LETTER_GLYPHS['N'], _LETTER_GLYPHS['P']))
 
-    # --- CWX special tiles (between apostrophe and space+letter groups) ---
-    for idx, data in _CWX_BETWEEN_TILES.items():
-        write_tile(idx, data)
-
-    # --- Blank gap tiles (remove kanji from unused slots) ---
-    for idx in _BLANK_GAP_TILES:
+    # --- Orphan engine-UI slots: blank (our zeros, NOT JP kanji) ---
+    # 766="Uü" and 1041="Rü" were 0.2-patch umlaut bigrams, superseded by
+    # our own at 1659+; 1630 was a 0.2-patch decoration. None has a text
+    # consumer and the bigram generator skips them. The ONLY glyphs we
+    # inherit from JP are the formations (_FORMATION_GLYPH_TILES) and the
+    # star (*→tile 489); everything else is ours, so blank these three.
+    for idx in (766, 1041, 1630):
         write_tile(idx, b'\x00' * TILE_SIZE)
 
-    # --- CWX range overrides ---
-    # Applied LAST so they take precedence over _CWX_MENU_TILES /
-    # _CWX_BETWEEN_TILES (CWX hand-drawn bytes) at the same slots.
-    for idx, spec in _CWX_TILE_OVERRIDES.items():
+    # --- Blank gap tiles (remove kanji from unused slots) ---
+    # Slots claimed by the stat-tail/digit bigrams are no longer gaps.
+    stat_slots = (set(_STAT_BIGRAM_TILES.values())
+                  | set(_DIGIT_PAIR_TILES.values()))
+    for idx in _BLANK_GAP_TILES:
+        if idx in stat_slots:
+            continue
+        write_tile(idx, b'\x00' * TILE_SIZE)
+
+    # --- Menu/stat glyphs (1500-1620): our Eagle III draws ---
+    # The SOLE source for this range now — each slot is composed from our
+    # half-glyphs (center/left/bigram), no inherited bytes.
+    for idx, spec in _MENU_GLYPHS.items():
         mode = spec[0]
         if mode == 'center':
             ch = spec[1]
@@ -1077,9 +1250,200 @@ def generate_english_font(jp_font: bytes) -> bytes:
             write_tile(idx, _render_tight_bigram(
                 half_glyphs[l], bigram_right_glyphs[r], shift))
         else:
-            raise ValueError(f'unknown CWX override mode {mode!r}')
+            raise ValueError(f'unknown 0.2 patch override mode {mode!r}')
+
+    # --- Appended bigram tiles: GROW the font and compose each from the
+    # half-width glyphs so it renders tight (never a centered zenkaku / blank
+    # fallback). Two families so far: numbers (digit pairs + ?N + space-led
+    # boundaries) and apostrophe/hyphen (letter<->' and letter<->-, fixing the
+    # "Freya 's" / "Class - Up" / "N- no" gaps). Growth proven in-game 2026-06-25
+    # (the loader loads the larger file, the renderer addresses tile*0x20
+    # uncapped). half_glyphs has ' ', '?', "'", '-' and the letter/digit halves.
+    if ENGLISH_FONT_TILES > len(font) // TILE_SIZE:
+        font.extend(b'\x00' * (ENGLISH_FONT_TILES * TILE_SIZE - len(font)))
+    for (a, b), idx in {**_NUMBER_BIGRAM_TILES, **_PUNCT_FAMILY_TILES,
+                        **_SCRIPT_BIGRAM_TILES}.items():
+        write_tile(idx, _interleave(half_glyphs[a], half_glyphs[b]))
 
     return bytes(font)
+
+
+# ---------------------------------------------------------------------------
+# Part 6 — data-driven production layout (promoted from new_font, 2026-06-26)
+# ---------------------------------------------------------------------------
+# Everything above builds the LEGACY combinatorial bigram layout: wider than
+# needed and APPENDED past the 1691-tile render buffer (garbles in-game), with
+# many unused tiles. It is retained as (a) the PRESERVED-tile oracle and (b) the
+# glyph SOURCE for the rebuild. Below we re-allocate ONLY the necessary bigrams
+# into reclaimed dead slots (<=1691, 100% utilization) and compose the FRESH
+# region, then promote those as the production exports. Validated in-game by the
+# LANG3_NEW_FONT=1 playtest (2026-06-26); guarded by the north-star tests in
+# tests/test_font_full_utilization.py. (new_font.py is now a thin re-export.)
+
+_legacy_generate_english_font = generate_english_font   # glyph source for preserved tiles
+_LEGACY_BIGRAM_TILE_MAP = BIGRAM_TILE_MAP               # preserved-tile / waste oracle
+
+NEW_FONT_TILES = 1691     # within the in-game render buffer (no garble)
+
+# Region FIXED: engine-mandatory, binary-hardcoded (mov #imm + value+7).
+FIXED_TILES = {0, 1, 44} | set(range(7, 17))
+# Region KEPT-SPECIAL: low-band ASCII + scattered specials + menu/UI band.
+KEPT_SPECIAL_TILES = (
+    set(range(2, 7))               # punct : ; , . ? !  (low band 1 is FIXED)
+    | set(range(17, 43))           # UC A-Z full-width (zenkaku; titles + keyboard)
+    | {330, 331, 332, 333, 334}    # formation glyphs
+    | {369, 373, 489, 906}         # full-width parens, star, ellipsis
+    | set(range(1488, 1491))       # ADV/BAK/END keyboard buttons
+    | set(range(1500, 1691))       # 0.2-patch menu/UI band + dead-kanji tail
+)
+_FRESH_LO, _FRESH_HI = 46, 1499
+# Half-width SINGLE tiles the char map references inside the FRESH range: stay at
+# position so the unchanged CHAR_TILE_MAP keeps rendering them (no spacing change).
+CHAR_SINGLE_TILES = {t for t in CHAR_TILE_MAP.values()
+                     if t is not None and _FRESH_LO <= t <= _FRESH_HI}
+PRESERVED_TILES = FIXED_TILES | KEPT_SPECIAL_TILES | CHAR_SINGLE_TILES
+DROPPED_TILES = {43, 45}   # parked low-band bigrams the rebuild drops (not engine)
+
+# Half-width double-quote (mirrors the apostrophe's upper-left mark, doubled), so
+# (space,") / (",x) / (x,") pair tight instead of the wide zenkaku " (tile 1470).
+_DQUOTE_GLYPH = bytes.fromhex('0000006c6c480000' '0000000000000000')
+
+
+def build_half_glyphs() -> dict:
+    """char -> 16-byte half-width glyph used to compose the FRESH bigram tiles."""
+    hg = {' ': _BLANK_GLYPH}
+    hg.update(_LETTER_GLYPHS)
+    hg.update(_PUNCT_GLYPHS)
+    hg.update(_EXTRA_PUNCT_GLYPHS)
+    hg.update(_DIGIT_HALF_GLYPHS)
+    hg.update(_UMLAUT_HALF_GLYPHS)
+    hg["'"] = _APOSTROPHE_GLYPH
+    hg['"'] = _DQUOTE_GLYPH
+    return hg
+
+
+HALF_GLYPHS = build_half_glyphs()
+
+
+def compose_bigram(a: str, b: str) -> bytes:
+    """The 32-byte tile for the half-width pair (a, b): a's left half + b's right
+    half, interleaved (the same composition the proven generator uses)."""
+    return _interleave(HALF_GLYPHS[a], HALF_GLYPHS[b])
+
+
+def necessary_bigrams() -> list:
+    """Every composable half-width pair the final scripts pair 2-by-2 (data-driven),
+    plus a (c, space) tile for EVERY composable char, so a trailing / before-boundary
+    char always pairs with space instead of the wide centered zenkaku single."""
+    pairs = set()
+    for pair in script_bigram_pairs(str(_SCRIPTS_DIR)):
+        a, b = pair
+        if a in HALF_GLYPHS and b in HALF_GLYPHS:
+            pairs.add(pair)
+    for c in HALF_GLYPHS:
+        if c != ' ':
+            pairs.add((c, ' '))
+    return sorted(pairs)
+
+
+def _preserved_tile_for(pair):
+    """If `pair` already renders at a PRESERVED tile, return it; else None -> needs
+    a FRESH slot. (x, space) only redirects to x's preserved single when x is NOT
+    composable; a composable char (incl. every uppercase) gets a FRESH half-width
+    tile so a standalone "A"/"I"/"B" never falls to the wide centered zenkaku."""
+    old = _LEGACY_BIGRAM_TILE_MAP.get(pair)
+    if old is not None and old in PRESERVED_TILES:
+        return old
+    a, b = pair
+    if b == " " and a not in HALF_GLYPHS:
+        t = CHAR_TILE_MAP.get(a)
+        if t in PRESERVED_TILES:
+            return t
+    return None
+
+
+def build_bigram_layout() -> dict:
+    """pair -> tile. Pairs that render at a preserved tile reuse it; the rest are
+    data-driven FRESH bigrams packed densely from _FRESH_LO. Only NECESSARY pairs
+    get a slot, so no FRESH tile is wasted (the no-waste north-star)."""
+    layout = {}
+    fresh = []
+    for pair in necessary_bigrams():
+        t = _preserved_tile_for(pair)
+        if t is not None:
+            layout[pair] = t
+        else:
+            fresh.append(pair)
+    used = set(layout.values())
+    nxt = _FRESH_LO
+    for pair in fresh:
+        while nxt in PRESERVED_TILES or nxt in used:
+            nxt += 1
+        if nxt > _FRESH_HI:
+            raise ValueError("FRESH region overflow — necessary bigrams exceed 46..1499")
+        layout[pair] = nxt
+        used.add(nxt)
+        nxt += 1
+    return layout
+
+
+def _data_driven_font_tile(font: bytes, i: int) -> bytes:
+    return font[i * 32:(i + 1) * 32]
+
+
+def _generate_data_driven_font(jp_font: bytes) -> bytes:
+    """Preserved tiles at position (from the legacy generator) + the FRESH region
+    composed data-driven from the half-glyph alphabet at their packed positions."""
+    source = _legacy_generate_english_font(jp_font)
+    out = bytearray(NEW_FONT_TILES * 32)
+    for t in sorted(PRESERVED_TILES):
+        if t < NEW_FONT_TILES:
+            out[t * 32:(t + 1) * 32] = _data_driven_font_tile(source, t)
+    for (a, b), t in BIGRAM_TILE_MAP.items():
+        if t in PRESERVED_TILES:
+            continue
+        out[t * 32:(t + 1) * 32] = compose_bigram(a, b)
+    # • bullet: small Eagle dot (half-width) instead of the wide centered circle.
+    _bullet = CHAR_TILE_MAP.get('•')
+    if _bullet is not None and _bullet < NEW_FONT_TILES:
+        out[_bullet * 32:(_bullet + 1) * 32] = compose_bigram('•', ' ')
+    # engine 's possessive (tile 0x2C): the normal [',s] bigram (s in the RIGHT
+    # half), so the engine-injected stat-up suffix keeps its gap ("Freya's Level").
+    out[0x2C * 32:0x2D * 32] = compose_bigram("'", "s")
+    return bytes(out)
+
+
+def _tile_region(t: int) -> str:
+    if t in FIXED_TILES:
+        return "FIXED"
+    if t in KEPT_SPECIAL_TILES:
+        return "KEPT"
+    if t in DROPPED_TILES:
+        return "DROPPED"
+    return "FRESH"
+
+
+def write_layout_csv(path: str) -> int:
+    """Document every font tile: index, hex, region, glyph. Returns bigram count."""
+    inv = {t: f"{a!r}+{b!r}" for (a, b), t in BIGRAM_TILE_MAP.items()}
+    rows = ["tile_dec,tile_hex,region,glyph"]
+    for t in range(NEW_FONT_TILES):
+        rows.append(f"{t},{t:04X},{_tile_region(t)},{inv.get(t, '')}")
+    Path(path).write_text("\n".join(rows) + "\n", encoding="utf-8")
+    return len(BIGRAM_TILE_MAP)
+
+
+# --- Promote the data-driven layout as the production exports -----------------
+BIGRAM_TILE_MAP = build_bigram_layout()
+ENGLISH_FONT_TILES = NEW_FONT_TILES
+generate_english_font = _generate_data_driven_font
+TILE_CHAR_MAP = {v: k for k, v in CHAR_TILE_MAP.items()}
+
+# Re-derive the FNT_SYS surface maps from the PACKED layout. build_fntsys_maps()
+# ran once at module load against the LEGACY bigram positions; without this the
+# fntsys encoder would emit stale tile indices (e.g. (D,E)->307) while the font
+# now draws those glyphs at their packed positions (351) — garbled in-game.
+FNTSYS_CHAR_TILE_MAP, FNTSYS_BIGRAM_TILE_MAP = build_fntsys_maps()
 
 
 # ---------------------------------------------------------------------------

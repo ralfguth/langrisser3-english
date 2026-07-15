@@ -5,62 +5,62 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 Elthlead Soldier<$FFFF>
-Village on the Velzeria Elthlead Border<$FFFF>
- Wouldn't you agree that lately, monsters have been attacking more frequently?<$FFFE>
- Sure looks like it. Guess the Lushiris Gate isn't holding them back any longer.<$FFFE>
- That's not it.<$FFFE>
- Look, the power of Lady Lushiris can be felt even here.<$FFFE>
- If that's right, then why isn't it stopping the monsters?<$FFFE>
- Because the monsters have gotten stronger!<$FFFE>
- I think the problem's with the Gate.<$FFFE>
- That's just not possible! I am sure it's the Alhazard!<$FFFE>
- But, I don't think a mere sword could have that much power!<$FFFE>
- I would have to agree with Tiaris on that one. I am sure the problem is with the Gate itself…<$FFFE>
- Say, <$F600><$0000>! Who do you think's right?<$FFFE>
- Eh!?<$FFFB>Ah…er…<$FFFE>
- How do you respond?<$FFFE>
+Velzeria Border Village<$FFFF>
+Don't you think monster<$FFFC>raids have been on the<$FFFC>rise lately?<$FFFE>
+Yeah, you're right.<$FFFC>Maybe the Lushiris Gate<$FFFC>has stopped once again.<$FFFE>
+That's not it.<$FFFE>
+Look, even out here you<$FFFC>can feel Lady Lushiris'<$FFFC>power so clearly.<$FFFE>
+Why is it the monsters<$FFFC>never seem to thin out?<$FFFE>
+Then the monsters have<$FFFC>grown stronger!<$FFFE>
+I do believe the trouble<$FFFC>lies with the Gate.<$FFFE>
+That simply cannot be!<$FFFC>I'm certain it must be<$FFFC>the Alhazard!<$FFFE>
+But I can't believe a<$FFFC>mere sword holds such<$FFFC>power!<$FFFE>
+I'd have to agree with<$FFFC>Tiaris on that. I'm sure<$FFFC>the trouble lies with<$FFFC>the Gate itself…<$FFFE>
+Hey <$F600><$0000>,<$FFFC>who do you think's in<$FFFC>the right?<$FFFE>
+Huh!?<$FFFB>Ah…er…<$FFFE>
+How do you respond?<$FFFE>
 Tiaris<$FFFE>
 Liffany <$FFFE>
 Sophia<$FFFE>
 Ask Luna<$FFFE>
- Hmm. I think Tiaris is right. It's probably because the monsters have just gotten that much stronger.<$FFFE>
- See? I told you so!<$FFFE>
- Hmm. I think Liffany is right.<$FFFD>For some reason, the Gate just isn't functioning at its full capacity. That's probably how the monsters have been able to invade.<$FFFE>
- See, that's exactly what I said.<$FFFE>
- Hmm. I think Sophia is right. It's because of the Alhazard.<$FFFD>It certainly has more power than any of us can imagine.<$FFFE>
- But, how can we counteract its power…<$FFFE>
- Good question. We would better find a way soon.<$FFFE>
- Indeed.<$FFFE>
- Hmm. That's a tough one…<$FFFD>Luna, what do you think?<$FFFE>
- …<$FFFB>I would say the demons have found some new way to strike back.<$FFFE>
- …Guess so.<$FFFE>
+Hmm. Tiaris is right.<$FFFC>The monsters themselves<$FFFC>have grown stronger.<$FFFE>
+See? I told you so!<$FFFE>
+Hmm, I think Liffany is<$FFFC>the one who's right.<$FFFD>The Gate has gone weak<$FFFC>somehow. That's how the<$FFFC>monsters keep slipping<$FFFC>their way inside.<$FFFE>
+See? Just as I said.<$FFFE>
+Hmm, I think Sophia is<$FFFC>right. The Alhazard's<$FFFC>what's to blame.<$FFFD>It holds power beyond<$FFFC>all we could imagine.<$FFFE>
+But how are we meant to<$FFFC>counter such power…<$FFFE>
+Good point. We'd better<$FFFC>find a way soon.<$FFFE>
+Indeed.<$FFFE>
+Hmm. A tough one, that…<$FFFD>Luna, what do you think?<$FFFE>
+…<$FFFB>The demons must have<$FFFC>found some new means of<$FFFC>striking back at us.<$FFFE>
+…Guess so.<$FFFE>
 …<$FFFE>
 …<$FFFE>
 …<$FFFE>
-I've got some bad news! The Imperial army's launched a surprise attack against the royal capital!<$FFFE>
- Phew. We don't even have time to rest.<$FFFE>
- The Imperial army's at the royal capital!? Gah, at this kind of time…!<$FFFE>
- Very well. Let's hurry and head back.<$FFFE>
+It's terrible news! The<$FFFC>Imperial army's struck<$FFFC>the royal capital in a<$FFFC>surprise attack!<$FFFE>
+Phew. Not a moment to<$FFFC>rest.<$FFFE>
+The Imperial army's hit<$FFFC>the royal capital?!<$FFFC>Gah, of all times…!<$FFFE>
+Understood. Let's hurry<$FFFC>back at once.<$FFFE>
 Central Lushiris Gate<$FFFF>
- Recently, there have been numerous monster infestations. Do you have any idea why?<$FFFE>
- The Gate itself is functioning perfectly.<$FFFE>
- I am afraid that it's the influence of the Alhazard, that demon sword rumored to be held by Velzeria.<$FFFE>
- The demon sword, Alhazard…<$FFFE>
- The Alhazard is the symbol of the Demon Lord. It has the ability to amplify the power of an evil wielder.<$FFFE>
-Then, can you explain how we can deal with the Alhazard?<$FFFD>If we knew that, wouldn't we be able to halt the encroachments of the monsters?<$FFFE>
- The only way to stop the monsters is to seal the Alhazard, or defeat its wielder…the Prince of Darkness, Böser.<$FFFE>
-We've got some trouble, Sir Kirikaze!<$FFFD>The Imperial army has attacked the royal capital in force. Please, return immediately!<$FFFD>We've already sent a messenger to the mobile division.<$FFFE>
- What, those Imperial flunkies!?<$FFFE>
- Lady Jessica, I must hurry off. Fare well!<$FFFE> 
+Monster raids have been<$FFFC>on the rise of late.<$FFFC>Have you any idea why?<$FFFE>
+The Gate is running just<$FFFC>fine, without fault.<$FFFE>
+I fear it is the work of<$FFFC>the Alhazard, that demon<$FFFC>sword said to be passed<$FFFC>down within Velzeria.<$FFFE>
+The demon sword…<$FFFC>Alhazard…<$FFFE>
+The Alhazard is the mark<$FFFC>of the Demon Lord.<$FFFC>It amplifies the power<$FFFC>of those of darkness.<$FFFE>
+Then I would ask how we<$FFFC>might counter this dread<$FFFC>Alhazard.<$FFFD>If only we knew that,<$FFFC>we could hold the<$FFFC>monsters back at last,<$FFFC>could we not?<$FFFE>
+Only two ways remain.<$FFFC>Seal away the Alhazard,<$FFFC>or slay its bearer, the<$FFFC>Prince of Darkness.<$FFFE>
+Sir Kirikaze, trouble!<$FFFD>Imperial troops have hit<$FFFC>the royal capital hard!<$FFFC>You must return at once!<$FFFD>We've sent word already<$FFFC>to the detached unit.<$FFFE>
+What's this?! The<$FFFC>Imperial rabble?!<$FFFE>
+I must be off in haste,<$FFFC>Lady Jessica.<$FFFC>Farewell!<$FFFE><$FFFF>

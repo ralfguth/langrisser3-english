@@ -4,7 +4,7 @@ Legion<$FFFF>
 Wolfman<$FFFF>
 Dark Guard<$FFFF>
 Ogre<$FFFF>
-Seaman<$FFFF>
+Uminin<$FFFF>
 Infantry<$FFFF>
 Soldier<$FFFF>
 Legion<$FFFF>
@@ -29,7 +29,7 @@ Guardsman<$FFFF>
 Crusader<$FFFF>
 Fanatic<$FFFF>
 Dark Monk<$FFFF>
-Apostle of Darkness<$FFFF>
+Dark Apostle<$FFFF>
 Guardsman<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
@@ -38,7 +38,7 @@ High Elf<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
 Ballista<$FFFF>
-Jer<$FFFF>
+Jager<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
 Ballista<$FFFF>
@@ -47,15 +47,15 @@ Crossbow<$FFFF>
 Ballista<$FFFF>
 Witch<$FFFF>
 Slinger<$FFFF>
-Sagitigris<$FFFF>
-Centaur<$FFFF>
-Hapilsag<$FFFF>
-Sagitigris<$FFFF>
-Centaur<$FFFF>
-Hapilsag<$FFFF>
-Sagitigris<$FFFF>
-Centaur<$FFFF>
-Hapilsag<$FFFF>
+Angoramora<$FFFF>
+Centauros<$FFFF>
+Pabilsag<$FFFF>
+Angoramora<$FFFF>
+Centauros<$FFFF>
+Pabilsag<$FFFF>
+Angoramora<$FFFF>
+Centauros<$FFFF>
+Pabilsag<$FFFF>
 Undine<$FFFF>
 Merman<$FFFF>
 Archelon<$FFFF>
@@ -110,7 +110,7 @@ Phalanx<$FFFF>
 Bone Golem<$FFFF>
 Puppet<$FFFF>
 Mad Golem<$FFFF>
-Bamboomen<$FFFF>
+Bamboo<$FFFF>
 Faerie<$FFFF>
 Harpy<$FFFF>
 Gryphon<$FFFF>
@@ -130,7 +130,7 @@ Gremlin<$FFFF>
 Gargoyle<$FFFF>
 Beggar<$FFFF>
 Rogue<$FFFF>
-The Afflicted<$FFFF>
+Kunoichi<$FFFF>
 Beggar<$FFFF>
 Rogue<$FFFF>
 Beggar<$FFFF>

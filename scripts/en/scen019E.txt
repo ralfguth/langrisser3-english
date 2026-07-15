@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,113 +18,113 @@ Varna<$FFFF>
 Emerick<$FFFF>
 General Bortz<$FFFF>
 Rigüler Commander<$FFFF>
-Demonic Giant Galshook<$FFFF>
- •Defeat General Bortz and<$FFFC>  Demonic Giant Galshook<$FFFE>
- •Death of <$F600><$0000><$FFFE>
-Larcussia Defense Perimeter - Imperial Front Line Base<$FFFF>
- The enemy has come into sight, Sir <$F600><$0000>.<$FFFE>
- Wow, that thing is huge!<$FFFE>
-I've got to admit, it's pretty impressive!<$FFFE>
- So this machine incapacitated father…<$FFFE>
- Just keep standing right there. That way Galshook will deliver a quick and painless death to you!<$FFFE>
- We won't fall for that!<$FFFE>
- In that case try your luck and make your way here. It would be my pleasure to take you on personally.<$FFFE>
- Just you wait! I will defeat you for certain!<$FFFE>
- That thing emits the same energy a ruin of the ancients did that I once visited.<$FFFE>
- I see. I can't even fathom the kind of knowledge that would be needed to built such a structure.<$FFFE>
- Sir <$F600><$0000>. Per Lord Kirikaze's intel, Galshook has to come to a stop whenever it fires its magical cannon.<$FFFD>And it can't take its next action until the bombardment ends…<$FFFE>
- But at least we will have some time to advance safely during that period of time.<$FFFE>
- I think now I can guess why our troops have been defeated earlier.<$FFFD>First Lord Raymond didn't know what he was up against and he had a huge but hard to maneuver army.<$FFFD>Unlike his troops, we are a small number of elites. Against this foe we have to use our mobility to our advantage as much as possible.<$FFFE>
- Understood.<$FFFE>
- So that's the magical cannon of the giant…<$FFFD>We can't afford to take that hit many times.<$FFFE>
- It seems as if the cannon can only be fired in a straight line.<$FFFD>If we keep out of the direct line of fire, we should be fine.<$FFFE>
- Okay. I will make sure to keep that in mind.<$FFFE>
- Those before us are all that remains of the Larcussian army.<$FFFD>If they are defeated today, there will be no one left to stand up against the Empire.<$FFFD>Lend me your strength to create an empire unrivaled, so any further conflict will be obsolete!<$FFFE>
- We take on that request with pleasure, General!<$FFFE>
- Sorry, everyone.<$FFFD>Right after fighting Lord Raymond's troops, here I am dragging you into another battle.<$FFFE>
- Don't be concerned. If needed we will gladly give our lives to claim victory for our general!<$FFFE>
-Hah…, you really know how to embarrass me.<$FFFD>But don't you lot dare to throw your lives away, after all I've gone through to save your hides. I hope you got that.<$FFFE>
- Galshook, initialize start up! All troops, prepare for battle! Make sure not to stand in line of fire!<$FFFE>
- Of course, Sir. None of us have a dying wish.<$FFFE>
-Hold out just a little bit longer! If we are victorious today, no one will be foolish enough to resist the Empire!<$FFFD>When that time arrives we will taste the sweet fruits of peace, and we will return home proud of what we accomplished!<$FFFD>Let those thoughts carry you!<$FFFE>
- 2nd division advance! Lure the enemy into the effective range of the cannon!<$FFFE>
- You're doing quite well so far. But the real fun is just starting now!<$FFFE>
- You come across two sharp edged rocks that points towards the sky. A strong magic of unknown nature can be felt from the rocks.<$FFFE>
- What do you do?<$FFFE>
-Dig a hole near the rock<$FFFE>
+Arcane Giant Galshook<$FFFF>
+•Defeat General Bortz and<$FFFC>  Arcane Giant Galshook<$FFFE>
+•Death of <$F600><$0000><$FFFE>
+Larcussia Imperial Base<$FFFF>
+The enemy's in sight,<$FFFC>Sir <$F600><$0000>.<$FFFE>
+Wow, that thing is huge!<$FFFE>
+I've got to admit, it's<$FFFC>pretty impressive!<$FFFE>
+So this very thing is<$FFFC>what struck down my own<$FFFC>father…<$FFFE>
+Been waiting for you.<$FFFC>The lot of you can be<$FFFC>perfect fodder for the<$FFFC>Arcane Giant Galshook!<$FFFE>
+We won't fall for that!<$FFFE>
+If you make it this far,<$FFFC>I'll take you on myself.<$FFFC>I'd prefer it, truly.<$FFFE>
+Just you wait! I will<$FFFC>defeat you for certain!<$FFFE>
+That giant gives off the<$FFFC>very same pulse of magic<$FFFC>as the ancient ruins do.<$FFFE>
+I see. A build beyond<$FFFC>anything the likes of us<$FFFC>could ever dream up.<$FFFE>
+Sir <$F600><$0000>.<$FFFC>Kirikaze's report says<$FFFC>that giant halts to fire<$FFFC>its Magic Cannon.<$FFFD>Until the barrage ends,<$FFFC>it cannot act again…<$FFFE>
+So even with the Magic<$FFFC>Cannon trained on us, we<$FFFC>still get our chance to<$FFFC>slip away.<$FFFE>
+Once you see through a<$FFFC>tactic, there is always<$FFFC>a way to counter it.<$FFFD>Lord Raymond's army was<$FFFC>vast, but too slow to<$FFFC>maneuver, and so it was<$FFFC>crushed.<$FFFD>We, by contrast, are a<$FFFC>small elite. Let's make<$FFFC>the most of our speed.<$FFFE>
+Understood.<$FFFE>
+So that is the giant's<$FFFC>Magic Cannon…<$FFFD>We can't afford to take<$FFFC>that hit many times.<$FFFE>
+Let us keep our units<$FFFC>well clear of the ground<$FFFC>before that giant.<$FFFD>Keep to that, and its<$FFFC>Magic Cannon can never<$FFFC>catch us.<$FFFE>
+Right. Let's plan our<$FFFC>strategy more carefully.<$FFFE>
+Here and now we wipe out<$FFFC>the last of the Larcuss<$FFFC>remnants!<$FFFD>Never again will they<$FFFC>raise arms against our<$FFFC>Empire.<$FFFD>Lend me your strength,<$FFFC>all of you, to make the<$FFFC>Empire's hold on Larcuss<$FFFC>absolute!<$FFFE>
+We take on that request<$FFFC>with pleasure, General!<$FFFE>
+Sorry, everyone.<$FFFD>We only just finished<$FFFC>with Lord Raymond's men,<$FFFC>and here I am dragging<$FFFC>you into another fight.<$FFFE>
+Don't be concerned. If<$FFFC>needed we will gladly<$FFFC>give our lives to claim<$FFFC>victory for our general!<$FFFE>
+Heh… now you've gone<$FFFC>and made me blush.<$FFFD>Don't you go throwing<$FFFC>your lives away for me.<$FFFC>Yours are worth every<$FFFC>bit as much as mine.<$FFFE>
+Galshook's active! All<$FFFC>units, attack! And mind<$FFFC>you don't get caught in<$FFFC>its Magic Cannon!<$FFFE>
+Of course, Sir. None of<$FFFC>us wish to die, either.<$FFFE>
+Almost there, everyone!<$FFFC>Hold this ground, and<$FFFC>not one fool will defy<$FFFC>the Empire again.<$FFFD>Then we'll get to savor<$FFFC>a little peace! Heads<$FFFC>held high, you can all<$FFFC>head home!<$FFFD>Keep your spirit up to<$FFFC>the very last!<$FFFE>
+2nd division advance!<$FFFC>Lure the enemy into the<$FFFC>effective range of the<$FFFC>cannon!<$FFFE>
+You're doing quite well<$FFFC>so far. But the real fun<$FFFC>is just starting now!<$FFFE>
+Two great rocks jut up<$FFFC>toward the sky. Between<$FFFC>them you feel a powerful<$FFFC>barrier.<$FFFE>
+What do you do?<$FFFE>
+Dig between them<$FFFE>
 Destroy the rocks <$FFFE>
-Place yourself between the rocks <$FFFE>
- You dig until your arms grow tired, but nothing was found…<$FFFE>
- On the impact a crack shows upon the rock,<$FFFD>but it seems impossible to completely destroy it…<$FFFE>
- The moment you step in between the rocks a sacred light flashes up.<$FFFD>When you open your eyes again you find sparkling arrows hovering in mid air before you.<$FFFE>
- Apollo's Arrow was obtained!<$FFFE>
- All…this…pain…<$FFFE>
- So… I'm going to die…<$FFFE>
- Father…<$FFFE>
- Blasted!<$FFFE>
- I got carried away…<$FFFE>
- It hurts…<$FFFE>
- Sir <$F600><$0000>…<$FFFE>
- Lady Lushir…is…<$FFFE>
- O Lady Lushiris!<$FFFC>Grant these ones thy radiant protection!<$FFFE>
- Gruuu…<$FFFE>
- Am I to die in a place like this?<$FFFE>
- Tch, I'm losing my edge…<$FFFE>
- General Bortz, please withdraw!<$FFFC>We'll handle Galshook ourselves!<$FFFE>
- You think I would simply run like that!?<$FFFE>
- If we have to defend our wounded general we can't do battle with the same effectiveness! Therefore we request that you remove yourself from the battlefield temporarily.<$FFFE>
-…So that's how it is. If you think that I am an obstacle, I will leave.<$FFFD>I will fall back to Larcussia and regroup our troops there. But you've got to promise me something. …Don't die.<$FFFE>
- Yessir!<$FFFE>
- I hope I can rely on Galshook to save the day. Damn, I am pathetic.<$FFFD>Once I return to Larcussia I will have my troops regroup and return the favor…<$FFFE>
- How the hell…could I be defeated like this… Damn!<$FFFE>
- You alone don't stand a chance. Orders! All troops retreat!<$FFFE>
- Yes, sir!<$FFFE>
- Fall back to Larcussia and regroup!<$FFFE>
- Let's see how you handle yourself against my spearmanship!<$FFFE>
- Not bad!<$FFFC>Never thought we'd be the ones pushed into a corner!<$FFFE>
- BZZ…Received damage exceeds capacities… All functions stopped…<$FFFE>
- As I thought, relying on a thing like that won't bring victory. As promised, I'll take you on myself.<$FFFC>Now, come at me!<$FFFE>
- Target acquired! Destroy them!<$FFFE>
- Scanning for damaged areas.<$FE14>…<$FE14>…<$FE14>…<$FE14>…<$FFFD>No effect on operations detected. Continuing mission.<$FFFE>
- Target locked on! Releasing magical charge!<$FFFD>Magical cannon fire!<$FFFE>
- Long live the Empire! Curses on Larcuss!<$FFFE>
- Kyaaah!<$FFFE>
- To be defeated by mere remnants…<$FFFE>
- I let my guard down…<$FFFE>
- So it ends here…<$FFFE>
- Long live the Rigüler Empire!<$FFFE>
- I've been beaten!<$FFFE>
-I've still got some fight left in me…<$FFFE>
- Aaah…<$FFFE>
- M-my strength…<$FFFE>
- Why… Why?<$FFFC>Why can the Larcuss army fight so well?<$FFFE>
- Impossible! My unit defeated…<$FFFE>
- T-too strong…<$FFFE>
- It's hopeless…<$FFFE>
- Ugh, formidable!<$FFFE>
- Unbelievable!<$FFFE>
- Ugh, formidable!<$FFFE>
- I couldn't even land a hit!<$FFFE>
- Ugh, formidable!<$FFFE>
- We have been defeated…<$FFFE>
- Ugh, formidable!<$FFFE>
- Guaarg…<$FFFE>
- Ugh, formidable!<$FFFE>
- Damn it!<$FFFE>
- Ugh, formidable!<$FFFE>
- Bastards!<$FFFE>
- I won't accept it!<$FFFC>I won't accept it!<$FFFE>
- Damn it!<$FFFE>
- Damn it!<$FFFE>
- I-I can't lose…<$FFFE>
- To mere remnants of Larcuss…<$FFFE>
- You bastards, slaughtering my subordinates like that!<$FFFE>
- Damn it! How dare you!<$FFFD>I'll take you on myself!<$FFFC>Now come at me!<$FFFE>
- Um…<$F600><$0000>. Wouldn't it have been enough just to destroy that weapon?<$FFFD>Unless it's absolutely necessary, I think needless killing should be avoided.<$FFFE>
- Um…<$F600><$0000>. Wouldn't it have been enough just to defeat that commander?<$FFFD>Unless it's absolutely necessary, I think needless killing should be avoided.<$FFFE>
- Ugh, well done!<$FFFE>
- So it's over…<$FFFE>
- You commanded magnificently, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>…<$FFFC>A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
- Alright, commence the counter attack!<$FFFD>All troops, to the offensive!<$FFFE>
- All right, begin the attack!<$FFFD>We will finish this in one stroke!<$FFFE>
+Stand between them<$FFFE>
+You dig until your arms<$FFFC>grow tired, but nothing<$FFFC>was found…<$FFFE>
+The blow leaves a deep<$FFFC>crack across the rock,<$FFFD>but it seems impossible<$FFFC>to completely destroy<$FFFC>it…<$FFFE>
+As you stand between the<$FFFC>rocks, a single ray of<$FFFC>light spills down from<$FFFC>the heavens.<$FFFD>And when you come to,<$FFFC>you find a single arrow<$FFFC>resting in your hand.<$FFFE>
+Acquired the Apollo<$FFFC>Arrow!<$FFFE>
+All…this…pain…<$FFFE>
+So… I'm going to die…<$FFFE>
+Father…<$FFFE>
+Blasted!<$FFFE>
+I got carried away…<$FFFE>
+It hurts…<$FFFE>
+Sir <$F600><$0000>…<$FFFE>
+Lady Lushir…is…<$FFFE>
+O Lady Lushiris! Grant<$FFFC>these ones thy radiant<$FFFC>protection!<$FFFE>
+Gruuu…<$FFFE>
+Am I really gonna die<$FFFC>in a place like this?<$FFFE>
+Tch, I've lost my edge…<$FFFE>
+General Bortz, please<$FFFC>withdraw! We'll handle<$FFFC>Galshook ourselves!<$FFFE>
+You think I would simply<$FFFC>run like that!?<$FFFE>
+We can't fight and guard<$FFFC>our wounded general at<$FFFC>once. Please, fall back<$FFFC>for our sake.<$FFFE>
+…I see. If staying on<$FFFC>would only burden you,<$FFFC>then I'll let it go.<$FFFD>I'll fall back now to<$FFFC>Larcussia and rebuild<$FFFC>our forces. So promise<$FFFC>me this… Don't die.<$FFFE>
+Yessir!<$FFFE>
+There's nothing for it<$FFFC>but to leave the rest to<$FFFC>Galshook now. Damn it,<$FFFC>how pathetic.<$FFFD>I suppose it's best I<$FFFC>withdraw to Larcussia<$FFFC>and rebuild our forces<$FFFC>back up from there…<$FFFE>
+How the hell…could I be<$FFFC>defeated like this…<$FFFC>Damn!<$FFFE>
+Alone, you can't hope<$FFFC>to win this. That is an<$FFFC>order! All troops, fall<$FFFC>back!<$FFFE>
+Yes, sir!<$FFFE>
+Fall back to Larcussia<$FFFC>and regroup!<$FFFE>
+My skill with a spear<$FFFC>is nothing you can scoff<$FFFC>at!<$FFFE>
+Not bad! Never thought<$FFFC>we'd be the ones pushed<$FFFC>into a corner!<$FFFE>
+BZZ…Received damage<$FFFC>exceeds capacities… All<$FFFC>functions stopped…<$FFFE>
+A crutch like this can't<$FFFC>win the day after all.<$FFFC>As promised, I'll face<$FFFC>you myself. Come at me!<$FFFE>
+Target acquired! Destroy<$FFFC>them!<$FFFE>
+Now scanning for damaged<$FFFC>areas.<$FE14>…<$FE14>…<$FE14>…<$FE14>…<$FFFD>No effect detected on<$FFFC>operations. Continuing<$FFFC>mission.<$FFFE>
+Target now locked on.<$FFFC>The firing port stands<$FFFC>open!<$FFFD>Magic Cannon, fire!<$FFFE>
+Long live the Empire!<$FFFC>Curses on Larcuss!<$FFFE>
+Kyaaah!<$FFFE>
+To be defeated by mere<$FFFC>remnants…<$FFFE>
+I let my guard down…<$FFFE>
+So it ends here…<$FFFE>
+Long live the Rigüler<$FFFC>Empire!<$FFFE>
+I've been beaten!<$FFFE>
+I've still got plenty of<$FFFC>fight left in me…<$FFFE>
+Aaah…<$FFFE>
+M-my strength…<$FFFE>
+Why… but why is this<$FFFC>so!? How is the Larcuss<$FFFC>army able to fight like<$FFFC>this?<$FFFE>
+Impossible! My own unit<$FFFC>defeated…<$FFFE>
+T-too strong…<$FFFE>
+It's hopeless…<$FFFE>
+Ugh, formidable!<$FFFE>
+Unbelievable!<$FFFE>
+Ugh, formidable!<$FFFE>
+I couldn't even land a<$FFFC>hit!<$FFFE>
+Ugh, formidable!<$FFFE>
+We have been defeated…<$FFFE>
+Ugh, formidable!<$FFFE>
+Guaarg…<$FFFE>
+Ugh, formidable!<$FFFE>
+Damn it!<$FFFE>
+Ugh, formidable!<$FFFE>
+Bastards!<$FFFE>
+I refuse to accept it!<$FFFC>I won't accept it!<$FFFE>
+Damn it!<$FFFE>
+Damn it!<$FFFE>
+I-I can't lose…<$FFFE>
+To be defeated by mere<$FFFC>remnants of Larcuss…<$FFFE>
+Curse you all! How dare<$FFFC>you cut down my men like<$FFFC>that!<$FFFE>
+Damn it! How dare you!<$FFFD>I'll take you on myself!<$FFFC>Now come at me!<$FFFE>
+Um… <$F600><$0000>.<$FFFC>Wouldn't it have been<$FFFC>enough just to take down<$FFFC>that weapon?<$FFFD>Unless there is truly<$FFFC>no other way, I believe<$FFFC>we should spare needless<$FFFC>killing.<$FFFE>
+Um… <$F600><$0000>.<$FFFC>Wouldn't it have been<$FFFC>enough just to fell that<$FFFC>commander?<$FFFD>Unless there is truly<$FFFC>no other way, I believe<$FFFC>we should spare needless<$FFFC>killing.<$FFFE>
+Ugh, well done!<$FFFE>
+So it's over…<$FFFE>
+Your command today was<$FFFC>truly magnificent, Sir<$FFFC><$F600><$0000>.<$FFFE>
+Sir <$F600><$0000>…<$FFFC>A battle should never<$FFFC>drag on too long.<$FFFD>It will affect what we<$FFFC>can do next time…<$FFFE>
+Reserve units, begin the<$FFFC>attack!<$FFFD>Scatter them all in a<$FFFC>single rush!<$FFFE>
+Right then, begin the<$FFFC>attack!<$FFFD>We'll finish this off in<$FFFC>one stroke!<$FFFE>

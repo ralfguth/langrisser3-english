@@ -5,42 +5,42 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-Feraquea the Doppelganger<$FFFF>
+Feraquea the Phantom<$FFFF>
 Böser<$FFFF>
 General Bortz<$FFFF>
 Rigüler Commander<$FFFF>
 Velzeria Castle<$FFFF>
- Master Böser…<$FFFE>
- …What is it, Feraquea?<$FFFE>
- My apologies! On the way, there was an unforseen intrusion, and I was unable to murder the sorceress.<$FFFE>
- Even without the functionality of the Gate, some of that loathsome Lushiris's power remains.<$FFFE>
- It can't be helped if you couldn't use your true power.<$FFFE>
- But, for you to have lost like this, it must have been quite a powerful party.<$FFFE>
- …I have no words of excuse.<$FFFE>
- No need to brood over it, there will be plentiful battles in the future. Hmmm, but I do wonder what our next move should be…<$FFFE>
+Lord Böser…<$FFFE>
+…What is it, Feraquea?<$FFFE>
+My apologies! Something<$FFFC>got in my way, and the<$FFFC>sorceress lives.<$FFFE>
+The Gate is stilled, yet<$FFFC>cursed Lushiris's power<$FFFC>still lingers somewhat.<$FFFE>
+If you cannot wield your<$FFFC>true power, so be it.<$FFFE>
+Still, for you to lose,<$FFFC>they must have been a<$FFFC>formidable foe.<$FFFE>
+…I have no excuse.<$FFFE>
+No need to fret over one<$FFFC>defeat.<$FFFC>Now then, what shall we<$FFFC>do from here…<$FFFE>
 Plains Near the Northern Gate<$FFFF>
- We're in deep shit now, being totally surrounded.<$FFFE>
- General Bortz, what should we do? Right now, it's only a matter of time before we're all wiped out.<$FFFE>
- There's only one way you can escape the enemy surrounding us. Let me serve as a distraction at one end, and break through the other end to escape.<$FFFE>
-!!<$FFFE>
- I am the General of our main troops, it only makes sense I would stay here and fight.<$FFFE>
- Yet, if they see me, and think the main troops have started to move away from me, they will gather their troops in one place to crush me.<$FFFE>
- But, with their army all concentrated in one place, you will definitely be able to break through the weakened perimeter. All of you, use that opening and get out of here.<$FFFE>
- But, General! If we do that…!<$FFFE>
- That fast horseman who came earlier brought me word that General Varna is sending a relief army.<$FFFE>
- If you join up with Varna's army, Raymond's army won't be able to keep chasing you.<$FFFE>
- General Bortz! Please don't place yourself in such danger!<$FFFE>
- But, as things stand, if you stay with me any longer you will all be wiped out.<$FFFE>
- All of you must live to meet up with Varna! That's an order!<$FFFE>
- …I will leave the rest to you.<$FFFE>
+Damn it all. We've been<$FFFC>completely surrounded.<$FFFE>
+General Bortz, what are<$FFFC>your orders?<$FFFC>We'll all be wiped out<$FFFC>before long.<$FFFE>
+There's only one way out<$FFFC>of this encirclement.<$FFFC>I'll be the decoy and<$FFFC>charge their flank.<$FFFE>
+What?!<$FFFE>
+A general stays with the<$FFFC>main force. That's just<$FFFC>common sense in war.<$FFFE>
+So when they spot me,<$FFFC>they'll think the main<$FFFC>force is on the move,<$FFFC>and come to crush me.<$FFFE>
+But massing their troops<$FFFC>will open a gap.<$FFFC>Break through there and<$FFFC>make your escape.<$FFFE>
+But, General! That would<$FFFC>mean…!<$FFFE>
+A messenger just rode in<$FFFC>to say Varna's marching<$FFFC>up to reinforce us.<$FFFE>
+Once you link up with<$FFFC>Varna's army, not even<$FFFC>Raymond can give chase.<$FFFE>
+General Bortz, please<$FFFC>don't take such a risk!<$FFFE>
+But waiting here means<$FFFC>certain death for all.<$FFFE>
+Survive, and reach Varna<$FFFC>no matter what!<$FFFC>That's an order!<$FFFE>
+…I'm counting on you<$FFFC>for the rest.<$FFFE>

@@ -76,10 +76,12 @@ def signature_from_bytes(b: bytes) -> tuple:
             has_text = True
     if has_text:
         sig.append(1)
-    # Strip trailing FFFF padding: last-entry alignment artifact in JP
-    # D00.DAT (text area is offset-bounded; leftover bytes after the
-    # real FFFE terminator are filled with FFFF and have no engine
-    # meaning). EN scripts don't need to replicate this.
+    # Normalize the trailing string-terminator FFFF on the last entry so JP and
+    # EN compare equal regardless of it. NOTE (2026-06-14): FFFF is a REAL engine
+    # code (string terminator), not padding, and the EN now DOES carry the
+    # trailing <$FFFE><$FFFF> matching JP on the 61 sections that have it (see
+    # memory feedback_trailing_ffff_stripped). Both sides carry it, so dropping
+    # it here is pure comparison-normalization, not a claim that EN omits it.
     if len(sig) >= 2 and sig[-1] == 'FFFF' and sig[-2] == 'FFFE':
         sig = sig[:-1]
     return tuple(sig)

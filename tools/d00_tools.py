@@ -46,6 +46,32 @@ USER_SIZE = 2048
 OFFSET_TABLE_SENTINEL = 164  # 0x00A4
 
 
+# Chars whose standalone tile has built-in 8px right-half blank
+# (left content + blank right). After emitting such a tile, an
+# ASCII space mid-segment is redundant — the right-blank already
+# provides the inter-letter gap. See encode_text_to_entry below for
+# the skip-space-after-right-blank rule that uses this set.
+# Excludes '-' and '•' which are painted full-width (no right-blank).
+# Exported at module scope so text_measure.py can mirror the rule
+# without duplicating the constant.
+RIGHT_BLANK_STANDALONE_CHARS = frozenset(
+    'abcdefghijklmnopqrstuvwxyz'   # LC standalones = (lc, ' ') bigram tile
+    ',.?!:;'                        # punctuation interleaved with blank
+    'äöü'                            # umlaut standalones
+    "+()/*%[]'&"                    # extra punct (excludes - and •)
+)
+
+
+# Opening punctuation that should HUG the glyph that follows it when it cannot
+# pair with that glyph (no (c, X) content bigram). Instead of the default
+# (c, ' ') tile — content LEFT, blank RIGHT, which leaves a gap before the next
+# glyph — emit the blank-LEFT (' ', c) tile so the char sits on the RIGHT of its
+# cell, adjacent to what follows. e.g. '(' before the full-width formation square
+# 囗 in scen001's tutorial ("(囗)"). The (' ', c) tile already exists in the font.
+# Mirrored in text_measure.iter_tiles so widths stay byte-exact.
+LEFT_BLANK_STANDALONE_CHARS = frozenset('(')
+
+
 # ---------------------------------------------------------------------------
 # D00.DAT parsing
 # ---------------------------------------------------------------------------
@@ -151,8 +177,16 @@ def decode_entry_to_text(entry: bytes, tile_char_map: dict) -> str:
 # Text encoding (English text -> tile codes)
 # ---------------------------------------------------------------------------
 
+# The new-font build sets this True so EVERY surface applies the rigorous
+# trailing rule (trailing composable char -> (c, space) half-width bigram) without
+# threading a flag through insert_translations / plot / fntsys / syswin. Default
+# False keeps the production build byte-identical.
+TRAILING_BIGRAM_DEFAULT = False
+
+
 def encode_text_to_entry(text: str, char_tile_map: dict,
-                         bigram_tile_map: dict = None) -> bytes:
+                         bigram_tile_map: dict = None,
+                         trailing_bigram: bool = None) -> bytes:
     """Encode a text string with escape sequences into raw entry bytes.
 
     Handles:
@@ -167,6 +201,8 @@ def encode_text_to_entry(text: str, char_tile_map: dict,
     bigram_tile_map, emit that tile and advance by 2; otherwise fall back to
     single-char lookup in char_tile_map.
     """
+    if trailing_bigram is None:
+        trailing_bigram = TRAILING_BIGRAM_DEFAULT
     # First, segment the text into control codes and regular text chunks.
     # This ensures control codes are never part of bigram pairs.
     segments = []  # list of ('ctrl', bytes) or ('text', str)
@@ -211,20 +247,9 @@ def encode_text_to_entry(text: str, char_tile_map: dict,
     # Now encode each segment
     result = bytearray()
 
-    # Chars whose standalone tile has built-in 8px right-half blank
-    # (left content + blank right). After emitting such a tile, an
-    # ASCII space mid-segment is redundant — the right-blank already
-    # provides the inter-letter gap. Skipping the space avoids:
-    #   - standalone space tile (16px blank)
-    #   - (' ', X) leading-blank bigram (8px wasted in left half)
-    # Either would render as visible double-spacing after the punct.
-    # Excludes '-' and '•' which are painted full-width (no right-blank).
-    _RIGHT_BLANK_STANDALONE_CHARS = frozenset(
-        'abcdefghijklmnopqrstuvwxyz'   # LC standalones = (lc, ' ') bigram tile
-        ',.?!:;'                        # punctuation interleaved with blank
-        'äöü'                            # umlaut standalones
-        "+()/*%[]'&"                    # extra punct (excludes - and •)
-    )
+    # Use module-level RIGHT_BLANK_STANDALONE_CHARS (lifted from this
+    # function to be importable by text_measure.py).
+    _RIGHT_BLANK_STANDALONE_CHARS = RIGHT_BLANK_STANDALONE_CHARS
 
     # Control codes that behave as INLINE TEXT (continue the visible
     # word stream). Skip-space-after-right-blank rule should reach across
@@ -276,6 +301,32 @@ def encode_text_to_entry(text: str, char_tile_map: dict,
                         last_was_right_blank = (pair[1] == ' ')
                         j += 2
                         continue
+
+                # Opening punctuation that should HUG the next glyph: emit the
+                # blank-LEFT (' ', c) tile so '(' sits on the RIGHT of its cell,
+                # adjacent to the following glyph (no gap), e.g. '(' before the
+                # full-width formation square 囗. Must precede the generic
+                # (c, ' ') trailing rule below, which would leave a gap instead.
+                if (trailing_bigram and bigram_tile_map is not None
+                        and s[j] in LEFT_BLANK_STANDALONE_CHARS
+                        and (' ', s[j]) in bigram_tile_map):
+                    result.extend(struct.pack('>H', bigram_tile_map[(' ', s[j])]))
+                    last_was_right_blank = False
+                    j += 1
+                    continue
+
+                # Rigorous 2-by-2 rule: a composable char that reaches this
+                # fallback could NOT pair with its right neighbour — because the
+                # neighbour is a non-composable boundary (…, *, •, full-width) or
+                # the segment ended. With complete mid-word coverage that is the
+                # ONLY way here, so the char pairs with a synthetic space ->
+                # (c, space) half-width bigram instead of the wide zenkaku single.
+                if (trailing_bigram and bigram_tile_map is not None
+                        and (s[j], ' ') in bigram_tile_map):
+                    result.extend(struct.pack('>H', bigram_tile_map[(s[j], ' ')]))
+                    last_was_right_blank = True
+                    j += 1
+                    continue
 
                 # Single character fallback
                 if s[j] in char_tile_map:

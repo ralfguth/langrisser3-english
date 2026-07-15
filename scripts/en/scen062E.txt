@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -23,33 +23,33 @@ Dark Knight<$FFFF>
 Barral Commander<$FFFF>
 Feraquea<$FFFF>
 Monster<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-11<$FFFC><$0000><$0000><$0000><$0000><$0000> Deception <$0000><$0000><$0000><$0000><$0000><$FFFE>
- Sophia, rescued from being sacrificed by the Shika Tribe, has now joined the party which now is heading towards the eastern gate.<$FFFE>
- However, in the forest ahead, there is a suspicious looking shadow which always follows them yet shies away from human contact, awaiting its opportunity to strike.<$FFFE>
- *Victory Conditions<$FFFC>•Rescue of NPC<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of NPC<$FFFE>
-Geier and the Airship Fleet vs. the Dark Knight<$FFFF>
- Hmmph. Now that fiend has come, will our dominance of the battlefield shift…<$FFFD>Is this Dark Knight as strong as the rumors say…<$FFFE>
-Reporting, sir!<$FFFD>Several Barral aerial units are diving down from above!<$FFFE>
- A full warship?<$FFFE>
- No, sir! 2 or 3 smaller units!<$FFFE>
- Strengthen our anti aircraft fire. Sink them like we did the others.<$FFFD>Let's see how many times they try before they realize the futility of such attacks.<$FFFE>
- Signal flares…<$FFFB>…Hmmm…<$FFFD>Wh…what…!? "Oil…been defeated"… What could they mean…<$FFFE>
- Oh, no! Hurry out of range!<$FFFE>
- Just a little longer… Soon they won't be able to escape.<$FFFB>Now! Shoot the fire arrows!<$FFFE>
- Archers! Ready volley fire!<$FFFB>Fiiiiiirrreeeeeeeee!!<$FFFE>
- Sir! 3 ships have been lit on fire! Is oil how they burned them so quickly!?<$FFFD>W…what should we do!?<$FFFE>
- Move Ship 2 to the left. Use the enemy aerial units as shields.<$FFFD>With their allies in the line of fire, their attacks should weaken.<$FFFE>
- A message!<$FFFD>Move two ships to the left! Engage in evasive action and bring us behind the enemy aerial units!<$FFFE>
- Yes, sir!<$FFFE>
- …Hmmph. …Hohoho!<$FFFD>Damn you, Dark Knight, you and your taunting mockeries… Then again, if you didn't offer such insolence, things wouldn't be any fun!<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐１１<$FFFC><$0000><$0000><$0000><$0000>The Enchantress<$0000><$0000><$0000><$0000><$FFFE>
+Having saved Sophia from the<$FFFC>Shika Tribe's altar, the party<$FFFC>took her in and set out for the<$FFFC>eastern gate.<$FFFE>
+But in the forest they crossed,<$FFFC>many misshapen shadows crept,<$FFFC>shunning all human eyes.<$FFFE>
+*Victory Conditions<$FFFC>•Rescue of NPC<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of NPC<$FFFE>
+Geier Fleet vs Dark Knight<$FFFF>
+Hmph. Even with<$FFFC>him here, our edge holds<$FFFC>firm…<$FFFD>This Dark Knight's not<$FFFC>what the rumors said…<$FFFE>
+Reporting, sir!<$FFFD>Several Barral aerial<$FFFC>units are diving down on<$FFFC>us!<$FFFE>
+At this ship?<$FFFE>
+No, sir! It's Ships 2<$FFFC>and 3!<$FFFE>
+Step up the anti-air<$FFFC>fire. Shoot them down<$FFFC>just as before.<$FFFD>Make them see how futile<$FFFC>it is to keep coming.<$FFFE>
+A light signal…<$FFFB><$FFFC>…Hmm…<$FFFD>What…!? They scattered<$FFFC>oil on us, you say…?<$FFFC>What can it mean…<$FFFE>
+Damn it! Pull them back,<$FFFC>fast!<$FFFE>
+You took the bait…<$FFFC>No escaping now.<$FFFB><$FFFC>Now! Loose the arrows!<$FFFE>
+Archers!<$FFFC>Ready a volley!<$FFFB><$FFFC>Fiiiiire!<$FFFE>
+Sir! Ship 3's ablaze!<$FFFC>The oil spreads the fire<$FFFC>fast!?<$FFFD>Wh-what should we do!?<$FFFE>
+Ship 2 to the left.<$FFFC>Use the enemy fliers as<$FFFC>a shield.<$FFFD>With allies in<$FFFC>their line of fire, they<$FFFC>should hold back.<$FFFE>
+Orders!<$FFFD>Deploy Ship 2 to the<$FFFC>left! Evade, then swing<$FFFC>in behind the enemy<$FFFC>fliers!<$FFFE>
+Yes, sir!<$FFFE>
+…Heh. …Heh heh heh!<$FFFD>That Dark Knight, a<$FFFC>clever move… But it'd<$FFFC>be no fun any other way!<$FFFE>
 Mountains Near the Central Gate<$FFFF>
- Everyone, there's no need to run away now. The power of that old hag Lushiris has disappeared.<$FFFE>
- Gohhhhhh!<$FFFE>
- We're striking against the Lushiris Gate to ensure the victory of Velzeria.<$FFFE>
- That's why we're going to kill that sorceress said to guard the central Gate, Jessica.<$FFFE>
- Then Master Böser's dream, a world ruled by monsters, can be realized. Kyahahahaha!<$FFFE>
- !?<$FFFD>Worrr…!!<$FFFE>
- What, humans, you say!?<$FFFE>
- …Hmmph! How could we lose to such feeble creatures.<$FFFE>
- Since we're here, let's get some warm-up practice! Come, everyone, fight to your heart's content!<$FFFE>
- Gohhhhhh!<$FFFE> 
+Everyone, stay sharp!<$FFFC>That hateful Lushiris<$FFFC>power is gone at last.<$FFFE>
+Gohhhhhh!<$FFFE>
+For Velzeria's victory,<$FFFC>we'll crush the Lushiris<$FFFC>Gate.<$FFFE>
+And for that, we'll kill<$FFFC>the sorceress Jessica,<$FFFC>who guards the central<$FFFC>gate.<$FFFE>
+Now Lord Böser's dream<$FFFC>nears, and demons shall<$FFFC>rule this world.<$FFFC>KYAHAHAHA!<$FFFE>
+What?!<$FFFD>Worrr…!!<$FFFE>
+What, humans, you say!?<$FFFE>
+…Hmph! As if we'd lose<$FFFC>to them!<$FFFE>
+Let's warm up while<$FFFC>we're at it! Come now,<$FFFC>fight all you like!<$FFFE>
+Gohhhhhh!<$FFFE><$FFFF>

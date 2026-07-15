@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -22,229 +22,229 @@ Imperial Commander<$FFFF>
 Gilbert<$FFFF>
 Rigüler Commander<$FFFF>
 Larcuss Commander<$FFFF>
-•Defeat all enemies except Geier<$FFFE>
+•Defeat all foes but Geier<$FFFE>
 •Death of <$F600><$0000><$FFFC>•Death of all NPC<$FFFE>
 Mountain Road to Torrand's Manor<$FFFF>
- Everyone, don't stop!<$FFFE>
- I will try to hold them back here! You others go on ahead!<$FFFE>
- Y…Yes.<$FFFE>
- Ummm, Pierre…<$FFFE>
- Ha, what is it? Miss Liffany?<$FFFE>
- I might be able to help too. After all I can use magic to some extent.<$FFFE>
-…!<$FFFE>
- Hahaha, you honestly believed you could escape from me? But you see, there's nothing we enjoy more than a good manhunt!<$FFFE>
- Yessir!<$FFFE>
- Please, Miss Liffany! If it is getting too dangerous, you have to make a run for it.<$FFFE>
- Okay.<$FFFE>
- Baron Torrand's mansion lies just beyond these mountains.<$FFFE>
- So, we should be there soon enough.<$FFFE>
- Oh! <$F600><$0000>, look over there!<$FFFE>
- Some Larcussian refugees are being persecuted by the imperial troops!<$FFFE>
- We cannot simply abandon them. Let's rush to their aid!<$FFFE>
- Understood.<$FFFE>
- Pierre. There seem to be friendly soldiers coming from this direction.<$FFFE>
- What stroke of luck! I bet they will come to our help.<$FFFD>Heey! We are being chased by those nasty Imperials! Would you mind lending us a hand here!?<$FFFE>
-Hold out! We will be there right away.<$FFFE>
- Thanks. In that case, what do you want us to do?<$FFFE>
- Understood. We will see to it!<$FFFE>
- Oh my. Now there are enemy soldiers in both directions.<$FFFE>
- We are not your enemy. We are here to help you!<$FFFE>
- Oh, I am sorry to have mistaken you. In that case, what would be the best thing for me to do?<$FFFE>
- Understood.<$FFFE>
- Miss Liffany! Try to hold back the enemy!<$FFFE>
- Understood.<$FFFE>
- Argh, what is taking so long with mere Larcuss remnants! Don't make me lift a finger for such weaklings!<$FFFE>
- Umm, the battle has moved on quiet a bit, do have new orders?<$FFFE>
- OK! Will do.<$FFFE>
- Well, is there anything I can help you with?<$FFFE>
- Yes. I will do just that.<$FFFE>
- Reporting in! Remnants of the Larcussian army have appeared. They seem to be set for battle!<$FFFE>
- So there are Larcuss survivors even in such a place?<$FFFE>
- What could they possibly be up to?<$FFFE>
- I am sure they are headed towards the landlord of this domain, Baron Torrand…<$FFFD>He is said to be quiet the strategist. They probably plan to make use of his skills, that's bad news. Convey this new development to headquarters right away!<$FFFE>
- Yessir!<$FFFE>
- Well then, ladies and gentlemen. It's time for the hunt to begin.<$FFFD>Flying units encircle them and cut off their path of retreat!<$FFFE>
- Leave it to us!<$FFFE>
- General Geier! We have arrived at the designated location!<$FFFE>
- Good. Cut off their route to escape as planned! Encircle them and don't leave a single one of them alive!<$FFFE>
- Yessir!<$FFFE>
- How disgusting, targeting unarmed citizens like that!<$FFFE>
- Hehehe… You are just a whelp on the field of battle, war always is a disgusting thing.<$FFFD>In the end the strong hunt down the weak, it's the most natural thing of all.<$FFFE>
- <$F600><$0000>. Do you have orders for the citizens too?<$FFFE>
- Let me think…<$FFFE>
- Do you want to give out orders?<$FFFE>
- Which direction should the citizens escape to?<$FFFE>
+Everyone, don't stop!<$FFFE>
+I'll hold them off here!<$FFFC>The rest of you, run on!<$FFFE>
+Y-Yes!<$FFFE>
+Ummm, Pierre…<$FFFE>
+Hm? What's the matter,<$FFFC>Miss Liffany?<$FFFE>
+I'd be glad to help as<$FFFC>well. I can manage some<$FFFC>little magic, you see.<$FFFE>
+…Ah!<$FFFE>
+Heh heh heh… You think<$FFFC>you can escape me?<$FFFC>Men, enjoy the hunt!<$FFFE>
+Yessir!<$FFFE>
+Please do, Miss Liffany!<$FFFC>But the moment it gets<$FFFC>dangerous, run for it!<$FFFE>
+As you wish.<$FFFE>
+Baron Torrand's manor<$FFFC>lies just beyond this<$FFFC>mountain.<$FFFE>
+There's still a little<$FFFC>ways to go, it seems.<$FFFE>
+Oh! <$F600><$0000>,<$FFFC>look ahead, up ahead!<$FFFE>
+Larcussians are being<$FFFC>hunted by the Empire's<$FFFC>army!<$FFFE>
+We can't just walk away!<$FFFC>Let's go and help them!<$FFFE>
+Understood.<$FFFE>
+Pierre, there are troops<$FFFC>up ahead, as well.<$FFFE>
+What luck! It looks like<$FFFC>they'll lend us a hand!<$FFFD>Heeey! The Rigüler army<$FFFC>is chasing us down!<$FFFC>Please, help us!<$FFFE>
+Of course! We'll come<$FFFC>and help you right now!<$FFFE>
+Thanks! So then, what<$FFFC>should the lot of us do?<$FFFE>
+Understood. We'll see<$FFFC>to it right away!<$FFFE>
+Oh my. There are enemies<$FFFC>ahead of us as well.<$FFFE>
+We're not your enemy.<$FFFC>We've come to help you!<$FFFE>
+Forgive me, I see now.<$FFFC>Then what should I do?<$FFFE>
+Understood.<$FFFE>
+Miss Liffany! We'll hold<$FFFC>the enemy back here!<$FFFE>
+Understood.<$FFFE>
+Why waste time on these<$FFFC>Larcuss stragglers?!<$FFFC>I won't soil my hands<$FFFC>on such weaklings!<$FFFE>
+Hmm, maybe it's about<$FFFC>time we joined the<$FFFC>fight too?<$FFFE>
+Okay! Will do.<$FFFE>
+Well, is there anything<$FFFC>I can help you with?<$FFFE>
+Yes, of course. I will<$FFFC>do just as you say.<$FFFE>
+General Geier! Larcuss<$FFFC>survivors have appeared,<$FFFC>and they're armed!<$FFFE>
+Larcuss has survivors<$FFFC>even here?<$FFFE>
+What are they up to?<$FFFE>
+The lord of this land<$FFFC>is Baron Torrand…<$FFFD>What do they want with<$FFFC>that strategist?<$FFFC>No good can come of it.<$FFFC>Send word to camp, now!<$FFFE>
+Yessir!<$FFFE>
+Now then, you lot. The<$FFFC>hunt begins.<$FFFD>Flying units, cut off<$FFFC>their retreat. Let none<$FFFC>escape!<$FFFE>
+Leave it to us!<$FFFE>
+General Geier! We have<$FFFC>reached the target site!<$FFFE>
+Seal their retreat, as<$FFFC>planned! Surround them<$FFFC>and slaughter them all!<$FFFE>
+Yessir!<$FFFE>
+They're going after the<$FFFC>citizens! This is bad!<$FFFE>
+Heh heh heh… A whelp<$FFFC>like you, beat me?<$FFFC>I've survived countless<$FFFC>battles in the field.<$FFFD>In the end you're just<$FFFC>prey to be hunted.<$FFFE>
+<$F600><$0000>,<$FFFC>do you have orders for<$FFFC>the citizens as well?<$FFFE>
+Let me think…<$FFFE>
+Will you issue orders?<$FFFE>
+Which direction should<$FFFC>the citizens escape to?<$FFFE>
 Escape to the east<$FFFE>
 Escape to the west<$FFFE>
- Listen up everyone, all citizens should escape to the east!<$FFFE>
- Y…Yes!<$FFFE>
- Listen up everyone, all citizens should escape to the west!<$FFFE>
- Eehh!?<$FFFE>
- Do you even listen to what you're saying!? That way they will be caught by the imperial soldiers right away!<$FFFE>
- O…Oh… That's right.<$FFFD>My bad, everyone. Please escape this way!<$FFFE>
- Yes!<$FFFE>
- No. Most likely they will make their escape this way just fine.<$FFFE>
- Sir, I am heading back to headquarters to deliver the message!<$FFFE>
- Good.<$FFFE>
- Lord Altemüller has to be informed about their activities.<$FFFE>
- Are you unhurt?<$FFFE>
- Yes. I am fine, but what about the citizens…?<$FFFE>
- Thanks to your help they are all safe.<$FFFE>
- Now, that's a relief.<$FFFE>
- …I understand your concern. You can leave the rest to us.<$FFFE>
- Ah, if only I had a little more strength…<$FFFE>
- Are you alright?<$FFFE>
- Yeah, all thanks to you.<$FFFD>By the way, why did you tell the citizens to go west just about now?<$FFFE>
- What do you reply?<$FFFE>
+Listen up everyone, all<$FFFC>citizens should escape<$FFFC>to the east!<$FFFE>
+Y-Yes!<$FFFE>
+Listen up everyone, all<$FFFC>citizens should escape<$FFFC>to the west!<$FFFE>
+Whaaat!?<$FFFE>
+What are you saying?!<$FFFC>We'll be caught by the<$FFFC>imperial troops!<$FFFE>
+O-Oh… That's right.<$FFFD>Sorry, everyone! Quick,<$FFFC>escape over this way!<$FFFE>
+Yes!<$FFFE>
+No. They'll come fleeing<$FFFC>this way on their own.<$FFFE>
+I'll ride to camp with<$FFFC>the message at once!<$FFFE>
+Good.<$FFFE>
+I have to inform Lord<$FFFC>Altemüller about them!<$FFFE>
+Are you unhurt?<$FFFE>
+Yes. But never mind me…<$FFFC>are the citizens safe?<$FFFE>
+They're all safe now,<$FFFC>thanks to you.<$FFFE>
+Now, that's a relief.<$FFFE>
+…I understand. Leave<$FFFC>the rest of this to us.<$FFFE>
+Ah… if only I had a bit<$FFFC>more strength to give…<$FFFE>
+Are you alright?<$FFFE>
+Thanks, a real help.<$FFFD>By the way, why did you<$FFFC>tell the citizens to go<$FFFC>west just now?<$FFFE>
+What do you reply?<$FFFE>
 It was a joke <$FFFE>
-I've got no sense of direction <$FFFE>
- I wanted to test my companion's sense of direction <$FFFE>
- It was just a joke.<$FFFE>
-I see. You really got me with this one.<$FFFE>
- Hahaha… I am sorry about that.<$FFFE>
-It's quiet shameful. To tell the truth, I've got no sense of direction.<$FFFE>
- So that's how it is! You really startled me there for one moment.<$FFFD>From now on you should leave the pathfinding to someone more able ion that department, <$F600><$0000>.<$FFFE>
- Yeah. I will be more careful next time.<$FFFE>
- <$F600><$0000>, you're such a wuss!<$FFFE>
- My? I think having such a side to oneself is quiet adorable, really.<$FFFE>
- I simply was testing my comrade's sense of direction. After all, the leader needs to know the extent of his companion's abilities!<$FFFE>
- Hah… I wonder if that's the way it is…<$FFFE>
- If I say that's how it is, then that's how it is!<$FFFE>
- Sure, sure. No reason to get all angry like that.<$FFFE>
- Thank you for saving me.<$FFFE>
- Thank goodness…<$FFFE>
- I'm saved…<$FFFE>
- That's just how far your pathetic little uprising goes.<$FFFD>Too bad this excellent amusement will come to an end soon. Now it's time to get a bit more serious.<$FFFE>
- Geier! The way you play with the life of others is inexcusable!<$FFFD>Prepare yourself!<$FFFE>
- Hmph! Don't lump me in with foolish peasants like yourself!<$FFFE>
- There is a hole, just big enough for a fairy to fit through.<$FFFE>
- What do you do?<$FFFE>
+Bad with directions<$FFFE>
+It was a test<$FFFE>
+It was just a joke.<$FFFE>
+So that's how it was.<$FFFC>You really surprised<$FFFC>me at first.<$FFFE>
+Hahaha… My apologies<$FFFC>for that.<$FFFE>
+My bad. The truth is,<$FFFC>I'm hopeless with any<$FFFC>sense of direction.<$FFFE>
+So that's what it was!<$FFFC>You really startled me.<$FFFD><$F600><$0000>,<$FFFC>maybe don't take point<$FFFC>from now on, eh?<$FFFE>
+Yeah, from now on I'll<$FFFC>hold back a little.<$FFFE>
+<$F600><$0000>,<$FFFC>you're so uncool!<$FFFE>
+Oh my? A man like that<$FFFC>is rather adorable, if<$FFFC>you ask me.<$FFFE>
+I tested my comrades'<$FFFC>sense of direction.<$FFFC>A leader must know their<$FFFC>abilities precisely!<$FFFE>
+Hmm… I suppose that's<$FFFC>just how it is, then…<$FFFE>
+If I say it's so, then<$FFFC>it's so!<$FFFE>
+All right, all right.<$FFFC>Don't get so angry.<$FFFE>
+Thanks, a real help.<$FFFE>
+Thank goodness…<$FFFE>
+I'm saved…<$FFFE>
+To hold out this long…<$FFFC>I see I underestimated<$FFFC>you a little.<$FFFD>But playtime ends here.<$FFFC>Perhaps I'll get a bit<$FFFC>serious myself now.<$FFFE>
+Geier! I won't forgive<$FFFC>you for toying with the<$FFFC>lives of others!<$FFFD>Prepare yourself!<$FFFE>
+Hmph! Don't lump me in<$FFFC>with foolish peasants<$FFFC>like yourself!<$FFFE>
+There is a hole, just<$FFFC>big enough for a fairy<$FFFC>to slip through.<$FFFE>
+What do you do?<$FFFE>
 Cover it with earth <$FFFE>
 Leave it alone<$FFFE>
-Stamp on it with your feet<$FFFE>
- When you cover the hole with earth, an earth spirit appears.<$FFFD>"What do you think you're doing!? Take this and leave me alone!"<$FFFE>
- Obtained 500P.<$FFFE>
- Nothing happened.<$FFFE>
- As you stomped your feet, an earth spirit appeared.<$FFFD>"Hey, cut out that racket! Don't disturb my nap, mortal!<$FFFD>Hm?<$FE3C>What's with that look? You want something from me?"<$FFFE>
- What do you want to say?<$FFFE>
- Understood. Yeah, yeah take this and leave me be alright.<$FFFE>
- Magic Herb was obtained!<$FFFE>
- …Take this. Cherish that selfless heart of yours. Now I'll go back to my nap…<$FFFE>
- Egil Helm was obtained!<$FFFE>
- Dammit!<$FFFE>
- Uuu… It's useless…<$FFFE>
- Forgive me… Oh…I can't fight anymore…<$FFFE>
- I am sorry… I could not be of much help…<$FFFE>
- Uwaa!<$FFFE>
- Everyone, we will protect you! We won't let them get past here no matter what!<$FFFE>
- Oh? There's no strength left in this body…<$FFFE>
- Here I go!<$FFFE>
- Miss Liffany, are you alright!?<$FFFE>
- There's no need to be concerned. I can still fight.<$FFFE>
- If it would come to this, I should never have run away…<$FFFE>
- Kyaaa!!<$FFFE>
- Oh no… Only if I had a little bit more power…<$FFFE>
- This can't be happening…<$FFFE>
- Prepare yourself!<$FFFE>
- Have at you!<$FFFE>
- You stand no chance against the imperial forces!<$FFFE>
- Is this the end…<$FFFE>
- I…Impossible how could some rag tag soldiers best me?<$FFFD>It must have been because we only had light equipment for the hunt with us.<$FFFD>I will retreat for now. I leave the rest to you!<$FFFE>
- Y…You can't just! General!?<$FFFE>
- Well then, let us enjoy ourselves a little bit!<$FFFE>
- Hmph… For one who is mere prey to point a sword at me!<$FFFE>
- Guaaar!<$FFFE>
- Urrg…!<$FFFE>
- Wh…why!?<$FFFE>
- How…dare you…!<$FFFE>
- Sir Geiurrg!<$FFFE>
- Here of all places…<$FFFE>
- Guwaa!<$FFFE>
- Uaargg!<$FFFE>
- You can no longer escape! Die quietly!<$FFFE>
- Whaat!?<$FFFE>
- Kyaaa! Someone help me!<$FFFE>
- Your wasting your breath! No one can help you now!<$FFFE>
- Th…that's just a scratch…<$FFFD>Guaaarr!<$FFFE>
- Hmph, they don't play half bad…<$FFFE>
- Tssk! Such feckless soldiers.<$FFFD>Bringing only a small force has backfired on me. Can't be helped. It seems I must pull back here.<$FFFE>
- Phew, it's finally over.<$FFFE>
- You can say that again. But <$F600><$0000>, what on earth were you thinking when telling them to go west!?<$FFFD>And don't give me that poor excuse that worked for Pierre…<$FFFE>
- What is your reaction?<$FFFE>
+Stomp your feet<$FFFE>
+You bury the hole and<$FFFC>an earth spirit appears.<$FFFD>What're you doing here!?<$FFFC>Fine, take it and just<$FFFC>leave me be!<$FFFE>
+Acquired 500P!<$FFFE>
+Nothing happened.<$FFFE>
+As you stamp the ground<$FFFC>an earth spirit appears.<$FFFD>Quit that awful racket!<$FFFC>Don't disturb my nap,<$FFFC>mortal!<$FFFD>Hm?<$FE3C>What's that look<$FFFC>for? You want something<$FFFC>from me, do you?<$FFFE>
+Say you want something?<$FFFE>
+Fine, fine. Take this<$FFFC>and quit disturbing my<$FFFC>sleep.<$FFFE>
+Acquired a Magic Herb!<$FFFE>
+…Take this. Treasure<$FFFC>that selfless heart of<$FFFC>yours. Now I shall sleep<$FFFC>a while longer…<$FFFE>
+Acquired the Egil Helm!<$FFFE>
+Dammit!<$FFFE>
+Uuu… It's useless…<$FFFE>
+Forgive me… I can no<$FFFC>longer fight on…<$FFFE>
+I'm sorry I could not<$FFFC>be of more help…<$FFFE>
+Uwaa!<$FFFE>
+I'll protect everyone!<$FFFC>I won't let them take<$FFFC>one step past here!<$FFFE>
+Oh? There's no strength<$FFFC>left in my body…<$FFFE>
+Here I go!<$FFFE>
+Miss Liffany, are you<$FFFC>alright?<$FFFE>
+There's really no need<$FFFC>to worry. I'm still<$FFFC>quite able to fight.<$FFFE>
+If only I'd known this<$FFFC>would happen, I should<$FFFC>never have run away…<$FFFE>
+Kyaaa!!<$FFFE>
+Oh no… If only I had a<$FFFC>little more strength…<$FFFE>
+No… this can't be…<$FFFE>
+Prepare yourself!<$FFFE>
+Damn you!<$FFFE>
+Imperial scum, eat this!<$FFFE>
+Is this the end…<$FFFE>
+This can't be! Beaten by<$FFFC>mere foot soldiers?<$FFFD>All because I came out<$FFFC>lightly armed, thinking<$FFFC>this a mere hunt?<$FFFD>I'll fall back for now.<$FFFC>The rest is up to you!<$FFFE>
+No… it can't be! Not<$FFFC>the General, surely!?<$FFFE>
+Well then, let's enjoy<$FFFC>ourselves a little!<$FFFE>
+Oh ho… A mere quarry<$FFFC>raising a sword to me?<$FFFE>
+Guaaar!<$FFFE>
+Urrg…!<$FFFE>
+Wh…why!?<$FFFE>
+How…dare you…!<$FFFE>
+G-General Geier!<$FFFE>
+Here of all places…<$FFFE>
+Guwaa!<$FFFE>
+Uaargg!<$FFFE>
+You can't escape now!<$FFFC>Die quietly!<$FFFE>
+Whaat!?<$FFFE>
+Kyaaa! Someone help me!<$FFFE>
+Screaming won't help!<$FFFC>Nobody's coming for you!<$FFFE>
+Th-this scratch…<$FFFD>Guaaarr!<$FFFE>
+Hmph, not half bad…<$FFFE>
+Tch! Useless soldiers.<$FFFD>Leading too few troops<$FFFC>backfired on me badly.<$FFFC>No choice, I'll withdraw<$FFFC>from here for now.<$FFFE>
+Phew, it's over now.<$FFFE>
+Yeah, that's so true…<$FFFC>When <$F600><$0000><$FFFC>told them to flee west,<$FFFC>I just froze right up!<$FFFD>And that strange excuse<$FFFC>you fed Pierre, too…<$FFFE>
+How do you react?<$FFFE>
 Get upset <$FFFE>
-Apologize like a good boy <$FFFE>
+Apologize honestly<$FFFE>
 Pout<$FFFE>
- That was no excuse! It was nothing but the truth!<$FFFE>
- Sigh… Always the tough cookie…<$FFFE>
- I am sorry. You looked right through me.<$FFFE>
- Hah… Your growing soft these days, <$F600><$0000>.<$FFFE>
+That was no excuse at<$FFFC>all! It was the truth!<$FFFE>
+Honestly, so stubborn…<$FFFC>that's just like you.<$FFFE>
+Sorry. I went and made<$FFFC>a strange excuse.<$FFFE>
+Hmph… There's something<$FFFC>strange about you today,<$FFFC><$F600><$0000>.<$FFFE>
 …<$FFFE>
- <$F600><$0000> I can't believe it, now you're pouting? Honestly, that's so childish!<$FFFE>
- <$F702><$FFFE>
- <$F703><$FFFE>
- <$F702><$FFFE>
- <$F703><$FFFE>
- <$F704><$FFFE>
- <$F704><$FFFE>
- My name is <$F600><$0000>. As of now, we're on a mission to help rebuilding the Kingdom.<$FFFE>
- <$F705><$FFFE>
- <$F705><$FFFE>
- <$F706><$FFFE>
- <$F706><$FFFE>
- <$F707><$FFFE>
- <$F707><$FFFE>
- Pierre and Liffany have joined the party!<$FFFE>
+<$F600><$0000> what<$FFFC>are you sulking about?<$FFFC>Geez, what a child!<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+I am <$F600><$0000>.<$FFFC>I fight to reclaim the<$FFFC>kingdom from the hands<$FFFC>of its invaders.<$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F706><$FFFE>
+<$F706><$FFFE>
+<$F707><$FFFE>
+<$F707><$FFFE>
+Pierre and Liffany have<$FFFC>joined the party!<$FFFE>
 …<$FFFE>
- What do you want to say?<$FFFE>
+What do you want to say?<$FFFE>
 Welcome them<$FFFE>
-Feeling uneasy about sending woman to battle <$FFFE>
+Making women fight…<$FFFE>
 Say nothing <$FFFE>
- Welcome aboard, you two.<$FFFE>
- It pains me having to send women into battle, but your help could proof indispensable, therefore I accept your offer gratefully.<$FFFD>Nonetheless, please take special care not to get hurt, miss Liffany.<$FFFE>
- Thank you, I appreciate your concern.<$FFFE>
- Thank you, I appreciate your concern.<$FFFE>
- Is everyone alright?<$FFFE>
- Is everyone alright?<$FFFE>
- Thanks to your intervention, everybody seems to be fine.<$FFFE>
- Thanks to your intervention, everybody seems to be fine.<$FFFE>
- We are here on behalf of Viscount Raymond. May I ask for an audience with Baron Torrand.<$FFFE>
- Of course. Let me show you the way then.<$FFFE>
- Of course. Let me show you the way then.<$FFFE>
- No wait! I will take the lead!<$FFFE>
- Let me think…<$FFFE>
- What are your orders?<$FFFE>
+Good to have you both.<$FFFC>I'm counting on you.<$FFFE>
+Sending a woman to fight<$FFFC>weighs on me…<$FFFC>yet your aid is welcome.<$FFFD>Please take the utmost<$FFFC>care, Miss Liffany.<$FFFE>
+Thank you, I appreciate<$FFFC>your concern.<$FFFE>
+Thank you, I appreciate<$FFFC>your concern.<$FFFE>
+Is everyone alright?<$FFFE>
+Is everyone alright?<$FFFE>
+Thank you so very much.<$FFFC>You truly saved us all.<$FFFE>
+Thank you so very much.<$FFFC>You truly saved us all.<$FFFE>
+We are here on behalf<$FFFC>of Viscount Raymond. May<$FFFC>I ask for an audience<$FFFC>with Baron Torrand.<$FFFE>
+Of course. Let me show<$FFFC>you the way then.<$FFFE>
+Of course. Let me show<$FFFC>you the way then.<$FFFE>
+Hold on! Let me be the<$FFFC>one to guide you here!<$FFFE>
+Let me think…<$FFFE>
+What are your orders?<$FFFE>
 Hold your position<$FFFE>
 Attack the enemy<$FFFE>
 Escape this way <$FFFE>
- For the moment just stand by and wait for orders. Help is on the way!<$FFFE>
- Go ahead and attack the enemy! We will be right there to back you up!<$FFFE>
- For now, make your escape this way!<$FFFE>
- Do you want to change instructions for Pierre and Liffany?<$FFFE>
- Do you want to change instructions for Pierre?<$FFFE>
- Do you want to change instructions for Liffany?<$FFFE>
- What are your orders?<$FFFE>
+Then wait around there<$FFFC>for now. Help's coming!<$FFFE>
+Go ahead and attack the<$FFFC>enemy! We will be right<$FFFC>there to back you up!<$FFFE>
+Hurry, escape this way!<$FFFE>
+Do you want to change<$FFFC>instructions for Pierre<$FFFC>and Liffany?<$FFFE>
+Do you want to change<$FFFC>instructions for Pierre?<$FFFE>
+Change Liffany's orders?<$FFFE>
+What are your orders?<$FFFE>
 Hold your position<$FFFE>
 Attack the enemy<$FFFE>
 Escape to the east<$FFFE>
 Hold your ground.<$FFFE>
- Assault the enemy.<$FFFE>
+Assault the enemy.<$FFFE>
 Escape to the east!<$FFFE>
- The citizens that escaped just gave me this strange item as a token of their gratitude to you.<$FFFD>Here take it,<$F600><$0000>.<$FFFE>
- Divine Blessing was obtained!<$FFFE>
- Thanks, Pierre.<$FFFE>
- Huh!? The imperial army is here!?<$FFFE>
- What? Are those enemy reinforcements!?<$FFFE>
- I am Luna, daughter to Lord Torrand, ruler of this land! Your trespassing will not be tolerated!<$FFFE>
- That's Baron Torrand's daughter over there!<$FFFE>
- I see. Her timing is pretty good.<$FFFE>
- Baron Torrand's daughter… She arrived at just the right moment.<$FFFE>
- Thanks, you really saved our necks! I'm Pierre, a knight apprentice from the royal capital, Larcussia.<$FFFE>
- However Larcussia is currently occupied by the Empire, that's why we all are on the run.<$FFFE>
- You can call me Liffany. I am currently studying magic under my parents guidance.<$FFFE>
- My father, Viscount Raymond is currently amassing troops to defend against the attacks of the Colcian Kingdom.<$FFFD>We're currently on our way to enlist the help of Baron Torrand, the genius strategist.<$FFFE>
- That means you all are trying to restore the Kingdom… Alright! I am coming with you!<$FFFE>
-If I may, I also would like to join to express my gratitude. I am also concerned about my parents well being in Larcussia and that way I think I can help them too.<$FFFE>
- Tiaris diary<$FFFD><$0613>th day, 5th moon The weather is lovely again today.<$FFFD>The sun is warm and it feels wonderful.<$FFFD>Beside me, brother is keeping a careful watch for enemies.<$FFFD>Ah… if this were peacetime and I were out on a picnic with him, how much fun that would be.<$FFFD>Then Tia would make a really tasty lunch just for brother.<$FFFD>I may not look it, but I am very good at cooking.<$FFFE>
- I am not as good as Layla, and once in a while, really only once in a while, I do mix up salt and sugar.<$FFFD>Ah… I wish peace would come soon.<$FFFD>I ended up escaping from reality for a while, but today we made two new friends.<$FFFD>Pierre and Liffany.<$FFFD>Pierre is a knight in training, and he feels more cute than cool.<$FFFD>Liffany is gentle and funny, but she is very pretty, so I am a little worried.<$FFFD>When brother greeted her, his face looked way too happy.<$FFFD>So Tia pinched his leg really hard.<$FFFD>She says she is good at cooking too, so she feels like a real rival.<$FFFD>But Tia will not lose!<$FFFE>
- Liffany's diary <$FFFD><$0613>th day, 5th moon, Sunny The sky is clear and beautiful.<$FFFD>On a day like this I should be happy,<$FFFD>yet I have never wished for rain more than I do today.<$FFFD>If it rained, perhaps it would hide the tears in our eyes and in the eyes of the imperial soldiers as well.<$FFFD>It has been a little over two days since we fled Larcussia.<$FFFD>Everyone seems near their limit now, and many look as though they regret escaping at all.<$FFFD>Pierre, who is trying to hold everyone together, looks exhausted too.<$FFFD>At last the imperial pursuers caught up with us.<$FFFD>Then the liberation army led by <$F600><$0000> came to our rescue.<$FFFD><$F600><$0000> is a newly dubbed knight, but he feels very dependable.<$FFFD>He saved us like a prince on a white horse.<$FFFD>There was also a lively and adorable girl named Tiaris.<$FFFD>She called <$F600><$0000> brother, but I wonder if they truly are brother and sister.<$FFFD>We decided to travel with <$F600><$0000>, since we had nowhere else to go, but I wonder what awaits us now.<$FFFD>For the moment, I am simply happy that I can sleep in a bed tonight.<$FFFE>
-Luna's diary<$FFFD><$0613>th day, 5th moon, Sunny <$FFFD>Today, shortly after noon, I discovered civilians being chased by the imperial army on the mountain road to Larcussia.<$FFFD>A messenger from Viscount Raymond, who happened to be coming our way, was already fighting them, so I moved in to support him and we drove the imperials back.<$FFFD>I guided the refugees and the messenger back to the estate.<$FFFD>Ever since the floating castle fell, the imperial army has only gained momentum.<$FFFD>I would like to contact our scattered allies and join forces against the enemy, but things are not going well.<$FFFD>As expected of an empire led by that marshal.<$FFFE> 
+Oh, those folks who got<$FFFC>away gave me a strange<$FFFC>item as their thanks.<$FFFD>Here, this is for you,<$FFFC><$F600><$0000>.<$FFFE>
+Acquired a Divine<$FFFC>Blessing!<$FFFE>
+Thanks, Pierre.<$FFFE>
+Huh!? The imperial army<$FFFC>is here!?<$FFFE>
+What? Are those enemy<$FFFC>reinforcements!?<$FFFE>
+I'm Luna, daughter of<$FFFC>Baron Torrand!<$FFFC>I won't let you ravage<$FFFC>our lands any further!<$FFFE>
+That's Baron Torrand's<$FFFC>daughter over there!<$FFFE>
+I see. She came at just<$FFFC>the right moment.<$FFFE>
+So, Torrand's daughter…<$FFFC>She's come at just the<$FFFC>right moment.<$FFFE>
+Thanks, you saved us!<$FFFC>I'm Pierre, a knight in<$FFFC>training from the royal<$FFFC>capital of Larcussia.<$FFFE>
+Then the Empire came and<$FFFC>seized Larcussia, and we<$FFFC>all had to flee.<$FFFE>
+My name is Liffany. I<$FFFC>trained in magic under<$FFFC>my mother and father.<$FFFE>
+My father, Viscount<$FFFC>Raymond, has gathered<$FFFC>an army to fight the<$FFFC>Colcians now.<$FFFD>We were headed to meet<$FFFC>Baron Torrand, the famed<$FFFC>genius strategist.<$FFFE>
+That means you're all<$FFFC>fighting to take back<$FFFC>the Kingdom…<$FFFC>Right! I'll help too!<$FFFE>
+I want to help as well.<$FFFC>I fear for my parents,<$FFFC>captive in Larcussia.<$FFFE>
+Tiaris's Diary<$FFFD>15th day, 5th moon.<$FFFC>The weather's lovely<$FFFC>again today.<$FFFD>The sun's nice and warm,<$FFFC>and it feels just<$FFFC>wonderful.<$FFFD>Right beside me, my big<$FFFC>brother's keeping a<$FFFC>close watch for any<$FFFC>enemies.<$FFFD>Oh, if only it were<$FFFC>peacetime, so big<$FFFC>brother and I could<$FFFC>go on a picnic…<$FFFC>What fun that'd be!<$FFFD>Then Tia would roll<$FFFC>up her sleeves and<$FFFC>make big brother a<$FFFC>really yummy lunch!<$FFFD>I might not look it,<$FFFC>but Tia's really<$FFFC>good at cooking!<$FFFE>
+Well, I'm not as good<$FFFC>as Miss Layla, of<$FFFC>course,<$FFFD>and once in a while<$FFFC>(only once in a while,<$FFFC>okay?!) I do mix up<$FFFC>the salt and the sugar.<$FFFD>Oh, I wish peace would<$FFFC>hurry up and come.<$FFFD>I've been running from<$FFFC>reality a bit, but<$FFFC>today we made some<$FFFC>new friends.<$FFFD>Pierre and Miss Liffany.<$FFFD>Pierre's a knight in<$FFFC>training, and he's<$FFFC>more cute than cool,<$FFFC>if you ask me.<$FFFD>Miss Liffany's gentle<$FFFC>and fun, but she's<$FFFC>so pretty that I'm<$FFFC>a little worried.<$FFFD>Because when big<$FFFC>brother greeted her,<$FFFC>his face went all<$FFFC>soft and goofy!<$FFFD>So Tia gave his leg<$FFFC>a good hard pinch!<$FFFD>She says she's a good<$FFFC>cook too, so she's a<$FFFC>real rival. But Tia<$FFFC>won't lose!<$FFFE>
+Liffany's Diary<$FFFD>15th day, 5th moon,<$FFFC>clear. Not a single<$FFFC>cloud in the sky.<$FFFD>On a day like this I<$FFFC>should feel happy,<$FFFC>and yet…<$FFFD>I've never wished for<$FFFC>rain as much as I do<$FFFC>today.<$FFFD>Surely the rain would<$FFFC>hide us from the<$FFFC>imperial soldiers'<$FFFC>eyes.<$FFFD>It's been just over<$FFFC>two days since we<$FFFC>fled Larcussia.<$FFFD>Everyone seems near<$FFFC>their limit now, and<$FFFC>many seem to regret<$FFFC>ever having fled.<$FFFD>Even Pierre, who keeps<$FFFC>us all together,<$FFFC>looks worn out.<$FFFD>And then, at last,<$FFFC>the Empire's pursuers<$FFFC>caught up with us.<$FFFD>Just then, the ones<$FFFC>who came to our rescue<$FFFC>were the liberation<$FFFC>army, led by<$FFFC><$F600><$0000>.<$FFFD><$F600><$0000> is a<$FFFC>knight only just<$FFFC>dubbed, yet so<$FFFC>dependable.<$FFFD>He saved us just like<$FFFC>a prince on a<$FFFC>white horse.<$FFFD>There was a lively,<$FFFC>adorable little girl<$FFFC>named Tiaris.<$FFFD>She was calling<$FFFC><$F600><$0000> her big<$FFFC>brother… but are<$FFFC>they really siblings?<$FFFD>With nowhere else<$FFFC>to turn, we've decided<$FFFC>to travel with<$FFFC>him, <$F600><$0000>…<$FFFC>But what awaits us now?<$FFFD>For now, more than<$FFFC>anything, I'm just<$FFFC>happy I can rest in<$FFFC>a bed tonight.<$FFFE>
+Luna's Diary<$FFFD>15th day, 5th moon.<$FFFC>Clear skies.<$FFFD>Today, just past noon,<$FFFC>spotted civilians on<$FFFC>the mountain road to<$FFFC>Larcussia, fleeing<$FFFC>the imperial army.<$FFFD>Viscount Raymond's<$FFFC>envoy, headed our way,<$FFFC>was already fighting<$FFFC>the imperials, so I<$FFFC>lent support and<$FFFC>drove them back.<$FFFD>Escorted the refugees<$FFFC>and the envoy back<$FFFC>to the manor.<$FFFD>Ever since the Floating<$FFFC>Castle fell, the<$FFFC>imperial army only<$FFFC>gains momentum.<$FFFD>I mean to make contact<$FFFC>with our scattered<$FFFC>allies and fight as<$FFFC>one, but it goes<$FFFC>poorly.<$FFFD>No surprise, with the<$FFFC>Empire's Field Marshal<$FFFC>leading them.<$FFFE>

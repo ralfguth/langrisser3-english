@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,152 +20,152 @@ True Böser<$FFFF>
 Chaos<$FFFF>
 Monster<$FFFF>
 Velzerian Commander<$FFFF>
- •Defeat Paul within 17 turns<$FFFE>
- •Death of <$F600><$0000><$FFFC>•Death of the hostage<$FFFE>
-Velzerian Castle - Underground<$FFFF>
- Where are you, Paul! I've come to take her back!<$FFFE>
- Hmph! You're here already? Geier was useless after all.<$FFFE>
- Paul! You're only holding a grudge against me, leave the others of out of this! Let go of her!<$FFFE>
- Now now, don't get so worked up. Don't worry, I shall tend to you shortly.<$FFFE>
- When Lord Chaos is revived, I'll grant you an exquisitely cruel death.<$FFFE>
- How twisted can one man be?<$FFFE>
- I'm pissed! Looking at scum like you makes me sick!<$FFFE>
- We must hurry. We can't give him time!<$FFFE>
- Can you? Even without Alhazard, I can do this much!<$FFFE>
- Whoa! W What a number of monsters!<$FFFE>
- Hahahaha! Doesn't it appeal to you? My new magnificent power?<$FFFD>This is the power Lord Chaos bestowed upon me. And it will increase even more once Lord Chaos revival is complete!<$FFFE>
- But we can't flinch. Everyone, lend me your strength!<$FFFE>
- Have at you, Paul…no, Böser!<$FFFE>
- Muhahaha! At last, my prayers have reached Lord Chaos!<$FFFE>
- What!?<$FFFE>
- Eeek! …,Nooo!<$FFFE>
- Tiaris!<$FFFE>
- Ahh…! This is no good…<$FFFE>
- Liffany!<$FFFE>
- …G…Goodbye…<$FFFE>
- Luna!<$FFFE>
- …Thank you. Y…You must defeat Chaos…<$FFFE>
- Sophia!<$FFFE>
- …Farewell… I leave the rest to you…<$FFFE>
- Freya!<$FFFE>
- Muhahahaha! I did it!<$FFFE>
- Lord Chaos's revival! Ahahahaha!<$FFFE>
- …Well done, Böser.<$FFFE>
- Ha ha! I am honored to hear it!<$FFFE>
-…I, I couldn't protect her…<$FFFE>
- I, I…<$FFFE>
- To allow Chaos's revival to happen…<$FFFE>
- …Böser… Chaos… If it weren't for you, she would still…!<$FFFE>
- I will never forgive any of you!<$FFFE>
+•Defeat Paul<$FFFC>　within 17 turns<$FFFE>
+•Death of <$F600><$0000><$FFFC>•Death of the hostage<$FFFE>
+Velzerian Castle, Underground<$FFFF>
+Where are you hiding,<$FFFC>Paul? I've come to take<$FFFC>her back from you!<$FFFE>
+Hmph! You came quickly.<$FFFC>Geier proved useless,<$FFFC>that good-for-nothing.<$FFFE>
+Paul! Grudge with me?<$FFFC>Settle it on me alone!<$FFFC>Release her!<$FFFE>
+Now, don't be so hasty.<$FFFC>Don't worry, I'll kill<$FFFC>you soon enough as well.<$FFFE>
+Lord Chaos will wake.<$FFFC>Then your death comes,<$FFFC>cruel and slow.<$FFFE>
+How twisted can one man<$FFFC>be?<$FFFE>
+Now I'm really steamed!<$FFFC>Scum like you turns my<$FFFC>stomach, you sicken me!<$FFFE>
+We have to hurry now.<$FFFC>We can't give him even<$FFFC>a moment to spare!<$FFFE>
+Think you can beat me?<$FFFC>Even without Alhazard,<$FFFC>this much is easy!<$FFFE>
+Whoa, look at the size<$FFFC>of that horde! So many<$FFFC>monsters out there!<$FFFE>
+Heh heh heh! Well now,<$FFFC>splendid, isn't it?<$FFFD>This power is the gift<$FFFC>of Lord Chaos himself.<$FFFC>Revive him, and it'll<$FFFC>grow even mightier!<$FFFE>
+But we mustn't falter<$FFFC>now. Everyone, please,<$FFFC>lend me your strength!<$FFFE>
+Now I face you, Paul…<$FFFC>no, Böser!<$FFFE>
+MUHAHAHA!<$FFFC>At long last my<$FFFC>prayers have reached<$FFFC>Lord Chaos himself!<$FFFE>
+What!?<$FFFE>
+Eeek!<$FFFC>…N-Nooo!<$FFFE>
+Tiaris!<$FFFE>
+Ahh…! It seems this<$FFFC>is the end for me…<$FFFE>
+Liffany!<$FFFE>
+…G-Goodbye…<$FFFE>
+Luna!<$FFFE>
+Thank you, for it all…<$FFFC>You must defeat Chaos,<$FFFC>no matter what comes…<$FFFE>
+Sophia!<$FFFE>
+…Farewell to you all…<$FFFC>I leave the rest of this<$FFFC>in your hands now…<$FFFE>
+Freya!<$FFFE>
+MUHAHAHAHA! I did it!<$FFFE>
+Lord Chaos's revival!<$FFFC>AHAHAHAHA!<$FFFE>
+…Well done, Böser.<$FFFE>
+Ha ha ha! Such gracious<$FFFC>words from you, my Lord!<$FFFE>
+…I, I couldn't protect<$FFFC>her…<$FFFE>
+I, I…<$FFFE>
+I let Chaos come back,<$FFFC>after all…<$FFFE>
+Böser… Chaos… If it<$FFFC>weren't for you two, she<$FFFC>would still live…!<$FFFE>
+I'll never forgive any<$FFFC>of you for this! Never!<$FFFE>
 •Defeat Paul and Chaos<$FFFE>
-•Death of <$F600><$0000><$FFFE>
- Stall them to earn some more time for Lord Chaos revival. And don't you to fail me!<$FFFE>
+•Death of<$FFFC><$F600><$0000><$FFFE>
+Stall them and buy more<$FFFC>time for Lord Chaos to<$FFFC>rise. Do not fail me!<$FFFE>
 KISYAAA!<$FFFE>
- Oh I can't wait to welcome lord Chaos to his new domain…<$FFFD>The ceremony is almost complete.<$FFFE>
- Good. Now it's only a matter of minutes before lord Chaos rises.<$FFFD>In the meantime I will take care of those nuisances.<$FFFE>
+Lord Chaos's revival is<$FFFC>still a good while off…<$FFFD>It seems I have little<$FFFC>choice but to hasten it.<$FFFE>
+Listen well, all of you.<$FFFC>Reviving Lord Chaos will<$FFFC>take a while longer yet.<$FFFD>Until then, you handle<$FFFC>that rabble yourselves.<$FFFE>
 <$F704><$FFFE>
 <$F704><$FFFE>
- Lord Böser, when will lord Chaos arrive?<$FFFE>
- Don't be impatient.<$FFFD>The revival of lord Chaos is close at hand. Hahahaha!<$FFFE>
- Lord of darkness, god of chaos! Hear my calling and manifest into this world!<$FFFE>
- The ceremony has advanced quiet a bit…<$FFFE>
- This chant… I am afraid the ceremony will be concluded shortly…<$FFFE>
- This incantation… The ritual is almost complete…<$FFFE>
- Uoo…Ah…<$FFFE>
- Oho! The voice of Lord Chaos can be heard!<$FFFD>Soon. Very soon, the ceremony will be complete!<$FFFE>
- Uuu…! This surge of dark energy…<$FFFE>
- Are you alright, Varna?<$FFFD>Khh, Chaos revival is that close already!?<$FFFE>
- Varna… How much time do we have before the revival of Chaos?<$FFFE>
- I can no longer…<$FFFE>
- Aahhh…please hurry… there's no time…<$FFFE>
- After coming so far…? So…still…<$FFFE>
-The level of dark energy around has increased… This is awful…<$FFFE>
- The dark aura is growing stronger… It's almost…<$FFFE>
- <$F600><$0000>…<$FFFE>
- Oh, it seems they are making their way over here! All forces to the offensive!<$FFFD>For the Revival of Chaos nobody must be allowed to pass!<$FFFE>
- <$F600><$0000>…<$FFFE>
-Hold on, Tiaris! I am by your side now!<$FFFE>
- <$F600><$0000>…<$FFFE>
-Hold on, Liffany! I am by your side now!<$FFFE>
-Hold on, Luna! I am by your side now!<$FFFE>
- <$F600><$0000>…<$FFFE>
-Hold on, Sophia! I am by your side now!<$FFFE>
- <$F600><$0000>…<$FFFE>
-Hold on, Freya! I will save you!<$FFFE>
- <$F600><$0000>…<$FFFE>
- I will not forgive you, Böser!<$FFFE>
- Who would care for one or two dead humans, what are you getting fired up over?<$FFFE>
- Prepare for your end, I shall now claim her back!<$FFFE>
- I will defeat you and save her!<$FFFE>
- Defeat me!? Don't underestimate Böser's power!<$FFFE>
- So you're Chaos. I will avenge her!<$FFFE>
- Human lives mean nothing to me!<$FFFE>
- What did you say!?<$FFFE>
- Out of my way! I don't have time to waste on you!<$FFFE>
- Forgive me Tiaris…<$FFFE>
- Forgive me Liffany…<$FFFE>
- Forgive me Luna…<$FFFE>
- Forgive me Sophia…<$FFFE>
- Forgive me Freya…<$FFFE>
- I am sorry… I couldn't fight to the very end…<$FFFE>
- I am sorry, Sir <$F600><$0000>. Seems I'm done for here…<$FFFE>
- Forgive me, Lord <$F600><$0000>. To come this far…<$FFFE>
- D, Damn it! If only I had more power…<$FFFE>
- I am sorry I could not be of help.<$FFFE>
- Forgive me, when we were so close…<$FFFE>
- I must protect this human world…<$FFFE>
- I won't let the demons take this world… uuugh!<$FFFE>
- Just Chaos's resurrection alone amplified the dark waves this much…?<$FFFE>
- Lord <$F600><$0000>…, I entrust my daughter to you…<$FFFE>
- Lord <$F600><$0000>…, I entrust her to you…<$FFFE>
- Guaaaaa! Lord Lushiris…<$FFFE>
- D-damn… I can no longer move…<$FFFE>
- <$F600><$0000>, I leave the princess to you…<$FFFE>
- Listen, <$F600><$0000>. Don't you dare lose!<$FFFE>
- Tch! What monstrous power…<$FFFE>
- Ch…Chaos mustn't be revived…no matter what it takes…<$FFFE>
- C Chaos's resurrection… must be stopped… no matter what…<$FFFE>
- Defeat Chaos… you can do it…<$FFFE>
- You must save her… If it's you, <$F600><$0000>, you can do it…<$FFFE>
- Sorry, no more for me…<$FFFE>
- You alone… I won't forgive…<$FFFE>
- It seems my life ends here…<$FFFE>
- Lord Chaos revival is nigh, now there's nothing left to be feared by us and this whole world will be under the supreme rule of the demon family!<$FFFE>
- This world is destined to be ruled by lord Chaos and the demon kind!<$FFFE>
- Th…that can't…I… Is this because Alhazard is not by my side?<$FFFE>
- But no matter, Lord Chaos will simply revive me…<$FFFE>
- Hahaha. Lord Chaos… It seems I must stand down a while.<$FFFE>
- Be at ease, Böser.<$FFFE>
- Even just awoken, if the age calls for me, my power amplifies without limit.<$FFFE>
- For now, think of nothing and wither away.<$FFFE>
- A, ah… eternal gratitude… such happiness…<$FFFE>
- So that's it… because of that sword, even Lord Chaos…<$FFFE>
- Impossible, humans never would be able to forge a blade like this…<$FFFD>Only with the assistance of a divine being such as Lord Chaos would it be…<$FFFE>
- …It's over.<$FFFE>
- The world of darkness is upon us. Then you humans will be just…<$FFFD>Guargh!<$FFFE>
- Damn you! Fight with more conviction!<$FFFD>At this rate, Lord Chaos's resurrection will be stopped!<$FFFE>
+Lord Böser, when will<$FFFC>Lord Chaos arrive?<$FFFE>
+Don't be so impatient.<$FFFD>Lord Chaos's revival is<$FFFC>nearly upon us. Heh heh!<$FFFE>
+O Lord of Darkness and<$FFFC>God of Chaos! Answer my<$FFFC>voice and take your form<$FFFC>here in this world!<$FFFE>
+The ceremony has come<$FFFC>quite a long way now…<$FFFE>
+This won't do. The rite<$FFFC>nears its final stage.<$FFFE>
+This chant of theirs…<$FFFC>The rite nears its end…<$FFFE>
+Uoo…Ah…<$FFFE>
+Oho! Did you hear that,<$FFFC>the voice of Lord Chaos!<$FFFD>Soon. Yes, very soon now<$FFFC>the rite will be done!<$FFFE>
+Uuu…! This surge of<$FFFC>dark energy…<$FFFE>
+You all right, Varna?!<$FFFD>Ngh, is the revival of<$FFFC>Chaos so near now?!<$FFFE>
+Varna, stay with us…!<$FFFC>Is the revival of Chaos<$FFFC>truly drawing this near?<$FFFE>
+We must hurry…<$FFFE>
+Nooo… no more of this…<$FFFC>I-I can't go on…<$FFFE>
+Aah, please be quick…<$FFFC>hurry to me, I beg you…<$FFFE>
+So this is the end…?<$FFFC>No, not yet… not yet…<$FFFE>
+The waves of darkness<$FFFC>grow ever stronger…<$FFFC>It's almost time…<$FFFE>
+<$F600><$0000>…<$FFFE>
+Curse them! Don't let<$FFFC>a single one through!<$FFFC>Press the attack hard!<$FFFD>Until Lord Chaos rises<$FFFC>again, do not let one<$FFFC>single soul slip past!<$FFFE>
+<$F600><$0000>…<$FFFE>
+Just hold on, Tiaris!<$FFFC>I'm coming to save you!<$FFFE>
+<$F600><$0000>…<$FFFE>
+Just hold on, Liffany!<$FFFC>I'm coming to save you!<$FFFE>
+Just hold on now, Luna!<$FFFC>I'm coming to save you!<$FFFE>
+<$F600><$0000>…<$FFFE>
+Just hold on, Sophia!<$FFFC>I'm coming to save you!<$FFFE>
+<$F600><$0000>…<$FFFE>
+Just hold on now, Freya!<$FFFC>I'm coming to save you!<$FFFE>
+<$F600><$0000>…<$FFFE>
+I will not forgive you,<$FFFC>Böser!<$FFFE>
+So a human or two dies.<$FFFC>Why work yourself into<$FFFC>such a heat over that?<$FFFE>
+Unforgivable!<$FFFE>
+I will defeat you and<$FFFC>rescue her!<$FFFE>
+You dare think you'll<$FFFC>beat me? Never underrate<$FFFC>the power of Böser!<$FFFE>
+So you must be Chaos.<$FFFC>Now I will avenge her!<$FFFE>
+Human lives mean nothing<$FFFC>to me. Nothing at all!<$FFFE>
+What did you say!?<$FFFE>
+Out of my way, the lot<$FFFC>of you! I've no time!<$FFFE>
+Forgive me Tiaris…<$FFFE>
+Forgive me Liffany…<$FFFE>
+Forgive me Luna…<$FFFE>
+Forgive me Sophia…<$FFFE>
+Forgive me Freya…<$FFFE>
+I'm so sorry I couldn't<$FFFC>fight on to the end…<$FFFE>
+Forgive me, please, Sir<$FFFC><$F600><$0000>.<$FFFC>It seems this is as far<$FFFC>as I can go, after all…<$FFFE>
+I'm so sorry, my Lord<$FFFC><$F600><$0000>.<$FFFC>I've come all this way,<$FFFC>only to fall here…<$FFFE>
+D-Damn it all! If only<$FFFC>I had more power…<$FFFE>
+I am sorry I couldn't<$FFFC>be of help.<$FFFE>
+Forgive me, so close…<$FFFE>
+I have to protect it…<$FFFC>this world of men…<$FFFE>
+The demons won't take<$FFFC>this world from us…<$FFFC>Uugh…!<$FFFE>
+Chaos has barely woken,<$FFFC>yet already the waves<$FFFC>of darkness swell so…?<$FFFE>
+<$F600><$0000>…,<$FFFC>I entrust my daughter<$FFFC>to you…<$FFFE>
+<$F600><$0000>…,<$FFFC>I entrust her to you…<$FFFE>
+Guaaaaa!<$FFFC>Lady Lushiris…<$FFFE>
+Damn it all to hell…<$FFFC>I can't move anymore…<$FFFE>
+<$F600><$0000>…,<$FFFC>I entrust the princess<$FFFC>to you…<$FFFE>
+Now you listen to me,<$FFFC><$F600><$0000>.<$FFFC>Don't you dare go and<$FFFC>lose this fight, hear?<$FFFE>
+Tch! What is this…?<$FFFC>What monstrous power…<$FFFE>
+Ch… Chaos…<$FFFE>
+C-Chaos's revival…<$FFFC>must be stopped…<$FFFC>at all costs…<$FFFE>
+You must defeat Chaos…<$FFFC>I know you can do it…<$FFFE>
+You have to save her…<$FFFC>If anyone can do this,<$FFFC>it's surely going to be<$FFFC>you, <$F600><$0000>…<$FFFE>
+Sorry, no more for me…<$FFFE>
+I will never forgive you<$FFFC>above all others…<$FFFE>
+It seems that my life<$FFFC>ends here…<$FFFE>
+Now Lord Chaos reigns,<$FFFC>we fear nothing at all!<$FFFC>All that lives will bow<$FFFC>down before us demons!<$FFFE>
+We'll revive Lord Chaos<$FFFC>and we demons will make<$FFFC>this world ours!<$FFFE>
+N-no, this can't be…<$FFFC>Is it truly because my<$FFFC>Alhazard is gone now?<$FFFE>
+But now that Lord Chaos<$FFFC>has risen once again,<$FFFC>I too shall return…<$FFFE>
+Heh heh heh heh heh…<$FFFC>Forgive me, Lord Chaos.<$FFFC>This is as far as I go.<$FFFE>
+Be at ease, Böser.<$FFFE>
+Though just awoken, if<$FFFC>this age calls for me,<$FFFC>my power shall amplify<$FFFC>without any limit.<$FFFE>
+For now, you may rest<$FFFC>your mind and think of<$FFFC>nothing as you wither.<$FFFE>
+…Ah, I am so grateful…<$FFFC>this is such happiness…<$FFFE>
+So that is how it is…<$FFFC>Because of that sword,<$FFFC>even Lord Chaos has…<$FFFE>
+To think mere men could<$FFFC>forge such a sword…<$FFFD>Because of it, even<$FFFC>summoning Lord Chaos<$FFFC>comes undone…<$FFFE>
+…It's over.<$FFFE>
+The world of darkness<$FFFC>is at hand, you humans<$FFFC>will be nothing but…<$FFFD>Guargh!<$FFFE>
+Damn you all! Fight on<$FFFC>with far more spirit!<$FFFD>At this very rate, the<$FFFC>revival of Lord Chaos<$FFFC>will be thwarted!<$FFFE>
 GUGA!<$FFFE>
- GUGA!<$FFFE>
- I'll be waiting for you in hell…<$FFFE>
+GUGA!<$FFFE>
+I'll be waiting for you<$FFFC>down there in hell…<$FFFE>
 GOOON!<$FFFE>
- GOOON!<$FFFE>
-Ah, the world of demons…<$FFFE>
- ZAPP!!<$FFFE>
- Ufufufufu… I will paint your face bright red…<$FFFE>
- I see it... the demon clan's victory...<$FFFE>
- ZAPP!!<$FFFE>
-Guhaa<$064F>…<$FFFE>
-BUURR<$064F>…<$FFFE>
-SHHHHAA<$0650>…<$FFFE>
+GOOON!<$FFFE>
+Ah, the demon world…<$FFFE>
+ZAPP!!<$FFFE>
+Hee hee… let me paint<$FFFC>that pretty little face<$FFFC>a deep, bloody crimson…<$FFFE>
+I can see it clearly…<$FFFC>the demons triumph,<$FFFC>the victory is at hand…<$FFFE>
+ZAPP!!<$FFFE>
+Guhaa…<$FFFE>
+BUURRR…<$FFFE>
+SHHHHAAA!<$FFFE>
 SHAAAA!<$FFFE>
- Aahhh…!<$FFFE>
- For now I leave this pitiable world behind…<$FFFE>
- I can no longer remain in this world…<$FFFE>
- Gyaaaahh!<$FFFE>
- I am…immortal…<$FFFE>
- T-too strong…<$FFFE>
- Y-yet, darkness alone…<$FFFE>
-BURRR<$064F>…<$FFFE>
+Aahhh…!<$FFFE>
+Haah…!<$FFFE>
+I can no longer remain<$FFFC>here in this world…<$FFFE>
+Gyaaaahh!<$FFFE>
+I am…immortal…<$FFFE>
+T-too strong…<$FFFE>
+No, darkness alone…<$FFFE>
+BURRRR…<$FFFE>
 GOOON!<$FFFE>
 GUGA!<$FFFE>
 GYAAAAH!<$FFFE>
@@ -173,53 +173,53 @@ GYAAAAH!<$FFFE>
 GUGA!<$FFFE>
 GOOON!<$FFFE>
 BURRR…<$FFFE>
- …So you have the Langrisser with you. That sword is such an eyesore.<$FFFE>
- This sword will be your certain end. Prepare yourself!<$FFFE>
- My end, I see… Hahaha…<$FFFE>
-Destroy it, you say…? Heh heh heh…<$FFFE>
- What do you think chaos actually is?<$FFFE>
- I and Lushiris are the keepers of a delicate equilibrium in this world.<$FFFE>
- The forces of darkness and light raising up against each other are what keeps this world alive.<$FFFE>
- And isn't life very much depended on an endless circle of creation and destruction?<$FFFE>
- Are you saying you can destroy that very force?<$FFFE>
- Right now you wish for me to be gone. However, I am very much needed for this age to not end in stagnation.<$FFFE>
- But, that sword is a danger to this very world. If the one wielding it should desire, he could become an even greater destructive force than I am.<$FFFE>
- Absurd! There couldn't be a more destructive force than the god of destruction himself!<$FFFE>
- Chaos has two aspects to it, one is destruction but the other is renewal. In other words, the destruction brought by me brings forth new life and keeps the world progressing.<$FFFE>
- If one wields it with a corrupted heart, the power of this swords brings nothing but total annihilation. The very existence of this sword will stir up greed and lust for power in the human heart.<$FFFE>
- But that sword is different.<$FFFE>
- When the sword's power serves one's own desires,<$FFFC>it brings only destruction that leads to nothing.<$FFFC>And that sword has a charm that stirs human desire.<$FFFE>
- Hehehe.<$FFFC>I shall watch from the dark world how things unfold for you all…<$FFFE>
- Böser. The rest is in your hands.<$FFFE>
- Yes, Lord Chaos.<$FFFE>
- …What do you mean?<$FFFE>
- That Langrisser is a dangerous existence…?<$FFFE>
- Mmmm…<$FFFE>
- We did it! We win, Chaos!<$FFFE>
- …It seems the timing was too early.<$FFFE>
- It seems the age did not yet have need of me.<$FFFE>
- Yes. Order and Chaos are opposite aspects of the same thing.<$FFFE>
- And there is no live in a world where nothing is moving on and nothing new is born. Therefore to reset everything to a blank paper the destruction is needed <$FFFE>
- The force of the chaotic is needed.<$FFFE>
- Nothing can be born from an age that has stopped moving. That is why everything must be reduced to nothing, and destruction is needed to begin anew.<$FFFE>
- However, it is up to us humans to choose.<$FFFE>
- Only because the renewal of life is needed, won't just lay down and die!<$FFFE>
- We don't need a rebirth forced upon us!<$FFFE>
- The forces of chaos and order are intertwined ineradicable and work through you humans. You're own life is proof of it.<$FFFE>
- The force of chaos is within every human. That is the thing you need to understand the most…<$FFFE>
- There will be humans to seek to revive you! But no matter how many times that will happen, there will also be humans to seal you as well!<$FFFE>
- Then remember this well!<$FFFE>
- Your hope may be justified… Since this is the factor that keeps the world in a state of delicate equilibrium.<$FFFE>
- Farewell. You can rest assured that we will not meet again.<$FFFE>
- Farewell. We will never meet again in your lifetime.<$FFFE>
- But one day there will be no man or woman to hold high that noble spirit of yours and that is when I will return…<$FFFE>
- This is the Holy Sword Langrisser.<$FFFD>The King of Elthlead infused it with his own life force, thus the holy blade Langrisser was born, bearing the power to seal away the powers of you demon kind.<$FFFE>
- This sword is Langrisser.<$FFFD>It is the holy blade born when King Siegheart of Elthlead poured his very life into it to seal your demonic power.<$FFFE>
- No matter how many times you will return to haunt this world you will never win against those with Langerisser on their side!!<$FFFE>
- Langrisser… I shall remember that name. When I will awake once more, I will get a hold of that sword right away.<$FFFE>
- Once this sword is dealt with, Lord Chaos will rule supreme… What a joyous occasion it will be.<$FFFE>
- …Hahahahaha!<$FFFE>
- Khh… We have to hurry…<$FFFE>
- Just how far has the ritual progressed!?<$FFFE>
- Mm. I leave it to you.<$FFFE>
- Understood.<$FFFD>Lord Böser, please focus on the ritual without worry.<$FFFE>
+This world drifts ever<$FFFC>toward stagnation. The<$FFFC>power of chaos is what<$FFFC>this world now needs.<$FFFE>
+…Langrisser, was it.<$FFFC>That sword of yours is<$FFFC>an eyesore to me, truly.<$FFFE>
+This sword of mine shall<$FFFC>be your undoing, Chaos.<$FFFC>So ready yourself now!<$FFFE>
+Destroy it, you say…?<$FFFC>Heh heh heh…<$FFFE>
+What's so funny?!<$FFFE>
+What do you take this<$FFFC>Chaos to be?<$FFFE>
+Lushiris and I are only<$FFFC>forces that hold this<$FFFC>world in its balance.<$FFFE>
+We come and we depart,<$FFFC>whether you would wish<$FFFC>it of us or not.<$FFFE>
+Are you saying you can<$FFFC>destroy that force?<$FFFE>
+What was that you said?<$FFFC>Who… what are you…?<$FFFE>
+For now I shall take my<$FFFC>leave. It seems this age<$FFFC>has no need of me yet.<$FFFE>
+But that sword is grave<$FFFC>peril. Wield its power<$FFFC>for selfish ends, and<$FFFC>chaos beyond us stirs.<$FFFE>
+Absurd! What disorder<$FFFC>could ever rise up to<$FFFC>surpass you, the very<$FFFC>god of chaos himself?!<$FFFE>
+Chaos means two things,<$FFFC>destruction and rebirth.<$FFFC>After ruin comes a new<$FFFC>beginning, freshly made.<$FFFE>
+But that sword of yours<$FFFC>is a different matter.<$FFFE>
+Turn its power toward<$FFFC>your own ends, and it<$FFFC>brings only ruin. That<$FFFC>blade stirs men's greed.<$FFFE>
+Heh heh heh… From the<$FFFC>world of darkness, I'll<$FFFC>watch how things unfold<$FFFC>for you all from now…<$FFFE>
+Böser, my faithful one.<$FFFC>The rest is yours now.<$FFFE>
+Yes, Lord Chaos.<$FFFE>
+…What do you mean?<$FFFE>
+You say Langrisser is<$FFFC>a dangerous thing…?<$FFFE>
+Mmmm…<$FFFE>
+We've done it at last!<$FFFC>Victory is ours, Chaos!<$FFFE>
+…It seems that I have<$FFFC>come far too early.<$FFFE>
+It seems this age had<$FFFC>no need of me just yet.<$FFFE>
+What was that you said?<$FFFC>The age has need of you?<$FFFE>
+Just so. Order and ruin<$FFFC>stand forever as a pair.<$FFFE>
+Believe in the Law of<$FFFC>light if you must. It<$FFFC>pulls all toward stasis<$FFFC>and the age will wither.<$FFFE>
+Nothing comes from an<$FFFC>age that has stopped.<$FFFC>So all must be undone,<$FFFC>remade through ruin.<$FFFE>
+That power is Chaos.<$FFFE>
+But that choice should<$FFFC>fall to us humans alone.<$FFFE>
+We don't need rebirth<$FFFC>forced upon us!<$FFFE>
+Indeed, that is so. But<$FFFC>remember this one thing.<$FFFE>
+Chaos lies far nearer<$FFFC>to man than the Law.<$FFFC>While you live, it can<$FFFC>never perish.<$FFFE>
+Chaos lies within you<$FFFC>in each and every one.<$FFFC>None knows that better<$FFFC>than you yourself…<$FFFE>
+So you'd better remember<$FFFC>this one thing as well!<$FFFE>
+Humanity will never once<$FFFC>bow before your power!<$FFFC>No matter how often you<$FFFC>rise, we will seal you!<$FFFE>
+I pray that it is so…<$FFFC>For even I am only one<$FFFC>force that keeps this<$FFFC>world in its balance.<$FFFE>
+And so, farewell to you.<$FFFC>We'll never meet again<$FFFC>while you still live.<$FFFE>
+But when the day comes<$FFFC>that the world forgets<$FFFC>your resolve, I return…<$FFFE>
+…Wh-why is this…?<$FFFC>The pulse of that blade<$FFFC>drains away my power…<$FFFD>What… is that sword…?<$FFFE>
+This sword before you<$FFFC>is Langrisser itself.<$FFFD>The holy sword that King<$FFFC>Sieghart forged with his<$FFFC>very life, to seal away<$FFFC>your dark power forever.<$FFFE>
+No matter how many times<$FFFC>you rise up once again,<$FFFC>so long as Langrisser<$FFFC>stands, you cannot win!!<$FFFE>
+Langrisser… I'll never<$FFFC>forget that name. When<$FFFC>next I wake, I'll seize<$FFFC>that sword first of all.<$FFFE>
+If that sword were gone,<$FFFC>the power of Lord Chaos<$FFFC>would swell beyond all<$FFFC>limit… I'll await it.<$FFFE>
+…Hahahahaha!<$FFFE>
+Khh… we must hurry…<$FFFC>We have to hurry now…<$FFFE>
+Just how far along has<$FFFC>the ritual progressed!?<$FFFE>
+Mm. I leave it to you.<$FFFE>
+Understood, my Lord.<$FFFD>Rest easy, Lord Böser,<$FFFC>and give yourself fully<$FFFC>to the ritual ahead.<$FFFE><$FFFF>

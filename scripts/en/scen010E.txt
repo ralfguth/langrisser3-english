@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -23,137 +23,137 @@ Rigüler Commander<$FFFF>
 •Defeat all enemies<$FFFE>
 •Death of <$F600><$0000><$FFFE>
 Forest of the Shika Tribe<$FFFF>
- From here on out move forward with great care. We are now entering the Shika Tribe's territory.<$FFFE>
- Hmm? I saw something moving right over there!<$FFFE>
- Shikaaa!<$FFFE>
- Iaaaaa!<$FFFE>
- I am worried about Sophia's well being. We should finish this battle quickly.<$FFFE>
-I've got to say, fighting without any kind of magic is quite the pain in the pants…<$FFFE>
- Hmph, it seems like you are having a hard time.<$FFFE>
- You're, Emerick?<$FFFE>
- So that fog is suppressing the use of magic. Well that's certainly unfavorable for the both of us.<$FFFE>
- First of all I will strike down that shaman.<$FFFE>
- This is our hunting ground. Entering we don't permit!<$FFFE>
- Shikashika! Kill them!<$FFFE>
-Lord <$F600><$0000>. As expected we must force our way through once again.<$FFFE>
- It seems to be so.<$FFFE>
- With fog, Kah Shind becomes invincible! I not be defeated, by anyone!<$FFFE>
- If that's the case you surely won't mind me trying!<$FFFE>
- Everyone, keep your guard up. We are dealing with a crafty magic user of the Shika tribe.<$FFFE>
- A Shaman borrows powers of the spirits to cast magic. It is a fundamentally different form of magic than the one I use.<$FFFE>
- In other words those guys will be able to cast magic even in this mist?<$FFFE>
- Most certainly, after all the mist is a product of the spirits itself.<$FFFE>
- Shoot! That's so unfair!<$FFFE>
- Go! Go! Push down enemy!<$FFFE>
- Shikaaa!<$FFFE>
- God of Shika. Grant us power to fight, Arekashi!<$FFFE>
- Me Kah Shind greatest Shaman! I defeat all enemies alone!<$FFFE>
- You come across a stone circle dedicated to the Shika deity.<$FFFD>In the center the land bears a strange mark.<$FFFE>
- Do you want to excavate at this spot?<$FFFE>
- You discovered a black and a white box.<$FFFE>
- What do you do?<$FFFE>
+Do be careful. This is<$FFFC>Shika territory.<$FFFE>
+Hm? Something just moved<$FFFC>over there!<$FFFE>
+Shikaaa!<$FFFE>
+Iaaaaa!<$FFFE>
+I'm worried about<$FFFC>Sophia. Let us push<$FFFC>through quickly.<$FFFE>
+No magic in a crisis.<$FFFC>That hurts.<$FFFE>
+Hmph. You seem to be<$FFFC>struggling out there.<$FFFE>
+You're… Emerick?<$FFFE>
+This fog must be sealing<$FFFC>the magic. It makes the<$FFFC>fight hard on us both.<$FFFE>
+First, let's bring down<$FFFC>that shaman.<$FFFE>
+This our hunting ground!<$FFFC>No one may enter here!<$FFFE>
+Shikashika! Kill them!<$FFFE>
+Lord <$F600><$0000>.<$FFFC>It seems we must force<$FFFC>our way through.<$FFFE>
+So it seems.<$FFFE>
+With this fog, Kah Shind<$FFFC>is invincible!<$FFFC>No one beats me!<$FFFE>
+Then I'll test that!<$FFFE>
+Everyone, be careful.<$FFFC>The Shika are shamans.<$FFFE>
+Shamans are those who<$FFFC>cast magic with the<$FFFC>spirits' aid. It differs<$FFFC>from ours at the root.<$FFFE>
+So they can cast magic<$FFFC>even in this fog?<$FFFE>
+You see, this fog itself<$FFFC>was conjured by the<$FFFC>spirits.<$FFFE>
+Shoot! That's so unfair!<$FFFE>
+Go! Go! Push down enemy!<$FFFE>
+Shikaaa!<$FFFE>
+O god of Shika! Grant us<$FFFC>the strength to fight,<$FFFC>we beseech you!<$FFFE>
+Kah Shind smart! Even<$FFFC>alone, Kah Shind beat<$FFFC>you!<$FFFE>
+You find a stone circle<$FFFC>where the Shika worship<$FFFC>some unknown god.<$FFFD>The center has a mark<$FFFC>where something was put.<$FFFE>
+Dig here?<$FFFE>
+You found a white box<$FFFC>and a black box.<$FFFE>
+What do you do?<$FFFE>
 Open the white box<$FFFE>
 Open the black box<$FFFE>
-Open both simultaneously<$FFFE>
-Amulet was obtained <$FFFE>
- When the white box was opened, the black box was shut tight…<$FFFE>
- Vestments of Darkness were obtained!<$FFFE>
- When the black box was opened, the white box was shut tight…<$FFFE>
- None of the boxes could be opened no matter how hard you try…<$FFFE>
- After a short while the boxes disappear without a trace…<$FFFE>
- Impossible!? I shouldn't be defeated in a place like this…<$FFFE>
- Now, make the fog disappear!<$FFFE>
- Super shock!<$FFFE>
- Dammit!<$FFFE>
- My swordplay must have set on rust…<$FFFE>
- UUwaaa! It hurts…!<$FFFE>
- Oh my? My vision is growing dark…<$FFFE>
- Forgive me…<$FFFE>
- Shi, Shikaaa!<$FFFE>
- The fog has cleared up. Now we can do battle unhindered! Let the duel of honor commence, <$F600><$0000>!<$FFFE>
- It would be my pleasure!<$FFFE>
- The fog has cleared up.<$FFFD>After those pests are dealt with, we shall conclude our duel of honor, <$F600><$0000>!<$FFFE>
- Sure thing!<$FFFE>
- Feel god's anger!<$FFFE>
- Shikaaa!<$FFFE>
- Shikaa…!<$FFFE>
- Shi-shikaa!<$FFFE>
- Shi…<$FFFE>
- Shika…<$FFFE>
- Shikashika!<$FFFE>
- Shika!<$FFFE>
- Shikashika!<$FFFE>
- Shikaaa! You enemy! Kah Shind is greatest tactician! Not be defeated no matter what!<$FFFE>
- Calling yourself a tactician for merely sealing our magic is laughable.<$FFFD>A true tactician foresees everything and prepares for it. You couldn't even predict my arrival!<$FFFE>
- Shshishikaaa!<$FFFE>
- You think you have what it takes to be an opponent worthy of my blade?<$FFFE>
- We will not know that if we don't try!<$FFFE>
- In that case come at me with everything you got!<$FFFE>
- I commend you for getting this far even though you are a woman. But we too have our orders. I will show no mercy!<$FFFE>
- I am not about to lose to the likes of you!<$FFFE>
- I commend you for getting this far even though you are a woman. But we too have our orders. I will show no mercy!<$FFFE>
- On the battlefield it is irrelevant whether you are man or woman!<$FFFE>
- I commend you for getting this far even though you are a woman. But we too have our orders. I will show no mercy!<$FFFE>
- Have it your way! But I warn you not to go easy on me!<$FFFE>
- I wonder how much strength the Remnants of Larcuss can muster. Let me show to you just how much!<$FFFE>
- You did quite well! But this is not the kind of injury that will make me run from an unfinished battle!<$FFFE>
- We will carry on the fight from here on out. Please step back General!<$FFFE>
- But…<$FFFE>
- Fighting on would be unreasonable and you may even lose your life. Please withdraw for now!<$FFFE>
- Forgive me, everyone…<$FFFE>
- You did quite well… I wouldn't have believed it possible to be utterly defeated like this.<$FFFD>The next time we meet I will use all my power to strike you down. Farewell!<$FFFE>
- Is this the end…?<$FFFE>
- Take this!<$FFFE>
- Uuu…!<$FFFE>
- Wh…Whaaat!?<$FFFE>
- No, my spear…<$FFFE>
- I have been bested…<$FFFE>
- Guugugu… N-not yet… I'll not fall…<$FFFE>
- Take this!<$FFFE>
- I…I don't want to die…<$FFFE>
- Gaargh!<$FFFE>
- M-my strength is failing me…<$FFFE>
- How dare you…<$FFFE>
- Now that all those nuisances have been dealt with, we can do battle unhindered! Let the duel of honor divulge who is the greater man, <$F600><$0000>!<$FFFE>
- It would be my pleasure!<$FFFE>
- So this is where you are, <$F600><$0000>. I've been searching you!<$FFFE>
- Emerick!<$FFFE>
- May the duel of honor commence, <$F600><$0000>!<$FFFE>
- It's over at last!<$FFFE>
- Splendid commanding, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>… A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
- Unexpectedly we lost some time. That general Emerick is only one of the four imperial generals. And yet he alone is an opponent not to be taken lightly…<$FFFE>
- To think that there are three others of the like. I wonder if we would be able to win if we have to face them one day.<$FFFE>
- What do you reply?<$FFFE>
- I guess we could?<$FFFE>
-But we cannot lose<$FFFE>
+Open both at once<$FFFE>
+Acquired the Amulet!<$FFFE>
+Opening the white box<$FFFC>sealed the black one…<$FFFE>
+Acquired the Dark<$FFFC>Vestments!<$FFFE>
+Opening the black box<$FFFC>sealed the white one…<$FFFE>
+The box was shut tight.<$FFFC>It would not open…<$FFFE>
+Soon, the buried mark<$FFFC>will fade away…<$FFFE>
+Impossible!? I was never<$FFFC>meant to fall in a place<$FFFC>like this…<$FFFE>
+Now, clear the fog!<$FFFE>
+Super shock!<$FFFE>
+Dammit!<$FFFE>
+My sword arm has rusted<$FFFC>completely…<$FFFE>
+UUwaaa! It hurts…!<$FFFE>
+Oh my? Slowly,<$FFFC>everything before my<$FFFC>eyes is going dark…<$FFFE>
+Forgive me…<$FFFE>
+Shi, Shikaaa!<$FFFE>
+Fog's cleared! Now we<$FFFC>fight at full force!<$FFFC>Face me,<$FFFC><$F600><$0000>!<$FFFE>
+It would be my pleasure!<$FFFE>
+The fog has cleared.<$FFFD>Once the pests are gone,<$FFFC>our duel is next,<$FFFC><$F600><$0000>!<$FFFE>
+Sure thing!<$FFFE>
+Feel god's anger!<$FFFE>
+Shikaaa!<$FFFE>
+Shikaa…!<$FFFE>
+Shi-shikaa!<$FFFE>
+Shi…<$FFFE>
+Shika…<$FFFE>
+Shikashika!<$FFFE>
+Shika!<$FFFE>
+Shikashika!<$FFFE>
+Shikaa! You<$FFFC>enemies too! Kah Shind,<$FFFC>tactician! Kah Shind not<$FFFC>lose!<$FFFE>
+Sealing a little magic<$FFFC>and calling yourself a<$FFFC>strategist? Laughable.<$FFFD>A true<$FFFC>strategist foresees all<$FFFC>and prepares. You never<$FFFC>foresaw my coming!<$FFFE>
+Shshishikaaa!<$FFFE>
+However able you may be,<$FFFC>do you truly think you<$FFFC>can beat me?<$FFFE>
+We will never know<$FFFC>unless we try!<$FFFE>
+Then come at me!<$FFFE>
+For a woman, you've done<$FFFC>well to come this far.<$FFFC>But we have our reasons.<$FFFC>I will show no mercy!<$FFFE>
+I won't lose to you!<$FFFE>
+For a woman, you've done<$FFFC>well to come this far.<$FFFC>But we have our reasons.<$FFFC>I will show no mercy!<$FFFE>
+I'll show<$FFFC>you that man or woman<$FFFC>makes no difference on<$FFFC>the battlefield!<$FFFE>
+For a woman, you've done<$FFFC>well to come this far.<$FFFC>But we have our reasons.<$FFFC>I will show no mercy!<$FFFE>
+Likewise! I will hold<$FFFC>nothing back!<$FFFE>
+Show me how much power<$FFFC>the remnants of Larcuss<$FFFC>can muster!<$FFFE>
+Not bad at all! But a<$FFFC>wound like this won't<$FFFC>make me withdraw!<$FFFE>
+We will take it from<$FFFC>here. General, please<$FFFC>fall back!<$FFFE>
+But…<$FFFE>
+Push yourself further<$FFFC>and you may die.<$FFFC>Please withdraw!<$FFFE>
+Forgive me, everyone…<$FFFE>
+Not bad… I<$FFFC>never dreamed I'd be so<$FFFC>utterly beaten.<$FFFD>Next we meet, I'll<$FFFC>strike you down at full<$FFFC>strength. Farewell!<$FFFE>
+Is this the end…?<$FFFE>
+Take this!<$FFFE>
+Uuu…!<$FFFE>
+Wh…Whaaat!?<$FFFE>
+No, my spear…<$FFFE>
+I've lost…<$FFFE>
+Guugugu… N-not yet…<$FFFC>I will not<$FFFC>fall…<$FFFE>
+Take this!<$FFFE>
+I don't want to die…<$FFFE>
+Gaargh!<$FFFE>
+M-my strength… it's<$FFFC>draining away…<$FFFE>
+How dare you…<$FFFE>
+The nuisances are gone!<$FFFC>Now we fight at full<$FFFC>force! Face me,<$FFFC><$F600><$0000>!<$FFFE>
+It would be my pleasure!<$FFFE>
+You were here after all,<$FFFC><$F600><$0000>.<$FFFC>Found you at last!<$FFFE>
+Emerick!<$FFFE>
+Face me,<$FFFC><$F600><$0000>!<$FFFE>
+It's over at last!<$FFFE>
+Masterful command, Lord<$FFFC><$F600><$0000>.<$FFFE>
+Lord <$F600><$0000>…<$FFFC>A battle must not last<$FFFC>too long.<$FFFD>It will affect our next<$FFFC>move…<$FFFE>
+That took longer than<$FFFC>expected. Emerick, one<$FFFC>of the Four Generals. A<$FFFC>fearsome foe…<$FFFE>
+So there are three more<$FFFC>generals like him? They<$FFFC>must all be powerful…<$FFFE>
+What will you say?<$FFFE>
+Can we even win?<$FFFE>
+But we can't lose.<$FFFE>
 We'll win!<$FFFE>
- I am not sure. I guess we could win?<$FFFE>
- So you are worried too then.<$FFFE>
- Yeah. But we cannot lose!<$FFFE>
- Well, isn't that right.<$FFFE>
- We will be fine, it'll be an easy victory against them!<$FFFE>
- Oh, <$F600><$0000>, really now!<$FFFE>
- We have to hurry. Sophia's life is still in danger.<$FFFE>
- Alright, Let's be on our way to the Shika Tribe headquarters!<$FFFE>
- ShikaShika… Great mother of many souls, hear your son praying.<$FFFD>Come forth fog, seal harmful power of evil people. Shikashika Areyashina Shi Desutsu!<$FFFE>
- !? What's with that fog, coming up all of a sudden!?<$FFFE>
- Oh my? Something odd is happening, Sir <$F600><$0000>.<$FFFE>
- What's the matter, Liffany?<$FFFE>
- For some reason I can no longer use my magic.<$FFFE>
- It's quite peculiar. Before we came here I am sure it worked just fine.<$FFFE>
- Same here. It's like all my magical energy was drained when this fog came up.<$FFFE>
- AAaa!<$FFFE>
- What is the matter Tiaris?<$FFFE>
- It's awful,<$F600><$0000>! I can no longer use my magic!<$FFFE>
- This fog being the holy fog. Evil Power is sealed! Shikaa!<$FFFE>
- The fog has cleared up.<$FFFD>Now, strike down all remaining enemies! Everyone, press onward!<$FFFE>
- What!? How could that be happening just out of the blue?<$FFFE>
- Maybe this fog…? Luna, any ideas…?<$FFFE>
- It is quite possible that this fog is not a natural phenomenon but was summoned to seal magical powers…<$FFFE>
- So this fog has influence on the use of magic?<$FFFE>
- …That's troublesome, our strategy relies to a fair extend on the use of magic.<$FFFE>
- Shikaaa!<$FFFE>
- What? They have prepared an ambush for us!?<$FFFE>
- Foolish you are! Me is Kah Shind Greatest Shaman!<$FFFD>Go! Everyone, you kill!<$FFFE>
- Shikaaaa!<$FFFE>
+Yeah. Do you think we<$FFFC>can really win this?<$FFFE>
+If even you waver, it<$FFFC>troubles me greatly.<$FFFE>
+Yeah. But we can't<$FFFC>afford to lose!<$FFFE>
+Yes, you're right.<$FFFE>
+Don't worry, it'll be an<$FFFC>easy win!<$FFFE>
+Oh, <$F600><$0000>,<$FFFC>really now!<$FFFE>
+Let's hurry. Lady<$FFFC>Sophia's very life is at<$FFFC>stake.<$FFFE>
+All right. On to the<$FFFC>Shika tribe's base!<$FFFE>
+Shika shika… O<$FFFC>child of our mother the<$FFFC>Shika god, you countless<$FFFC>spirits, hear me.<$FFFD>Call forth the fog and<$FFFC>seal the power of those<$FFFC>who would harm me. Shika<$FFFC>shika, Areyashina!<$FFFE>
+Huh?! What is this<$FFFC>fog?<$FFFE>
+Oh my?<$FFFC>This is simply dreadful,<$FFFC>Lord <$F600><$0000>.<$FFFE>
+What's wrong, Liffany?<$FFFE>
+It seems I can no longer<$FFFC>use my magic at all.<$FFFE>
+How strange. It was<$FFFC>working fine until we<$FFFC>came here.<$FFFE>
+You're right. Ever since<$FFFC>the fog touched us, my<$FFFC>power has been fading.<$FFFE>
+Aaah!<$FFFE>
+What's wrong, Tiaris?<$FFFE>
+This is awful,<$FFFC><$F600><$0000>!<$FFFC>I can't use my magic<$FFFC>anymore!<$FFFE>
+This fog, sacred fog!<$FFFC>Your demon power, no use<$FFFC>to you here!<$FFFC>Shikaa!<$FFFE>
+It looks as though the<$FFFC>fog has cleared.<$FFFD>Now all that's left is<$FFFC>to wipe out the enemy!<$FFFC>Everyone, move out!<$FFFE>
+What!? Just what is that<$FFFC>supposed to mean?<$FFFE>
+This fog… Luna, could<$FFFC>it be…?<$FFFE>
+This fog may have the<$FFFC>power to nullify magic<$FFFC>itself.<$FFFE>
+Is this fog affecting<$FFFC>our magic?<$FFFE>
+…Which means we must<$FFFC>devise a strategy that<$FFFC>won't rely on magic.<$FFFE>
+Shikaaa!<$FFFE>
+What is this? An<$FFFC>ambush!?<$FFFE>
+You fools! Kah Shind<$FFFC>smart!<$FFFD>Go! Kill them, all of<$FFFC>them!<$FFFE>
+Shikaaaa!<$FFFE>

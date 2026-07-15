@@ -4,7 +4,7 @@ Equip Spear<$FFFF>
 Equip Metal Armor<$FFFF>
 Equip Shield<$FFFF>
 Equip Mage Gear<$FFFF>
-Shinobu Art<$FFFF>
+Shinobi Art<$FFFF>
 Critical<$FFFF>
 Regenerate<$FFFF>
 Emergency Treatment<$FFFF>

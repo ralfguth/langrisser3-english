@@ -5,27 +5,27 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-Imperial First Prince Paul<$FFFF>
+First Prince Paul<$FFFF>
 Advisor<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-24<$FFFC><$0000><$0000><$0000>The Field Marshal's<$0000><$0000><$0000><$FFFC><$0000><$0000><$0000><$0000> Determination <$0000><$0000><$0000><$0000><$FFFE>
- Velzeria, the land of monsters, had begun its full invasion. The separate force that saved the border village was immediately ordered back to the royal capital, which was under attack by the Imperial Army, with no time to rest.<$FFFE>
- In this three-way battle against both the Imperial Army and Velzeria's forces, who will seize victory…?<$FFFE>
- *Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Death of Sieghart<$FFFE>
-Rigüler Imperial Castle - Paul's Personal Room<$FFFF>
- So, now that my father's died, it's my turn to take the throne.<$FFFE>
- But, Altemüller seems more popular within the court here.<$FFFE>
-How shall we deal with those fools expected to oppose us?<$FFFE>
- Let's just give Altemüller no margin for error if he blunders again.<$FFFE>
- Or…shall we just have him killed instead?<$FFFE>
- I have no shortage of schemes ready. So no need to rush. Hahahaha!<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２４<$FFFC><$0000><$0000><$0000>The Field Marshal's<$0000><$0000><$0000><$FFFC><$0000><$0000><$0000><$0000> Determination <$0000><$0000><$0000><$0000><$FFFE>
+Velzeria, the monster land,<$FFFC>has launched its full invasion.<$FFFC>The unit that saved the border<$FFFC>village is recalled to the<$FFFC>besieged royal capital.<$FFFE>
+In this three-way battle<$FFFC>against both the Imperial Army<$FFFC>and Velzeria's forces, who will<$FFFC>seize victory…?<$FFFE>
+*Victory Conditions<$FFFC>  •Defeat all enemies<$FFFC>*Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Death of Sieghart<$FFFE>
+Rigüler Castle, Paul's Room<$FFFF>
+So, now that my father's<$FFFC>died, it's my turn to<$FFFC>take the throne.<$FFFE>
+But, Altemüller seems<$FFFC>more popular within the<$FFFC>court here.<$FFFE>
+How should we deal with<$FFFC>those troublesome fools<$FFFC>bound to oppose us?<$FFFE>
+Shall we see to it that<$FFFC>Altemüller commits a<$FFFC>blunder he can't<$FFFC>explain away?<$FFFE>
+Or…shall we just have<$FFFC>him killed instead?<$FFFE>
+I have no shortage<$FFFC>of schemes ready. So no<$FFFC>need to rush. Hahahaha!<$FFFE>

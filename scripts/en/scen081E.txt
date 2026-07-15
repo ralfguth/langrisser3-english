@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,46 +18,46 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Viscount Raymond<$FFFF>
 General Geier<$FFFF>
-Imperial First Prince Paul<$FFFF>
+First Prince Paul<$FFFF>
 Captured Airship<$FFFF>
- Father!<$FFFE>
- …Lewin. You've become quite a wondrous young man.<$FFFE>
- So I've been saved by my own son, eh.<$FFFE>
- It wasn't me alone. We only succeeded because of everyone's aid…<$FFFE>
- I suppose so.<$FFFE>
- …<$F600><$0000>. It looks like you're doing well.<$FFFE>
- My own troops were pretty much annihilated. I feel guilty, but I would like to entrust the liberation of the royal capital to you all.<$FFFE>
- Yes, sir. I've been joined by many inspirational comrades.<$FFFE>
- We will do whatever we can to pull through and finish this, now that it's down to us.<$FFFE>
- I am so glad. I will trust you to look after Lewin from here on.<$FFFE>
- Milord Viscount, you're pushing your body too much. Please leave the rest to us, and rest up.<$FFFE>
- Of course, thanks.<$FFFE>
- Everyone, thank you so much.<$FFFD>Liffany, <$F600><$0000>. Now, it's our turn to save your parents.<$FFFE>
- Oh, you're right.<$FFFD>I sure hope my father and mother are safe and sound.<$FFFE>
- Me, too. Let's head to Larcussia right away!<$FFFD>…Father, Mother, please hold on a little longer. We're coming to save you now!<$FFFE>
-Rigüler Imperial Castle - Kaiser Kleist's Sickroom<$FFFF>
- So, after this I will just be heading home with the aerial fortress, eh.<$FFFE>
- Oho, Your Highness Paul.<$FFFE>
- So proper to use such a distant greeting, General Geier. I've something I would like to ask you.<$FFFE>
- Well, what matter might that be?<$FFFE>
- Hmm. From what I've heard, you don't seem to hold Altemüller in the highest regard.<$FFFE>
- No, I, ah…<$FFFE>
- There's no need to hide your feelings on this. The fact of the matter is, I hate that bastard as well.<$FFFE>
- And my father won't last much longer with his illness.<$FFFE>
- When he succumbs, I will become Kaiser… When that time comes, I think the one who should hold the office of Field Marshal is you, Geier.<$FFFE>
- Me!?<$FFFE>
- But, to do that, we must come across some excuse to remove Altemüller from his post.<$FFFE>
- If he should make some mistake in his current defense of the Royal capital, it would undermine his credibility.<$FFFE>
- So, what do you think? Is there any reason you can come up with for discontinuing the use of the aerial fortress?<$FFFE>
- So you're saying that you would prefer for me not to return with the aerial fortress?<$FFFE>
- Exactly. With the might of the aerial fortress, we can retake the royal capital at any time.<$FFFE>
- You can then reclaim the city of Larcussia after that bastard loses it, using the aerial fortress.<$FFFE>
- He will be dismissed, and you will be promoted. Like that strategy?<$FFFE>
- …I think Your Highness might be underestimating his power. Even without the fortress, he will probably still hold the royal capital.<$FFFE>
- What! If that's true, what would you recommend…<$FFFE>
- …Well, if his supply line were severed, he won't be able to sustain his side of the battle no matter how great a commander he is…<$FFFE>
- In that case, halt his supply line!<$FFFE>
- But, I have no excuse to stop it.<$FFFE>
- …Nonetheless, if the supply line defenders were annihilated by troops disguised as bandits, wouldn't that work to stop the supply line?<$FFFE>
- Ohh! Ohh!!<$FFFE>
- In that case, leave the matter of the aerial fortress to me! If it is damaged enough, it won't be able to take flight.<$FFFE>
+Father!<$FFFE>
+…Lewin. You've really<$FFFC>grown into a fine young<$FFFC>man.<$FFFE>
+So I've been saved by<$FFFC>my own son, eh.<$FFFE>
+It wasn't me alone. We<$FFFC>only succeeded because<$FFFC>of everyone's aid…<$FFFE>
+I suppose so.<$FFFE>
+…<$F600><$0000>. It<$FFFC>looks like you're doing<$FFFC>well.<$FFFE>
+My troops were nearly<$FFFC>wiped out. Forgive me,<$FFFC>but retaking the capital<$FFFC>is now up to you.<$FFFE>
+Yes. We have gained many<$FFFC>steadfast comrades to<$FFFC>stand at our side now.<$FFFE>
+We will do whatever we<$FFFC>can to pull through and<$FFFC>finish this, now that<$FFFC>it's down to us.<$FFFE>
+Well, that's reassuring.<$FFFC>I leave Lewin in your<$FFFC>care from here on out.<$FFFE>
+My lord Viscount, you'll<$FFFC>wear yourself down like<$FFFC>this. Leave the rest to<$FFFC>us, and get some rest.<$FFFE>
+Of course, thanks.<$FFFE>
+Everyone, you have my<$FFFC>deepest thanks.<$FFFD>Liffany, and you too,<$FFFC><$F600><$0000>.<$FFFC>Now it falls to us to<$FFFC>save both your parents.<$FFFE>
+Oh, you're right.<$FFFD>I really hope my father<$FFFC>and mother are safe and<$FFFC>sound.<$FFFE>
+Me, too. Let's head to<$FFFC>Larcussia right away!<$FFFD>…Father, Mother, please<$FFFC>hold on a little longer.<$FFFC>We're coming to save you<$FFFC>now!<$FFFE>
+Rigüler Castle Sickroom<$FFFF>
+Well, all that remains<$FFFC>is to collect the Sky<$FFFC>Fortress and make our<$FFFC>way back home.<$FFFE>
+Oho, Your Highness Paul.<$FFFE>
+Skip the formalities,<$FFFC>General Geier. There's<$FFFC>something else I want<$FFFC>to ask you.<$FFFE>
+And what matter might<$FFFC>that be, Your Highness?<$FFFE>
+Now then. From what I<$FFFC>hear, you are none too<$FFFC>fond of Altemüller, are<$FFFC>you, General?<$FFFE>
+No, I, ah…<$FFFE>
+You need not hide it.<$FFFC>Truth be told, I despise<$FFFC>the man myself as well.<$FFFE>
+My father, too, is ill,<$FFFC>and doesn't have much<$FFFC>longer to live.<$FFFE>
+Before too long I'll be<$FFFC>Kaiser… and when I am,<$FFFC>the Marshal's seat is<$FFFC>meant for you, Geier.<$FFFE>
+Me!?<$FFFE>
+But for that I'll<$FFFC>need some pretext to<$FFFC>drag Altemüller from<$FFFC>the Marshal's seat.<$FFFE>
+If this defense of the<$FFFC>capital ends in defeat,<$FFFC>his standing will fall<$FFFC>to the ground.<$FFFE>
+So here is my thought.<$FFFC>What if we found cause<$FFFC>to keep the Sky Fortress<$FFFC>from setting out at all?<$FFFE>
+So you're saying that<$FFFC>you would prefer for me<$FFFC>not to return with the<$FFFC>Sky Fortress?<$FFFE>
+Indeed. The Sky Fortress<$FFFC>is ours. We can retake<$FFFC>the royal seat at will.<$FFFE>
+You'll retake Larcussia,<$FFFC>the capital he let fall,<$FFFC>with the fortress under<$FFFC>your command.<$FFFE>
+Your standing rises, and<$FFFC>he is cast from office.<$FFFC>A fine little scheme,<$FFFC>wouldn't you agree?<$FFFE>
+…Your Highness<$FFFC>underrates his strength.<$FFFC>Even without it, he<$FFFC>would hold the capital.<$FFFE>
+What?! Then what should<$FFFC>we do…<$FFFE>
+…But if his supply<$FFFC>lines were cut, even the<$FFFC>finest commander could<$FFFC>fight no longer…<$FFFE>
+In that case, halt his<$FFFC>supply line!<$FFFE>
+But, I have no excuse<$FFFC>to stop it.<$FFFE>
+…Better yet, shall we<$FFFC>pose as bandits, crush<$FFFC>the supply corps, and<$FFFC>cut his supply line?<$FFFE>
+Ohh! Ohh!!<$FFFE>
+Then leave the Sky<$FFFC>Fortress to me! I'll<$FFFC>cripple it just enough<$FFFC>to keep it from flight.<$FFFE>

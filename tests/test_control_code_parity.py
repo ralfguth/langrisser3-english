@@ -48,32 +48,18 @@ SCRIPTS_DIR = PROJ / 'scripts' / 'en'
 CTRL_RE = re.compile(r'<\$([0-9A-Fa-f]{4})>')
 
 # scen_num -> max number of entries allowed to have mismatched control sequences.
-# Frozen at the audit snapshot of 2026-04-27. Lower the count when retranslating.
-CTRL_PARITY_XFAIL: dict[int, int] = {
-    # Frozen baseline at 2026-05-15 (revised). Rule: F7xx/FFFB/FFFD
-    # inline codes AND per-index FFFE/FFFF terminator type must match
-    # JP. Excluded: F600 (player-name token — inclusion depends on EN
-    # adaptation per project policy), FFFC (wrap is language-dependent).
-    # Voice-only JP entries (no inline terminator) are exempt from
-    # the terminator check. Lower the count whenever a section is
-    # retranslated.
-    4: 1, 6: 1, 8: 1, 13: 1, 14: 1,
-    20: 1, 21: 1, 22: 1, 25: 1, 26: 1, 27: 1, 28: 1, 29: 1,
-    30: 1, 31: 1, 33: 1, 36: 1, 37: 1, 39: 1,
-    # CN-pattern cutscene subtitle fills — JP placeholders intentionally
-    # filled with English narration during v0.6 cutscene-subtitle work.
-    # scen123 entry 32 carries an FFFD added by the user to clear the
-    # balloon between subtitle frames; entry 36 uses FFFD for a dying
-    # cough beat where JP uses FFFC; entries 30/31 carry FFFB/FFFD/0000
-    # control sequences added 2026-05-25 to sync the Altemüller/Larcussia
-    # narration timing with the JP voice track.
-    123: 4,
-    41: 1, 45: 1, 48: 1, 50: 1, 51: 1, 52: 1, 56: 1, 57: 1, 58: 1,
-    59: 1, 61: 1, 62: 1, 67: 1, 68: 1, 70: 1, 72: 1, 73: 1, 74: 1,
-    75: 1, 76: 1, 80: 1, 86: 1, 87: 1, 89: 1, 91: 1, 92: 1, 97: 1,
-    98: 1, 100: 1, 101: 1, 103: 1, 104: 1, 106: 1, 107: 1, 109: 1, 110: 1,
-    116: 1, 117: 1, 120: 1, 121: 1, 125: 1,
-}
+# EMPTY since 2026-06-14: the 61 frozen entries were all the trailing-FFFF that
+# the EN dropped from the last entry of each section. They were RESTORED (the EN
+# last entry now ends <$FFFE><$FFFF> matching JP, in exactly the 61 sections
+# where JP has it), so the whitelist is no longer needed. Rule now: ALL control
+# codes except FFFC (wrap, language-dependent) and F600 (player-name token) must
+# match JP per entry, in position. scen122/scen123 are exempt (CN-origin, no JP
+# pair — see project_scen122_123_cn_origin). Keep this EMPTY: a non-zero entry
+# means real structural drift to fix, not to whitelist.
+CTRL_PARITY_XFAIL: dict[int, int] = {}
+
+# CN-origin scens with no JP counterpart — control-code parity does not apply.
+CTRL_PARITY_EXEMPT = {122, 123}
 
 
 def _is_structural_code(word: int) -> bool:
@@ -83,21 +69,25 @@ def _is_structural_code(word: int) -> bool:
     - `<$F7xx>` — voice cues; embedded position triggers an audio clip.
     - `<$FFFB>` — wait; pacing must match JP.
     - `<$FFFD>` — scroll; must match JP.
+    - `<$FFFF>` — string terminator. Used mid-entry to separate sub-strings
+      (e.g. name|text in nameplate entries, location-label strings) AND as the
+      trailing string terminator on the last entry. It is a real engine-read
+      code (RE: name/text split + location-label FFFF-anim), NOT padding, so its
+      position must match JP. (Restored to the EN last entries 2026-06-14.)
 
-    Excludes:
-    - `<$F600>` (player-name token) — inclusion depends on EN
-      adaptation (narrations drop for word wrap; dialogue may add or
-      remove). Not a structural invariant per project policy.
-    - `<$FFFC>` — newline within a balloon. Line wrapping is
-      language-dependent.
-    - `<$FFFE>` / `<$FFFF>` — entry terminators, checked separately
-      via `_jp_entry_terminator` so that name-slot vs dialogue parity
-      is enforced per-index.
+    Excludes (the ONLY two not verified):
+    - `<$F600>` (player-name token) — position follows the voiced line; EN may
+      adapt (narrations drop for word wrap, dialogue may add/remove).
+    - `<$FFFC>` — newline within a balloon; wrapping is language-dependent.
+
+    `<$FFFE>` (end-of-message) is verified via the separate terminator check so
+    name-slot vs dialogue parity is enforced per-index.
     """
     return (
         0xF700 <= word <= 0xF7FF
         or word == 0xFFFB
         or word == 0xFFFD
+        or word == 0xFFFF
     )
 
 
@@ -211,6 +201,8 @@ def test_control_code_parity(jp_sections):
 
     for sec in jp_sections:
         scen_num = sec.index + 1
+        if scen_num in CTRL_PARITY_EXEMPT:
+            continue  # CN-origin, no JP pair — parity does not apply
         diffs = _section_diff_count(sec, scen_num)
         if diffs < 0:
             continue  # missing EN script — covered by another test

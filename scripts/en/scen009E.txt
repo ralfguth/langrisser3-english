@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,93 +20,93 @@ Shika Tribe Commander<$FFFF>
 •Defeat Do Kahni <$FFFE>
 •Death of <$F600><$0000><$FFFE>
 Southern Lushiris Gate<$FFFF>
- Shika! Shika!<$FFFE>
- Do Kahni Champion! Someone coming!<$FFFE>
- Shika! Who're you? What you coming for?<$FFFE>
- What in the world, who are those guys!?<$FFFE>
- They must be the native people from the south that lived there since the old days.<$FFFE>
- This is odd. Usually they don't come to this area.<$FFFE>
- But it seems like the southern gate has been occupied by these people.<$FFFE>
- Shika! This holy place of Shika tribe! You not allowed at holy place!<$FFFE>
- This place is their holy place?<$FFFE>
- The Shika tribe hunt in this area and revere this place as holy ground.<$FFFD>Long ago there even were some minor battles between Larcuss and the native people.<$FFFD>They must have taken the opportunity to occupy this land while the main forces are busy defending against the Empire and Barral.<$FFFE>
- Kill all intruders!<$FFFE>
- Shikaaa!<$FFFE>
- It does not seem they view our coming here with much favor.<$FFFE>
- The person in charge of this gate is a shrine maiden called Sophia, or so I've heard. I wonder what has happened to her.<$FFFE>
- Crap! You think they captured her?<$FFFE>
- Whatever the case is, we won't accomplish anything by simply standing here. First of all let us drive out those nuisances!<$FFFE>
- Rise, Flame! Burn them all!<$FFFE>
- Shikaaa!<$FFFE>
- We are surrounded by flames!?<$FFFE>
- Have you lost your mind!? At this rate we will all be burnt to death!<$FFFE>
- Do Kahni is Champion! We not fear fire!<$FFFE>
- But I am mighty scared right now!<$FFFE>
- Sir <$F600><$0000>, we should make our way to the center.<$FFFE>
- The central structure is surrounded by a moat. If we can make it to that area, the flames can't threaten us any longer.<$FFFE>
- Or we can defeat all the enemies and put out the fire that way.<$FFFE>
- Either way, one thing's certain. We have no time to spare.<$FFFE>
-The fire is expanding, we have to get away from it fast. Everyone, throw down any resistance with utmost haste!<$FFFE>
- Understood.<$FFFE>
-The fire is still expanding. It could prove dangerous to try to throw down all the enemies.<$FFFE>
- Understood.<$FFFD>Everyone, break through the enemy lines and make your way to the gate! The flames won't reach us once we are there!<$FFFE>
- Shika Shika! Scary! Scary!<$FFFE>
- Powerful they are! But Do Kahni more powerful! Do Kahni never be defeated!<$FFFE>
- The poor thing just doesn't know when to give up…<$FFFE>
- Kill all, Shika!<$FFFE>
- Shika Shika!<$FFFD>God of Shika! Arekaschi curse all invaders! Shikashika!<$FFFE>
- Shika shika!<$FFFE>
- At the spot where the moon is being reflected in the water, something is sparkling in the water.<$FFFE>
- What will you do?<$FFFE>
-Reach out with your hand<$FFFE>
+Shika! Shika!<$FFFE>
+Brave Do Kahni! Someone<$FFFC>is coming!<$FFFE>
+Shika! Who<$FFFC>are you?! Why you come<$FFFC>here?!<$FFFE>
+What? Who are they!?<$FFFE>
+They are the Shika, a<$FFFC>native people who've<$FFFC>lived in the southern<$FFFC>lands for generations.<$FFFE>
+How strange. They never<$FFFC>come this far.<$FFFE>
+So they have occupied<$FFFC>the southern gate.<$FFFE>
+Shika! This Shika holy<$FFFC>land! You defile our<$FFFC>holy land!<$FFFE>
+What holy ground?<$FFFE>
+The Shika hunt these<$FFFC>lands and call this<$FFFC>place holy ground.<$FFFD>So small clashes<$FFFC>with Larcuss have never<$FFFC>ceased over the years.<$FFFD>The Empire and Barral's<$FFFC>wars left the gate weak,<$FFFC>so they seized it.<$FFFE>
+Kill all intruders!<$FFFE>
+Shikaaa!<$FFFE>
+They do not seem to look<$FFFC>kindly on us at all.<$FFFE>
+I heard the gate's<$FFFC>keeper was Sophia,<$FFFC>the shrine maiden. Where<$FFFC>could she be?<$FFFE>
+Ugh! You don't think<$FFFC>they've captured her?<$FFFE>
+We can't turn back now.<$FFFC>Let's drive them out of<$FFFC>here!<$FFFE>
+Set the fires! Kill them<$FFFC>all!<$FFFE>
+Shikaaa!<$FFFE>
+Fire, now!?<$FFFE>
+Are you mad!? You will<$FFFC>burn along with us!<$FFFE>
+Do Kahni brave! Do Kahni<$FFFC>not fear fire!<$FFFE>
+This is way past scary!<$FFFE>
+Lord <$F600><$0000>,<$FFFC>let us break through the<$FFFC>center.<$FFFE>
+The central shrine is<$FFFC>ringed by a moat. Once<$FFFC>you're in the water, the<$FFFC>flames can't reach you.<$FFFE>
+Either defeat every foe<$FFFC>and put the fire out,<$FFFC>or head for the moat.<$FFFE>
+Either way, one thing is<$FFFC>certain. We are out of<$FFFC>time.<$FFFE>
+The fire is spreading<$FFFC>faster than I thought.<$FFFC>Everyone, hurry and<$FFFC>defeat them!<$FFFE>
+Understood.<$FFFE>
+The flames are growing.<$FFFC>Pressing the attack now<$FFFC>would be too dangerous.<$FFFE>
+Understood.<$FFFD>Everyone, break through<$FFFC>to the gate! The flames<$FFFC>shouldn't reach us<$FFFC>there!<$FFFE>
+Shika, Shika! Fearsome!<$FFFC>Fearsome!<$FFFE>
+They strong! Do Kahni<$FFFC>stronger! Do Kahni not<$FFFC>lose!<$FFFE>
+He can't possibly win,<$FFFC>yet he just won't give<$FFFC>up…<$FFFE>
+Kill all, Shika!<$FFFE>
+Shika shika!<$FFFD>O god of Shika! Lay<$FFFC>your curse upon these<$FFFC>invaders! Shika shika!<$FFFE>
+Shika shika!<$FFFE>
+Watching the moon on the<$FFFC>water, you spy something<$FFFC>glittering below.<$FFFE>
+What will you do?<$FFFE>
+Reach for it<$FFFE>
 Jump into the water<$FFFE>
-Throw 10P into the water <$FFFE>
- Nothing special could be found.<$FFFE>
- Nothing special could be found.<$FFFE>
- There was no money…<$FFFE>
- The water fairy appeared, asking you the following <$01E2><$FFFD>"Did you just throw those jewels into my lake?"<$FFFE>
- Will you claim to have thrown the jewels?<$FFFE>
- "Is that so? In that case you shall have them back."<$FFFE>
- Brilliant Jewels were obtained!<$FFFD>However, the jewels turn to simple stones right in front of your eyes…you liar…<$FFFE>
- "You are an honest person, take this as a reward."<$FFFE>
- Feathered Robe of the Goddess was obtained!<$FFFE>
- Blasted! The flames…<$FFFE>
- Here… would be a fitting place for a knight to die…<$FFFE>
- It's hot, so hot!<$FFFE>
- What a shock! To be defeated like this…<$FFFE>
- This certainly took me by surprise…<$FFFE>
- Oh no!<$FFFE>
- I fell into the enemy's trap…<$FFFE>
-The enemy got the better of me… My skill must have started to decay…<$FFFE>
- Yaaaa! I cannot fight like this!<$FFFE>
- Guaa!<$FFFE>
- Oh my? My body is growing so hot…<$FFFE>
- Oh my? My vision is growing dark…<$FFFE>
- I…I am so…sorry…<$FFFE>
- Forgive me…<$FFFE>
- Guuuaaarrgg!<$FFFE>
- Shika Shika!<$FFFE>
- I applaud you for your splendid commanding, Sir <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>. A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
- The battle is over! The fire has extinguished as well, so let's get some information concerning the shrine maiden out of that fellow.<$FFFE>
- Do Kahni is Champion of Shika tribe! I can not be defeated!<$FFFE>
- Shika…<$FFFE>
- Shikaa!<$FFFE>
- Shi-shika!<$FFFE>
- Sh-shika…<$FFFE>
- Shi…<$FFFE>
- Shikashikashikaa!<$FFFE>
- Shishishi…<$FFFE>
- Shikashika!<$FFFE>
- Shikaareyashina!<$FFFE>
- Shikashikaa!<$FFFE>
- Sh, shika!<$FFFE>
- Shshika!<$FFFE>
- Shikaaaa!<$FFFE>
- Shikashikaaa<$FFFE>
- Shikashika!<$FFFE>
- Shikaaaaa!<$FFFE>
- Shiiiikaaaaa!<$FFFE>
- Shika!<$FFFE>
- Shika shika!<$FFFE>
- Shikaaah!<$FFFE>
+Throw in 10P<$FFFE>
+Found nothing special.<$FFFE>
+Found nothing special.<$FFFE>
+There was no money…<$FFFE>
+A water fairy appeared<$FFFC>and asked a question.<$FFFD>"Did you throw these<$FFFC>jewels into my lake?"<$FFFE>
+Did you throw jewels?<$FFFE>
+"Is that so? Then take<$FFFC>these."<$FFFE>
+Got the Brilliant<$FFFC>Jewels!<$FFFD>But in your hand, the<$FFFC>jewels crumble to plain<$FFFC>pebbles…<$FFFE>
+"You are very honest.<$FFFC>Please take this."<$FFFE>
+Acquired the Celestial<$FFFC>Robe!<$FFFE>
+Blasted! The flames…<$FFFE>
+Is this… a fitting<$FFFC>place for a knight to<$FFFC>die…?<$FFFE>
+It's hot, so hot!<$FFFE>
+What a shock! To lose to<$FFFC>the likes of them…<$FFFE>
+This can't be…<$FFFE>
+Oh no!<$FFFE>
+Caught in their trap…<$FFFE>
+Bested by foes so weak…<$FFFC>My skill has rusted away<$FFFC>entirely…<$FFFE>
+Yaaah! I can't fight in<$FFFC>a state like this!<$FFFE>
+Guaa!<$FFFE>
+Oh my? It keeps getting<$FFFC>hotter…<$FFFE>
+Oh my? My vision is<$FFFC>going dark…<$FFFE>
+I-I am so…sorry…<$FFFE>
+Forgive me…<$FFFE>
+Guuuaaarrgg!<$FFFE>
+Shika Shika!<$FFFE>
+Masterful command, Lord<$FFFC><$F600><$0000>.<$FFFE>
+Lord <$F600><$0000>…<$FFFC>A battle must not last<$FFFC>too long.<$FFFD>It will affect our next<$FFFC>move…<$FFFE>
+There, the battle is<$FFFC>done! Once the fire is<$FFFC>out, we'll make him tell<$FFFC>us where Sophia is.<$FFFE>
+Do Kahni, Shika's brave<$FFFC>champion. Do Kahni never<$FFFC>lose!<$FFFE>
+Shika…<$FFFE>
+Shikaa!<$FFFE>
+Shi-shika!<$FFFE>
+Sh-shika…<$FFFE>
+Shi…<$FFFE>
+Shikashikashikaa!<$FFFE>
+Shishishi…<$FFFE>
+Shikashika!<$FFFE>
+Shikaareyashina!<$FFFE>
+Shikashikaa!<$FFFE>
+Sh, shika!<$FFFE>
+Shshika!<$FFFE>
+Shikaaaa!<$FFFE>
+Shikashikaaa<$FFFE>
+Shikashika!<$FFFE>
+Shikaaaaa!<$FFFE>
+Shiiiikaaaaa!<$FFFE>
+Shika!<$FFFE>
+Shika shika!<$FFFE>
+Shikaaah!<$FFFE>

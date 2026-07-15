@@ -5,28 +5,28 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-Plains of Luon - Marshlands<$FFFF>
- You did it, Kirikaze.<$FFFE>
- Thanks to everyone's help, I was able to defeat that witch.<$FFFE>
- I don't know how best to express my gratitude…<$FFFE>
- No need to worry about that. We're all friends, after all.<$FFFE>
- Speaking of which, Kirikaze, what do you plan to do now?<$FFFE>
- Since you were able to avenge your lord, will you return now?<$FFFE>
- No. We may have defeated Feraquea, but the puppeteer pulling her strings, Böser, remains.<$FFFE>
- Unless Böser is defeated, other monsters will eventually attack again.<$FFFE>
- Until Böser is overthrown, I will travel together with you all.<$FFFE>
- I see.<$FFFE>
- In that case, we have to defeat Böser and end this matter once and for all.<$FFFE>
- I shall make it my new duty. Come, let's move on!<$FFFE>
- All right, everyone. None of us can rest until Böser is defeated!<$FFFE> 
+Plains of Luon, Marshlands<$FFFF>
+You did it, Kirikaze.<$FFFE>
+Thanks to everyone's<$FFFC>help, I was able to<$FFFC>defeat that witch.<$FFFE>
+I don't know how best to<$FFFC>express my gratitude…<$FFFE>
+No need to worry about<$FFFC>that. We're all friends,<$FFFC>after all.<$FFFE>
+Speaking of which,<$FFFC>Kirikaze, what do you<$FFFC>plan to do now?<$FFFE>
+Since you were able to<$FFFC>avenge your lord, will<$FFFC>you return now?<$FFFE>
+No. We may have defeated<$FFFC>Feraquea, but the<$FFFC>puppeteer pulling her<$FFFC>strings, Böser, remains.<$FFFE>
+Unless Böser is<$FFFC>defeated, other monsters<$FFFC>will eventually attack<$FFFC>again.<$FFFE>
+Until Böser<$FFFC>is defeated, I'll stay<$FFFC>and fight alongside all<$FFFC>of you.<$FFFE>
+I see.<$FFFE>
+In that case, we have<$FFFC>to defeat Böser and end<$FFFC>this matter once and for<$FFFC>all.<$FFFE>
+I shall make it my new<$FFFC>duty. Come, let's move<$FFFC>on!<$FFFE>
+All right, everyone.<$FFFC>None of us can rest<$FFFC>until Böser is defeated!<$FFFE>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,64 +19,64 @@ Emerick<$FFFF>
 King Wilder<$FFFF>
 General Dios<$FFFF>
 Ruud<$FFFF>
-Viscount Raymond<$FFFF>
+Lord Raymond<$FFFF>
 Larcuss Commander<$FFFF>
 Layla<$FFFF>
-Laffel - Currently occupied by Barral<$FFFF>
+Occupied Laffel<$FFFF>
 So the citizens managed<$FFFC>to slip away, did they,<$FFFC>Dios?<$FFFE>
 My humble apologies.<$FFFE>
-This lot certainly made quiet a fool out of you.<$FFFC>Your pity is not only <$FFFC>wasted but also allowed <$FFFC>them to escape.<$FFFD>And don't think looking <$FFFC>at me with puppy eyes <$FFFC>will make up for this.<$FFFC>Bah, I've got enough of <$FFFC>this place.<$FFFD>I am returning to the<$FFFC>royal castle.<$FFFC>In the meantime you will<$FFFC>be in command, consider <$FFFC>it a chance.<$FFFD>Oh before I forget,<$FFFC>the appropriate tax rate<$FFFC>will be doubled!<$FFFE>
-Doubled!? But this will<$FFFC>rob the townspeople of <$FFFC>their livelihood!<$FFFD>No this will lead to <$FFFC>revolt…<$FFFE>
-Suits me just fine!<$FFFD>When it comes to it they<$FFFC>shall feel our blades!<$FFFC>Those who dare to defy <$FFFC>me will be shown no <$FFFC>mercy.<$FFFE>
+They are mere subjects<$FFFC>to be ruled. They need<$FFFC>no mercy.<$FFFD>Still, I shall overlook<$FFFC>it just this once. We<$FFFC>have taken the city of<$FFFC>Laffel, after all.<$FFFD>I shall return to the<$FFFC>royal castle for now.<$FFFC>You will hold command<$FFFC>here in my absence.<$FFFD>And for a start, double<$FFFC>the tax rate!<$FFFE>
+Doubled!? But this will<$FFFC>rob the townspeople of<$FFFC>their livelihood!<$FFFD>A riot could break out<$FFFC>at any moment now…<$FFFE>
+Still that nonsense!<$FFFD>Kill any who defy us!<$FFFC>Soon enough none will be<$FFFC>left to defy us at all.<$FFFE>
 …<$FFFE>
 I think we're done here.<$FFFE>
 General Dios…<$FFFE>
-Nowadays, I am asking <$FFFC>myself if following the <$FFFC>King's orders is the <$FFFC>right thing to do.<$FFFE>
-Impossible,<$FFFC>you couldn't be thinking<$FFFC>of desertion?<$FFFD>It's a crime punished <$FFFC>with death!<$FFFC>Surely the King would <$FFFC>send pursuers after you.<$FFFE>
-So what if?<$FFFC>Do you think I could be <$FFFC>executed by some common <$FFFC>soldiers?<$FFFC>You know I'm not weak.<$FFFE>
-Even if you escape,<$FFFC>do you honestly want to <$FFFC>leave your family and <$FFFC>country behind, please <$FFFC>reconsider…<$FFFE>
-You're right.<$FFFD>If it would be just me <$FFFC>I would do it, but I <$FFFC>can't let my wife and <$FFFC>children walk the plank <$FFFC>as well.<$FFFD>This is bad. Something <$FFFC>strange is going on here<$FFFC>but I don't know what <$FFFC>just yet. For now <$FFFC>consider it a joke.<$FFFE>
-Okay. As long as only I<$FFFC>know about how you feel.<$FFFD>I have to return to my <$FFFC>duty and convey messages<$FFFC>for the King.<$FFFE>
-King Wilder is going <$FFFC>mad… I hate this! <$FFFC>Just what is he up to?<$FFFE>
+Lately I've started to<$FFFC>wonder if following that<$FFFC>King is still the right<$FFFC>path for me.<$FFFE>
+You cannot possibly be<$FFFC>thinking of desertion?<$FFFD>It's a crime punished<$FFFC>with death!<$FFFC>Surely the King would<$FFFC>send pursuers after you.<$FFFE>
+You think I would lose<$FFFC>to common soldiers? You<$FFFC>are no weakling yourself<$FFFC>either.<$FFFE>
+…Even if I did escape,<$FFFC>the wife and children<$FFFC>I left back home would<$FFFC>still weigh on me…<$FFFE>
+Ah, that's right.<$FFFD>I'm on my own, but you<$FFFC>have a wife and children<$FFFC>yourself, don't you?<$FFFD>Forgive me, that was an<$FFFC>odd thing for me to say.<$FFFC>Forget I said it.<$FFFE>
+Okay. As long as only I<$FFFC>know about how you feel.<$FFFD>I have to return to my<$FFFC>duty and convey messages<$FFFC>for the King.<$FFFE>
+King Wilder has lost his<$FFFC>mind… what is he really<$FFFC>plotting, I wonder?<$FFFE>
 Desertion means Death…<$FFFC>Damn it all!<$FFFE>
-Viscount Raymond's Mansion<$FFFF>
-The royal capital of<$FFFC>Larcussia fell to the<$FFFC>Empire's invasion.<$FFFC>Our troops grew weak.<$FFFD>We grew idle in peace<$FFFC>and failed to guard it.<$FFFE>
+Viscount Raymond's Manor<$FFFF>
+So the Imperial army has<$FFFC>taken the royal capital<$FFFC>of Larcussia at last.<$FFFD>We leaned too much on<$FFFC>the Magic Cannon and let<$FFFC>our defenses fall idle.<$FFFC>Peace had made us soft.<$FFFE>
 Yes, Father.<$FFFE>
-Lord Raymond!<$FFFC>Some guests have just <$FFFC>arrived.<$FFFE>
+Lord Raymond!<$FFFC>Some guests have just<$FFFC>arrived.<$FFFE>
 Visitors? Tell me who<$FFFC>they might be.<$FFFE>
-Yes, sir! It seems to<$FFFC>be the young Sir Klaus<$FFFC>in company of some<$FFFC>others.<$FFFE>
-Oh, Diehärte!<$FFFC>Show him in at once.<$FFFE>
+Sir! He gives his name<$FFFC>as the young lord of the<$FFFC>Klaus house. How shall<$FFFC>we receive him?<$FFFE>
+Oh, Diehärte! Show him<$FFFC>in at once.<$FFFE>
 Yessir!<$FFFE>
-Lord Raymond.<$FFFC>It has been a long time.<$FFFE>
-It has been far too <$FFFC>long, Diehärte!<$FFFE>
-At last I stand before <$FFFC>you as a knight.<$FFFE>
-Now that I am a knight,<$FFFC>my name has changed.<$FFFC>From now on, please call<$FFFC>me Sir <$F600><$0000>.<$FFFE>
-Well, so you are a <$FFFC>knight now.<$FFFD>Hmm? Tell me how you<$FFFC>became one…<$FFFE>
-Yes. In the floating<$FFFC>castle over Larcussia,<$FFFC>Marquis William's seat,<$FFFC>I completed my training.<$FFFE>
-I am glad you escaped<$FFFC>the royal capital safely.<$FFFC>I had heard Larcussia<$FFFD>lies in ruins from the<$FFFC>Rigüler Empire's<$FFFC>invasion. Is that<$FFFC>true?<$FFFE>
-Yes, sir. We saw the<$FFFC>invasion with our own<$FFFC>eyes. Altemüller led<$FFFC>the assault himself.<$FFFD>Marquis William fought<$FFFC>on bravely, but fell<$FFFC>in the attack.<$FFFE>
-So even his masterful<$FFFC>swordsmanship failed...<$FFFE>
+Lord Raymond. It has<$FFFC>been a long time.<$FFFE>
+It has been too long,<$FFFC>Diehärte, my boy!<$FFFE>
+At last I stand before<$FFFC>you as a knight.<$FFFE>
+Now I am a knight, and<$FFFC>my name has changed too.<$FFFC>From now on, please call<$FFFC>me <$F600><$0000>.<$FFFE>
+I see, so you are now a<$FFFC>knight, are you.<$FFFD>Hm? Now that you mention<$FFFC>it, you…<$FFFE>
+Yes, sir. I trained as a<$FFFC>knight in the Floating<$FFFC>Castle above Larcussia,<$FFFC>under Marquis William.<$FFFE>
+You did well to escape<$FFFC>the royal capital with<$FFFC>your lives intact.<$FFFD>I have heard the Rigüler<$FFFC>Empire struck Larcussia<$FFFC>and left it in ruins.<$FFFC>Is that really true?<$FFFE>
+Yes, sir. We were there<$FFFC>to witness it ourselves.<$FFFC>Field Marshal Altemüller<$FFFC>led the assault himself.<$FFFD>Marquis William fought<$FFFC>bravely to the last, and<$FFFC>fell so that we might<$FFFC>escape with our lives.<$FFFE>
+So even his masterful<$FFFC>swordsmanship failed…<$FFFE>
 …<$FFFE>
-Ah... this lady is the <$FFFC>marquis's only daughter<$FFFC>Tiaris.<$FFFD>And this is Miss Layla.<$FFFE>
+Ah… this lady is the<$FFFC>marquis's only daughter<$FFFC>Tiaris.<$FFFD>And this is Miss Layla.<$FFFE>
 It is an honor to meet<$FFFC>you, Viscount Raymond.<$FFFE>
-This young woman is<$FFFC>Gerold's fiancee...<$FFFE>
-I see. Forgive me for<$FFFC>bringing up such pain...<$FFFE>
-No, it's all right,<$FFFC>Viscount.<$FFFE>
-I won't yield to sorrow<$FFFC>not yet.<$FFFD>We can't be certain yet<$FFFC>that Gerold is dead...<$FFFE>
-So tell me, was Gerold<$FFFC>injured during that <$FFFC>battle as well?<$FFFE>
-Yes. It happened when he<$FFFC>and Altemüller engaged <$FFFC>in a fierce duel…<$FFFE>
-So that is how.<$FFFD>Imperial Field Marshal <$FFFC>Altemüller.<$FFFB><$FFFC>What a man…<$FFFE>
-Lord Raymond, we should<$FFFC>gather more soldiers<$FFFC>and ready ourselves to<$FFFC>retake Larcussia.<$FFFE>
+This young lady here was<$FFFC>Gerold's own betrothed…<$FFFE>
+I see. Forgive me for<$FFFC>bringing up such pain…<$FFFE>
+Please, it is quite all<$FFFC>right, Viscount.<$FFFE>
+I won't yield to sorrow<$FFFC>not yet.<$FFFD>We can't be certain yet<$FFFC>that Gerold is dead…<$FFFE>
+Do you mean to say that<$FFFC>even Gerold was wounded<$FFFC>in that battle as well?<$FFFE>
+Yes. It happened when he<$FFFC>and Altemüller engaged<$FFFC>in a fierce duel…<$FFFE>
+So that is how.<$FFFD>Imperial Field Marshal<$FFFC>Altemüller.<$FFFB><$FFFC>What a fearsome man…<$FFFE>
+Lord Raymond, we must<$FFFC>gather up our soldiers<$FFFC>and reclaim the Kingdom<$FFFC>of Larcuss.<$FFFE>
 I agree.<$FFFE>
-But first, we should<$FFFC>seek aid from the army<$FFFC>of our ally, Barral<$FFFC>Kingdom.<$FFFE>
+Then let's first call<$FFFC>on the strength of our<$FFFC>ally, Barral Kingdom.<$FFFE>
 That would be hopeless!<$FFFC>As for Barral… they…<$FFFE>
 …<$FFFE>
 What is the matter?<$FFFE>
-Allow me to explain.<$FFFC>We escaped Larcussia<$FFFC>and made our way into<$FFFC>the city of Laffel.<$FFFE>
-Soon after, Barral's<$FFFC>troops attacked Laffel<$FFFC>and occupied the town.<$FFFC>...Oh, Gerold.<$FFFE>
-What staggering blow…<$FFFE>
-King Wilder was always<$FFFC>such a gentle ruler...<$FFFC>So why would he...?<$FFFE>
-Ah yes, the Klaus house<$FFFC>and Barral's royals<$FFFC>were once quite close<$FFFC>to one another.<$FFFE>
-Yes. Princess Freya<$FFFC>and I grew up together...<$FFFE>
-Then it can't be helped.<$FFFC>I'll call my commanders<$FFFC>and plan our next move.<$FFFE>
-But you seem exhausted.<$FFFC>For now, take time to<$FFFC>rest and recover from<$FFFC>the ordeals you faced.<$FFFE>
+After we fled the royal<$FFFC>capital, we made our way<$FFFC>to the city of Laffel…<$FFFE>
+It was the Barral army<$FFFC>that came and attacked<$FFFC>there. …Ah, Gerold.<$FFFE>
+So that's what it was…<$FFFE>
+King Wilder was always<$FFFC>such a gentle ruler…<$FFFC>So why would he…?<$FFFE>
+Ah yes, the Klaus house<$FFFC>was once on close terms<$FFFC>with the Wilder royals.<$FFFE>
+Yes. Princess Freya and<$FFFC>I grew up side by side…<$FFFE>
+…So be it. Then I will<$FFFC>gather the troops<$FFFC>myself.<$FFFE>
+But you seem exhausted.<$FFFC>For now, take time to<$FFFC>rest and recover from<$FFFC>the ordeals you faced.<$FFFE><$FFFF>

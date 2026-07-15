@@ -1,0 +1,701 @@
+A lame sword with a horse and star<$FFFF>
+on the hilt. Its dull edge grants<$FFFF>
+double XP per kill.<$FFFF>
+ATK-4 DEF-2 Amod-2<$FFFF>
+A one-handed longsword. Cheap and<$FFFF>
+easy for novice and veteran alike.<$FFFF>
+The most popular of all swords.<$FFFF>
+ATK+4<$FFFF>
+A two-handed sword. Its broad, heavy<$FFFF>
+blade strikes hard enough to shatter<$FFFF>
+a foe, armor and all.<$FFFF>
+ATK+5<$FFFF>
+A sword forged from mithril, a rare<$FFFF>
+alloy. The best blade of any sword<$FFFF>
+that bears no magic.<$FFFF>
+ATK+6<$FFFF>
+A magic sword that freezes whatever<$FFFF>
+it cuts. Its cold blade is wrought<$FFFF>
+from ice that will never melt.<$FFFF>
+ATK+6<$FFFF>
+A sword whose blade is a shaft of<$FFFF>
+plasma. Seal the thunder god's<$FFFF>
+power, it can call down lightning.<$FFFF>
+ATK+6<$FFFF>
+A cursed blade tempered in blood,<$FFFF>
+its edge smeared with poison. A mere<$FFFF>
+wound from it can prove fatal.<$FFFF>
+ATK+7<$FFFF>
+A sword keen enough to cleave steel.<$FFFF>
+It can cut even a dragon, hard<$FFFF>
+scales and all, clean in two.<$FFFF>
+ATK+6 /vs dragons<$FFFF>
+A sacred treasure of the Eastern<$FFFF>
+royal house, said to come from the<$FFFF>
+tail of a giant serpent.<$FFFF>
+ATK+8<$FFFF>
+A legendary holy sword graven with<$FFFF>
+strange patterns. Its bearer is said<$FFFF>
+to be watched over by the gods.<$FFFF>
+ATK+9 DEF+1<$FFFF>
+A holy sword a legendary swordsman<$FFFF>
+forged to seal the wicked, wrought<$FFFF>
+of a rare metal called orichalcum.<$FFFF>
+ATK+7<$FFFF>
+Sieghart's soul, sealed within the<$FFFF>
+Decimation Sword. Blessed by<$FFFF>
+Lushiris, it opposes the dark blade.<$FFFF>
+ATK+11 DEF+1 /m.resist<$FFFF>
+A dark blade born of Chaos, god of<$FFFF>
+disorder. It grants its bearer<$FFFF>
+boundless power and his blessing.<$FFFF>
+ATK+13 /m.res /HP drain<$FFFF>
+A small one-handed axe. A handy size<$FFFF>
+and easy to use, often carried for<$FFFF>
+the hunt. It can also be thrown.<$FFFF>
+ATK+4<$FFFF>
+A great war axe for battle, a<$FFFF>
+double-edged head on a long haft.<$FFFF>
+High attack, but heavy.<$FFFF>
+ATK+7 MOV-2<$FFFF>
+An axe of mithril silver, a magic<$FFFF>
+metal. Despite its great head, it is<$FFFF>
+light and easy to wield.<$FFFF>
+ATK+7<$FFFF>
+A blood-soaked greataxe under an<$FFFF>
+ancient curse. It maddens its<$FFFF>
+wielder and terrifies its victims.<$FFFF>
+ATK+12 DEF-4 MOV-2<$FFFF>
+A stone axe carved with runes of<$FFFF>
+ruin and silence. Magic woven into<$FFFF>
+it makes it surprisingly light.<$FFFF>
+ATK+10 MOV-1<$FFFF>
+Weak in attack, but small and easy<$FFFF>
+to carry, so travelers favor it for<$FFFF>
+self-defense.<$FFFF>
+ATK+1<$FFFF>
+A special dagger meant less for<$FFFF>
+attacking than for parrying a foe's<$FFFF>
+blows. Hard to handle.<$FFFF>
+ATK+1 DEF+1<$FFFF>
+A one-handed short sword. Easy to<$FFFF>
+use, cheap, and decently strong. A<$FFFF>
+fine weapon for beginners.<$FFFF>
+ATK+2<$FFFF>
+A keen dagger of meteoric iron. Its<$FFFF>
+wavy blade is highly lethal, and it<$FFFF>
+bears lovely carvings.<$FFFF>
+ATK+3<$FFFF>
+A concealed weapon made for ninja.<$FFFF>
+Good for defense, scaling walls,<$FFFF>
+throwing at foes, and much more.<$FFFF>
+ATK+4<$FFFF>
+A spear made of bamboo. Light, easy<$FFFF>
+to use, and cheap.<$FFFF>
+ATK+3<$FFFF>
+　<$FFFF>
+A spear of sturdy steel, with<$FFFF>
+piercing and crushing power enough<$FFFF>
+to withstand a cavalry charge.<$FFFF>
+ATK+4<$FFFF>
+A three-pronged spear with three<$FFFF>
+blades. Simple to handle, yet<$FFFF>
+boasting very high lethality.<$FFFF>
+ATK+5<$FFFF>
+A long spear grown from the trident,<$FFFF>
+with a broad spearhead richly and<$FFFF>
+beautifully adorned.<$FFFF>
+ATK+6<$FFFF>
+A magic spear said to cut even the<$FFFF>
+wind. Very light, it grants its<$FFFF>
+bearer power over the wind.<$FFFF>
+ATK+7<$FFFF>
+A glaive favored by Benkei, an<$FFFF>
+Eastern warrior-monk. A very heavy<$FFFF>
+spear, but of immense might.<$FFFF>
+ATK+8<$FFFF>
+A spear built to loose countless<$FFFF>
+arrows from its tip. So unusual that<$FFFF>
+mastery takes long practice.<$FFFF>
+ATK+9<$FFFF>
+Odin's throwing spear. It never<$FFFF>
+misses, and returns on its own once<$FFFF>
+the foe is slain.<$FFFF>
+ATK+10<$FFFF>
+A most primitive bludgeon. Little<$FFFF>
+more than worked wood, yet its power<$FFFF>
+is not to be scorned.<$FFFF>
+ATK+3<$FFFF>
+A mace with a spiked ball chained to<$FFFF>
+a long haft. Powerful and hard to<$FFFF>
+dodge, but hard to handle.<$FFFF>
+ATK+4<$FFFF>
+A spiked-ball mace built for force.<$FFFF>
+It shatters foes armor and all, even<$FFFF>
+heavy troops.<$FFFF>
+ATK+5<$FFFF>
+A training tool the macho Big<$FFFF>
+Brother always carries, to build his<$FFFF>
+body anytime, anywhere.<$FFFF>
+ATK+2<$FFFF>
+A huge hammer of mithril silver, a<$FFFF>
+magic metal. Light and sturdy, its<$FFFF>
+destructive power is immense.<$FFFF>
+ATK+6<$FFFF>
+The cudgel of Dagda, god of great<$FFFF>
+strength. So heavy and vast that no<$FFFF>
+ordinary man can even lift it.<$FFFF>
+ATK+7<$FFFF>
+Thor's hammer, of fearsome power.<$FFFF>
+Thrown, it flies like lightning,<$FFFF>
+smashes the foe, then returns.<$FFFF>
+ATK+8<$FFFF>
+A staff of cypress. Useless as a<$FFFF>
+weapon, but though plain it has the<$FFFF>
+power to heighten magic.<$FFFF>
+ATK+1 RANGE+1<$FFFF>
+Used both to defend a mage and to<$FFFF>
+aid the focus of the mind while<$FFFF>
+chanting spells.<$FFFF>
+RANGE+3 INT+5<$FFFF>
+Only those acknowledged as<$FFFF>
+full-fledged mages may carry it. It<$FFFF>
+bears wards against enemy magic.<$FFFF>
+RANGE+3 INT+10 MRES+5<$FFFF>
+Tipped with a magic-charged crystal<$FFFF>
+that amplifies the caster's spells.<$FFFF>
+ATK+1 RANGE+4 INT+10<$FFFF>
+　<$FFFF>
+A rod used by those called<$FFFF>
+archmages, fitted with many devices<$FFFF>
+for wielding magic.<$FFFF>
+RANGE+5 INT+10 MRES+5<$FFFF>
+A magic staff radiating cold. It<$FFFF>
+houses an ice spirit, so it can cast<$FFFF>
+Freeze without focusing the mind.<$FFFF>
+RANGE+5 INT+10 MRES+5<$FFFF>
+A staff full of the breath of life.<$FFFF>
+It heals any it touches, needing no<$FFFF>
+focus of mind.<$FFFF>
+RANGE+5 INT+10 MRES+5<$FFFF>
+A staff passed down by each dragon<$FFFF>
+lord, its tip holding the wisdom of<$FFFF>
+all who led dragonkind.<$FFFF>
+RANGE+7 INT+5 MRES+5<$FFFF>
+A rod blessed by Lushiris, holding<$FFFF>
+sacred power. It raises its bearer's<$FFFF>
+magic to the utmost.<$FFFF>
+RANGE+6 AREA+1 INT+10<$FFFF>
+A dark rod blessed by Chaos, god of<$FFFF>
+darkness. It drains the life of any<$FFFF>
+but its owner who touches it.<$FFFF>
+RANGE+6 AREA+1 INT+10<$FFFF>
+A short bow of wood, made from the<$FFFF>
+oak tree. Small and easy to carry,<$FFFF>
+but lacking in power.<$FFFF>
+ATK+1<$FFFF>
+A composite short bow of oak and<$FFFF>
+ram's horn. For its size, it has<$FFFF>
+fine strength and elasticity.<$FFFF>
+ATK+2<$FFFF>
+A longbow of yew. Rich in power and<$FFFF>
+penetration, but it takes much<$FFFF>
+training to master.<$FFFF>
+ATK+3<$FFFF>
+A bow on a stock. Pull the trigger<$FFFF>
+to shoot. The winch-drawn string<$FFFF>
+gives great power.<$FFFF>
+ATK+4<$FFFF>
+A longbow of the elves, wardens of<$FFFF>
+the forest. Blessed by forest<$FFFF>
+spirits, it casts foes into silence.<$FFFF>
+ATK+4 INT+5<$FFFF>
+A hit from this magic bow brings<$FFFF>
+overpowering sleep. The goddess of<$FFFF>
+night used it to grant repose.<$FFFF>
+ATK+5<$FFFF>
+A magic bow that fits in the hand at<$FFFF>
+rest but grows large when drawn. Its<$FFFF>
+destructive power is extraordinary.<$FFFF>
+ATK+6<$FFFF>
+Artemis's bow. The moon's magic<$FFFF>
+dwells in its arrows, and at times<$FFFF>
+it drives a foe's heart to madness.<$FFFF>
+ATK+6<$FFFF>
+An Eastern blade forged on the<$FFFF>
+sixteenth-night moon. Light but<$FFFF>
+keen, with fine lethal power.<$FFFF>
+ATK+6<$FFFF>
+An Eastern blade signed Kiku on the<$FFFF>
+tang. Its craft is so high it is<$FFFF>
+famed as a master blade.<$FFFF>
+ATK+7<$FFFF>
+A master blade forged by Kotetsu, an<$FFFF>
+Eastern smith. Keen of edge, and<$FFFF>
+wreathed in many legends.<$FFFF>
+ATK+9<$FFFF>
+A master blade by Masamune, a famed<$FFFF>
+Eastern smith. Said to cleave a<$FFFF>
+steel helm in one stroke.<$FFFF>
+ATK+10<$FFFF>
+A cursed blade that thirsts for<$FFFF>
+human blood. Legend says it was once<$FFFF>
+banned for menacing a royal house.<$FFFF>
+ATK+11 /vs humans<$FFFF>
+A mounted lance. Used mainly to<$FFFF>
+unhorse a foe, but a killing thrust<$FFFF>
+has force enough to pierce armor.<$FFFF>
+ATK+7<$FFFF>
+A magic lance made of mithril<$FFFF>
+silver. Lighter, sturdier, and more<$FFFF>
+piercing than an ordinary lance.<$FFFF>
+ATK+8<$FFFF>
+A lance that has drunk blood on many<$FFFF>
+fields. It devours the souls it<$FFFF>
+pierces and lends its bearer life.<$FFFF>
+ATK+6 /HP drain<$FFFF>
+A lance borne by dragon knights.<$FFFF>
+Longer and lighter than a mounted<$FFFF>
+lance, yet fierce in power.<$FFFF>
+ATK+9<$FFFF>
+A magic lance said to be the<$FFFF>
+incarnation of a fire spirit. Fierce<$FFFF>
+flames pour from its tip and haft.<$FFFF>
+ATK+10<$FFFF>
+A magic spear that roams for battle.<$FFFF>
+Sensing war's omens, it gives off<$FFFF>
+flame and rushes to the field.<$FFFF>
+ATK+11<$FFFF>
+Full-body armor of riveted steel<$FFFF>
+plate. Rich in defense, but its poor<$FFFF>
+mobility is a drawback.<$FFFF>
+DEF+6 MOV-2<$FFFF>
+Armor of mithril silver. Lighter<$FFFF>
+than steel, it keeps mobility and<$FFFF>
+wards off a little magic.<$FFFF>
+DEF+6 MOV-1<$FFFF>
+Full-body armor granted to knights.<$FFFF>
+It pursues not only function but<$FFFF>
+outward beauty as well.<$FFFF>
+DEF+7 MOV-2<$FFFF>
+It strengthens the wearer's aura to<$FFFF>
+guard the body. Lighter than common<$FFFF>
+plate, yet defends better.<$FFFF>
+DEF+7<$FFFF>
+Vast humanoid steel armor. The<$FFFF>
+shoulder reads Gear-1. A gift from<$FFFF>
+an unknown civilization.<$FFFF>
+ATK+10 DEF+10<$FFFF>
+Armor woven of chain links. Lighter<$FFFF>
+and freer than plate, with high<$FFFF>
+defense, so many warriors favor it.<$FFFF>
+DEF+4 MOV-1<$FFFF>
+Holy armor from the Earth Mother to<$FFFF>
+her faithful, lending her blessing<$FFFF>
+and slight magic resistance.<$FFFF>
+DEF+4<$FFFF>
+Armor with plating at the chest.<$FFFF>
+Heavier than chainmail, but it<$FFFF>
+grants high defense.<$FFFF>
+DEF+5 MOV-1<$FFFF>
+Armor of dragon scales. Light and<$FFFF>
+shock-absorbing, but rare, for the<$FFFF>
+scales are precious.<$FFFF>
+DEF+5 /fire resist<$FFFF>
+Armor worn by Eastern warriors. It<$FFFF>
+joins lightness and high defense, an<$FFFF>
+artful, beautiful piece.<$FFFF>
+DEF+6 MOV-1<$FFFF>
+The armor worn by the hero Aeneas.<$FFFF>
+Said to be made by the god of the<$FFFF>
+forge, hence its superb defense.<$FFFF>
+DEF+6<$FFFF>
+Armor made of tanned leather. Not<$FFFF>
+much defense to hope for, but ample<$FFFF>
+thought is given to mobility.<$FFFF>
+DEF+2<$FFFF>
+Armor of thick layered tanned<$FFFF>
+leather. A touch heavy, but it gains<$FFFF>
+fitting strength for it.<$FFFF>
+DEF+3<$FFFF>
+Special garb worn by Eastern<$FFFF>
+shinobi. Built for mobility, but<$FFFF>
+rich in defense as well.<$FFFF>
+DEF+4<$FFFF>
+Mere clothing, so no real defense to<$FFFF>
+hope for. Still, a little better<$FFFF>
+than wearing nothing at all.<$FFFF>
+DEF+1<$FFFF>
+A light, loose robe worn by mages.<$FFFF>
+It carries a faint protective spell<$FFFF>
+to guard against enemy magic.<$FFFF>
+DEF+1<$FFFF>
+A wax favored by the Builder. It<$FFFF>
+gives the body firmness and shine,<$FFFF>
+but offers no defense whatsoever.<$FFFF>
+　<$FFFF>
+A wondrous bikini resistant to all<$FFFF>
+magic. Used, it can cast Resist.<$FFFF>
+DEF+1<$FFFF>
+　<$FFFF>
+A magic robe radiating a mystic<$FFFF>
+aura. Magic raises its defense, and<$FFFF>
+it resists enemy spells as well.<$FFFF>
+DEF+2<$FFFF>
+A celestial feather-robe said to<$FFFF>
+bear its wearer skyward. Little<$FFFF>
+defense, but high magic resistance.<$FFFF>
+DEF+2<$FFFF>
+Robes worn by dark priests of Chaos.<$FFFF>
+Soaked in sacrificial blood, they<$FFFF>
+grant his blessing and cast Confuse.<$FFFF>
+DEF+3 /m.resist up<$FFFF>
+The light goddess's dress. The<$FFFF>
+wearer gains Lushiris's blessing,<$FFFF>
+wards off ills, and casts Heal 1.<$FFFF>
+DEF+3 /m.resist up<$FFFF>
+A small shield of wooden boards, its<$FFFF>
+rim reinforced with iron. Cheap, but<$FFFF>
+not much defense to hope for.<$FFFF>
+DEF+1<$FFFF>
+A round shield of wooden boards. Low<$FFFF>
+in defense, but easy to use, so it<$FFFF>
+blocks lesser blows well enough.<$FFFF>
+DEF+2<$FFFF>
+A bracelet carved with the rune of<$FFFF>
+warding. Worn, it grants a blessing<$FFFF>
+and casts Protection 1.<$FFFF>
+DEF+3<$FFFF>
+A bracelet carved with the rune of<$FFFF>
+strength. Worn, it grants a mystic<$FFFF>
+blessing, and can cast Attack 1.<$FFFF>
+ATK+1 DEF+2<$FFFF>
+A bracelet carved with the rune of<$FFFF>
+divine miracle. Worn, it grants a<$FFFF>
+blessing and casts Heal 1.<$FFFF>
+DEF+2 /crit rate up<$FFFF>
+A shield enlarged for greater<$FFFF>
+defense. Many warriors favor it, but<$FFFF>
+the weak cannot wield it.<$FFFF>
+DEF+3<$FFFF>
+A gauntlet fitted with a<$FFFF>
+double-edged blade. Both guard and<$FFFF>
+weapon, but hard to master.<$FFFF>
+ATK+2 DEF+2<$FFFF>
+A shield of dragon scales. Light,<$FFFF>
+sturdy, and easy to use, but rare,<$FFFF>
+for the scales are precious.<$FFFF>
+DEF+3 /fire resist<$FFFF>
+A magic shield warded against all<$FFFF>
+magic. Rich in defense against<$FFFF>
+weapon attacks too.<$FFFF>
+DEF+3<$FFFF>
+The hero Achilles's shield, made by<$FFFF>
+the forge god. Five plates of divine<$FFFF>
+guard. Casts Protection 1.<$FFFF>
+DEF+3 HP+5<$FFFF>
+An ornament, so no defense to hope<$FFFF>
+for. Yet it calms the mind, raising<$FFFF>
+magic resistance a little.<$FFFF>
+　<$FFFF>
+A cap of tanned leather. Not a helm,<$FFFF>
+so its defense is low, but better<$FFFF>
+than nothing.<$FFFF>
+DEF+1<$FFFF>
+A silver tiara with a faint charm<$FFFF>
+against magic. It also holds the<$FFFF>
+power to raise the wearer's spirit.<$FFFF>
+MP+5 /m.resist<$FFFF>
+A beautiful platinum crown set with<$FFFF>
+many gems. A masterwork of art, with<$FFFF>
+power to command others.<$FFFF>
+ATK+2 DEF+2<$FFFF>
+A circlet with a brow crystal.<$FFFF>
+Strong magic dwells in it, with more<$FFFF>
+magic resistance than a tiara.<$FFFF>
+DEF+1 MP+5 /m.resist<$FFFF>
+A sacred veil blessed by the gods,<$FFFF>
+shedding a mystic light. It bears<$FFFF>
+high resistance to certain magic.<$FFFF>
+DEF+1 ATK+2 DEF+2<$FFFF>
+Headgear worn by Eastern shinobi. It<$FFFF>
+hides the face while guarding the<$FFFF>
+head, with high defense.<$FFFF>
+DEF+3<$FFFF>
+A helm drawn out long at the back<$FFFF>
+like a tail. The chin is exposed,<$FFFF>
+but it is highly functional.<$FFFF>
+DEF+2<$FFFF>
+A helm covering the whole head and<$FFFF>
+face. High defense, but very heavy,<$FFFF>
+with poor vision.<$FFFF>
+DEF+3<$FFFF>
+A helm made of mithril silver, a<$FFFF>
+magic metal. High defense against<$FFFF>
+both weapons and magic.<$FFFF>
+DEF+3 /m.resist<$FFFF>
+A helm wrought with ghastly<$FFFF>
+adornment. So dreadful, they say,<$FFFF>
+that any who see it tremble.<$FFFF>
+DEF+3 INT+5 /crit up<$FFFF>
+A wondrous crystal that amplifies<$FFFF>
+its owner's magic. Many mages prize<$FFFF>
+it dearly.<$FFFF>
+Max MP+50%<$FFFF>
+An ancient pendant carved with a<$FFFF>
+magic circle. It raises a strong<$FFFF>
+barrier against enemy spells.<$FFFF>
+INT+5 /squad m.resist<$FFFF>
+A charm that grants its bearer<$FFFF>
+mystic power. Shaped like a weapon,<$FFFF>
+it promises a blessing in battle.<$FFFF>
+ATK+5 DEF+5<$FFFF>
+A horn heralding a war said to<$FFFF>
+engulf the world. Its sound rings to<$FFFF>
+every corner of the earth.<$FFFF>
+ATK+10 DEF+5<$FFFF>
+A ring carved with a skull weeping<$FFFF>
+tears of blood. It makes part of the<$FFFF>
+Immortal Lord's power yours.<$FFFF>
+AREA+2 MP+10 /m.res<$FFFF>
+The chain that bound the demon wolf<$FFFF>
+Fenrir. Made of strange stuff, it<$FFFF>
+holds many powers.<$FFFF>
+ATK+3 DEF+1 /squad m.res<$FFFF>
+A pure-white feather from an angel<$FFFF>
+in flight. With strong magic<$FFFF>
+resistance, called the finest charm.<$FFFF>
+ATK+3 DEF+5 /squad m.res<$FFFF>
+A pact with the King of Chaos,<$FFFF>
+written in blood. Strong magic<$FFFF>
+resistance, but weak to holy magic.<$FFFF>
+ATK+7 DEF+3 /squad m.res<$FFFF>
+An orb holding a flame that burns<$FFFF>
+ever without dying. It amplifies<$FFFF>
+magic and raises fire resistance.<$FFFF>
+RANGE+1 Max MP+50%<$FFFF>
+A charm said to be given by the Holy<$FFFF>
+King to the righteous. It grants<$FFFF>
+sacred power and strong will.<$FFFF>
+INT+15 DEF+8 /m.res<$FFFF>
+A holy cross blessed by the gods.<$FFFF>
+Its bearer's squad gains blessing.<$FFFF>
+Casts Turn Undead unfocused.<$FFFF>
+DEF+2<$FFFF>
+An ornament holding a strange power<$FFFF>
+that draws people in. Worn, it lets<$FFFF>
+you hire up to eight mercenaries.<$FFFF>
+　<$FFFF>
+A charm warded with spells against<$FFFF>
+ill fortune. It can also cast Resist<$FFFF>
+without focusing the mind.<$FFFF>
+squad m.resist<$FFFF>
+A ring carved with the rune of<$FFFF>
+warding. It grants mystic protection<$FFFF>
+and casts Protection 2 unfocused.<$FFFF>
+DEF+8<$FFFF>
+A ring carved with the rune of<$FFFF>
+strength. It grants explosive attack<$FFFF>
+and casts Attack 2 unfocused.<$FFFF>
+ATK+8<$FFFF>
+A platinum ear-stud shaped like a<$FFFF>
+star. It aids the wearer's focus and<$FFFF>
+curbs the drain on the spirit.<$FFFF>
+MP cost -25%<$FFFF>
+A ring said to be given by an angel<$FFFF>
+only to the pure of heart. It is<$FFFF>
+said to bring its bearer happiness.<$FFFF>
+HP+10 MP+10 INT+10<$FFFF>
+A ring set with a gem charged with<$FFFF>
+magic by the Spirit King. Said to<$FFFF>
+grant the power of every spirit.<$FFFF>
+ATK+5 DEF+5 /squad m.res<$FFFF>
+Thor's magic belt that lends<$FFFF>
+strength when cinched. It draws out<$FFFF>
+the wearer's might to the full.<$FFFF>
+STR+10%<$FFFF>
+A platinum bracelet by the famed<$FFFF>
+dwarf brothers. Said to spawn eight<$FFFF>
+more every ninth night.<$FFFF>
+DEF+3<$FFFF>
+A ring belonging to Laurin, king of<$FFFF>
+the fairies. Said to grant its<$FFFF>
+wearer an overflowing power.<$FFFF>
+HP+30<$FFFF>
+A necklace said to grant the power<$FFFF>
+to rule the world. It lets you hire<$FFFF>
+up to eight mercenaries.<$FFFF>
+ATK+8 DEF+5<$FFFF>
+An ankh made of crystal. Wards are<$FFFF>
+woven into it for protection from<$FFFF>
+every kind of ill.<$FFFF>
+DEF+5 /squad m.res<$FFFF>
+Greaves of tanned leather, made to<$FFFF>
+guard the legs.<$FFFF>
+DEF+1<$FFFF>
+　<$FFFF>
+Boots of plate, made to guard the<$FFFF>
+body from all attacks. They grant<$FFFF>
+high defense.<$FFFF>
+DEF+2<$FFFF>
+Wondrous magic boots. Worn, they<$FFFF>
+make your movements light. Left<$FFFF>
+behind by a mischievous fairy.<$FFFF>
+MOV+4 (squad)<$FFFF>
+A strange plant that grows in<$FFFF>
+lightless caves. Magic dwells in its<$FFFF>
+leaves, which give off a faint glow.<$FFFF>
+Restores 20 MP.<$FFFF>
+A secret stone inscribed with<$FFFF>
+ancient script. The writing has yet<$FFFF>
+to be deciphered.<$FFFF>
+On use...?<$FFFF>
+The divine wine the gods of Olympus<$FFFF>
+drink, said to grant eternal life.<$FFFF>
+Drink to gain 1 level.<$FFFF>
+　<$FFFF>
+A sweet-scented fruit eaten by the<$FFFF>
+gods of Olympus, said to grant<$FFFF>
+eternal life.<$FFFF>
+Eat to recruit +1 mercenary.<$FFFF>
+A seed holding a substance that<$FFFF>
+stirs the heart and rouses courage.<$FFFF>
+Eat for ATK +1.<$FFFF>
+　<$FFFF>
+A plant growing sparsely near<$FFFF>
+mountain peaks. Its leaf-extract in<$FFFF>
+the mouth heightens concentration.<$FFFF>
+Eat for DEF+1.<$FFFF>
+A golden apple of the heavens that<$FFFF>
+only the gods may eat, said to hold<$FFFF>
+much knowledge from ages past.<$FFFF>
+Eat for INT+1.<$FFFF>
+The fruit of a great tree on the<$FFFF>
+eastern island, holding a substance<$FFFF>
+that strengthens the sinews.<$FFFF>
+Eat for STR+1.<$FFFF>
+The fruit of a sacred tree the Earth<$FFFF>
+Goddess's priests revere. Eat it,<$FFFF>
+they say, for a sturdy body.<$FFFF>
+Eat for VIT+1.<$FFFF>
+The fruit of a plant charged with<$FFFF>
+magic by an enchanter. It heightens<$FFFF>
+the power to sense danger.<$FFFF>
+Eat for DEF+1.<$FFFF>
+A legendary secret stone said to be<$FFFF>
+carried by all those called heroes.<$FFFF>
+The finest warriors, they say, draw<$FFFF>
+great power from it.<$FFFF>
+A medal granted to those whose deeds<$FFFF>
+win them knighthood. Few knights on<$FFFF>
+the continent bear it. Best given to<$FFFF>
+a knight of honor.<$FFFF>
+A mysterious stone egg from<$FFFF>
+underground, thought a vanished<$FFFF>
+beast's egg. A skilled dragon rider<$FFFF>
+draws great power from it.<$FFFF>
+A secret spear manual handed down by<$FFFF>
+Scathach, a great witch-warrior.<$FFFF>
+Called the mightiest spear art, but<$FFFF>
+only a rare genius masters it.<$FFFF>
+Magic wings blessed by the god of<$FFFF>
+wind. Only the chosen may take them,<$FFFF>
+gaining the power to soar the wide<$FFFF>
+sky at will.<$FFFF>
+A secret manual said to be left by a<$FFFF>
+great thief. It holds every art of<$FFFF>
+thievery, but only the highly<$FFFF>
+skilled can master it.<$FFFF>
+The still-beating heart of a cursed<$FFFF>
+soul, torn from its body. Set it in<$FFFF>
+a dead rider's body, and its evil<$FFFF>
+power may even split the earth.<$FFFF>
+Dark magic water from a spring deep<$FFFF>
+in the demon world. Let a high demon<$FFFF>
+drink this blood-red water for<$FFFF>
+boundless power and magic.<$FFFF>
+Wraith's blood, radiating strong<$FFFF>
+negative life, touchable only by<$FFFF>
+spirits. Let a mighty spirit drink<$FFFF>
+it for ultimate spirit power.<$FFFF>
+A magic stone sealing the soul of an<$FFFF>
+ancient dragon said to rival the<$FFFF>
+gods in power. Give it to Bahamut,<$FFFF>
+they say, for boundless power.<$FFFF>
+A spellbook said to be written by<$FFFF>
+the great Holy King, holding all of<$FFFF>
+white magic. Its hidden depths take<$FFFF>
+much training to decipher.<$FFFF>
+The mark of a true saint. Only those<$FFFF>
+of deep faith who stake their lives<$FFFF>
+against the wicked are deemed worthy<$FFFF>
+by this symbol.<$FFFF>
+A forbidden book of the ultimate<$FFFF>
+black magic. Using it demands the<$FFFF>
+utmost will and focus, so only a<$FFFF>
+master can wield it.<$FFFF>
+A silver amulet carved with words of<$FFFF>
+power. It raises its bearer's magic<$FFFF>
+to the limit, but the unmastered<$FFFF>
+risk a shattered mind.<$FFFF>
+An arrow said to be used by Apollo,<$FFFF>
+the sun god. It gives a peaceful<$FFFF>
+death to those it strikes, but only<$FFFF>
+a master archer may even touch it.<$FFFF>
+A mystic arrow said to reveal the<$FFFF>
+future of its holder. Made for ease<$FFFF>
+on horseback, but hard to use unless<$FFFF>
+one is well trained.<$FFFF>
+This lovely gem is said to be the<$FFFF>
+tear of a mermaid heartbroken over a<$FFFF>
+human youth. A skilled marine can<$FFFF>
+draw out its hidden power.<$FFFF>
+A holy stone shedding rainbow light.<$FFFF>
+Blessed by the goddesses of fate, it<$FFFF>
+draws out the hidden talents of any<$FFFF>
+who hold it.<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the earth god. Give it to the hero<$FFFF>
+to unlock infantry-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the wind god. Give it to the hero to<$FFFF>
+unlock cavalry-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the god of light. Give it to the<$FFFF>
+hero to unlock priest-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the sky god. Give it to the hero to<$FFFF>
+unlock flying-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the water god. Give it to the hero<$FFFF>
+to unlock naval-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the thunder god. Give it to the hero<$FFFF>
+to unlock spear-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the god of trees. Give it to the<$FFFF>
+hero to unlock archer-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the fire god. Give it to the hero to<$FFFF>
+unlock mage-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the god of death. Give it to Jugler<$FFFF>
+to unlock spirit-type classes.<$FFFF>
+　<$FFFF>
+A rune sealing the power of an<$FFFF>
+ancient dragon. Give it to Jugler to<$FFFF>
+unlock dragon-type classes.<$FFFF>
+　<$FFFF>
+A rune carved with the blessing of<$FFFF>
+the god of darkness. Give it to<$FFFF>
+Jugler to unlock demon-type classes.<$FFFF>
+　<$FFFF>
+　<$FFFF>

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -22,151 +22,149 @@ Geier<$FFFF>
 Böser<$FFFF>
 Bortz<$FFFF>
 Monster<$FFFF>
-Reaper Grove<$FFFF>
+Necromancer Grove<$FFFF>
 Feraquea<$FFFF>
 Worm Master Rag<$FFFF>
- That's a secret!<$FFFE>
+That's a secret!<$FFFE>
 •No PC may die<$FFFE>
 Castle of Ordeal<$FFFF>
- This has to be the designated location.<$FFFE>
- I've been waiting for you, <$F600><$0000>! Welcome to the Castle of Ordeal.<$FFFD>Here you will be given the chance to show how powerful you truly are.<$FFFE>
- Wait a sec… There seem to be many familiar faces around, Generals from Barral and even Velzeria!<$FFFD>I kinda thought they would be resting a bit more peacefully right now.<$FFFE>
- This place is situated at the brink of space and time. We aren't identical to them. We exist simultaneously.<$FFFE>
- And since it was the ever so popular Altemüller who asked us to come, we couldn't turn him down.<$FFFD>Apart from that, we came up with a little tweak for this battle. Care to learn the details?<$FFFE>
- Have the rules explained?<$FFFE>
- To make this more fun for everyone, we decided to take some of your companions hostage.<$FFFE>
- If you defeat me, Luna and Sophia will rejoin you.<$FFFE>
- I am guarding Dios and Freya.<$FFFE>
- Kirikaze and that obnoxious sorceress will be release once you've shown me your power.<$FFFE>
- Finally, if you should be able to best me, I will release Tiaris and Liffany.<$FFFD>Quiet the extraordinary battle, no?<$FFFE>
- In addition to that, you will be judged unworthy if even one of your companions is incapacitated during battle.<$FFFE>
- How is it? Are those minor diversifications to your liking?<$FFFE>
- Understood.<$FFFC>Let's get started right away!<$FFFE>
-An explanation won't be necessary. Let's get this battle started right away!<$FFFE>
- Very well! Prove your worthiness, if you can!<$FFFE>
- Let's do this! Tiaris, Liffany!<$FFFE>
- OK! I will give it my all! 2<$05ED> percent Tia Power!<$FFFE>
- I am curious, are those enemies really as tough as they look? Only practical field studies in destructive magic will get me results!<$FFFE>
- Well then, this is our opportunity to strike back! Luna, Sophia let's go!<$FFFE>
- Yessir!<$FFFE>
- Understood!<$FFFE>
- Are you alright, Freya?<$FFFE>
- Thank you. I'm fine now, <$F600><$0000>.<$FFFD>Well then, Dios! Let us join the fight together!<$FFFE>
- With pleasure!<$FFFE>
- Even the slightest mistake could be fatal. We mustn't allow ourselves to take unnecessary risks.<$FFFE>
- Well said!<$FFFE>
- Hmph. I am slightly impressed, they put up a decent fight so far.<$FFFE>
- Well done, <$F600><$0000>. I had hoped you would make it.<$FFFD>However, to complete your triumph you will have to take me on personally.<$FFFE>
- Of course. This is what I've been looking forward to, all along!<$FFFE>
- So you've made it this far already… But this is were your advance comes its end!<$FFFE>
- You have yet to disappoint me, <$F600><$0000>. But this is the end of the line for you!<$FFFE>
- You discover a switch on the throne.<$FFFE>
- Do you want to push it?<$FFFE>
- The throne slides to the side revealing an entrance to a hidden basement.<$FFFD>Upon investing the basement you come across a huge doll made of metal.<$FFFE>
- What do you do?<$FFFE>
+This must be the place<$FFFC>we were told to gather.<$FFFE>
+I've been waiting for<$FFFC>you, <$F600><$0000>!<$FFFC>Welcome to the Castle of<$FFFC>Ordeal.<$FFFD>Here you will be given<$FFFC>the chance to show how<$FFFC>powerful you truly are.<$FFFE>
+But wait just a moment…<$FFFC>why are there people of<$FFFC>Barral and of Velzeria<$FFFC>here?<$FFFD>Aren't they all supposed<$FFFC>to have died a long time<$FFFC>ago?<$FFFE>
+This place lies outside<$FFFC>the flow of space and<$FFFC>time. Here, we all exist<$FFFC>at once.<$FFFE>
+Altemüller by himself<$FFFC>would find you a hard<$FFFC>match, so We too shall<$FFFC>lend a hand.<$FFFD>Furthermore, the rules<$FFFC>here are Ours alone to<$FFFC>set. Care to hear them?<$FFFE>
+Have the rules<$FFFC>explained?<$FFFE>
+To make the game a touch<$FFFC>more amusing, We have<$FFFC>taken hostages from your<$FFFC>ranks.<$FFFE>
+If you defeat me, Luna<$FFFC>and Sophia will rejoin<$FFFC>you.<$FFFE>
+I am guarding Dios and<$FFFC>Freya.<$FFFE>
+And I am the very one<$FFFC>who holds both Kirikaze<$FFFC>and that woman sorceress<$FFFC>of yours.<$FFFE>
+Finally, if you should<$FFFC>be able to best me, I<$FFFC>will release Tiaris and<$FFFC>Liffany.<$FFFD>though We scarcely think<$FFFC>you can defeat Us.<$FFFE>
+And if even one<$FFFC>of you is struck down,<$FFFC>that is the moment you<$FFFC>lose.<$FFFE>
+Well now? The game is<$FFFC>starting to grow rather<$FFFC>fun, is it not?<$FFFE>
+Understood. Let's get<$FFFC>started right away!<$FFFE>
+We don't need to hear<$FFFC>your rules! Let's just<$FFFC>get this battle started<$FFFC>right now!<$FFFE>
+Very well! Prove your<$FFFC>worthiness, if you can!<$FFFE>
+Let's do this! Tiaris,<$FFFC>Liffany!<$FFFE>
+Okay! Just leave it all<$FFFC>to me!<$FFFE>
+I have plenty of magic<$FFFC>left in me still. Let's<$FFFC>smash through them all<$FFFC>at once!<$FFFE>
+Well then, this is our<$FFFC>opportunity to strike<$FFFC>back! Luna, Sophia let's<$FFFC>go!<$FFFE>
+Yessir!<$FFFE>
+Understood!<$FFFE>
+Are you alright, Freya?<$FFFE>
+Thank you. I'm fine now,<$FFFC><$F600><$0000>.<$FFFD>Well then, Dios! Let's<$FFFC>join the fight together!<$FFFE>
+With pleasure!<$FFFE>
+We cannot afford to drop<$FFFC>our guard. Steel your<$FFFC>hearts and fight on with<$FFFC>care!<$FFFE>
+Well said!<$FFFE>
+Hmph. Just the thought<$FFFC>of cutting loose with<$FFFC>all my strength sets me<$FFFC>ablaze.<$FFFE>
+Well done,<$FFFC><$F600><$0000>. I had<$FFFC>hoped you would make it.<$FFFD>But you haven't truly<$FFFC>won until you defeat me<$FFFC>yourself.<$FFFE>
+Of course. Let me show<$FFFC>you just how strong I<$FFFC>have grown!<$FFFE>
+So you have come this<$FFFC>far already… But here<$FFFC>is where your advance<$FFFC>ends!<$FFFE>
+You came this far,<$FFFC><$F600><$0000>.<$FFFC>Impressive. But<$FFFC>go no further!<$FFFE>
+You discover a switch<$FFFC>on the throne.<$FFFE>
+Do you want to push it?<$FFFE>
+The instant the switch<$FFFC>is pressed, the throne<$FFFC>slides aside, revealing<$FFFC>a cellar below.<$FFFD>A colossal doll, forged<$FFFC>entirely out of metal,<$FFFC>stands within that<$FFFC>cellar.<$FFFE>
+What do you do?<$FFFE>
 Attack it <$FFFE>
-Trigger the switch again<$FFFE>
-Inspect the doll more closely <$FFFE>
- The doll doesn't resist much. Congrats, you have defeated a piece of armor…<$FFFE>
- You push the button again and the throne goes back into his original position.<$FFFD>Somehow the switch has been jammed…<$FFFE>
-While investigating the doll's chest you discover a seat.<$FFFD>After some experimenting you realize that you can control the doll from here.<$FFFE>
- Assault Suit was obtained!<$FFFE>
- The carpet seems to be loose at this spot.<$FFFD>When you lift the carpet, a simple safe comes into sight.<$FFFD>The numbers 3,5,6,9 and 0 are available on it .<$FFFE>
- Do you want to try and put in a code?<$FFFE>
- First number?<$FFFE>
+Press it again<$FFFE>
+Check its chest<$FFFE>
+When struck, the doll<$FFFC>spews oil all over and<$FFFC>breaks. The metal doll<$FFFC>is beaten.<$FFFE>
+You press the switch yet<$FFFC>again, and the throne<$FFFC>slides back to its old<$FFFC>place.<$FFFD>And from that moment on,<$FFFC>the switch will not stir<$FFFC>again…<$FFFE>
+As you examine the great<$FFFC>doll's chest, you come<$FFFC>upon a seat set within<$FFFC>it.<$FFFD>Once you sit down in it,<$FFFC>you find you can move<$FFFC>the great doll.<$FFFE>
+Acquired the Assault<$FFFC>Suit!<$FFFE>
+Here alone the carpet<$FFFC>has been cut away, so<$FFFC>that it can be peeled<$FFFC>back.<$FFFD>Lift the carpet aside,<$FFFC>and a small safe lies<$FFFC>hidden beneath.<$FFFD>The only digits on the<$FFFC>safe are 3, 5, 6, 9<$FFFC>and 0.<$FFFE>
+Do you want to try and<$FFFC>put in a code?<$FFFE>
+First number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- It seems like this was the wrong number…<$FFFE>
- Taking a closer look, you notice a message written on it.<$FFFD>It's a memo. "Don't give up, you can try as many times as you like!"<$FFFE>
- Second number?<$FFFE>
+It seems like this was<$FFFC>the wrong number…<$FFFE>
+On closer inspection, it<$FFFC>seems to read 'wired<$FFFC>comm device number'.<$FFFD>There is a memo as well.<$FFFC>'Fail as often as you<$FFFC>like, it's totally fine<$FFFC>here!'<$FFFE>
+Second number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- Third number?<$FFFE>
+Third number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- Fourth number?<$FFFE>
+Fourth number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- Fifth number?<$FFFE>
+Fifth number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- Sixth number?<$FFFE>
+Sixth number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- Seventh number?<$FFFE>
+Seventh number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- Last number?<$FFFE>
+Last number?<$FFFE>
 3<$FFFE>
 5<$FFFE>
 6<$FFFE>
 9<$FFFE>
 0<$FFFE>
- The safe opens and reveals its content.<$FFFE>
- Necklace of the Hegemon was obtained!<$FFFE>
- I overestimated myself…<$FFFE>
- I stand no chance…<$FFFE>
- What a shame…<$FFFE>
- Ridiculous!<$FFFE>
- I can't keep this up anymore!<$FFFE>
- This is tiresome…<$FFFE>
- S-so strong…<$FFFE>
- Lady Lushiris…<$FFFE>
- No match for the younger ones…<$FFFE>
- Guuaarghh!<$FFFE>
- Damn! This Scenario is an outrage!<$FFFE>
- No good.<$FFFC>We can't win without regrouping!<$FFFE>
- Aahh… The blue sky…<$FFFE>
- Regrettable…<$FFFE>
- That was unfair…<$FFFE>
- Let's see if you can withstand my blade!<$FFFE>
- Magnificent, <$F600><$0000>… I had no idea you had grown this strong…<$FFFE>
- Altemüller's request has been fulfilled.<$FFFE>
- Yes. Let us return to Elthlead.<$FFFE>
- M-my body is crumbling…<$FFFE>
- It was a true pleasure crossing blades with you, <$F600><$0000>…<$FFFE>
- Arrghh! They didn't neglect their training…that's good…<$FFFE>
- Uarrggh! I will return…<$FFFE>
- Slooow, WAY TOO SLOW! This has been taking forever!<$FFFE>
- I am sorry, Tiaris. Getting this far wasn't exactly a walk in the park, I tell you.<$FFFD>Anyway, I am glad to see you save too, Liffany.<$FFFE>
- Thanks for liberating us. I was a bit concerned, but it also was kinda enjoyable to just watch for once.<$FFFE>
- I see. In that case I hope you don't mind, joining the fun from here on out.<$FFFE>
- I, defeated by mere commoners!?<$FFFC>W-why!?<$FFFE>
- Luna! Sophia! Are you alright?<$FFFE>
- Thank you, I am well. Once again you saved me from a perilous situation.<$FFFE>
- No injuries to report. I am ready for battle anytime!<$FFFE>
+A click sounds, the lock<$FFFC>gives way, and the safe<$FFFC>swings open.<$FFFE>
+Acquired the Hegemon<$FFFC>Necklace!<$FFFE>
+I overestimated myself…<$FFFE>
+I stand no chance…<$FFFE>
+What a shame…<$FFFE>
+Ridiculous!<$FFFE>
+At this rate, there's<$FFFC>no way I can keep this<$FFFC>up!<$FFFE>
+I am utterly powerless…<$FFFE>
+S-so strong…<$FFFE>
+Lady Lushiris…<$FFFE>
+No match for the younger<$FFFC>ones…<$FFFE>
+Guuaarghh!<$FFFE>
+Damn! It's no contest!<$FFFE>
+No good. We can't win<$FFFC>without regrouping!<$FFFE>
+Aahh… The blue sky…<$FFFE>
+Such regret…<$FFFE>
+No chance of winning…<$FFFE>
+Let's see just how long<$FFFC>you can hold out against<$FFFC>me!<$FFFE>
+Magnificent,<$FFFC><$F600><$0000>… I had<$FFFC>no idea you had grown<$FFFC>this strong…<$FFFE>
+This grants Altemüller<$FFFC>his wish as well.<$FFFE>
+Yes. Let's head back to<$FFFC>Elthlead.<$FFFE>
+M-my body is<$FFFC>crumbling…<$FFFE>
+It was a true delight to<$FFFC>cross blades with you,<$FFFC><$F600><$0000>…<$FFFE>
+Damn it all! They really<$FFFC>are strong, I'll give<$FFFC>them that…<$FFFE>
+Gwah! I-impossible…<$FFFE>
+Too slow, far too slow!<$FFFC>I have been waiting here<$FFFC>forever!<$FFFE>
+Forgive me, Tiaris, for<$FFFC>putting you through such<$FFFC>a fright.<$FFFD>Tell me, is Liffany safe<$FFFC>and unharmed?<$FFFE>
+I am perfectly fine. It<$FFFC>was a little scary, but<$FFFC>I truly rather enjoyed<$FFFC>it.<$FFFE>
+I see. That brings me<$FFFC>real relief to hear.<$FFFE>
+To think We would lose<$FFFC>to mere commoners?!<$FFFC>W-why?!<$FFFE>
+Luna!<$FFFC>Sophia! Are you<$FFFC>alright?<$FFFE>
+Thank you so very much.<$FFFC>You truly saved my life.<$FFFE>
+I am perfectly fine as<$FFFC>well. I can return to<$FFFC>battle at once!<$FFFE>
 ZAPP!<$FFFE>
-You have acquired great strength. Use it to protect those dear to you…<$FFFE>
- Overpowered by humans again…how…peculiar… .<$FFFE>
- Are you two okay?<$FFFE>
- This blade is as sharp as ever!<$FFFE>
- I am fine as well. After having to watch until now, I am looking forward to participate!<$FFFE>
- Kyaaahh! This is getting on my bones!<$FFFE>
- Uuuh… You're still as naughty as always…<$FFFE>
- You humans fight like demons…act suitably already…<$FFFE>
-ZAPP!<$FFFE>
-ZAPP!<$FFFE>
+You have grown so very<$FFFC>strong. I leave Layla in<$FFFC>your care…<$FFFE>
+To think I'd be beaten<$FFFC>by lowly humans…<$FFFE>
+Are you two okay?<$FFFE>
+No need to worry!<$FFFE>
+I'm fine as well. Let's<$FFFC>go help the others now!<$FFFE>
+Kyaaah! Beaten by you<$FFFC>wretches once<$FFFC>again?!<$FFFE>
+Uuuh… Done in once<$FFFC>more…<$FFFE>
+Curse you, mere humans…<$FFFE>
 ZAPP!<$FFFE>
 ZAPP!<$FFFE>
 ZAPP!<$FFFE>
@@ -180,4 +178,6 @@ ZAPP!<$FFFE>
 ZAPP!<$FFFE>
 ZAPP!<$FFFE>
 ZAPP!<$FFFE>
-ZAPP!<$FFFE> 
+ZAPP!<$FFFE>
+ZAPP!<$FFFE>
+ZAPP!<$FFFE><$FFFF>

@@ -27,9 +27,9 @@ Resist<$FFFF>
 Heal 1<$FFFF>
 Heal 2<$FFFF>
 Heal 3<$FFFF>
-Forceheal 1<$FFFF>
-Forceheal 2<$FFFF>
-Forceheal 3<$FFFF>
+Force Heal 1<$FFFF>
+Force Heal 2<$FFFF>
+Force Heal 3<$FFFF>
 Teleport<$FFFF>
 Random<$FFFF>
 High Elf<$FFFF>
@@ -53,5 +53,5 @@ Lord of Chaos<$FFFF>
 Hell Master<$FFFF>
 Dragon Lord<$FFFF>
 Builder<$FFFF>
-Magical Cannon<$FFFF>
-Magical Cannon<$FFFF>
+Magic Cannon<$FFFF>
+Magic Cannon<$FFFF>

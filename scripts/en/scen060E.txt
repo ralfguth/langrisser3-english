@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -23,43 +23,43 @@ Barral Commander<$FFFF>
 Rigüler Commander<$FFFF>
 Adjutant Gates<$FFFF>
 General Geier<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-10<$FFFC><$0000>Ceremony of Scorching Heat<$0000><$FFFE>
- While Lord Raymond and General Bortz engage in battle, General Geier sets out to conquer the City of Laffel, which still is occupied by the Barral Kingdom.<$FFFE>
- At the same time, having defeated Do Kahni and Kah Shind, <$F600><$0000>'s division at last sets foot into the cavern that is the Shika Tribe's home.<$FFFE>
- As the evening turns to night and the full moon rises, a gruesome ceremony begins.<$FFFE>
-Within 19 turns,<$FFFC> defeat Keh Shikairo<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐１０<$FFFC><$0000>Ceremony of Scorching Heat<$0000><$FFFE>
+Lord Raymond battled General<$FFFC>Bortz, while General Geier set<$FFFC>out to retake Laffel, now held<$FFFC>by the Barral army.<$FFFE>
+Around the same time, having<$FFFC>defeated Do Kahni and Kah Shind,<$FFFC><$F600><$0000>'s party at last<$FFFC>set foot in the cavern, the<$FFFC>Shika Tribe's stronghold.<$FFFE>
+Tonight, beneath the full moon,<$FFFC>is the very night the ritual<$FFFC>takes place.<$FFFE>
+Within 19 turns, defeat Keh<$FFFC>Shikairo<$FFFE>
 Death of <$F600><$0000><$FFFC>Death of Sophia<$FFFE>
-Laffel - Currently occupied by the Barral Kingdom<$FFFF>
- Uuuuuuh,hick! It's no use, no use…<$FFFE>
- Hick!…I am as good as dead.<$FFFD>From the start, it was hopeless to fight against an airship fleet…<$FFFE>
- To make things worse that Dark Knight character isn't exactly known for his forgiveness!<$FFFD>Shit!<$FFFB>What is the world coming too…<$FFFE>
- …Hey.<$FFFE>
- Yes, Sir Dark Knight…<$FFFE>
- …Where is the keeper?<$FFFE>
- Hick!<$FFFB>…Yeaas.<$FFFE>
- Hey, you drunken bastard.<$FFFD>What the hell is going on here?<$FFFE>
- It's no use, riight? We hick stand no chance against that airship…<$FFFD>We…we have been defeated…<$FFFB>Hick!<$FFFE>
- So that's why you've been drinking…<$FFFE>
- Guhah!<$FFFE>
- Hick!<$FFFE>
- T, to think you'd kill him…<$FFFE>
- …Such incompetence is intolerable. I am in command from now on.<$FFFE>
+Laffel, Barral Territory<$FFFF>
+Uuuuuuh, hic! It's no<$FFFC>use, no use…<$FFFE>
+Hic!…It's all over.<$FFFD>From the start, taking<$FFFC>on an airship fleet was<$FFFC>hopeless…<$FFFE>
+And now some creepy thug<$FFFC>called the Dark Knight<$FFFC>is throwing his weight<$FFFC>around!<$FFFD>Tch!<$FFFB><$FFFC>What a rotten world this<$FFFC>has become!<$FFFE>
+…Hey.<$FFFE>
+Yes, Sir Dark Knight…<$FFFE>
+…Where is the keeper?<$FFFE>
+Hic!<$FFFB>…Yeaas.<$FFFE>
+Hey, you drunken sot.<$FFFD>What's going on here?<$FFFE>
+What can we do? The<$FFFC>enemy has airships…<$FFFD>We'll lose either way.<$FFFB><$FFFC>Hic!<$FFFE>
+So that is why you have<$FFFC>been drinking…<$FFFE>
+Guhah!<$FFFE>
+Hic!<$FFFE>
+You… killed him…<$FFFE>
+…I have no use for the<$FFFC>incompetent. From now<$FFFC>on, I take command.<$FFFE>
 …<$FFFE>
- Prepare the ballistas and some oil, after that assemble the remaining soldiers.<$FFFE>
- Y…yessir!<$FFFE>
- So you are the Aide de camp of that deserted coward Dios. …I have a special mission for you.<$FFFE>
- East of here is a shrine that enshrines a sacred beast with unusual powers.<$FFFE>
- If that beast joins forces with the Larcuss remnants, it will be troublesome. Find and kill it before they do.<$FFFE>
- R, right now? But the defense of this place…<$FFFE>
-No one expects anything from the likes of you. Be grateful you were given a mission at all.<$FFFE>
- ……<$FFFE>
- The rest of you, take bows and ropes and follow me!<$FFFE>
- …That Dark Knight!<$FFFE>
- If only General Dios were here at a time like this…<$FFFE>
+Go ready the ballistas<$FFFC>and the oil. Then summon<$FFFC>the remaining flyers.<$FFFE>
+Y-yessir!<$FFFE>
+So you're the adjutant<$FFFC>General Dios cast aside.<$FFFC>…I have a mission for<$FFFC>you.<$FFFE>
+East of here stands a<$FFFC>shrine honoring a sacred<$FFFC>beast of strange power.<$FFFE>
+If it joins the Larcuss<$FFFC>remnants, that means<$FFFC>trouble. Hunt it down<$FFFC>and kill it first.<$FFFE>
+R-right now? But who<$FFFC>guards this place…<$FFFE>
+No one expects a thing<$FFFC>from the likes of you.<$FFFC>Be grateful you're given<$FFFC>a mission at all.<$FFFE>
+……<$FFFE>
+The rest of you, take<$FFFC>up bows and ropes and<$FFFC>follow me!<$FFFE>
+…That Dark Knight!<$FFFE>
+If only General Dios<$FFFC>were here at a time<$FFFC>like this…<$FFFE>
 Deck of the Rigüler Airship<$FFFF>
- Adjutant!<$FFFD>He has come! The Dark Knight has taken command over the enemy's forces!<$FFFE>
- Well done.<$FFFE>
- Sir Geier…<$FFFE>
- Heh heh heh… I've been waiting far too long.<$FFFE>
- Commence an all out attack!<$FFFD>Those fools are just prolonging the inevitable, victory is as good as ours!<$FFFE>
- Yeaahhh!<$FFFE>
+Adjutant!<$FFFD>He's here! The Dark<$FFFC>Knight has finally shown<$FFFC>himself!<$FFFE>
+Well done.<$FFFE>
+Sir Geier…<$FFFE>
+Heh heh heh… you have<$FFFC>kept me waiting far too<$FFFC>long.<$FFFE>
+Don't let up the attack!<$FFFD>However he struggles,<$FFFC>our victory cannot be<$FFFC>shaken!<$FFFE>
+Yeaahhh!<$FFFE>

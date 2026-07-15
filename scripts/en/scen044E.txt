@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -20,9 +20,9 @@ High Priest<$FFFF>
 Layla<$FFFF>
 Soldier<$FFFF>
 Sir Gerold<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-02<$FFFC><$0000><$0000><$0000><$0000>Madness in Laffel<$0000><$0000><$0000><$0000><$FFFE>
-By Marshal Altemüller's scheme,<$FFFC>the Floating Castle fell.<$FFFC>The young knight and his party<$FFFC>barely escaped, fleeing to the <$FFFC>city of Laffel.<$FFFE>
-If they could secure aid from<$FFFC>their ally, Barral Kingdom,<$FFFC>fighting the Empire might<$FFFC>still be possible. Yet war<$FFFC>had already reached Laffel too.<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐０２<$FFFC><$0000><$0000><$0000><$0000>Madness in Laffel<$0000><$0000><$0000><$0000><$FFFE>
+Altemüller's scheme brought the<$FFFC>Floating Castle crashing down.<$FFFC>The young knight and his party<$FFFC>barely escaped, and made their<$FFFC>way to the city of Laffel.<$FFFE>
+If they could win the aid of<$FFFC>their ally, Barral Kingdom,<$FFFC>they might still stand against<$FFFC>the Empire. But the war had<$FFFC>already reached Laffel too.<$FFFE>
 *Victory Conditions<$FFFC>•Destroy all enemies.<$FFFC>•Layla and Tiaris must reach <$FFFC><$0000>the south edge with <$FFFC> <$F600><$0000>.<$FFFE>
 *Defeat Conditions<$FFFC>•Death of <$F600><$0000>.<$FFFC>•Death of Layla.<$FFFE>
 Church of Laffel<$FFFF>
@@ -31,7 +31,7 @@ Your Reverence.<$FFFC>Thank you very much.<$FFFE>
 Your Reverence.<$FFFB><$FFFC>How is Gerold doing?<$FFFE>
 I have done all that I<$FFFC>could…<$FFFD>Truthfully,<$FFFC>it is a miracle that he<$FFFC>is still alive at all.<$FFFE>
 But he'll live…?<$FFFE>
-He has, at most, but <$FFFC>days to live.<$FFFE>
+He has only a few days<$FFFC>left to live, at most…<$FFFE>
 He'll pull through…<$FFFC>I know he will.<$FFFE>
 Emergency!<$FFFE>
 The enemy! An attack!<$FFFC>Citizens, evacuate at<$FFFC>once!<$FFFE>
@@ -39,30 +39,30 @@ What?<$FFFC>Then I can't stand here<$FFFC>any longer!<$FFFE>
 The enemy is here?<$FFFB><$FFFC>The Empire has caught up<$FFFC>to us fast…<$FFFE>
 We have an emergency!<$FFFC>Enemy troops are about<$FFFC>to invade Laffel!<$FFFE>
 Oh no!<$FFFE>
-We must hurry to make <$FFFC>preparations for leaving<$FFFC>as soon as we can!<$FFFE>
-Yes!<$FFFB><$FFFC>Tiaris we must do our <$FFFC>part too!<$FFFE>
-Okay…<$FFFC><$F600><$0000>,please<$FFFC>hurry too.<$FFFE>
-Wait… <$F600><$0000>.<$FFFE>
+We need to hurry up and<$FFFC>get ready to leave right<$FFFC>away!<$FFFE>
+Yes!<$FFFB><$FFFC>Tiaris, you must help<$FFFC>out here as well!<$FFFE>
+Okay…<$FFFC><$F600><$0000>, please<$FFFC>hurry too.<$FFFE>
+Wait…<$FFFC><$F600><$0000>.<$FFFE>
 Gerold!?<$FFFC>How are you feeling?<$FFFE>
 Did the enemy attack?<$FFFE>
 Yes.<$FFFE>
-You have to leave me and<$FFFC>get away from here…<$FFFE>
-What are you saying,<$FFFC>Gerold!?<$FFFE>
-I know my own state.<$FFFC>This wound…<$FFFC>I won't last long…<$FFFE>
-I won't be a burden.<$FFFC>Leave me here and go.<$FFFE>
-Larcuss's forces may not<$FFFC>hold here.<$FFFC>Flee before it falls.<$FFFE>
+Leave me behind…<$FFFC>and run.<$FFFE>
+What are you saying now,<$FFFC>Gerold!?<$FFFE>
+I know my own body<$FFFC>best. With this wound…<$FFFC>I don't have long…<$FFFE>
+I don't want to be a<$FFFC>burden. Leave me here<$FFFC>and go.<$FFFE>
+With the forces Larcuss<$FFFC>has left, this city may<$FFFC>fall too. Get out before<$FFFC>that happens.<$FFFE>
 Gerold!<$FFFE>
-<$F600><$0000>…<$FFFC>Become a great knight.<$FFFC>The greatest, knight <$FFFC>in the land.<$FFFE>
-Consider that your way <$FFFC>of repaying me.<$FFFC>And then…<$FFFC>Take Laffel back.<$FFFE>
-Understood, Gerold…<$FFFC>I'll become a great <$FFFC>knight and return here.<$FFFE>
-I'll gather troops and<$FFFC>return to take back<$FFFC>Laffel for you and<$FFFC>Layla.<$FFFE>
+<$F600><$0000>…<$FFFC>Become a great knight.<$FFFC>The finest, most honored<$FFFC>knight in all the land.<$FFFE>
+That's how you can<$FFFC>repay me. And then…<$FFFC>take this city…<$FFFC>take Laffel back.<$FFFE>
+I understand, Gerold…<$FFFC>I'll be a great knight<$FFFC>and return here to you.<$FFFE>
+I'll raise an army and<$FFFC>win back Laffel for you<$FFFC>and Layla.<$FFFE>
 Take care of Layla…<$FFFE>
 Miss Layla!?<$FFFE>
 …<$FFFB>Were you listening?<$FFFE>
 Gerold, I…<$FFFE>
-I beg you, Layla.<$FFFB><$FFFC>You were to be my wife.<$FFFD>You must be strong…<$FFFD>This is my last wish…<$FFFC>Flee with <$F600><$0000>, so <$FFFC>I may rest easy.<$FFFE>
-Yeah…<$FFFB><$FFFC>Grant me one wish too.<$FFFD>You must live, Gerold.<$FFFC>You have to come<$FFFC>back to me…<$FFFE>
+I beg you, Layla.<$FFFB><$FFFC>You chose to be<$FFFC>a knight's wife.<$FFFD>You must have known<$FFFC>this day might come…<$FFFD>It's my last request.<$FFFC>Leave this place with<$FFFC><$F600><$0000>,<$FFFC>so I can stop worrying!<$FFFE>
+Yes…<$FFFB><$FFFC>Grant me one wish too.<$FFFD>You must live, Gerold.<$FFFC>Promise you'll come back<$FFFC>to me again…<$FFFE>
 I will…<$FFFE>
 …<$FFFE>
-Hmph…<$FFFC>There's no time. Now go,<$FFFC><$F600><$0000>.<$FFFE>
+Heh…<$FFFC>There's no time. Now go,<$FFFC><$F600><$0000>.<$FFFE>
 I'm counting on you,<$FFFC><$F600><$0000>…<$FFFE> 

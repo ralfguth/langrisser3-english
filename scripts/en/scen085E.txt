@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -21,49 +21,49 @@ Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
 Elthlead Soldier<$FFFF>
 General Emerick<$FFFF>
-Before the Ramparts of the Elthlead Royal capital, Larcussia<$FFFF>
- So that's the power of the aerial fortress I've heard from the rumors…<$FFFE>
- It is quite dangerous because it can attack from the sky. Even our aerial units are sorely pressed.<$FFFE>
- Looks like we crossed paths with the mobile division.<$FFFE>
- At that time, if this aerial fortress had made it in time, we would have been saved a lot of unnecessary trouble.<$FFFE>
- No matter. Now, just a little longer. Do not let our attack slacken!<$FFFE>
- L…lord Altemüller!<$FFFE>
- What's wrong, Varna?<$FFFE>
- Monsters!? Gah, at this kind of time!<$FFFE>
- King Sieghart! Monsters…<$FFFE>
- Monsters?<$FFFE>
- I'd foreseen this would happen sooner or later…but the timing is terrible!<$FFFE>
- No, in this situation it looks like our army will profit.<$FFFE>
- Because of the monsters, the Empire's aerial fortress will reduce the number of attacks it makes on us.<$FFFE>
- The aerial fortress…<$FFFE>
- At this rate, the fortress might fall!<$FFFE>
- …But we came this far!<$FFFE>
- Cease and withdraw! We will recoup our losses, and return again!<$FFFE>
-Elthlead Royal capital, Larcussia Audience Hall<$FFFF>
- Somehow they seem to have been driven off.<$FFFE>
- Indeed. I never thought the day the Lushiris Gate became useless would come this soon.<$FFFE>
-We've got a problem, King Sieghart!<$FFFE>
- What's the matter?<$FFFE>
- Countless monsters have infested the border region, causing damage everywhere!<$FFFE>
- In that case, let's send out our mobile division. We must stop them before the damage gets out of hand!<$FFFE>
- Yes, sir! It shall be as you command.<$FFFE>
- Sir Kirikaze, I have a favor to ask.<$FFFE>
- What might you ask of me?<$FFFE>
- I would like you to go to Lady Jessica and discover how the monsters have been able to invade this deeply.<$FFFE>
- As you command.<$FFFE>
-Imperial Base along the Rigüler - Elthlead Borderline<$FFFF>
- I can't believe these monsters came… I didn't think that Velzeria would start a war.<$FFFE>
- Velzeria, the Kingdom of Demons. Do they plan on ending the age of man?<$FFFE>
- Foul news, Your Excellency!<$FFFE>
- What's happened? Your face has become grim.<$FFFE>
- It's imperative that we return to the capital! The Kaiser, the Kaiser has passed away!<$FFFE>
- Kleist IV…dead!?<$FFFE>
- The national funeral rites are being held the day after tomorrow. Please, let us return to the Imperial capital with all haste.<$FFFE>
- Uncle… This happened much too quickly…<$FFFE>
- Your Excellency, you think he was poisoned after all?<$FFFE>
- I can't say for certain. But if so, I will never forgive that damnable Paul…<$FFFE>
- Very well, Varna, let's return to the Imperial capital!<$FFFE>
- Yes, sir!<$FFFE>
- Emerick, I will trust you and Geier to manage things in our absence.<$FFFE>
- We don't know when Velzeria's monsters might strike again.<$FFFE>
- I will see that they stay on the other side of our border!<$FFFE>
+Larcussia Ramparts<$FFFF>
+So that's the power of<$FFFC>the Sky Fortress I had<$FFFC>heard rumors of…<$FFFE>
+An attack from the sky<$FFFC>is a hard thing to bear.<$FFFC>Our air troops struggle<$FFFC>as well.<$FFFE>
+We must've just missed<$FFFC>the mobile division.<$FFFE>
+If it had come in time,<$FFFC>we'd have been spared<$FFFC>all this wasted effort.<$FFFE>
+No matter. We're almost<$FFFC>there now.<$FFFC>Don't let up the attack!<$FFFE>
+L-lord Altemüller!<$FFFE>
+What's wrong, Varna?<$FFFE>
+Monsters?! Tch, at such<$FFFC>a time!<$FFFE>
+King Sieghart!<$FFFC>Monsters…<$FFFE>
+Monsters?<$FFFE>
+I knew this would come<$FFFC>before long… but the<$FFFC>timing is awful!<$FFFE>
+No. In this situation,<$FFFC>our army stands to gain.<$FFFE>
+Thanks to the monsters,<$FFFC>the enemy Sky Fortress<$FFFC>has eased its attacks.<$FFFE>
+The Sky Fortress…<$FFFE>
+The fortress may fall!<$FFFE>
+…But we came this far!<$FFFE>
+No choice. Retreat! We<$FFFC>regroup and return!<$FFFE>
+Audience Hall<$FFFF>
+We've driven them off.<$FFFE>
+Indeed. I never dreamed<$FFFC>the Lushiris Gate would<$FFFC>fail us so soon.<$FFFE>
+King Sieghart, we have<$FFFC>an emergency!<$FFFE>
+What's the matter?<$FFFE>
+Countless monsters have<$FFFC>swept the border region,<$FFFC>causing harm everywhere!<$FFFE>
+Send the mobile troops<$FFFC>at them. Stop the harm<$FFFC>before it spreads more!<$FFFE>
+Yes, sir! As you<$FFFC>command.<$FFFE>
+I've a favor, Kirikaze.<$FFFE>
+Ask whatever you wish.<$FFFE>
+Go to Lady Jessica. Find<$FFFC>out why these monsters<$FFFC>invaded so deeply.<$FFFE>
+As you command.<$FFFE>
+Rigüler Border HQ<$FFFF>
+To think the monsters…<$FFFC>that Velzeria would<$FFFC>enter the war on us.<$FFFE>
+Velzeria, the forbidden<$FFFC>continent of demons.<$FFFC>Do they mean to seize<$FFFC>the world of man?<$FFFE>
+Your Excellency! It's<$FFFC>terrible news!<$FFFE>
+What's wrong? Your face<$FFFC>has gone pale.<$FFFE>
+Return to the capital<$FFFC>at once! The Kaiser has<$FFFC>passed away!<$FFFE>
+Kleist IV…dead!?<$FFFE>
+The state funeral is in<$FFFC>two days. Hurry back to<$FFFC>the Imperial capital.<$FFFE>
+Uncle… It's far too<$FFFC>soon…<$FFFE>
+Your Excellency, was it<$FFFC>poison after all?<$FFFE>
+I can't say for certain.<$FFFC>But if so… that Paul,<$FFFC>I won't forgive him…<$FFFE>
+Right, Varna! We return<$FFFC>to the capital!<$FFFE>
+Yes, sir!<$FFFE>
+Emerick, you and Geier<$FFFC>will hold the fort here<$FFFC>while I am away.<$FFFE>
+There's no telling when<$FFFC>Velzeria's monsters may<$FFFC>strike at us again.<$FFFE>
+Understood, sir!<$FFFE>

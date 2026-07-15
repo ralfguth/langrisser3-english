@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -27,148 +27,148 @@ Klaus Senior<$FFFF>
 Madam Klaus<$FFFF>
 King Sieghart<$FFFF>
 Elthlead Soldier<$FFFF>
-Imperial First Prince Paul<$FFFF>
+First Prince Paul<$FFFF>
 Böser<$FFFF>
 Feraquea<$FFFF>
-Reaper Grove<$FFFF>
+Necromancer Grove<$FFFF>
 Worm Master Rag<$FFFF>
-Former Larcussia Royal Castle - Before the Ramparts<$FFFF>
- We've done it.<$FFFE>
- But, even if we've managed to breach the outer wall, the battle from here on out will be our true trial.<$FFFE>
- Looks like it.<$FFFE>
- The occupying army's going all out this time. Going to be one helluva party, if you ask me!<$FFFE>
- Well, I am worried about that aerial fortress Emerick spoke of.<$FFFE>
- Do you think they use something similar to that magically propelled giant soldier?<$FFFE>
- That's what I am thinking.<$FFFE>
- Seems the Empire's just rolling in remnants of an ancient magical civilization.<$FFFE>
- Well, let's advance with due caution.<$FFFE>
- Reform the troops and make sure everything is in good order.<$FFFE>
-Former Larcussia Royal Castle - Currently Imperial Headquarters<$FFFF>
- My humble apologies. I was unable to halt their progress.<$FFFE>
- Don't worry about it. The fault lies with that rat, Geier.<$FFFE>
- You're damned late, Geier!<$FFFE>
- With all due respect, I must report.<$FFFE>
- We had come across a defect in the flotation engine for the aerial fortress.<$FFFE>
- Though I desired haste, I place priority on finishing the repairs. I have returned immediately to bring back information, not only with regards to the prospects for the repairs.<$FFFE>
- What!?<$FFFE>
-I have one additional matter to report.<$FFFD>On my way back, I came across highwaymen attacking a supply defense brigade along the border.<$FFFD>I was too late, by the time I got close enough, the highwaymen had fled and the defenders had been annihilated.<$FFFE>
- Our supply troops?<$FFFE>
- …So not only has the aerial fortress been delayed, but also our supply line has been cut…<$FFFE>
- Your Excellency…<$FFFE>
- We're already running low on supplies. At this rate, if we try to withstand a siege, we will suffer from hunger.<$FFFD>Do we have any other options…?<$FFFE>
- Will we have to surrender this place after all…<$FFFE>
- We are running out of options.<$FFFD>It looks like we will lose with no supplies. There's no point in wasting our soldiers in futile fighting.<$FFFE>
- If we surrender this castle with no bloodshed, we might be able to guarantee safe passage for the soldiers…<$FFFE>
- Get in touch with the Larcussian army. Let's set a conference place.<$FFFE>
- Yessir, I shall arrange everything…<$FFFE>
-Larcuss Royal Castle - Several Days Later<$FFFF>
- We have no desire to make unnecessary sacrifices. Therefore, we propose temporarily ceding the capital.<$FFFE>
- In exchange, we wish to swear a ceasefire agreement, lasting until we reach our national border.<$FFFE>
- I also wish to avoid unnecessary conflict.<$FFFE>
- If the castle is handed over with no fighting, I think it would be excellent to accept the Field Marshal's proposal.<$FFFE>
- But, I would like to hear everyone else's opinions on the subject.<$FFFE>
- I am also in agreement with this proposal.<$FFFE>
- I have no objections.<$FFFE>
- What do you think, <$F600><$0000>?<$FFFE>
+Old Larcussia Wall<$FFFF>
+We've done it.<$FFFE>
+For now, we have broken<$FFFC>through the outer wall.<$FFFC>But the true trial is<$FFFC>only beginning now.<$FFFE>
+Looks like it.<$FFFE>
+The occupiers have come<$FFFC>out in full force.<$FFFC>This'll be one hell of<$FFFC>a party!<$FFFE>
+I'm also worried about<$FFFC>the Sky Fortress that<$FFFC>Emerick mentioned.<$FFFE>
+Like that magic-driven<$FFFC>giant soldier again?<$FFFE>
+It's possible.<$FFFE>
+Looks like the Empire's<$FFFC>packed full of ancient<$FFFC>magic relics.<$FFFE>
+Advance with caution.<$FFFE>
+Reform the ranks. We'll<$FFFC>meet them at our fullest<$FFFC>strength.<$FFFE>
+Larcussia Imperial HQ<$FFFF>
+My deepest apologies.<$FFFC>I could not hold them.<$FFFE>
+Don't worry about it.<$FFFC>Geier's own dithering<$FFFC>is the cause of this.<$FFFE>
+You're late, Geier!<$FFFE>
+If I may report, sir.<$FFFE>
+About that Sky Fortress.<$FFFC>A defect's turned up in<$FFFC>its levitation engine.<$FFFE>
+It seemed urgent, so I<$FFFC>waited for the repairs,<$FFFC>but no recovery is near,<$FFFC>so I came to report.<$FFFE>
+What!?<$FFFE>
+A further report, sir.<$FFFD>On my way back, I saw<$FFFC>bandits attacking our<$FFFC>border supply unit.<$FFFD>By the time I got there,<$FFFC>it was too late. They<$FFFC>had been wiped out.<$FFFE>
+Our supply troops?<$FFFE>
+The Sky Fortress won't<$FFFC>arrive in time, and our<$FFFC>supply lines are cut…<$FFFE>
+Your Excellency…<$FFFE>
+Our supplies run short.<$FFFC>Hold out however we can,<$FFFC>they'll starve us out.<$FFFD>Must we retreat now…?<$FFFE>
+Yield this place too…?<$FFFE>
+There's no help for it.<$FFFD>Without supplies, our<$FFFC>defeat is plain to see.<$FFFC>I won't throw away men<$FFFC>in a hopeless fight.<$FFFE>
+Perhaps we can keep our<$FFFC>soldiers safe if we hand<$FFFC>over the castle without<$FFFC>a fight…<$FFFE>
+Call in Larcuss's men.<$FFFC>Set a meeting place.<$FFFE>
+Sir. I'll arrange it…<$FFFE>
+Larcuss Castle, Later<$FFFF>
+We wish for no needless<$FFFC>sacrifice of life. So we<$FFFC>offer to yield Larcussia<$FFFC>for a time.<$FFFE>
+In return, swear not to<$FFFC>attack as we fall back<$FFFC>toward the border.<$FFFE>
+I, too, wish to avoid<$FFFC>needless conflict.<$FFFE>
+If we can win the castle<$FFFC>back without a fight,<$FFFC>I say we should accept<$FFFC>the Marshal's offer.<$FFFE>
+So I want to hear what<$FFFC>everyone thinks.<$FFFE>
+I support it as well.<$FFFE>
+I have no objections.<$FFFE>
+And what of you,<$FFFC><$F600><$0000>?<$FFFE>
 I…<$FFFE>
- How do you respond?<$FFFE>
- I agree.<$FFFE>
- I disagree.<$FFFE>
- I don't know.<$FFFE>
- There's no reason to fight needlessly. I agree.<$FFFE>
- I see. Then, it's unanimous.<$FFFD>So, we will accept the Field Marshal's proposal.<$FFFE>
- I disagree.<$FFFD>Right now, our foes are in a tight spot, it's our chance to completely defeat them!<$FFFE>
- I see. There is some truth to your words.<$FFFD>…However, with the majority in agreement, I think we should accept the Field Marshal's proposal.<$FFFB>Will that be acceptable?<$FFFE>
- …Yes.<$FFFE>
- In all honesty, I am not sure what would be best. I will accept milord's decision.<$FFFE>
- It's certainly a confusing situation.<$FFFD>In that case, since the majority are in agreement, let's accept the Field Marshal's proposal.<$FFFB>Will that be acceptable?<$FFFE>
- …Yes.<$FFFE>
- My thanks, Lord Raymond.<$FFFE>
- In that case, we must go make preparations, so that we can surrender the castle in three days' time. This concludes the conference…<$FFFE>
- Fare well…<$FFFE>
- I wish we could have met under different circumstances, outside of the war.<$FFFE>
- Me, too. Fare well, and take care when you return.<$FFFE>
-Royal capital of Larcussia - Main Gate<$FFFF>
- Liffany!<$FFFE>
- Mother! Father!<$FFFD>I am so glad you're safe…<$FFFE>
- I am relieved to know you're unhurt too…<$FFFE>
- That's wonderful, Liffany.<$FFFE>
- Oh, yes.<$FFFE>
- Father, Mother…<$FFFE>
- You've become quite a fine young man…<$FFFE>
- Didn't I hear that you liberated this city?<$FFFE>
- No, everyone played a part.<$FFFD>But, I don't think the fighting is over yet. I am afraid I will be in harm's way a little longer.<$FFFE>
- I understand. It's part of being a knight.<$FFFD>If only I were younger, I would take up my sword and join you, too…<$FFFE>
- Now, now, Dear…<$FFFE>
- This is wonderful… …Everyone, I am so glad for you.<$FFFE>
- Papa… I, I've done it. I've helped liberate Larcussia.<$FFFE>
- Listen, can you hear them? Everyone's happy. Papa…Papa…<$FFFE>
- …Tiaris.<$FFFE>
- What do you say?<$FFFE>
- Come over here.<$FFFE>
- I am still here, aren't I.<$FFFE>
- You need to set the past aside.<$FFFE>
- Come over here, Tiaris.<$FFFE>
- <$F600><$0000>…<$FFFE>
- Father, Mother.<$FFFD>This is the girl I was just telling you about, Tiaris.<$FFFE>
- Ah. She's such a charming lass, isn't she.<$FFFE>
- My, indeed. From now on, you can think of us as your parents, and talk with us about everything that concerns you.<$FFFE>
- T…thank you so very much!<$FFFE>
- Now, now, you don't need to use such formal speech with us.<$FFFE>
- Pa…Papa…<$FFFE>
- I am still here, aren't I, Tiaris?<$FFFE>
- <$F600><$0000>…<$FFFE>
- After what happened to Lord William, I feel a bit guilty about finding happiness on my own.<$FFFD>But, I am still here for you, aren't I.<$FFFE>
+How do you respond?<$FFFE>
+I agree.<$FFFE>
+I disagree.<$FFFE>
+I don't know.<$FFFE>
+There's no need to force<$FFFC>a fight. I agree.<$FFFE>
+I see. We're all agreed.<$FFFD>Then let's accept the<$FFFC>Marshal's offer.<$FFFE>
+I disagree.<$FFFD>The enemy is cornered.<$FFFC>Now is our chance!<$FFFC>Crush them!<$FFFE>
+I hear you. Fair point.<$FFFD>…But most are in favor,<$FFFC>so we will accept the<$FFFC>Marshal's offer.<$FFFB><$FFFC>Are there objections?<$FFFE>
+…Yes.<$FFFE>
+Honestly, I don't know<$FFFC>what's best. I'll follow<$FFFC>your lead in this.<$FFFE>
+No wonder you hesitate.<$FFFD>The majority agrees,<$FFFC>so we accept the<$FFFC>Marshal's offer.<$FFFB><$FFFC>Any objections?<$FFFE>
+…Yes.<$FFFE>
+My thanks, Lord Raymond.<$FFFE>
+Then we must make ready<$FFFC>to open the castle in<$FFFC>three days' time.<$FFFC>With this, we adjourn…<$FFFE>
+Farewell…<$FFFE>
+If not for this war, we<$FFFC>might have understood<$FFFC>each other.<$FFFE>
+I am of the same mind.<$FFFC>Please take care on your<$FFFC>way back.<$FFFE>
+Larcussia Main Gate<$FFFF>
+Liffany!<$FFFE>
+Father!<$FFFC>Mother!<$FFFD>You're both safe…<$FFFE>
+You're safe too…<$FFFE>
+I'm glad, Liffany.<$FFFE>
+Oh, yes.<$FFFE>
+Father, Mother…<$FFFE>
+You've grown so fine…<$FFFE>
+You won back this city?<$FFFE>
+No. It was the strength<$FFFC>of everyone together.<$FFFD>But the war is not yet<$FFFC>over. I must trouble you<$FFFC>a little while longer.<$FFFE>
+I understand. Such is a<$FFFC>knight's way.<$FFFD>If I were a bit younger,<$FFFC>I would have liked to<$FFFC>cross swords with you…<$FFFE>
+Now, now, Dear…<$FFFE>
+I'm so glad… So glad,<$FFFC>all of you…<$FFFE>
+Papa… I did it. I truly<$FFFC>did. We took Larcussia<$FFFC>back.<$FFFE>
+Listen. Can you hear?<$FFFC>Everyone's happy too.<$FFFC>Papa… Papa…<$FFFE>
+…Tiaris.<$FFFE>
+What do you say?<$FFFE>
+Come over here.<$FFFE>
+I'm right here.<$FFFE>
+Forget it now.<$FFFE>
+Come over here, Tiaris.<$FFFE>
+<$F600><$0000>…<$FFFE>
+Father, Mother.<$FFFD>This is Tiaris, the girl<$FFFC>I just mentioned.<$FFFE>
+Well now. What a sweet<$FFFC>and charming young lady.<$FFFE>
+Oh my, really? From now<$FFFC>on, think of us as your<$FFFC>own parents, and tell<$FFFC>us anything, all right?<$FFFE>
+A-ah… thank you!<$FFFE>
+Now, now. You don't need<$FFFC>to be so formal with us.<$FFFE>
+Pa…Papa…<$FFFE>
+I'm right here, Tiaris.<$FFFE>
+<$F600><$0000>…<$FFFE>
+After what happened to<$FFFC>Marquis William, I feel<$FFFC>guilty being happy now<$FFFC>on my own.<$FFFD>But I'm here with you,<$FFFC>aren't I?<$FFFE>
 …<$FFFE>
- …But, I guess I am just not enough.<$FFFE>
- …That's not it. That's not it at all!<$FFFD>Thanks…<$F600><$0000>.<$FFFE>
- …You need to set the past aside.<$FFFD>Instead of dwelling on the sorrow of the past, you should live for a brighter future.<$FFFE>
- …Yeah.<$FFFD>But, it's not that simple…I can't just forget…<$FFFE>
- Tiaris…<$FFFE>
-Larcuss's Royal capital, Larcussia - Royal Castle<$FFFF>
- Even though none of the royal family remain, are you really sure you want me to take this position?<$FFFE>
- What are you worried about, Viscount Raymond?<$FFFD>You inspired our soldiers and reclaimed Larcussia.<$FFFD>Furthermore, all of the nobles wish for you to take the throne. So, as their representative, I entreat you to accept the throne.<$FFFE>
- …Very well.<$FFFD>Though the duty you offer is a weighty one, I shall accept.<$FFFE>
- In that case, what do you think changing your name?<$FFFE>
- Oh, good point!<$FFFB>Oh New King, by what name shall we address you?<$FFFE>
- Let me think.<$FFFD>…Yes, let me be known henceforth as Sieghart.<$FFFE>
- That's an excellent name.<$FFFE>
- So, King Sieghart.<$FFFB>What shall we call our kingdom?<$FFFE>
- Hmm…<$FFFD>How about Elthlead, that mythological name said to mean "overflowing with light"?<$FFFE>
- The Kingdom of Elthlead, and King Sieghart.<$FFFB>These are excellent names.<$FFFE>
- Very well, King Sieghart. If you would take the throne…<$FFFE>
- We have driven off the Empire once, but it is likely they shall try to come again.<$FFFE>
- Barral also took advantage of that opportunity, and I am worried by the doings of the Demon Kingdom, Velzeria.<$FFFE>
- I ask that everyone lend a hand a little longer, for the peace of the Kingdom of Elthlead and her people.<$FFFE>
- Hurray for the Kingdom of Elthlead!<$FFFE>
- Long live King Sieghart!<$FFFE>
-Rigüler Imperial Castle - Review Tribunal<$FFFF>
- Since Father's condition has worsened, I have heard the reports in his stead.<$FFFE>
-So…it looks like we've got a bigger problem than the delay of the aerial fortress's launch, don't we? How could this have happened, Altemüller?<$FFFE>
- If it were only the aerial fortress's delay, I would have the confidence to manage it.<$FFFE>
- However, the supply shortage I cannot manage. Any misjudgment would only worsen the losses.<$FFFE>
- The castle can be retaken later. But the soldiers who died will not come back to life.<$FFFE>
- And now, Raymond has become the king in Larcuss, which is now called the Kingdom of Elthlead.<$FFFE>
- …But, whatever. Finally, the launch preparations for the aerial fortress have been completed.<$FFFE>
- Now go forth, crush Elthlead, and retake the castle. This time, make it succeed.<$FFFE>
- I will convey your report to Father…<$FFFE>
- …As you command.<$FFFE>
- Hohoho. Did you see that, that Altemüller looked so defeated!<$FFFE>
- This is the greatest feeling! Huhahahahaha!<$FFFE>
+…Maybe I'm not enough.<$FFFE>
+…That's not true. That<$FFFC>isn't true at all!<$FFFD>Thank you…<$FFFC><$F600><$0000>.<$FFFE>
+…Forget it now.<$FFFD>Instead of grieving the<$FFFC>past, let's live for the<$FFFC>hope that lies ahead.<$FFFE>
+…Yeah.<$FFFD>But it's not so easy…<$FFFC>I can't just forget…<$FFFE>
+Tiaris…<$FFFE>
+Larcussia Royal Castle<$FFFF>
+No royals remain, but<$FFFC>are you truly certain<$FFFC>that I should take this?<$FFFE>
+What are you saying now,<$FFFC>Viscount?<$FFFD>You raised the army that<$FFFC>won Larcussia back.<$FFFD>And every noble wants<$FFFC>you on the throne. So<$FFFC>we come as their voice,<$FFFC>to ask you.<$FFFE>
+…Very well, then.<$FFFD>I will firmly take up<$FFFC>that weighty charge.<$FFFE>
+If we are to do this,<$FFFC>why not take a new name?<$FFFE>
+Oh, a splendid idea!<$FFFB><$FFFC>New King, what shall<$FFFC>we change your name to?<$FFFE>
+Let me think on it.<$FFFD>…Then I shall take the<$FFFC>name Sieghart.<$FFFE>
+That is a fine name.<$FFFE>
+Then, King Sieghart.<$FFFB><$FFFC>And what name shall<$FFFC>the kingdom bear?<$FFFE>
+Hmm, let me see…<$FFFD>From the holy word for<$FFFC>light overflowing, how<$FFFC>about Elthlead?<$FFFE>
+The Kingdom of Elthlead,<$FFFC>and King Sieghart.<$FFFB><$FFFC>Fine names, both.<$FFFE>
+Then, King Sieghart,<$FFFC>your throne awaits…<$FFFE>
+The Empire fell back,<$FFFC>but will likely target<$FFFC>this land again.<$FFFE>
+Barral, too, will watch<$FFFC>for its chance, and<$FFFC>the demon realm Velzeria<$FFFC>weighs on me as well.<$FFFE>
+For Elthlead's peace and<$FFFC>all her people, lend me<$FFFC>your strength, all of<$FFFC>you, a while yet.<$FFFE>
+Long live Elthlead!<$FFFE>
+Long live King Sieghart!<$FFFE>
+Rigüler Tribunal<$FFFF>
+Father remains unwell,<$FFFC>so I will hear reports<$FFFC>in his stead.<$FFFE>
+It's so unlike you<$FFFC>to fuss this much over<$FFFC>the Sky Fortress delay…<$FFFC>eh, Altemüller?<$FFFE>
+If only the Sky Fortress<$FFFC>were the one delay here,<$FFFC>I could manage it.<$FFFE>
+But our supply shortage<$FFFC>is beyond my control.<$FFFC>A poor choice now would<$FFFC>only cost lives.<$FFFE>
+We can retake it later.<$FFFC>Fallen soldiers cannot<$FFFC>return to life.<$FFFE>
+In that time, Raymond<$FFFC>took the throne and made<$FFFC>Larcuss into Elthlead.<$FFFE>
+…Hmph, very well. At<$FFFC>last the Sky Fortress<$FFFC>stands ready.<$FFFE>
+Go crush Elthlead now<$FFFC>and retake the castle.<$FFFC>This time, see it done.<$FFFE>
+I will make the report<$FFFC>to Father myself…<$FFFE>
+…As you command.<$FFFE>
+Heh heh heh. Did you see<$FFFC>Altemüller's wretched<$FFFC>face?<$FFFE>
+What a glorious feeling!<$FFFC>HWAHAHAHAHAA!<$FFFE>
 Velzeria Castle<$FFFF>
- I see. So the Empire withdrew its troops.<$FFFE>
- In the Kingdom of Larcuss, Raymond has taken the throne and the new name, Sieghart.<$FFFE>
- Furthermore, it looks like his country is now called the Kingdom of Elthlead.<$FFFE>
- No matter what new name they choose, we of Velzeria shall still crush them…<$FFFE>
- The fact that the Empire withdrew its troops, even temporarily, is proof that both armies are exhausted from the fighting.<$FFFE>
- …The time is ripe. Now, we of Velzeria shall begin our invasion in earnest!<$FFFE>
- Yes, Master!<$FFFE>
- For an age of Darkness!<$FFFE>
- For Lord Böser!<$FFFE>
- Using the power of the Alhazard, we shall end this world of humans!<$FFFE>
- It took Lord Raymond about a year to gather troops for the liberation of Larcuss.<$FFFE>
- Now, he has retaken Laffel from the Barral army, and the royal capital, Larcussia, from the Empire.<$FFFE>
- The Kingdom of Larcuss has been renamed the Kingdom of Elthlead, and Raymond leads it under the new name, King Sieghart.<$FFFE>
- However, the Empire regathers its strength and steadily makes preparations for the conquest of Elthlead.<$FFFE>
- At the same time, Velzeria steps out of the shadows and openly begins preparations for a real invasion.<$FFFE>
- And then, one month later…<$FFFE> 
+The Empire withdrew.<$FFFE>
+In Larcuss, Raymond<$FFFC>became King Sieghart.<$FFFE>
+Now called Elthlead.<$FFFE>
+Whatever they call it,<$FFFC>Velzeria will end them.<$FFFE>
+The Empire's pullback,<$FFFC>brief as it is, proves<$FFFC>both their armies are<$FFFC>worn down alike.<$FFFE>
+…The hour has ripened.<$FFFC>From now, our Velzeria<$FFFC>wages war in earnest!<$FFFE>
+Yes, Master!<$FFFE>
+For an age of Darkness!<$FFFE>
+For Lord Böser!<$FFFE>
+With Alhazard's power,<$FFFC>we end mankind's age!<$FFFE>
+Nearly a year passed.<$FFFC>Lord Raymond raised an<$FFFC>army to retake Larcuss.<$FFFE>
+He won Laffel back from<$FFFC>Barral, and Larcussia,<$FFFC>the royal capital, from<$FFFC>the Empire.<$FFFE>
+The realm of Larcuss was<$FFFC>renamed Elthlead, and<$FFFC>Raymond came to reign<$FFFC>as King Sieghart.<$FFFE>
+But the Empire, too,<$FFFC>rebuilt its strength,<$FFFC>and step by step made<$FFFC>ready to take Elthlead.<$FFFE>
+Meanwhile, Velzeria,<$FFFC>long cloaked in shadow,<$FFFC>at last made ready to<$FFFC>invade in earnest.<$FFFE>
+Then one month passed…<$FFFE>

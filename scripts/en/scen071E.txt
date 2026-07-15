@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -21,47 +21,47 @@ General Emerick<$FFFF>
 Field Marshal Altemüller<$FFFF>
 General Varna<$FFFF>
 Estool Ruins<$FFFF>
- Hmm, where should we head next?<$FFFE>
- The royal capital of Larcussia? Or, maybe the city of Laffel?<$FFFE>
- Since Lord Raymond is working towards the liberation of Larcussia, he will likely be moving his troops there.<$FFFE>
- So, why don't we make a return trip to Laffel?<$FFFE>
- But, isn't that where the Dark Knight is?<$FFFE>
- You think the Sword of Decimation won't be enough to take him on?<$FFFE>
- Certainly, the Sword of Decimation can be expected to have some effect even on non-demons.<$FFFE>
-But we shouldn't lean on it too heavily.<$FFFE>
- Do we have the power to defeat the Dark Knight right now?<$FFFE>
- Just because we plan on returning to Laffel doesn't mean we have to fight the Dark Knight.<$FFFE>
- We might be able to get him to leave Laffel.<$FFFE>
- Of course! If we can get that fiend to leave, we won't have to fight him!<$FFFE>
- Easy for you to say! We don't have the strength to beat the Dark Knight, so how the heck do we drive him out!<$FFFE>
- Hmm, I wonder…<$FFFE>
- No, instead of driving him out, we should try to lure him out.<$FFFE>
- If the Kingdom of Barral is invaded first, the Dark Knight will be called from his station at Laffel to assist.<$FFFE>
- Then, once we receive confirmation that the Dark Knight has left Laffel, we can march out and reclaim Laffel.<$FFFE>
+Now, where should our<$FFFC>next march take us?<$FFFE>
+The capital, Larcussia?<$FFFC>Or the city of Laffel?<$FFFE>
+Lord Raymond should be<$FFFC>on the march even now,<$FFFC>to liberate the royal<$FFFC>capital, Larcussia.<$FFFE>
+Then shall we set out<$FFFC>to take back the city of<$FFFC>Laffel ourselves?<$FFFE>
+But the Dark Knight's<$FFFC>there, isn't he?<$FFFE>
+Even with the Decimation<$FFFC>Sword, no luck?<$FFFE>
+True enough, the<$FFFC>Decimation Sword does<$FFFC>have some effect on more<$FFFC>than just demons.<$FFFE>
+But even so, we mustn't<$FFFC>rely on it too much.<$FFFE>
+As we stand now, do we<$FFFC>even have the strength<$FFFC>to bring the Dark Knight<$FFFC>down?<$FFFE>
+If our only aim is to<$FFFC>retake Laffel, there is<$FFFC>no need to face the Dark<$FFFC>Knight at all.<$FFFE>
+We need only draw him<$FFFC>out of Laffel.<$FFFE>
+Right! Run him off, and<$FFFC>we won't have to fight!<$FFFE>
+Easy for you to say! But<$FFFC>how do we chase him out<$FFFC>when we can't even beat<$FFFC>him?!<$FFFE>
+Hmm, I wonder…<$FFFE>
+No, not drive him out,<$FFFC>but lure him out.<$FFFE>
+First we strike hard at<$FFFC>Barral itself, to lure<$FFFC>the Dark Knight out of<$FFFC>Laffel to defend it.<$FFFE>
+We hold our march until<$FFFC>the Dark Knight has left<$FFFC>Laffel, then we return.<$FFFE>
 …<$FFFE>
- How do you respond?<$FFFE>
- I see.<$FFFE>
- I think I understand.<$FFFE>
- You're incredible.<$FFFE>
- I see, what a strategy. Such a profoundly thought out plan.<$FFFE>
- Right, I think I understand.<$FFFE>
- You're incredible, Luna. Such an inspiration.<$FFFE>
- However, we will need someone to keep close watch on Laffel for this to work.<$FFFE>
- But, if we're attacking the Kingdom of Barral, we won't have the troops to spare for watch duty…<$FFFE>
-Leave that to me. I've got friends who can keep an eye on Laffel.<$FFFE>
- I will head to Laffel immediately.<$FFFE>
- Wait, let me come too!<$FFFE>
- No, it will be easier for me alone to elude the notice of our enemies. I promise not to make a mistake and get caught.<$FFFE>
- I made a promise to Gerold, after all. I promised to restore his home town, Laffel…<$FFFE>
-Former Larcussia Royal Castle Currently Imperial Headquarters<$FFFF>
- You must be weary, Your Excellency.<$FFFE>
- Indeed.<$FFFD>What happened on the war front while I was gone?<$FFFE>
- The strength of Lord Raymond's Larcuss patriots has grown.<$FFFD>At present, General Bortz is ready to make an attack…<$FFFE>
- So good old Bortz wants to reclaim his honor, eh.<$FFFE>
- But, he doesn't have many soldiers with which to attack. General Bortz will probably be hard pressed in the fighting.<$FFFE>
- Hmph, only until the giant magic-driven Galshook arrives.<$FFFD>With Bortz's tactics, he won't waste the few troops he has.<$FFFE>
- …I've always thought this city looked lovely.<$FFFE>
- Verily, it is so.<$FFFE>
- We'll strike them down and make this city wholly the Empire's.<$FFFD>With such an abundant land, the lives of the Empire's people will flourish…<$FFFE>
- That's why we will go wherever we must and endure whatever we must.<$FFFE>
- Indeed. Everyone's counting on our success.<$FFFE>
+How do you respond?<$FFFE>
+I see.<$FFFE>
+It's obvious.<$FFFE>
+You're incredible.<$FFFE>
+Ah, I see, so that's the<$FFFC>plan. Strategy really<$FFFC>does run deep.<$FFFE>
+Of course. It's obvious.<$FFFE>
+Ah, that's our Luna for<$FFFC>you. Really puts me at<$FFFC>ease.<$FFFE>
+But this needs someone<$FFFC>to keep watch on Laffel.<$FFFE>
+But if we attack Barral<$FFFC>itself, we've no troops<$FFFC>to spare for the watch…<$FFFE>
+Leave this part to me. I<$FFFC>have friends in Laffel I<$FFFC>can count on.<$FFFE>
+I'll head to Laffel now.<$FFFE>
+Wait, let me come too!<$FFFE>
+Alone, I'm less likely<$FFFC>to be seen by the foe.<$FFFC>I can't afford to fail.<$FFFE>
+I made Gerold a promise.<$FFFC>To win back his home,<$FFFC>Laffel…<$FFFE>
+Old Larcussia HQ<$FFFF>
+You must be weary now,<$FFFC>Your Excellency.<$FFFE>
+Mm.<$FFFD>How goes the war now,<$FFFC>during my absence?<$FFFE>
+Those Larcuss remnants<$FFFC>under Lord Raymond grow<$FFFC>bolder with each passing<$FFFC>day.<$FFFD>General Bortz has ridden<$FFFC>out to meet them, yet<$FFFC>even so…<$FFFE>
+So Bortz means to redeem<$FFFC>his name, does he.<$FFFE>
+But his force is still<$FFFC>small. General Bortz may<$FFFC>find the fight hard.<$FFFE>
+Heh, but only until the<$FFFC>Arcane Giant Galshook<$FFFC>arrives.<$FFFD>Bortz fights well. He'll<$FFFC>not throw away the few<$FFFC>troops he has.<$FFFE>
+…No matter how often<$FFFC>I see it, this city's<$FFFC>beautiful.<$FFFE>
+Indeed it is.<$FFFE>
+We will cut these rebels<$FFFC>down and make this city<$FFFC>wholly the Empire's.<$FFFD>A land this rich in our<$FFFC>hands, and the Empire's<$FFFC>people shall want for<$FFFC>nothing…<$FFFE>
+For that, I shall endure<$FFFC>whatever I must.<$FFFE>
+Mm. I'll be expecting<$FFFC>great things from all<$FFFC>of you.<$FFFE>

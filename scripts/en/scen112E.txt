@@ -5,18 +5,18 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-36<$FFFC><$0000><$0000> The Birth of a Legend <$0000><$0000><$FFFE>
- After the division strikes down Demon General Geier and begins descending into the deeper parts of Castle Velzeria, the companions are welcomed by an eerie light bearing ill omen undoubtedly. From the inner part Paul's voice can be heard, offering up ceremonial chants to the God of Chaos.<$FFFE>
- Unless she is rescued before<$FFFC>the ceremony ends, the Chaos<$FFFC>god will be resurrected.<$FFFC>And her soul will fall into<$FFFC>eternal darkness with no salvation.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat Böser within 17 turns<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of the Hostage<$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐３６<$FFFC><$0000><$0000> The Birth of a Legend <$0000><$0000><$FFFE>
+Having defeated Demon General<$FFFC>Geier, the party enters the<$FFFC>glowing altar beneath Castle<$FFFC>Velzeria. Paul's chant to the<$FFFC>God of Chaos echoes from within.<$FFFE>
+Unless she is rescued before the<$FFFC>ceremony ends, the Chaos god<$FFFC>will be resurrected. And her<$FFFC>soul will fall into eternal<$FFFC>darkness with no salvation.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat Paul within 17 turns<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of the Hostage<$FFFE> 

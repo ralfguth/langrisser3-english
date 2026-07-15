@@ -5,63 +5,63 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
 King Sieghart<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-29<$FFFC>Böser, Master of the Demon Blade<$FFFE>
- In the deepest chamber of Castle Velzeria, Böser sat waiting patiently for his prey to arrive. "I wonder what kind of human Lushiris has chosen. I look forward to seeing…"<$FFFE>
- Now, the fight for the world of humans shall begin in earnest…<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of Böser<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Varna's sister, Anna<$FFFE>
-Velzeria Castle - Before the Castle Gates<$FFFF>
- So Böser awaits up ahead…<$FFFE>
- This will be the final showdown with the Lord of evil.<$FFFE>
- If we lose here, the entire world of humans is sure to fall to the demons.<$FFFE>
- Oh please. Do excuse me for not indulging in such poignant pessimism!<$FFFE>
- Father. We've finally arrived here. Please lend us your power!<$FFFE>
- Have a little faith… In your own power… In your friends' power…<$FFFE>
- Let's go, everyone. It's time to take down Böser!<$FFFE>
- Excuse me… <$F600><$0000> san…<$FFFE>
- ? What's wrong, Liffany?<$FFFE>
- With the weight of humanity's future on our shoulders, I…<$FFFE>
- Liffany…<$FFFE>
- What do you say?<$FFFE>
- It's a serious matter.<$FFFE>
- Cheer up!<$FFFE>
- This isn't like you!<$FFFE>
- Yes. It's a heavy responsibility…<$FFFE>
- Yeah, I feel really overwhelmed by all the pressure to succeed…<$FFFE>
-You're not the only one worried, though. Everyone's ill at ease.<$FFFD>But, we have no other choice. We've got to do this.<$FFFE>
- You're right. I…I will do my best!<$FFFE>
- You don't need to look at this so seriously. Cheer up.<$FFFE>
- Oh my, you're not worried at all?<$FFFE>
- There's no reason to get all worked up over this. If we mess up, we will worry about it when it happens.<$FFFE>
- I…I see…<$FFFE>
- So, let's go.<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２９<$FFFC>Böser, Master of the Demon Blade<$FFFE>
+Deep within Velzeria Castle,<$FFFC>in its deepest hall, Böser lay<$FFFC>in wait for his prey to come.<$FFFC>'The human Lushiris chose… how<$FFFC>strong is he? I await this…'<$FFFE>
+Now, the battle for humankind<$FFFC>was about to begin…<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of Böser<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFC>•Death of Varna's sister, Anna<$FFFE>
+Velzeria Castle Gate<$FFFF>
+So Böser is ahead…<$FFFE>
+At last, the time has<$FFFC>come to face the master<$FFFC>of evil.<$FFFE>
+If we are beaten here,<$FFFC>the whole human world<$FFFC>will fall to the demons.<$FFFE>
+You said it, every word<$FFFC>of it! Not a chance I'm<$FFFC>letting that happen!<$FFFE>
+Father, hear my voice.<$FFFC>We have come this far.<$FFFC>Now lend us the strength<$FFFC>to see this through!<$FFFE>
+You must have faith. In<$FFFC>your own power, and in<$FFFC>your friends' power.<$FFFE>
+Move out now, everyone!<$FFFC>We'll bring Böser down!<$FFFE>
+Um…<$FFFC><$F600><$0000>…<$FFFE>
+? What's wrong, Liffany?<$FFFE>
+To think the future of<$FFFC>all mankind now rests<$FFFC>upon us…<$FFFE>
+Liffany…<$FFFE>
+What do you say?<$FFFE>
+It's a serious matter.<$FFFE>
+Cheer up!<$FFFE>
+This isn't like you!<$FFFE>
+Yeah… it's such a heavy<$FFFC>burden to carry…<$FFFE>
+Yes, all this pressure<$FFFC>feels crushing…<$FFFE>
+You're not the only one<$FFFC>afraid. Every one of us<$FFFC>is.<$FFFD>But we have no choice<$FFFC>now. It's up to us to<$FFFC>act.<$FFFE>
+Yes, you're quite right.<$FFFC>I'll do my very best!<$FFFE>
+Don't take it so hard.<$FFFC>Stay calm.<$FFFE>
+Oh my… are you not the<$FFFC>least bit worried?<$FFFE>
+Worrying won't change<$FFFC>anything. If it fails,<$FFFC>we'll face that then.<$FFFE>
+I-I see…<$FFFE>
+So, let's go.<$FFFE>
 …<$FFFE>
- What's the matter, Liffany? This isn't like you at all.<$FFFE>
- My! What is that supposed to mean?<$FFFD>It's as if I…<$FFFE>
- What do you reply?<$FFFE>
- I was too flippant.<$FFFE>
- Sorry, sorry.<$FFFE>
- The truth.<$FFFE>
- Forgive me, I was too flippant. I am also worried about it…<$FFFE>
+What is it, Liffany? You<$FFFC>are not yourself today.<$FFFE>
+My! What do you mean?<$FFFD>As if I were…<$FFFE>
+What do you say?<$FFFE>
+I was too flippant.<$FFFE>
+Sorry, sorry.<$FFFE>
+The truth.<$FFFE>
+Sorry. I went too far.<$FFFC>I was anxious too…<$FFFE>
 …<$FFFE>
- So that was your way of showing concern, wasn't it.<$FFFE>
- Liffany…<$FFFE>
- Phew. Shouting that out cleared my head.<$FFFD>Let's definitely win, alright?<$FFFE>
- Right.<$FFFE>
- Sorry, sorry. I didn't mean it, I just wanted to see you smile.<$FFFD>I don't know if you've realized it yet, but your smile is what dispels my doubts and sets me at ease.<$FFFE>
- Y…you can't mean…<$FFFE>
- Don't worry. We will win for sure.<$FFFE>
- <$064F>.right…<$FFFE>
- Haven't I always told the plain truth before?<$FFFE>
- H…how insensitive!<$FFFE> 
+So that was your own way<$FFFC>of showing you cared.<$FFFE>
+Liffany…<$FFFE>
+Phew… letting it all<$FFFC>out in a good loud shout<$FFFC>has cleared my head.<$FFFD>Now let's be sure to win<$FFFC>this, all right?<$FFFE>
+Right.<$FFFE>
+Sorry, forgive me. The<$FFFC>truth is, I only ever<$FFFC>want to see you smile.<$FFFD>You may not notice it,<$FFFC>but your gentle smile<$FFFC>brings me real peace.<$FFFE>
+Y-you can't mean…<$FFFE>
+It will be all right. We<$FFFC>are certain to win.<$FFFE>
+Y-yes…<$FFFE>
+All I did was speak the<$FFFC>plain and honest truth.<$FFFE>
+H-how insensitive!<$FFFE><$FFFF>

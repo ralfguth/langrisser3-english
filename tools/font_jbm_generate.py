@@ -140,7 +140,7 @@ def main():
     digit_items = [(ch, render_16w(f, ch)) for ch in digits]
     emit_dict("DIGIT_TILES", digit_items)
 
-    # 8w half-glyphs for digits — needed by CWX-range bigram overrides
+    # 8w half-glyphs for digits — needed by 0.2 patch-range bigram overrides
     # like (' ', '2'), ('+', '8'), ('1', '5') in tiles 1537-1568.
     digit_half_items = [(ch, render_8w(f, ch)) for ch in digits]
     emit_dict("DIGIT_HALF_GLYPHS", digit_half_items)
@@ -151,7 +151,7 @@ def main():
     extra_items = [(ch, render_8w(f, ch)) for ch in extra_punct]
     emit_dict("EXTRA_PUNCT_GLYPHS", extra_items)
 
-    # Lowercase umlauts (a/o/u-diaeresis) — appear in CWX-range bigrams
+    # Lowercase umlauts (a/o/u-diaeresis) — appear in 0.2 patch-range bigrams
     # like 'Jä', 'öl', 'är' (tiles 1533-1536, 1611-1614).
     umlaut_items = [(ch, render_8w(f, ch)) for ch in 'äöü']
     emit_dict("UMLAUT_HALF_GLYPHS", umlaut_items)

@@ -5,34 +5,34 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-20<$FFFC><$0000> Skirmish in the Vast Skies <$0000><$FFFE>
- General Bortz of the Rigüler Empire fought to the very end so that most of his men could escape, and met a fierce death. Even in battle, it was the death of a man who remained true to himself until the end.<$FFFE>
- After defeating Bortz and obtaining a small airship, the young knight set out to rescue Lord Raymond, who was being taken to the imperial capital.<$FFFE>
- Now, a fierce battle in the open sky was about to begin.<$FFFE>
-*Victory Conditions<$FFFC>  •Defeat the commander within 29 turns<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐２０<$FFFC><$0000> Skirmish in the Vast Skies <$0000><$FFFE>
+General Bortz of Rigüler fought<$FFFC>to the last, so most of his men<$FFFC>could flee, and met a fierce<$FFFC>death. Even in war, he stayed<$FFFC>true to himself to the very end.<$FFFE>
+After defeating Bortz and<$FFFC>obtaining a small airship, the<$FFFC>young knight set out to rescue<$FFFC>Lord Raymond, who was being<$FFFC>taken to the imperial capital.<$FFFE>
+Now, a fierce battle in the open<$FFFC>sky was about to begin.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat the commander<$FFFC>within 29 turns<$FFFE>
 *Defeat Conditions<$FFFC>  •Death of <$F600><$0000><$FFFC>  •Turn over<$FFFE>
 Captured Airship<$FFFF>
- Whoa, so fast, so fast!<$FFFE>
- What with the airships and these magically-driven giants, I can see why the Empire is so strong.<$FFFE>
- !!<$FFFE>
- Lord <$F600><$0000>! An Imperial airship straight ahead!<$FFFE>
- It's already taken off!<$FFFE>
- Father's on that ship…<$FFFE>
- Prepare the boarding plank.<$FFFC>We're going to come alongside and board them.<$FFFE>
- Eh?! That's too reckless!<$FFFE>
- Yeah. The plank could come loose at any moment…<$FFFE>
- It's dangerous, but there's no other way. If he's taken deeper into the Empire, we may never be able to rescue him.<$FFFE>
- We should prepare flying units for the aerial battle.<$FFFE>
- Right.<$FFFE>
- Match speed and bring us alongside!<$FFFE> 
+Whoa, so fast, so fast!<$FFFE>
+What with the airships<$FFFC>and these magic-driven<$FFFC>giants, I see why the<$FFFC>Empire is so strong.<$FFFE>
+Huh?!<$FFFE>
+Lord <$F600><$0000>!<$FFFC>An Imperial airship<$FFFC>straight ahead!<$FFFE>
+It's already taken off!<$FFFE>
+Father's on that ship…<$FFFE>
+Prepare the boarding<$FFFC>plank. We're going to<$FFFC>come alongside and board<$FFFC>them.<$FFFE>
+What?! That's too<$FFFC>reckless!<$FFFE>
+Yeah. The plank<$FFFC>could come loose at any<$FFFC>moment…<$FFFE>
+It's dangerous, but<$FFFC>there's no other choice.<$FFFC>If he's taken to the<$FFFC>Empire, we'll lose him.<$FFFE>
+We should prepare flying<$FFFC>units for the aerial<$FFFC>battle.<$FFFE>
+Right.<$FFFE>
+Match speed and bring us<$FFFC>alongside!<$FFFE><$FFFF>

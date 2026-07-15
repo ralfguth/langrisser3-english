@@ -1,0 +1,441 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/layout-qa-0.3.1.schema.json",
+  "x-target-schema-version": "0.3.1",
+  "title": "Langrisser III Layout QA report",
+  "description": "Formal contract for the JSON produced by `python3 -m tools.layout_qa.cli analyze`. Mirrors tools/layout_qa/metrics.aggregate(). The frontend (Vite/React/ECharts) reads this shape; the TypeScript interfaces in types/layout-qa.ts are kept in lockstep with this file.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "lang",
+    "tool",
+    "projectSummary",
+    "summary",
+    "scenarios"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "0.3.1",
+      "description": "Pinned. Bumped on every additive or breaking change."
+    },
+    "generatedAt": {
+      "type": "string",
+      "description": "ISO-8601 UTC timestamp of the run."
+    },
+    "lang": {
+      "type": "string",
+      "description": "Language code (e.g. 'en')."
+    },
+    "tool": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["name", "version"],
+      "properties": {
+        "name": { "type": "string" },
+        "version": { "type": "string" }
+      }
+    },
+    "snapshot": {
+      "$ref": "#/$defs/SnapshotMeta",
+      "description": "Present only on trimmed snapshots (under reports/history/)."
+    },
+    "projectSummary": { "$ref": "#/$defs/ProjectSummary" },
+    "summary": { "$ref": "#/$defs/Summary" },
+    "scenarios": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Scenario" }
+    }
+  },
+
+  "$defs": {
+    "Status": {
+      "type": "string",
+      "enum": ["ERROR", "PLAYABLE", "POLISHED"]
+    },
+    "Profile": {
+      "type": "string",
+      "enum": [
+        "LABEL_CHARACTER_12X1",
+        "LABEL_LOCATION_16X1",
+        "OBJECTIVE_16X5",
+        "NARRATION_16X5",
+        "DIALOGUE_12X4",
+        "HEROINE_DIARY",
+        "UNKNOWN"
+      ]
+    },
+    "IssueCode": {
+      "type": "string",
+      "enum": [
+        "line_budget_exceeded",
+        "label_overflow",
+        "balloon_line_overflow",
+        "broken_word_wrap",
+        "unknown_layout_profile",
+        "choice_overflow",
+        "choice_multiline",
+        "forbidden_punctuation",
+        "implicit_wrap_without_fffc",
+        "low_line_usage",
+        "fluidity_headroom",
+        "special_token_overflow_risk",
+        "encoding_risk",
+        "line_padding_space"
+      ]
+    },
+    "Severity": {
+      "type": "string",
+      "enum": ["error", "warning", "info"]
+    },
+    "Rate": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+
+    "SnapshotMeta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date", "label"],
+      "properties": {
+        "date": { "type": "string", "description": "YYYY-MM-DD." },
+        "label": { "type": "string" },
+        "gitCommit": { "type": "string" },
+        "gitBranch": { "type": "string" },
+        "note": { "type": "string" }
+      }
+    },
+
+    "ProjectSummary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "filesAnalyzed",
+        "entriesAnalyzed",
+        "entriesError",
+        "entriesPlayable",
+        "entriesPolished",
+        "playabilityRate",
+        "polishRate"
+      ],
+      "properties": {
+        "filesAnalyzed": { "type": "integer", "minimum": 0 },
+        "entriesAnalyzed": { "type": "integer", "minimum": 0 },
+        "entriesError": { "type": "integer", "minimum": 0 },
+        "entriesPlayable": { "type": "integer", "minimum": 0 },
+        "entriesPolished": { "type": "integer", "minimum": 0 },
+        "playabilityRate": { "$ref": "#/$defs/Rate" },
+        "polishRate": { "$ref": "#/$defs/Rate" }
+      }
+    },
+
+    "ByStatusCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["ERROR", "PLAYABLE", "POLISHED"],
+      "properties": {
+        "ERROR": { "type": "integer", "minimum": 0 },
+        "PLAYABLE": { "type": "integer", "minimum": 0 },
+        "POLISHED": { "type": "integer", "minimum": 0 }
+      }
+    },
+
+    "ByProfileCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^(LABEL_CHARACTER_12X1|LABEL_LOCATION_16X1|OBJECTIVE_16X5|NARRATION_16X5|DIALOGUE_12X4|HEROINE_DIARY|UNKNOWN)$": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+
+    "ProfileStatusBucket": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["ERROR", "PLAYABLE", "POLISHED", "total", "readiness", "polish"],
+      "properties": {
+        "ERROR": { "type": "integer", "minimum": 0 },
+        "PLAYABLE": { "type": "integer", "minimum": 0 },
+        "POLISHED": { "type": "integer", "minimum": 0 },
+        "total": { "type": "integer", "minimum": 0 },
+        "readiness": { "$ref": "#/$defs/Rate" },
+        "polish": { "$ref": "#/$defs/Rate" }
+      }
+    },
+
+    "ByProfileStatus": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^(LABEL_CHARACTER_12X1|LABEL_LOCATION_16X1|OBJECTIVE_16X5|NARRATION_16X5|DIALOGUE_12X4|HEROINE_DIARY|UNKNOWN)$": {
+          "$ref": "#/$defs/ProfileStatusBucket"
+        }
+      }
+    },
+
+    "ByIssueCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^(line_budget_exceeded|label_overflow|balloon_line_overflow|broken_word_wrap|unknown_layout_profile|choice_overflow|choice_multiline|forbidden_punctuation|implicit_wrap_without_fffc|low_line_usage|fluidity_headroom|special_token_overflow_risk|encoding_risk|line_padding_space)$": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+
+    "IssueScope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["count", "occurrences", "entriesAffected", "balloonsAffected", "filesAffected"],
+      "properties": {
+        "count": { "type": "integer", "minimum": 0, "description": "Alias for occurrences (0.1.0 back-compat)." },
+        "occurrences": { "type": "integer", "minimum": 0 },
+        "entriesAffected": { "type": "integer", "minimum": 0 },
+        "balloonsAffected": { "type": "integer", "minimum": 0 },
+        "filesAffected": { "type": "integer", "minimum": 0 }
+      }
+    },
+
+    "ByIssueScope": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^(line_budget_exceeded|label_overflow|balloon_line_overflow|broken_word_wrap|unknown_layout_profile|choice_overflow|choice_multiline|forbidden_punctuation|implicit_wrap_without_fffc|low_line_usage|fluidity_headroom|special_token_overflow_risk|encoding_risk|line_padding_space)$": {
+          "$ref": "#/$defs/IssueScope"
+        }
+      }
+    },
+
+    "LineUtilization": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["samples", "avgMaxLine", "avgLine", "avgFillRatio", "avgFillRatioOfMaxLine"],
+      "properties": {
+        "samples": { "type": "integer", "minimum": 0 },
+        "avgMaxLine": { "type": "number", "minimum": 0 },
+        "avgLine": { "type": "number", "minimum": 0 },
+        "avgFillRatio": { "$ref": "#/$defs/Rate" },
+        "avgFillRatioOfMaxLine": { "$ref": "#/$defs/Rate" }
+      }
+    },
+
+    "ByProfileLineUtilization": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^(LABEL_CHARACTER_12X1|LABEL_LOCATION_16X1|OBJECTIVE_16X5|NARRATION_16X5|DIALOGUE_12X4|HEROINE_DIARY|UNKNOWN)$": {
+          "$ref": "#/$defs/LineUtilization"
+        }
+      }
+    },
+
+    "Summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "scenarioCount",
+        "entryCount",
+        "byStatus",
+        "byProfile",
+        "byProfileStatus",
+        "byIssue",
+        "byIssueScope",
+        "lineUtilization",
+        "playabilityRate",
+        "polishRate",
+        "overridesApplied"
+      ],
+      "properties": {
+        "scenarioCount": { "type": "integer", "minimum": 0 },
+        "entryCount": { "type": "integer", "minimum": 0 },
+        "byStatus": { "$ref": "#/$defs/ByStatusCounts" },
+        "byProfile": { "$ref": "#/$defs/ByProfileCounts" },
+        "byProfileStatus": { "$ref": "#/$defs/ByProfileStatus" },
+        "byIssue": { "$ref": "#/$defs/ByIssueCounts" },
+        "byIssueScope": { "$ref": "#/$defs/ByIssueScope" },
+        "lineUtilization": { "$ref": "#/$defs/ByProfileLineUtilization" },
+        "playabilityRate": { "$ref": "#/$defs/Rate" },
+        "polishRate": { "$ref": "#/$defs/Rate" },
+        "overridesApplied": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "exemptScenarios": {
+          "type": "array",
+          "description": "Optional. Scen ids exempt from layout QA (CN-origin content with aesthetic <$FFFD>); their ERROR entries are downgraded to PLAYABLE while issues stay visible.",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "Classification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["confidence", "reason", "state"],
+      "properties": {
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+        "reason": { "type": "string" },
+        "state": { "type": "string" }
+      }
+    },
+
+    "Line": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["index", "tiles", "fillRatio", "text"],
+      "properties": {
+        "index": { "type": "integer", "minimum": 0 },
+        "tiles": { "type": "integer", "minimum": 0 },
+        "fillRatio": { "type": "number", "minimum": 0 },
+        "text": { "type": "string" }
+      }
+    },
+
+    "Balloon": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["index", "lines"],
+      "properties": {
+        "index": { "type": "integer", "minimum": 0 },
+        "lines": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Line" }
+        }
+      }
+    },
+
+    "TileUsage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["budget", "linesUsed"],
+      "properties": {
+        "maxLine": { "type": "integer", "minimum": 0 },
+        "minLine": { "type": "integer", "minimum": 0 },
+        "avgLine": { "type": "number", "minimum": 0 },
+        "avgFillRatio": { "type": "number", "minimum": 0 },
+        "linesUsed": { "type": "integer", "minimum": 0 },
+        "budget": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "prefixItems": [
+            { "type": "integer", "minimum": 0 },
+            { "type": ["integer", "null"], "minimum": 0 }
+          ],
+          "items": { "type": ["integer", "null"], "minimum": 0 }
+        },
+        "balloons": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Balloon" }
+        },
+        "approvedLines": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": { "type": "integer", "minimum": 0 }
+          }
+        }
+      }
+    },
+
+    "Issue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["code", "severity"],
+      "properties": {
+        "code": { "$ref": "#/$defs/IssueCode" },
+        "severity": { "$ref": "#/$defs/Severity" },
+        "detail": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+
+    "Entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "index",
+        "terminator",
+        "profile",
+        "classification",
+        "status",
+        "tileUsage",
+        "issues"
+      ],
+      "properties": {
+        "index": { "type": "integer", "minimum": 0 },
+        "terminator": {
+          "type": "string",
+          "enum": ["FFFE", "FFFF", ""]
+        },
+        "profile": { "$ref": "#/$defs/Profile" },
+        "semantic_subtype": { "type": ["string", "null"] },
+        "classification": { "$ref": "#/$defs/Classification" },
+        "status": { "$ref": "#/$defs/Status" },
+        "tileUsage": { "$ref": "#/$defs/TileUsage" },
+        "issues": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Issue" }
+        },
+        "jp": {
+          "type": ["string", "null"],
+          "description": "Optional. Raw JP entry paired by index when --jp-scripts was passed. null when an EN entry has no JP counterpart."
+        },
+        "exempt": {
+          "type": "boolean",
+          "description": "Optional. True when this entry belongs to a layout-QA-exempt scen (CN-origin aesthetic <$FFFD>); its ERROR status is downgraded to PLAYABLE but issues stay visible."
+        }
+      }
+    },
+
+    "Scenario": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "path",
+        "entryCount",
+        "byStatus",
+        "byIssue",
+        "readinessRate",
+        "polishRate"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^scen\\d{3}$" },
+        "path": { "type": "string" },
+        "entryCount": { "type": "integer", "minimum": 0 },
+        "byStatus": { "$ref": "#/$defs/ByStatusCounts" },
+        "byIssue": { "$ref": "#/$defs/ByIssueCounts" },
+        "readinessRate": { "$ref": "#/$defs/Rate" },
+        "polishRate": { "$ref": "#/$defs/Rate" },
+        "entries": {
+          "type": "array",
+          "description": "Per-entry detail. Present in full reports; dropped from trimmed snapshots.",
+          "items": { "$ref": "#/$defs/Entry" }
+        },
+        "exempt": {
+          "type": "boolean",
+          "description": "Optional. True when this scen is exempt from layout QA (CN-origin content with aesthetic <$FFFD>)."
+        },
+        "exemptReason": {
+          "type": "string",
+          "description": "Optional. Human-readable reason the scen is exempt; sourced from config/layout-fitting-excluded.json."
+        },
+        "hasDiary": {
+          "type": "boolean",
+          "description": "Optional. True when this scen contains in-world DIARY/letter entries (semantic_subtype=diary, HEROINE_DIARY profile); registered in config/diary-entries.json."
+        }
+      }
+    }
+  }
+}

@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,12 +19,12 @@ Emerick<$FFFF>
 Worm<$FFFF>
 Gerold<$FFFF>
 Barral Castle<$FFFF>
- …I call upon thee Lushiris, oh holy goddess of light, please lend me your restoring powers.<$FFFD>Holy light purify this one from the wicked evil that robs his freedom.<$FFFD>Less Ibiru Dasu Remu!<$FFFE>
- Kikikii!<$FFFE>
+…O Lushiris, holy<$FFFC>Goddess of Light, lend<$FFFC>me your healing power.<$FFFD>Holy light, purify this<$FFFC>one of the wicked evil<$FFFC>that robs his freedom.<$FFFD>Less Ibiru Dasu Remu!<$FFFE>
+Kikikii!<$FFFE>
 …Guh!<$FFFE>
- Are you alright Gerold?<$FFFE>
- …Yes. So this is the pain I have to endure for my crimes as the Dark Knight…<$FFFD>Uuh…<$FFFE>
- We will head for Laffel right away. Gerold, you should rest a while.<$FFFE>
- …Forgive me.<$FFFB>But I will surely follow. Until then, please look after Layla.<$FFFE>
- Leave it to us. Everyone, let's hurry back to Laffel!<$FFFE>
- Farewell, Father. Sleep tight…sleep peacefully…<$FFFE> 
+Are you alright Gerold?<$FFFE>
+…Yes. So this is the<$FFFC>pain I have to endure<$FFFC>for my crimes as the<$FFFC>Dark Knight…<$FFFD>Uuh…<$FFFE>
+We will head for Laffel<$FFFC>right away. Gerold, you<$FFFC>should rest a while.<$FFFE>
+…Forgive me.<$FFFB>But I will<$FFFC>surely follow. Until<$FFFC>then, please look after<$FFFC>Layla.<$FFFE>
+Leave it to us.<$FFFC>Everyone, let's hurry<$FFFC>back to Laffel!<$FFFE>
+Farewell, Father. Rest<$FFFC>peacefully…rest<$FFFC>peacefully…<$FFFE>

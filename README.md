@@ -2,42 +2,33 @@
 
 A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, Japan), built from the original Japanese disc image.
 
-<div align="center">
-<table>
-  <tr>
-    <td><img src="assets/screenshots/01.png" width="320" /></td>
-    <td><img src="assets/screenshots/02.png" width="320" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/03.png" width="320" /></td>
-    <td><img src="assets/screenshots/04.png" width="320" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/05.png" width="320" /></td>
-    <td><img src="assets/screenshots/06.png" width="320" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/07.png" width="320" /></td>
-    <td><img src="assets/screenshots/08.png" width="320" /></td>
-  </tr>
-</table>
-</div>
-
 ## About this patch
 
-*Langrisser III* is a 1996 tactical RPG that never received an official English release. This patch translates the game's dialogue, story, and most of the menus into English so it can be played end-to-end without knowing Japanese.
+*Langrisser III* is a 1996 tactical RPG that never received an official English release. This patch translates the game's story, dialogue, menus, and interface into English so it can be played end to end without knowing Japanese.
+
+**Version 0.7 is a major revision: the patch is now 100% this project's own work.** Every change on the disc is generated from this repository's source against the original Japanese game: there are no third-party binaries in the pipeline, and nothing is carried over from CyberWarriorX's earlier v0.2 patch (credited below as groundwork, not as shipped code or data). Building on the earlier fan-translation draft, the English script was reworked line by line against the Japanese, correcting mistranslations and trimming a few additions that weren't in the original, so each character's voice and the tone of every line follow the source.
 
 Character and place names broadly follow the spellings used in *Langrisser Mobile*, the modern English release of the series.
 
-## Status : v0.6 (work in progress)
+## Status : v0.7 (work in progress)
 
-This is an unfinished translation. The story can be followed from start to finish, but expect rough edges:
+Version 0.7 is a radical step up in quality: the patch is now fully self-contained, and the entire script was rewritten and re-checked line by line against the Japanese.
 
-- Some dialogue lines are still being polished against the original Japanese : phrasing may feel awkward in places,
-- Some lines still break in the middle of words, and some text boxes that were one box in JP still take more than one box in EN.
-- Item descriptions, and other UI text are still untranslated and will appear as garbled characters in-game.
+**Working**
 
-Future releases will continue to polish the dialogue and replace the remaining Japanese UI text.
+- The whole story plays start to finish in English, with every dialogue and narration line translated.
+- The interface is translated: menus, the save/load screen, the name-entry keyboard, and item / class / spell names with their descriptions.
+- The opening movie plays with English subtitles.
+- A layout-QA toolkit that checks how every line wraps inside the game's text boxes, so dialogue is fitted correctly before the disc is built.
+- A companion English strategy guide ([text](strategy-guide/langrisser3-guide.txt), [HTML](strategy-guide/langrisser3-guide.html)) generated from the translation itself.
+
+**Still to do toward v1.0**
+
+- Some in-game messages still use the original Japanese layout, like the misaligned level-up messages.
+- A couple of menu boxes need resizing (e.g. in the equipment menu).
+- A few in-game graphics are still in Japanese and need translating (e.g. the mid-game opening and the ending credits).
+- A font and text-encoder refactor to tighten the remaining typography.
+- A full playthrough test, including cheat codes, the secret scenarios, and both endings.
 
 ## Applying the patch
 
@@ -76,9 +67,9 @@ python3 build.py --jp-iso "/path/to/Langrisser III (Japan)"
 
 The folder you point to should contain the `.cue` plus the Track 01 data `.bin` and all audio track `.bin` files.
 
-This produces `build/Langrisser_III_English.cue` and all track `.bin` files : ready to play.
+This produces a self-contained folder under `build/` named after the `.cue` (e.g. `build/Langrisser III (English v0.7)/`) holding the `.cue` and all track `.bin` files : ready to play.
 
-3. **Load in your emulator** : open `build/Langrisser_III_English.cue` and play.
+3. **Load in your emulator** : open the `.cue` inside that folder and play.
 
 ### Compatibility
 
@@ -98,6 +89,17 @@ This produces `build/Langrisser_III_English.cue` and all track `.bin` files : re
 * **Akari Dawn, ElfShadow, Oogami**: original English translation scripts, used as a draft baseline and revised against the Japanese source.
 * **VermillionDesserts**: independent translation build and D00.DAT research.
 
+## License
+
+The code in this repository is licensed under the **GNU General Public License, version 3 or later** (`GPL-3.0-or-later`). See [`LICENSE`](LICENSE). This covers the build pipeline, the extraction and layout tools (`tools/`), the tests, the schemas and authored glossaries, and the English translation scripts (`scripts/`).
+
+This grant covers the maintainer's own contributions, to the extent of the rights he holds. It does not, and cannot, grant rights over the original game or over the prior third-party work this project builds on (see **Acknowledgements** and **Legal**).
+
+### Third-party assets
+
+* **`data/fonts/Mx437_CL_EagleIII_8x16.ttf`**, and the in-game glyphs derived from it, are from VileR's *Ultimate Oldschool PC Font Pack* and remain under **CC BY-SA 4.0**. Attribution: VileR / int10h.org. Details in [`data/fonts/SOURCES.md`](data/fonts/SOURCES.md).
+* The English script began from a draft translation baseline by **Akari Dawn, ElfShadow and Oogami**, and from **CyberWarriorX's** v0.2 patch (bigram font, menu translations). Those contributions remain the work of their respective authors.
+
 ## Legal
 
-This is a fan translation patch for educational and preservation purposes. You must own a legitimate copy of *Langrisser III (Japan)* for Sega Saturn. No copyrighted game data is distributed in this repository.
+This is an unofficial fan translation patch for educational and preservation purposes. It is not affiliated with, sponsored by, or endorsed by NCS / Masaya or any rights holder. *Langrisser III* and all related assets are © their respective owners. You must own a legitimate copy of *Langrisser III (Japan)* for Sega Saturn to use this patch. No copyrighted game data is distributed in this repository.

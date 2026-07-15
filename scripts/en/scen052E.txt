@@ -5,28 +5,28 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-06<$FFFC><$0000><$0000><$0000>Enemies on all Sides<$0000><$0000><$0000><$FFFE>
- With Luna, daughter of the brilliant strategist Baron Torrand, now among his allies, <$F600><$0000> headed for the border where the Rigüler Empire and the Kingdom of Barral stood facing off. There he intended to carry out the baron's daring plan.<$FFFE>
- Here they meant to make the two nations fight each other, draw attention away from themselves if only a little, and buy as much time as they could.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>•Lure the Empire and Barral into combat, then retreat all allies to the opposite shore<$FFFE>
- *Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Near the Borderline between Barral and the Rigüler Empire<$FFFF>
- Sir <$F600><$0000><$FFFB>An enemy base is just a little farther.<$FFFE>
- Understood.<$FFFD>Let's execute the first part of the Baron's plan.<$FFFD>That will buy us enough time to sneak past and visit Archmage Jessica at the Lushiris Gate.<$FFFE>
- You're talking about getting our enemies to fight each other, right?<$FFFE>
- Indeed.<$FFFD>Lord Raymond is still fighting against Colcia.<$FFFD>If we can trick the Empire into fighting against Barral, we will be in a much better position.<$FFFE>
- But, how can we get them to fight each other?<$FFFE>
- Ahead of us is a borderline manned by the Imperial and the Barral armies.<$FFFD>If we attack both of their armies simultaneously there, and quickly retreat, they will fight amongst themselves.<$FFFE>
- I see!<$FFFB>Make each army think the other attacked them!<$FFFE>
- That's right.<$FFFB>Come on, everyone!<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐０６<$FFFC><$0000><$0000><$0000>Enemies on all Sides<$0000><$0000><$0000><$FFFE>
+With Luna, the baron's daughter,<$FFFC>beside him, <$F600><$0000><$FFFC>made for the Rigüler-Barral<$FFFC>border to carry out Torrand's<$FFFC>clever plan.<$FFFE>
+Here they meant to make the two<$FFFC>nations fight each other, draw<$FFFC>attention away from themselves<$FFFC>if only a little, and buy as<$FFFC>much time as they could.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat all enemies<$FFFC>•Lure the Empire and Barral<$FFFC><$0000>into combat, then retreat<$FFFC><$0000>all allies to the far shore<$FFFE>
+*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Rigüler-Barral Border<$FFFF>
+<$F600><$0000>, sir.<$FFFB><$FFFC>The enemy front-line<$FFFC>base is just ahead.<$FFFE>
+Understood.<$FFFD>Let's execute the first<$FFFC>part of the Baron's<$FFFC>plan.<$FFFD>That will buy us enough<$FFFC>time to sneak past and<$FFFC>visit Archmage Jessica<$FFFC>at the Lushiris Gate.<$FFFE>
+You're talking about<$FFFC>getting our enemies to<$FFFC>fight each other, right?<$FFFE>
+Exactly.<$FFFD>Lord Raymond is still<$FFFC>fighting against Colcia.<$FFFD>If we set the Empire and<$FFFC>Barral at each other's<$FFFC>throats, we gain the<$FFFC>upper hand.<$FFFE>
+But, how can we get them<$FFFC>to fight each other?<$FFFE>
+Ahead, the Imperial and<$FFFC>Barral armies face off<$FFFC>at the border.<$FFFD>Strike both<$FFFC>at once, then pull back,<$FFFC>and they'll turn on each<$FFFC>other.<$FFFE>
+I see!<$FFFB><$FFFC>Make each army think<$FFFC>the other attacked!<$FFFE>
+That's right.<$FFFB><$FFFC>Let's go, everyone!<$FFFE><$FFFF>

@@ -11,21 +11,21 @@ Gladiator<$FFFF>
 Swordsman<$FFFF>
 Swordsman<$FFFF>
 Swordsman<$FFFF>
-Minotauros<$FFFF>
+Minotaur<$FFFF>
 Swordsman<$FFFF>
 Hero<$FFFF>
 King<$FFFF>
 Samurai Master<$FFFF>
 Queen<$FFFF>
 Sword Master<$FFFF>
-Kaiser<$FFFF>
+Emperor<$FFFF>
 Queen<$FFFF>
 Prince<$FFFF>
 Sword Master<$FFFF>
 Dark Knight<$FFFF>
 Mad King<$FFFF>
 Cyclops<$FFFF>
-Gal Shok<$FFFF>
+Galshook<$FFFF>
 Cleric<$FFFF>
 Cleric<$FFFF>
 Cleric<$FFFF>
@@ -75,9 +75,9 @@ Wizard<$FFFF>
 Wizard<$FFFF>
 Dark Master<$FFFF>
 Dark Master<$FFFF>
-Sorceror<$FFFF>
-Sorceror<$FFFF>
-Sorceror<$FFFF>
+Sorcerer<$FFFF>
+Sorcerer<$FFFF>
+Sorcerer<$FFFF>
 Mage<$FFFF>
 Mage<$FFFF>
 Mage<$FFFF>
@@ -155,12 +155,12 @@ Manticore<$FFFF>
 Wolf Knight<$FFFF>
 Grand Knight<$FFFF>
 Grand Knight<$FFFF>
-Cerberos<$FFFF>
+Cerberus<$FFFF>
 Shika Wolf<$FFFF>
 Grand Lord<$FFFF>
 Grand Lord<$FFFF>
 Master Dino<$FFFF>
-Shika-Shika Wolf<$FFFF>
+Shika Shika Wolf<$FFFF>
 Grand Master<$FFFF>
 Grand Master<$FFFF>
 Behemoth<$FFFF>
@@ -168,22 +168,22 @@ Lord<$FFFF>
 Lord<$FFFF>
 Lord<$FFFF>
 Wood Golem<$FFFF>
-Spearman<$FFFF>
+Spear<$FFFF>
 High Lord<$FFFF>
 High Lord<$FFFF>
 High Lord<$FFFF>
 Stone Golem<$FFFF>
-Shika Spearman<$FFFF>
+Shika Spear<$FFFF>
 General<$FFFF>
 General<$FFFF>
 General<$FFFF>
 Iron Golem<$FFFF>
-Shika-Shika Spearman<$FFFF>
+Shika Shika Spear<$FFFF>
 Marshal<$FFFF>
 Marshal<$FFFF>
 Marshal<$FFFF>
 Shika Marshal<$FFFF>
-Taros<$FFFF>
+Talos<$FFFF>
 Hawk Knight<$FFFF>
 Pegasus Knight<$FFFF>
 Hawk Knight<$FFFF>
@@ -201,9 +201,9 @@ Dragon Master<$FFFF>
 Dragon Master<$FFFF>
 Dragon Master<$FFFF>
 Roc<$FFFF>
-Bandido<$FFFF>
-Bandido<$FFFF>
-Bandido<$FFFF>
+Bandit<$FFFF>
+Bandit<$FFFF>
+Bandit<$FFFF>
 Thief<$FFFF>
 Thief<$FFFF>
 Thief<$FFFF>
@@ -230,7 +230,7 @@ Vampire Lord<$FFFF>
 Great Dragon<$FFFF>
 Chaos Dragon<$FFFF>
 Bahamut<$FFFF>
-Fnir<$FFFF>
+Fafnir<$FFFF>
 Gel Gazer<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>

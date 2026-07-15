@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -23,186 +23,186 @@ Velzerian Commander<$FFFF>
 Monster<$FFFF>
 Sieghart<$FFFF>
 Defeat Böser<$FFFE>
-Death of <$F600><$0000><$FFFC>Death of Varna's sister Anna<$FFFE>
-Velzeria Castle - Underground<$FFFF>
- Hmm, it would seem that Feraquea and Grove are finished for now as well.<$FFFE>
- You're Böser!<$FFFE>
- Indeed. My name shall be Böser. As it is for all Velzerian kings and successors to the Demon Sword Alhazard.<$FFFE>
- Although humans may know me as, the Prince of darkness.<$FFFE>
- You were the one responsible for the destruction of my homeland!<$FFFE>
- Hahaha, so it would seem. Certainly, it was quiet a pleasure all those years back, my what good fun.<$FFFE>
- Fun!?<$FFFE>
- Precisely. I can hardly think of anything more entertaining than destroying some petty humans.<$FFFD>And who would care about that backwater eastern village in the first place.<$FFFE>
- Uuaarrgh, you will pay for this Böser!<$FFFE>
- Everyone, let us be as one and smite the archfiend of humanity! We cannot allow him have his way with this world and endanger the peace so many gave their lives for!<$FFFE>
- Well said! If you like it or not, you will soon realize the power humans posses, Böser!<$FFFE>
- Muhahaha, now fathom the unmatchable power of Alhazard!<$FFFE>
- As the successors of Alhazard, by the name of Böser, I command you to take shape!<$FFFE>
- That can't be! Just a moment ago there was no demonic presence at all!<$FFFE>
- It seems that they were hidden somehow.<$FFFE>
- He summoned an Arch demon and a Bahamut. Only to summon all those lesser minions is beyond difficult, good heavens.<$FFFE>
- Not only that but he just summoned all those with one simple incantation.<$FFFE>
- This is the terrible might of Alhazard.<$FFFE>
- The one who wields Alhazard becomes King of all Demons.<$FFFE>
- All demons have unyielding loyalty to their Lord and will bid his every command. It is said Alhazard's powers to control the demon kind are infinite.<$FFFE>
-Ho ho. That woman seems quite knowledgeable about this demon sword. Just as one would expect of the one called an avatar of Lucilis.<$FFFE>
- But after all your annoyance will end too once you are dead.<$FFFE>
- You will soon regret underestimating us, Böser. By Lushiris sacred name I vow to defeat you. For such is my holy mission.<$FFFE>
- Hmph. At the moment you are nothing but a fragile bag of flesh, offshoot of Lushiris. Such is not to be feared by the likes of myself.<$FFFE>
- Now, let the bloody festivities begin!<$FFFE>
- Threatening the hostage's life was your last hope for escaping your fate.<$FFFD>Give up Böser.<$FFFE>
- Ridiculous, there is nothing you lowly humans can do to me! Shortly you shall feel my mortal wrath for your insolence!<$FFFE>
- Oh… Be my guest.<$FFFE>
- Sister!<$FFFE>
- Anna! Hold out a little while longer! Help is on the way!<$FFFE>
- Please stop! Don't hurt my big sister!<$FFFE>
- Hehehehe… If she decides to turn against me she chooses certain death.<$FFFD>Humans are such brainless creatures…<$FFFE>
- Hmph! You won't be so full of yourself for long!<$FFFE>
- Kill them all!<$FFFE>
+<$F600><$0000> falls<$FFFC>or Varna's sister<$FFFC>Anna falls<$FFFE>
+Velzeria Castle, Underground<$FFFF>
+So Feraquea and Grove<$FFFC>have fallen as well.<$FFFE>
+You're Böser!<$FFFE>
+Indeed. I am Böser, King<$FFFC>of Velzeria, heir to the<$FFFC>Demon Sword Alhazard.<$FFFE>
+Some among the humans<$FFFC>have a name for me…<$FFFC>the Prince of Darkness.<$FFFE>
+So you sent your minions<$FFFC>to lay waste to my land!<$FFFE>
+Oho, that attire. A few<$FFFC>years back I destroyed a<$FFFC>kingdom for sport, and<$FFFC>you survived?<$FFFE>
+Fun!?<$FFFE>
+Quite so. To me it was<$FFFC>only a game. I razed it,<$FFFC>but never took the land.<$FFFD>A backwater in the east<$FFFC>is worth nothing to me.<$FFFE>
+Grrrh… I will never<$FFFC>forgive you, Böser!<$FFFE>
+Everyone, we must fight!<$FFFC>We can't let this world<$FFFC>fall to those who break<$FFFC>the peace for sport!<$FFFE>
+That's right! Now feel<$FFFC>the power of us humans,<$FFFC>Böser!<$FFFE>
+Heh heh heh… I'll<$FFFC>teach you to dread the<$FFFC>power of Alhazard!<$FFFE>
+By the name of Böser,<$FFFC>chosen by Alhazard, come<$FFFC>forth, my servants!<$FFFE>
+That can't be! Until<$FFFC>now there was no sign of<$FFFC>them at all!<$FFFE>
+They were not hiding…<$FFFC>they were summoned here.<$FFFE>
+An Arch Demon, and even<$FFFC>a Bahamut. Such beasts<$FFFC>are hard even to summon<$FFFC>into this world.<$FFFE>
+And to summon this many<$FFFC>at once? I have never<$FFFC>heard of such a thing.<$FFFE>
+Everyone, that is the<$FFFC>power of Alhazard.<$FFFE>
+Alhazard picks its own<$FFFC>master, and all demons<$FFFC>swear it loyalty.<$FFFE>
+That loyalty grants the<$FFFC>master immense power.<$FFFC>That power is said to be<$FFFC>boundless, without end.<$FFFE>
+Oho. That woman knows<$FFFC>much of the Demon Sword.<$FFFC>Fitting, since they call<$FFFC>her Lushiris's avatar.<$FFFE>
+I should have killed you<$FFFC>first, even if it caused<$FFFC>a bit of a stir.<$FFFE>
+A pity for you, Böser.<$FFFC>In Lady Lushiris's name,<$FFFC>I shall defeat you.<$FFFC>That is my mission.<$FFFE>
+Hmph. Avatar of Lushiris<$FFFC>or not, you're just a<$FFFC>being of human flesh.<$FFFC>Nothing to fear.<$FFFE>
+Now then… come at me!<$FFFE>
+Taking a hostage won't<$FFFC>earn you a way to win.<$FFFD>Why not give up, Böser?<$FFFE>
+How dare a lowly human<$FFFC>mock me like this?<$FFFC>You will regret this!<$FFFE>
+Oh… Be my guest.<$FFFE>
+Sister!<$FFFE>
+Anna! Hang on a little<$FFFC>longer! Help is coming<$FFFC>to save you!<$FFFE>
+I'm begging you, stop!<$FFFC>You'll get my big sister<$FFFC>killed as well!<$FFFE>
+Hehehe… That poor woman<$FFFC>could never forsake you.<$FFFD>Humans truly are such<$FFFC>foolish creatures…<$FFFE>
+Hmph! Keep on gloating<$FFFC>while you still can!<$FFFE>
+Kill them all!<$FFFE>
 GYAAAA!<$FFFE>
- Surrond them!<$FFFE>
+Surround them!<$FFFE>
 SYAAAA!<$FFFE>
- The price for ridiculing me, is paid in blood!<$FFFE>
- What wasteful struggle…<$FFFE>
- Show those foolish humans the power of darkness! Move out!<$FFFE>
+The price for mocking me<$FFFC>is paid in her blood!<$FFFE>
+Such a futile struggle…<$FFFE>
+Show the foolish humans<$FFFC>the power of darkness!<$FFFC>Now go!<$FFFE>
 GA!<$FFFE>
- As you look into the hole, a floating feather comes into sight. But it's to far away to be reached with your hands alone.<$FFFE>
- What do you do?<$FFFE>
- Try to reach it withyour weapon.<$FFFE>
- Jump into the hole.<$FFFE>
- Breath at the feather.<$FFFE>
- As soon as your weapon touches the feather it turns to dust…<$FFFE>
- You jump into the hole and grasp the feather your body is lifted back to the ground by the feather's magic.<$FFFE>
- Heavenly Wings were obtained!<$FFFE>
- Your breath throws the feather off to an unreachable distance.<$FFFE>
- While inspecting the hole you notice a large floating egg.<$FFFE>
- Do you take the egg?<$FFFE>
- You succeeded in getting the egg.<$FFFE>
- What do you do with it?<$FFFE>
- Eat it.<$FFFE>
- Try to open it.<$FFFE>
- Put it away carefully.<$FFFE>
-<$F600><$05DA>'s STR rose by 1!<$FFFE>
- You broke the egg, but only the gooey contents fell out…<$FFFE>
- The Ancient Egg was obtained!<$FFFE>
- The egg quietly sank to the bottom of the hole…<$FFFE>
- Your last hour has come, Böser! You have no hope of victory!<$FFFE>
- Nonsense! Pathetic Insects!<$FFFD>You humans shall perish and the reign of demon will dawn upon this world!<$FFFE>
- That day will never come!<$FFFE>
- I can't fall here…<$FFFE>
- It hurts, it hurts!<$FFFE>
- Father…<$FFFE>
- Coty…<$FFFE>
- Sorry, everyone… So tired…<$FFFE>
- Oh…<$FFFE>
- Sir, <$F600><$0000>…<$FFFE>
- Ahh, that light…<$FFFE>
- Sophia…<$FFFE>
- Guuugh…<$FFFE>
- I've failed!<$FFFE>
- This could have been avoided…<$FFFE>
- Oh, the blue sky…<$FFFE>
- Such regret…<$FFFE>
- For the sake of every human in this world, I will destroy you! Prepare yourself Böser!<$FFFE>
- Hohoho! Come, taste the bitter suffering of the powerless! I will teach you a lesson in pain unimaginable!<$FFFE>
- This is absurd!?<$FFFE>
- W where do you take that strength from?<$FFFD>The power of humans should be inferior to our own… Hohoho…<$FFFE>
- Damn you, Böser! I won't allow this!<$FFFE>
- Hmph. You should have just died quietly.<$FFFE>
- I knew you'd never release Anna willingly.<$FFFD>For Varna's sake, I couldn't afford to die!<$FFFE>
- This castle will be your grave! Only when you are dead, will this world breath freely!<$FFFE>
- Hahaha. Do you want to taste Alhazard's power?<$FFFE>
- Anna…<$FFFE>
- Big Sis!<$FFFE>
- Trust me…help will be here every minute now.<$FFFD>I won't abandon you till my last breath…<$FFFE>
- You're such a nuisance!<$FFFE>
- Böser! Prepare yourself!<$FFFE>
- Such mockery… I…I am the successors of AlHazard…this can't…<$FFFE>
- Alhazard was obtained!<$FFFE>
- Today's victory makes me proud to be part of your unit <$F600><$0000>.<$FFFE>
- Sir <$F600><$0000>…<$FFFC>A battle should never be allowed to drag on too long.<$FFFD>It will affect what we can do in the next engagement…<$FFFE>
- Your Excellency!<$FFFE>
- You have done unexpectedly well, <$F600><$0000>. It seems my help wasn't needed after all.<$FFFE>
- Altemüller? So you were alive after all?<$FFFE>
- Of course.<$FFFD>But more importantly is Varna's sister safe<$FFFE>
- She is safe.<$FFFE>
- Your Excellency and you too <$F600><$0000>, I thank you from the bottom of my heart…<$FFFE>
- Anna are you hurt?<$FFFE>
- You have my eternal gratitude lord Altemüller.<$FFFE>
- Thank you. Only due to everyone's combined efforts that nobody died.<$FFFE>
- This should put an end to Velzeria's ambitions as well.<$FFFD>For a while demon invading shouldn't be a threat.<$FFFE>
- So this is the power of Alhazard?<$FFFE>
- This overwhelming power must come from Alhazard…<$FFFE>
- I cannot win against such might.<$FFFE>
+You peer into the hole<$FFFC>and see a single feather<$FFFC>floating within. But it<$FFFC>lies beyond your reach.<$FFFE>
+What do you do?<$FFFE>
+Prod it with a weapon<$FFFE>
+Jump into the hole<$FFFE>
+Blow on it<$FFFE>
+Poke the feather with a<$FFFC>weapon and it scatters<$FFFC>into dust…<$FFFE>
+Diving in, you grab the<$FFFC>feather. Then its power<$FFFC>lifts your body upward,<$FFFC>floating into the air.<$FFFE>
+Acquired the Heavenly<$FFFC>Wings!<$FFFE>
+The feather is carried<$FFFC>far off, vanishing from<$FFFC>your sight…<$FFFE>
+Peering into the hole,<$FFFC>you notice a large egg<$FFFC>floating within.<$FFFE>
+Do you take the egg?<$FFFE>
+You got the egg safely.<$FFFE>
+What do you do with it?<$FFFE>
+Eat it<$FFFE>
+Try cracking it<$FFFE>
+Put it away carefully<$FFFE>
+<$F600><$05DA> STR rose by 1!<$FFFE>
+You broke the egg, but<$FFFC>only the gooey contents<$FFFC>dribbled out…<$FFFE>
+Acquired the Ancient<$FFFC>Egg!<$FFFE>
+The egg quietly sank to<$FFFC>the bottom of the hole…<$FFFE>
+Give it up, Böser! You<$FFFC>stand no chance!<$FFFE>
+Nonsense! Pathetic<$FFFC>insects!<$FFFD>We will destroy you all<$FFFC>and forge a world where<$FFFC>demons rule supreme!<$FFFE>
+I'll never allow it!<$FFFE>
+I can't fall here…<$FFFE>
+It hurts, it hurts!<$FFFE>
+Father…<$FFFE>
+Coty…<$FFFE>
+Sorry, everyone… I'm<$FFFC>so tired now…<$FFFE>
+Oh…<$FFFE>
+Sir, <$F600><$0000>…<$FFFE>
+Ahh, that light…<$FFFE>
+Sophia…<$FFFE>
+Guuugh…<$FFFE>
+I've failed!<$FFFE>
+Tch… how pathetic…<$FFFE>
+Oh, the blue sky…<$FFFE>
+Such regret…<$FFFE>
+For my lord and Osuzu,<$FFFC>and all you have slain,<$FFFC>I will strike you down!<$FFFC>Prepare yourself, Böser!<$FFFE>
+FUHAHAHA! Struggle as<$FFFC>you will, before my<$FFFC>power you are helpless!<$FFFC>Now learn it!<$FFFE>
+This is absurd!?<$FFFE>
+So this is your power?<$FFFD>Before the dark, mankind<$FFFC>is nothing but garbage.<$FFFC>FUHAHAHA…<$FFFE>
+Damn you, Böser! I won't<$FFFC>forgive this!<$FFFE>
+Hmph. You'd have<$FFFC>done better to just die<$FFFC>quietly.<$FFFE>
+I never thought you'd<$FFFC>return Anna so meekly.<$FFFD>For Varna's sake alone,<$FFFC>I could not die!<$FFFE>
+Then I'll kill you here!<$FFFC>With you dead, my plan<$FFFC>would have been perfect!<$FFFE>
+Heh heh heh. Would you<$FFFC>taste Alhazard's power?<$FFFE>
+Anna…<$FFFE>
+Big Sis!<$FFFE>
+I'm sorry… but help<$FFFC>will surely come.<$FFFD>So never give up… not<$FFFC>till the very end…<$FFFE>
+You're such a nuisance!<$FFFE>
+Böser! Prepare yourself!<$FFFE>
+Th-this is absurd… I,<$FFFC>Alhazard's heir… How<$FFFC>can this be…<$FFFE>
+Acquired Alhazard!<$FFFE>
+Masterful command, Lord<$FFFC><$F600><$0000>.<$FFFE>
+Lord <$F600><$0000>…<$FFFC>We must never let the<$FFFC>battle drag on too long.<$FFFD>It affects what comes<$FFFC>next…<$FFFE>
+Your Excellency!<$FFFE>
+You have grown stronger,<$FFFC><$F600><$0000>.<$FFFC>It seems my aid was not<$FFFC>needed here after all.<$FFFE>
+Altemüller? You're<$FFFC>alive…?<$FFFE>
+Indeed.<$FFFD>But first, is Varna's<$FFFC>sister safe?<$FFFE>
+She is safe.<$FFFE>
+How can I possibly thank<$FFFC>you, Your Excellency,<$FFFC>and <$F600><$0000>…<$FFFC>and all your men?<$FFFE>
+Anna, are you hurt?<$FFFE>
+Thank you so very much,<$FFFC>Lord Altemüller.<$FFFE>
+Thank you. Because of<$FFFC>all of you, I escaped<$FFFC>with my life.<$FFFE>
+Looks like this is the<$FFFC>end of Velzeria too.<$FFFD>The monsters won't be<$FFFC>invading for a while.<$FFFE>
+So this is Alhazard's<$FFFC>power?<$FFFE>
+This is the heightened<$FFFC>power of the Decimation<$FFFC>Sword itself…?<$FFFE>
+That I, of all people,<$FFFC>could not win…<$FFFE>
 GUGAAAAAA!<$FFFE>
- Master Böser…<$FFFE>
- Urggh!<$FFFE>
- Lord Chaos… Lift up the soul from my body…<$FFFE>
- Guaaaargh!<$FFFE>
- After coming so far…<$FFFE>
- Not a grain of power is left within me…<$FFFE>
+Lord Böser…<$FFFE>
+Urggh!<$FFFE>
+Lord Chaos… I offer<$FFFC>myself to you…<$FFFE>
+Guaaaargh!<$FFFE>
+After coming so far…<$FFFE>
+I've no strength left…<$FFFE>
 GAAAAH!<$FFFE>
 GAAAAAH!<$FFFE>
 GAAAARR!<$FFFE>
 GRRAAAAH!<$FFFE>
-I had so high expectations for myself…<$FFFE>
- You brutes…<$FFFE>
- This gotta be a lie… This is the end of a fulfilled life…<$FFFE>
- Guargh!<$FFFE>
+It wasn't meant to be…<$FFFE>
+S-so strong…<$FFFE>
+It's a lie… Me,<$FFFC>dying… surely it's a<$FFFC>lie…<$FFFE>
+Guargh!<$FFFE>
 FUUU!<$FFFE>
- Aaah… It's hopeless…<$FFFE>
- Bastards…<$FFFE>
+Aaah… It's hopeless…<$FFFE>
+Bastards…<$FFFE>
 FUUU!<$FFFE>
 GOOON!<$FFFE>
 GISYAAA!<$FFFE>
 GISYAAA!<$FFFE>
 GOOON!<$FFFE>
- You miserable humans, all your struggling is in vain. Now you shall realize your complete helplessness!<$FFFE>
- Kyaah! Big…Sis…<$FFFE>
- Anna!!<$FFFE>
- Kyaaaaaah!<$FFFE>
- Hohoho! AHAHAHAAHA!<$FFFE>
- Curse you, Böser!<$FFFE>
- Argh, we couldn't save her…<$FFFE>
- Finally I found you, Böser!<$FFFE>
- Varna?<$FFFE>
- Return my little sister Anna to me!<$FFFE>
- Oho if it isn't the perpetrator that disposed of that nuisance Altemüller.<$FFFE>
- What?<$FFFE>
- Silence! You promised to release Anna!<$FFFE>
- Well if you want to see her so badly. Here she is!<$FFFE>
- S…Sister!<$FFFE>
- <$0650>.Anna!<$FFFD>…Böser! Release Anna!<$FFFE>
- Foolish Woman. Did you really believe a promise to a lowly human would have any meaning to me?!<$FFFE>
- Damn you! …Böser!<$FFFE>
- So her little sister was taken hostage.<$FFFE>
- And for the sake of her Altemüller was…<$FFFE>
- It seems like she was threatened into killing Altemüller…<$FFFE>
- Being all alone without any relatives is a cruel fate.<$FFFE>
- …We have to help her. Varna's Sister mustn't be allowed to become another of Böser's victims, like Altemüller.<$FFFE>
- Truer words have never been spoken!<$FFFE>
- Using blood relatives to further your ends… You won't get away with this, Böser!<$FFFE>
- Excellent, simply Excellent! Let all those dark sentiments flow right into Alhazard!<$FFFE>
-So you've come this far. As one would expect from those who bested my three demon commanders.<$FFFE>
- However, don't forget about my little trump card right here.<$FFFE>
-!?<$FFFE>
- Will you continue to oppose me even if this girl's life is on the line?<$FFFE>
- S…Sister…<$FFFE>
- Anna!<$FFFE>
- Dammit, he is using her as a human shield.<$FFFE>
- Worry not.<$FFFE>
- Who said that!?<$FFFE>
- It seems like I was in time.<$FFFE>
- Your Excellency!<$FFFE>
- H…how can this be…Varna should've killed you…<$FFFE>
- Varna! You double crossed me!<$FFFE>
- No, you were just too deluded to notice. Prepare yourself, Böser!<$FFFE>
- Altemüller? How is it possible that you're still alive?<$FFFE>
- Let's save the details for later. For now concentrate on finishing this battle!<$FFFE>
- Now Böser you can't hide behind your hostage anymore!<$FFFE>
- …Huhuhuwahahahaa! Don't forget that I hold the almighty Alhazard in my hands!<$FFFE>
- It seems you are obsessed with power to the bitter end. …such foolishness.<$FFFE>
- Father!?<$FFFE>
- Employing the holy power I am imbued with, I hereby seal away the demonic powers of Alhazard.<$FFFE>
- What…Alhazard's power is fading…<$FFFE>
- Now! Bring him down with one quick sweep!<$FFFE> 
+Mere humans, defying me?<$FFFC>Then go curse your own<$FFFC>miserable weakness!<$FFFE>
+Kyaah! Big…Sis…<$FFFE>
+Anna!!<$FFFE>
+Kyaaaaaah!<$FFFE>
+HOHOHO!<$FFFC>AHAHAHAAHA!<$FFFE>
+Curse you, Böser!<$FFFE>
+Damn it all… We<$FFFC>couldn't save her…<$FFFE>
+I've found you, Böser!<$FFFE>
+Varna?<$FFFE>
+Return my sister Anna<$FFFC>to me, now!<$FFFE>
+Well, well… if it isn't<$FFFC>the very one who killed<$FFFC>Altemüller himself.<$FFFE>
+What?<$FFFE>
+Silence! Return<$FFFC>Anna to me now, as you<$FFFC>promised!<$FFFE>
+So eager to see her?<$FFFC>Here's your sister!<$FFFE>
+S-Sister!<$FFFE>
+A-Anna!<$FFFD>…Böser! Release Anna!<$FFFE>
+Foolish woman. Did you<$FFFC>truly believe I would<$FFFC>keep a promise to a mere<$FFFC>human?!<$FFFE>
+Damn you! …Böser!<$FFFE>
+So her little sister was<$FFFC>taken hostage.<$FFFE>
+But to do so, she had<$FFFC>to strike Altemüller…<$FFFE>
+She was threatened into<$FFFC>killing Altemüller…<$FFFE>
+I have no kin of my own,<$FFFC>so I can only imagine<$FFFC>how it must have hurt.<$FFFE>
+…We must save her.<$FFFC>If Varna's sister also<$FFFC>falls here, Altemüller<$FFFC>could never find peace.<$FFFE>
+You speak the truth!<$FFFE>
+You'd use her own family<$FFFC>as a living shield…<$FFFC>you'll pay, Böser!<$FFFE>
+Splendid, splendid! Your<$FFFC>dark hatred flows into<$FFFC>Alhazard at last!<$FFFE>
+So you've come this far.<$FFFC>No surprise, those who<$FFFC>bested all three of my<$FFFC>Demon Generals.<$FFFE>
+Ah, but I still hold a<$FFFC>trump card of my own.<$FFFE>
+What?!<$FFFE>
+Resist me any further,<$FFFC>and I'll take the girl's<$FFFC>life. Understand?<$FFFE>
+S-Sister…<$FFFE>
+Anna!<$FFFE>
+Tch… resorting to<$FFFC>a hostage as a living<$FFFC>shield…<$FFFE>
+Worry not.<$FFFE>
+Who said that!?<$FFFE>
+Looks like I've made it<$FFFC>here just in time.<$FFFE>
+Your Excellency!<$FFFE>
+What… how can this be…<$FFFC>I thought Varna already<$FFFC>killed you…<$FFFE>
+Varna! You<$FFFC>double-crossed me!<$FFFE>
+You're just a fool.<$FFFC>Brace yourself, Böser!<$FFFE>
+Altemüller? You're still<$FFFC>alive?<$FFFE>
+Details can wait. First,<$FFFC>take him down!<$FFFE>
+In that case… Böser,<$FFFC>your hostage is useless<$FFFC>now!<$FFFE>
+…Heh heh, HA HA HA!<$FFFC>Have you forgotten?<$FFFC>I wield Alhazard!<$FFFE>
+So you'll cling to power<$FFFC>until the bitter end.<$FFFC>…Foolish, Böser.<$FFFE>
+Father!?<$FFFE>
+With my own power I will<$FFFC>seal Alhazard's power!<$FFFE>
+What…? Alhazard's power<$FFFC>is fading away…<$FFFE>
+Now! Bring him down with<$FFFC>one quick sweep!<$FFFE><$FFFF>

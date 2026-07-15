@@ -1,0 +1,55 @@
+Fire
+Fireball
+Freeze
+Blizzard
+Thunder
+Thunderstrm
+Windcutter
+Tornado
+Earthquake
+Meteor
+Holy Blaze
+Turn Undead
+HP Drain
+MP Drain
+Blast
+Sleep
+Confuse
+Zone
+Mute
+Decline
+Protection1
+Protection2
+Attack 1
+Attack 2
+Quick
+Resist
+Heal 1
+Heal 2
+Heal 3
+Forceheal 1
+Forceheal 2
+Forceheal 3
+Teleport
+Random
+High Elf
+Djinn
+Efreet
+Valkyrie
+Freya
+Thor
+Haunt
+Lilith
+Baphomet
+Neptune
+DragonZmbie
+Belzebub
+Jormungandr
+Fenrir
+VampireLord
+Phoenix
+LghtGoddess
+LordofChaos
+Hell Master
+Dragon Lord
+Builder

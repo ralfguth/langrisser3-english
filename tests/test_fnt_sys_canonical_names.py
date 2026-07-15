@@ -1,79 +1,58 @@
-"""Assert that patches/fnt_sys.bin contains the CANONICAL encoded
-forms of character names, not the obsolete CWX-era variants.
+"""Canonical character-name forms in the LIVE fntsys scripts.
 
-fntsys*E.txt scripts are NOT compiled by build.py — patches/fnt_sys.bin
-ships as a same-size overlay. When a character is renamed in the
-script canon (Altemuller → Altemüller, Bozel → Böser, etc.), the
-fnt_sys.bin blob silently retains the old encoded byte sequence until
-someone runs an in-place hex patch.
+The FNT_SYS strings are built from scripts/en/fntsysNE.txt every build
+(encode_fntsys). Name canon lives in lang3_local_docs/NAMES AND TERMS.txt;
+script variants are fixed on sight, never the table.
 
-These tests cross-check the binary blob against the encoder output
-for each canonical name to catch this drift.
+History: this file previously validated the archived 0.2 patch-era blob
+(archive/v02_baseline/fnt_sys.bin) "for posterity". That archive was
+deleted (0.2 patch reference = the 'English Menus v0.2' ISO, forensic only),
+and the pipeline is script-driven now, so the invariant moved to the
+scripts themselves (2026-06-10, roadmap T02). Extend NAME_RENAMES as the
+T05 name-accuracy sweep (fntsys4/10/11) lands.
 """
 
 import sys
 from pathlib import Path
 
-PROJECT_DIR = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(PROJECT_DIR))
-sys.path.insert(0, str(PROJECT_DIR / "tools"))
-
 import pytest
-from tools.font_tools import CHAR_TILE_MAP, BIGRAM_TILE_MAP
-from tools.d00_tools import encode_text_to_entry
 
-FNT_SYS_PATH = PROJECT_DIR / "patches" / "fnt_sys.bin"
-
-
-@pytest.fixture(scope="module")
-def fnt_sys_bytes() -> bytes:
-    if not FNT_SYS_PATH.exists():
-        pytest.skip(f"fnt_sys.bin not present at {FNT_SYS_PATH}")
-    return FNT_SYS_PATH.read_bytes()
-
-
-def _encode(text: str) -> bytes:
-    return encode_text_to_entry(text, CHAR_TILE_MAP, BIGRAM_TILE_MAP)
-
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+SCRIPTS_DIR = PROJECT_DIR / "scripts" / "en"
 
 # (obsolete_form, canonical_form, expected_min_occurrences_of_canonical)
 NAME_RENAMES = [
-    ("Dieharte",   "Diehärte",   4),   # protagonist placeholder + name-input grid
-    ("Altemuller", "Altemüller", 4),   # field marshal name (multiple slots)
+    ("Dieharte",   "Diehärte",   1),   # protagonist default name
+    ("Altemuller", "Altemüller", 1),   # field marshal
     ("Bozel",      "Böser",      1),   # demon overlord
-    ("Riguler",    "Rigüler",    4),   # empire name
+    ("Riguler",    "Rigüler",    1),   # empire name
 ]
 
 
+@pytest.fixture(scope="module")
+def fntsys_text() -> str:
+    files = sorted(SCRIPTS_DIR.glob("fntsys*E.txt"))
+    if not files:
+        pytest.skip(f"no fntsys*E.txt under {SCRIPTS_DIR}")
+    assert len(files) == 15, f"expected 15 fntsys scripts, found {len(files)}"
+    return "\n".join(f.read_text(encoding="utf-8") for f in files)
+
+
 class TestFntSysCanonicalNames:
-    """fnt_sys.bin must contain only the canonical (renamed) byte
-    sequences for character names, not the obsolete CWX-era forms."""
+    """The shipped fntsys scripts must contain only canonical name forms."""
 
     @pytest.mark.parametrize("old,new,min_new_count", NAME_RENAMES)
-    def test_old_form_absent(self, old, new, min_new_count, fnt_sys_bytes):
-        old_bytes = _encode(old)
-        count = fnt_sys_bytes.count(old_bytes)
+    def test_old_form_absent(self, old, new, min_new_count, fntsys_text):
+        count = fntsys_text.count(old)
         assert count == 0, (
-            f"fnt_sys.bin still contains {count} occurrence(s) of obsolete "
-            f"{old!r} (encoded {old_bytes.hex()}). Run the in-place patch to "
-            f"rename to {new!r} (encoded {_encode(new).hex()})."
+            f"fntsys scripts still contain {count} occurrence(s) of obsolete "
+            f"{old!r}; canonical form is {new!r} (NAMES AND TERMS.txt)"
         )
 
     @pytest.mark.parametrize("old,new,min_new_count", NAME_RENAMES)
-    def test_new_form_present(self, old, new, min_new_count, fnt_sys_bytes):
-        new_bytes = _encode(new)
-        count = fnt_sys_bytes.count(new_bytes)
+    def test_new_form_present(self, old, new, min_new_count, fntsys_text):
+        count = fntsys_text.count(new)
         assert count >= min_new_count, (
-            f"fnt_sys.bin contains only {count} occurrence(s) of canonical "
-            f"{new!r} (encoded {new_bytes.hex()}); expected at least "
-            f"{min_new_count}."
-        )
-
-    @pytest.mark.parametrize("old,new,min_new_count", NAME_RENAMES)
-    def test_byte_lengths_match(self, old, new, min_new_count):
-        """In-place patch requires same byte length."""
-        old_len = len(_encode(old))
-        new_len = len(_encode(new))
-        assert old_len == new_len, (
-            f"Cannot patch {old!r}→{new!r} in place: old={old_len}B, new={new_len}B"
+            f"fntsys scripts contain only {count} occurrence(s) of canonical "
+            f"{new!r}; expected at least {min_new_count}"
         )

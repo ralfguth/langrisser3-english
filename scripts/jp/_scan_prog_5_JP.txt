@@ -1,0 +1,9 @@
+# automatic scan of LANG/PROG_5.BIN (39500 bytes)
+# runs of >=4 consecutive bytes in 0x80..0xDF not covered by current overlays
+# 5 runs total
+
+0x002A7  len=  5  96cccccccd  <96>ﾌﾌﾌﾍ
+0x026BA  len=  6  99999999999a  <99><99><99><99><99><9A>
+0x02B5D  len=  7  bcd794d194dd95  ｼﾗ<94>ﾑ<94>ﾝ<95>
+0x065D7  len=  5  d692ac91ac  ﾖ<92>ｬ<91>ｬ
+0x06A84  len=  4  93b592b5  <93>ｵ<92>ｵ

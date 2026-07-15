@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -18,35 +18,35 @@ Varna<$FFFF>
 Emerick<$FFFF>
 Worm Master Rag<$FFFF>
 Rag<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-32<$FFFC><$0000>The Insanity of King Wilder<$0000><$FFFE>
- Thanks to <$F600><$0000>'s wholeheartedly attempt, Freya was convinced to put down arms. Together they set out to cure King Wilder of his madness.<$FFFE>
- <$F600><$0000>'s heartfelt persuasion was in vain. To end being torn between her father and us, Princess Freya took her own life.<$FFFE>
- At last <$F600><$0000>'s company arrives in the heart of the Barral Kingdom. Here they expect to find out what the cause for King Wilder's insanity really is.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat Wilder<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
-Varna's Grave - Near the Velzerian Castle<$FFFF>
- …Varna. The one responsible for your death paid the ultimate price, as did the murderer of my father.<$FFFD>Now the Rigüler Empire and Velzeria are both in my hands. Even so…<$FFFE>
- This sword seems to grow in power with every further battle.<$FFFE>
- That is because you are gradually mastering Alhazard's power.<$FFFE>
- Lord Altemüller…no, you are my lord Böser now.<$FFFE>
- Böser?<$FFFE>
- Yes. Being Böser the ruler over Velzeria, is the destiny of the wielder of Alhazard.<$FFFE>
- The prince of darkness. So, lastly I became Böser myself.<$FFFE>
- Lord Böser's magic, now empowered by Alhazard, is beyond measure.<$FFFE>
- …If that is the case, let me try this.<$FFFE>
- Huh!<$FFFE>
- …Altemüller…<$FFFE>
- T…that can't be!<$FFFE>
- So Alhazard can even return the dead to the living.<$FFFE>
- This magnificent power is yours to command. Lord Böser.<$FFFE>
- But to bring the dead back to life like this…<$FFFE>
- She is not undead. With Böser's powers flesh can be constructed anew to be a vessel for the soul.<$FFFD>She is completely different from the mindless zombies Grove uses.<$FFFD>This woman is truly alive once more. Even though binded to the dark magic. Should it fade the flesh will eventually fall back into ruin.<$FFFE>
- …Hmph. Evidently this is a godlike power.<$FFFE>
- That you would use such power for a mere woman like me… this Varna feels the height of happiness.<$FFFE>
- I shall repay you by becoming a power that aids you.<$FFFE>
- Ah…<$FFFE>
- …Varna. I am so glad to have you back… To be able to meet with you once again…<$FFFE>
- Altemüller…<$FFFE>
- As the new Böser there won't be anything left for you to desire, and Alhazard's powers shall never fail you.<$FFFE>
- Now I truly realize. With Alhazard's Power there is no end to my possibilities.<$FFFE>
- The Empire and Velzeria are already in my hands. Wouldn't Elthlead be a suitable next trophy to claim? Hahahahaha!<$FFFE>
- Lord Altemüller…you have changed…<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐３２<$FFFC><$0000>The Insanity of King Wilder<$0000><$FFFE>
+Moved by <$F600><$0000>'s<$FFFC>heartfelt words, Princess Freya<$FFFC>came to trust him, and so she<$FFFC>joined the quest to break King<$FFFC>Wilder's madness.<$FFFE>
+Yet <$F600><$0000>'s pleas<$FFFC>were in vain. Torn between her<$FFFC>father and her friends, Princess<$FFFC>Freya took her own life.<$FFFE>
+At last <$F600><$0000> and<$FFFC>his companions reached Barral<$FFFC>Castle. What could truly lie<$FFFC>behind King Wilder's descent<$FFFC>into madness…?<$FFFE>
+*Victory Conditions<$FFFC>•Defeat Wilder<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE>
+Varna's Grave<$FFFF>
+…Varna. Your death is<$FFFC>avenged. My father's,<$FFFC>too.<$FFFD>The Rigüler Empire and<$FFFC>Velzeria are mine now.<$FFFC>And yet…<$FFFE>
+Every fight makes this<$FFFC>blade stronger still…<$FFFE>
+That is because you are<$FFFC>slowly learning to wield<$FFFC>Alhazard's full power.<$FFFE>
+Lord Altemüller… no,<$FFFC>Lord Böser.<$FFFE>
+Böser?<$FFFE>
+Yes. Böser, the<$FFFC>title borne by the one<$FFFC>Alhazard deems worthy to<$FFFC>rule all Velzeria…<$FFFE>
+The Prince of Darkness,<$FFFC>Böser. So I too am Böser<$FFFC>now…<$FFFE>
+Now graced<$FFFC>with Alhazard's power,<$FFFC>Lord Böser's magic lies<$FFFC>beyond all measure.<$FFFE>
+…Then let's put it to<$FFFC>the test.<$FFFE>
+Huh!<$FFFE>
+…Altemüller…<$FFFE>
+T-that can't be!<$FFFE>
+With Alhazard's power,<$FFFC>raising the dead is no<$FFFC>trouble at all…<$FFFE>
+Such wondrous power…<$FFFC>Lord Böser.<$FFFE>
+But to raise the dead<$FFFC>back to life…<$FFFE>
+She is no corpse.<$FFFC>Böser's art rebuilds<$FFFC>flesh by magic into a<$FFFC>vessel for the soul.<$FFFD>Grove the necromancer<$FFFC>could raise zombies, but<$FFFC>those were nothing more<$FFFC>than puppeted corpses.<$FFFD>This woman, though,<$FFFC>lives on, so long as the<$FFFC>dark power holds and her<$FFFC>flesh endures.<$FFFE>
+…Hmph. Truly a godlike<$FFFC>power.<$FFFE>
+That you would use such<$FFFC>power for one as lowly<$FFFC>as me… Varna knows no<$FFFC>greater joy.<$FFFE>
+I shall repay you<$FFFC>in full by lending my<$FFFC>strength to your side.<$FFFE>
+Ah…<$FFFE>
+…Varna. I'm so glad<$FFFC>you came back… To see<$FFFC>you once more, like<$FFFC>this…<$FFFE>
+Altemüller…<$FFFE>
+All will be just as you<$FFFC>wish, my lord. Alhazard<$FFFC>will never once betray<$FFFC>you.<$FFFE>
+Now I feel it in full.<$FFFC>With Alhazard in hand,<$FFFC>nothing lies beyond my<$FFFC>reach.<$FFFE>
+The Empire and Velzeria<$FFFC>are mine. Next, perhaps,<$FFFC>I march on Elthlead. Heh<$FFFC>heh heh… hahahaha!<$FFFE>
+Lord Altemüller, you've<$FFFC>changed so much…<$FFFE><$FFFF>

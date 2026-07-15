@@ -5,20 +5,20 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emerick<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-08<$FFFC><$0000> The Southern Lushiris Gate <$0000><$FFFE>
- Long ago, the Lucilis Gate was built to prevent the invasion of monsters. On all four sides stood supporting gates to reinforce the power of the main gate.<$FFFE>
- But now that war has begun, the gate's function has stopped... the barrier that holds back the monsters has vanished, or so it is said.<$FFFE>
- With monsters that could attack at any time, the Lucilis Gate had to be reactivated as quickly as possible. The party headed to the gate to meet Sophia, the keeper of the southern gate.<$FFFE>
- But there, an unexpected enemy lay in wait for them.<$FFFE>
- *Victory Conditions<$FFFC>•Defeat of Do Kahni<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE> 
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐０８<$FFFC><$0000> The Southern Lushiris Gate <$0000><$FFFE>
+Long ago, the Lushiris Gate was<$FFFC>built to hold back the monsters.<$FFFC>On its four sides stood lesser<$FFFC>gates to reinforce its power.<$FFFE>
+But now that war has begun,<$FFFC>the Gate has fallen silent…<$FFFC>the barrier that held back the<$FFFC>monsters has vanished, or so<$FFFC>they say.<$FFFE>
+Against monsters that might<$FFFC>strike at any time, the Lushiris<$FFFC>Gate had to be revived fast. The<$FFFC>party set out to meet Sophia,<$FFFC>the gatekeeper.<$FFFE>
+But there, an unexpected enemy<$FFFC>lay in wait for them.<$FFFE>
+*Victory Conditions<$FFFC>•Defeat of Do Kahni<$FFFC>*Defeat Conditions<$FFFC>•Death of <$F600><$0000><$FFFE><$FFFF>

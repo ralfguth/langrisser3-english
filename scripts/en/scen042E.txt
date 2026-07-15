@@ -1,4 +1,3 @@
-
 Tiaris<$FFFF>
 Liffany<$FFFF>
 Luna<$FFFF>
@@ -6,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -25,48 +24,48 @@ Marquis William<$FFFF>
 Rigüler Commander<$FFFF>
 Layla<$FFFF>
 Larcuss Commander<$FFFF>
-<$0000><$FFFC>  <$0000>SCENARIO-01<$FFFC> Assault on the Floating Castle <$FFFE>
-For ages, Larcuss had thrived,<$FFFC>with Rigüler Empire to the north<$FFFC>and Barral as a southern ally.<$FFFC>Above its capital Larcussia,<$FFFC>the Floating Castle kept peace.<$FFFE>
-Today, in this Floating Castle,<$FFFC>the investiture was at hand.<$FFFC>Diehärte Klaus had trained<$FFFC>long, dreaming of this day.<$FFFC>Now it was about to bear fruit.<$FFFE>
-Yet, as if to shatter his joy,<$FFFC>ominous black wings, in flocks,<$FFFC>stole near the Floating Castle.<$FFFE>
+<$0000><$FFFC>　　　ＳＣＥＮＡＲＩＯ‐０１<$FFFC> Assault on the Floating Castle <$FFFE>
+For ages, Larcuss had prospered,<$FFFC>set between the Rigüler Empire<$FFFC>to the north and allied Barral<$FFFC>to the south. Above Larcussia,<$FFFC>the Floating Castle kept peace.<$FFFE>
+Today, in this Floating Castle,<$FFFC>the investiture was at hand.<$FFFC>Diehärte Klaus had endured harsh<$FFFC>training, dreaming of this day.<$FFFC>Now it was about to bear fruit.<$FFFE>
+Yet, as if to shatter his joy,<$FFFC>flocks of ominous black wings<$FFFC>crept near the Floating Castle.<$FFFE>
 *Victory Conditions<$FFFC>•Total destruction of the enemy<$FFFC>*Defeat Conditions<$FFFC>•Death of the Hero<$FFFE>
 Underground Altar<$FFFF>
 Diehärte.<$FFFC>Hey, Diehärte!<$FFFE>
 It is dawn already.<$FFFC>The investiture awaits.<$FFFE>
- Yes!<$FFFE>
+Yes!<$FFFE>
 What's wrong, nervous?<$FFFC>Haha, can't blame you.<$FFFC>I was the same myself.<$FFFE>
- Lord Gerold…<$FFFE>
+Lord Gerold…<$FFFE>
 Now, don't be so formal.<$FFFE>
 I see you as a brother.<$FFFC>Just call me Gerold.<$FFFE>
 Thanks for everything.<$FFFC>Like you, I'll become<$FFFC>Larcuss's finest knight.<$FFFE>
 Haha, I have high hopes.<$FFFC>Count on me as before.<$FFFE>
 Well, time to get going.<$FFFC>Everyone's waiting.<$FFFE>
- Yes!<$FFFE>
-…At last.<$FFFC>I become a knight,<$FFFC>as in childhood dreams…<$FFFE>
+Yes!<$FFFE>
+…At last. I'll become<$FFFC>the knight I dreamed of<$FFFC>as a boy…<$FFFE>
 Six years as William's<$FFFC>squire already…<$FFFC>How time flies.<$FFFE>
-I wonder how Princess<$FFFC>Freya is faring now…<$FFFE>
-She'll soon be sixteen.<$FFFC>Quite a princess by now…<$FFFE>
+I wonder how Princess<$FFFC>Freya's doing now…<$FFFE>
+She'll soon be sixteen.<$FFFC>Grown quite the princess<$FFFC>by now, I bet…<$FFFE>
 Once the ceremony ends,<$FFFC>I'll tell her the news.<$FFFE>
 Castle Mountains<$FFFF>
 My Lord Altemüller.<$FFFE>
-Four days hiding here,<$FFFC>no movement made.<$FFFC>The men's morale…<$FFFE>
+Four days hidden here,<$FFFC>doing nothing. At this<$FFFC>rate the men will lose<$FFFC>all heart, my lord.<$FFFE>
 No need to worry.<$FFFC>We attack at once.<$FFFE>
-Impossible. Storm comes.<$FFFC>We can't fly in this.<$FFFE>
+Impossible. A storm's<$FFFC>coming. We can't fly in<$FFFC>this.<$FFFE>
 You've heard tales of<$FFFC>the Demonic Cannon, no?<$FFFE>
-They say it can<$FFFC>annihilate a city.<$FFFE>
-Indeed.<$FFFC>That cannon has kept us<$FFFC>from taking Larcuss.<$FFFE>
+They say it can level<$FFFC>a whole city to dust.<$FFFE>
+Indeed. That cannon<$FFFC>has kept us from taking<$FFFC>Larcuss.<$FFFE>
 Then we must infiltrate<$FFFC>without being spotted<$FFFC>by the castle's men.<$FFFE>
-You plan to go above<$FFFC>the clouds, then?<$FFFE>
-That's why I picked<$FFFC>veteran fliers for this.<$FFFC>Better the storm than<$FFFC>the Demonic Cannon, no?<$FFFE>
- I agree.<$FFFE>
- All units, move out!<$FFFE>
+You intend to fly above<$FFFC>the clouds, sir?<$FFFE>
+That's why I assembled<$FFFC>a unit trained to fly.<$FFFC>Better the storm than<$FFFC>the Demonic Cannon, no?<$FFFE>
+As you command.<$FFFE>
+All units, move out!<$FFFE>
 Investiture Hall<$FFFF>
-Diehärte Klaus,<$FFFC>I grant you the title<$FFFC>of knight.<$FFFE>
-…Diehärte Klaus.<$FFFC>Along with this title,<$FFFC>I bestow a new name<$FFFC>upon you as well.<$FFFE>
-From this day forth,<$FFFC>you shall be known as<$FFFC><$F600><$0000>.<$FFFE>
+…Diehärte Klaus.<$FFFC>I bestow upon you the<$FFFC>honored rank of knight.<$FFFE>
+…Diehärte Klaus.<$FFFC>Along with this title,<$FFFC>I bestow upon you too a<$FFFC>new name to bear.<$FFFE>
+From this day onward,<$FFFC><$F600><$0000><$FFFC>shall be your name.<$FFFE>
 Yes, sir!<$FFFC>I humbly accept.<$FFFE>
-<$F600><$0000>.<$FFFC>I hereby appoint you<$FFFC>a knight of Larcuss.<$FFFE>
-Serve your king<$FFFC>and protect the weak.<$FFFE>
+<$F600><$0000>.<$FFFC>Henceforth, as a knight,<$FFFC>go forth and serve our<$FFFC>kingdom of Larcuss.<$FFFE>
+Devote your strength to<$FFFC>your king and the weak.<$FFFE>
 Yes!<$FFFE>
 Congratulations on<$FFFC>your investiture!<$FFFE>
 Congratulations!<$FFFC>Truly, you've earned it!<$FFFE>
@@ -74,35 +73,35 @@ To honor our new knight,<$FFFC>a modest feast awaits.<$FFFC>All of you, please c
 Above the Castle<$FFFF>
 …It's about time.<$FFFE>
 Our spy says a knighting<$FFFC>ceremony is underway.<$FFFC>By now they should be<$FFFC>drunk on banquet wine.<$FFFE>
-We're uninvited guests?<$FFFC>Now we descend upon<$FFFC>the Castle! Move out!<$FFFE>
+Uninvited guests, then?<$FFFC>We descend on the Castle<$FFFC>now! Move out!<$FFFE>
 Sir!<$FFFE>
 Banquet Hall<$FFFF>
-You're a knight at last!<$FFFC>Now protect this castle<$FFFC>with Papa and Gerold.<$FFFE>
- Sure thing, Tiaris.<$FFFE>
-Well, everyone!<$FFFC>Today we have one more<$FFFC>happy thing to share.<$FFFE>
+Wow, you finally became<$FFFC>a real knight! Now you<$FFFC>protect this castle with<$FFFC>Papa and Gerold, okay?<$FFFE>
+Sure thing, Tiaris.<$FFFE>
+Well, everyone! Today<$FFFC>we have one more happy<$FFFC>thing to share.<$FFFE>
 Now then, Sir Gerold.<$FFFE>
- …Yes…<$FFFE>
+…Yes…<$FFFE>
 Layla and I have<$FFFC>decided to be married.<$FFFE>
- Ehhhhh! Really!?<$FFFE>
- It's true. Tiaris.<$FFFE>
- Aww, I am so jealous…<$FFFE>
-For today, only the<$FFFC>engagement is announced.<$FFFC>The formal date comes<$FFFC>when decided.<$FFFE>
-Your bond was famous.<$FFFC>Congratulations, Gerold.<$FFFC>Congratulations, Layla.<$FFFE>
- Thank you, <$F600><$0000>.<$FFFE>
+What?! Really!?<$FFFE>
+It's true, Tiaris.<$FFFE>
+Aww, I'm so jealous…<$FFFE>
+For today, we announce<$FFFC>only their engagement.<$FFFC>The wedding date we'll<$FFFC>share once it is set.<$FFFE>
+We all knew how close<$FFFC>you two were.<$FFFC>Congratulations, Gerold.<$FFFC>Congratulations, Layla.<$FFFE>
+<$F600><$0000>.<$FFFC>Thank you, truly.<$FFFE>
 Th-the enemy!<$FFFC>Rigüler flying troops<$FFFC>are attacking us!<$FFFE>
-!!<$FFFC>How many, and where?<$FFFE>
-2 or 3 flying troops,<$FFFC>from the western sky.<$FFFE>
-So few.<$FFFC>Too few even for ambush.<$FFFE>
-The west is a feint.<$FFFC>They'll lure us west,<$FFFC>then strike from east.<$FFFE>
+What?! How many, and<$FFFC>where?<$FFFE>
+It's two or three flying<$FFFC>troops, sir, coming in<$FFFC>from the western sky.<$FFFE>
+Just a handful of them…<$FFFC>Far too few, even for a<$FFFC>surprise raid.<$FFFE>
+The western move is a<$FFFC>feint. They'll lure us<$FFFC>west, then strike the<$FFFC>east with full force.<$FFFE>
 Indeed.<$FFFE>
-Everyone, the ceremony<$FFFC>is hereby adjourned.<$FFFC>Hurry to the ground!<$FFFE>
+Everyone, the ceremony<$FFFC>is over. Quickly, get<$FFFC>the guests away and down<$FFFC>to the ground far below!<$FFFE>
 Lord William!<$FFFC>I'll fight too!<$FFFE>
 With Tiaris, hold west.<$FFFC>Intercept the foes!<$FFFC>Your first real fight…<$FFFC>Stay sharp!<$FFFE>
 Gerold and I will head<$FFFC>to the east side!<$FFFE>
 Yes!<$FFFE>
- Gerold…<$FFFE>
+Gerold…<$FFFE>
 Be careful…my love…<$FFFE>
-All's well, don't worry.<$FFFE>
+I'll be fine,<$FFFC>don't worry.<$FFFE>
 Be careful, Papa!<$FFFE>
-…So, <$F600><$0000>.<$FFFC>Let's hurry too!<$FFFE>
- Right!<$FFFE><$FFFF>                 
+<$F600><$0000>, come!<$FFFC>We should hurry too!<$FFFE>
+Right!<$FFFE><$FFFF>

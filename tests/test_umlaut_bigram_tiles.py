@@ -114,13 +114,13 @@ class TestCustomUmlautBigramsPainted:
             f"duplicate slots in _CUSTOM_UMLAUT_BIGRAMS: {slots}"
         )
 
-    def test_all_slots_outside_cwx_range(self):
-        """User-defined contract: umlaut bigrams must live OUTSIDE the CWX
-        range (1500-1620), because the engine renders CWX tiles with
+    def test_all_slots_outside_grid_spaced_range(self):
+        """User-defined contract: umlaut bigrams must live OUTSIDE the 0.2 patch
+        range (1500-1620), because the engine renders 0.2 patch tiles with
         name-input-grid spacing that produces visible inter-tile gaps in
         dialogue text."""
         for pair, slot in _CUSTOM_UMLAUT_BIGRAMS.items():
             assert not (1500 <= slot <= 1620), (
-                f"bigram {pair!r} at slot {slot} is inside CWX range — "
+                f"bigram {pair!r} at slot {slot} is inside 0.2 patch range — "
                 f"this causes name-input spacing in dialogue ('Altemü ller')"
             )

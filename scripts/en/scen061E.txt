@@ -5,12 +5,12 @@ Sophia<$FFFF>
 Freya<$FFFF>
 Lewin<$FFFF>
 Silver Wolf<$FFFF>
-Blademaster Gilbert<$FFFF>
+Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
 Holy Beast Jugler<$FFFF>
-Archmage Jessica<$FFFF>
+Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
 Altemüller<$FFFF>
@@ -19,33 +19,33 @@ Emerick<$FFFF>
 Rigüler commander<$FFFF>
 Field Marshal Altemüller<$FFFF>
 Lushiris Southern Gate<$FFFF>
- Oh Gate…, may Lushiris sacred light fall upon you. To hold back the reawakened demonic forces, let your seal be renewed.<$FFFE>
- It has been done.<$FFFE>
- I suggest we go for the eastern gate next.<$FFFE>
- The area around Sage Fauvel's eastern gate has already been seized by the Empire.<$FFFE>
- That is the gate my father guards.<$FFFE>
- If my father has been taken by the Empire, then I too will lend my strength.<$FFFE>
+O Gate, blessed by the<$FFFC>light of Lushiris…<$FFFC>Bind the demon's power.<$FFFC>Open once more.<$FFFE>
+This place is safe now.<$FFFE>
+The east gate is next.<$FFFE>
+The area near Sage<$FFFC>Fauvel's eastern gate is<$FFFC>held by the Empire.<$FFFE>
+That is the gate that<$FFFC>my father guards.<$FFFE>
+If the Empire has taken<$FFFC>my father, then I too<$FFFC>will lend my strength.<$FFFE>
 …<$FFFE>
- What do you say?<$FFFE>
- Let's go everyone!<$FFFE>
- Don't push yourself, Sophia.<$FFFE>
- I'm counting on you, Sophia.<$FFFE>
- We have to release the gate.<$FFFE>
- Say nothing.<$FFFE>
- Alright! Let's go everyone!<$FFFE>
- I understand your worrying about your father. But don't let it get you down Sophia.<$FFFE>
- Of course, thank you for your concern.<$FFFE>
- This is a battle with the Empire. It surely won't be easy.<$FFFD>I'm counting on you, Sophia.<$FFFE>
- Yes, I shall do my best.<$FFFE>
- We have to act quickly now, or we may be to late to reinstate the Gate…<$FFFE>
- Come to think of it, I got that strange stone from the Shika chieftain.<$FFFD>Well, I may as well try using it… …<$FE1E>…<$FE1E>…<$FE1E>…<$FFFD>No, wait, I never asked how to use it. Oh well. I will just focus on it and hope for the best.<$FFFD>…<$FE14>…<$FE14>…<$FE14>…<$FE14>…<$FE14>…<$FFFE>
+What do you say?<$FFFE>
+Let's go everyone!<$FFFE>
+Don't push it, Sophia<$FFFE>
+Do your best, Sophia<$FFFE>
+We must open the gate<$FFFE>
+Say nothing.<$FFFE>
+Alright! Let's go,<$FFFC>everyone!<$FFFE>
+I know how worried you<$FFFC>are about your father.<$FFFC>But don't push too hard,<$FFFC>Sophia.<$FFFE>
+Thank you for your kind<$FFFC>concern.<$FFFE>
+This is a battle against<$FFFC>the Empire. It surely<$FFFC>will not be easy.<$FFFD>I am counting on you,<$FFFC>Sophia.<$FFFE>
+Yes, I'll do my best.<$FFFE>
+We've spent too long on<$FFFC>this one gate. We have<$FFFC>to open it, and fast…<$FFFE>
+Come to think of it, I<$FFFC>got that strange stone<$FFFC>from the Shika chief.<$FFFD>Well, I may as well give<$FFFC>it a try…<$FE1E><$FFFD>No, I never asked how to<$FFFC>use it. Oh well. I will<$FFFC>just will it and hope.<$FFFD>…<$FE14>…<$FE14>…<$FFFE>
 Altemüller's Private Chamber<$FFFF>
- Your Excellency!<$FFFE>
- Your injury has yet to heal entirely, Your Excellency.<$FFFD>You should rest a while longer…<$FFFE>
- Don't worry yourself.<$FFFD>How could I stay lazily in bed while everyone is fighting out there?<$FFFE>
- But I was ordered by General Varna to look after your health with utmost sincerity.<$FFFE>
- Heh, that's much like Varna.<$FFFE>
- The Colcia army was driven back by Lord Raymond, but now they are seeking a chance to attack our Empire, are they not?<$FFFE>
- Yes sir, that is what they say.<$FFFE>
- If we whittle down their forces here, future invasion of Colcia will be easier.<$FFFD>A fitting opponent for limbering up my stiffened body.<$FFFD>Let's go, prepare for departure!<$FFFE>
- Yes sir!<$FFFD>But please, take care not to push yourself too hard.<$FFFE>
+Your Excellency!<$FFFE>
+Your wound has<$FFFC>yet to fully heal, Your<$FFFC>Excellency.<$FFFD>You should rest a while<$FFFC>longer…<$FFFE>
+No need to worry.<$FFFD>How could I rest while<$FFFC>the others fight out<$FFFC>there?<$FFFE>
+But<$FFFC>General Varna charged me<$FFFC>to look after you with<$FFFC>the utmost care.<$FFFE>
+Heh. Varna does worry<$FFFC>too much.<$FFFE>
+Lord Raymond drove back<$FFFC>the Colcia army. But now<$FFFC>they look for a chance<$FFFC>to strike at our Empire.<$FFFE>
+Yes. It is just as you<$FFFC>say.<$FFFE>
+Thin out their forces<$FFFC>here and the next push<$FFFC>into Colcia grows far<$FFFC>easier.<$FFFD>A fitting foe to loosen<$FFFC>my rusty limbs.<$FFFD>Move out! Prepare to<$FFFC>sortie!<$FFFE>
+Yes sir!<$FFFD>Please, take<$FFFC>the greatest care not to<$FFFC>overexert yourself.<$FFFE><$FFFF>
