@@ -6,7 +6,10 @@ The repository ships only source: you build the patched game from your own Japan
 (see the [README](README.md)). No copyrighted game data is included. Format loosely
 follows [Keep a Changelog](https://keepachangelog.com/); dates are `YYYY-MM-DD`.
 
-## [Unreleased]
+## [0.7.1] - 2026-08-05
+
+Bugfix release. The patcher works on a plain Python again, and it can now build the
+English-subtitled opening from your own disc. No text or gameplay changes versus v0.7.
 
 ### Added
 - The patcher can now build the English-subtitled opening movie itself: run it with
