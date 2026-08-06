@@ -75,6 +75,22 @@ AUDIO_SYNC = 0xFFFFFFFF          # info1 marker for an audio sample
 NOT_SYNC_FLAG = 0x80000000       # info1 bit31 set => video delta frame (not keyframe)
 
 
+def ff_filter_path(path) -> str:
+    """Quote a filesystem path for use INSIDE an ffmpeg filtergraph.
+
+    A filtergraph parses ':' as an option separator and '\\' as an escape, so a
+    Windows path (C:\\Users\\me\\fonts) has to become C\\:/Users/me/fonts.
+    POSIX paths pass through unchanged.
+    """
+    return str(path).replace("\\", "/").replace(":", r"\:")
+
+
+def subtitles_filter(ass_name: str, fontsdir) -> str:
+    """The `subtitles=` filter. The .ass is referenced by bare filename (ffmpeg
+    runs with cwd set to its directory), the fonts dir cannot be."""
+    return f"subtitles={ass_name}:fontsdir={ff_filter_path(fontsdir)}"
+
+
 def _split_samples(data: bytes):
     """Return (data_section_offset, [(off, size, info1, info2), ...]) for a FILM."""
     hdr_size = struct.unpack(">I", data[4:8])[0]
@@ -306,7 +322,7 @@ def build_movie_cpk(
         # genuine motion-compensated interpolation (source is natively 15fps)
         parts.append(
             f"minterpolate=fps={fps}:mi_mode=mci:mc_mode=aobmc:vsbmc=1")
-    parts.append(f"subtitles={ass.name}:fontsdir={FONTS_DIR}")
+    parts.append(subtitles_filter(ass.name, FONTS_DIR))
     parts.append("format=rgb24")
     vf = ",".join(parts)
     # ffmpeg writes a scratch CPK; we then re-wrap it into the Saturn-exact

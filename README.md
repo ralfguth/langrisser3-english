@@ -30,8 +30,9 @@ A work-in-progress English translation patch for *Langrisser III* (Sega Saturn, 
 
 You need:
 
-- **Python 3.10+** (check with `python3 --version`) — nothing else to install: the build uses only the standard library. The optional [opening-movie step](#the-opening-movie) is the one exception; it needs ffmpeg.
+- **Python 3.10+** (check with `python3 --version`). The build itself uses only the standard library : no `pip install`, no packages to add.
 - **Your own Japanese *Langrisser III* disc image** : a folder with a `.cue` file, the Track 01 data `.bin`, and the audio track `.bin` files. This patch requires the original disc; no game data is distributed here.
+- **[ffmpeg](https://ffmpeg.org/download.html)** : required to patch the opening movie (`--encode-movie`). Not needed for anything else.
 
 ### Source ISO
 
@@ -69,7 +70,7 @@ The opening FMV is game data, so no video ships here : only its English subtitle
 python3 build.py --jp-iso "/path/to/Langrisser III (Japan)" --encode-movie
 ```
 
-This needs [ffmpeg](https://ffmpeg.org/download.html) on your PATH and can take a while : burning the subtitles re-encodes the whole movie. Without the flag your disc keeps the Japanese opening; everything else is unaffected.
+Requires ffmpeg, and can take a while. Without the flag your disc keeps the Japanese opening.
 
 The encoder lives in [`tools/movie_tools.py`](tools/movie_tools.py) and is developed as a standalone, game-agnostic tool in [**saturn-cinepak-muxer**](https://github.com/ralfguth/saturn-cinepak-muxer), where the write-up on making Cinepak FMV play on real Saturn hardware also lives.
 

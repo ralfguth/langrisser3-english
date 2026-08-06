@@ -273,10 +273,22 @@ def build_arg_parser():
     return parser
 
 
+def preflight(args) -> None:
+    """Check everything an option needs BEFORE any disc work starts.
+
+    A missing tool must stop the build in the first second, not two minutes in
+    with a half-built image — that was issue #7's whole complaint.
+    """
+    if args.encode_movie:
+        import movie_tools
+        movie_tools.require_ffmpeg()
+
+
 def main():
     import os
     parser = build_arg_parser()
     args = parser.parse_args()
+    preflight(args)
     lang_display = LANGUAGES[args.lang]
     SCRIPTS_DIR = SCRIPT_DIR / 'scripts' / args.lang
     # The image ships as a self-contained folder named after the .cue: e.g.

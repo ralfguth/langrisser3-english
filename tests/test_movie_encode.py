@@ -167,3 +167,38 @@ def test_encoded_cpk_is_saturn_shaped(movie_tools, tmp_path):
             capture_output=True, text=True, check=True).stdout.strip()
 
     assert audio_stream(out) == audio_stream(jp_cpk), "JP voice track must survive"
+
+
+def test_missing_ffmpeg_is_caught_before_the_build_starts(monkeypatch):
+    """Red state (first cut of --encode-movie): the ffmpeg check only ran when
+    the movie step was reached, ~2 minutes in — the same 'works for a while,
+    then dies' shape as issue #7. The check belongs in the preflight, before
+    any disc work."""
+    build = importlib.import_module("build")
+    movie_tools = importlib.import_module("movie_tools")
+    monkeypatch.setattr(movie_tools.shutil, "which", lambda name: None)
+    args = build.build_arg_parser().parse_args(["--encode-movie"])
+    with pytest.raises(RuntimeError, match="(?i)ffmpeg"):
+        build.preflight(args)
+    # ...and a build that does not touch the movie must not require it.
+    build.preflight(build.build_arg_parser().parse_args([]))
+
+
+# --- Windows portability ------------------------------------------------------
+
+def test_fontsdir_is_escaped_for_the_filtergraph(movie_tools):
+    """Red state: the subtitles filter got the fonts directory as a raw absolute
+    path. On Windows that is 'C:\\...\\data\\fonts', and inside an ffmpeg
+    filtergraph both ':' and '\\' are escape characters — the filter fails to
+    parse and --encode-movie dies on the one platform most users are on.
+    POSIX paths must stay byte-identical."""
+    assert movie_tools.ff_filter_path("/home/x/data/fonts") == "/home/x/data/fonts"
+    assert (movie_tools.ff_filter_path(r"C:\Users\me\data\fonts")
+            == r"C\:/Users/me/data/fonts")
+
+
+def test_subtitles_filter_uses_the_escaped_path(movie_tools):
+    """The escaping has to be wired into the filter the encoder actually runs,
+    not just available as a helper."""
+    f = movie_tools.subtitles_filter("opening_en.pixel.ass", r"C:\fonts")
+    assert f == r"subtitles=opening_en.pixel.ass:fontsdir=C\:/fonts"
