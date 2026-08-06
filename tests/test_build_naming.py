@@ -180,3 +180,17 @@ def test_stamp_roundtrips_into_build_naming(tmp_path):
             patch.object(build, 'SCRIPT_DIR', tmp_path):
         name = build._resolve_canonical_cue_name('English')
     assert name == 'Langrisser III (English v0.7.0).cue'
+
+
+def test_branch_with_slash_stays_one_filename():
+    """Red state (2026-08-05): a branch like 'fix/issue7-pillow-optional' put a
+    '/' straight into the .cue name, so build.py wrote
+    build/'Langrisser III (English v0.7+fix'/'issue7-pillow-optional).cue' —
+    a nested directory, a mangled cue name and no audio tracks beside it.
+    Slashes must collapse to '-' so the output stays a single folder."""
+    stub = _fake_check_output(latest_tag='v0.7.0', head_tags=[],
+                              branch='fix/issue7-pillow-optional')
+    with patch('subprocess.check_output', stub):
+        name = build._resolve_canonical_cue_name('English')
+    assert '/' not in name and '\\' not in name, name
+    assert name == 'Langrisser III (English v0.7.0+fix-issue7-pillow-optional).cue'

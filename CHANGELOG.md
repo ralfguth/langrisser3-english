@@ -8,11 +8,19 @@ follows [Keep a Changelog](https://keepachangelog.com/); dates are `YYYY-MM-DD`.
 
 ## [Unreleased]
 
+### Added
+- The patcher can now build the English-subtitled opening movie itself: run it with
+  `--encode-movie` and it takes the movie off your own disc, burns the subtitles in, and
+  puts it back. It needs the free ffmpeg tool installed and can take a while, so it only
+  runs when you ask for it. Without the flag your disc keeps the Japanese opening, exactly
+  as before. ([#6])
+
 ### Fixed
 - Building the patch no longer needs the Pillow imaging package. In 0.7.0 the build ran
   almost to the end and then stopped with "No module named 'PIL'" unless you had it
   installed; now a plain Python 3 is enough, as the README always said. ([#7])
 
+[#6]: https://github.com/ralfguth/langrisser3-english/issues/6
 [#7]: https://github.com/ralfguth/langrisser3-english/issues/7
 
 ## [0.7.0] - 2026-07-06
