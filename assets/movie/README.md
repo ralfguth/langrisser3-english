@@ -1,31 +1,40 @@
-# Opening movie (LANG/LANG.CPK) — drop point
+# Opening movie (LANG/LANG.CPK)
 
-This directory is the **drop point** for the opening FMV. `build.py` injects
-`LANG.CPK` into the disc when it is present (the `movie` module, on by default);
-if it is absent, the build ships the Japanese opening unchanged. The only sanity
-check here is that the file is a Sega FILM container (`magic == 'FILM'`).
+The opening FMV is game data, so this directory holds only **`opening_en.srt`**,
+the English subtitle track (ours, committed). The video itself is never
+distributed here.
 
-- `LANG.CPK` — the encoded, English-subtitled movie. **Not committed** (~17 MB
-  binary; this repo tracks no media). Place it here to ship it.
+## Building the English opening
 
-## The patch does not generate the movie
+`python3 build.py --encode-movie` reads `LANG/LANG.CPK` off the user's own disc,
+burns `opening_en.srt` into it, and injects the result (needs `ffmpeg`). It is
+slow — the whole movie is re-encoded through a single-threaded Cinepak
+encoder. The
+encoder is `tools/movie_tools.py`; the Japanese audio is reused verbatim, and the
+output clones the JP container exactly — Sega FILM 1.08, timebase 30, audio-first
+priming, exactly 2 Cinepak strips per frame, every chunk 4-byte aligned. Anything
+less black-screens or resets on real hardware (the SH-2 Cinepak decoder faults on
+misaligned reads); ffmpeg's own `film_cpk` layout does **not** play.
 
-Encoding lives in its own project — **`../saturn-cinepak-muxer`** (its own git
-repo). That is where the encoder, the subtitle `.srt`, the upscaled source, the
-JP template, and the reverse-engineering write-up live. The patch only *consumes*
-the finished `.CPK`.
+The CPK is streamed off the disc, so its bitrate must stay under the Saturn's 2×
+CD read speed (~2.46 Mbit/s): 15 fps (~1.6 Mbit/s) streams cleanly, 30 fps
+over-streams and stutters. Resolution is fixed at 320×224.
 
-To (re)generate and ship:
+`--movie-source path.mp4` encodes from a cleaner master of the same 84-second
+opening instead of the disc's already-compressed Cinepak — sharper picture,
+everything else identical. This is how the release builds are made.
 
-```bash
-cd ../saturn-cinepak-muxer && ./build.sh         # writes media/LANG.CPK (15fps)
-cp media/LANG.CPK ../langrisser3-english/assets/movie/LANG.CPK
-cd ../langrisser3-english && python3 build.py    # injects it into the disc
-```
+## Drop point for a prebuilt CPK
 
-The current `LANG.CPK` here is the 15 fps build, **confirmed playing on real
-Saturn (Saroo)**: Cinepak 320×224, 2 strips, 4-byte aligned, JP audio verbatim,
-Eagle III pixel-exact subtitles. (The encoder caps the bitrate under the Saturn's
-2× CD read speed; 30 fps over-streams and stutters — see the muxer's README.)
+Without `--encode-movie`, the build injects `LANG.CPK` from this directory if it
+is here (magic must be `FILM`), and otherwise ships the Japanese opening. The
+file is **not committed** (~17 MB of game-derived video). Use `LANG3_MOVIE_CPK`
+to point at one elsewhere, or `LANG3_DISABLE=movie` to force the JP opening.
 
-To disable the English movie for a build: `LANG3_DISABLE=movie python3 build.py`.
+## Upstream
+
+The encoder is developed as a standalone, game-agnostic tool in
+[**saturn-cinepak-muxer**](https://github.com/ralfguth/saturn-cinepak-muxer),
+together with the reverse-engineering write-up on making Cinepak FMV play on real
+Saturn hardware. `tools/movie_tools.py` is the vendored copy the patch builds
+with — fixes belong upstream first.

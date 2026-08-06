@@ -6,6 +6,23 @@ The repository ships only source: you build the patched game from your own Japan
 (see the [README](README.md)). No copyrighted game data is included. Format loosely
 follows [Keep a Changelog](https://keepachangelog.com/); dates are `YYYY-MM-DD`.
 
+## [Unreleased]
+
+### Added
+- The patcher can now build the English-subtitled opening movie itself: run it with
+  `--encode-movie` and it takes the movie off your own disc, burns the subtitles in, and
+  puts it back. **ffmpeg is required to patch the movie**, and it can take a while, so it
+  only runs when you ask for it, and so far it has only been tested on Linux. Without the
+  flag your disc keeps the Japanese opening, exactly as before. ([#6])
+
+### Fixed
+- Building the patch no longer needs the Pillow imaging package. In 0.7.0 the build ran
+  almost to the end and then stopped with "No module named 'PIL'" unless you had it
+  installed; now a plain Python 3 is enough, as the README always said. ([#7])
+
+[#6]: https://github.com/ralfguth/langrisser3-english/issues/6
+[#7]: https://github.com/ralfguth/langrisser3-english/issues/7
+
 ## [0.7.0] - 2026-07-06
 
 The whole game, interface included, is now playable in English. The dialogue was revised
