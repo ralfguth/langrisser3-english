@@ -12,8 +12,8 @@ follows [Keep a Changelog](https://keepachangelog.com/); dates are `YYYY-MM-DD`.
 - The patcher can now build the English-subtitled opening movie itself: run it with
   `--encode-movie` and it takes the movie off your own disc, burns the subtitles in, and
   puts it back. **ffmpeg is required to patch the movie**, and it can take a while, so it
-  only runs when you ask for it. Without the flag your disc keeps the Japanese opening,
-  exactly as before. ([#6])
+  only runs when you ask for it, and so far it has only been tested on Linux. Without the
+  flag your disc keeps the Japanese opening, exactly as before. ([#6])
 
 ### Fixed
 - Building the patch no longer needs the Pillow imaging package. In 0.7.0 the build ran

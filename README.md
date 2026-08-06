@@ -72,6 +72,8 @@ python3 build.py --jp-iso "/path/to/Langrisser III (Japan)" --encode-movie
 
 Requires ffmpeg, and can take a while. Without the flag your disc keeps the Japanese opening.
 
+> **Note**: the movie step has only been tested on Linux. It should work anywhere ffmpeg does, but Windows and macOS are unverified : reports welcome.
+
 The encoder lives in [`tools/movie_tools.py`](tools/movie_tools.py) and is developed as a standalone, game-agnostic tool in [**saturn-cinepak-muxer**](https://github.com/ralfguth/saturn-cinepak-muxer), where the write-up on making Cinepak FMV play on real Saturn hardware also lives.
 
 ### Compatibility
