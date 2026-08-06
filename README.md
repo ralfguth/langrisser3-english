@@ -34,7 +34,7 @@ Version 0.7 is a radical step up in quality: the patch is now fully self-contain
 
 You need:
 
-- **Python 3.10+** (check with `python3 --version`)
+- **Python 3.10+** (check with `python3 --version`) — nothing else to install: the build uses only the standard library
 - **Your own Japanese *Langrisser III* disc image** : a folder with a `.cue` file, the Track 01 data `.bin`, and the audio track `.bin` files. This patch requires the original disc; no game data is distributed here.
 
 ### Source ISO

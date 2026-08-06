@@ -32,6 +32,11 @@ import struct
 from dataclasses import dataclass
 from typing import List
 
+try:                                  # imported both as `title_dg2` and `tools.title_dg2`
+    from . import png_indexed
+except ImportError:
+    import png_indexed
+
 # --- container layout ---
 HEADER_COUNT_OFF = 0
 RES0_OFFSET = 0x24
@@ -202,14 +207,12 @@ def repack(blobs: List[bytes]) -> bytes:
 
 
 def _read_indexed_png(path: str):
-    from PIL import Image
+    """(width, height, pixels) — pixels[x, y] is a palette index.
 
-    im = Image.open(path)
-    if im.mode != "P":
-        raise ValueError(f"{path}: expected an indexed (mode 'P') PNG")
-    w, h = im.size
-    px = im.load()
-    return w, h, px
+    Decoded with the stdlib (tools/png_indexed.py), NOT Pillow: the build must
+    run on a bare Python 3 (issue #7 — v0.7.0 crashed here at step 6 on any
+    machine without Pillow, after five successful steps)."""
+    return png_indexed.read_indexed_png(path)
 
 
 def apply_footer_indexed(dg2: bytes, indexed_png_path: str,
@@ -269,15 +272,9 @@ PRESERVED_PALETTE_SLOTS = 9
 
 
 def _indexed_png_palette(path: str):
-    """The (R,G,B) palette (256 entries, zero-padded) of an indexed PNG."""
-    from PIL import Image
-
-    im = Image.open(path)
-    if im.mode != "P":
-        raise ValueError(f"{path}: expected an indexed (mode 'P') PNG")
-    pal = list(im.getpalette() or [])
-    pal += [0] * (768 - len(pal))
-    return [(pal[i * 3], pal[i * 3 + 1], pal[i * 3 + 2]) for i in range(256)]
+    """The (R,G,B) palette (256 entries, zero-padded) of an indexed PNG.
+    Stdlib decode — see _read_indexed_png."""
+    return png_indexed.read_indexed_palette(path)
 
 
 def apply_full_logo(dg2: bytes, indexed_png_path: str) -> bytes:

@@ -6,6 +6,15 @@ The repository ships only source: you build the patched game from your own Japan
 (see the [README](README.md)). No copyrighted game data is included. Format loosely
 follows [Keep a Changelog](https://keepachangelog.com/); dates are `YYYY-MM-DD`.
 
+## [Unreleased]
+
+### Fixed
+- Building the patch no longer needs the Pillow imaging package. In 0.7.0 the build ran
+  almost to the end and then stopped with "No module named 'PIL'" unless you had it
+  installed; now a plain Python 3 is enough, as the README always said. ([#7])
+
+[#7]: https://github.com/ralfguth/langrisser3-english/issues/7
+
 ## [0.7.0] - 2026-07-06
 
 The whole game, interface included, is now playable in English. The dialogue was revised
